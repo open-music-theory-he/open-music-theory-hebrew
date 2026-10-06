@@ -1,66 +1,70 @@
 ---
 layout: post
-title: Protonotation
+title: תיווי מקדים
+translation_status: language-reviewed
+translation_batch: 1
 ---
 
-*Protonotation* is a system of musical notation stripped of complicating elements, and focusing only on basic elements of meter, rhythm, and scale degree. (This system is drawn from Gary Karpinski's *Manual for Ear Training and Sight Singing*.) Following is an example melody in both standard notation and protonotation (click images to view full size).
+*תיווי מקדים (protonotation)* הוא שיטת תיווי מוזיקלי שמסירה מרכיבים מסבכים ומתמקדת ביסודות של משקל, מקצב ודרגות הסולם. השיטה מבוססת על הספר *Manual for Ear Training and Sight Singing* של Gary Karpinski. להלן מנגינה לדוגמה, בתיווי רגיל ובתיווי מקדים. לחצו על התמונות להצגתן בגודל מלא.
 
-[![]({{ site.url }}/Graphics/protonotation/demoMel.png)]({{ site.url }}/Graphics/protonotation/demoMel.png)
+[![מנגינה בתיווי מקדים]({{ site.url }}/Graphics/protonotation/demoMel.png)]({{ site.url }}/Graphics/protonotation/demoMel.png)
 
-[![]({{ site.url }}/Graphics/protonotation/demoMelStaff.png)]({{ site.url }}/Graphics/protonotation/demoMelStaff.png)
+[![אותה מנגינה בתיווי רגיל]({{ site.url }}/Graphics/protonotation/demoMelStaff.png)]({{ site.url }}/Graphics/protonotation/demoMelStaff.png)
 
-Note that protonotation does not contain information about *tonic*, nor the *duration of the beat* (nor, by extension, the bottom number of the time signatures). It only represents the pitch and rhythm elements that can be heard by someone without absolute pitch: meter, rhythm, and scale degree. (Mode—major or minor—can be inferred from the scale degrees.) Since it only represents what can be heard, without any additional notational factors, it is a helpful system for practicing rhythmic dictation, melodic dictation, and sight-singing.
+התיווי המקדים אינו כולל מידע על גובה *הטוניקה* או על *ערך התו המייצג את הפעימה*, וממילא גם לא על המספר התחתון בסימן המשקל. הוא מייצג רק את מרכיבי הגובה והמקצב שאדם ללא שמיעה מוחלטת יכול לזהות בהאזנה: משקל, מקצב ודרגות הסולם. את המודוס — מז׳ור או מינור — אפשר להסיק מדרגות הסולם. מכיוון שהוא מייצג את מה שאפשר לשמוע, בלי להוסיף פרטי תיווי נוספים, הוא מועיל לתרגול הכתבה קצבית, הכתבה מלודית ושירה מן הדף.
 
-## Elements of protonotation ##
+## מרכיבי התיווי המקדים
 
-Following are blank protonotation grids for duple, triple, and quadruple meters.
+להלן רשתות ריקות לתיווי מקדים במשקלים דו־פעימתי, תלת־פעימתי וארבע־פעימתי.
 
-*Duple meter:*  
-![Duple meter.]({{ site.url }}/Graphics/protonotation/duple.png)  
+*משקל דו־פעימתי:*  
+![משקל דו־פעימתי.]({{ site.url }}/Graphics/protonotation/duple.png)
 
-*Triple meter:*  
-![Triple meter.]({{ site.url }}/Graphics/protonotation/triple.png)  
+*משקל תלת־פעימתי:*  
+![משקל תלת־פעימתי.]({{ site.url }}/Graphics/protonotation/triple.png)
 
-*Quadruple meter:*  
-![Quadruple meter.]({{ site.url }}/Graphics/protonotation/quadruple.png)  
+*משקל ארבע־פעימתי:*  
+![משקל ארבע־פעימתי.]({{ site.url }}/Graphics/protonotation/quadruple.png)
 
-In duple and triple meter, downbeats are represented by longer vertical lines, and weak beats are represented by shorter vertical lines. In quadruple meter, the third beat of each bar is of medium strength, so it is represented by a medium-length line.
+במשקל דו־פעימתי ובמשקל תלת־פעימתי, הפעימות הראשונות בתיבה מסומנות בקווים אנכיים ארוכים, והפעימות החלשות בקווים אנכיים קצרים. במשקל ארבע־פעימתי, הפעימה השלישית בכל תיבה היא בעלת עוצמה בינונית, ולכן היא מסומנת בקו באורך בינוני.
 
-Notes are notated by using horizontal lines for rhythmic duration and moveable-*do* solfège syllables for scale degree. Arrows are used to denote the direction of any melodic leaps. (Arrows are not necessary for stepwise progressions.)
+התווים מסומנים בקווים אופקיים המייצגים את המשך הקצבי, ובהברות סולפז׳ של דו נייד המייצגות את דרגת הסולם. חיצים מציינים את הכיוון של קפיצות מלודיות; אין צורך בחיצים כאשר המנגינה מתקדמת בצעדים.
 
-Rests are represented by the lack of horizonal line in a given beat or part of a beat. When using protonotation for transcription or dictation, however, it can be helpful to use an **X** instead of a blank, so you can distinguish a rest you are sure about from a part of the music you have left blank because you have not yet determined what is going on at that moment.
+הפסקות מיוצגות בהיעדר קו אופקי בפעימה או בחלק ממנה. עם זאת, בתעתוק או בהכתבה, כדאי לעיתים לכתוב **X** במקום להשאיר רווח, כדי להבחין בין הפסקה שזוהתה בוודאות לבין חלק שהושאר ריק משום שעדיין לא זוהה מה נשמע בו.
 
-## Converting protonotation to staff notation ##
+## המרה מתיווי מקדים לתיווי על חמשה
 
-Protonotation is not enough to produce staff notation. However, if you know 1) the clef, 2) the tonic pitch, and 3) either the beat duration or bottom number of the time signature, you can convert it to staff notation easily.
+התיווי המקדים לבדו אינו מספיק לכתיבה על חמשה. אולם אם ידועים 1) המפתח, 2) גובה הטוניקה ו־3) ערך התו של הפעימה או המספר התחתון בסימן המשקל, אפשר לבצע את ההמרה בקלות.
 
-First, draw the clef provided (or choose an appropriate one based on your perception of the register of the melody) and determine the key signature from the tonic provided and the mode you heard. (Look through your melody for *mi* v. *me*.)
+תחילה כותבים את המפתח הנתון, או בוחרים מפתח מתאים לפי הרגיסטר הנשמע של המנגינה, וקובעים את סימני הסולם לפי הטוניקה הנתונה והמודוס ששמעתם. חפשו במנגינה את ההבחנה בין *mi* לבין *me*.
 
-Then, determine the time signature from the beat value/bottom number provided and from the meter refelected in your protonotation. (Review [the relationship of meter to time signature](meter.html), if necessary.) If no bottom number is provided, choose a convenient one (**4** for simple meters and **8** for compound meters are the most typical).
+לאחר מכן קובעים את סימן המשקל לפי ערך הפעימה או המספר התחתון שניתנו ולפי המשקל המשתקף בתיווי המקדים. במידת הצורך, חזרו על [הקשר בין משקל לסימן המשקל](meter.html). אם לא נתון מספר תחתון, בחרו מספר נוח: **4** במשקלים פשוטים ו־**8** במשקלים מורכבים הם הבחירות הנפוצות ביותר.
 
-Next, each of the long protonotation lines become barlines in staff notation.
+כעת, כל אחד מן הקווים האנכיים הארוכים בתיווי המקדים נעשה קו תיבה בתיווי על החמשה.
 
-Finally insert the notes into each bar. The register, solfège syllable, and tonic will determine the pitch class. The rhythmic value will be determined by the duration of the note in beats and what the time signature implies about the duration of the beat, For example, a two-beat note in 4/4 is a half note (2 x quarter-note beat); in 2/2 is a whole note (2 x half-note beat); in 9/8 is a dotted half note (2 x dotted-quarter-note beat); and in 6/4 is a dotted whole note (2 x dotted-half-note beat).
+לבסוף מוסיפים את התווים בכל תיבה. הרגיסטר, הברת הסולפז׳ והטוניקה קובעים את גובה הצליל. הערך הקצבי נקבע לפי מספר הפעימות שהתו נמשך ולפי ערך הפעימה המשתמע מסימן המשקל. לדוגמה, תו הנמשך שתי פעימות הוא חצי ב־4/4, כי כל פעימה היא רבע; שלם ב־2/2, כי כל פעימה היא חצי; חצי מנוקד ב־9/8, כי כל פעימה היא רבע מנוקד; ושלם מנוקד ב־6/4, כי כל פעימה היא חצי מנוקד.
 
-Following are additional examples.
+להלן דוגמאות נוספות.
 
-**Example 1.**  
-[![]({{ site.url }}/Graphics/protonotation/dupleMel.png)]({{ site.url }}/Graphics/protonotation/dupleMel.png)
+**דוגמה 1.**  
+[![תיווי מקדים במשקל דו־פעימתי]({{ site.url }}/Graphics/protonotation/dupleMel.png)]({{ site.url }}/Graphics/protonotation/dupleMel.png)
 
-Bass clef, tonic: G, bottom number: 8.  
-[![]({{ site.url }}/Graphics/protonotation/duple-G.png)]({{ site.url }}/Graphics/protonotation/duple-G.png)
+מפתח פה, טוניקה: G, מספר תחתון: 8.  
+[![המרת הדוגמה למפתח פה]({{ site.url }}/Graphics/protonotation/duple-G.png)]({{ site.url }}/Graphics/protonotation/duple-G.png)
 
-Alto clef, tonic: B-flat, bottom number: 4.
-[![]({{ site.url }}/Graphics/protonotation/duple-Bb.png)]({{ site.url }}/Graphics/protonotation/duple-Bb.png)
+מפתח דו של אלט, טוניקה: B במול, מספר תחתון: 4.  
+[![המרת הדוגמה למפתח דו של אלט]({{ site.url }}/Graphics/protonotation/duple-Bb.png)]({{ site.url }}/Graphics/protonotation/duple-Bb.png)
 
-**Example 2.**  
-[![]({{ site.url }}/Graphics/protonotation/quadrupleMel.png)]({{ site.url }}/Graphics/protonotation/quadrupleMel.png)
+**דוגמה 2.**  
+[![תיווי מקדים במשקל ארבע־פעימתי]({{ site.url }}/Graphics/protonotation/quadrupleMel.png)]({{ site.url }}/Graphics/protonotation/quadrupleMel.png)
 
-Treble clef, tonic: E-flat, bottom number: 4.  
-[![]({{ site.url }}/Graphics/protonotation/quadruple-Es.png)]({{ site.url }}/Graphics/protonotation/quadruple-Es.png)
+מפתח סול, טוניקה: E במול, מספר תחתון: 4.  
+[![המרת הדוגמה למפתח סול]({{ site.url }}/Graphics/protonotation/quadruple-Es.png)]({{ site.url }}/Graphics/protonotation/quadruple-Es.png)
 
-Tenor clef, tonic: C-sharp, bottom number: 8.
-[![]({{ site.url }}/Graphics/protonotation/quadruple-Cis.png)]({{ site.url }}/Graphics/protonotation/quadruple-Cis.png)
+מפתח דו של טנור, טוניקה: C דיאז, מספר תחתון: 8.  
+[![המרת הדוגמה למפתח דו של טנור]({{ site.url }}/Graphics/protonotation/quadruple-Cis.png)]({{ site.url }}/Graphics/protonotation/quadruple-Cis.png)
 
-Bass clef, tonic: F, bottom number: 1.
-[![]({{ site.url }}/Graphics/protonotation/quadruple-F.png)]({{ site.url }}/Graphics/protonotation/quadruple-F.png)
+מפתח פה, טוניקה: F, מספר תחתון: 1.  
+[![המרת הדוגמה למפתח פה וטוניקה F]({{ site.url }}/Graphics/protonotation/quadruple-F.png)]({{ site.url }}/Graphics/protonotation/quadruple-F.png)
+
+> **הערת המהדורה העברית:** במקור נכתב שהרגיסטר, הסולפז׳ והטוניקה קובעים מחלקת גובה; כאן הובהר שהם קובעים גובה צליל, מפני שהרגיסטר כולל גם את האוקטבה. כאן ״משך הפעימה״ במקור מתייחס לערך התו שלה בתיווי, ולא למהירות הביצוע בשניות. שמות הסולפז׳ הם יחסיים; ראו [דו קבוע ודו נייד](fixed-and-movable-do.html).

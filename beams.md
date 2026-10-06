@@ -1,27 +1,30 @@
 ---
 layout: post
-title: Beams and borrowed divisions
+title: קורות וחלוקות קצב שאולות
+translation_status: language-reviewed
+translation_batch: 1
 ---
-### Beams ###
 
-It's important to remember that notation is intended to be read by performers. You should always strive to make your notation as easy to interpret as possible. Part of this includes grouping the rhythms such that they convey the beat unit and the beat division. *Beams* are used to group any notes at the beat division level or shorter that fall within the same beat. 
+### קורות
 
-In this example, the eighth notes are not grouped with beams, making it difficult to interpret the triple meter. 
+חשוב לזכור שהתיווי מיועד לקריאה בידי המבצעים. יש לשאוף תמיד לתיווי שקל ככל האפשר לפענח. לשם כך, בין השאר, מקבצים את המקצבים באופן שמבהיר את יחידת הפעימה ואת חלוקתה. *קורות (beams)* מחברות לקבוצות תווים באורך חלוקת הפעימה או קצרים יותר, הנמצאים בתוך אותה פעימה.
 
-<a href="Graphics/withoutbeams.png"><img src="Graphics/withoutbeams.png" width="70%"></a>
+בדוגמה זו, השמיניות אינן מחוברות בקורות, ולכן קשה לזהות את המשקל התלת־פעימתי.
 
-If we re-notate the above example so that the notes that fall within the same beat are grouped together with a beam, it makes the music much easier to read. 
+<a href="Graphics/withoutbeams.png"><img src="Graphics/withoutbeams.png" width="70%" alt="שמיניות ללא קורות במשקל תלת־פעימתי"></a>
 
-<a href="Graphics/beams.png"><img src="Graphics/beams.png" width="70%"></a>
+אם נכתוב מחדש את אותה דוגמה ונחבר בקורה את התווים הנמצאים באותה פעימה, יהיה קל הרבה יותר לקרוא את המוזיקה.
 
-### Borrowed divisions ###
+<a href="Graphics/beams.png"><img src="Graphics/beams.png" width="70%" alt="אותן שמיניות מקובצות לפי הפעימות"></a>
 
-Typically, a meter is defined by the presence of a consistent beat division: division by two in simple meter, and by three in compound meter. Occasionally, composers will use a triple division of the beat in a simple meter, or a duple division of the beat in a compound meter. 
+### חלוקות קצב שאולות
 
-*Triplets* are borrowed from compound meter, and may occur at both the beat division and subdivision levels, as seen below.
+בדרך כלל, משקל מתאפיין בחלוקה עקבית של הפעימה: לשניים במשקל פשוט ולשלושה במשקל מורכב. לעיתים מלחינים משתמשים בחלוקה לשלושה בתוך משקל פשוט, או בחלוקה לשניים בתוך משקל מורכב.
 
-<a href="Graphics/triplets.png"><img src ="Graphics/triplets.png" width="70%"></a>
+*טריולות (triplets)* שואלות את החלוקה מן המשקל המורכב, ויכולות להופיע גם ברמת חלוקת הפעימה וגם ברמת חלוקת המשנה, כפי שמודגם להלן.
 
-Likewise, *duplets* can be imported from simple meter into a compound meter.
+<a href="Graphics/triplets.png"><img src="Graphics/triplets.png" width="70%" alt="דוגמאות לטריולות"></a>
 
-<a href="Graphics/duplets.png"><img src="Graphics/duplets.png" width="70%"></a>
+באותו אופן, אפשר לשאול מן המשקל הפשוט *דואולות (duplets)* — חלוקה לשניים במקום לשלושה — ולהשתמש בהן במשקל מורכב.
+
+<a href="Graphics/duplets.png"><img src="Graphics/duplets.png" width="70%" alt="דוגמאות לדואולות"></a>

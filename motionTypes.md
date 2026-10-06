@@ -1,30 +1,29 @@
 ---
 layout: post
-title: Types of contrapuntal motion
+title: סוגי תנועה קונטרפונקטית
+translation_status: language-reviewed
+translation_batch: 1
 ---
 
+יש ארבעה סוגי תנועה קונטרפונקטית בין שני קווים מוזיקליים. ההבחנה ביניהם חיונית להולכת קולות טובה, קפדנית וחופשית כאחת.
 
-There are four types of contrapuntal motion between two musical lines. Differentiating these four types of motion is essential to generating good voice-leading, both strict and free.
+ב*תנועה מקבילה (parallel motion)*, שני הקולות נעים באותו כיוון ובאותו מרווח לפי מספרו הדיאטוני. למשל, שני הקולות בדוגמה הבאה עולים בצעד. שימו לב שגם שני צמדי הצלילים יוצרים אותו מרווח לפי מספרו, סקסטה. הדבר מתקיים תמיד כאשר שני קולות נעים בתנועה מקבילה.
 
-In *parallel motion*, two voices move in the same direction by the same generic interval. For example, the following two voices both move up by a step. Note also that both dyads form the same generic interval (sixth). This will always be true when two voices move in parallel motion.
+![תנועה מקבילה: <bdi dir="ltr">C–A</bdi> אל <bdi dir="ltr">D–B</bdi>.][parallel]
 
-![Example of parallel motion: C–A to D–B.][parallel]
+ב*תנועה דומה (similar motion)*, הנקראת גם *תנועה ישירה (direct motion)*, שני קולות נעים באותו כיוון אך במרווחים שונים. בדוגמה הבאה שני הקולות יורדים, אך העליון מתקדם בצעד והתחתון בקפיצה. שימו לב שגם המרווח בין הקולות משתנה לפי מספרו הדיאטוני. כך הדבר בתנועה דומה או ישירה, לפי ההבחנה שבפרק זה.
 
-In *similar motion*, also called *direct motion*, two voices move in the same direction, but by different intervals. For example, the following two voices both move down, but the upper voice moves by step while the lower voice moves by leap. Note also that the two dyads are different generic intervals. This will always be the case with similar or direct motion.
+![תנועה דומה: <bdi dir="ltr">C–G</bdi> אל <bdi dir="ltr">A–F</bdi>.][similar]
 
-![Example of similar motion: C–G to A–F.][similar]
+ב*תנועה מנוגדת (contrary motion)*, שני הקולות נעים בכיוונים מנוגדים: אחד עולה והשני יורד.
 
-In *contrary motion*, two voices move in opposite directions—one up, the other down.
+![תנועה מנוגדת: <bdi dir="ltr">C–E</bdi> אל <bdi dir="ltr">A–F</bdi>.][contrary]
 
-![Example of contrary motion: C–E to A–F.][contrary]
+ב*תנועה אלכסונית (oblique motion)*, קול אחד נשאר בגובה קבוע ואילו הקול השני נע, בעלייה או בירידה. אפשר לנגן מחדש את הצליל הקבוע, אך אין הכרח לעשות זאת.
 
-In *oblique motion*, one voice is stationary, while the other voice moves (in either direction). The stationary tone may or may not be rearticulated.
-
-![Example of oblique motion: C–G to B–G.][oblique1]  
-or  
-![Example of oblique motion: C–G to B–G.][oblique2]
-
-
+![תנועה אלכסונית: <bdi dir="ltr">C–G</bdi> אל <bdi dir="ltr">B–G</bdi>.][oblique1]  
+או  
+![תנועה אלכסונית: <bdi dir="ltr">C–G</bdi> אל <bdi dir="ltr">B–G</bdi>.][oblique2]
 
 [parallel]: {{ site.url }}/Graphics/intervals/parallel.png
 [similar]: {{ site.url }}/Graphics/intervals/similar.png

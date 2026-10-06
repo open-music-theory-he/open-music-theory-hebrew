@@ -1,25 +1,33 @@
 ---
 layout: post
-title: Table of Contents
+title: תוכן העניינים
+translation_status: partial
 ---
 
-## Introduction
+## המהדורה העברית
+
+[הקדמה למהדורה העברית](hebrew-introduction.html)  
+[דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
+
+**מצב העבודה:** פרקי היסודות הבאים תורגמו ונבדקו מול המקור. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+
+## מבוא למקור
 
 [Introduction to this “textbook” (for instructors & scholars).](about.html)
 
-## Fundamentals
+## יסודות
 
-[Basic notation.](basicNotation.html)   
-[Meter.](meter.html)   
-[Protonotation.](protonotation.html)   
-[Rhythmic values.](rhythmicValues.html)   
-[Beams and borrowed divisions.](beams.html)   
-[Pitches.](pitches.html)   
-[Scales and scale degrees.](scales.html)   
-[Key signatures.](keySignatures.html)   
-[Intervals.](intervals.html)   
-[Triads and seventh chords.](triads.html)   
-[Types of motion.](motionTypes.html)
+[יסודות התיווי](basicNotation.html)   
+[משקל וסימני משקל](meter.html)   
+[תיווי מקדים](protonotation.html)   
+[ערכים קצביים](rhythmicValues.html)   
+[קורות וחלוקות קצביות מיוחדות](beams.html)   
+[גבהי צליל](pitches.html)   
+[סולמות ודרגות הסולם](scales.html)   
+[סימני סולם](keySignatures.html)   
+[מרווחים וצמדי צלילים](intervals.html)   
+[אקורדים משולשים ואקורדים מרובעים](triads.html)   
+[סוגי תנועה](motionTypes.html)
 
 ## Voice-leading and model composition
 
@@ -115,8 +123,8 @@ title: Table of Contents
 
 ### Galant Schemata
 
-[Galant schemata – opens and closes.](schemataOpensAndCloses)  
-[Galant Schemata – continuation patterns.](schemataContinuationPatterns)  
+[Galant schemata – opens and closes.](schemataOpensAndCloses.html)  
+[Galant Schemata – continuation patterns.](schemataContinuationPatterns.html)  
 [Galant schemata – summary.](schemataSummary.html)   
 [Improvising a sentence with galant schemata.](schemata-improv.html)
 
@@ -182,10 +190,10 @@ Tranpositional Symmetry.
 ### Form
 
 [Form in pop/rock music – overview.](popRockForm.html)  
-[Terminology and basic concepts.](popRockForm-terms)  
-[Formal containers and module structures.](popRockForm-containers)  
-[Formal functions.](popRockForm-functions)  
-[Analytical notation.](popRockForm-notation)  
+[Terminology and basic concepts.](popRockForm-terms.html)  
+[Formal containers and module structures.](popRockForm-containers.html)  
+[Formal functions.](popRockForm-functions.html)  
+[Analytical notation.](popRockForm-notation.html)  
 
 ## Text and music
 

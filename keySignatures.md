@@ -1,52 +1,53 @@
 ---
 layout: post
-title: Key signatures
+title: סימני הסולם
+translation_status: language-reviewed
+translation_batch: 1
 ---
 
-When you're writing in a single key for an extended period of time, it gets tedious to write out the accidentals over and over again. 
+כאשר כותבים באותה טונליות לאורך זמן, כתיבת סימני ההיתק שוב ושוב נעשית מסורבלת.
 
-Here is a simple melody in D major, without a key signature. 
+להלן מנגינה פשוטה ב־D מז׳ור, בלי סימני סולם בתחילת החמשה.
 
-<a href="Graphics/melodyWithoutKS.png"><img src="Graphics/melodyWithoutKS.png"></a>
+<a href="Graphics/melodyWithoutKS.png"><img src="Graphics/melodyWithoutKS.png" alt="מנגינה ב־D מז׳ור ללא סימני סולם"></a>
 
-To avoid this, composers used *key signatures* at the beginning of each staff to remind performers of which pitch classes should have flats or sharps. 
+כדי להימנע מחזרה זו, מלחינים השתמשו ב*סימני הסולם (key signatures)* בתחילת כל חמשה, כתזכורת למבצעים אילו מחלקות גובה צליל מסומנות בבמול או בדיאז.
 
-Here is the same melody, with the key signature at the beginning of the staff to remind the performer that F and C should be sharp. 
+להלן אותה מנגינה עם סימני הסולם בתחילת החמשה, המזכירים למבצע ש־F ו־C צריכים להיות מוגבהים בדיאז.
 
-<a href="Graphics/melodyWithKS.png"><img src="Graphics/melodyWithKS.png"></a>
+<a href="Graphics/melodyWithKS.png"><img src="Graphics/melodyWithKS.png" alt="אותה מנגינה עם סימני הסולם של D מז׳ור"></a>
 
-### The circle of fifths
+### מעגל הקווינטות
 
-The circle of fifths is an illustration that has been used in music theory pedagogy for hundreds of years. It conveniently summarizes the key signature needed for any key with up to seven flats or sharps. 
+*מעגל הקווינטות (circle of fifths)* הוא תרשים המשמש בהוראת תאוריית המוזיקה כבר מאות שנים. הוא מסכם בנוחות את סימני הסולם הנדרשים לכל טונליות בעלת עד שבעה במולים או דיאזים.
 
-<a href="Graphics/circleOfFifths.png"><img src="Graphics/circleOfFifths.png" width="65%"></a>
+<a href="Graphics/circleOfFifths.png"><img src="Graphics/circleOfFifths.png" width="65%" alt="מעגל הקווינטות של סולמות המז׳ור"></a>
 
-But *which* notes are flat or sharp in a key? To properly use the circle of fifths to figure out a key signature, you'll need to also remember this mnemonic device, which tells you the order of flats and sharps:
+אבל *אילו* תווים מסומנים בבמול או בדיאז בכל סולם? כדי להיעזר במעגל הקווינטות לקביעת סימני הסולם, צריך לזכור גם את משפט הזיכרון הבא, המציין את סדר הדיאזים והבמולים:
 
-**F**ather **C**harles **G**oes **D**own **A**nd **E**nds **B**attle. 
+**F**ather **C**harles **G**oes **D**own **A**nd **E**nds **B**attle.
 
-For sharp keys (clockwise on the circle of fifths), read the mnemonic device forward. For example, the circle of fifths tells us that there are 3 sharps in the key of A major. Which three notes are sharp? The first three notes in the mnemonic device: F(ather), C(harles), and G(oes). 
+בסולמות עם דיאזים, בכיוון השעון במעגל, קוראים את המשפט קדימה. למשל, מעגל הקווינטות מראה שב־A מז׳ור יש שלושה דיאזים. אילו תווים מוגבהים? שלוש האותיות הראשונות במשפט: F(ather), C(harles), G(oes).
 
-For flat keys (counter-clockwise on the circle of fifths), read the mnemonic device backwards. For example, the circle of fifths tells us that the key of A-flat major has four flats. Which flats? Reading backwards: B(attle), E(nds), A(nd), D(own). 
+בסולמות עם במולים, נגד כיוון השעון במעגל, קוראים את המשפט לאחור. למשל, ב־A במול מז׳ור יש ארבעה במולים. בקריאה לאחור מתקבל: B(attle), E(nds), A(nd), D(own).
 
-### Minor key signatures ###
+> **הערת המהדורה העברית:** המשפט האנגלי נשמר משום שראשי המילים שלו הם שמות התווים. אפשר לזכור ישירות את הסדר: דיאזים **<bdi dir="ltr">F–C–G–D–A–E–B</bdi>**, ובמולים **<bdi dir="ltr">B–E–A–D–G–C–F</bdi>**.
 
-Of course, minor keys can use key signatures, too. In fact, for each major key signature, there is a corresponding minor key that shares its signature. Major and minor keys that share the same key signature are called *relative* keys. For example, both C major and A minor have zero sharps or flats. A minor is considered the *relative minor* of C major; likewise, C major is considered the *relative major* of A minor. Compare the minor key circle of fifths below with the major key circle of fifths above, and you'll see the remaining relative key pairs. 
+### סימני סולם במינור
 
-<a href="Graphics/circleOfFifths-minor.png"><img src="Graphics/circleOfFifths-minor.png" width="65%"></a>
+גם בסולמות מינור משתמשים בסימני סולם. לכל מערכת סימני סולם של מז׳ור יש סולם מינור תואם בעל אותם סימנים. מז׳ור ומינור בעלי אותם סימני סולם נקראים *סולמות יחסיים (relative keys)*. למשל, ב־C מז׳ור וב־A מינור אין דיאזים או במולים בסימני הסולם. A מינור הוא המינור היחסי של C מז׳ור, ו־C מז׳ור הוא המז׳ור היחסי של A מינור. השוו את מעגל הקווינטות למינור שלהלן למעגל המז׳ור שלמעלה כדי למצוא את יתר הזוגות היחסיים.
 
-### Writing key signatures ###
+<a href="Graphics/circleOfFifths-minor.png"><img src="Graphics/circleOfFifths-minor.png" width="65%" alt="מעגל הקווינטות של סולמות המינור"></a>
 
-Below is a reference that shows how all of the key signatures should be written on treble, alto, tenor, and bass clefs. 
+### כתיבת סימני הסולם
 
-<a href="Graphics/sharpsTreble.png"><img src="Graphics/sharpsTreble.png"></a>
-<a href="Graphics/sharpsAlto.png"><img src="Graphics/sharpsAlto.png"></a>
-<a href="Graphics/sharpsTenor.png"><img src="Graphics/sharpsTenor.png"></a>
-<a href="Graphics/sharpsBass.png"><img src="Graphics/sharpsBass.png"></a>
-<a href="Graphics/flatsTreble.png"><img src="Graphics/flatsTreble.png"></a>
-<a href="Graphics/flatsAlto.png"><img src="Graphics/flatsAlto.png"></a>
-<a href="Graphics/flatsTenor.png"><img src="Graphics/flatsTenor.png"></a>
-<a href="Graphics/flatsBass.png"><img src="Graphics/flatsBass.png"></a>
+להלן תרשימי עזר המציגים את כתיבת כל סימני הסולם במפתחות סול, דו של אלט, דו של טנור ופה.
 
-
-
+<a href="Graphics/sharpsTreble.png"><img src="Graphics/sharpsTreble.png" alt="דיאזים במפתח סול"></a>
+<a href="Graphics/sharpsAlto.png"><img src="Graphics/sharpsAlto.png" alt="דיאזים במפתח דו של אלט"></a>
+<a href="Graphics/sharpsTenor.png"><img src="Graphics/sharpsTenor.png" alt="דיאזים במפתח דו של טנור"></a>
+<a href="Graphics/sharpsBass.png"><img src="Graphics/sharpsBass.png" alt="דיאזים במפתח פה"></a>
+<a href="Graphics/flatsTreble.png"><img src="Graphics/flatsTreble.png" alt="במולים במפתח סול"></a>
+<a href="Graphics/flatsAlto.png"><img src="Graphics/flatsAlto.png" alt="במולים במפתח דו של אלט"></a>
+<a href="Graphics/flatsTenor.png"><img src="Graphics/flatsTenor.png" alt="במולים במפתח דו של טנור"></a>
+<a href="Graphics/flatsBass.png"><img src="Graphics/flatsBass.png" alt="במולים במפתח פה"></a>
