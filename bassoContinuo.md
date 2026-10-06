@@ -1,34 +1,38 @@
 ---
 layout: post
-title: Composing in basso-continuo style
+title: הלחנה בסגנון בס רציף
+translation_status: language-reviewed
+translation_batch: 3
 ---
 
-*Basso continuo* (It. for "continuous bass" or "thoroughbass") is essentially a chordal version of first-species counterpoint. However, instead of composing a single line above a cantus firmus, one composes a succession of chords (performed in the right hand) above a bass line (performed in the left hand). *Basso continuo* writing, also referred to as *realizing a figured bass*, gives no consideration to melody, only to the use of proper chords and the smoothest voice-leading possible. Thus, *basso continuo* style is a simple place to begin engaging the "fundamental musical problems" that arise when more than two lines are combined. 
+*בס רציף (basso continuo; באיטלקית ״בס מתמשך״)* הוא, בעיקרו, גרסה אקורדית של קונטרפונקט מן הסוג הראשון. במקום לחבר קו יחיד מעל קנטוס פירמוס, מחברים רצף אקורדים המנוגנים ביד ימין מעל קו בס המנוגן ביד שמאל. כתיבה בסגנון זה, המכונה גם *מימוש בס ממוספר (realizing a figured bass)*, אינה מתמקדת בעיצוב המלודיה, אלא בשימוש באקורדים הנכונים ובהולכת קולות חלקה ככל האפשר. לכן זהו מקום פשוט להתחיל להתמודד עם ״הבעיות המוזיקליות היסודיות״ העולות משילוב יותר משני קווים.
 
-## Chord voicing
+## סידור צלילי האקורד
 
-In strict keyboard-style writing, there are four voices: the bass line (which is usually a given in *basso continuo* style), and three *upper voices*: the *melody* or *soprano*, the *alto*, and the *tenor* (from highest to lowest). Since all three upper voices must be played by a single hand, they should never span more than an octave.
+בכתיבה קפדנית לכלי מקלדת יש ארבעה קולות: הבס, שבדרך כלל נתון בתרגיל בס רציף, ושלושה *קולות עליונים (upper voices)* — *המלודיה או הסופרן (soprano)*, *האלט (alto)* ו*הטנור (tenor)*, מן הגבוה לנמוך. מכיוון שכל שלושת העליונים מנוגנים ביד אחת, המרחק בין הקול הגבוה לנמוך מביניהם לעולם לא יעלה על אוקטבה.
 
-The melody always has an upward-pointing stem. Alto and tenor share a downward-pointing stem. If the alto and tenor share a note, that note receives a single downward-pointing stem. (See m. 1 of the example below.) If melody and alto share a note, that notehead is double-stemmed. (See m. 4 of the example below.)
+למלודיה יש תמיד גבעול הפונה מעלה. האלט והטנור חולקים גבעול הפונה מטה. אם האלט והטנור חולקים תו, יהיה לו גבעול יחיד כלפי מטה; ראו תיבה 1 בדוגמה. אם המלודיה והאלט חולקים תו, לראש התו יהיו שני גבעולים; ראו תיבה 4.
 
-[![]({{ site.url }}/Graphics/BCModel.png)]({{ site.url }}/Graphics/BCModel.png)
+[![דוגמת מימוש בס רציף בארבעה קולות לכלי מקלדת]({{ site.url }}/Graphics/BCModel.png)]({{ site.url }}/Graphics/BCModel.png)
 
-When choosing the notes to place in the upper voices above a figured bass, use the bass and figures to determine the pitch classes present in the chord. (When realizing an *unfigured bass*, you must determine appropriate figures before realizing.) If the chord is a four-note chord, use each chord member once, including the bass (exceptions will be noted later). If a chord has three pitch-classes (a triad, for instance), use each pitch-class once, and "double" one of them according to the following principles:
+בבחירת הצלילים לקולות העליונים, השתמשו בבס ובספרות כדי לקבוע את מחלקות גובה הצליל שבאקורד. במימוש בס *בלתי ממוספר* יש לקבוע ספרות מתאימות לפני המימוש. אם באקורד ארבעה צלילים, השתמשו בכל אחד מהם פעם אחת, כולל הבס; חריגים יפורטו בהמשך. אם יש בו שלוש מחלקות גובה צליל, למשל באקורד משולש, השתמשו בכל אחת פעם אחת ו*הכפילו (double)* אחת מהן לפי העקרונות הבאים:
 
-- If the figure is 6/4, 5/3, or other chord of the fifth, double the bass pitch class.  
-- If the figure is 6/3 and the bass is a *fixed scale degree* (*do*, *re*, *fa*, or *sol*), double the bass pitch class.  
-- If the figure is 6/3 and the bass is a *variable scale degree* (*mi*/*me*, *la*/*le*, or *ti*/*te*) or a chromatically altered pitch, double one of the upper voices at the octave or unison.  
-- Generally, do not double a variable scale degree or a chromatically altered pitch.
+- בסימון <bdi dir="ltr">6/4</bdi>, <bdi dir="ltr">5/3</bdi>, או באקורד אחר של קווינטה, הכפילו את מחלקת גובה הצליל של הבס.
+- בסימון <bdi dir="ltr">6/3</bdi>, אם הבס הוא *דרגת סולם קבועה (fixed scale degree)* — *do*, *re*, *fa* או *sol* — הכפילו את מחלקת גובה הצליל של הבס.
+- בסימון <bdi dir="ltr">6/3</bdi>, אם הבס הוא *דרגת סולם משתנה (variable scale degree)* — *mi/me*, *la/le* או *ti/te* — או צליל ששונה כרומטית, הכפילו אחד מן הקולות העליונים באוקטבה או בפרימה.
+- ככלל, אין להכפיל דרגת סולם משתנה או צליל ששונה כרומטית.
 
-In *basso continuo* style, if the chord is properly voiced (correct pitch classes and correct doublings), two key principles of voice-leading will ensure good counterpoint between the voices most of the time:
+אם האקורד מסודר נכון, כלומר כולל את מחלקות גובה הצליל וההכפלות הנכונות, שני עקרונות עיקריים יבטיחו ברוב המקרים קונטרפונקט טוב בין הקולות:
 
-- *The law of the shortest way* (a term coined by composer Arnold Schoenberg): move each voice as little as possible. Prefer repetition to steps, steps to leaps, and one leap at a time to several voices leaping at the same time.  
-- *Move the right hand in contrary or oblique motion to the bass.* When the bass leaps by fourth or fifth, though, this rule can be ignored.
+- *חוק הדרך הקצרה ביותר (law of the shortest way)*, מונח שטבע המלחין ארנולד שנברג: הניעו כל קול מעט ככל האפשר. העדיפו חזרה על פני צעד, צעד על פני קפיצה, וקפיצה בקול אחד בכל פעם על פני קפיצות בכמה קולות יחד.
+- *הניעו את יד ימין בתנועה מנוגדת או אלכסונית ביחס לבס.* עם זאת, כשהבס קופץ בקוורטה או בקווינטה, אפשר להתעלם מכלל זה.
 
-In some cases, these rules cannot be followed absolutely (such as when a functional dissonance must be resolved, or when a melody makes it impossible—two cases to be considered later). In all cases, observe the following:
+במקרים מסוימים אי אפשר לקיים את הכללים במלואם, למשל כשצריך לפתור דיסוננס פונקציונלי או כשהמלודיה אינה מאפשרת זאת; שני המקרים יידונו בהמשך. בכל המקרים הקפידו על הדברים הבאים:
 
-- No parallel fifths or octaves between any pair of voices.  
-- No contrary fifths or octaves between outer voices.  
-- Do not approach an octave between the outer voices by similar motion unless the melody moves by step. (All other direct/hidden fifths and octaves are permissible.)
+- אין קווינטות או אוקטבות מקבילות בין שום זוג קולות.
+- אין קווינטות או אוקטבות עוקבות בתנועה מנוגדת בין הקולות החיצוניים.
+- אין להגיע לאוקטבה בין הקולות החיצוניים בתנועה דומה, אלא אם המלודיה נעה בצעד. כל יתר הקווינטות והאוקטבות הישירות או הנסתרות מותרות.
+
+> **הערת המהדורה העברית:** ההוראות הן למסגרת הקפדנית של הספר. ״דרגות קבועות״ ו״משתנות״ מתייחסות כאן לדרגות בשיטת הדו היחסי ולהבדלים בין מז׳ור ומינור, ולא לדו מוחלט או להגדרה כללית של צלילים יציבים. הכפלה היא של מחלקת גובה צליל, ולכן יכולה להיות באוקטבות שונות. גם כאשר אין התמקדות בעיצוב המלודיה, נכתב בפועל קול עליון מלודי; אין הכוונה שאין מלודיה במרקם.
 
 

@@ -1,43 +1,45 @@
 ---
 layout: post
-title: Generating Roman numerals from a figured bass line
+title: ניתוח בס ממוספר באמצעות ספרות רומיות
+translation_status: language-reviewed
+translation_batch: 3
 ---
 
-Both bass lines and root progressions are important for the study and mastery of tonal harmony. Most of our work will focus on the bass lines, and what follows will help you analyze the root progressions present in any figured bass line. In other words, this will help you perform a Roman numeral analysis of a figured bass line. 
+גם קווי הבס וגם מהלכי שורשי האקורדים חשובים להבנה ולשליטה בהרמוניה טונאלית. רוב עבודתנו תתמקד בבס; ההסבר הבא יסייע לנתח את מהלך השורשים המצוי בכל קו בס ממוספר. במילים אחרות, הוא יסייע לבצע ניתוח בספרות רומיות של הבס הממוספר.
 
-Note that on the charts below, generic capital Roman numerals are provided. 
+שימו לב: בטבלאות שלהלן מופיעות ספרות רומיות כלליות באותיות גדולות.
 
-## Chords of the fifth
+## אקורדים של קווינטה
 
-In any chord of the fifth ("root position": 5/3 or 7/5/3 chord), the bass note and the root of the chord are the same. The Roman numeral to be assigned to any chord of the fifth, then, is the scale degree of its bass note. If *do* is in the bass, the bass is scale-degree 1, and the Roman numeral is **I**. If *re* is in the bass, the Roman numeral is **II**. And so on.
+באקורד של קווינטה מן הסוגים הנדונים כאן — ״מצב יסודי (root position)״, בסימון <bdi dir="ltr">5/3</bdi> או <bdi dir="ltr">7/5/3</bdi> — תו הבס ושורש האקורד זהים. לכן הספרה הרומית שלו היא דרגת הסולם של תו הבס. אם *do* בבס, זו דרגה 1 והספרה היא **I**; אם *re* בבס, הספרה היא **II**, וכן הלאה.
 
-![][53chords]
+![אקורדים משולשים במצב יסודי לפי דרגת הבס][53chords]
 
-![][7chords]
+![אקורדים מרובעים במצב יסודי לפי דרגת הבס][7chords]
 
+## אקורדים של סקסטה ב״היפוך ראשון״
 
-## "First-inversion" chords of the sixth
+אקורדים של סקסטה בסימון <bdi dir="ltr">6/3</bdi> או <bdi dir="ltr">6/5/3</bdi> הם *אקורדים בהיפוך ראשון (first inversion)*. שמם נובע מכך שהטרצה של האקורד, הצליל הבא בו מעל השורש, נמצאת בקול הנמוך ביותר. עם זאת, חשיבה על היפוכים במהלך הניתוח עלולה לסרבל אותו. לעיתים פשוט יותר לזכור שבסימונים האלה, או בקיצוריהם <bdi dir="ltr">6</bdi> ו־<bdi dir="ltr">6/5</bdi>, *השורש הוא הצליל הנמצא סקסטה מעל הבס*. אם *mi* בבס והסימון הוא 6, השורש הוא *do* והספרה הרומית **I**. אם *fa* בבס והסימון <bdi dir="ltr">6/5</bdi>, השורש הוא *re* והספרה **II**, וכן הלאה.
 
-Chords of the sixth that take the figures 6/3 or 6/5/3 are *first-inversion* chords. They are so named because the third of the chord (the next chord member above the root) is in the lowest voice. However, thinking about inversions while performing an analysis can be cumbersome. It is often simpler to remember that if the figure is 6/3 or 6/5/3 (or an abbreviation such as 6 or 6/5), *the root of the chord is the sixth above the bass*. If *mi* is in the bass, and the figure is "6", the root is *do*, and the Roman numeral is **I**. If *fa* is in the bass and the figure is "6/5", the root is *re*, and the Roman numeral is **II**. And so on.
+![אקורדים משולשים בהיפוך ראשון לפי דרגת הבס][63chords]
 
-![][63chords]
+![אקורדים מרובעים בהיפוך ראשון לפי דרגת הבס][65chords]
 
-![][65chords]
+## אקורדים של סקסטה ב״היפוך שני״
 
-## "Second-inversion" chords of the sixth
+אקורדים של סקסטה בסימון <bdi dir="ltr">6/4</bdi> או <bdi dir="ltr">6/4/3</bdi>, ובקיצור <bdi dir="ltr">4/3</bdi>, הם *אקורדים בהיפוך שני (second inversion)*. שמם נובע מכך שהקווינטה של האקורד, הצליל השני שבו מעל השורש, נמצאת בקול הנמוך ביותר. גם כאן נוח לזכור שבסימונים האלה *השורש הוא הצליל הנמצא קוורטה מעל הבס*. אם *re* בבס והסימון <bdi dir="ltr">4/3</bdi>, השורש הוא *sol* והספרה הרומית **V**.
 
-Chords of the sixth that take the figures 6/4 or 6/4/3 (or an abbreviation such as 4/3) are *second-inversion* chords. They are so named because the fifth of the chord (the second member of the chord above the root) is in the lowest voice. Again, it is often simpler to remember that for 6/4, 6/4/3, and 4/3 chords, *the root is the fourth above the bass*. If *re* is in the bass, and the figure is 4/3, the root is *sol*, and the Roman numeral is **V**.
+![אקורדים משולשים בהיפוך שני לפי דרגת הבס][64chords]
 
-![][64chords]
+![אקורדים מרובעים בהיפוך שני לפי דרגת הבס][43chords]
 
-![][43chords]
+## אקורדים של סקסטה ב״היפוך שלישי״
 
-## "Third-inversion" chords of the sixth
+אקורדים של סקסטה בסימון <bdi dir="ltr">6/4/2</bdi>, או בקיצור <bdi dir="ltr">4/2</bdi> או רק 2, הם *אקורדים בהיפוך שלישי (third inversion)*. שורשם נמצא סקונדה, כלומר צעד, מעל הבס. באקורד <bdi dir="ltr">4/2</bdi> הנפוץ ביותר מופיע *fa* בבס ו־*sol* הוא השורש, ולכן הספרה הרומית **V**.
 
-Chords of the sixth that take the figure 6/4/2 (or its abbreviation 4/2 or simply 2) are *third-inversion* chords. Their root is a second, or a step, above the bass. The most common 4/2 chord has *fa* in the bass, and *sol* is its root, making its Roman numeral **V**.
+![אקורדים מרובעים בהיפוך שלישי לפי דרגת הבס][42chords]
 
-![][42chords]
-
+> **הערת המהדורה העברית:** הספרות הרומיות הגדולות בתרשימים מציינות כאן דרגת שורש באופן כללי, ולא קובעות שכל האקורדים מז׳וריים. בניתוח מלא יש לציין גם את איכות האקורד לפי שיטת הספר. כללי מציאת השורש כאן חלים על האקורדים המשולשים והמרובעים המתוארים, ולא בהכרח על כל צירוף צלילים אפשרי. הסולפז׳ הוא דו יחסי.
 
 [53chords]: {{ site.url }}/Graphics/Inversions/5-3chords.png
 [63chords]: {{ site.url }}/Graphics/Inversions/6-3chords.png

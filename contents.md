@@ -9,7 +9,7 @@ translation_status: partial
 [הקדמה למהדורה העברית](hebrew-introduction.html)  
 [דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
 
-**מצב העבודה:** פרקי היסודות וששת פרקי הקונטרפונקט הבאים תורגמו ונבדקו מול המקור. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+**מצב העבודה:** פרקי היסודות ופרקי הקונטרפונקט והבס הממוספר הבאים תורגמו ונבדקו מול המקור. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
 
 ## מבוא למקור
 
@@ -41,15 +41,15 @@ translation_status: partial
 [כתיבת קונטרפונקט מן הסוג השלישי](thirdSpecies.html)   
 [כתיבת קונטרפונקט מן הסוג הרביעי](fourthSpecies.html)
 
-### Strict four-voice composition
+### הלחנה קפדנית בארבעה קולות
 
-[Introduction to thoroughbass.](thoroughbassFigures.html)   
-[A brief history of _basso continuo_.](bassoContinuo-history.html)   
-[Generating Roman numerals from a figured bass line.](RNfromFB.html)   
-[Composing in _basso-continuo_ style.](bassoContinuo.html)   
-[Style and tendency.](tendency.html)   
-[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)   
-[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)
+[מבוא לבס ממוספר](thoroughbassFigures.html)   
+[היסטוריה קצרה של הבס הרציף](bassoContinuo-history.html)   
+[ניתוח בס ממוספר באמצעות ספרות רומיות](RNfromFB.html)   
+[הלחנה בסגנון בס רציף](bassoContinuo.html)   
+[סגנון ונטייה](tendency.html)   
+[צלילי נטייה ודיסוננסים הרמוניים פונקציונליים](tendencyTonesFunctionalDissonances.html)   
+[מימוש בס ממוספר בסגנון בס רציף קפדני — סרטון](TBDemo.html)
 
 [Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)   
 [Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)   
