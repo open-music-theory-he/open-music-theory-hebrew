@@ -1568,7 +1568,7 @@
           "source_type": "prose",
           "target_type": "prose",
           "source_hash": "8082a5034f01c42d89c569ef5103f2e8a227c46bc4085177455c9db605d4f76c",
-          "target_hash": "3fe7b99d6d854089a36efb0eeb514532608da6ecc4605ffabd662e75c55b7b81",
+          "target_hash": "1746302748749f1c09614e797861c317852e4e4358eacd7a738efdf0e0f35c62",
           "source_excerpt": "Possible dissonant suspensions *above* the cantus firmus are **7–6**, **4–3**, and **9–8**. (These a",
           "target_excerpt": "ההשהיות הדיסוננטיות האפשריות *מעל* הקנטוס הן **<bdi dir=\"ltr\">7–6</bdi>**, **<bdi dir=\"ltr\">4–3</bdi",
           "structure_matches": true
@@ -1588,7 +1588,7 @@
           "source_type": "prose",
           "target_type": "prose",
           "source_hash": "66a3bac69fcb3ceb54d6e46c781c80bc4add432fd1b18f51c6b519d47822d1ca",
-          "target_hash": "d9d59adc9d844a5eb0f1b018500fc7c5a65ca99154c5d617f8567c81a6fbe285",
+          "target_hash": "178c9e6b1a182e27d628961098b1a883fb91d2bd6a6403609093008bad908ba9",
           "source_excerpt": "Treat suspensions in fourth species the same way you would treat their intervals of resolution in fi",
           "target_excerpt": "התייחסו להשהיות בסוג הרביעי כפי שהייתם מתייחסים למרווחי הפתרון שלהן בסוג הראשון. למשל, אין להשתמש בש",
           "structure_matches": true
@@ -1783,7 +1783,8 @@
           "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי\" src=\"https://trinket.io/embed/music/22aa93",
           "structure_matches": true
         }
-      ]
+      ],
+      "editorial_correction": "N032, approved 2026-10-06: distinguish P5–6 from d5–6."
     }
   ]
 }
