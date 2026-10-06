@@ -1,0 +1,324 @@
+{
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "batch": 1,
+  "scope": "13 chapter files; index and contents are partial support pages",
+  "chapters": [
+    {
+      "file": "hebrew-introduction.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "not_applicable_editorial_addition"
+    },
+    {
+      "file": "fixed-and-movable-do.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "not_applicable_editorial_addition"
+    },
+    {
+      "file": "basicNotation.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 4,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "meter.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 20,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "protonotation.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 12,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "rhythmicValues.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 4,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "beams.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 4,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "pitches.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 5,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "scales.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 7,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "keySignatures.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 12,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "intervals.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 4,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "triads.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 5,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    },
+    {
+      "file": "motionTypes.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 5,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": []
+    }
+  ],
+  "external_links": [
+    {
+      "url": "http://en.wikipedia.org/wiki/Solfège",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=38863): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:0qksx8mV28lztYIZ1om8ml",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:0qksx8mV28lztYIZ1om8ml",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:1mblryRrYNlSJqvrrtvzyq",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:1mblryRrYNlSJqvrrtvzyq",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:1w6C2YqIHygosg9OY6v7Wl",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:3QKUA7OAaQu3Zl1cqMa9gq",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:4mu9wgDkwUSbOGvx2iQfFf",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:4mu9wgDkwUSbOGvx2iQfFf",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:6M1Eo5wuTl8f5qbpLCuph0",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:6M1Eo5wuTl8f5qbpLCuph0",
+      "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:6T5JlpcvC0RbPpexl8xXMI",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:70TI9J2rsGIuXyFqVzOswh",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:76ZDwA8uTyMys4LIS3pBUX",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://openmusictheory.github.io/",
+      "status": 200,
+      "final_url": "https://openmusictheory.github.io/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://openmusictheory.github.io/scales.html",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='openmusictheory.github.io', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://player.vimeo.com/video/127952221",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://player.vimeo.com/video/127955738",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://vimeo.com",
+      "status": 200,
+      "final_url": "https://vimeo.com/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://vimeo.com/127952221",
+      "status": 404,
+      "final_url": "https://vimeo.com/127952221",
+      "result": "needs_review"
+    },
+    {
+      "url": "https://vimeo.com/127955738",
+      "status": 404,
+      "final_url": "https://vimeo.com/127955738",
+      "result": "needs_review"
+    },
+    {
+      "url": "https://vimeo.com/user11692346",
+      "status": 200,
+      "final_url": "https://vimeo.com/krisshaffer",
+      "result": "reachable"
+    },
+    {
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
+      "status": 200,
+      "final_url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
+      "result": "reachable"
+    },
+    {
+      "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/pour-les-francophones/",
+      "status": 200,
+      "final_url": "https://viva.pressbooks.pub/openmusictheory/front-matter/pour-les-francophones/",
+      "result": "reachable"
+    }
+  ],
+  "limitations": [
+    "No full Jekyll build or visual RTL test in this environment.",
+    "Unchanged musical graphics contain original English labels.",
+    "HTTP reachability does not verify media playback, identity or regional availability.",
+    "Semantic review is AI-assisted, not independent human proofreading."
+  ],
+  "interval_table_rows_exact": true,
+  "new_major_scale_arithmetic": true,
+  "external_results_reused_from": "2026-10-06 first batch online check",
+  "fatal_structural_errors": []
+}
