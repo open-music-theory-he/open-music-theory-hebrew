@@ -14,4 +14,4 @@
 
 המקור נכתב בידי Kris Shaffer, Bryn Hughes ו־Brian Moseley; נערך בידי Kris Shaffer ו־Robin Wharton ופורסם בידי Hybrid Pedagogy Publishing. מהדורה עברית זו היא עיבוד עצמאי, ואינה מוצגת כתרגום שאושר על ידם. רישיון [CC BY–SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), בכפוף לקרדיטים ולרישיונות הפרטניים של הנכסים.
 
-לבדיקות מבנה וקישורים: `pip install -r scripts/requirements-translation.txt`, ולאחר מכן `python scripts/check_translation.py`. הבדיקות אינן תחליף לבדיקת תרגום, בניית Jekyll, בדיקה חזותית או הגהה מקצועית.
+לבדיקות מבנה וקישורים: `pip install -r docs/requirements-translation.txt`, ולאחר מכן `python docs/check_translation.py`. הבדיקות אינן תחליף לבדיקת תרגום, בניית Jekyll, בדיקה חזותית או הגהה מקצועית.
