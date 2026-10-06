@@ -1,0 +1,1789 @@
+{
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "batch": 2,
+  "warning": "Structural mapping supports manual content comparison; it does not prove semantic equivalence.",
+  "chapters": [
+    {
+      "file": "speciesIntro.md",
+      "source_units": 12,
+      "target_units_excluding_editorial_notes": 12,
+      "units": [
+        {
+          "unit": 1,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "2669d03ed6f15f2d0c95bee66637ff718c6ef296c4e4e1c2b9603274cffc4b9f",
+          "target_hash": "02aa06d119d9dfa3f9f14a36b462b727803616aa5412117e2d68add2ce6e3e7d",
+          "source_excerpt": "The study of the theory of Western music involves three main components: voice-leading, harmony, and",
+          "target_excerpt": "לימוד התאוריה של המוזיקה המערבית כולל שלושה מרכיבים עיקריים: הולכת קולות, הרמוניה וצורה. *הולכת קולו",
+          "structure_matches": true
+        },
+        {
+          "unit": 2,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "68ee37a76b6bce2e0cfe80d3f64ab4e833aac6c9cd1cdda15719d2792cc67fa2",
+          "target_hash": "609109c5354442b815d038e0daba36b329f78ea19e67e3e365a272e9ce178c64",
+          "source_excerpt": "We will address all three of these facets of musical theory. However, of the three, voice-leading is",
+          "target_excerpt": "נעסוק בכל שלושת ההיבטים האלה. עם זאת, הולכת הקולות היא היסודית ביותר מביניהם. לכן נתחיל את לימודי הת",
+          "structure_matches": true
+        },
+        {
+          "unit": 3,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "8a627664b2845868a94b39adceb83784ea054ac7a4d29c588db98b8ca4a9c1a9",
+          "target_hash": "6a413e87ac60fce894940c5a7cd7101616e2003b96bac99fed80074dcc93ff90",
+          "source_excerpt": "Twentieth-century musician and theorist, Heinrich Schenker, wrote:",
+          "target_excerpt": "המוזיקאי והתאורטיקן בן המאה העשרים Heinrich Schenker כתב:",
+          "structure_matches": true
+        },
+        {
+          "unit": 4,
+          "source_type": "quote",
+          "target_type": "quote",
+          "source_hash": "384edf5cd14977b095369ea24c937375bbbcc8edc415da9e6b13c82068764fba",
+          "target_hash": "2fac58e29b8150e3b7dedbf4065a572d0a74bb92395d4952325463037fcb3134",
+          "source_excerpt": "> The purpose of counterpoint, rather than to teach a specific style of composition, is to lead the ",
+          "target_excerpt": "> מטרת הקונטרפונקט, יותר משהיא ללמד סגנון הלחנה מסוים, היא להוביל לראשונה את אוזנו של תלמיד המוזיקה ",
+          "structure_matches": true
+        },
+        {
+          "unit": 5,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "acb18f73861ea01bb36f5f72aef631adfb81186e86d16074dbd8b7869f02af71",
+          "target_hash": "bca00caf6cce5fa1b212224cdbc6e887f795888d8a9a2dd9dc52325d806e1093",
+          "source_excerpt": "Following this line of thinking, our early voice-leading exercises will not be in a specific style (",
+          "target_excerpt": "ברוח זו, תרגילי הולכת הקולות הראשונים שלנו לא יהיו בסגנון מסוים — קלאסי, בארוקי, רומנטי, פופ/רוק וכד",
+          "structure_matches": true
+        },
+        {
+          "unit": 6,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "a623bde54fb3925a83f799b1927f1ae74cd4a6b9bd5d918e5ae41e50f45f63a8",
+          "target_hash": "13c4d45f0eb60f783e71cc148995577d6195664717c5232993311c9c672d600f",
+          "source_excerpt": "The \"fundamental musical problems\" we will address in the study of counterpoint center around the wa",
+          "target_excerpt": "ה״בעיות המוזיקליות היסודיות״ שנבחן בקונטרפונקט נוגעות לאופן שבו עקרונות בסיסיים של תפיסה שמיעתית ושל",
+          "structure_matches": true
+        },
+        {
+          "unit": 7,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "35a74f451713fa302193b9d044d62e2fc9b827c3a90b0a1504caa642f37101c6",
+          "target_hash": "628bee95cc507323e4c4deb31a89f18c13c848b8958379c9dcc390c91f173e4b",
+          "source_excerpt": "\"Mediates\" and \"plays\" are important ideas here. Music that simply makes it easy for the brain to pa",
+          "target_excerpt": "״מתווך״ ו״משחק״ הן מילים חשובות כאן. מוזיקה שרק מקלה על המוח לפענח ולעבד את הצליל היא משעממת: היא אי",
+          "structure_matches": true
+        },
+        {
+          "unit": 8,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "00d176a803015af7bc2b46eaf4ddbc4d2f8c32641f69dd07246cde741f6eff0d",
+          "target_hash": "1d68169196b01492839740096ea74dda70ddfcc232f38407b6bbbc214a3693fe",
+          "source_excerpt": "The study of counterpoint will help us to engage several important musical \"problems\" in a limited c",
+          "target_excerpt": "לימוד הקונטרפונקט יאפשר להתמודד עם כמה ״בעיות״ מוזיקליות חשובות במסגרת מצומצמת, כדי לשלוט בהן בהלחנה",
+          "structure_matches": true
+        },
+        {
+          "unit": 9,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "ffd02c5c796dedcdd2a4a6e0a0651a933a6bf2b200403a923219e810a5fd3132",
+          "target_hash": "e65375cf2918d65c5efbe29341fef44c6421c681cc16355479acd7a3a327fe2c",
+          "source_excerpt": "- smoothness  \n- independence and integrity or melodic lines  \n- tonal fusion (the preference for si",
+          "target_excerpt": "- זרימה חלקה.\n- עצמאות ולכידות של הקווים המלודיים.\n- מיזוג צלילי (tonal fusion): העדפה לכך שתווים הנ",
+          "structure_matches": true
+        },
+        {
+          "unit": 10,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "5c2a238148e685c4e2235e07b04d1115aeba0bd34c9ab5a909eceabecab39920",
+          "target_hash": "1e527b9a1541f3da4d5c1ac6e66b9b375320bfc4b213fba0a89cfa467683b6fc",
+          "source_excerpt": "These traits are based in human perception and cognition, but they are often in conflict in specific",
+          "target_excerpt": "התכונות האלה מבוססות על תפיסה וקוגניציה אנושיות, אך ברגעים מוזיקליים מסוימים הן מתנגשות זו בזו. יש ל",
+          "structure_matches": true
+        },
+        {
+          "unit": 11,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "996f36d8f624a10dd6f3da613065a999416649f977c663a6851c7ebc0fc75a6b",
+          "target_hash": "d750792d7661756e4455b9498e00ef42d6e01ed47f6b78b2deceb7cabd130322",
+          "source_excerpt": "Also, note Schenker's expression \"lead the ear.\" Counterpoint is not a pencil-and-paper (or lecture-",
+          "target_excerpt": "שימו לב גם לביטוי של שנקר, ״להוביל את האוזן״. קונטרפונקט אינו רק לימוד בעיפרון ועל נייר, או בהרצאה ו",
+          "structure_matches": true
+        },
+        {
+          "unit": 12,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "bc3c8660b3be439e78ddb0bc9eb71da17de9286af9c2b4a21780c2b034b1d166",
+          "target_hash": "4ab26b254aeafe4b863209afd994fc5d5937b6a0917e8a955ea9bf42375f0c77",
+          "source_excerpt": "The specific method we will use is called *species counterpoint*—so called because the study progres",
+          "target_excerpt": "השיטה שבה נשתמש נקראת *קונטרפונקט לפי סוגים (species counterpoint)*: הלימוד מתקדם בשלבים, או ״סוגים״",
+          "structure_matches": true
+        }
+      ]
+    },
+    {
+      "file": "cantusFirmus.md",
+      "source_units": 15,
+      "target_units_excluding_editorial_notes": 15,
+      "units": [
+        {
+          "unit": 1,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "a423cbe1efa8db9992d2dfd832fe9de25cfbfeba47402728e33d63ac4e19b076",
+          "target_hash": "a82c9bcb551acbb1722ac3bbd6d1e2b41c241f8bf0eb368158a34d108eb9b0a5",
+          "source_excerpt": "Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical",
+          "target_excerpt": "תרגילים בהולכת קולות קפדנית, או בקונטרפונקט לפי סוגים, מתחילים בקו מוזיקלי יחיד, בנוי היטב, הנקרא *ק",
+          "structure_matches": true
+        },
+        {
+          "unit": 2,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "e3696c436513d568d8c8f634e288640663594e40a4e4904d31e2c59197659185",
+          "target_hash": "5df1a0fe6577e341210a71b92bcaa32634f82cf5f0526a45000d523277f41166",
+          "source_excerpt": "- smoothness  \n- independence and integrity or melodic lines  \n- variety  \n- motion (towards a goal)",
+          "target_excerpt": "- זרימה חלקה.\n- עצמאות ולכידות של הקווים המלודיים.\n- גיוון.\n- תנועה לעבר יעד.",
+          "structure_matches": true
+        },
+        {
+          "unit": 3,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "58a51049959425d964a941e527c304198d1762563f2555be11540b33c62ae79d",
+          "target_hash": "2bedf148fd324b13defcf01018054e6daa77e13f9c4afc067be1bfde7cb76210",
+          "source_excerpt": "Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*. The",
+          "target_excerpt": "התרגילים הראשונים שלנו בהולכת קולות קפדנית יהיו כתיבת קנטוס פירמוס טובים ובנויים היטב. הצעד הראשון ה",
+          "structure_matches": true
+        },
+        {
+          "unit": 4,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "1022bcd906eba626010ffd5f2a14ea24022e0c44751f91b8b66fa2232508276e",
+          "target_hash": "b6673dc11e63127c2aaeeee592b8024b704a76f8a696b07fa7edad6b01bacdf7",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/da93d4d902\" width=\"100%\" height=\"200\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"דוגמת קנטוס פירמוס או תרגיל\" src=\"https://trinket.io/embed/music/da93d4d902\" width=\"1",
+          "structure_matches": true
+        },
+        {
+          "unit": 5,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "1c1b62895105576e671b76df6cb2e12739e537291a44a73335309946b7a0cf8a",
+          "target_hash": "eb25d9d1f5021b54d9470704e4557b584d4596b395fe5006e56485fada93507a",
+          "source_excerpt": "A number of others are provided [here][CFs]. Performing these is a helpful practice to develop an in",
+          "target_excerpt": "דוגמאות נוספות מופיעות [כאן][CFs]. ביצוע שלהן מסייע לפתח תחושה פנימית של הצליל ושל אופי הקנטוס הבנוי",
+          "structure_matches": true
+        },
+        {
+          "unit": 6,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "e2f992eb48cf556a47dead58a744e4e9cccf283b94a52598d58b52189f509c7a",
+          "target_hash": "ecff1dcffdd0a16f59acb4e9739effecae3c6417d721bccc3b5ec286ec049cc6",
+          "source_excerpt": "From these *cantus*, notice how the general musical characteristics of smoothness, melodic integrity",
+          "target_excerpt": "התבוננו כיצד התכונות הכלליות — זרימה חלקה, לכידות מלודית, גיוון ותנועה לעבר יעד — מתממשות במאפיינים ",
+          "structure_matches": true
+        },
+        {
+          "unit": 7,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "749066d28bf9c90c63e867b4a3c947c572275ab37df65e1be47595f67582c3bb",
+          "target_hash": "2b9d850f6f0e2afbaf287158fcf63fc4ed54649e98f567378a6f9764ac09271c",
+          "source_excerpt": "- length of about 8–16 notes  \n- arhythmic (all whole notes; no long or short notes)  \n- begin and e",
+          "target_excerpt": "- אורך של כ־8–16 תווים.\n- היעדר גיוון קצבי (arhythmic): כל התווים הם שלמים; אין תווים ארוכים וקצרים ",
+          "structure_matches": true
+        },
+        {
+          "unit": 8,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "798583cc76efa3300a8da11881d1cab921d77fb510e1fdbc08d5a29e26881941",
+          "target_hash": "6e8264c19a5647f8878f8dcc14d0b09b31f932f4ebdd29837153a6c6b59923f8",
+          "source_excerpt": "## Melodic tendencies",
+          "target_excerpt": "## נטיות מלודיות",
+          "structure_matches": true
+        },
+        {
+          "unit": 9,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "46dda8d13e0c5c8690ceac47fb1c982636541d9e2449ef7387cc46aebeb7cd52",
+          "target_hash": "7a3211ce04b44695dff58025de83a8e1b3fdc2aedcdc338b2f33ea4464ea9e2d",
+          "source_excerpt": "The characteristics listed above are fairly detailed, and some of them are specific to strict specie",
+          "target_excerpt": "המאפיינים שלמעלה מפורטים למדי, וחלקם ייחודיים לקונטרפונקט קפדני לפי סוגים. עם זאת, יחד הם מבטאים באו",
+          "structure_matches": true
+        },
+        {
+          "unit": 10,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "1d921f5d9a2a691604e4113ffa357b06fab1ec1b1f8b78f675ed20e86c58fc23",
+          "target_hash": "05ef016e1fd3afd2a571d58c5f3de36938a39c11380c3be151e91af32766ddbe",
+          "source_excerpt": "[David Huron](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) identifies five general p",
+          "target_excerpt": "[David Huron](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) מזהה חמישה מאפיינים כלליי",
+          "structure_matches": true
+        },
+        {
+          "unit": 11,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "4effa2ce0af95528f0276ceb0e890309df96e007ab5103ff90f7c05c370f557f",
+          "target_hash": "b94b894ccb8ec8666b0c0b5d33d59bf8ac64de143e1644c7c787de4d7f4269e9",
+          "source_excerpt": "- **pitch proximity** – the tendency for melodies to progress by steps more than leaps and by small ",
+          "target_excerpt": "- **קרבה בגובה (pitch proximity):** הנטייה להתקדם בצעדים יותר מאשר בקפיצות, ובקפיצות קטנות יותר מאשר",
+          "structure_matches": true
+        },
+        {
+          "unit": 12,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "5007097d0eecc622bd14dd213cdc2ad39cf6ba165ad39d8b3964ec1ae29944b9",
+          "target_hash": "08c0cafd3894b5a4f305f92f8bd87771536b33144717e674a07c5d414eb1f075",
+          "source_excerpt": "## Practice exercise",
+          "target_excerpt": "## תרגיל הכנה",
+          "structure_matches": true
+        },
+        {
+          "unit": 13,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "5ee83142dadca36a45398764f9e5f58c19cea4b3e9eb86b7bd5c965f161210e5",
+          "target_hash": "f0fad1126c744a83d01adbfab9d0cbe8f1a300fc4c99016c2c59139285176c0b",
+          "source_excerpt": "Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the foll",
+          "target_excerpt": "לפני כתיבת קנטוס פירמוס מתחילתו, נסו לבנות קנטוס תקין סביב השלד הבא. האורך, גובה ההתחלה, הגובה הלפני",
+          "structure_matches": true
+        },
+        {
+          "unit": 14,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "8c9bee665b961e38123cf9e0f42148d5209dd931334fc806670023e2625bd81f",
+          "target_hash": "1a65b0260f31c2b8860d1a66cfe9b61b201429af81327d9ba0e068dfbd26f80b",
+          "source_excerpt": "<iframe class=\"trinket\" src=\"https://trinket.io/embed/music/2df65adf8b\" width=\"100%\" height=\"240\" fr",
+          "target_excerpt": "<iframe title=\"דוגמת קנטוס פירמוס או תרגיל\" class=\"trinket\" src=\"https://trinket.io/embed/music/2df6",
+          "structure_matches": true
+        },
+        {
+          "unit": 15,
+          "source_type": "link-definition",
+          "target_type": "link-definition",
+          "source_hash": "f63961e18b81d99e0b8080e6914f1a4b65defc773ccbcb4dc6909ae0fd6033b0",
+          "target_hash": "f63961e18b81d99e0b8080e6914f1a4b65defc773ccbcb4dc6909ae0fd6033b0",
+          "source_excerpt": "[CFs]: {{ site.url }}/Graphics/counterpoint/cantusFirmi.pdf",
+          "target_excerpt": "[CFs]: {{ site.url }}/Graphics/counterpoint/cantusFirmi.pdf",
+          "structure_matches": true
+        }
+      ]
+    },
+    {
+      "file": "firstSpecies.md",
+      "source_units": 33,
+      "target_units_excluding_editorial_notes": 33,
+      "units": [
+        {
+          "unit": 1,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "e145da6b3fd0dfd15b6096af4499bf6dc24bd10f10ed7cb48f4596c907eb234b",
+          "target_hash": "6efca2d57d3a1aa4ab16a7772503727feddf7255a9f493000649ce70cba5a3bf",
+          "source_excerpt": "Counterpoint is the mediation of two or more musical *lines* into a meaningful and pleasing *whole*.",
+          "target_excerpt": "קונטרפונקט (counterpoint) הוא התיווך בין שני *קווים* מוזיקליים או יותר לכדי *שלם* משמעותי ונעים. בסו",
+          "structure_matches": true
+        },
+        {
+          "unit": 2,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "7806d8e7d8126e77f46f6c2886489c5483f1baa5a07a93cd9c864f1b90e6634f",
+          "target_hash": "8389f9219cc52033aac9a35143fa1c08604826cf1782c40f2ab797a8771394ed",
+          "source_excerpt": "In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a singl",
+          "target_excerpt": "בקונטרפונקט מן הסוג הראשון מתחילים ב*קנטוס פירמוס (cantus firmus)*, חדש או קיים, וכותבים מעליו או מת",
+          "structure_matches": true
+        },
+        {
+          "unit": 3,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "416ed5fabde47fa0b29509223ba3b8c6affe061f2d748fe176a4b96cb4056cea",
+          "target_hash": "38b521cf704b98ad92ccd0ae0935967cec4ac36ba6653dd81fb0811f743ec9b2",
+          "source_excerpt": "## The counterpoint line ##",
+          "target_excerpt": "## קו הקונטרפונקט",
+          "structure_matches": true
+        },
+        {
+          "unit": 4,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "14b4bc02c6ffb505c15013a6e418b9853a58d7bfa235b81f55d7a23f1a260cb4",
+          "target_hash": "c895005a574c7257e6326e3ae8aab293a9ed4a806014ba862f8cbcbe25b9404e",
+          "source_excerpt": "In general, the counterpoint should follow the principles of [writing a good cantus firmus][CF]. The",
+          "target_excerpt": "ככלל, על הקונטרפונקט לעמוד בעקרונות של [כתיבת קנטוס פירמוס טוב][CF]. יש כמה הבדלים קטנים, שיידונו לה",
+          "structure_matches": true
+        },
+        {
+          "unit": 5,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "fadb54007cb7a4095eaa2a50462a5eec24d2c6f63a50d9f61211c2c388dd1eef",
+          "target_hash": "406b21403e2e0ce94979793df2f689a428080eefdd67fc331b0c0aa5196ea9fa",
+          "source_excerpt": "### Beginning a first-species counterpoint ###",
+          "target_excerpt": "### פתיחת קונטרפונקט מן הסוג הראשון",
+          "structure_matches": true
+        },
+        {
+          "unit": 6,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "29712dec69bc8d1f27003fa4cb4be9600f20aaabcaa59daed95464129425a524",
+          "target_hash": "4c1bc2cb87c1a758a81a11fb7c9a1fa2b50f10bd36304a1219491ea4147bf64a",
+          "source_excerpt": "To exemplify goal-oriented motion, the first-species exercise should begin and end with the most sta",
+          "target_excerpt": "כדי להדגים תנועה מכוונת ליעד, התרגיל צריך להתחיל ולהסתיים במצלולים היציבים ביותר: *קונסוננסים מושלמי",
+          "structure_matches": true
+        },
+        {
+          "unit": 7,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "6ba61632b10135ff5603da93374ac2a91ac6da877da1a4c644225dcbef726b78",
+          "target_hash": "7902fe95656d4d095a71e5e329c896c7105a0af8ba6da6f9d516a74695f62dfe",
+          "source_excerpt": "When writing a counterpoint *below* a cantus firmus, the first note of the counterpoint must always ",
+          "target_excerpt": "כאשר הקונטרפונקט נכתב *מתחת* לקנטוס, התו הראשון חייב תמיד להיות *do* — במרווח P1 או P8 מתחתיו. פתיחה",
+          "structure_matches": true
+        },
+        {
+          "unit": 8,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "c892de3d7bc28f06c22a0d0a97b262ea78b94ff8aa278433f814cef1877d9675",
+          "target_hash": "3b630f981584071680afed582f0f2734bfcb36d56cd91cca1574d163be6a2daf",
+          "source_excerpt": "### Ending a first-species counterpoint ###",
+          "target_excerpt": "### סיום קונטרפונקט מן הסוג הראשון",
+          "structure_matches": true
+        },
+        {
+          "unit": 9,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "009d29fadc03526ceb779b279e3ab0d9cee1e9d10c4bac057bbc3cfa0e1bd776",
+          "target_hash": "927cde0f9829a0c4699e22ecff46ea465e1bd9b664b04eb4f7f391bd1dc5e1d4",
+          "source_excerpt": "The final note of the counterpoint must always be *do* (P1 or P8 above/below the cantus).",
+          "target_excerpt": "התו האחרון בקונטרפונקט חייב תמיד להיות *do*, במרווח P1 או P8 מעל הקנטוס או מתחתיו.",
+          "structure_matches": true
+        },
+        {
+          "unit": 10,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "2d113ba41751423af0c940fc26f01ddf5590cd0df7e69f56043c9a84feb7deea",
+          "target_hash": "8425ed0668c0f986f093a27f895560c102bfd174e81fcfb5f19629a6ebb8a5ee",
+          "source_excerpt": "To approach this ending smoothly, with variety, and with strong goal orientation, always approach th",
+          "target_excerpt": "כדי להגיע לסיום באופן חלק, מגוון ובעל כיווניות ברורה, יש להגיע למרווח האחרון תמיד בתנועה מנוגדת בצעד",
+          "structure_matches": true
+        },
+        {
+          "unit": 11,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "7f0cfd35234014fa07884dedcd329b935d842445d9e0e4aed804fa5523bee5c4",
+          "target_hash": "09dd192a60ba0ec1925e215ed86098b67c180fdb883acd8339120e0b7691a826",
+          "source_excerpt": "### Independence of the lines ###",
+          "target_excerpt": "### עצמאות הקווים",
+          "structure_matches": true
+        },
+        {
+          "unit": 12,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "84757b650c090e89d3369e3158dedf8dd867c4f7f1edb8d80a031e2301d16ecd",
+          "target_hash": "6bb25f52853f2815cb58633e0d68d318ba680213adc7007cca96aaa869d23f50",
+          "source_excerpt": "Like the cantus firmus, the counterpoint should have a single climax. To maintain the independence o",
+          "target_excerpt": "כמו לקנטוס, גם לקונטרפונקט צריך להיות שיא יחיד. כדי לשמר את עצמאות הקווים ואת הזרימה החלקה של הקטע כ",
+          "structure_matches": true
+        },
+        {
+          "unit": 13,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "64193053f70c8eb0ee252c1f0fcae0e687b2c87196605f31f9f60d0c176ea8b8",
+          "target_hash": "906c3918c4d8b051b79cf884542ab8c7f216f8f79da05d3b481c9c131dfec5c7",
+          "source_excerpt": "A single repeat/tie in the counterpoint is allowed, but try to avoid repeating at all. This promotes",
+          "target_excerpt": "מותרת חזרה אחת על תו, או קשת מאריכה אחת, בקונטרפונקט; עם זאת, נסו להימנע מחזרה בכלל. הדבר מקדם גיוון",
+          "structure_matches": true
+        },
+        {
+          "unit": 14,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "42a0da6ff2eadc649ecdd2c795993a4b3c757008462c0c582ba75d506e094b39",
+          "target_hash": "c309705c57d048bad36c551ad3a9762b1b3f960bd6951bc22c30d5369b7b48d6",
+          "source_excerpt": "Avoid *voice crossing*, where the upper voice is temporarily lower than the lower voice, and *vice v",
+          "target_excerpt": "הימנעו מ*הצטלבות קולות (voice crossing)*: מצב שבו הקול העליון נמוך זמנית מן הקול התחתון, ולהפך. הצטל",
+          "structure_matches": true
+        },
+        {
+          "unit": 15,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "c4823a1bd2324eb6965d744d6fc1dbf3cd0c16d1acbdc7bad3e15e81a7fbb6b4",
+          "target_hash": "0f7f38ff8eaa7c17d0a764d2f74b8e5519b598aeab71b0de100270cce4608451",
+          "source_excerpt": "Avoid *voice overlap*, where one voice leaps past the previous note of the other voice. For example,",
+          "target_excerpt": "הימנעו גם מ*חפיפת קולות (voice overlap)*: מצב שבו קול אחד קופץ אל מעבר לתו הקודם של הקול האחר. למשל,",
+          "structure_matches": true
+        },
+        {
+          "unit": 16,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "72b13a0ad7cacb9ee626732bede6d6ac7afa092357701b2054a8b42fb09cea69",
+          "target_hash": "251243740860b38ccdd6eee57f0d6a3acbb1b62eaee2e18944b7d0c42a7f36cc",
+          "source_excerpt": "### Intervals and motion ###",
+          "target_excerpt": "### מרווחים ותנועה",
+          "structure_matches": true
+        },
+        {
+          "unit": 17,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "d178059e76e6cf50523b4c4f70a05c8318c2482293ccd6a7bccb2f054c68e992",
+          "target_hash": "8edb8bbaa35944f18da8252f4c827f2cbd19b979f4c4dd39c861da1b885d169a",
+          "source_excerpt": "The interval between the cantus and counterpoint at any moment should not exceed a perfect twelfth (",
+          "target_excerpt": "המרווח בין הקנטוס לקונטרפונקט בכל רגע אינו צריך לעלות על מרווח שמספרו שתים־עשרה, זך — אוקטבה ועוד קו",
+          "structure_matches": true
+        },
+        {
+          "unit": 18,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "d10afe1e88bacbb5c51eaed809b526db0589962d41dcb07e5f09f6c910916f92",
+          "target_hash": "f15fa3e54b276e1c5b482f3c63ddb096f95b3bbcc96c5386593ca0c9224ed681",
+          "source_excerpt": "In general, all harmonic *consonances* are allowed. However, unisons should only be used for first a",
+          "target_excerpt": "ככלל, כל הקונסוננסים ההרמוניים מותרים. עם זאת, פרימות זכות (unisons) משמשות רק כמרווח הראשון והאחרון",
+          "structure_matches": true
+        },
+        {
+          "unit": 19,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "b96a1b9be988503c0f2d8cd92077968167877d53df5064accaa3e785477e5f80",
+          "target_hash": "3d4974591ec0b1acdf724f9a458162889186ec3e03c5f6726d66850165531cfc",
+          "source_excerpt": "*Imperfect consonances* are preferable to *perfect consonances* for all intervals other than the fir",
+          "target_excerpt": "*קונסוננסים בלתי מושלמים (imperfect consonances)* עדיפים על קונסוננסים מושלמים בכל הצמדים פרט לראשון",
+          "structure_matches": true
+        },
+        {
+          "unit": 20,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "ba6282bd5739fdb91c38428d9f2c11af4e9bc366ceb24cfcfae5a446e204ecd0",
+          "target_hash": "3d063058eb2fd4b2a3659ffc5e876bfb2d3239afabdc8f1fed2043ff9b29a722",
+          "source_excerpt": "*Never, ever, ever* use two perfect consonances of the same size in a row: **P5–P5** or **P8–P8**. T",
+          "target_excerpt": "*לעולם, בשום אופן,* אל תשתמשו בשני קונסוננסים מושלמים מאותו גודל ברצף: **<bdi dir=\"ltr\">P5–P5</bdi>*",
+          "structure_matches": true
+        },
+        {
+          "unit": 21,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9464b2dc71505c475e2b69b0e1a4d3bbe6f73415307cc66b8db8fcf4c3fc6269",
+          "target_hash": "134a7dbbf6050b32669abff8158f0e53ed54c3e6c3dd6abb7f4717e45425b6d6",
+          "source_excerpt": "Vary the types of motion between successive intervals (parallel, similar, contrary, oblique). Try to",
+          "target_excerpt": "גוונו את סוגי התנועה בין מרווחים עוקבים: מקבילה, דומה, מנוגדת ואלכסונית. נסו להשתמש בכל הסוגים, אולי",
+          "structure_matches": true
+        },
+        {
+          "unit": 22,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "03b6da5c624a5af210caea699055b9f7b011fba6ce39648021db6b35f15ff548",
+          "target_hash": "e60ce5544206e5b69252005684767cccd7428912d0f2d2ff1eafd2bbe687f9cd",
+          "source_excerpt": "Because similar and parallel motion diminish variety and melodic independence, their use should be m",
+          "target_excerpt": "מאחר שתנועה דומה ומקבילה מפחיתות גיוון ועצמאות מלודית, יש לאזן את השימוש בהן באמצעות שיקולים נוספים:",
+          "structure_matches": true
+        },
+        {
+          "unit": 23,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "863f17b8c75087bd843545e4b34e0e8e6a97ff5ddd24cc41a70a820c1d931ec9",
+          "target_hash": "d72530057208adf5e970e8e122a6a79046e237fe7d5e86bdb8d6d7a117f790b1",
+          "source_excerpt": "- Do not use more than three of the same imperfect consonance type in a row (e.g., three thirds in a",
+          "target_excerpt": "- אין להשתמש ביותר משלושה קונסוננסים בלתי מושלמים מאותו סוג ברצף, למשל שלוש טרצות.\n- *לעולם* אין להג",
+          "structure_matches": true
+        },
+        {
+          "unit": 24,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "fda0f2d479041537ae0833089604fe138335939b3f2e980c76c8ed81e310e4c4",
+          "target_hash": "74e90fe593ca9c49b74d4556022c60e40d6c72d593c8ec92a9dcc498b98ad780",
+          "source_excerpt": "## Demonstration ##",
+          "target_excerpt": "## הדגמה",
+          "structure_matches": true
+        },
+        {
+          "unit": 25,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "eed606cdbda8930fef4bf18547009f51fb060f68e7b47411efb627b1c6f69264",
+          "target_hash": "e8b16668d224cbee9613fc7de3e9770086cadfcc3c4db16fdb0cc23f5f535b9f",
+          "source_excerpt": "In the following video, I illustrate the process of composing a first-species counterpoint. This vid",
+          "target_excerpt": "בסרטון הבא המחבר מדגים את תהליך כתיבת הקונטרפונקט מן הסוג הראשון. הסרטון מוסיף מידע על תהליך ההלחנה ",
+          "structure_matches": true
+        },
+        {
+          "unit": 26,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "30543fa1a8141541857c384848dd986ebab86c46f281aa0c585b674a1bfd202a",
+          "target_hash": "ed7653d08c28f8a939af6be2d0eb729aca8dbd6138bacd5f359d6682eeb43cdd",
+          "source_excerpt": "<iframe src=\"http://player.vimeo.com/video/56828309\" width=\"500\" height=\"281\" frameborder=\"0\" webkit",
+          "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון\" src=\"http://player.vimeo.com/video/5682830",
+          "structure_matches": true
+        },
+        {
+          "unit": 27,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "ff2ee8ddb9414567500e012817421a8e8f092aaa54ef3054db60247a55ff9f63",
+          "target_hash": "f085467daeaf9a22bace15145ebbc63718a50bee9cbc82736e4f860d31a1b040",
+          "source_excerpt": "## Practice ##",
+          "target_excerpt": "## תרגול",
+          "structure_matches": true
+        },
+        {
+          "unit": 28,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "a9e0032be69c761ec0d35edaad061b7ee727158cd0364a2bfdf25b919a815117",
+          "target_hash": "643a38f37ba267750cc591058b2682e7b1af3eeac6505816585ef6d6f0c21113",
+          "source_excerpt": "Before composing a first-species exercise from scratch, try the following practice exercises. Each h",
+          "target_excerpt": "לפני כתיבת תרגיל מן הסוג הראשון מתחילתו, נסו את תרגילי ההכנה הבאים. בכל אחד יש שגיאה אחת או שתיים. מ",
+          "structure_matches": true
+        },
+        {
+          "unit": 29,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "2ec8d51602c4ddd8fc0325d236551c10d6a9f316b446490abc67a4a72b5c77d5",
+          "target_hash": "73be47f321b84192c623ef58e27d1167213b6efd99ad8ecb40e973ee489c2fa2",
+          "source_excerpt": "### Minor key practice, counterpoint above",
+          "target_excerpt": "### תרגול במינור: קונטרפונקט מעל הקנטוס",
+          "structure_matches": true
+        },
+        {
+          "unit": 30,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "63a8ac2935096e04827d650e15cacf13e81be799714286bf47065f267fd071d8",
+          "target_hash": "3b7bbcf0629c79c0dc510e58876277ae7775284e6ef9df098cc5b60da0149903",
+          "source_excerpt": "<iframe class=\"trinket\" src=\"https://trinket.io/embed/music/a089e987ca\" width=\"100%\" height=\"300\" fr",
+          "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון\" class=\"trinket\" src=\"https://trinket.io/em",
+          "structure_matches": true
+        },
+        {
+          "unit": 31,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "308dfd1bc7b16f0c48fbb3297d40539e6ad91aee64f97c3629035fe0eeb80649",
+          "target_hash": "da8c7b329d57810cba0649c17c6853fb3eeb16cf05db008d7f59b3d86161edf0",
+          "source_excerpt": "### Major key practice, counterpoint below",
+          "target_excerpt": "### תרגול במז׳ור: קונטרפונקט מתחת לקנטוס",
+          "structure_matches": true
+        },
+        {
+          "unit": 32,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "4d56c3e0021b2a34d3356a8f41b87694d1f7a0d9046572cf62a84c5373341225",
+          "target_hash": "9147b622fbcc895fbd1485fce148978811278fff7453dfa3c079699368d361c9",
+          "source_excerpt": "<iframe class=\"trinket\" src=\"https://trinket.io/embed/music/585810f762\" width=\"100%\" height=\"300\" fr",
+          "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון\" class=\"trinket\" src=\"https://trinket.io/em",
+          "structure_matches": true
+        },
+        {
+          "unit": 33,
+          "source_type": "link-definition",
+          "target_type": "link-definition",
+          "source_hash": "b2ff940bfd45cffc037a49e59704ace2a67e3e1e639b1f5e9b0891bdd678de02",
+          "target_hash": "b2ff940bfd45cffc037a49e59704ace2a67e3e1e639b1f5e9b0891bdd678de02",
+          "source_excerpt": "[CF]: cantusFirmus.html",
+          "target_excerpt": "[CF]: cantusFirmus.html",
+          "structure_matches": true
+        }
+      ]
+    },
+    {
+      "file": "secondSpecies.md",
+      "source_units": 51,
+      "target_units_excluding_editorial_notes": 51,
+      "units": [
+        {
+          "unit": 1,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "ed95eae3d4efc83276f5fec8ce81ac0357de72bc1fa90ab03993f6851209b825",
+          "target_hash": "38788e25a27cbb42b093bc88399a98a7e4619faffd89a65f8786fbae01ec1cd9",
+          "source_excerpt": "In second-species counterpoint, the counterpoint line moves in half notes against a cantus firmus in",
+          "target_excerpt": "בקונטרפונקט מן הסוג השני, קו הקונטרפונקט נע בחצאים כנגד קנטוס פירמוס בתווים שלמים. יחס קצבי זה, <bdi",
+          "structure_matches": true
+        },
+        {
+          "unit": 2,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "00b7517cc8f12508345fd87b9466333dba918b746aae31d4b9612968427114d6",
+          "target_hash": "60e756c43da832544b3ef89479f3c93b0304d18c9c98441f83bdd32ff861d0f7",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/bd3da422f4\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/bd3da422",
+          "structure_matches": true
+        },
+        {
+          "unit": 3,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "3a7af5cde50cf9c7cb0174eb6bfe7b33b8bab0394126c33f095d748f7fa37b71",
+          "target_hash": "9dd9d2103a330a53ace2ac79b52426ef020f230aa049670d9f88f90f8c89928a",
+          "source_excerpt": "*An example second-species exercise by Heinrich Schenker.*",
+          "target_excerpt": "*תרגיל מן הסוג השני לדוגמה, מאת Heinrich Schenker.*",
+          "structure_matches": true
+        },
+        {
+          "unit": 4,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "e805f9a0739d5c8e27eb716d2236a5e9da6bc8e0d85102213d29282913147915",
+          "target_hash": "2c9d86448b3082764415af9b0010b8e1b7daf3996dc5b8750cad318c9e86baa8",
+          "source_excerpt": "The introduction of harmonic dissonance into second species adds to the variety of the musical textu",
+          "target_excerpt": "הוספת דיסוננס הרמוני בסוג השני מגוונת את המרקם המוזיקלי. עם זאת, היא יוצרת מתח שיש לאזן בקונסוננס כד",
+          "structure_matches": true
+        },
+        {
+          "unit": 5,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "416ed5fabde47fa0b29509223ba3b8c6affe061f2d748fe176a4b96cb4056cea",
+          "target_hash": "38b521cf704b98ad92ccd0ae0935967cec4ac36ba6653dd81fb0811f743ec9b2",
+          "source_excerpt": "## The counterpoint line ##",
+          "target_excerpt": "## קו הקונטרפונקט",
+          "structure_matches": true
+        },
+        {
+          "unit": 6,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "b99dcb63f0133ef0d9da50555f4c841ca879be85d9a7ba9148700cd296d6e529",
+          "target_hash": "b7481f3b9c228b9a9e264e77d4c9ebcf6c9a02a72be83eb3c8f0985d04b6d052",
+          "source_excerpt": "As in first species, the counterpoint line should be singable, have a good shape, with a single clim",
+          "target_excerpt": "כמו בסוג הראשון, הקו צריך להיות נוח לשירה, בעל קו מתאר טוב ושיא יחיד, ולהתקדם בעיקר בצעדים, עם כמה ק",
+          "structure_matches": true
+        },
+        {
+          "unit": 7,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "6258ef7b789caf80ffde8f20ca38bdce0f1f006b1dc5a05288a58cb8e52bbdb3",
+          "target_hash": "ef4b6e6053014ecc4ce378413a36213531fccc9a52a4d15a7ec6e082ddf94792",
+          "source_excerpt": "If the counterpoint must leap, take advantage of the metrical arrangement to diminish the attention ",
+          "target_excerpt": "אם הקונטרפונקט חייב לקפוץ, נצלו את ארגון המשקל כדי להפחית את תשומת הלב לקפיצה: ככל האפשר, קפצו מפעימ",
+          "structure_matches": true
+        },
+        {
+          "unit": 8,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "e6b76a52d2ce266644e966d2a3b3588d01c42e38c95710486e4889644cba9ed8",
+          "target_hash": "1c5fbdd7280387ac2aab982f107f56555e47fb7fc806723093d7a14e7e4cb048",
+          "source_excerpt": "Also, because there are more notes in a second species line, there should usually be one or two *sec",
+          "target_excerpt": "מכיוון שיש בקו יותר תווים, בדרך כלל רצוי שיהיו גם *שיאים משניים (secondary climaxes)*, אחד או שניים:",
+          "structure_matches": true
+        },
+        {
+          "unit": 9,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "7c6798020722c89bd9d61d532550d9afe23d0347f6f4f41b66625515fd82010f",
+          "target_hash": "07afc74e002f3193eda26279cbf3921fa5f0bd57b7100ce41a59816f9f8a4b96",
+          "source_excerpt": "### Beginning a second-species counterpoint ###",
+          "target_excerpt": "### פתיחת קונטרפונקט מן הסוג השני",
+          "structure_matches": true
+        },
+        {
+          "unit": 10,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "800a033409634238cfdabddcd27b35294736b7bce30f19126d84850bb1fd5ad4",
+          "target_hash": "f81ee3276373d1b42104dc1e2096d015ade0bd4a216f8a4f452cab544b9e8c90",
+          "source_excerpt": "As in first species, begin a second-species counterpoint above the cantus firmus with *do* or *sol*.",
+          "target_excerpt": "כמו בסוג הראשון, התחילו קונטרפונקט מעל הקנטוס ב־*do* או ב־*sol*, וקונטרפונקט מתחתיו ב־*do*. פרימות ז",
+          "structure_matches": true
+        },
+        {
+          "unit": 11,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "bc00c1fae61d693799d2cb7423cf450de0d1e900a9a5c0ff3f9f3ecd2df2cdcf",
+          "target_hash": "d5351f1094fcf3b033f248de711e0f0cb41b1e1ae6082b1e5f56611fee141d12",
+          "source_excerpt": "A second-species line can begin with two half notes in the first bar, or a half rest followed by a h",
+          "target_excerpt": "בתיבה הראשונה אפשר לכתוב שני חצאים, או הפסקת חצי ולאחריה חצי. פתיחה בהפסקה מבססת ביתר קלות את הדפוס ",
+          "structure_matches": true
+        },
+        {
+          "unit": 12,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "73e367c8847afc37ad7cf20d396a5e27015b950b9c18678434573520a7635d5d",
+          "target_hash": "0e711c632c2bc9e6b94f181bae4a82a4b279446503a2eed1c461c82a5c8c3e51",
+          "source_excerpt": "### Ending a second-species counterpoint ###",
+          "target_excerpt": "### סיום קונטרפונקט מן הסוג השני",
+          "structure_matches": true
+        },
+        {
+          "unit": 13,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "ab4f38e2a96a290b1acc8928ccdd690e7d2d03aebd16df885a4352c21e2b16de",
+          "target_hash": "b6374a63aa3817034a0bed8ed147065c1316023d4d89b2e0671bc3b0ce379bae",
+          "source_excerpt": "The final pitch of the counterpoint should be *do*, as in first species.",
+          "target_excerpt": "הגובה האחרון בקונטרפונקט צריך להיות *do*, כמו בסוג הראשון.",
+          "structure_matches": true
+        },
+        {
+          "unit": 14,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "c37620226c89cecd5661709504b47313876520a2b8458352c7af01c5aeb8e1c4",
+          "target_hash": "b49c5e3a9952c5c5fd443d1eccf7222cd3b5131cef2e1d82b21f3466720eef12",
+          "source_excerpt": "The penultimate note of the counterpoint should be *ti* if the cantus is *re*, and *re* if the cantu",
+          "target_excerpt": "גם כאן, התו הלפני־אחרון בקונטרפונקט צריך להיות *ti* אם בקנטוס נשמע *re*, ו־*re* אם בקנטוס נשמע *ti*.",
+          "structure_matches": true
+        },
+        {
+          "unit": 15,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "915def6bcf78671a68cdf280884ab5cb6ee8fec6d78708c7fd08a989450ba22d",
+          "target_hash": "df08d2ccecb47bf1a7b09b5f8f5141e0ca9e88c410a9df253ea63b839b9b898d",
+          "source_excerpt": "The penultimate bar of the counterpoint can either be a *whole note* (making the last two bars ident",
+          "target_excerpt": "התיבה הלפני־אחרונה בקונטרפונקט יכולה להכיל *שלם*, כך ששתי התיבות האחרונות זהות לאלה של הסוג הראשון, ",
+          "structure_matches": true
+        },
+        {
+          "unit": 16,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "3fec84c54fbbb74ab4dce019882db7e8389a2431434125461f98de7d69e264b9",
+          "target_hash": "a091518659cf855285ed3c52ccd6fa6ff313a495e827ebd6412e1ff0eb171c97",
+          "source_excerpt": "### Strong beats ###",
+          "target_excerpt": "### פעימות חזקות",
+          "structure_matches": true
+        },
+        {
+          "unit": 17,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "a995ffd512f28bbd6b7dcc92971761cc906cf68b1341849cb7a7fdaf76e8b206",
+          "target_hash": "09a16b64c1cfda303152454850e61f35699d2bdb65d29c8fd7455e8831594ff4",
+          "source_excerpt": "*Because the inclusion of dissonance in a musical texture creates new musical problems that need to ",
+          "target_excerpt": "*שילוב דיסוננס במרקם יוצר בעיות מוזיקליות חדשות הדורשות טיפול. לכן בסוג השני מציגים אותו באופן מוגבל",
+          "structure_matches": true
+        },
+        {
+          "unit": 18,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "ad310f00d94e3d3aca919be56b984e54ef9012e08b466c45b74e073bf9458f4f",
+          "target_hash": "5bec933aed82f1bed227abc6dab15a133c656211e4d4514f1b79307a8fab1ac1",
+          "source_excerpt": "Strong beats (downbeats) in second species are *always consonant*. As in first species, prefer imper",
+          "target_excerpt": "הפעימות החזקות — הפעימות הראשונות בתיבות — הן *תמיד קונסוננטיות*. כמו בסוג הראשון, העדיפו קונסוננסים",
+          "structure_matches": true
+        },
+        {
+          "unit": 19,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "907360b87d5cf379f0c970e347d98d38ef0206ded452bbdfea26062c8bdd0a11",
+          "target_hash": "a1f2c38eb4794c5d1237444c136f6e624d33fa0c0f90b732c17365c9ec9bb0c3",
+          "source_excerpt": "Because motion across bar lines (from weak beat to strong beat) involves the same kind of voice moti",
+          "target_excerpt": "התנועה מעבר לקווי התיבה, מפעימה חלשה לחזקה, כוללת אותה תנועת קולות כמו בסוג הראשון: שני קולות נעים י",
+          "structure_matches": true
+        },
+        {
+          "unit": 20,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "36af0e475a6ad742efdd3e2466abc1ed569b5938f49056d6070b7ed67a2a7727",
+          "target_hash": "efea9915c0aae194d9516cb50e1aa64d36210e03b5e0ada4f8cd45f7948fd1f7",
+          "source_excerpt": "Likewise progressions from downbeat to downbeat must follow principles of first-species counterpoint",
+          "target_excerpt": "בדומה לכך, גם המהלכים בין פעימות ראשונות עוקבות כפופים לעקרונות הסוג הראשון. הנה כמה דוגמאות, שאינן ",
+          "structure_matches": true
+        },
+        {
+          "unit": 21,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "e9376f927a1dd468ad53dd4d572f6a9b8a41e1fe641822955bdceb97a68b0151",
+          "target_hash": "057e1b3ce61d093c7fc18b21d082698c7d32cffdb42a7013db03ad3c055282a6",
+          "source_excerpt": "- Do not begin two consecutive bars with the same perfect interval.  \n- Do not outline a dissonant m",
+          "target_excerpt": "- אין לפתוח שתי תיבות עוקבות באותו מרווח זך.\n- אין להתוות מרווח מלודי דיסוננטי בין פעימות ראשונות עו",
+          "structure_matches": true
+        },
+        {
+          "unit": 22,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "4cb30dc102e43ab2d355831b9d10cafa37d270ad343a99f6132e6049f5ba70d3",
+          "target_hash": "fd1fc88050f18b7c39f9a4a54f8a3f607d526add7a8770842c04423886050467",
+          "source_excerpt": "*Hidden* or *direct fifths/octaves* between successive downbeats are fine, as the effect is weak, an",
+          "target_excerpt": "קווינטות ואוקטבות *נסתרות* או *ישירות (hidden or direct fifths/octaves)* בין פעימות ראשונות עוקבות מ",
+          "structure_matches": true
+        },
+        {
+          "unit": 23,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "8fc49f4482e6f39f44755f1d403f8d7ce8c75454a36ed4368cca8f8e7e07c95a",
+          "target_hash": "bc4ce379e5d3ef7fa5dbaa329cf96c032fc612f6935b2ec9c8714f612c0f721b",
+          "source_excerpt": "### Weak beats ###",
+          "target_excerpt": "### פעימות חלשות",
+          "structure_matches": true
+        },
+        {
+          "unit": 24,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "8954bc1e00e65c1b628117853032d096073b8a70e6d928837be815873e044791",
+          "target_hash": "97d41b1b49c3c584d0e2b510b77c6c7d22ae20a18cd731bdfd80b1c763793158",
+          "source_excerpt": "Since harmonic dissonances can appear on weak beats, a mixture of consonant and dissonant intervals ",
+          "target_excerpt": "דיסוננסים הרמוניים יכולים להופיע בפעימות החלשות. לכן שילוב מרווחים קונסוננטיים ודיסוננטיים בהן הוא ה",
+          "structure_matches": true
+        },
+        {
+          "unit": 25,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "c0348ecda08b72b832830b4586999c6e16d13b5ec2a2d895cd4e88773021f419",
+          "target_hash": "ece1febfb6913ef75561bfea0cf70f730393863df8637bfea41f95b9ae19cbdb",
+          "source_excerpt": "Unisons were problematic in first species because they diminished the independence of the lines. How",
+          "target_excerpt": "בסוג הראשון היו הפרימות בעייתיות מפני שהפחיתו את עצמאות הקווים. לעומת זאת, אם הן מופיעות בפעימות החל",
+          "structure_matches": true
+        },
+        {
+          "unit": 26,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "44f2c5391472e9794623c0ba8a26778e9edec70fd9d89f962963fbf0b67d33ae",
+          "target_hash": "923ab1a71fbffd420bf42212919414efe9905c13831452da1cd2e4633ce61476",
+          "source_excerpt": "Any weak-beat dissonance must follow the pattern of the *dissonant passing tone*, explained below. A",
+          "target_excerpt": "כל דיסוננס בפעימה חלשה חייב לעמוד בתבנית של *צליל עובר דיסוננטי*, המוסברת להלן. בהמשך מוסברות גם כמה",
+          "structure_matches": true
+        },
+        {
+          "unit": 27,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "874faff1ba71e8f4b99e1f3e42bc3d68e1ee6dd7db626c0feda63ac54d0599ca",
+          "target_hash": "a3f2137ca8976a5c85401b0782eb75681eeace05b384777375d0dc260b4aa8a1",
+          "source_excerpt": "### Weak beat patterns ###",
+          "target_excerpt": "### תבניות לפעימה החלשה",
+          "structure_matches": true
+        },
+        {
+          "unit": 28,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "4f861eac8146fa2c584fa2aa906459b9e971bc95530c7270daf5a733145d3a8e",
+          "target_hash": "c23acc2f8b3daf24633ce3256a768ba58c70744c2de10995678c49b9d1dc5688",
+          "source_excerpt": "The following patterns (whose terms are either standard or taken from Salzer & Schachter's *Counterp",
+          "target_excerpt": "התבניות הבאות, ששמותיהן מקובלים או לקוחים מספרם של Salzer ו־Schachter, *Counterpoint in Composition*",
+          "structure_matches": true
+        },
+        {
+          "unit": 29,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "5ab51132611d5262cbfa5b27c07fb1fec96e95c7b88549325dae1d53a595c4f5",
+          "target_hash": "9416e0fa394b3209bd02c65e53c1fdfcac6f2b473d0960f09d97c1dd489323cd",
+          "source_excerpt": "Most of these are used as examples in the demonstration video at the bottom of the page.",
+          "target_excerpt": "רוב התבניות מודגמות בסרטון שבסוף הפרק.",
+          "structure_matches": true
+        },
+        {
+          "unit": 30,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "885b8842bacf3cb190443314676d3ac0dbd9a4036013f701e07293aa9b45eebf",
+          "target_hash": "86a43b567d9b7558f4fff915a61c953ac02a103037a7c1a5dc63ce1677d39100",
+          "source_excerpt": "#### Dissonant weak beats ####",
+          "target_excerpt": "#### פעימות חלשות דיסוננטיות",
+          "structure_matches": true
+        },
+        {
+          "unit": 31,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "e2c42e79239c2c0643d3516667b50465caad2dd3c2e71e34a55a9ec8d6711180",
+          "target_hash": "f5833c2ca6bfeee4822e454e0db83f808b09a42a4880cc33f5f3f23cea05c813",
+          "source_excerpt": "*All dissonant weak beats in second species are dissonant passing tones*, so called because the coun",
+          "target_excerpt": "*כל הפעימות החלשות הדיסוננטיות בסוג השני הן צלילים עוברים דיסוננטיים (dissonant passing tones)*. הן ",
+          "structure_matches": true
+        },
+        {
+          "unit": 32,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "69d9af0484d8105cf59787859563c97030ff304011d74b1a45c9c439b7a13da2",
+          "target_hash": "6fc52082ebab2917203d51a64b1473c45681bdbb46f4dfe067e3eb447c0587c7",
+          "source_excerpt": "Since all dissonances in second species are passing tones, you will never leap into or out of a diss",
+          "target_excerpt": "מכיוון שכל הדיסוננסים בסוג השני הם צלילים עוברים, אין לקפוץ אל צליל דיסוננטי או ממנו, אין לשנות עליו",
+          "structure_matches": true
+        },
+        {
+          "unit": 33,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "3046cf92640fe8ac35f30d60f8d8deb1c46d11cd6825eb510fe08b5886cb8b5c",
+          "target_hash": "360e82b76b06f4f07d5163e171eda8b5e5824f130d56b1b403926563e2416d49",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/ef1cff1ee3\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/ef1cff1e",
+          "structure_matches": true
+        },
+        {
+          "unit": 34,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "564d5fd323886e9975610f7ceb90e9c367bda14f2417b4e40a03479d56ee514f",
+          "target_hash": "c39f34288d36c98226262ef3c4cae92bbf65e5f86547a448998db89eea258703",
+          "source_excerpt": "####  Consonant weak beats ####",
+          "target_excerpt": "#### פעימות חלשות קונסוננטיות",
+          "structure_matches": true
+        },
+        {
+          "unit": 35,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "07af52213a63083dac1479c8062dab49e1f61ce30cd1215cedf070c6a344aa7b",
+          "target_hash": "c28d81fc75acd84c412e89fd7ff25486702114666e4c888ceaccaa4e99a086d0",
+          "source_excerpt": "A *consonant passing tone* outlines a third from downbeat to downbeat, and has the same pattern as t",
+          "target_excerpt": "*צליל עובר קונסוננטי (consonant passing tone)* מתווה טרצה בין שתי פעימות ראשונות, באותה תבנית כמו הצ",
+          "structure_matches": true
+        },
+        {
+          "unit": 36,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "9205e5e19e3f3bcaf2715ea2780724dc770484e949c54c3343b8b7a1be729234",
+          "target_hash": "c2db28a73b4c055d77ec35250ba0a87544f7f52bb4d919bb836fdfc20666fb08",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/de54f539bb\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/de54f539",
+          "structure_matches": true
+        },
+        {
+          "unit": 37,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9e3b1f89dea2c37755b21ee64f7f0eea5811afd107af763d3a09006f5a320646",
+          "target_hash": "0377974ebc7770686441932d1722ebcc26680fcc256a9d73d95f2f497a3a170a",
+          "source_excerpt": "A *substitution* also outlines a third from downbeat to downbeat. However, instead of filling it in ",
+          "target_excerpt": "גם *תחליף (substitution)* מתווה טרצה בין שתי פעימות ראשונות. במקום למלא אותה בתנועה בצעדים, הקונטרפו",
+          "structure_matches": true
+        },
+        {
+          "unit": 38,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "41e69b85d93a6f198997291ced6e7a84e86f655cedabad60282206ddb950152f",
+          "target_hash": "48072dbe98f1995e19b235e01892ca40d9901abf403e036b3029730c95f9b57b",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/f258be56b6\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/f258be56",
+          "structure_matches": true
+        },
+        {
+          "unit": 39,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "945d557fec02b05e800c4414d01c58819e19c1949481b5ea4ecb4490cff63f1b",
+          "target_hash": "4a3d13ef5d5cf5ebf0a5f207dfa4c57448bf045a86d04ad9e83eca00a675bf55",
+          "source_excerpt": "A *skipped passing tone* outlines a fourth from downbeat to downbeat. The weak-beat note divides tha",
+          "target_excerpt": "*צליל עובר בדילוג (skipped passing tone)* מתווה קוורטה בין שתי פעימות ראשונות. תו הפעימה החלשה מחלק ",
+          "structure_matches": true
+        },
+        {
+          "unit": 40,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "add5246b2cb75f74015986a94c2eb267d8b8ccd5e92761706c32dab25b6c2bb7",
+          "target_hash": "0450eaf296c1554d04fc2b2376689dfd32191b1d46ba0c6aa9f6595bdb3b4f71",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/24c7f0ee8e\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/24c7f0ee",
+          "structure_matches": true
+        },
+        {
+          "unit": 41,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "0b874c1d29e1d7e9dfc6d0fae5ef9daa336371f154e9de02e694b695ca95e538",
+          "target_hash": "6c375c020f353a32cca57105fc2b6e282be5e35621c1f92b9f05bd878da86eb4",
+          "source_excerpt": "An *interval subdivision* outlines a fifth or sixth between successive downbeats. The large, consona",
+          "target_excerpt": "*חלוקת מרווח (interval subdivision)* מתווה קווינטה או סקסטה בין פעימות ראשונות עוקבות. המרווח המלודי",
+          "structure_matches": true
+        },
+        {
+          "unit": 42,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "540c986386642997810e1ee7dccc4374b5a27b30d8a1ea265a110f42d34cc21c",
+          "target_hash": "459b3b0261a62c051fdede461d5a66e4ddf4cb071caa297c78beb11af72f1769",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/a79b68de03\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/a79b68de",
+          "structure_matches": true
+        },
+        {
+          "unit": 43,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "2340b523f8ee4068e198cac8df2f75eaae05f27320dea1ae9fd9f258933c8ad3",
+          "target_hash": "8144711aed71993b45b768fd8b6d6fcaf64b7ce478d64d6db4b42b7d3ee78d78",
+          "source_excerpt": "A *change of register* occurs when a large, consonant leap (P5, sixth, or octave) from strong beat t",
+          "target_excerpt": "*שינוי רגיסטר (change of register)* מתרחש כאשר קפיצה גדולה וקונסוננטית מן הפעימה החזקה לחלשה — P5, ס",
+          "structure_matches": true
+        },
+        {
+          "unit": 44,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "4f515814b0a4acb719462db8a459eac9e36349dfd66114102d53c8bef7e38d7c",
+          "target_hash": "f60b8dc6bcf903f63b498367d3cdf98260008b32e08a0efc0b8528a558bc3944",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/827ad0b4a2\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/827ad0b4",
+          "structure_matches": true
+        },
+        {
+          "unit": 45,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "704e920b5b19ed0692081b56fdaef062bbb49ca55b0293c5be88cf318149d205",
+          "target_hash": "b0fbab857681a9d6dbef5f857b5da25ba8f42df5d042a6b038fccd71538b2a29",
+          "source_excerpt": "A *delay of melodic progression* outlines a step from downbeat to downbeat. It involves a leap of a ",
+          "target_excerpt": "*דחיית ההתקדמות המלודית (delay of melodic progression)* מתווה צעד בין שתי פעימות ראשונות. היא כוללת ",
+          "structure_matches": true
+        },
+        {
+          "unit": 46,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "385cb1d90298036d2c78459b42a474b7d82484c456b4ad72ed9db7e904ad635c",
+          "target_hash": "cb702439825c118035998fec37307be3935464a95c973380449f306fdef74b32",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/5764fe4a4b\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/5764fe4a",
+          "structure_matches": true
+        },
+        {
+          "unit": 47,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "479c8ec5e27867c8d2f99ca89297abe572b2843a755523f6d877a36edc5269b0",
+          "target_hash": "998b4eec836bb958947ab33e889b8482a777476df87069806152c9dec551bacd",
+          "source_excerpt": "A *consonant neighbor tone* occurs when the counterpoint moves by step from downbeat to weak beat, a",
+          "target_excerpt": "*צליל שכן קונסוננטי (consonant neighbor tone)* מופיע כשהקונטרפונקט נע בצעד מן הפעימה הראשונה לחלשה ו",
+          "structure_matches": true
+        },
+        {
+          "unit": 48,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "ee4d25bb6bf47a5ab6ed5ca01dd405c5648096749c35470da1da61b10b804e07",
+          "target_hash": "06be2943640cbae6b70acb3330a357ebdd0ae10281e4fc4f32b850da463c87c4",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/043d342ffa\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"https://trinket.io/embed/music/043d342f",
+          "structure_matches": true
+        },
+        {
+          "unit": 49,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "fda0f2d479041537ae0833089604fe138335939b3f2e980c76c8ed81e310e4c4",
+          "target_hash": "74e90fe593ca9c49b74d4556022c60e40d6c72d593c8ec92a9dcc498b98ad780",
+          "source_excerpt": "## Demonstration ##",
+          "target_excerpt": "## הדגמה",
+          "structure_matches": true
+        },
+        {
+          "unit": 50,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "6e33a20d267f56b1c01ed180eebfc61c1f3e9e6da18305e4ba5a8f2e1dfe638b",
+          "target_hash": "613be1a6c539cb9f76fce9c9c2ae51d33bba8787e97fddc2f538ed00eb46035e",
+          "source_excerpt": "In the following video, I illustrate the process of composing a second-species counterpoint. This vi",
+          "target_excerpt": "בסרטון הבא המחבר מדגים את תהליך כתיבת הקונטרפונקט מן הסוג השני. הסרטון מוסיף מידע על תהליך ההלחנה ומ",
+          "structure_matches": true
+        },
+        {
+          "unit": 51,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "a5eff58c1bc03c3f96ae83080db24ad551ca96098d9dff5fc33ec9e979f0c331",
+          "target_hash": "3ebaa8f411a409649668b82d41eab93a0dacf3c97572919010006f98132b8ca8",
+          "source_excerpt": "<iframe src=\"http://player.vimeo.com/video/57085974\" width=\"500\" height=\"281\" frameborder=\"0\" webkit",
+          "target_excerpt": "<iframe title=\"תבנית או הדגמה בקונטרפונקט מן הסוג השני\" src=\"http://player.vimeo.com/video/57085974\"",
+          "structure_matches": true
+        }
+      ]
+    },
+    {
+      "file": "thirdSpecies.md",
+      "source_units": 33,
+      "target_units_excluding_editorial_notes": 33,
+      "units": [
+        {
+          "unit": 1,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "f93d474d45562bba5ae8a84b7536f088d8a929baf2c846e258a4c1fd621afbe8",
+          "target_hash": "29050c92e4037aa908c87bc7d2aff7fd4942c0aa7d7ba68c51367f14ef6fa91d",
+          "source_excerpt": "In third-species counterpoint, the counterpoint line moves in quarter notes against a cantus firmus ",
+          "target_excerpt": "בקונטרפונקט מן הסוג השלישי, קו הקונטרפונקט נע ברבעים כנגד קנטוס פירמוס בתווים שלמים. יחס קצבי זה, <b",
+          "structure_matches": true
+        },
+        {
+          "unit": 2,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "416ed5fabde47fa0b29509223ba3b8c6affe061f2d748fe176a4b96cb4056cea",
+          "target_hash": "38b521cf704b98ad92ccd0ae0935967cec4ac36ba6653dd81fb0811f743ec9b2",
+          "source_excerpt": "## The counterpoint line ##",
+          "target_excerpt": "## קו הקונטרפונקט",
+          "structure_matches": true
+        },
+        {
+          "unit": 3,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "ec9a6d7bb424a1c9431a34721de678d13863b659b4d49c22bc8e73835072373f",
+          "target_hash": "ba500688690a359de27f391a2673d81f4d80ba9e514cb9fd2d6fc6ee49256b1b",
+          "source_excerpt": "As in first and second species, the counterpoint line should be singable, have a good shape, with a ",
+          "target_excerpt": "כמו בסוגים הראשון והשני, הקו צריך להיות נוח לשירה, בעל קו מתאר טוב ושיא יחיד שאינו מתרחש יחד עם שיא ",
+          "structure_matches": true
+        },
+        {
+          "unit": 4,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "1df856d8025f15bbfd05b5edc484818f9bfbfeb04cd1954a76b3c14e9358b166",
+          "target_hash": "2b7fd3d866d11675d1e76c852fbc01989c37b7ab3ba3d3fe5f7152e73bccb08b",
+          "source_excerpt": "### Beginning a third-species counterpoint ###",
+          "target_excerpt": "### פתיחת קונטרפונקט מן הסוג השלישי",
+          "structure_matches": true
+        },
+        {
+          "unit": 5,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "1281b29aec7a098d9fbe7e64ee2e83b973dea7c46c276f0ffcd1d63ff0a4b95a",
+          "target_hash": "a837b57dd18dcfee801c09a708da7f6d812cfda5d14de205c96d9b776fc5a3cf",
+          "source_excerpt": "Begin a third-species counterpoint above the cantus firmus with *do* or *sol*. Begin a third-species",
+          "target_excerpt": "התחילו קונטרפונקט מעל הקנטוס ב־*do* או ב־*sol*, ומתחתיו ב־*do*. פרימות זכות מותרות בצמד הראשון ובצמד",
+          "structure_matches": true
+        },
+        {
+          "unit": 6,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9935c70c9130508b83250a49197edc7c8de5cb606f30338cc7f419b14f253e20",
+          "target_hash": "8c1c8bb491fa58cac61d2b3138742942901e5f1c4c1390b4a2ea53e415779f21",
+          "source_excerpt": "A third-species line can begin with four quarter notes in the first bar, or a quarter rest followed ",
+          "target_excerpt": "בתיבה הראשונה אפשר לכתוב ארבעה רבעים, או הפסקת רבע ולאחריה שלושה רבעים. ללא קשר למקצב, הגובה הראשון ",
+          "structure_matches": true
+        },
+        {
+          "unit": 7,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "d9b9f2d78742664fd01dbd2e6fca9754158e1d62d55802edea29ee5103c1e433",
+          "target_hash": "ad9cdf6ff9182920182a2568361525e4cf1bbccd37b82f9a276d5a7a3743a7cc",
+          "source_excerpt": "### Ending a third-species counterpoint ###",
+          "target_excerpt": "### סיום קונטרפונקט מן הסוג השלישי",
+          "structure_matches": true
+        },
+        {
+          "unit": 8,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "34c90b717607757a5b71e720983ddf4a443f444135dea0e87e7525fa04ad5d22",
+          "target_hash": "3a34c9a0c4dc3556b70af018d6b383475288bbe11af737a6aaa80971ad53c8fa",
+          "source_excerpt": "The final pitch of the counterpoint must always be *do*, and must be a whole note.",
+          "target_excerpt": "הגובה האחרון בקונטרפונקט חייב תמיד להיות *do*, והוא חייב להיות כתוב כשלם.",
+          "structure_matches": true
+        },
+        {
+          "unit": 9,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9f8b80af50b577913b9c8baf3b4c8e3fd7c32055523c426cad6ca5b6268eb291",
+          "target_hash": "ffcb8a0f00734076a66d0468c6b893ed79eff5e21f0c2b91679c2c68e144409a",
+          "source_excerpt": "The penultimate note of the counterpoint (the last quarter note of the penultimate bar) should be *t",
+          "target_excerpt": "התו הלפני־אחרון בקונטרפונקט — הרבע האחרון בתיבה הלפני־אחרונה — צריך להיות *ti* אם בקנטוס נשמע *re*, ",
+          "structure_matches": true
+        },
+        {
+          "unit": 10,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "3fec84c54fbbb74ab4dce019882db7e8389a2431434125461f98de7d69e264b9",
+          "target_hash": "a091518659cf855285ed3c52ccd6fa6ff313a495e827ebd6412e1ff0eb171c97",
+          "source_excerpt": "### Strong beats ###",
+          "target_excerpt": "### פעימות חזקות",
+          "structure_matches": true
+        },
+        {
+          "unit": 11,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "60e748431d199dca0b4d5d3c3e08f206d650e44aa6b7d6d217fc1743f5893cd1",
+          "target_hash": "fa8dea41cb0160376d5b6c8de405d16a964745e2a36ec6aa1546da210443ad5d",
+          "source_excerpt": "Principles for strong beats (downbeats) are generally the same as in second species.",
+          "target_excerpt": "העקרונות לפעימות החזקות, הראשונות בתיבה, זהים בדרך כלל לאלה שבסוג השני.",
+          "structure_matches": true
+        },
+        {
+          "unit": 12,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "75355ae7a53519b823e5d8668fee556cf3994b1b656c3ef9af3a8c9e4572563e",
+          "target_hash": "90a0cf79fa870946e66ccc57116eefb3b30bffa49b0d8588c27c26987c54d6b3",
+          "source_excerpt": "Strong beats are *always  consonant*, and not unisons. Prefer imperfect consonances (thirds and sixt",
+          "target_excerpt": "הן *תמיד קונסוננטיות*, ואינן פרימות זכות. העדיפו קונסוננסים בלתי מושלמים, טרצות וסקסטות, על פני מושל",
+          "structure_matches": true
+        },
+        {
+          "unit": 13,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "983be759903604dfb15e923458350f51b023b3a334ed58cc2ac5a14c84f7e75d",
+          "target_hash": "f7fe2a9ea0d3df4871f292eb793b00c1e252efa025dd99b0e52ccfb7dff6fa07",
+          "source_excerpt": "Motion across bar lines (from beat 4 to downbeat) follows the same rules as first species counterpoi",
+          "target_excerpt": "התנועה מעבר לקווי התיבה, מן הפעימה הרביעית לראשונה הבאה, כפופה לכללי הסוג הראשון.",
+          "structure_matches": true
+        },
+        {
+          "unit": 14,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "0ef0c42b00350a8e1a14f97f5a3189f2b6e84ef3887bf8aca76a0c41318db703",
+          "target_hash": "d2e3b21d7953d97b216e2910e43c9cd204d0fee56c274bf4669a310c337f3f2a",
+          "source_excerpt": "Progressions from downbeat to downbeat follow principles of second-species counterpoint, with one ex",
+          "target_excerpt": "המהלכים בין פעימות ראשונות עוקבות כפופים לעקרונות הסוג השני, למעט חריג אחד המופיע להלן. הנה כמה דוגמ",
+          "structure_matches": true
+        },
+        {
+          "unit": 15,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "5feaccd44629d5bd577b3e8eee38e763062d3d1da5d6a0dafd540cdc5e106011",
+          "target_hash": "d659033b1ecaa5ef650a759fe32cbd08f25a5b35a87146df4961f4b95ee33b33",
+          "source_excerpt": "- No *three* consecutive bars can begin with the same perfect interval (two in a row are fine).  \n- ",
+          "target_excerpt": "- אין לפתוח *שלוש* תיבות עוקבות באותו מרווח זך; שתי תיבות ברצף מותרות.\n- אין לפתוח יותר משלוש תיבות ",
+          "structure_matches": true
+        },
+        {
+          "unit": 16,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "aa6054d00226ba1918f74c29ec53c9a0d67749837a68f17c09fda1138cec08ad",
+          "target_hash": "4639f55b7a60336a37873a1fa70664200ab38ee5362cbac0c4576667bcd01274",
+          "source_excerpt": "If a downbeat contains a perfect fifth, neither the third or the fourth beat of the previous bar can",
+          "target_excerpt": "אם בפעימה הראשונה יש קווינטה זכה, אסור שתהיה קווינטה בפעימה השלישית או הרביעית של התיבה הקודמת. אם י",
+          "structure_matches": true
+        },
+        {
+          "unit": 17,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "455bd1cdf5ab96f786710c7943aab06c7864c38958457a676e8d1d6b479ed1ca",
+          "target_hash": "846cbe6c1d9a526c8be6b027a5560c7d4f5f51aa7cdddb65540483a0f8e1b328",
+          "source_excerpt": "*Hidden* or *direct fifths/octaves* between successive downbeats are allowed.",
+          "target_excerpt": "קווינטות ואוקטבות *נסתרות* או *ישירות (hidden or direct fifths/octaves)* בין פעימות ראשונות עוקבות מ",
+          "structure_matches": true
+        },
+        {
+          "unit": 18,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "4809861fc4e23658c64faae1e24ccb744c8ab7ba8ebaaab98273416f0591db8a",
+          "target_hash": "c971679d1a9a2faf185a654f59d09a2afccd9574917c4cf706147b90210989aa",
+          "source_excerpt": "### Other beats ###",
+          "target_excerpt": "### יתר הפעימות",
+          "structure_matches": true
+        },
+        {
+          "unit": 19,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "29d8944b34219bd169af5f2fdbe19f50cf2afd8f9df9d802f4b08e02f8773f7c",
+          "target_hash": "3d147de716fd7fe94cef4758be96c1909276d3e93d8d7ec3c031534ecb20ec79",
+          "source_excerpt": "Beats 2–4 should exhibit a mixture of consonant and dissonant intervals to promote variety. Among co",
+          "target_excerpt": "בפעימות 2–4 רצוי לשלב מרווחים קונסוננטיים ודיסוננטיים כדי ליצור גיוון. בין הקונסוננסים, פרימות זכות ",
+          "structure_matches": true
+        },
+        {
+          "unit": 20,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "9e3884c7608effa4eef30b3aa68ed95fe4ce76423ef479d7192466fe7a817f12",
+          "target_hash": "4e811aeb09eeccacaf31809bbaa1658a99f1f4f97e122c5584595554add1a72f",
+          "source_excerpt": "#### Harmonic dissonances ####",
+          "target_excerpt": "#### דיסוננסים הרמוניים",
+          "structure_matches": true
+        },
+        {
+          "unit": 21,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "6a25f1118810cf9fafe258a3f9988fc967aef7a46fa0999b87618bfb574eeca6",
+          "target_hash": "65ebc51e03d1e6d6c7edaf248ea6cd4872f0cb503146d92f8992a9d38cab425d",
+          "source_excerpt": "Generally, dissonances in third species can occur on beat 2, 3, or 4, and should be *preceded and fo",
+          "target_excerpt": "ככלל, דיסוננסים בסוג השלישי יכולים להופיע בפעימות 2, 3 או 4, וצריכים להיות *מוקדמים ומלווים בתנועה ב",
+          "structure_matches": true
+        },
+        {
+          "unit": 22,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "366fe729764e240bef6276033f8e47801463e4e76305f7b1728474ff24c4c5b1",
+          "target_hash": "17a0b0bbcd122c9308bc33f12ee85ce6e07c7f3bce20c219f43736602aa6befb",
+          "source_excerpt": "The *dissonant passing tone* fills in the space of a melodic third via stepwise motion. The notes be",
+          "target_excerpt": "*צליל עובר דיסוננטי (dissonant passing tone)* ממלא את המרווח של טרצה מלודית בתנועה בצעדים. התווים של",
+          "structure_matches": true
+        },
+        {
+          "unit": 23,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "3dd634152b8c81919f6bba93ef8a22c22d00e1523550c2ce815bd055571f4cff",
+          "target_hash": "7834d73b8ae4d0f227533f7e487991beb0d496b67f96c08973ed3c8064f90400",
+          "source_excerpt": "Note that it is possible to have two dissonant passing tones in a row (**P4–d5** or **d5–P4**). As l",
+          "target_excerpt": "שימו לב שאפשר להשתמש בשני צלילים עוברים דיסוננטיים ברצף: **<bdi dir=\"ltr\">P4–d5</bdi>** או **<bdi di",
+          "structure_matches": true
+        },
+        {
+          "unit": 24,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "37b284c1d3216e440933a465620468fc536f2d5f24f76dd4ef2e6f505a6791cf",
+          "target_hash": "77098c62b68f277a702568942806a2e4783848c7452fdad9f7a8aef10e963d86",
+          "source_excerpt": "The *dissonant neighbor tone* ornaments a consonant tone by stepping away and stepping back to the o",
+          "target_excerpt": "*צליל שכן דיסוננטי (dissonant neighbor tone)* מקשט צליל קונסוננטי באמצעות יציאה ממנו בצעד וחזרה בצעד",
+          "structure_matches": true
+        },
+        {
+          "unit": 25,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "5243f82551a65234fc95cb769936f2e4cbe6577df9a88d3f1f1104aa92c81292",
+          "target_hash": "20d3afa80372ef0dec0466c3934c17f023a04d9e3850016f6940e600c6bc0810",
+          "source_excerpt": "The *double neighbor* occurs when beats 1 and 4 in the counterpoint are the same tone, and beats 2 a",
+          "target_excerpt": "*שכן כפול (double neighbor)* מופיע כאשר התווים בפעימות 1 ו־4 זהים, והתווים בפעימות 2 ו־3 הם צעד מעל ",
+          "structure_matches": true
+        },
+        {
+          "unit": 26,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "290ec1df1179f3623941a066a1db36fbaba01f28c9af7c86a9d882bde34dfecd",
+          "target_hash": "ce3f236cf15f64c73e23fba7b2497e6dc88c28570624bdeeefbd0c9c5fcd0e19",
+          "source_excerpt": "The *nota cambiata* (changing tone) is a five-note figure that outlines a step progression from down",
+          "target_excerpt": "*נוטה קמביאטה (nota cambiata)* — ״צליל משתנה״ — היא תבנית של חמישה תווים המתווה התקדמות בצעד בין פעי",
+          "structure_matches": true
+        },
+        {
+          "unit": 27,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "db0737f2bf9285c989acdd3d1c7951b59c44e3faed24f7b18d140caf18bb21ee",
+          "target_hash": "58c55047fe10d8e6386ac4762de56b91de68404f5a8095033fb8880d36c859b0",
+          "source_excerpt": "- down by step – down by third – up by step – up by step  \n- up by step – up by third – down by step",
+          "target_excerpt": "- ירידה בצעד, ירידה בטרצה, עלייה בצעד ועלייה בצעד.\n- עלייה בצעד, עלייה בטרצה, ירידה בצעד וירידה בצעד",
+          "structure_matches": true
+        },
+        {
+          "unit": 28,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "50be572f9954f400879638a1d8d634f8589122c5b3164e597cc035a823baf570",
+          "target_hash": "a08e155f7c345c3a9b1e3f4086be221e5a047330a3f75f3a227af3f4a1fe7046",
+          "source_excerpt": "The first pattern will result in a step down from downbeat to downbeat, and the second pattern will ",
+          "target_excerpt": "בתבנית הראשונה מתקבלת ירידה בצעד בין שתי הפעימות הראשונות, ובשנייה עלייה בצעד. כדי שהנוטה קמביאטה תפ",
+          "structure_matches": true
+        },
+        {
+          "unit": 29,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "2d8cbc9d91fc16790ce7b362a9d1ad956cce2c339ffc922be2d4bbff8718964d",
+          "target_hash": "1b847575aa6f2402c30d8a88a911d5574c1110ad34e2ea248c122c476d52baf5",
+          "source_excerpt": "####  Consonances ####",
+          "target_excerpt": "#### קונסוננסים",
+          "structure_matches": true
+        },
+        {
+          "unit": 30,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "aa405d114a8c83f70160bc2036e52e5d0598626ca0b79320cfc5dce8415ca65c",
+          "target_hash": "d8d9e921d2f20831492c5bc111fdfb7547ec342a56394433a68605b183312525",
+          "source_excerpt": "The counterpoint can move in and out of consonant tones freely by step, as well as by leap from anot",
+          "target_excerpt": "הקונטרפונקט יכול להגיע לצלילים קונסוננטיים ולצאת מהם בחופשיות בצעדים, וגם בקפיצה מקונסוננס אחר, בכפו",
+          "structure_matches": true
+        },
+        {
+          "unit": 31,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "1f076122201475bb353e0b48cdcfef31d10498211fdb4bd8c6662d01ae9d258d",
+          "target_hash": "6517caa6e79a2d85d4e86163aee80fb7088447dd432c8ef6e32f2c54907390e9",
+          "source_excerpt": "- All melodic leaps, of course, must be melodic consonances.  \n- A large leap should be followed by ",
+          "target_excerpt": "- כל הקפיצות המלודיות חייבות כמובן להיות קונסוננסים מלודיים.\n- אחרי קפיצה גדולה צריך לבוא צעד בכיוון",
+          "structure_matches": true
+        },
+        {
+          "unit": 32,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9d9ede4d9ecae123db90693eb1cd2c3a5e2dbe6a75f8fb16b3e8ba0080478777",
+          "target_hash": "0d5ebf4982fb01aec140262140d995b6aa48bc8e9984fe53af74eb9a830f0b56",
+          "source_excerpt": "***Video demonstration***",
+          "target_excerpt": "***הדגמת וידאו***",
+          "structure_matches": true
+        },
+        {
+          "unit": 33,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "b39025b0d55d3b4367fac9512f91fe8d91693a87b50f232b990536d6de048144",
+          "target_hash": "2c7505b9163725f83d2a22d7169060b85fa4646cedf3413a4f3c13aca914fa70",
+          "source_excerpt": "***Add trinkets above to have students construct the schemas***",
+          "target_excerpt": "***להוסיף לעיל רכיבי Trinket כדי שהתלמידים יוכלו לבנות את הסכמות***",
+          "structure_matches": true
+        }
+      ]
+    },
+    {
+      "file": "fourthSpecies.md",
+      "source_units": 30,
+      "target_units_excluding_editorial_notes": 30,
+      "units": [
+        {
+          "unit": 1,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "1605fc70f1dae3cc34e2352ad927894e247d4d794198db6217366c0de8d0bf39",
+          "target_hash": "198f47b5f6cfec24ddffc544d46defd76d6e3aa8f20b2463dc56f23eef0b5c9b",
+          "source_excerpt": "In fourth-species counterpoint, the counterpoint line and cantus firmus both move once per bar, but ",
+          "target_excerpt": "בקונטרפונקט מן הסוג הרביעי, הן קו הקונטרפונקט והן הקנטוס פירמוס נעים פעם אחת בכל תיבה, אך תחילת תנוע",
+          "structure_matches": true
+        },
+        {
+          "unit": 2,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "3065c4e5b57bb48bed9157e02cf414c9223987a4ee5a5c7c1d74d816640537da",
+          "target_hash": "26a04ba80b9b02610e33224e388d4e9634800a7ef45a614bb75663c8b5873bce",
+          "source_excerpt": "## The suspension ##",
+          "target_excerpt": "## ההשהיה",
+          "structure_matches": true
+        },
+        {
+          "unit": 3,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "66c61347b1d041d90267c25695460bb5c9e84b60ca6b50b6e7fe6cbcb1a7a8ba",
+          "target_hash": "da7cebeec3c4359e9b6d86bac12d97165ae8009f19ba1c5a315907590fcb8c76",
+          "source_excerpt": "The *suspension* is an accented dissonance, meaning it always occurs on strong beats. Because of the",
+          "target_excerpt": "השהיה היא דיסוננס מודגש: היא מופיעה תמיד בפעימה חזקה. ההדגשה מחייבת זהירות גדולה עוד יותר בשמירת זרי",
+          "structure_matches": true
+        },
+        {
+          "unit": 4,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "12c8e8fae424040fee6c1938adc737a1a5f10c9ebe9bc69da7b0fc3bd284b761",
+          "target_hash": "b69ee519ed69b4b68c8b09631956cd4b234d3c87b7fe8adeb80ea79131d64148",
+          "source_excerpt": "A suspension figure has three parts:",
+          "target_excerpt": "לתבנית ההשהיה שלושה חלקים:",
+          "structure_matches": true
+        },
+        {
+          "unit": 5,
+          "source_type": "list",
+          "target_type": "list",
+          "source_hash": "8b755bb62cf78112e311829509acfa0d3c4915b7f1f69961d851986585f9bbff",
+          "target_hash": "c6de3c3e2592d911f6ea8126aca08f235d9aa1c550f45228eaeb7c9e95dbd7d9",
+          "source_excerpt": "- the *preparation*: a weak-beat note in the counterpoint that is consonant with the cantus. This no",
+          "target_excerpt": "- *הכנה (preparation):* תו בפעימה חלשה בקונטרפונקט, הקונסוננטי עם הקנטוס. הוא מחובר בקשת מאריכה אל…\n",
+          "structure_matches": true
+        },
+        {
+          "unit": 6,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "f5cabc95fccdec415cbd85b48c163b4c7d27f88f7b4ebcae106a41c4783c5635",
+          "target_hash": "f323fab7a0151534aca876a5e5abbe48518c08858b9836c23b488f69a1d7db73",
+          "source_excerpt": "Use dissonant suspensions as much as possible in fourth species. Not only are they the characteristi",
+          "target_excerpt": "השתמשו בהשהיות דיסוננטיות ככל האפשר בסוג הרביעי. הן אינן רק הצליל האופייני לו, אלא גם נשמעות נעימות.",
+          "structure_matches": true
+        },
+        {
+          "unit": 7,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "aa934483f7f7e142383f7b825532303d899275a84e7942bef9338cfb9bbf0b16",
+          "target_hash": "95f5cf15dfdb8e69663feca13408cd5f1bf1ff699175e6e80d5b9ddeb29e0608",
+          "source_excerpt": "### Types of suspensions ###",
+          "target_excerpt": "### סוגי השהיות",
+          "structure_matches": true
+        },
+        {
+          "unit": 8,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9e14d6f6f9cc582d96df4e51571a948a155e255e00743ed4a89d568b26324c1c",
+          "target_hash": "4a40cd0de9491aaa70888216caf40f413c9c977f1348cb677b3e70d5003cb4bb",
+          "source_excerpt": "Suspensions are categorized according to the intervals of the *suspension* and *resolution* tones ab",
+          "target_excerpt": "השהיות מסווגות לפי המרווחים שיוצרים צלילי *ההשהיה* וה*פתרון* עם הקנטוס, מעליו או מתחתיו. בהשהיה **<b",
+          "structure_matches": true
+        },
+        {
+          "unit": 9,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "8082a5034f01c42d89c569ef5103f2e8a227c46bc4085177455c9db605d4f76c",
+          "target_hash": "3fe7b99d6d854089a36efb0eeb514532608da6ecc4605ffabd662e75c55b7b81",
+          "source_excerpt": "Possible dissonant suspensions *above* the cantus firmus are **7–6**, **4–3**, and **9–8**. (These a",
+          "target_excerpt": "ההשהיות הדיסוננטיות האפשריות *מעל* הקנטוס הן **<bdi dir=\"ltr\">7–6</bdi>**, **<bdi dir=\"ltr\">4–3</bdi",
+          "structure_matches": true
+        },
+        {
+          "unit": 10,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "fffe89eecb57aa7e1dce403b7a1c47195e3f5dd53ed28ec7891342348b17724f",
+          "target_hash": "430fddc7af3ea17bf05573cfd92ad96bfa3fbb55e9d63d3d768ff4ad477cb878",
+          "source_excerpt": "### Using suspensions ###",
+          "target_excerpt": "### שימוש בהשהיות",
+          "structure_matches": true
+        },
+        {
+          "unit": 11,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "66a3bac69fcb3ceb54d6e46c781c80bc4add432fd1b18f51c6b519d47822d1ca",
+          "target_hash": "d9d59adc9d844a5eb0f1b018500fc7c5a65ca99154c5d617f8567c81a6fbe285",
+          "source_excerpt": "Treat suspensions in fourth species the same way you would treat their intervals of resolution in fi",
+          "target_excerpt": "התייחסו להשהיות בסוג הרביעי כפי שהייתם מתייחסים למרווחי הפתרון שלהן בסוג הראשון. למשל, אין להשתמש בש",
+          "structure_matches": true
+        },
+        {
+          "unit": 12,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "4163528ffcf6421b270b5214fa17bf36482bbd15f3393746c1db4cb1d33990c7",
+          "target_hash": "f1c4880bb4de2c11b402b24b5b159ad7f3f254eae6b528cc8ab3555f2c416b65",
+          "source_excerpt": "Following the same principle, do not use the \"consonant suspension\" **6–5** twice in a row, since it",
+          "target_excerpt": "לפי אותו עיקרון, אין להשתמש פעמיים ברצף ב״השהיה הקונסוננטית״ **<bdi dir=\"ltr\">6–5</bdi>**, מפני שמרו",
+          "structure_matches": true
+        },
+        {
+          "unit": 13,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "12f190aab57be392a4b0819fe3b901fc82270d255d1f53b77f6368bd58c1bb7c",
+          "target_hash": "72238502ff8f936a333063650dc9ebff451bc70ea346c2dc9b4aff90d6990b75",
+          "source_excerpt": "## The fourth-species counterpoint line ##",
+          "target_excerpt": "## קו הקונטרפונקט מן הסוג הרביעי",
+          "structure_matches": true
+        },
+        {
+          "unit": 14,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "6cecaa0d90c53e5609cf7babaee8312947f94ad76aaaf74983ced5b32491d4c8",
+          "target_hash": "379cdc1ee5340aae4d712ed508643aa5c015e4a89a5d6d5075c5ae6bb15444e8",
+          "source_excerpt": "Use dissonant suspensions whenever possible. This will create a line consisting mostly of downward, ",
+          "target_excerpt": "השתמשו בהשהיות דיסוננטיות ככל האפשר. כך יתקבל קו הבנוי בעיקר מתנועה יורדת בצעדים, וזה תקין. הדבר גם ",
+          "structure_matches": true
+        },
+        {
+          "unit": 15,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "9a8c3d3fd16798689c7f123f16a72b3964eec331e91618d3f606116ce762d81d",
+          "target_hash": "ea9b0b1226b058abe413442898c628eb0a767244bdcabdf0d8367c34b7978591",
+          "source_excerpt": "If a dissonant suspension is not possible, try to use a tie from weak beat to strong beat. This can ",
+          "target_excerpt": "אם השהיה דיסוננטית אינה אפשרית, נסו להשתמש בקשת מאריכה מפעימה חלשה לחזקה. זו יכולה להיות ״השהיה קונס",
+          "structure_matches": true
+        },
+        {
+          "unit": 16,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "a0ddcffdf4ab82700a50084d6cf8f81391f662b86bd32b319963de83ab8e5baa",
+          "target_hash": "40b70479bc12df6cbc77646c1baf2b41988f9bc931e954dc1cf6df2fe5876204",
+          "source_excerpt": "If neither a dissonant suspension or consonant tied figure is possible, it is permissible to *break ",
+          "target_excerpt": "אם אין אפשרות להשהיה דיסוננטית או לתבנית קונסוננטית עם קשת מאריכה, מותר *לחרוג מן הסוג (break specie",
+          "structure_matches": true
+        },
+        {
+          "unit": 17,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "9df63b626d020986af695660006a23efce4209d00b22307e51fe1dc786907d6e",
+          "target_hash": "e88d93d806f48f03ef721a5a949f6f35e3f3072b501ba281cf2813593890bfce",
+          "source_excerpt": "### Beginning a fourth-species counterpoint ###",
+          "target_excerpt": "### פתיחת קונטרפונקט מן הסוג הרביעי",
+          "structure_matches": true
+        },
+        {
+          "unit": 18,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "e6a90d5f9a07361879ff9a6e1a37a468294b1879f947805a08ff9bc8444dd68e",
+          "target_hash": "c24e5e1e06a5943cfcdccd94cc92671269042799515fc1940f96472480d190ed",
+          "source_excerpt": "Begin a fourth-species counterpoint above the cantus firmus with *do* or *sol*. Begin a second-speci",
+          "target_excerpt": "התחילו קונטרפונקט מן הסוג הרביעי מעל הקנטוס ב־*do* או ב־*sol*, ומתחתיו ב־*do*. פרימות זכות מותרות בצ",
+          "structure_matches": true
+        },
+        {
+          "unit": 19,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "a095c1a5131afd35cf22d0e9debd81e9490b3cf9e214ea759382dc643b068c56",
+          "target_hash": "be97c43eb9e5cc03a069a69c544109408424b9c4b10133335d359979507db566",
+          "source_excerpt": "Always begin with a half rest.",
+          "target_excerpt": "התחילו תמיד בהפסקת חצי.",
+          "structure_matches": true
+        },
+        {
+          "unit": 20,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "8ec86ff08be55bec3a3f2e368c0a6ffb839945fe66b2e5fd1d0c76f49754dd2d",
+          "target_hash": "8d6c0acea85a77abfd4f802762d88a2e48c523d7f75d11619bb768a60b17b053",
+          "source_excerpt": "### Ending a fourth-species counterpoint ###",
+          "target_excerpt": "### סיום קונטרפונקט מן הסוג הרביעי",
+          "structure_matches": true
+        },
+        {
+          "unit": 21,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "8859a43c702e7c45821261d4103ef6a0020620a32bd63b377b64d0db9acda682",
+          "target_hash": "a70fa61bd2698a2ae3e740d881e21f59579c86e95e310ed96a0b100832c708c0",
+          "source_excerpt": "There is only one option for ending fourth species.",
+          "target_excerpt": "יש רק אפשרות אחת לסיום הסוג הרביעי.",
+          "structure_matches": true
+        },
+        {
+          "unit": 22,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "f8cd0504a16973584075710563247b53bb09b5667f627ff87c6bb3d8f205eabc",
+          "target_hash": "acb8d3988c8a73f1c135ccb80b393a0c8e7688b4d7aba50efe4f2460eac03868",
+          "source_excerpt": "The cantus firmus *must* end with *re*–*do*. Do not use a cantus that ends with *ti*–*do*.",
+          "target_excerpt": "הקנטוס *חייב* להסתיים ב־*<bdi dir=\"ltr\">re–do</bdi>*. אין להשתמש בקנטוס המסתיים ב־*<bdi dir=\"ltr\">ti",
+          "structure_matches": true
+        },
+        {
+          "unit": 23,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "f850f08d5c88b4087549501351bdc356602bf01df6110b3de8f6544caafb59f4",
+          "target_hash": "e80b7376adabe1db3df14fecc4ee0245ab0940cabe69e4e728012214b436a929",
+          "source_excerpt": "The counterpoint will end with a dissonant suspension. The penultimate bar will contain *do*–*ti*, a",
+          "target_excerpt": "הקונטרפונקט יסתיים באמצעות השהיה דיסוננטית. בתיבה הלפני־אחרונה יהיו *<bdi dir=\"ltr\">do–ti</bdi>*, וב",
+          "structure_matches": true
+        },
+        {
+          "unit": 24,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "fda0f2d479041537ae0833089604fe138335939b3f2e980c76c8ed81e310e4c4",
+          "target_hash": "74e90fe593ca9c49b74d4556022c60e40d6c72d593c8ec92a9dcc498b98ad780",
+          "source_excerpt": "## Demonstration ##",
+          "target_excerpt": "## הדגמה",
+          "structure_matches": true
+        },
+        {
+          "unit": 25,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "79fa5a813ab889381f2ce3a8e8217a610e61817d5ea2c71c240d1179a869de49",
+          "target_hash": "703272a5ba93159133e64bb23adac49654d813478b809415f28dea0e52a1b2bb",
+          "source_excerpt": "In the following videos, I illustrate the process of composing a fourth-species counterpoint above a",
+          "target_excerpt": "בסרטונים הבאים המחבר מדגים כתיבת קונטרפונקט מן הסוג הרביעי מעל הקנטוס ומתחתיו. ההדגמות מוסיפות מידע ",
+          "structure_matches": true
+        },
+        {
+          "unit": 26,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "f9b834bc886a00283032a72b7fd3263bb180db9b8dbe5013347b4d44730dab73",
+          "target_hash": "17448855de7399923e061454f1ec2efbe32c149500a513d8178ac8c17daa0cd8",
+          "source_excerpt": "<iframe src=\"http://player.vimeo.com/video/57389373\" width=\"500\" height=\"281\" frameborder=\"0\" webkit",
+          "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי\" src=\"http://player.vimeo.com/video/5738937",
+          "structure_matches": true
+        },
+        {
+          "unit": 27,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "e2cda80e62038f0c5b83b83247da1d48b7ef7a36a55618534b73ffe66c5faf49",
+          "target_hash": "0ecc60d8a1cab1e70c357b24e19be0cb49c885fee3b111250d33c39ecac8803f",
+          "source_excerpt": "<iframe src=\"http://player.vimeo.com/video/58488043\" width=\"500\" height=\"281\" frameborder=\"0\" webkit",
+          "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי\" src=\"http://player.vimeo.com/video/5848804",
+          "structure_matches": true
+        },
+        {
+          "unit": 28,
+          "source_type": "heading",
+          "target_type": "heading",
+          "source_hash": "83297eafa565e96426d9f5268a65ea70f8ef7cb466f9c908b26c422babfff602",
+          "target_hash": "43c438dc8ee467150358f590831c67d31d9c05a3cf826c2cc1557fb8bba2712c",
+          "source_excerpt": "## Exercise",
+          "target_excerpt": "## תרגיל",
+          "structure_matches": true
+        },
+        {
+          "unit": 29,
+          "source_type": "prose",
+          "target_type": "prose",
+          "source_hash": "48bc3bde594adcc405a860cd48e05cddf6089d02b5e098692459cc8e0fcfd004",
+          "target_hash": "48188e67c85c99c66fed49c7c70cd2cd4a84a0c3d09a60e5c3f701ab4d36bcde",
+          "source_excerpt": "The following is a model fourth-species composition. In it, there is a single example of a \"rule\" be",
+          "target_excerpt": "הדוגמה הבאה היא יצירה מן הסוג הרביעי. יש בה מקרה יחיד שבו ״כלל״ אחד ״מופר״. מצאו אותו ונסו לכתוב מחד",
+          "structure_matches": true
+        },
+        {
+          "unit": 30,
+          "source_type": "embed",
+          "target_type": "embed",
+          "source_hash": "1038fdf83d2a8beebf201a85f12b4ec1f2b3e61149f4086f5e6ff568a31353cd",
+          "target_hash": "2a223ee01625780b997063586617b1cf68d315829f7805386e3eeddb1204a273",
+          "source_excerpt": "<iframe src=\"https://trinket.io/embed/music/22aa934458\" width=\"100%\" height=\"300\" frameborder=\"0\" ma",
+          "target_excerpt": "<iframe title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי\" src=\"https://trinket.io/embed/music/22aa93",
+          "structure_matches": true
+        }
+      ]
+    }
+  ]
+}

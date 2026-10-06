@@ -1,7 +1,10 @@
 {
   "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
-  "batch": 1,
-  "scope": "13 chapter files; index and contents are partial support pages",
+  "batches": [
+    1,
+    2
+  ],
+  "scope": "19 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -35,7 +38,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "meter.md",
@@ -47,7 +53,10 @@
       "iframes": 20,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "protonotation.md",
@@ -59,7 +68,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "rhythmicValues.md",
@@ -71,7 +83,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "beams.md",
@@ -83,7 +98,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "pitches.md",
@@ -95,7 +113,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "scales.md",
@@ -107,7 +128,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "keySignatures.md",
@@ -119,7 +143,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "intervals.md",
@@ -131,7 +158,16 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "fail",
+      "missing_music_tokens": [
+        "C4",
+        "E4",
+        "E5",
+        "C5"
+      ],
+      "embed_count_preserved": true,
+      "music_token_review": "Repeated wording compressed in batch 1; pitch examples retained and manually reviewed."
     },
     {
       "file": "triads.md",
@@ -143,7 +179,10 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
     },
     {
       "file": "motionTypes.md",
@@ -155,7 +194,106 @@
       "iframes": 0,
       "image_alt": "pass",
       "source_links_and_assets": "pass",
-      "removed_source_targets": []
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true
+    },
+    {
+      "file": "speciesIntro.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "cantusFirmus.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 2,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "firstSpecies.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 3,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "secondSpecies.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 10,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "thirdSpecies.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "fourthSpecies.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 3,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
@@ -163,6 +301,58 @@
       "url": "http://en.wikipedia.org/wiki/Solfège",
       "result": "unverified",
       "error": "HTTPConnectionPool(host='127.0.0.1', port=38863): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "http://player.vimeo.com/video/56828309",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=41109): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://player.vimeo.com/video/57085974",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=41109): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://player.vimeo.com/video/57389373",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=41109): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://player.vimeo.com/video/58488043",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=41109): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://vimeo.com",
+      "status": 200,
+      "final_url": "https://vimeo.com/",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://vimeo.com/57389373",
+      "status": 200,
+      "final_url": "https://vimeo.com/57389373",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://vimeo.com/58488043",
+      "status": 200,
+      "final_url": "https://vimeo.com/58488043",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://vimeo.com/user11692346",
+      "status": 200,
+      "final_url": "https://vimeo.com/krisshaffer",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
     },
     {
       "url": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -254,6 +444,13 @@
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
     },
     {
+      "url": "https://openlibrary.org/works/OL5851060W/Sweet_Anticipation",
+      "status": 200,
+      "final_url": "https://openlibrary.org/verify_human?next=/works/OL5851060W/Sweet_Anticipation",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
       "url": "https://openmusictheory.github.io/",
       "status": 200,
       "final_url": "https://openmusictheory.github.io/",
@@ -273,6 +470,104 @@
       "url": "https://player.vimeo.com/video/127955738",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://trinket.io/embed/music/043d342ffa",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/043d342ffa",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/22aa934458",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/22aa934458",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/24c7f0ee8e",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/24c7f0ee8e",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/2df65adf8b",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/2df65adf8b",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/5764fe4a4b",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/5764fe4a4b",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/585810f762",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/585810f762",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/827ad0b4a2",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/827ad0b4a2",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/a089e987ca",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/a089e987ca",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/a79b68de03",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/a79b68de03",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/bd3da422f4",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/bd3da422f4",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/da93d4d902",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/da93d4d902",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/de54f539bb",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/de54f539bb",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/ef1cff1ee3",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/ef1cff1ee3",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/f258be56b6",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/f258be56b6",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
     },
     {
       "url": "https://vimeo.com",
@@ -299,6 +594,13 @@
       "result": "reachable"
     },
     {
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/fourth-species-counterpoint/",
+      "status": 200,
+      "final_url": "https://viva.pressbooks.pub/openmusictheory/chapter/fourth-species-counterpoint/",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
       "url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
       "status": 200,
       "final_url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
@@ -319,6 +621,9 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_results_reused_from": "2026-10-06 first batch online check",
-  "fatal_structural_errors": []
+  "external_links_checked_this_run": 0,
+  "cached_external_results": 51,
+  "fatal_structural_errors": [],
+  "batch2_unit_structure": true,
+  "batch2_unit_hashes_current": true
 }

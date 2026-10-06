@@ -268,3 +268,24 @@
 | duplet | דואולה — שני תווים בזמן המוקצה בדרך כלל לשלושה |
 | do-based minor | מינור המבוסס על do |
 | common-practice period | תקופת הפרקטיקה המשותפת |
+
+## השלמות מינוח במקבץ השני
+
+| אנגלית | עברית והקשר |
+|---|---|
+| tonal fusion / integrity | מיזוג צלילי / לכידות |
+| secondary climax | שיא משני |
+| accented / unaccented dissonance | דיסוננס מודגש / בלתי מודגש |
+| dissonant / consonant passing tone | צליל עובר דיסוננטי / קונסוננטי |
+| substitution | החלפה |
+| skipped passing tone | צליל עובר מדולג |
+| interval subdivision | חלוקת מרווח |
+| change of register | שינוי רגיסטר |
+| delay of melodic progression | השהיית התקדמות מלודית |
+| consonant neighbor / double neighbor | צליל שכן קונסוננטי / שכן כפול |
+| nota cambiata | נוטה קמביאטה; בהגדרה ״צליל משתנה״ |
+| suspension: preparation, resolution | השהיה: הכנה, פתרון |
+| break species | לחרוג מן הסוג |
+| after-beat fifths / octaves | קווינטות / אוקטבות בפעימות שאחרי הפעימה החזקה |
+
+הרחבה זו אינה משנה את ההחלטות המאושרות. אין לסווג אוטומטית כל צליל מוחזק כדיסוננס; שאלת 5–6 מתועדת בנפרד.
