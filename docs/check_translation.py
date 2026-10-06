@@ -7,7 +7,7 @@ import yaml, markdown, requests
 from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE='a907aa015f7ec54b925ddb070d2d36aecd0dc705'
-BATCH=['hebrew-introduction.md','fixed-and-movable-do.md','basicNotation.md','meter.md','protonotation.md','rhythmicValues.md','beams.md','pitches.md','scales.md','keySignatures.md','intervals.md','triads.md','motionTypes.md','speciesIntro.md','cantusFirmus.md','firstSpecies.md','secondSpecies.md','thirdSpecies.md','fourthSpecies.md']
+BATCH=['hebrew-introduction.md','fixed-and-movable-do.md','basicNotation.md','meter.md','protonotation.md','rhythmicValues.md','beams.md','pitches.md','scales.md','keySignatures.md','intervals.md','triads.md','motionTypes.md','speciesIntro.md','cantusFirmus.md','firstSpecies.md','secondSpecies.md','thirdSpecies.md','fourthSpecies.md','thoroughbassFigures.md','bassoContinuo-history.md','RNfromFB.md','bassoContinuo.md','tendency.md','tendencyTonesFunctionalDissonances.md','TBDemo.md']
 def render(text):
  parts=text.split('---',2)
  meta=yaml.safe_load(parts[1]) if text.startswith('---\n') else {}
@@ -22,7 +22,7 @@ def probe(url):
   out={'url':url,'status':r.status_code,'final_url':r.url,'result':'reachable' if r.status_code<400 else ('blocked_or_unverified' if r.status_code in (401,403,429) else 'needs_review')}
   r.close();return out
  except requests.RequestException as e:return {'url':url,'result':'unverified','error':str(e).split('\n')[0][:200]}
-report={'source_commit':SOURCE,'batches':[1,2],'scope':'19 chapter files; index and contents are partial support pages','chapters':[],'external_links':[],'limitations':['No full Jekyll build or visual RTL test in this environment.','Unchanged musical graphics contain original English labels.','HTTP reachability does not verify media playback, identity or regional availability.','Semantic review is AI-assisted, not independent human proofreading.']}
+report={'source_commit':SOURCE,'batches':[1,2,3],'scope':'26 chapter files; index and contents are partial support pages','chapters':[],'external_links':[],'limitations':['No full Jekyll build or visual RTL test in this environment.','Unchanged musical graphics contain original English labels.','HTTP reachability does not verify media playback, identity or regional availability.','Semantic review is AI-assisted, not independent human proofreading.']}
 external=set();fatal=[]
 for name in BATCH:
  text=(ROOT/name).read_text();meta,soup=render(text);links=urls(soup)
@@ -42,7 +42,7 @@ for name in BATCH:
  if not meta.get('editorial_addition'):
   source=subprocess.check_output(['git','show',SOURCE+':'+name],cwd=ROOT,text=True)
   _,old=render(source)
-  old_urls=collections.Counter(urls(old));new_urls=collections.Counter(links)
+  old_urls=collections.Counter('bassoContinuo-history.html' if name=='thoroughbassFigures.md' and u=='bassoContinuo-history' else u for u in urls(old));new_urls=collections.Counter(links)
   # Every original resource and chapter link must survive, though editorial links may be added.
   removed=list((old_urls-new_urls).elements())
   entry['source_links_and_assets']='pass' if not removed else 'fail';entry['removed_source_targets']=removed
@@ -52,10 +52,10 @@ for name in BATCH:
   entry['explicit_music_tokens_preserved']='pass' if not lost else 'fail'
   entry['missing_music_tokens']=lost
   entry['embed_count_preserved']=len(old.find_all('iframe'))==len(soup.find_all('iframe'))
-  if meta.get('translation_batch')==2:
+  if meta.get('translation_batch') in (2,3):
    entry['iframe_accessible_titles']='pass' if all(t.get('title','').strip() for t in soup.find_all('iframe')) else 'fail'
-  if (lost and meta.get('translation_batch')==2) or not entry['embed_count_preserved']:fatal.append(name+':music-or-embed')
-  if lost and meta.get('translation_batch')!=2:entry['music_token_review']='Repeated wording compressed in batch 1; pitch examples retained and manually reviewed.'
+  if (lost and meta.get('translation_batch') in (2,3)) or not entry['embed_count_preserved']:fatal.append(name+':music-or-embed')
+  if lost and meta.get('translation_batch') not in (2,3):entry['music_token_review']='Repeated wording compressed in batch 1; pitch examples retained and manually reviewed.'
  if missing or entry['yaml']=='fail' or entry['image_alt']=='fail' or entry['source_links_and_assets']=='fail':fatal.append(name)
  report['chapters'].append(entry)
 # Exact music table rows, not just table presence.

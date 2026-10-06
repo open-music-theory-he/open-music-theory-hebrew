@@ -289,3 +289,19 @@
 | after-beat fifths / octaves | קווינטות / אוקטבות בפעימות שאחרי הפעימה החזקה |
 
 הרחבה זו אינה משנה את ההחלטות המאושרות. אין לסווג אוטומטית כל צליל מוחזק כדיסוננס; שאלת 5–6 מתועדת בנפרד.
+
+## השלמות מינוח במקבץ השלישי
+
+| אנגלית | עברית והקשר |
+|---|---|
+| thoroughbass / basso continuo | בס רציף; המונח האיטלקי בהגדרה הראשונה |
+| figured / unfigured bass | בס ממוספר / בלתי ממוספר |
+| figures / realization | ספרות הבס הממוספר / מימוש |
+| harmonic reduction | צמצום הרמוני |
+| chord of the fifth / sixth | אקורד של קווינטה / סקסטה; קבוצות בשיטת הספר |
+| chord voicing / doubling | סידור צלילי האקורד / הכפלה |
+| fixed / variable scale degree | דרגת סולם קבועה / משתנה; אין קשר לדו קבוע |
+| law of the shortest way | חוק הדרך הקצרה ביותר |
+| tendency tone / functional dissonance | צליל נטייה / דיסוננס פונקציונלי |
+| frustrated leading-tone | צליל מוביל שפתרונו הוסט; במקום העלייה לטוניקה הוא יורד ל־sol |
+| descriptive / prescriptive | תיאורי / מנחה |

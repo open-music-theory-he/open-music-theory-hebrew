@@ -1,0 +1,200 @@
+{
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "batch": 3,
+  "chapters": [
+    {
+      "file": "thoroughbassFigures.md",
+      "source_sha256": "5a1a3802a0c62006bfa6344a3259e0eb029d12b6e2f0607535ba3c4cb3193cf7",
+      "target_sha256": "826d4394fc6157240a94d3dd10f2228a2a23cbb0710a1401b8d79a350ae01772",
+      "source_prose_blocks": 33,
+      "target_blocks_including_editorial": 34
+    },
+    {
+      "file": "bassoContinuo-history.md",
+      "source_sha256": "469b662a0e4693bd4b8014e36e1aa778b8f7cc7c6f2e7f5b5c36c509869964e0",
+      "target_sha256": "eea1bee3ff8b2ac715113709fe85c99c509cba29059276e0428b0e39fde7d61e",
+      "source_prose_blocks": 8,
+      "target_blocks_including_editorial": 9
+    },
+    {
+      "file": "RNfromFB.md",
+      "source_sha256": "46f69f000b089d83bc6da63b2ddcdb0526d32208e036d8612c0ef3656b3ac222",
+      "target_sha256": "5a81e1539edda60806000c79d8cd903375c20f214f1c5562777a0f796e7de2dd",
+      "source_prose_blocks": 18,
+      "target_blocks_including_editorial": 19
+    },
+    {
+      "file": "bassoContinuo.md",
+      "source_sha256": "7f8224997935c5694fa6fa4f807ba12f0a589ca6de4280ce8aae56ea8708fa23",
+      "target_sha256": "eeb4272e59c486337f154744eaff4cfda0b1b32c03bd938b042f6a2ef8c3f17c",
+      "source_prose_blocks": 11,
+      "target_blocks_including_editorial": 12
+    },
+    {
+      "file": "tendency.md",
+      "source_sha256": "3562d5a0857946087df91b13f29b5d292ad92b58c74908dbb3d7180c21814006",
+      "target_sha256": "1b2620e3676d8b2e3aff93c8fe76d57c6663d5f41de5a9744538829cb5bb069d",
+      "source_prose_blocks": 7,
+      "target_blocks_including_editorial": 7
+    },
+    {
+      "file": "tendencyTonesFunctionalDissonances.md",
+      "source_sha256": "10f490fb3ee26aa2662d8ecccccbeca19b5f4c6668786a63bcaf45f41c520aa0",
+      "target_sha256": "6a9d9418f5c179ae24ffeebaac6b81e5a8188464bc2dee81c07c7dcf9378c50c",
+      "source_prose_blocks": 19,
+      "target_blocks_including_editorial": 20
+    },
+    {
+      "file": "TBDemo.md",
+      "source_sha256": "f096f437f8df3e0e3418a780ba5dd6e5b1b154044aa3ee97e64760b55cec4db0",
+      "target_sha256": "5160c7b8cbc1de05fccee0e60fb302345f6eb0f32361c7da0abe3083cdd6005d",
+      "source_prose_blocks": 2,
+      "target_blocks_including_editorial": 3
+    }
+  ],
+  "figured_bass_arithmetic": [
+    {
+      "figure": "5/3",
+      "bass_scale_degree": 1,
+      "pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "expected_pitch_classes": [
+        0,
+        4,
+        7
+      ],
+      "pass": true
+    },
+    {
+      "figure": "6/3",
+      "bass_scale_degree": 3,
+      "pitch_classes": [
+        4,
+        7,
+        0
+      ],
+      "expected_pitch_classes": [
+        4,
+        7,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "figure": "6/4",
+      "bass_scale_degree": 5,
+      "pitch_classes": [
+        7,
+        0,
+        4
+      ],
+      "expected_pitch_classes": [
+        7,
+        0,
+        4
+      ],
+      "pass": true
+    },
+    {
+      "figure": "7/5/3",
+      "bass_scale_degree": 5,
+      "pitch_classes": [
+        7,
+        11,
+        2,
+        5
+      ],
+      "expected_pitch_classes": [
+        7,
+        11,
+        2,
+        5
+      ],
+      "pass": true
+    },
+    {
+      "figure": "6/5/3",
+      "bass_scale_degree": 7,
+      "pitch_classes": [
+        11,
+        2,
+        5,
+        7
+      ],
+      "expected_pitch_classes": [
+        11,
+        2,
+        5,
+        7
+      ],
+      "pass": true
+    },
+    {
+      "figure": "6/4/3",
+      "bass_scale_degree": 2,
+      "pitch_classes": [
+        2,
+        5,
+        7,
+        11
+      ],
+      "expected_pitch_classes": [
+        2,
+        5,
+        7,
+        11
+      ],
+      "pass": true
+    },
+    {
+      "figure": "6/4/2",
+      "bass_scale_degree": 4,
+      "pitch_classes": [
+        5,
+        7,
+        11,
+        2
+      ],
+      "expected_pitch_classes": [
+        5,
+        7,
+        11,
+        2
+      ],
+      "pass": true
+    }
+  ],
+  "root_degree_checks": [
+    {
+      "bass": 3,
+      "root_interval": 6,
+      "root_degree": 1,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "bass": 4,
+      "root_interval": 6,
+      "root_degree": 2,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "bass": 2,
+      "root_interval": 4,
+      "root_degree": 5,
+      "expected": 5,
+      "pass": true
+    },
+    {
+      "bass": 4,
+      "root_interval": 2,
+      "root_degree": 5,
+      "expected": 5,
+      "pass": true
+    }
+  ]
+}

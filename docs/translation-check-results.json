@@ -2,9 +2,10 @@
   "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
   "batches": [
     1,
-    2
+    2,
+    3
   ],
-  "scope": "19 chapter files; index and contents are partial support pages",
+  "scope": "26 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -294,6 +295,118 @@
       "missing_music_tokens": [],
       "embed_count_preserved": true,
       "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "thoroughbassFigures.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 4,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "bassoContinuo-history.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "RNfromFB.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 7,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "bassoContinuo.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "tendency.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "tendencyTonesFunctionalDissonances.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "TBDemo.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
@@ -327,6 +440,13 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "http://player.vimeo.com/video/60340315",
+      "status": 200,
+      "final_url": "https://player.vimeo.com/video/60340315",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
       "url": "http://vimeo.com",
       "status": 200,
       "final_url": "https://vimeo.com/",
@@ -344,6 +464,13 @@
       "url": "http://vimeo.com/58488043",
       "status": 200,
       "final_url": "https://vimeo.com/58488043",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
+    },
+    {
+      "url": "http://vimeo.com/60340315",
+      "status": 200,
+      "final_url": "https://vimeo.com/60340315",
       "result": "reachable",
       "checked_at": "2026-10-06"
     },
@@ -442,6 +569,13 @@
       "url": "https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL3267613W/Style_and_music",
+      "status": 200,
+      "final_url": "https://openlibrary.org/verify_human?next=/works/OL3267613W/Style_and_music",
+      "result": "reachable",
+      "checked_at": "2026-10-06"
     },
     {
       "url": "https://openlibrary.org/works/OL5851060W/Sweet_Anticipation",
@@ -621,7 +755,7 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_links_checked_this_run": 0,
+  "external_links_checked_this_run": 3,
   "cached_external_results": 51,
   "fatal_structural_errors": [],
   "batch2_unit_structure": true,
