@@ -1,77 +1,79 @@
 ---
 layout: post
-title: Composing a third-species counterpoint
+title: כתיבת קונטרפונקט מן הסוג השלישי
+translation_status: language-reviewed
+translation_batch: 2
 ---
 
-In third-species counterpoint, the counterpoint line moves in quarter notes against a cantus firmus in whole notes. This 4:1 rhythmic ratio creates a still greater differentiation between beats than in second species: *strong beats* (downbeats), *moderately strong beats* (the third quarter note of each bar), and *weak beats* (the second and fourth quarter notes of each bar). Third species also introduces the *neighbor tone* dissonance, and two related figures in which dissonances can participate in leaps.
+בקונטרפונקט מן הסוג השלישי, קו הקונטרפונקט נע ברבעים כנגד קנטוס פירמוס בתווים שלמים. יחס קצבי זה, <bdi dir="ltr">4:1</bdi>, יוצר הבחנה גדולה עוד יותר בין הפעימות מאשר בסוג השני: *פעימות חזקות (strong beats)*, שהן הראשונות בתיבה; *פעימות חזקות במידה בינונית (moderately strong beats)*, שהן הרבע השלישי בכל תיבה; ו*פעימות חלשות (weak beats)*, שהן הרבע השני והרביעי. הסוג השלישי מציג גם דיסוננס של *צליל שכן (neighbor tone)*, ושתי תבניות קשורות שבהן דיסוננסים יכולים להשתתף בקפיצות.
 
-## The counterpoint line ##
+## קו הקונטרפונקט
 
-As in first and second species, the counterpoint line should be singable, have a good shape, with a single climax that does not coincide with the climax of the cantus firmus, and primarily stepwise motion (with some small leaps and an occasional large leap for variety). Like second species, a third-species counterpoint should be even *more dominated by stepwise motion* than in first species, because there are less sticky situations that would require a leap. If the counterpoint must leap, prefer to do so within the bar rather than across the barline. Also like second species, there should usually be one or two *secondary climaxes*—notes lower than the overall climax that serve as "local" climaxes for portions of the line.
+כמו בסוגים הראשון והשני, הקו צריך להיות נוח לשירה, בעל קו מתאר טוב ושיא יחיד שאינו מתרחש יחד עם שיא הקנטוס. עיקר התנועה הוא בצעדים, עם כמה קפיצות קטנות וקפיצה גדולה מדי פעם לשם גיוון. כמו בסוג השני, תנועה בצעדים צריכה להיות *דומיננטית עוד יותר* מאשר בראשון, מפני שיש פחות מצבים סבוכים המחייבים קפיצה. אם צריך לקפוץ, העדיפו לעשות זאת בתוך התיבה ולא מעבר לקו התיבה. גם כאן, בדרך כלל רצוי שיהיו שיאים משניים (secondary climaxes), אחד או שניים: תווים נמוכים מהשיא הכללי, המשמשים שיאים מקומיים בחלקי הקו.
 
-### Beginning a third-species counterpoint ###
+### פתיחת קונטרפונקט מן הסוג השלישי
 
-Begin a third-species counterpoint above the cantus firmus with *do* or *sol*. Begin a third-species counterpoint below the cantus firmus with *do*. Unisons are permitted for the first and last dyads of the exercise.
+התחילו קונטרפונקט מעל הקנטוס ב־*do* או ב־*sol*, ומתחתיו ב־*do*. פרימות זכות מותרות בצמד הראשון ובצמד האחרון של התרגיל.
 
-A third-species line can begin with four quarter notes in the first bar, or a quarter rest followed by three quarter notes. Regardless of rhythm, the first pitch in the counterpoint should follow the intervallic rules above.
+בתיבה הראשונה אפשר לכתוב ארבעה רבעים, או הפסקת רבע ולאחריה שלושה רבעים. ללא קשר למקצב, הגובה הראשון בקונטרפונקט חייב לעמוד בכללי המרווחים שלמעלה.
 
-### Ending a third-species counterpoint ###
+### סיום קונטרפונקט מן הסוג השלישי
 
-The final pitch of the counterpoint must always be *do*, and must be a whole note.
+הגובה האחרון בקונטרפונקט חייב תמיד להיות *do*, והוא חייב להיות כתוב כשלם.
 
-The penultimate note of the counterpoint (the last quarter note of the penultimate bar) should be *ti* if the cantus is *re*, and *re* if the cantus is *ti*.
+התו הלפני־אחרון בקונטרפונקט — הרבע האחרון בתיבה הלפני־אחרונה — צריך להיות *ti* אם בקנטוס נשמע *re*, ו־*re* אם בקנטוס נשמע *ti*.
 
-### Strong beats ###
+### פעימות חזקות
 
-Principles for strong beats (downbeats) are generally the same as in second species.
+העקרונות לפעימות החזקות, הראשונות בתיבה, זהים בדרך כלל לאלה שבסוג השני.
 
-Strong beats are *always  consonant*, and not unisons. Prefer imperfect consonances (thirds and sixths) to perfect consonances (fifths and octaves). 
+הן *תמיד קונסוננטיות*, ואינן פרימות זכות. העדיפו קונסוננסים בלתי מושלמים, טרצות וסקסטות, על פני מושלמים, קווינטות ואוקטבות.
 
-Motion across bar lines (from beat 4 to downbeat) follows the same rules as first species counterpoint.
+התנועה מעבר לקווי התיבה, מן הפעימה הרביעית לראשונה הבאה, כפופה לכללי הסוג הראשון.
 
-Progressions from downbeat to downbeat follow principles of second-species counterpoint, with one exception (see below). The following are some examples, but not an exhaustive list:
+המהלכים בין פעימות ראשונות עוקבות כפופים לעקרונות הסוג השני, למעט חריג אחד המופיע להלן. הנה כמה דוגמאות, שאינן רשימה ממצה:
 
-- No *three* consecutive bars can begin with the same perfect interval (two in a row are fine).  
-- No more than three bars in a row should begin with the same imperfect consonance.  
-- The pitches that begin consecutive downbeats must not make a dissonant melodic interval.  
+- אין לפתוח *שלוש* תיבות עוקבות באותו מרווח זך; שתי תיבות ברצף מותרות.
+- אין לפתוח יותר משלוש תיבות ברצף באותו קונסוננס בלתי מושלם.
+- הגבהים הפותחים פעימות ראשונות עוקבות אינם יכולים ליצור ביניהם מרווח מלודי דיסוננטי.
 
-If a downbeat contains a perfect fifth, neither the third or the fourth beat of the previous bar can be a fifth. If a downbeat contains an octave, neither the second, third, or fourth beat of the previous bar can be an octave. Like in second species, the negative effects of parallel fifths and octaves are not mitigated by the addition of a note or two. 
+אם בפעימה הראשונה יש קווינטה זכה, אסור שתהיה קווינטה בפעימה השלישית או הרביעית של התיבה הקודמת. אם יש בה אוקטבה, אסור שתהיה אוקטבה בפעימה השנייה, השלישית או הרביעית של התיבה הקודמת. כמו בסוג השני, הוספת תו או שניים אינה מבטלת את ההשפעה השלילית של קווינטות ואוקטבות מקבילות.
 
-*Hidden* or *direct fifths/octaves* between successive downbeats are allowed.
+קווינטות ואוקטבות *נסתרות* או *ישירות (hidden or direct fifths/octaves)* בין פעימות ראשונות עוקבות מותרות.
 
-### Other beats ###
+### יתר הפעימות
 
-Beats 2–4 should exhibit a mixture of consonant and dissonant intervals to promote variety. Among consonances, unisons are permitted on weak beats when necessary to make good counterpoint between the lines. Any dissonance must follow the pattern of the *dissonant passing tone* or the *dissonant neighbor tone*, explained below. Also explained below are a number of standard patterns for consonant weak beats.
+בפעימות 2–4 רצוי לשלב מרווחים קונסוננטיים ודיסוננטיים כדי ליצור גיוון. בין הקונסוננסים, פרימות זכות מותרות בפעימות חלשות כשנחוץ הדבר לקונטרפונקט טוב בין הקווים. כל דיסוננס חייב לעמוד בתבנית של *צליל עובר דיסוננטי* או *צליל שכן דיסוננטי*, המוסברות להלן. בהמשך מוסברות גם כמה תבניות מקובלות לפעימות חלשות קונסוננטיות.
 
-#### Harmonic dissonances ####
+#### דיסוננסים הרמוניים
 
-Generally, dissonances in third species can occur on beat 2, 3, or 4, and should be *preceded and followed by stepwise motion* (with the exception of the *double neighbor* and the *nota cambiata*, explained below). This promotes smoothness, both by keeping the dissonances off of the strongest beat of the bar, and by coupling them with the smoothest melodic motion. If all dissonant notes in the counterpoint follow one of the following models, they should have a pleasing effect. If not, they may sound harsh or unresolved, or will be difficult to sing.
+ככלל, דיסוננסים בסוג השלישי יכולים להופיע בפעימות 2, 3 או 4, וצריכים להיות *מוקדמים ומלווים בתנועה בצעדים*, למעט השכן הכפול והנוטה קמביאטה המוסברים להלן. הדבר מקדם זרימה חלקה בשתי דרכים: הדיסוננסים אינם מוצבים בפעימה החזקה ביותר, והם משולבים בתנועה המלודית החלקה ביותר. אם כל התווים הדיסוננטיים עומדים באחת התבניות הבאות, צפויה להם השפעה נעימה. אחרת הם עלולים להישמע חריפים או בלתי פתורים, או להיות קשים לשירה.
 
-The *dissonant passing tone* fills in the space of a melodic third via stepwise motion. The notes before and after the passing tone must be consonant with the cantus.
+*צליל עובר דיסוננטי (dissonant passing tone)* ממלא את המרווח של טרצה מלודית בתנועה בצעדים. התווים שלפניו ואחריו חייבים להיות קונסוננטיים עם הקנטוס.
 
-Note that it is possible to have two dissonant passing tones in a row (**P4–d5** or **d5–P4**). As long as these dissonances do not fall on downbeats and the counterpoint moves in stepwise motion in a single direction, there is no negative effect.
+שימו לב שאפשר להשתמש בשני צלילים עוברים דיסוננטיים ברצף: **<bdi dir="ltr">P4–d5</bdi>** או **<bdi dir="ltr">d5–P4</bdi>**. כל עוד הם אינם מופיעים בפעימה הראשונה, והקונטרפונקט נע בצעדים באותו כיוון, אין לכך השפעה שלילית.
 
-The *dissonant neighbor tone* ornaments a consonant tone by stepping away and stepping back to the original consonance (6–7–6 over the cantus, for example). It is melodically identical to the consonant neighbor tone of second species, with the difference being the harmonic dissonance. Employing it on a weak beat (2 or 4) ensures the greatest smoothness.
+*צליל שכן דיסוננטי (dissonant neighbor tone)* מקשט צליל קונסוננטי באמצעות יציאה ממנו בצעד וחזרה בצעד אל אותו גובה: למשל, <bdi dir="ltr">6–7–6</bdi> מעל הקנטוס. מבחינה מלודית הוא זהה לצליל השכן הקונסוננטי של הסוג השני; ההבדל הוא בדיסוננס ההרמוני. הצבתו בפעימה חלשה, 2 או 4, מבטיחה את הזרימה החלקה ביותר.
 
-The *double neighbor* occurs when beats 1 and 4 in the counterpoint are the same tone, and beats 2 and 3 include the notes a step higher and a step lower than the original tone. For example, C–D–B–C or C–B–D–C. Both beats 2 and 3 are dissonant, but since both are embellishing the original tone by step, the leap between them does not significantly diminish the smoothness of the line. When using a double neighbor, the direction between beats 3 and 4 should be the same as between beat 4 and the following downbeat. That motion across the barline should also be stepwise. This further maintains smoothness to temper the effect of the dissonances.
+*שכן כפול (double neighbor)* מופיע כאשר התווים בפעימות 1 ו־4 זהים, והתווים בפעימות 2 ו־3 הם צעד מעל הגובה המקורי וצעד מתחתיו. למשל, <bdi dir="ltr">C–D–B–C</bdi> או <bdi dir="ltr">C–B–D–C</bdi>. שתי הפעימות האמצעיות דיסוננטיות, אך מאחר ששתיהן מקשטות את הגובה המקורי במרחק צעד, הקפיצה ביניהן אינה פוגעת משמעותית בזרימת הקו. בשימוש בשכן כפול, כיוון התנועה מפעימה 3 ל־4 צריך להיות זהה לכיוון מפעימה 4 לראשונה הבאה. גם התנועה מעבר לקו התיבה צריכה להיות בצעד. כך נשמרת עוד יותר הזרימה החלקה, הממתנת את הדיסוננסים.
 
-The *nota cambiata* (changing tone) is a five-note figure that outlines a step progression from downbeat to downbeat. It follows one of two patterns:
+*נוטה קמביאטה (nota cambiata)* — ״צליל משתנה״ — היא תבנית של חמישה תווים המתווה התקדמות בצעד בין פעימות ראשונות. היא מקיימת אחת משתי התבניות הבאות:
 
-- down by step – down by third – up by step – up by step  
-- up by step – up by third – down by step – down by step  
+- ירידה בצעד, ירידה בטרצה, עלייה בצעד ועלייה בצעד.
+- עלייה בצעד, עלייה בטרצה, ירידה בצעד וירידה בצעד.
 
-The first pattern will result in a step down from downbeat to downbeat, and the second pattern will result in a step up from downbeat to downbeat. For a *nota cambiata* to be effective, the first, third, and fifth notes *must be consonant with the cantus*. The second note will be dissonant and will leap to the third tone. However, like the double neighbor, the overall pattern minimizes the negative effect of the leap away from the dissonance. It is surrounded by stepwise motion, the overall progression is a single step, and the dissonant tone and the following downbeat are the same pitch.
+בתבנית הראשונה מתקבלת ירידה בצעד בין שתי הפעימות הראשונות, ובשנייה עלייה בצעד. כדי שהנוטה קמביאטה תפעל היטב, התווים הראשון, השלישי והחמישי *חייבים להיות קונסוננטיים עם הקנטוס*. התו השני דיסוננטי, וממנו יש קפיצה אל השלישי. כמו בשכן הכפול, התבנית הכוללת מפחיתה את ההשפעה השלילית של הקפיצה מן הדיסוננס: היא מוקפת בתנועה בצעדים, ההתקדמות הכוללת היא צעד אחד, והתו הדיסוננטי והתו בפעימה הראשונה הבאה זהים בגובהם.
 
+#### קונסוננסים
 
-####  Consonances ####
+הקונטרפונקט יכול להגיע לצלילים קונסוננטיים ולצאת מהם בחופשיות בצעדים, וגם בקפיצה מקונסוננס אחר, בכפוף לשיקולים הבאים:
 
-The counterpoint can move in and out of consonant tones freely by step, as well as by leap from another consonance, with the following considerations:
+- כל הקפיצות המלודיות חייבות כמובן להיות קונסוננסים מלודיים.
+- אחרי קפיצה גדולה צריך לבוא צעד בכיוון ההפוך.
+- תנועה מן הפעימה הרביעית אל הראשונה הבאה חייבת לעמוד במגבלות שלמעלה להגעה לפעימות חזקות.
 
-- All melodic leaps, of course, must be melodic consonances.  
-- A large leap should be followed by a step in the opposite direction.  
-- Motion from the fourth beat into the following downbeat should follow the constraints above for motion into strong beats.
+***הדגמת וידאו***
 
+***להוסיף לעיל רכיבי Trinket כדי שהתלמידים יוכלו לבנות את הסכמות***
 
-***Video demonstration***
-
-***Add trinkets above to have students construct the schemas***
+> **הערת המהדורה העברית:** שתי השורות המודגשות האחרונות הן מצייני מקום עריכתיים שכבר מופיעים במקור; אין בפרק המקור הזה סרטון הדגמה או רכיבי Trinket. בפסקת הצליל העובר, ההיתר לשני דיסוננסים רצופים הוא חריג לתיאור הבסיסי שבו הצליל העובר מוקף בקונסוננסים. כל הדוגמאות וכללי הפרק שייכים לסוג השלישי בשיטת הספר.

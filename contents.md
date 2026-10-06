@@ -9,7 +9,7 @@ translation_status: partial
 [הקדמה למהדורה העברית](hebrew-introduction.html)  
 [דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
 
-**מצב העבודה:** פרקי היסודות הבאים תורגמו ונבדקו מול המקור. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+**מצב העבודה:** פרקי היסודות וששת פרקי הקונטרפונקט הבאים תורגמו ונבדקו מול המקור. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
 
 ## מבוא למקור
 
@@ -29,17 +29,17 @@ translation_status: partial
 [אקורדים משולשים ואקורדים מרובעים](triads.html)   
 [סוגי תנועה](motionTypes.html)
 
-## Voice-leading and model composition
+## הולכת קולות והלחנה לפי מודלים
 
-[Introduction to strict voice-leading.](speciesIntro.html)
+[מבוא להולכת קולות קפדנית](speciesIntro.html)
 
-### Strict two-voice composition (species counterpoint)
+### הלחנה קפדנית בשני קולות — קונטרפונקט לסוגיו
 
-[Composing a cantus firmus.](cantusFirmus.html)   
-[Composing a first-species counterpoint.](firstSpecies.html)   
-[Composing a second-species counterpoint.](secondSpecies.html)   
-[Composing a third-species counterpoint.](thirdSpecies.html)   
-[Composing a fourth-species counterpoint.](fourthSpecies.html)
+[כתיבת קנטוס פירמוס](cantusFirmus.html)   
+[כתיבת קונטרפונקט מן הסוג הראשון](firstSpecies.html)   
+[כתיבת קונטרפונקט מן הסוג השני](secondSpecies.html)   
+[כתיבת קונטרפונקט מן הסוג השלישי](thirdSpecies.html)   
+[כתיבת קונטרפונקט מן הסוג הרביעי](fourthSpecies.html)
 
 ### Strict four-voice composition
 

@@ -1,32 +1,34 @@
 ---
 layout: post
-title: Introduction to strict voice-leading
+title: מבוא להולכת קולות קפדנית
+translation_status: language-reviewed
+translation_batch: 2
 ---
 
-The study of the theory of Western music involves three main components: voice-leading, harmony, and form. *Voice-leading* deals with the relationship of two or more musical lines (or melodies) combined into a single musical idea. *Harmony* addresses the rules or norms for combining chords into successions. *Form* addresses the rules or norms for the combination of phrases and other small musical units into larger units—including whole movements and works. 
+לימוד התאוריה של המוזיקה המערבית כולל שלושה מרכיבים עיקריים: הולכת קולות, הרמוניה וצורה. *הולכת קולות (voice-leading)* עוסקת ביחסים בין שני קווים מוזיקליים או יותר — כלומר מנגינות — המשתלבים ברעיון מוזיקלי אחד. *הרמוניה (harmony)* עוסקת בכללים או בנורמות לצירוף אקורדים למהלכים. *צורה (form)* עוסקת בכללים או בנורמות לצירוף פראזות ויחידות מוזיקליות קטנות אחרות ליחידות גדולות יותר, עד לפרקים שלמים וליצירות שלמות.
 
-We will address all three of these facets of musical theory. However, of the three, voice-leading is the most fundamental. Thus, we begin our study of music theory, then, with *strict voice-leading*, or *counterpoint*. 
+נעסוק בכל שלושת ההיבטים האלה. עם זאת, הולכת הקולות היא היסודית ביותר מביניהם. לכן נתחיל את לימודי התאוריה ב*הולכת קולות קפדנית (strict voice-leading)*, או ב*קונטרפונקט (counterpoint)*.
 
-Twentieth-century musician and theorist, Heinrich Schenker, wrote:
+המוזיקאי והתאורטיקן בן המאה העשרים Heinrich Schenker כתב:
 
-> The purpose of counterpoint, rather than to teach a specific style of composition, is to lead the ear of the serious student of music for the first time into the infinite world of fundamental musical problems (*Kontrapunkt*, p. 10).
+> מטרת הקונטרפונקט, יותר משהיא ללמד סגנון הלחנה מסוים, היא להוביל לראשונה את אוזנו של תלמיד המוזיקה הרציני אל העולם האינסופי של הבעיות המוזיקליות היסודיות (*Kontrapunkt*, עמ׳ 10).
 
-Following this line of thinking, our early voice-leading exercises will not be in a specific style (classical, baroque, romantic, pop/rock, etc.). Instead, these exercises will eliminate important musical elements like *harmony*, *orchestration*, *melodic motives*, *formal structure*, and even many elements of *rhythm*, in order to focus very specifically on a small set of musical problems. These other elements of music will be introduced one-by-one as we progress through the course (and into future courses).
+ברוח זו, תרגילי הולכת הקולות הראשונים שלנו לא יהיו בסגנון מסוים — קלאסי, בארוקי, רומנטי, פופ/רוק וכדומה. תחת זאת, ננטרל בהם מרכיבים חשובים כגון הרמוניה, תזמור, מוטיבים מלודיים, מבנה צורני ואפילו היבטים רבים של מקצב, כדי להתמקד במדויק בקבוצה מצומצמת של בעיות מוזיקליות. המרכיבים האחרים יתווספו בזה אחר זה לאורך הקורס ובהמשך הלימודים.
 
-The "fundamental musical problems" we will address in the study of counterpoint center around the way in which some basic principles of auditory perception and cognition (how the brain perceives and conceptualizes sound) play out in Western musical structure. For example, our brains tend to assume that sounds similar in pitch or timbre come from the same source. Our brains also listen for patterns, and when a new sound continues or completes a previously heard pattern, it assumes that the new sound belongs together with those others. On the other hand, the breaking of these regularities in the sonic environment can signal danger, or at the very least the need for heightened attention to be applied to the sonic "culprit." Identifying irregularities in the sonic environment and boosting attention and adrenaline when one is found have been absolutely essential to the survival of the human species. These abilities are also what allows music to have the emotional effect that it does on so many people. Whether or not a composer or songwriter is aware of the science and psychology of hearing, a masterful composer mediates and plays with these basic concepts.
+ה״בעיות המוזיקליות היסודיות״ שנבחן בקונטרפונקט נוגעות לאופן שבו עקרונות בסיסיים של תפיסה שמיעתית ושל קוגניציה — האופן שבו המוח תופס צליל וממשיג אותו — מתבטאים במבנה המוזיקה המערבית. למשל, המוח נוטה להניח שצלילים הדומים בגובה או בגוון מגיעים מאותו מקור. הוא גם מחפש דפוסים: כשצליל חדש ממשיך או משלים דפוס שנשמע קודם, המוח מניח שהוא שייך לאותה קבוצה. לעומת זאת, הפרת סדירות בסביבה הצלילית עשויה לאותת על סכנה, או לפחות על צורך להקדיש תשומת לב מוגברת ל״אשם״ הצלילי. זיהוי חריגות בסביבה הצלילית והגברת הקשב והאדרנלין בתגובה להן היו חיוניים להישרדות המין האנושי. אותן יכולות גם מאפשרות למוזיקה להשפיע רגשית על אנשים רבים. גם בלי להכיר את המדע ואת הפסיכולוגיה של השמיעה, מלחין או כותב שירים מיומן מתווך בין העקרונות האלה ומשחק בהם.
 
-"Mediates" and "plays" are important ideas here. Music that simply makes it easy for the brain to parse and process sound is boring—it calls for no heightened attention, it doesn't increase our heart rate, make the hair on the back of our neck stand up, or give us a little jolt of dopamine. On the other hand, music that constantly activates our innate sense of danger is hardly pleasant for most listeners. Thus, fundamental to most of the music we will study is the dance between tension and relaxation, motion and rest.
+״מתווך״ ו״משחק״ הן מילים חשובות כאן. מוזיקה שרק מקלה על המוח לפענח ולעבד את הצליל היא משעממת: היא אינה דורשת קשב מוגבר, אינה מאיצה את הדופק, אינה מסמרת את השיער בעורף ואינה מעניקה פרץ קטן של דופמין. מנגד, מוזיקה שמפעילה ללא הרף את תחושת הסכנה המולדת אינה נעימה לרוב המאזינים. לכן, ברוב המוזיקה שנלמד, יסודי במיוחד הריקוד בין מתח להרפיה ובין תנועה למנוחה.
 
-The study of counterpoint will help us to engage several important musical "problems" in a limited context, so that we can master them compositionally and understand them analytically. Those problems arise as we seek to bring the following traits together:
+לימוד הקונטרפונקט יאפשר להתמודד עם כמה ״בעיות״ מוזיקליות חשובות במסגרת מצומצמת, כדי לשלוט בהן בהלחנה ולהבין אותן בניתוח. הן מתעוררות כאשר מבקשים לשלב את התכונות הבאות:
 
-- smoothness  
-- independence and integrity or melodic lines  
-- tonal fusion (the preference for simultaneous notes to form a consonant unity)  
-- variety  
-- motion (towards a goal)
+- זרימה חלקה.
+- עצמאות ולכידות של הקווים המלודיים.
+- מיזוג צלילי (tonal fusion): העדפה לכך שתווים הנשמעים יחד ייצרו אחדות קונסוננטית.
+- גיוון.
+- תנועה לעבר יעד.
 
-These traits are based in human perception and cognition, but they are often in conflict in specific musical moments, and need to be balanced over the course of larger passages and complete works. Counterpoint will help us begin to practice mediating these conflicts.
+התכונות האלה מבוססות על תפיסה וקוגניציה אנושיות, אך ברגעים מוזיקליים מסוימים הן מתנגשות זו בזו. יש לאזן ביניהן לאורך קטעים רחבים ויצירות שלמות. הקונטרפונקט יסייע לנו להתחיל לתרגל את התיווך בין המתחים האלה.
 
-Also, note Schenker's expression "lead the ear." Counterpoint is not a pencil-and-paper (or lecture-and-homework) study. Rather, the exercises are mini- (micro-? nano-?) compositions that must be *performed*—with voice and/or keyboard, often with a partner—so that the ear, the fingers, the throat, and ultimately the mind can internalize the sound, sight, and feel of good (and bad) musical lines, and good (and bad) combinations of musical lines.
+שימו לב גם לביטוי של שנקר, ״להוביל את האוזן״. קונטרפונקט אינו רק לימוד בעיפרון ועל נייר, או בהרצאה ובשיעורי בית. התרגילים הם יצירות זעירות — מיני, מיקרו, ואולי ננו — שיש *לבצע* בקול או במקלדת, ולעיתים קרובות עם שותף. כך האוזן, האצבעות, הגרון ולבסוף התודעה יפנימו את הצליל, המראה והתחושה של קווים מוזיקליים טובים ורעים ושל צירופים טובים ורעים ביניהם.
 
-The specific method we will use is called *species counterpoint*—so called because the study progresses through stages, or species, where one or two new musical "problems" are introduced. This approach has existed in some form since the early seventeenth century. The specific method we will use is very close to that articulated by Johann Joseph Fux, in his *Gradus ad parnassum* (*Steps to Parnassus*, 1725). Master composers from the eighteenth to the twenty-first centuries have used this method, or some variation on it. While Fux proposed five species, moving from two-voice combinations up to six- and eight-voice combinations, we will focus on species one through four, in two voices only.
+השיטה שבה נשתמש נקראת *קונטרפונקט לפי סוגים (species counterpoint)*: הלימוד מתקדם בשלבים, או ״סוגים״, ובכל אחד מוצגות בעיה מוזיקלית חדשה אחת או שתיים. גישה זו קיימת בצורה כלשהי מאז ראשית המאה השבע־עשרה. השיטה שלנו קרובה מאוד לזו שניסח Johann Joseph Fux בספרו *Gradus ad parnassum* — ״צעדים אל הפרנסוס״, משנת 1725. מלחינים חשובים מהמאה השמונה־עשרה עד המאה העשרים ואחת השתמשו בשיטה זו או בגרסה שלה. פוקס הציע חמישה סוגים, ובהם התקדמות מצירופים של שני קולות עד לצירופים של שישה ושמונה קולות; אנו נתמקד בסוגים הראשון עד הרביעי, בשני קולות בלבד.

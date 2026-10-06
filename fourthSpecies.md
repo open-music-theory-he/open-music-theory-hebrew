@@ -1,67 +1,71 @@
 ---
 layout: post
-title: Composing a fourth-species counterpoint
+title: כתיבת קונטרפונקט מן הסוג הרביעי
+translation_status: language-reviewed
+translation_batch: 2
+theory_review: pending-user-decision
 ---
 
-In fourth-species counterpoint, the counterpoint line and cantus firmus both move once per bar, but they are rhythmically offset from each other by a half note. (Think syncopation on the bar level.) The counterpoint line will be notated in half notes, with each weak-beat half note tied across the bar line to the following strong beat. This arrangement means that in pure fourth-species counterpoint, the two lines always move in oblique motion. It also introduces a new kind of dissonance: the *suspension*. 
+בקונטרפונקט מן הסוג הרביעי, הן קו הקונטרפונקט והן הקנטוס פירמוס נעים פעם אחת בכל תיבה, אך תחילת תנועתם מוסטת זו ביחס לזו במשך חצי — מעין סינקופה (syncopation) ברמת התיבה. הקונטרפונקט נכתב בחצאים, וכל חצי בפעימה חלשה מחובר בקשת מאריכה מעבר לקו התיבה אל הפעימה החזקה הבאה. לכן בסוג רביעי טהור, שני הקולות נעים תמיד בתנועה אלכסונית. הסידור הזה מציג גם סוג חדש של דיסוננס: *השהיה (suspension)*.
 
-## The suspension ##
+## ההשהיה
 
-The *suspension* is an accented dissonance, meaning it always occurs on strong beats. Because of the increased emphasis, even greater care must be taken to promote smoothness and overall coherence. Thus, like the *passing tone* and *neighbor tone* dissonances, the suspension is always preceded and followed by harmonic consonances.
+השהיה היא דיסוננס מודגש: היא מופיעה תמיד בפעימה חזקה. ההדגשה מחייבת זהירות גדולה עוד יותר בשמירת זרימה חלקה ולכידות כוללת. לכן, כמו דיסוננסים של צליל עובר וצליל שכן, ההשהיה מוקדמת ומלווה תמיד בקונסוננסים הרמוניים.
 
-A suspension figure has three parts:  
+לתבנית ההשהיה שלושה חלקים:
 
-- the *preparation*: a weak-beat note in the counterpoint that is consonant with the cantus. This note will be tied into . . .  
-- the *suspension* itself: a strong-beat note in the counterpoint that is dissonant with the cantus. This note is the same as the preparation.  
-- the *resolution*: a weak-beat note in the counterpoint that is consonant with the cantus. It will always be a step lower than the suspended tone.
+- *הכנה (preparation):* תו בפעימה חלשה בקונטרפונקט, הקונסוננטי עם הקנטוס. הוא מחובר בקשת מאריכה אל…
+- *ההשהיה* עצמה: תו בפעימה חזקה בקונטרפונקט, הדיסוננטי עם הקנטוס. זהו אותו תו של ההכנה.
+- *פתרון (resolution):* תו בפעימה חלשה בקונטרפונקט, הקונסוננטי עם הקנטוס. הוא תמיד נמוך בצעד מן הצליל המושהה.
 
-Use dissonant suspensions as much as possible in fourth species. Not only are they the characteristic sound of fourth species, but they sound nice, and proper use of them in fourth species will prepare you for the use of both suspensions and dissonant chord tones in later composition and arranging work.
+השתמשו בהשהיות דיסוננטיות ככל האפשר בסוג הרביעי. הן אינן רק הצליל האופייני לו, אלא גם נשמעות נעימות. שימוש נכון בהן יכין אתכם לשימוש בהשהיות ובצלילי אקורד דיסוננטיים בהמשך ההלחנה והעיבוד.
 
-### Types of suspensions ###
+### סוגי השהיות
 
-Suspensions are categorized according to the intervals of the *suspension* and *resolution* tones above/below the cantus firmus. A **7–6 suspension**, for example, includes a strong-beat suspension that forms a seventh with the cantus, which resolves down by step to a weak-beat tone that forms a sixth with the cantus.
+השהיות מסווגות לפי המרווחים שיוצרים צלילי *ההשהיה* וה*פתרון* עם הקנטוס, מעליו או מתחתיו. בהשהיה **<bdi dir="ltr">7–6</bdi>**, למשל, הדיסוננס בפעימה החזקה יוצר ספטימה עם הקנטוס ונפתר בירידה בצעד אל תו בפעימה חלשה היוצר עמו סקסטה.
 
-Possible dissonant suspensions *above* the cantus firmus are **7–6**, **4–3**, and **9–8**. (These are the only options that start on a dissonance and resolve down by step to an allowable consonance.) Possible dissonant suspensions *below* the cantus firmus are **2–3**, **5–6**, and **4–5**. (7–8 is theoretically possible, but it tends to sound less pleasing than the others. It is best avoided.)
+ההשהיות הדיסוננטיות האפשריות *מעל* הקנטוס הן **<bdi dir="ltr">7–6</bdi>**, **<bdi dir="ltr">4–3</bdi>** ו־**<bdi dir="ltr">9–8</bdi>**. אלה האפשרויות היחידות המתחילות בדיסוננס ונפתרות בצעד יורד לקונסוננס מותר. ההשהיות הדיסוננטיות האפשריות *מתחת* לקנטוס הן **<bdi dir="ltr">2–3</bdi>**, **<bdi dir="ltr">5–6</bdi>** ו־**<bdi dir="ltr">4–5</bdi>**. גם <bdi dir="ltr">7–8</bdi> אפשרית תאורטית, אך היא נוטה להישמע פחות נעימה מהאחרות, ועדיף להימנע ממנה.
 
-### Using suspensions ###
+### שימוש בהשהיות
 
-Treat suspensions in fourth species the same way you would treat their intervals of resolution in first species. For example, do not use two **9–8** or **4–5** suspensions in a row (since you cannot use two octaves or two fifths in a row in first species). Use **7–6** and **4–3** (above) or **2–3** and **5–6** (below) liberally, but no more than three times in a row (like thirds and sixths in first species).
+התייחסו להשהיות בסוג הרביעי כפי שהייתם מתייחסים למרווחי הפתרון שלהן בסוג הראשון. למשל, אין להשתמש בשתי השהיות **<bdi dir="ltr">9–8</bdi>** או **<bdi dir="ltr">4–5</bdi>** ברצף, משום שבסוג הראשון אסורות שתי אוקטבות או שתי קווינטות ברצף. השתמשו בחופשיות יחסית ב־**<bdi dir="ltr">7–6</bdi>** וב־**<bdi dir="ltr">4–3</bdi>** מעל הקנטוס, או ב־**<bdi dir="ltr">2–3</bdi>** וב־**<bdi dir="ltr">5–6</bdi>** מתחתיו, אך לא יותר משלוש פעמים ברצף, כמו בטרצות ובסקסטות בסוג הראשון.
 
-Following the same principle, do not use the "consonant suspension" **6–5** twice in a row, since its interval of "resolution" is a fifth. In fact, because the pattern set forward by a fourth-species line invites listeners to interpret the weak beats as the main consonances, avoid any configuration that would create two fifths or two octaves on consecutive weak beats in fourth species (called "after-beat" fifths or octaves).
+לפי אותו עיקרון, אין להשתמש פעמיים ברצף ב״השהיה הקונסוננטית״ **<bdi dir="ltr">6–5</bdi>**, מפני שמרווח ה״פתרון״ שלה הוא קווינטה. למעשה, התבנית של הסוג הרביעי מעודדת את המאזינים לתפוס את הפעימות החלשות כקונסוננסים העיקריים. לכן יש להימנע מכל סידור היוצר שתי קווינטות או שתי אוקטבות בפעימות חלשות עוקבות; אלה מכונות קווינטות או אוקטבות בפעימות שאחרי הפעימה החזקה (after-beat fifths or octaves).
 
-## The fourth-species counterpoint line ##
+## קו הקונטרפונקט מן הסוג הרביעי
 
-Use dissonant suspensions whenever possible. This will create a line consisting mostly of downward, stepwise motion. That is fine. It will also make it hard to direct motion towards a climax. That is also fine. Do not worry about the shape of the line if it is smooth, singable, and the suspensions are properly prepared and resolved. (It is simply too difficult to create a fourth-species counterpoint with the same shape as a cantus firmus, and the pedagogical import in fourth species is the treatment of the suspensions. So we temporarily ignore melodic shape to hone our suspension skills in fourth species.)
+השתמשו בהשהיות דיסוננטיות ככל האפשר. כך יתקבל קו הבנוי בעיקר מתנועה יורדת בצעדים, וזה תקין. הדבר גם יקשה על כיוון התנועה לשיא, וגם זה תקין. אל תדאגו לקו המתאר אם הקו חלק, נוח לשירה, וההשהיות מוכנות ונפתרות כראוי. קשה מדי לכתוב קונטרפונקט מן הסוג הרביעי בעל אותו קו מתאר כמו קנטוס פירמוס, והעיקר הלימודי כאן הוא הטיפול בהשהיות. לכן מניחים זמנית לקו המתאר כדי לחדד את מיומנות ההשהיה.
 
-If a dissonant suspension is not possible, try to use a tie from weak beat to strong beat. This can be a "consonant suspension," or you can leap up from downbeat consonance to weak-beat consonance. At least one or two upward leaps will be necessary to counteract the downward resolutions in order to keep the line in a singable range.
+אם השהיה דיסוננטית אינה אפשרית, נסו להשתמש בקשת מאריכה מפעימה חלשה לחזקה. זו יכולה להיות ״השהיה קונסוננטית״; לחלופין אפשר לקפוץ מעלה מקונסוננס בפעימה הראשונה לקונסוננס בפעימה החלשה. דרושות לפחות קפיצה אחת או שתיים כלפי מעלה כדי לאזן את הפתרונות היורדים ולשמור על מנעד נוח לשירה.
 
-If neither a dissonant suspension or consonant tied figure is possible, it is permissible to *break species* (see video demo below). When you break species, follow the principles of second-species counterpoint and resume fourth-species ties as soon as possible. Try not to break species more than once per exercise, and for just a bar or two. 
+אם אין אפשרות להשהיה דיסוננטית או לתבנית קונסוננטית עם קשת מאריכה, מותר *לחרוג מן הסוג (break species)*; ראו את סרטון ההדגמה להלן. בעת החריגה פעלו לפי עקרונות הסוג השני וחזרו לקשתות של הסוג הרביעי בהקדם האפשרי. השתדלו לא לחרוג יותר מפעם אחת בכל תרגיל, ולמשך תיבה או שתיים בלבד.
 
-### Beginning a fourth-species counterpoint ###
+### פתיחת קונטרפונקט מן הסוג הרביעי
 
-Begin a fourth-species counterpoint above the cantus firmus with *do* or *sol*. Begin a second-species counterpoint below the cantus firmus with *do*. Unisons are permitted for the first and last dyads of the exercise.
+התחילו קונטרפונקט מן הסוג הרביעי מעל הקנטוס ב־*do* או ב־*sol*, ומתחתיו ב־*do*. פרימות זכות מותרות בצמד הראשון ובצמד האחרון של התרגיל.
 
-Always begin with a half rest.
+התחילו תמיד בהפסקת חצי.
 
-### Ending a fourth-species counterpoint ###
+### סיום קונטרפונקט מן הסוג הרביעי
 
-There is only one option for ending fourth species.
+יש רק אפשרות אחת לסיום הסוג הרביעי.
 
-The cantus firmus *must* end with *re*–*do*. Do not use a cantus that ends with *ti*–*do*.
+הקנטוס *חייב* להסתיים ב־*<bdi dir="ltr">re–do</bdi>*. אין להשתמש בקנטוס המסתיים ב־*<bdi dir="ltr">ti–do</bdi>*.
 
-The counterpoint will end with a dissonant suspension. The penultimate bar will contain *do*–*ti*, and the final bar will contain a whole note *do*. The *do*–*ti* will form a **7–6** suspension above the *re* in the cantus, or a **2–3** suspension below the *re* in the cantus. As a dissonant suspension, that *do* will always be tied over from the previous bar.
+הקונטרפונקט יסתיים באמצעות השהיה דיסוננטית. בתיבה הלפני־אחרונה יהיו *<bdi dir="ltr">do–ti</bdi>*, ובתיבה האחרונה שלם על *do*. התנועה *<bdi dir="ltr">do–ti</bdi>* תיצור השהיה **<bdi dir="ltr">7–6</bdi>** מעל ה־*re* בקנטוס, או **<bdi dir="ltr">2–3</bdi>** מתחתיו. מכיוון שמדובר בהשהיה דיסוננטית, אותו *do* מחובר תמיד בקשת מאריכה מן התיבה הקודמת.
 
+## הדגמה
 
-## Demonstration ##
+בסרטונים הבאים המחבר מדגים כתיבת קונטרפונקט מן הסוג הרביעי מעל הקנטוס ומתחתיו. ההדגמות מוסיפות מידע על תהליך ההלחנה ומציגות דוגמאות ממשיות לכללים ולעקרונות שלמעלה.
 
-In the following videos, I illustrate the process of composing a fourth-species counterpoint above and below a cantus firmus. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
+<iframe title="הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי" src="http://player.vimeo.com/video/57389373" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/57389373">כתיבת קונטרפונקט מן הסוג הרביעי מעל קנטוס פירמוס</a>, מאת <a href="http://vimeo.com/user11692346">Kris Shaffer</a>, ב־<a href="http://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="http://player.vimeo.com/video/57389373" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/57389373">Composing a fourth-species counterpoint above a cantus firmus</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe title="הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי" src="http://player.vimeo.com/video/58488043" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/58488043">כתיבת קונטרפונקט מן הסוג הרביעי מתחת לקנטוס פירמוס</a>, מאת <a href="http://vimeo.com/user11692346">Kris Shaffer</a>, ב־<a href="http://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="http://player.vimeo.com/video/58488043" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/58488043">Composing a fourth-species counterpoint below the cantus firmus</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+## תרגיל
 
-## Exercise
+הדוגמה הבאה היא יצירה מן הסוג הרביעי. יש בה מקרה יחיד שבו ״כלל״ אחד ״מופר״. מצאו אותו ונסו לכתוב מחדש את התרגיל. האם תוכלו ליצור פתרון ״נכון״ ומשכנע יותר מוזיקלית מן המקור? אם לא, מדוע לדעתכם?
 
-The following is a model fourth-species composition. In it, there is a single example of a "rule" being "broken." Find it, and attempt to recompose the exercise. Can you make a "correct" solution that is more musically satisfying than the original? If not, why do you think that is?
+<iframe title="הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי" src="https://trinket.io/embed/music/22aa934458" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-<iframe src="https://trinket.io/embed/music/22aa934458" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+> **הערת המהדורה העברית:** בפסקת הפתיחה של הקונטרפונקט מתחת לקנטוס נכתב במקור בטעות ״סוג שני״; כאן תוקן ל״סוג רביעי״ בהתאם לכותרת ולהקשר. בהשהיות מתחת לקנטוס, כגון <bdi dir="ltr">2–3</bdi>, המספרים מתארים מרווחים בין הקולות; צליל הקונטרפונקט עצמו עדיין נפתר *בירידה* בצעד. בגרסה 1 נכללת <bdi dir="ltr">5–6</bdi> מתחת לקנטוס ברשימת ההשהיות הדיסוננטיות. לעומת זאת, [גרסה 2 של הספר](https://viva.pressbooks.pub/openmusictheory/chapter/fourth-species-counterpoint/) מבהירה במפורש שהתנועה הזו אינה השהיה דיסוננטית, מפני שהצליל המוחזק אינו דיסוננטי. נוסח גרסה 1 נשמר לעיל לצורך נאמנות למקור; הסיווג שלו אינו צריך לשמש כהנחיה ללא הבהרה זו. שינוי גוף הפסקה ממתין להחלטת המשתמש ומתועד ביומן. המונח ״השהיה״ בפרק מתייחס למסגרת הסוג הרביעי שבספר.

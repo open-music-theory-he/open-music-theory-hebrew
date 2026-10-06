@@ -1,54 +1,58 @@
 ---
 layout: post
-title: Composing a cantus firmus
+title: כתיבת קנטוס פירמוס
+translation_status: language-reviewed
+translation_batch: 2
 ---
 
-Exercises in strict voice-leading, or species counterpoint, begin with a single, well formed musical line called the *cantus firmus* (fixed voice, or fixed melody; pl. *cantus firmi*). *Cantus firmus* composition gives us the opportunity to engage the following fundamental musical traits:
+תרגילים בהולכת קולות קפדנית, או בקונטרפונקט לפי סוגים, מתחילים בקו מוזיקלי יחיד, בנוי היטב, הנקרא *קנטוס פירמוס (cantus firmus)* — קול קבוע או מנגינה קבועה; צורת הרבים בלטינית היא *cantus firmi*. כתיבת קנטוס פירמוס מאפשרת לעסוק בתכונות המוזיקליות היסודיות הבאות:
 
-- smoothness  
-- independence and integrity or melodic lines  
-- variety  
-- motion (towards a goal)
+- זרימה חלקה.
+- עצמאות ולכידות של הקווים המלודיים.
+- גיוון.
+- תנועה לעבר יעד.
 
-Our first exercises in strict voice-leading will be to compose good, well formed *cantus firmi*. The first step is to perform and analyze model *cantus firmi*, such as the following *cantus firmus* in C major, composed by Heinrich Schenker.
+התרגילים הראשונים שלנו בהולכת קולות קפדנית יהיו כתיבת קנטוס פירמוס טובים ובנויים היטב. הצעד הראשון הוא לבצע ולנתח דוגמאות מופת, כגון הקנטוס הבא ב־C מז׳ור, שכתב Heinrich Schenker.
 
-<iframe src="https://trinket.io/embed/music/da93d4d902" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="דוגמת קנטוס פירמוס או תרגיל" src="https://trinket.io/embed/music/da93d4d902" width="100%" height="200" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-A number of others are provided [here][CFs]. Performing these is a helpful practice to develop an internal sense of the sound and feel of a well formed *cantus*, and many of the characteristics of well formed *cantus firmi* carry over into other musical styles. (These model *cantus firmi* can also be used as the starting points for our two-voice exercises.)
+דוגמאות נוספות מופיעות [כאן][CFs]. ביצוע שלהן מסייע לפתח תחושה פנימית של הצליל ושל אופי הקנטוס הבנוי היטב. רבות מתכונותיו מופיעות גם בסגנונות מוזיקליים אחרים. אפשר להשתמש בדוגמאות המופת האלה גם כנקודת מוצא לתרגילים בשני קולות.
 
-From these *cantus*, notice how the general musical characteristics of smoothness, melodic integrity, variety, and motion towards a goal are worked out in specific characteristics. The following characteristics are typical of all well formed *cantus firmi*:
+התבוננו כיצד התכונות הכלליות — זרימה חלקה, לכידות מלודית, גיוון ותנועה לעבר יעד — מתממשות במאפיינים מסוימים. המאפיינים הבאים אופייניים לקנטוס פירמוס הבנוי היטב:
 
-- length of about 8–16 notes  
-- arhythmic (all whole notes; no long or short notes)  
-- begin and end on *do*  
-- approach final tonic by step (usually *re*–*do*, sometimes *ti*–*do*)  
-- all note-to-note progressions are [melodic consonances](intervals.html)  
-- range (interval between lowest and highest notes) of no more than a tenth, usually less than an octave  
-- a single climax (high point) that appears only once in the melody  
-- clear logical connection and smooth shape from beginning to climax to ending  
-- mostly stepwise motion, but with some leaps (mostly small leaps)  
-- no repetition of "motives" or "licks"  
-- any large leaps (fourth or larger) are followed by step in opposite direction  
-- no more than two leaps in a row; no consecutive leaps in the same direction (Fux's F-major *cantus* is an exception, where the back-to-back descending leaps outline a consonant triad.)  
-- the leading tone progresses to the tonic  
-- in minor, the leading tone only appears in the penultimate bar; the raised submediant is only used when progressing to that leading tone
+- אורך של כ־8–16 תווים.
+- היעדר גיוון קצבי (arhythmic): כל התווים הם שלמים; אין תווים ארוכים וקצרים זה מזה.
+- התחלה וסיום ב־*do*.
+- הגעה לטוניקה הסופית בצעד: בדרך כלל *<bdi dir="ltr">re–do</bdi>*, ולעיתים *<bdi dir="ltr">ti–do</bdi>*.
+- כל מעבר בין תווים עוקבים הוא [קונסוננס מלודי](intervals.html).
+- המנעד (range), כלומר המרווח בין התו הנמוך ביותר לגבוה ביותר, אינו גדול מדצימה, ובדרך כלל קטן מאוקטבה.
+- שיא יחיד (climax), שהוא נקודת הגובה המרבית ומופיע במנגינה פעם אחת בלבד.
+- קשר הגיוני ברור וקו מתאר חלק מן ההתחלה אל השיא ואל הסיום.
+- תנועה בעיקר בצעדים, אך גם כמה קפיצות, בעיקר קטנות.
+- אין חזרה על מוטיבים או על תבניות קצרות אופייניות, ״ליקים״.
+- כל קפיצה גדולה, מקוורטה ומעלה, מלווה אחריה בצעד בכיוון ההפוך.
+- אין יותר משתי קפיצות ברצף, ואין קפיצות עוקבות באותו כיוון. הקנטוס של פוקס ב־F מז׳ור הוא חריג: שתי הקפיצות היורדות העוקבות מתוות אקורד משולש קונסוננטי.
+- הצליל המוביל (leading tone) מתקדם לטוניקה.
+- במינור, הצליל המוביל מופיע רק בתיבה הלפני־אחרונה; הסובמדיאנטה המוגבהת, הדרגה השישית המוגבהת, משמשת רק במהלך אל אותו צליל מוביל.
 
-## Melodic tendencies
+## נטיות מלודיות
 
-The characteristics listed above are fairly detailed, and some of them are specific to strict species counterpoint. However, taken together, they express in detail some general tendencies of melodies in a variety of styles.
+המאפיינים שלמעלה מפורטים למדי, וחלקם ייחודיים לקונטרפונקט קפדני לפי סוגים. עם זאת, יחד הם מבטאים באופן מפורט נטיות כלליות של מנגינות במגוון סגנונות.
 
-[David Huron](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) identifies five general properties of melodies in Western music that connect to the basic principles of perception and cognition listed above, but play out in slightly different specific ways in musical styles. They are:
+[David Huron](https://openlibrary.org/works/OL5851060W/Sweet_Anticipation) מזהה חמישה מאפיינים כלליים של מנגינות במוזיקה המערבית. הם קשורים לעקרונות התפיסה והקוגניציה שתוארו לעיל, אך מתממשים באופן שונה מעט בכל סגנון:
 
-- **pitch proximity** – the tendency for melodies to progress by steps more than leaps and by small leaps more than large leaps. An expression of smoothness and melodic integrity.  
-- **step declination** – the tendency for melodies to move by *descending* step more than ascending. Possibly an expression of goal-oriented motion, as we tend to perceive a move down as a decrease in energy (movement towards a state of rest).  
-- **step inertia** – the tendency for melodies to change direction less frequently than they continue in the same direction. (I.e., the majority of melodic progressions are in the same direction as the previous one.) An expression of smoothness and, at times, goal-oriented motion.  
-- **melodic regression** – the tendency for melodic notes in extreme registers to progress back towards the middle. An expression of motion towards a position of rest (with non-extreme notes representing "rest"). Also an expression simply of the statistical distribution of notes in a melody: the higher a note is, the more notes there are below it for a composer to choose from, and the less notes there are above it.  
-- **melodic arch** – the tendency for melodies to ascend in the first half of a phrase, reach a climax, and descend in the second half. An expression of goal-orientation and the rest–motion–rest pattern. Also, a combination of the above rules in the context of a musical phrase.
+- **קרבה בגובה (pitch proximity):** הנטייה להתקדם בצעדים יותר מאשר בקפיצות, ובקפיצות קטנות יותר מאשר בגדולות. זהו ביטוי לזרימה חלקה וללכידות מלודית.
+- **נטייה לצעדים יורדים (step declination):** הנטייה לנוע בצעד יורד יותר מאשר בצעד עולה. ייתכן שזהו ביטוי לתנועה מכוונת ליעד, שכן אנו נוטים לתפוס ירידה כהפחתת אנרגיה וכהתקדמות למצב של מנוחה.
+- **התמדה בכיוון הצעדים (step inertia):** הנטייה להמשיך באותו כיוון יותר מאשר לשנות אותו; כלומר, רוב המעברים המלודיים ממשיכים בכיוון המעבר הקודם. זהו ביטוי לזרימה חלקה, ולעיתים גם לתנועה מכוונת ליעד.
+- **חזרה מלודית לאמצע (melodic regression):** הנטייה של תווים ברגיסטרים קיצוניים להתקדם בחזרה אל האמצע. זהו ביטוי לתנועה לעבר מנוחה, כשהתווים שאינם קיצוניים מייצגים אותה. זהו גם ביטוי להתפלגות הסטטיסטית של תווי המנגינה: ככל שהתו גבוה יותר, יש למלחין יותר תווים לבחור מתחתיו ופחות מעליו.
+- **קשת מלודית (melodic arch):** הנטייה של מנגינות לעלות במחצית הראשונה של הפראזה, להגיע לשיא ולרדת במחצית השנייה. זהו ביטוי להתכוונות ליעד ולדפוס מנוחה–תנועה–מנוחה, וגם שילוב של הנטיות שלמעלה במסגרת פראזה מוזיקלית.
 
-## Practice exercise 
+## תרגיל הכנה
 
-Before composing a *cantus firmus* from scratch, try building a well formed *cantus* around the following skeleton. Length, starting pitch, penultimate pitch, ending pitch, and climax have been provided. Create a smooth, consonant melodic line that exemplifies the characteristics listed above—both the specific characteristics of strict species *cantus firmi* and the general characteristics of tonal melodies. Click the staff to hear the melody. Be sure to listen each time you make a change.
+לפני כתיבת קנטוס פירמוס מתחילתו, נסו לבנות קנטוס תקין סביב השלד הבא. האורך, גובה ההתחלה, הגובה הלפני־אחרון, גובה הסיום והשיא נתונים מראש. צרו קו מלודי חלק וקונסוננטי המדגים הן את המאפיינים המסוימים של קנטוס פירמוס בקונטרפונקט קפדני לפי סוגים והן את המאפיינים הכלליים של מנגינות טונאליות. לחצו על החמשה כדי לשמוע את המנגינה. הקפידו להאזין אחרי כל שינוי.
 
-<iframe class="trinket" src="https://trinket.io/embed/music/2df65adf8b" width="100%" height="240" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="דוגמת קנטוס פירמוס או תרגיל" class="trinket" src="https://trinket.io/embed/music/2df65adf8b" width="100%" height="240" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+
+> **הערת המהדורה העברית:** הכללים לכתיבת הקנטוס בפרק זה שייכים למסגרת התרגיל המסוימת שבספר. אין להחיל, למשל, את הגבלת הופעת הצליל המוביל במינור על כל מנגינה במינור. הברות הסולפז׳ הן יחסיות; ראו [דו קבוע ודו נייד](fixed-and-movable-do.html).
 
 [CFs]: {{ site.url }}/Graphics/counterpoint/cantusFirmi.pdf

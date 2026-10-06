@@ -2,7 +2,7 @@
 
 תרגום בסיוע AI של Open Music Theory v1. מקור: [openmusictheory/openmusictheory.github.io](https://github.com/openmusictheory/openmusictheory.github.io), נקודת מקור `a907aa015f7ec54b925ddb070d2d36aecd0dc705`.
 
-**העבודה החלה: 11 פרקי יסודות ו־2 פרקי פתיחה. יתר הספר טרם תורגם. בדיקת בנייה, תצוגה ומדיה טרם הושלמה.**
+**העבודה החלה: 17 פרקי מקור ו־2 פרקי פתיחה. יתר הספר טרם תורגם. בדיקת בנייה, תצוגה ומדיה טרם הושלמה.**
 
 - [הקדמה למהדורה העברית](hebrew-introduction.md)
 - [דו מוחלט ודו יחסי](fixed-and-movable-do.md)
