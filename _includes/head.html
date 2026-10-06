@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html lang="{% if page.translation_status %}he{% else %}en{% endif %}" dir="{% if page.translation_status %}rtl{% else %}ltr{% endif %}">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
 
-<meta property="og:locale" content="en_US">
+<meta property="og:locale" content="{% if page.translation_status %}he_IL{% else %}en_US{% endif %}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 120  }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
 <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
@@ -31,6 +31,17 @@
 
 
 
+<style>
+html[lang="he"] body {font-family: Arial, sans-serif;}
+html[lang="he"] .post {text-align: right;}
+html[lang="he"] .post p, html[lang="he"] .post li {font-family: Arial, sans-serif;}
+html[lang="he"] .post ul, html[lang="he"] .post ol {padding-right: 1.6em; padding-left: 0;}
+html[lang="he"] .post blockquote {border-right: 3px solid #ccc; padding-right: 1em;}
+html[lang="he"] .post code, html[lang="he"] .post pre, html[lang="he"] .post iframe {direction: ltr; unicode-bidi: isolate;}
+bdi[dir="ltr"] {direction: ltr; unicode-bidi: isolate;}
+.post img, .post iframe {max-width: 100%;}
+.translation-notice {font-size: .9em; padding: .7em; background: #f4f4f4;}
+</style>
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/i.css">
 
@@ -59,7 +70,7 @@
         <nav role="navigation">
           <ul>
             <li>
-              <a href="{{ site.baseurl }}/" title="{{ site.title }}">Home</a>
+              <a href="{{ site.baseurl }}/" title="{{ site.title }}">דף הבית</a>
             </li>
             
             {% for link in site.links %}
