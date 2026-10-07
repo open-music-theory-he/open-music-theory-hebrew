@@ -1,0 +1,461 @@
+{
+  "edition": "5519655859eb064d",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Charon",
+  "style": "Clear, warm educational audiobook narration, measured pace, natural pauses.",
+  "chunk_characters": 1200,
+  "builder_version": 1,
+  "status": "paused",
+  "chapters": [
+    {
+      "source": "hebrew-introduction.md",
+      "title": "הקדמה למהדורה העברית",
+      "filename": "001 — הקדמה למהדורה העברית.mp3",
+      "notices": [],
+      "segments_ready": 2,
+      "segments_total": 2,
+      "status": "generated",
+      "source_sha256": "1061332024ef792fadc96faf4d2d1762d9c242cd344d5640d4ceda673ddd7905",
+      "sha256": "dc2a8d909e1079c6d86496c9862406da0d1fb759113a7fba3fa35cb6c62c9e9e",
+      "seconds": 160.2,
+      "chunks": 2,
+      "review_status": "generated_needs_listening_review"
+    },
+    {
+      "source": "fixed-and-movable-do.md",
+      "title": "דו קבוע ודו נייד — מדריך לקורא העברי",
+      "filename": "002 — דו קבוע ודו נייד  מדריך לקורא העברי.mp3",
+      "notices": [
+        "table_linearized_needs_listening_review"
+      ],
+      "segments_ready": 1,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "basicNotation.md",
+      "title": "יסודות התיווי",
+      "filename": "003 — יסודות התיווי.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "meter.md",
+      "title": "המשקל וסימניו",
+      "filename": "004 — המשקל וסימניו.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    },
+    {
+      "source": "protonotation.md",
+      "title": "תיווי מקדים",
+      "filename": "005 — תיווי מקדים.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "rhythmicValues.md",
+      "title": "ערכים קצביים",
+      "filename": "006 — ערכים קצביים.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "beams.md",
+      "title": "קורות וחלוקות קצב שאולות",
+      "filename": "007 — קורות וחלוקות קצב שאולות.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "pitches.md",
+      "title": "גבהי צליל וסימון אוקטבות",
+      "filename": "008 — גבהי צליל וסימון אוקטבות.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "scales.md",
+      "title": "סולמות ודרגות הסולם",
+      "filename": "009 — סולמות ודרגות הסולם.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "keySignatures.md",
+      "title": "סימני הסולם",
+      "filename": "010 — סימני הסולם.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "intervals.md",
+      "title": "מרווחים וצמדי צלילים",
+      "filename": "011 — מרווחים וצמדי צלילים.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review",
+        "table_linearized_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 8,
+      "status": "pending"
+    },
+    {
+      "source": "triads.md",
+      "title": "אקורדים משולשים ואקורדי ספטימה",
+      "filename": "012 — אקורדים משולשים ואקורדי ספטימה.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 8,
+      "status": "pending"
+    },
+    {
+      "source": "motionTypes.md",
+      "title": "סוגי תנועה קונטרפונקטית",
+      "filename": "013 — סוגי תנועה קונטרפונקטית.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "speciesIntro.md",
+      "title": "מבוא להולכת קולות קפדנית",
+      "filename": "014 — מבוא להולכת קולות קפדנית.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "cantusFirmus.md",
+      "title": "כתיבת קנטוס פירמוס",
+      "filename": "015 — כתיבת קנטוס פירמוס.mp3",
+      "notices": [
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "firstSpecies.md",
+      "title": "כתיבת קונטרפונקט מן הסוג הראשון",
+      "filename": "016 — כתיבת קונטרפונקט מן הסוג הראשון.mp3",
+      "notices": [
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "secondSpecies.md",
+      "title": "כתיבת קונטרפונקט מן הסוג השני",
+      "filename": "017 — כתיבת קונטרפונקט מן הסוג השני.mp3",
+      "notices": [
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 8,
+      "status": "pending"
+    },
+    {
+      "source": "thirdSpecies.md",
+      "title": "כתיבת קונטרפונקט מן הסוג השלישי",
+      "filename": "018 — כתיבת קונטרפונקט מן הסוג השלישי.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "fourthSpecies.md",
+      "title": "כתיבת קונטרפונקט מן הסוג הרביעי",
+      "filename": "019 — כתיבת קונטרפונקט מן הסוג הרביעי.mp3",
+      "notices": [
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "thoroughbassFigures.md",
+      "title": "מבוא לבס ממוספר",
+      "filename": "020 — מבוא לבס ממוספר.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "bassoContinuo-history.md",
+      "title": "היסטוריה קצרה של הבס הרציף והולכת קולות בכלי מקלדת",
+      "filename": "021 — היסטוריה קצרה של הבס הרציף והולכת קולות בכלי מקלדת.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "RNfromFB.md",
+      "title": "ניתוח בס ממוספר באמצעות ספרות רומיות",
+      "filename": "022 — ניתוח בס ממוספר באמצעות ספרות רומיות.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "bassoContinuo.md",
+      "title": "הלחנה בסגנון בס רציף",
+      "filename": "023 — הלחנה בסגנון בס רציף.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "tendency.md",
+      "title": "סגנון ונטייה",
+      "filename": "024 — סגנון ונטייה.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "tendencyTonesFunctionalDissonances.md",
+      "title": "צלילי נטייה ודיסוננסים הרמוניים פונקציונליים",
+      "filename": "025 — צלילי נטייה ודיסוננסים הרמוניים פונקציונליים.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review",
+        "table_linearized_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "TBDemo.md",
+      "title": "מימוש בס ממוספר בסגנון בס רציף קפדני",
+      "filename": "026 — מימוש בס ממוספר בסגנון בס רציף קפדני.mp3",
+      "notices": [
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 1,
+      "status": "pending"
+    },
+    {
+      "source": "melodicKeyboardStyle.md",
+      "title": "הולכת קולות מלודית בסגנון כלי מקלדת",
+      "filename": "027 — הולכת קולות מלודית בסגנון כלי מקלדת.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "KBVLschemata.md",
+      "title": "סכמות להולכת קולות בסגנון כלי מקלדת",
+      "filename": "028 — סכמות להולכת קולות בסגנון כלי מקלדת.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    },
+    {
+      "source": "functions.md",
+      "title": "מבוא לתפקידים מוזיקליים",
+      "filename": "029 — מבוא לתפקידים מוזיקליים.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "harmonicFunctions.md",
+      "title": "תפקידים הרמוניים",
+      "filename": "030 — תפקידים הרמוניים.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "table_linearized_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 8,
+      "status": "pending"
+    },
+    {
+      "source": "harmonicSyntax1.md",
+      "title": "תחביר הרמוני — הפראזה האידאלית",
+      "filename": "031 — תחביר הרמוני  הפראזה האידאלית.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "harmonicSyntax2.md",
+      "title": "תחביר הרמוני — הארכה",
+      "filename": "032 — תחביר הרמוני  הארכה.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 7,
+      "status": "pending"
+    },
+    {
+      "source": "harmonicAnalysis.md",
+      "title": "ביצוע ניתוח הרמוני",
+      "filename": "033 — ביצוע ניתוח הרמוני.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "cadenceTypes.md",
+      "title": "סוגי קדנצות קלאסיות",
+      "filename": "034 — סוגי קדנצות קלאסיות.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    },
+    {
+      "source": "alteredSubdominants.md",
+      "title": "אקורדי סובדומיננטה משתנים כרומטית",
+      "filename": "035 — אקורדי סובדומיננטה משתנים כרומטית.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    },
+    {
+      "source": "modalMixture.md",
+      "title": "עירוב מודאלי",
+      "filename": "036 — עירוב מודאלי.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "schemataOpensAndCloses.md",
+      "title": "סכמות בסגנון הגלנט — פתיחות וסיומים",
+      "filename": "037 — סכמות בסגנון הגלנט  פתיחות וסיומים.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "schemataContinuationPatterns.md",
+      "title": "סכמות בסגנון הגלנט — תבניות המשך",
+      "filename": "038 — סכמות בסגנון הגלנט  תבניות המשך.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "schemataSummary.md",
+      "title": "סכמות בסגנון הגלנט — סיכום",
+      "filename": "039 — סכמות בסגנון הגלנט  סיכום.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review",
+        "table_linearized_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "schemata-improv.md",
+      "title": "אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט",
+      "filename": "040 — אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    }
+  ],
+  "requests_this_run": 4,
+  "reason": "service_temporarily_unavailable_503"
+}
