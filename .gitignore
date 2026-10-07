@@ -9,3 +9,5 @@ Thumbs.db
 _site/
 dist/export/
 __pycache__/
+dist/audiobook/
+dist/audiobook-state/
