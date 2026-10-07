@@ -1,0 +1,9 @@
+{
+  "title": "הקדמה למהדורה העברית",
+  "source": "hebrew-introduction.md",
+  "source_sha256": "1061332024ef792fadc96faf4d2d1762d9c242cd344d5640d4ceda673ddd7905",
+  "sha256": "dc2a8d909e1079c6d86496c9862406da0d1fb759113a7fba3fa35cb6c62c9e9e",
+  "seconds": 160.2,
+  "chunks": 2,
+  "review_status": "generated_needs_listening_review"
+}
