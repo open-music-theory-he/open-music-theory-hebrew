@@ -7,3 +7,5 @@ ehthumbs.db
 Thumbs.db
 
 _site/
+dist/export/
+__pycache__/
