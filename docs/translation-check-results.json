@@ -3,9 +3,13 @@
   "batches": [
     1,
     2,
-    3
+    3,
+    4,
+    5,
+    6,
+    7
   ],
-  "scope": "26 chapter files; index and contents are partial support pages",
+  "scope": "40 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -407,6 +411,230 @@
       "missing_music_tokens": [],
       "embed_count_preserved": true,
       "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "melodicKeyboardStyle.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "KBVLschemata.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 13,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "schemataOpensAndCloses.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 2,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "schemataContinuationPatterns.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 3,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "schemataSummary.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "schemata-improv.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 7,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "harmonicFunctions.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 6,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "harmonicSyntax1.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "harmonicAnalysis.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "harmonicSyntax2.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 11,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "cadenceTypes.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 6,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "functions.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "modalMixture.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "alteredSubdominants.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 5,
+      "iframes": 4,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
@@ -414,6 +642,30 @@
       "url": "http://en.wikipedia.org/wiki/Solfège",
       "result": "unverified",
       "error": "HTTPConnectionPool(host='127.0.0.1', port=38863): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "http://faculty-web.at.northwestern.edu/music/gjerdingen/index.htm",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=44157): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Fenaroli/Regole/regoleP3.htm",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=44157): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Furno/regoleP5.htm",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=44157): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "http://player.vimeo.com/video/109188050",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=45799): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "http://player.vimeo.com/video/56828309",
@@ -454,6 +706,13 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "http://vimeo.com/109188050",
+      "status": 404,
+      "final_url": "https://vimeo.com/109188050",
+      "result": "needs_review",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "http://vimeo.com/57389373",
       "status": 200,
       "final_url": "https://vimeo.com/57389373",
@@ -482,10 +741,51 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "http://www.imslp.org",
+      "status": 200,
+      "final_url": "https://imslp.org/",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html",
+      "result": "unverified",
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=45799): Read timed out. (read timeout=12)",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "status": 200,
       "final_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm",
@@ -545,6 +845,20 @@
       "result": "reachable"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify:track:6M1Eo5wuTl8f5qbpLCuph0",
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify:track:6M1Eo5wuTl8f5qbpLCuph0",
@@ -554,6 +868,13 @@
       "url": "https://embed.spotify.com/?uri=spotify:track:6T5JlpcvC0RbPpexl8xXMI",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:70TI9J2rsGIuXyFqVzOswh",
@@ -606,11 +927,25 @@
       "error": "HTTPSConnectionPool(host='player.vimeo.com', port=443): Read timed out. (read timeout=12)"
     },
     {
+      "url": "https://trinket.io/embed/music/026277e656",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/026277e656",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "https://trinket.io/embed/music/043d342ffa",
       "status": 200,
       "final_url": "https://trinket.io/embed/music/043d342ffa",
       "result": "reachable",
       "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/1e440d4768",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/1e440d4768",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "https://trinket.io/embed/music/22aa934458",
@@ -634,6 +969,41 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "https://trinket.io/embed/music/3b6de8a510",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/3b6de8a510",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/480c1acf9b",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/480c1acf9b",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/4ea073d8f1",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/4ea073d8f1",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/519c9f039d",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/519c9f039d",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/51a20e2c7a",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/51a20e2c7a",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "https://trinket.io/embed/music/5764fe4a4b",
       "status": 200,
       "final_url": "https://trinket.io/embed/music/5764fe4a4b",
@@ -646,6 +1016,20 @@
       "final_url": "https://trinket.io/embed/music/585810f762",
       "result": "reachable",
       "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/69e6b9acb9",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/69e6b9acb9",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/6a403a3d21",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/6a403a3d21",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "https://trinket.io/embed/music/827ad0b4a2",
@@ -662,11 +1046,32 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "https://trinket.io/embed/music/a23ec68873",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/a23ec68873",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/a63f2a06bc",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/a63f2a06bc",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "https://trinket.io/embed/music/a79b68de03",
       "status": 200,
       "final_url": "https://trinket.io/embed/music/a79b68de03",
       "result": "reachable",
       "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/bcc2fe55de",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/bcc2fe55de",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "https://trinket.io/embed/music/bd3da422f4",
@@ -683,11 +1088,39 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "https://trinket.io/embed/music/dcdfbf0994",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/dcdfbf0994",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
       "url": "https://trinket.io/embed/music/de54f539bb",
       "status": 200,
       "final_url": "https://trinket.io/embed/music/de54f539bb",
       "result": "reachable",
       "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/e02e8af4b3",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/e02e8af4b3",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/e12906a55e",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/e12906a55e",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://trinket.io/embed/music/ee80a49382",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/ee80a49382",
+      "result": "reachable",
+      "checked_at": "2026-10-07"
     },
     {
       "url": "https://trinket.io/embed/music/ef1cff1ee3",
@@ -755,8 +1188,8 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_links_checked_this_run": 3,
-  "cached_external_results": 51,
+  "external_links_checked_this_run": 4,
+  "cached_external_results": 80,
   "fatal_structural_errors": [],
   "batch2_unit_structure": true,
   "batch2_unit_hashes_current": true

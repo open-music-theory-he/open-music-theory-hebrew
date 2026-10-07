@@ -1,0 +1,38 @@
+{
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "batch": 5,
+  "chapters": [
+    {
+      "file": "harmonicFunctions.md",
+      "source_sha256": "41de31c1f1cb7fd4d8383643e1c6421ad93ef5c34bc090660689dc7f50af2d45",
+      "target_sha256": "dde760815461337e6b5e5a2300efa84b164e3b1c8fbeadadf878cd2f264a5989",
+      "review": "Full source/target comparison with functional model, exception and symbolic-label review; same-model AI."
+    },
+    {
+      "file": "harmonicSyntax1.md",
+      "source_sha256": "9de2fc525a5a67b4b6c42977f999216e154a4e80a7890c19122c37e769dfb9c0",
+      "target_sha256": "e602a39697928cb601dee23faa4fae2f0eaf15358ac577736f8d34130ddadd2f",
+      "review": "Full source/target comparison with functional model, exception and symbolic-label review; same-model AI."
+    },
+    {
+      "file": "harmonicAnalysis.md",
+      "source_sha256": "5f28da11e9638000f7f7866db8ecdd3e0a65b7f48f68559dcba7ca762f9bec66",
+      "target_sha256": "0e763a346d11b47a5eaac875797e31e1b53b1679b924078295c81ba9cdfc3bf9",
+      "review": "Full source/target comparison with functional model, exception and symbolic-label review; same-model AI."
+    }
+  ],
+  "triad_function_model_results": {
+    "I": "T",
+    "II": "S",
+    "III": "T",
+    "IV": "S",
+    "V": "D",
+    "VI": "Tx",
+    "VII": "D"
+  },
+  "III7_context_required": true,
+  "limitations": [
+    "No full Jekyll build or media playback",
+    "Theoretical claims translated in source framework, not independently established by research"
+  ]
+}

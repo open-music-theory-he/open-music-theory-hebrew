@@ -1,8 +1,8 @@
 # התקדמות התרגום
 
-6 באוקטובר 2026 · מקבצים 1–3
+7 באוקטובר 2026 · מקבצים 1–7
 
-**24 פרקי מקור תורגמו ונבדקו מול המקור. שני פרקי פתיחה חדשים נכתבו ונבדקו. הספר כולו טרם תורגם.**
+**38 פרקי מקור תורגמו ונבדקו מול המקור. שני פרקי פתיחה חדשים נכתבו ונבדקו. הספר כולו טרם תורגם.**
 
 כל הפרקים נמצאים במצב `language-reviewed`: בדיקת תוכן ולשון בסיוע AI הסתיימה; בדיקות האתר והמדיה ממתינות. מצב זה אינו אישור לפרסום סופי.
 
@@ -46,3 +46,37 @@
 [ביקורת מקבץ 3](translation-review-batch3.md).
 
 המשך סדר העבודה: הולכת קולות מלודית בכלי מקלדת, סכמות ומימוש בס; ובהמשך הרמוניה וצורה. יש להשלים גם עמודי עזר, כיתובי גרפיקה, בדיקת מדיה ובניית האתר.
+
+## מקבץ 4
+
+- [melodicKeyboardStyle.md](../melodicKeyboardStyle.md)
+- [KBVLschemata.md](../KBVLschemata.md)
+- [schemataOpensAndCloses.md](../schemataOpensAndCloses.md)
+- [schemataContinuationPatterns.md](../schemataContinuationPatterns.md)
+- [schemataSummary.md](../schemataSummary.md)
+- [schemata-improv.md](../schemata-improv.md)
+
+[ביקורת מקבץ 4](translation-review-batch4.md). המשך התרגום: הרמוניה ותפקידים, קדנצות וצורות.
+
+## מקבץ 5
+
+- [harmonicFunctions.md](../harmonicFunctions.md)
+- [harmonicSyntax1.md](../harmonicSyntax1.md)
+- [harmonicAnalysis.md](../harmonicAnalysis.md)
+
+[ביקורת מקבץ 5](translation-review-batch5.md). פרקי ההארכה והקדנצות תורגמו במקבץ 6; המשך ההרמוניה עדיין בתור.
+
+## מקבץ 6
+
+- [harmonicSyntax2.md](../harmonicSyntax2.md)
+- [cadenceTypes.md](../cadenceTypes.md)
+
+[ביקורת מקבץ 6](translation-review-batch6.md). המשך התור: הרמוניה כרומטית, אקורדים שניוניים, עירוב מודאלי, מודולציה וצורה.
+
+## מקבץ 7
+
+- [functions.md](../functions.md)
+- [modalMixture.md](../modalMixture.md)
+- [alteredSubdominants.md](../alteredSubdominants.md)
+
+[ביקורת מקבץ 7](translation-review-batch7.md). הסבב הנוכחי הוסיף 14 פרקי מקור. ההמשך: אקורדים שניוניים, מודולציה וצורה; לאחר מכן יתר הספר ועמודי העזר.

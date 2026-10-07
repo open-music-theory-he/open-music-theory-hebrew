@@ -1,0 +1,61 @@
+{
+  "batch": 7,
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "chapters": [
+    {
+      "file": "functions.md",
+      "source_sha256": "925f68881270e44105ad05fe318d1e27bbb5108e09dff312f51c5983212b20b4",
+      "target_sha256": "55862a409ef8a0c47876f311a10ec147ab43b00b059e227e5068cf7918843479",
+      "review": "Full source/target comparison; conditions, chromatic syllables and source theoretical framing retained."
+    },
+    {
+      "file": "modalMixture.md",
+      "source_sha256": "c1c7b15024e1d4975a0a2570e8ad81eefa39db4945a716ec157371a5d0fca927",
+      "target_sha256": "72705159f36d02b546554168e8a02cb3e26dcfac80d9cc18832c3594dbe0e211",
+      "review": "Full source/target comparison; conditions, chromatic syllables and source theoretical framing retained."
+    },
+    {
+      "file": "alteredSubdominants.md",
+      "source_sha256": "ae8097a414f57536718193a34f27efe03855d267f272be39598f74c7d7cf5a27",
+      "target_sha256": "b3d4a9f3e78de1b454babfdb281c88f2eabc3bd14dd46d7e270e753eb346a3d1",
+      "review": "Full source/target comparison; conditions, chromatic syllables and source theoretical framing retained."
+    }
+  ],
+  "spelled_chromatic_examples_in_C": {
+    "N_C_minor": [
+      "Db",
+      "F",
+      "Ab"
+    ],
+    "It_C": [
+      "Ab",
+      "C",
+      "F#"
+    ],
+    "Fr_C": [
+      "Ab",
+      "C",
+      "D",
+      "F#"
+    ],
+    "Ger_C": [
+      "Ab",
+      "C",
+      "Eb",
+      "F#"
+    ],
+    "Sw_C": [
+      "Ab",
+      "C",
+      "D#",
+      "F#"
+    ]
+  },
+  "augmented_sixth_semitones": 10,
+  "german_swiss_enharmonic_pc_equal_but_spelling_distinct": true,
+  "limitations": [
+    "No complete Jekyll build",
+    "Audio playback not tested",
+    "Historical and stylistic claims translated from source, not independently researched"
+  ]
+}

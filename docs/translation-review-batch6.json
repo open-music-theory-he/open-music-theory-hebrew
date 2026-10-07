@@ -1,0 +1,68 @@
+{
+  "batch": 6,
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "chapters": [
+    {
+      "file": "harmonicSyntax2.md",
+      "source_sha256": "8f928b036aecfc2a7ae97cb9d1535f80ef4e6ab4e77408216ecfd608138adc11",
+      "target_sha256": "a2382bfe2b7091cf69c6715d748c7ed5c1ff3127610da910584f45223321041a",
+      "source_iframes": 11,
+      "target_iframes": 11,
+      "review": "Full prose and musical-rule comparison in source framework, same-model AI."
+    },
+    {
+      "file": "cadenceTypes.md",
+      "source_sha256": "0ffaa77b1d0dd586423262aab5f8816155a83e5dcb01eb6585316f093ce7984f",
+      "target_sha256": "a69c4b4bb997bf0ffe8b31cf04096a69429b664c3af009813c291bf10f65df9a",
+      "source_iframes": 0,
+      "target_iframes": 0,
+      "review": "Full prose and musical-rule comparison in source framework, same-model AI."
+    }
+  ],
+  "cadence_figure_checks": {
+    "suspension_4_3": "8/5/4–8/5/3",
+    "cadential_6_4": "8/6/4–8/5/3",
+    "cadential_6_4_to_seventh": "8/6/4–7/5/3",
+    "double_cadence": "5/3–6/4–5/4–5/3"
+  },
+  "minor_lament_example": {
+    "bass": [
+      "C",
+      "Bb",
+      "Ab",
+      "G"
+    ],
+    "chords": [
+      [
+        "C",
+        "Eb",
+        "G"
+      ],
+      [
+        "Bb",
+        "D",
+        "G"
+      ],
+      [
+        "Ab",
+        "C",
+        "F"
+      ],
+      [
+        "G",
+        "B",
+        "D"
+      ]
+    ],
+    "roman": [
+      "i",
+      "v6",
+      "iv6",
+      "V"
+    ]
+  },
+  "limitations": [
+    "Embedded examples not played or transcribed",
+    "No full Jekyll build or site visual QA"
+  ]
+}

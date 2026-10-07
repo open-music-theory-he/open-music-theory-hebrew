@@ -1,0 +1,64 @@
+{
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "batch": 4,
+  "chapters": [
+    {
+      "file": "melodicKeyboardStyle.md",
+      "source_sha256": "9507256cb9c0bde23f40889440a29decb90004557849ddef78ae474f061b7bd0",
+      "target_sha256": "4ba5cbf6d2530d7b5bb46f9f214377c8bf17a8514be8b53564c88c0c7d2bf69f",
+      "musical_table_rows_equal": true,
+      "musical_rows_checked": 0,
+      "review": "All source prose, conditions and exceptions compared with Hebrew; same-model AI review, not human proofreading."
+    },
+    {
+      "file": "KBVLschemata.md",
+      "source_sha256": "1246d00d346e37eb14328ee9c44c72bc10fd94b26ead15f24b640929867c7f12",
+      "target_sha256": "733e49ea587b9b7a1bd1a8a3cff36c39fb2dc90e1c2375df51bcb31cf6f06e06",
+      "musical_table_rows_equal": true,
+      "musical_rows_checked": 0,
+      "review": "All source prose, conditions and exceptions compared with Hebrew; same-model AI review, not human proofreading."
+    },
+    {
+      "file": "schemataOpensAndCloses.md",
+      "source_sha256": "c636ec19caae177173b7e6c459eb0b4414974c586aa607f1a9b31cf61b45d6a1",
+      "target_sha256": "b93f784b020adb18d7d1e061a63f531a28a08323b19c92f46b606f2048efd0b0",
+      "musical_table_rows_equal": true,
+      "musical_rows_checked": 0,
+      "review": "All source prose, conditions and exceptions compared with Hebrew; same-model AI review, not human proofreading."
+    },
+    {
+      "file": "schemataContinuationPatterns.md",
+      "source_sha256": "14938201111e3a74cc4229322296816b8a5efc12c8234ed2bcc2aaffde54827b",
+      "target_sha256": "7b462249d4e2a7f94d52e38b743812804baed1a5103a2489d3075032e2e04c3b",
+      "musical_table_rows_equal": true,
+      "musical_rows_checked": 0,
+      "review": "All source prose, conditions and exceptions compared with Hebrew; same-model AI review, not human proofreading."
+    },
+    {
+      "file": "schemataSummary.md",
+      "source_sha256": "5d44a1572595f52e6bdb71a9da000a730ad8b988de40650c9232d830fbab4357",
+      "target_sha256": "0ad43f3f48d575e7611050bb626f66c969a4afec0734680818e9e8e8696c4455",
+      "musical_table_rows_equal": true,
+      "musical_rows_checked": 102,
+      "review": "All source prose, conditions and exceptions compared with Hebrew; same-model AI review, not human proofreading."
+    },
+    {
+      "file": "schemata-improv.md",
+      "source_sha256": "c3bf9e34d9391701b3d78e024b3abd28200d5ac5ed48100bfb9dfe31eb2f293f",
+      "target_sha256": "d7ba6ab6d1bdb32cf6d874ee66e77bcd1e5645cb7266359e415625031b065260",
+      "musical_table_rows_equal": true,
+      "musical_rows_checked": 0,
+      "review": "All source prose, conditions and exceptions compared with Hebrew; same-model AI review, not human proofreading."
+    }
+  ],
+  "arithmetic_checks": {
+    "C_major_to_G_major_Prinner_first_stage": "C is home tonic and fourth degree of G major",
+    "G_major_to_D_major_Prinner_first_stage": "G is home tonic and fourth degree of D major",
+    "deceptive_minor_leading_tone": "B to Ab is an augmented second; B to C fulfills leading-tone resolution"
+  },
+  "limitations": [
+    "No media playback test",
+    "No complete Jekyll build",
+    "Figures visually inspected for text correspondence; not exhaustive proof of all voice-leading possibilities"
+  ]
+}
