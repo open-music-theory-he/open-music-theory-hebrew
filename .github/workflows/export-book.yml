@@ -1,0 +1,70 @@
+name: Export book PDF and companion archive
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - '**.md'
+      - 'Graphics/**'
+      - 'media/**'
+      - 'scripts/export_book.py'
+      - 'scripts/requirements-export.txt'
+      - 'scripts/export-file-names.json'
+      - '.github/workflows/export-book.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: book-export-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  export:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements-export.txt
+      - name: Install print libraries and fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 fonts-noto-core fonts-dejavu-core
+          python -m pip install -r scripts/requirements-export.txt
+      - name: Export and validate all static material
+        run: python scripts/export_book.py
+      - name: Publish PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: open-music-theory-static-pdf
+          path: dist/export/open-music-theory-static.pdf
+          if-no-files-found: error
+          retention-days: 30
+          compression-level: 0
+      - name: Publish companion ZIP and coverage report
+        uses: actions/upload-artifact@v4
+        with:
+          name: open-music-theory-companion
+          path: |
+            dist/export/open-music-theory-companion.zip
+            dist/export/export-manifest.json
+          if-no-files-found: error
+          retention-days: 30
+          compression-level: 0
+      - name: Run summary
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          m = json.loads(Path('dist/export/export-manifest.json').read_text())
+          print(f"PDF: {m['final_pdf_pages']} pages; {m['markdown_documents']} Markdown documents; {m['images']} images; {len(m['pdf_annexes'])} original PDF annexes.")
+          print(f"Companion: {len(m['files'])} original files, SHA-256 manifest, and external media links.")
+          print(f"Legacy local links requiring review: {len(m['missing_local_links'])}. See manifest. Remote resources are not fetched.")
+          PY
