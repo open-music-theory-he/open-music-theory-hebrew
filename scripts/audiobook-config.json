@@ -1,0 +1,10 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Charon",
+  "style": "Clear, warm educational audiobook narration, measured pace, natural pauses.",
+  "chunk_characters": 1200,
+  "request_interval_seconds": 45,
+  "request_timeout_seconds": 180,
+  "max_requests_per_run": 100,
+  "max_run_seconds": 2400
+}
