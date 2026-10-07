@@ -1,0 +1,7 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Charon",
+  "style": "Clear, warm educational audiobook narration, measured pace, natural pauses.",
+  "chunk_characters": 1200,
+  "builder_version": 1
+}
