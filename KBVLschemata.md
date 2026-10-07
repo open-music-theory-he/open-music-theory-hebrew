@@ -1,88 +1,88 @@
 ---
 layout: post
-title: Keyboard-style voice-leading schemata
+title: "סכמות להולכת קולות בסגנון כלי מקלדת"
+language: he
+translation_status: language-reviewed
+translation_batch: 4
 ---
 
-Following are a number of *schemata* for keyboard-style voice-leading. Some of these are patterns that are common enough to warrant special attention (and memorization). Others require non-default voice-leading or doublings. In any case, these are worth memorizing to assist both in composition/arranging and in recognition of standard patterns. (Some will also come in handy for chorale-style voice-leading.)
+להלן כמה *סכמות* (schemata) להולכת קולות בסגנון כלי מקלדת. חלקן תבניות נפוצות המצדיקות תשומת לב מיוחדת ושינון. אחרות דורשות הולכת קולות או הכפלות החורגות מברירת המחדל. בכל מקרה, כדאי לזכור אותן כדי להיעזר בהן בהלחנה ובעיבוד, וכן בזיהוי תבניות מקובלות. חלקן יועילו גם בהולכת קולות בסגנון כוראל.
 
+## חילוף קולות
 
-## Voice exchange ##
+*חילוף קולות* (voice exchange) מתרחש כאשר קווי המלודיה והבס מחליפים ביניהם גבהי צליל במהלך הארכה קונטרפונקטית פשוטה. למשל, במהלך **T1 D2 T3** הבס מתחיל בדו (*do*) ומסתיים במי (*mi*). בחילוף קולות המלודיה נעה בכיוון ההפוך: מתחילה במי ומסתיימת בדו. בתבנית נפוצה זו אפשר להשתמש באקורד **V<sup>6/4</sup>**, **V<sup>4/3</sup>** או **VII<sup>6/3</sup>** עבור **D2**:
 
-A *voice exchange* occurs when the melody and bass lines exchange pitches over the course of a simple contrapuntal prolongation. For example, in the progression **T1 D2 T3**, the bass begins on *do* and ends on *mi*. In a voice exchange, the melody would reverse this, starting on *mi* and ending on *do*. This common pattern can use a **V<sup>6/4</sup>**, **V<sup>4/3</sup>**, or a **VII<sup>6/3</sup>** chord for **D2**:
+![חילוף קולות באמצעות אקורד מעבר בהיפוך שני][VE64]
 
-![][VE64]
+![חילוף קולות באמצעות אקורד מעבר 6/3][VE63]
 
-![][VE63]
+השימוש בתבנית חילוף קולות זו מבטיח הולכת קולות חלקה לאורך ההארכה.
 
-Using this voice exchange pattern will ensure smooth voice-leading throughout the prolongation.
+שימו לב שפה (*fa*) באקורד המעבר **D2** בדוגמה השנייה — דיסוננס פונקציונלי — *אינו* נפתר מטה למי (*mi*). הדבר מותר משום שמי נדרש בקו הבס אך אסור להכפילו, ומשום שהקונטרפונקט החלק בין הקולות החיצוניים ותנועת הקולות הפנימיים בצעדים מפצים על החספוס שעשוי להישמע עקב הדיסוננס שלא נפתר.
 
-Note that the *fa* in the **D2** passing chord (a functional dissonance) of the second example does *not* resolve down to *mi*. This is permissible because *mi* is required of the bass line but cannot be doubled, and because the smooth outer-voice counterpoint and stepwise inner-voice motion counteract any harshness perceived by the unresolved dissonance.
+אפשר להשתמש בחילוף הקולות גם עם אקורד תחליף **D4**. שימו לב שהקולות העליונים זהים בדיוק לאלה שבשימוש ב־**V<sup>6/4</sup>** עבור **D2**.
 
-The voice exchange can also be used with a **D4** substitution chord. Note that the upper voices will be exactly the same as using a **V<sup>6/4</sup>** for **D2**.
+![חילוף קולות באמצעות אקורד תחליף D4][D4i]
 
-![][D4i] 
+אפשר להשתמש בתבניות אלה במז׳ור ובמינור ולטרנספז אותן לכל טונליות. אפשר גם להפוך את כיוונם של חילופי הקולות עם **D2**: **T3 D2 T1**. אפשר להשתמש בהם גם להארכת S ו־D, למשל **S4 T5 S6** או **D5 S6 D7**.
 
-These patterns can be used in major or minor, transposed to any key, and the **D2** voice exchanges can be used in reverse, as well—**T3 D2 T1**. They can also be used to prolong S and D: **S4 T5 S6** or **D5 S6 D7**, for example.
+## דצימות מקבילות
 
+למהלך *Do–re–mi* בבס מתלווה לעיתים קרובות גם *mi–fa–sol* במלודיה, היוצר *דצימות מקבילות* (parallel tenths).
 
-## Parallel tenths ##
+![דצימות מקבילות בין הבס למלודיה][ParallelTenths]
 
-*Do–re–mi* in the bass is also frequently accompanied by *mi–fa–sol* in the melody, making *parallel tenths*.
+גם כאן, כמו פה (*fa*) בחילוף הקולות עם **D2**, פה במלודיה הוא דיסוננס פונקציונלי שאינו נפתר. שוב, הולכת הקולות חלקה כל כך שהיא גוברת על הצורך בפתרון הדיסוננס הפונקציונלי.
 
-![][ParallelTenths]
+גם בתבנית זו אפשר להשתמש במז׳ור או במינור, בכל טונליות ובכיוון ההפוך. כמעט תמיד משתמשים בה באקורד **V<sup>4/3</sup>** עבור **D2**.
 
-Note here that, like the *fa* in the **D2** voice exchange, the *fa* in the melody is an unresolved functional dissonance. In this case, the voice leading once again is so smooth that it overrides the need for the functional dissonance to resolve.
+## מהלך השמפניה
 
-This pattern can also be used in major or minor, transposed to any key, and in reverse. It almost always uses a **V<sup>4/3</sup>** for **D2**.
+אף ש־**T(1 D2p 3)** הוא ליווי תקין בהחלט ל־*mi–fa–sol* במלודיה, דרך מעניינת יותר — וגם מורכבת יותר — להרמן מלודיה זו היא **T1 S6 T3**, שאותו כינה התאורטיקן Gene Biringer *מהלך השמפניה* (champagne progression). לדבריו, זהו ״המהלך שבו משתמשים כשרוצים להרשים בדייט״.
 
-## Champagne progression ##
+מהלך השמפניה נאה מאוד, אך יש לטפל בו בזהירות. השתמשו בו *רק* עם *mi–fa–sol* או *me–fa–sol* במלודיה, ו*תמיד* בהולכת הקולות שלהלן. שימו לב להכפלה החריגה של צליל הבס — *la*/*le* — באקורד **S6**.
 
-While **T(1 D2p 3)** is a perfectly acceptable way to accompany *mi–fa–sol* in the melody, a more interesting (and also more involved) way to harmonize that melody is what theorist Gene Biringer called the *champagne progression*: **T1 S6 T3**. (He called it this because it is "the progression you use when you want to impress a date.")
+![מהלך השמפניה והכפלת הבס באקורד S6][Champagne]
 
-The champagne progression is very nice, but must be treated carefully. *Only* use it with *mi–fa–sol* (or *me–fa–sol*) in the melody, and *always* use the following voice-leading (note the non-standard doubling of the bass—*la*/*le*—in the **S6** chord).
+במהלך השמפניה הרגיל שלעיל משתמשים באקורד **I<sup>6</sup>** עבור **T3**. להלן גרסה המשתמשת ב־**III** עבור **T3**. Biringer כינה אותה ״שמפניה ורודה״ (pink champagne), משום שהיא נאה במיוחד. יש להשתמש בה גם *לעיתים רחוקות במיוחד*, אחרת היא מאבדת את עוצמת השפעתה.
 
-![][Champagne]
+![גרסת השמפניה הוורודה עם III][PinkChampagne]
 
-The standard champagne progression (above) uses a **I<sup>6</sup>** chord for **T3**. Following is a variant using **III** for **T3**, which Biringer dubbed "pink champagne," because it is especially nice. It should also be especially *rare*, or it loses its punch. 
+יש להשתמש במהלך השמפניה רק להארכת תפקיד הטוניקה.
 
-![][PinkChampagne]
+## פתרון מדומה
 
-The champagne progression should only be used to prolong tonic function.
+*פתרון מדומה* (deceptive resolution) מתרחש כאשר אקורד **D5** — **V** או **V<sup>7</sup>** — אינו מתקדם כצפוי אל **I** ליצירת קדנצה אותנטית, אלא אל **VI**. בפתרון המדומה חשוב ש־*ti* ייפתר אל *do*, כמו בקדנצה אותנטית, ולא אל *la*/*le*. כך הוא ממלא את תפקידו כצליל נטייה, מסייע להצלחת ההטעיה ומונע במינור את הסקונדה המוגדלת הדיסוננטית *ti*–*le*. התוצאה היא הכפלה חריגה ב־VI: הכפלת *do* במקום צליל הבס.
 
-## Deceptive resolution ##
+![פתרון מדומה מאקורד V אל VI][deceptive]
 
-A *deceptive resolution* occurs When a **D5** (**V** or **V<sup>7</sup>**) chord does not progress, as expected, to **I**  to form an authentic cadence, but instead progresses to **VI**. In the deceptive resolution, it is important for *ti* to resolve to *do*—as it would in an authentic cadence—not *la*/*le*. This fulfills its role as a tendency tone, helps the "deception" to work, and avoids the dissonant augmented second *ti*–*le* in minor. This results in a non-standard doubling of VI (*do*, rather than the bass).
+![פתרון מדומה מאקורד V7 אל VI][deceptive7]
 
-![][deceptive]
+## השמטת הקווינטה
 
-![][deceptive7]
+כאשר *ti*–*do* מופיע במלודיה של קדנצה אותנטית הכוללת **V<sup>7</sup>**, אי אפשר לכלול את כל צלילי שני האקורדים *וגם* לפתור את הדיסוננס הפונקציונלי.
 
-## Leaving out the fifth ##
+![הקושי בפתרון מלא כאשר שני האקורדים שלמים][D5problem]
 
-When *ti*–*do* appears in the melody of an authentic cadence involving **V<sup>7</sup>**, it is impossible to fully voice both chords *and* resolve the functional dissonance.
+חובה לפתור דיסוננס פונקציונלי זה, משום שהפתרון תורם במידה חשובה לתנועה המכוונת אל יעד ולשחרור המתח ההרמוני בהגעה הקדנציאלית. לשם כך אפשר להשמיט את קווינטת אקורד **I** ולשלש את צליל הבס:
 
-![][D5problem]
+![השמטת קווינטת I ושילוש הבס][T1dropFifth]
 
-It is imperative to resolve this functional dissonance, as that resolution is an important contributor to the goal-oriented motion and the releasing of harmonic tension into the cadential arrival. In order to do so, either leave out the fifth of the **I** chord (and triple the bass):
+או להשמיט את קווינטת אקורד **V<sup>7</sup>** ולהכפיל את צליל הבס:
 
-![][T1dropFifth]
+![השמטת קווינטת V7 והכפלת הבס][D5dropFifth]
 
-or leave out the fifth of the **V<sup>7</sup>** chord, and double the bass:
+**V<sup>7</sup>** בלתי שלם עדיף על **I** בלתי שלם, אך בדרך כלל הולכת הקולות אל **V<sup>7</sup>** תקבע באיזו אפשרות לבחור.
 
-![][D5dropFifth]
+## השמטת הטרצה
 
-The incomplete **V<sup>7</sup>** is preferable to the incomplete **I**, but voice-leading into the **V<sup>7</sup>** will usually dictate which option you choose.
+כאשר **S4** מתקדם אל **D5**, ושניהם *אקורדי ספטימה*, ייתכן שלא יהיה אפשר להכין ולפתור את הדיסוננסים הפונקציונליים של שני האקורדים ובו בזמן לכלול את כל צליליהם.
 
-## Leaving out the third ##
+![הקושי בהכנה ובפתרון של שני אקורדי ספטימה שלמים][S4problem]
 
-When an **S4** progresses into a **D5**, and both are *seventh chords*, it can be impossible to prepare and resolve the functional dissonances of both chords while fully voicing them.
+במקום זאת, השמיטו *la*/*le* מאקורד **S4** והכפילו את צליל הבס. כך יישמר פה (*fa*), שהוא גם צליל הבס וגם הצליל המפעיל את התפקיד ההרמוני (trigger), וכן שני הגבהים היוצרים את הדיסוננס — *do* ו־*re*, או *mi*/*me* ו־*fa*. הדבר יאפשר פה נוסף בקול עליון, שיוכל להכין את ספטימת אקורד **D5**.
 
-![][S4problem]
-
-Instead, leave *la*/*le* out of the **S4** chord and double the bass. This will retain the trigger and bass note *fa*, as well as the two pitches making the dissonance (*do* and *re* or *mi*/*me* and *fa*), and will allow a second *fa* in an upper voice that can prepare the seventh of the **D5** chord.
-
-![][S4dropThird]
-
+![השמטת טרצת S4 להכנת ספטימת D5][S4dropThird]
 
 [deceptive]: {{ site.url }}/Graphics/harmony/deceptive.png
 [deceptive7]: {{ site.url }}/Graphics/harmony/deceptive7.png

@@ -1,58 +1,58 @@
 ---
 layout: post
-title: Classical cadence types
+title: "סוגי קדנצות קלאסיות"
+language: he
+translation_status: language-reviewed
+translation_batch: 6
 ---
 
-A *cadence* is a point of arrival that punctuates the end of a musical unit, such as a phrase, theme, large formal section, or movement. A cadence is at once a harmonic, melodic, rhythmic, and formal event, but cadences tend to be grouped according to different ways in which harmony and melody articulate that point of arrival.
+*קדנצה* (cadence) היא נקודת הגעה המסמנת את סופה של יחידה מוזיקלית, כגון פראזה, נושא, חלק צורני גדול או פרק. קדנצה היא בו בזמן אירוע הרמוני, מלודי, מקצבי וצורני, אך נהוג לסווג קדנצות לפי הדרכים השונות שבהן ההרמוניה והמלודיה מבטאות את נקודת ההגעה.
 
-## Authentic and half cadences
+## קדנצות אותנטיות וחצי קדנצות
 
-These unit-ending points of arrival are first grouped into *authentic cadences* and *half cadences*. An authentic cadence occurs when a formal unit ends with the progression **D5–T1** (**V<sup>(7)</sup>–I**, *sol* to *do* in the bass voice). If the melody accompanying this harmonic progression arrives on *do*, it is called a *perfect authentic cadence*; it the melody ends on *mi* or *me* (or more rarely *sol*), it is called an *imperfect authentic cadence*.
+תחילה מחלקים את נקודות ההגעה המסיימות יחידות ל*קדנצות אותנטיות* ול*חצי קדנצות*. קדנצה אותנטית מתרחשת כאשר יחידה צורנית מסתיימת במהלך **D5–T1** — **V<sup>(7)</sup>–I**, כלומר *sol* אל *do* בקול הבס. אם המלודיה המלווה את המהלך מגיעה ל־*do*, זו *קדנצה אותנטית מושלמת* (perfect authentic cadence). אם המלודיה מסתיימת ב־*mi* או ב־*me*, או לעיתים רחוקות יותר ב־*sol*, זו *קדנצה אותנטית בלתי מושלמת* (imperfect authentic cadence).
 
-Phrases that end on **V** without progressing to **I** are called *half cadences*. These cadences typically contain *re* in the melody, though *ti* and *sol* are also possible points of melodic arrival. The **V** is almost invariably a triad, rather than a seventh chord, and it is always in root position (**D5**).
+סיומי פראזות על **V**, ללא המשך אל **I**, נקראים *חצי קדנצות* (half cadences). בדרך כלל מופיע בהם *re* במלודיה, אך אפשר להגיע מלודית גם ל־*ti* או ל־*sol*. אקורד **V** הוא כמעט תמיד אקורד משולש ולא אקורד ספטימה, והוא תמיד במצב יסודי, **D5**.
 
-Differentiating between *perfect authentic cadences* (PAC), *imperfect authentic cadences* (IAC), and *half cadences* (HC) by ear and with a score is essential both to formal analysis and model composition.
+הבחנה בשמיעה ובעזרת תווים בין קדנצה אותנטית מושלמת (PAC), קדנצה אותנטית בלתי מושלמת (IAC) וחצי קדנצה (HC) חיונית לניתוח צורני ולחיבור מודלים.
 
+## קדנצות פשוטות, מורכבות וכפולות
 
-## Simple, compound, and double cadences
+מחברי חיבורים איטלקיים על כלי מקלדת, כגון [Furno][Furno] ו־[Fenaroli][Fenaroli], וגם תאורטיקנים היסטוריים אמריקאים מאוחרים יותר כגון [Robert O. Gjerdingen][Gjerdingen], מבחינים בין קדנצות לפי הולכת הקולות שמעל הרמוניית הדומיננטה. הבחנות אלה אינן מחליפות את PAC/IAC/HC, אלא מוסיפות רמת פירוט המועילה במיוחד בחיבור מודלים. הן מספקות עוד שלוש קטגוריות: *קדנצה פשוטה* (simple cadence), *קדנצה מורכבת* (compound cadence) ו*קדנצה כפולה* (double cadence).
 
-Writers of Italian keyboard treatises like [Furno][Furno] and [Fenaroli][Fenaroli] (and, more recently, American historical theorists like [Robert O. Gjerdingen][Gjerdingen]) differentiate cadences according to the voice-leading found over the dominant harmony. These distinctions do not replace the above PAC/IAC/HC distinctions; rather they add another level of detail that is particularly helpful in model composition. These voice-leading distinctions provide three more cadence categories to complement PAC, IAC, and HC: the *simple cadence*, the *compound cadence*, and the *double cadence*.
+*קדנצה פשוטה* מתרחשת כאשר תפקיד הדומיננטה מתבטא באקורד יחיד — משולש או אקורד ספטימה. היא יכולה להשתלב במבנה PAC, IAC או HC, אך הגרסה עם אקורד הספטימה מופיעה בדרך כלל רק בקדנצות אותנטיות.
 
-A *simple cadence* occurs when the dominant harmonic function is articulated by a single chord—either a triad or a seventh chord. The simple cadence can be used in a PAC, IAC, or HC construction, though the seventh-chord version is typically only found in authentic cadences.
+*קדנצה מורכבת* מתרחשת כאשר צליל הבס *sol* של הדומיננטה הקדנציאלית חוזר, ולעיתים קרובות ה־*sol* השני נמוך באוקטבה מהראשון. לקדנצה המורכבת שלוש צורות מסוימות.
 
-A *compound cadence* occurs when the bass note *sol* of the cadential dominant is repeated, often with the second *sol* an octave lower than the first. The compound cadence comes in three specific forms.
+בסוג הראשון יש השהיית 4–3 — *do* אל *ti* — מעל *sol* בבס הדומיננטה. במרקם ארבעה קולות, שני הקולות האחרים מחזיקים קווינטה ואוקטבה מעל הבס. סימון הבס הממוספר המקוצר הוא בדרך כלל 4–3, המייצג בארבעה קולות 8/5/4–8/5/3. השהיית 4–3 יכולה להופיע מעל הדומיננטה הקדנציאלית של PAC, IAC או HC.
 
-The first type of compound cadence involves a 4–3 suspension—*do* to *ti*—over the *sol* bass of the dominant harmony. In a four-voice texture, the other two voices sustain a fifth above the bass and an octave above the bass. The *thoroughbass* figure is typically the abbreviated 4–3, which stands for 8/5/4–8/5/3 in four voices. The 4–3 suspension can occur over the cadential dominant of a PAC, IAC, or HC.
+![קדנצה מורכבת עם השהיית 4–3][Compound4-3]
 
-![4–3 compound cadence.][Compound4-3]
+![קדנצה מורכבת 4–3 עם ספרות מלאות][Compound4-3-full]
 
-![4–3 compound cadence with full thoroughbass figures.][Compound4-3-full]
+הסוג השני מוסיף להשׁהיית 4–3 שלעיל קול הנע מ־*mi/me* אל *re*, כלומר 6–5. במרקם ארבעה קולות הבס מוכפל. הסימון המקובל הוא 6/4–5/3, ומכאן השם הנפוץ *אקורד שש־ארבע קדנציאלי* (cadential six-four). הסימון המלא הוא 8/6/4–8/5/3. שש־ארבע קדנציאלי יכול להופיע מעל הדומיננטה הקדנציאלית של PAC, IAC או HC.
 
-The second type of compound cadence adds a *mi/me* to *re* voice (6–5) to the above 4–3 suspension. In a four-voice texture, the bass is doubled. The typical thoroughbass figure is 6/4–5/3, leading to the common name for this progression, the *cadential six-four*. The complete figure is 8/6/4–8/5/3.  The cadential six-four can occur over the cadential dominant of a PAC, IAC, or HC.
+![אקורד שש־ארבע קדנציאלי][Cadential64]
 
-![Cadential six-four.][Cadential64]
+![שש־ארבע קדנציאלי עם ספרות מלאות][Cadential64-full]
 
-![Cadential six-four with full thoroughbass figures.][Cadential64-full]
+הסוג האחרון הוא מקרה מיוחד של שש־ארבע קדנציאלי: הקול הרביעי מציג ספטימה מעל אקורד הדומיננטה השני, במקום רק להכפיל את הבס בשני האקורדים. סוג זה מחייב ארבעה קולות וסימון מלא 8/6/4–7/5/3. הוא מופיע לעיתים רחוקות מעל הדומיננטה של חצי קדנצה, ומיועד בעיקר לקדנצות אותנטיות.
 
-The last type of compound cadence is a special case of the cadential six-four, where the fourth voice introduces a seventh over the second dominant chord, rather than simply doubling the bass for both chords. This compound cadence type requires four voices and complete thoroughbass figures of 8/6/4–7/5/3. This figure rarely occurs over the dominant of a half cadence and is instead reserved primarily for authentic cadences.
+![שש־ארבע קדנציאלי הממשיך לאקורד ספטימה][Cadential64-seventh]
 
-![Cadential six-four with seventh.][Cadential64-seventh]
+*קדנצה כפולה* היא תבנית בת ארבעה שלבים מעל הדומיננטה הקדנציאלית, המשמשת כמעט רק בקדנצות אותנטיות מושלמות. אף שכבר יצאה מן השימוש הנפוץ בתקופת מוצרט והיידן, היא הייתה רכיב מרכזי אצל מלחינים מוקדמים יותר בסגנון הגלנט ובחיבורים קלאסיים על הלחנה וליווי. התבנית מעל הדומיננטה היא 5/3–6/4–5/4–5/3. בארבעה קולות הבס מוכפל גם הוא, או שאפשר להוסיף ספטימה לכל *אקורד קווינטה*, כלומר לכל אקורד שאינו 6/4.
 
-A *double cadence* is a four-stage pattern over the cadential dominant used almost exclusively in perfect authentic cadences. Though it had expired from common use by the time of Mozart and Haydn, it was a staple for earlier *galant* composers and *Classical* treatises on composition and accompaniment. The four-stage pattern over the dominant is 5/3–6/4–5/4–5/3. In four voices, the bass is also doubled, or a seventh can be applied to any *chord of the fifth* (i.e., not the 6/4).
+![קדנצה כפולה בת ארבעה שלבים][Double]
 
-![Double cadence.][Double]
+## הולכת קולות בסגנון קפדני לכלי מקלדת
 
-## Voice-leading in strict keyboard style
+בסגנון מלודי קפדני לכלי מקלדת יש לסיים תמיד פראזה אידאלית בקדנצה אותנטית מושלמת (PAC). ככל האפשר הגיעו אל ה־*do* האחרון במלודיה בצעד, מ־*re* או מ־*ti*, ועדיף מ־*re*. בקדנצות מורכבות או כפולות השתמשו בסידור הקולות העליונים שבדוגמאות לעיל, כמובן בטרנספוזיציה לטונליות המתאימה.
 
-In strict melodic keyboard style, always end an idealized phrase with a perfect authentic cadence (PAC). Approach the melody's final *do* by step whenever possible, from *re* or *ti*, preferably from *re*. When using compound or double cadences, use the orientation of upper voices shown in the above figures (transposed to the appropriate key, of course).
+בסגנון *בס רציף* (basso continuo), הקול העליון יכול להסתיים בכל צליל של אקורד הטוניקה המשולש. ככל האפשר השתמשו בקולות שבדוגמאות לעיל, אך שנו את סדרם: למשל, העלו את קו הטנור לראש המרקם, כך שהמלודיה והאלט יהפכו לאלט ולטנור. הקפידו רק שאם *ti* מופיע בקול העליון לפני אקורד הטוניקה האחרון, הוא יפתור את נטייתו כלפי מעלה אל *do*.
 
-In *basso continuo* style, the top voice can end with any member of the tonic triad. As much as possible, use the voices provided in the figures above, but invert them (move the tenor line to the top, making the melody and alto the alto and tenor, for example). Simply make sure that if *ti* occurs in the top voice before the final tonic chord, it resolves its tendency up to *do*.
+בשני המקרים הקדישו תשומת לב מיוחדת לגרסת שש־ארבע הקדנציאלי. אף שצליליו יוצרים אקורד משולש קונסוננטי עם הבס, גם הסקסטה וגם הקוורטה באקורד הראשון פועלות כהשהיות, ולכן *חייבות להיפתר מטה בצעד* ולהיות מוכנות באופן חלק, באמצעות צלילים משותפים או צעדים. הדבר נכון בלי קשר לשאלה איזה קול נמצא במלודיה, באלט או בטנור.
 
-In either case, pay special attention to the cadential six-four version of the compound cadence. Despite forming a consonant triad with the bass, both the sixth and the fourth of the first chord act like suspensions, and therefore *must resolve down by step* and be prepared smoothly (by common tones or steps). This is true no matter which part is in the melody, alto, or tenor.
-
-
-
-
+> **הערת המהדורה העברית:** הסיווג וההנחיות כאן הם של הספר ושל התרגול הקפדני המתואר בו. שינוי סדר הקולות בפסקת הבס הרציף אינו שינוי היפוך האקורד; ״מורכבת״ מתארת קדנצה, ולא מרווח מורכב או משקל מורכב.
 
 [Furno]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Furno/regoleP5.htm
 [Fenaroli]: http://faculty-web.at.northwestern.edu/music/gjerdingen/partimenti/collections/Fenaroli/Regole/regoleP3.htm

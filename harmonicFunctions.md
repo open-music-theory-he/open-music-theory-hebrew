@@ -1,89 +1,93 @@
 ---
 layout: post
-title: Harmonic functions
+title: "תפקידים הרמוניים"
+language: he
+translation_status: language-reviewed
+translation_batch: 5
 ---
 
-If a musical function describes the role that a particular musical element plays in the creation of a larger musical unit, then *a harmonic function describes the role that a particular chord plays in the creating of a larger harmonic progression*. Each chord tends to occur in some musical situations more than others, to progress to some chords more than others. These tendencies work together to create meaningful harmonic progressions, which can in turn form the harmonic foundation for musical *phrases*, *themes*, and larger formal units.
+אם תפקיד מוזיקלי מתאר את מקומו של רכיב מוזיקלי מסוים ביצירת יחידה מוזיקלית גדולה יותר, הרי ש*תפקיד הרמוני* (harmonic function) מתאר את מקומו של אקורד מסוים ביצירת מהלך הרמוני גדול יותר. כל אקורד נוטה להופיע במצבים מוזיקליים מסוימים יותר מאשר באחרים, ולהתקדם אל אקורדים מסוימים יותר מאשר אל אחרים. הנטיות האלה פועלות יחד ליצירת מהלכים הרמוניים בעלי משמעות, שיכולים לשמש בסיס הרמוני ל*פראזות*, ל*נושאים* וליחידות צורניות גדולות יותר.
 
-Generally speaking, the function of a chord concerns the notes that belong to it (its *internal characteristics*), the chords that tend to precede and follow it, and where it tends to be employed in the course of a musical phrase.
+באופן כללי, תפקידו של אקורד קשור לצלילים המרכיבים אותו — *מאפייניו הפנימיים* — לאקורדים הנוטים להופיע לפניו ואחריו, ולמקום שבו הוא נוטה להופיע במהלך פראזה מוזיקלית.
 
-A theory of harmonic functions is based on three fundamental principles:
+תאוריה של תפקידים הרמוניים מבוססת על שלושה עקרונות יסוד:
 
-- Chords are collections of scale degrees.  
-- Each scale degree has its own tendencies.  
-- The collective tendencies of a chord's scale degrees in combination is the chord's function.
+- אקורדים הם אוספים של דרגות סולם.
+- לכל דרגת סולם נטיות משלה.
+- התפקיד של אקורד הוא מכלול הנטיות הנוצר מצירוף דרגות הסולם שבו.
 
-(Note the absence of *root* and *quality* from consideration here.)
+שימו לב ש*שורש האקורד* ו*איכות האקורד* אינם כלולים כאן בשיקולים.
 
-Because [tendency is style-specific](tendency.html), the same chord can have different functions in different musical styles. For instance, the kinds of functions we find in classical music are different from those we find in pop/rock songs from the Billboard charts. And though there are some general harmonic traits that are common to most eighteenth- and nineteenth-century Western composers (what we call the "common practice"), when we look in closer detail, we find some significant differences in the way Bach, Mozart, Brahms, and others compose their harmonic progressions.
+מאחר ש[נטייה תלויה בסגנון](tendency.html), לאותו אקורד יכולים להיות תפקידים שונים בסגנונות שונים. למשל, סוגי התפקידים במוזיקה קלאסית שונים מאלה שבשירי פופ ורוק במצעדי Billboard. ואף שיש מאפיינים הרמוניים כלליים המשותפים לרוב המלחינים המערביים במאות השמונה־עשרה והתשע־עשרה — מה שאנו מכנים הפרקטיקה המקובלת (common practice) — בחינה מפורטת יותר מגלה הבדלים חשובים בדרך שבה באך, מוצרט, ברהמס ואחרים מחברים מהלכים הרמוניים.
 
-Our initial exploration of harmonic functions will engage the general "common practice" that is shared by most eighteenth- and nineteenth-century Western composers. As we explore specific genres, composers, and works within that common practice, we will have opportunity to explore the more nuanced differences between composers, as well as to move beyond common-practice Western art music to include other styles, such as pop/rock.
+העיון הראשון שלנו בתפקידים הרמוניים יתמקד בפרקטיקה המקובלת הכללית המשותפת לרוב המלחינים המערביים במאות אלה. כאשר נבחן סוגות, מלחינים ויצירות מסוימים במסגרתה, נוכל לעסוק בהבדלים הדקים יותר בין מלחינים, וגם להרחיב את העיון מעבר למוזיקה האמנותית המערבית של הפרקטיקה המקובלת, לסגנונות כגון פופ ורוק.
 
-## The three common-practice harmonic functions
+## שלושת התפקידים ההרמוניים בפרקטיקה המקובלת
 
-In common-practice music, harmonies tend to cluster around three high-level categories of harmonic function. These categories are traditionally called *tonic* (**T**), *subdominant* (**S** — also called *predominant*, **P** or **PD**), and *dominant* (**D**). Each of these functions has their own characteristic scale degrees, with their own characteristic tendencies. And each of these functions tend to participate in certain kinds of chord progressions more than others.
+במוזיקה של הפרקטיקה המקובלת, הרמוניות נוטות להתקבץ בשלוש קטגוריות רחבות של תפקיד הרמוני. שמותיהן המסורתיים הם *טוניקה* (**T**), *סובדומיננטה* (**S**, המכונה גם קדם־דומיננטה, predominant, בסימונים **P** או **PD**) ו*דומיננטה* (**D**). לכל תפקיד דרגות סולם אופייניות בעלות נטיות אופייניות, וכל תפקיד נוטה להשתתף בסוגים מסוימים של מהלכי אקורדים יותר מאשר באחרים.
 
-If you are already comfortable with Roman numerals, you can generally think of **I**, **III**, and **VI** as *tonic*, **II** and **IV** as *subdominant*, and **V** and **VII** as *dominant*. (Though, as you will see below, there is more to it than that.) 
+אם אתם כבר מכירים היטב מספרים רומיים, תוכלו לחשוב באופן כללי על **I**, **III** ו־**VI** כטוניקה, על **II** ו־**IV** כסובדומיננטה ועל **V** ו־**VII** כדומיננטה. עם זאת, כפי שתראו בהמשך, התמונה מורכבת יותר.
 
-To visualize these functional categories, think of the usual triads in C major arranged on a circle of thirds. Note that each chord sits between the two triads that share the most tones in common — C major (C, E, G) sits between E minor (E, G, B) and A minor (A, C, E), both of which share two tones in common with C.
+כדי להמחיש את הקטגוריות חשבו על האקורדים המשולשים הרגילים של C מז׳ור המסודרים במעגל טרצות. כל אקורד נמצא בין שני האקורדים המשולשים שעימם הוא חולק את מספר הצלילים המשותפים הגדול ביותר: C מז׳ור — C, E, G — נמצא בין E מינור — E, G, B — ובין A מינור — A, C, E. כל אחד משניהם חולק שני צלילים עם אקורד C.
 
-<a href="Graphics/harmony/circleOfThirds-leadSheet.png"><img src="Graphics/harmony/circleOfThirds-leadSheet.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of C major positioned on the circle of thirds."></a>
+<a href="Graphics/harmony/circleOfThirds-leadSheet.png"><img src="Graphics/harmony/circleOfThirds-leadSheet.png" style="max-width: 400px; border: 1px;" alt="האקורדים הדיאטוניים של C מז׳ור במעגל טרצות"></a>
 
-Convert these chords to Roman numerals (in C major), and we can see the functions. Since the function is determined by the tendencies of the tones that they share, and since on this graph chords are grouped together by notes they have in common, they are also grouped together by function.
+אם נמיר את האקורדים למספרים רומיים ביחס ל־C מז׳ור, נוכל לראות את התפקידים. התפקיד נקבע לפי נטיות הצלילים המשותפים; לכן האקורדים, המקובצים בתרשים לפי צלילים משותפים, מקובצים בו גם לפי תפקיד.
 
-<a href="Graphics/harmony/circleOfThirds-functions.png"><img src="Graphics/harmony/circleOfThirds-functions.png" style="max-width: 400px; border: 1px;" alt="Diatonic chords of any major key represented by Roman numerals positioned on the circle of thirds with harmonic functions labeled."></a>
+<a href="Graphics/harmony/circleOfThirds-functions.png"><img src="Graphics/harmony/circleOfThirds-functions.png" style="max-width: 400px; border: 1px;" alt="אקורדים דיאטוניים במז׳ור במעגל טרצות, עם מספרים רומיים ותפקידים הרמוניים"></a>
 
-*Triads arranged on the circle of thirds, labeled by harmonic functions.*
+*אקורדים משולשים במעגל טרצות, עם תוויות התפקידים ההרמוניים.*
 
-Interestingly, in common-practice music, a chord's function can be determined solely by its internal characteristics (the notes that make up the chord). This is not true of all styles. For example, in pop/rock music a **IV** chord can exhibit very different functional tendencies depending on its context. But in classical music, simply knowing the notes in a chord is enough to determine its general harmonic function and the general tendencies of that chord and its individual notes.
+מעניין שבמוזיקה של הפרקטיקה המקובלת אפשר לקבוע את תפקידו של אקורד על סמך מאפייניו הפנימיים בלבד — הצלילים המרכיבים אותו. הדבר אינו נכון בכל הסגנונות. למשל, בפופ וברוק עשויות להיות לאקורד **IV** נטיות תפקודיות שונות מאוד בהתאם להקשר. אך במוזיקה קלאסית, עצם הידיעה אילו צלילים כלולים באקורד מספיקה כדי לקבוע את תפקידו ההרמוני הכללי ואת הנטיות הכלליות שלו ושל צליליו.
 
-The syntactic properties of these functions will be covered elsewhere. What follows simply explains how to determine the function of a chord in common-practice music with greater specificity.
+המאפיינים התחביריים של תפקידים אלה יידונו במקום אחר. ההסבר שלהלן עוסק רק בקביעה מדויקת יותר של תפקיד האקורד במוזיקה של הפרקטיקה המקובלת.
 
-## Finding the function of a chord ##
+> **הערת המהדורה העברית:** אלה טענות והגדרות במסגרת התאורטית שבחר הספר. הן אינן מוצגות כאן כטענה שכל שיטות הניתוח מסכימות שתפקידו של אקורד אינו תלוי בהקשר. בפרק זה המקור משתמש ב־S גם בשם קדם־דומיננטה; אין בכך איחוד גורף של המונחים בכל ההקשרים.
 
-Each of the three harmonic functions — *tonic* (T), *subdominant* (S), and *dominant* (D) — have characteristic scale degrees. Tonic's characteristic scale degrees are 1, 3, 5, 6, and 7. Subdominant's characteristic scale degrees are 1, 2, 3, 4, and 6. Dominant's characteristic scale degrees are 2, 4, 5, 6, and 7.
+## מציאת תפקידו של אקורד
 
-Ian Quinn (a music theorist at Yale University) further distinguishes these scale degrees, using the categories of functional *triggers*, functional *associates*, and functional *dissonances*. These categories help us understand the functional properties of chords whose scale degrees belong to more than one function, as well as how certain notes behave within a chord. They also help us understand which scale degrees are more or less characteristic of a function ― something that will help determine function when a complete chord is not present.
+לכל אחד משלושת התפקידים — טוניקה (T), סובדומיננטה (S) ודומיננטה (D) — דרגות סולם אופייניות. דרגות הטוניקה הן 1, 3, 5, 6 ו־7; דרגות הסובדומיננטה הן 1, 2, 3, 4 ו־6; ודרגות הדומיננטה הן 2, 4, 5, 6 ו־7.
 
-| function 	| triggers 	| associates 	| dissonances 	|
+Ian Quinn, תאורטיקן מוזיקה מאוניברסיטת Yale, מבחין עוד בין הדרגות בעזרת שלוש קטגוריות: *צלילים מפעילי תפקיד* (functional triggers), *צלילים נלווים לתפקיד* (functional associates) ו*דיסוננסים פונקציונליים* (functional dissonances). אלה מסייעות להבין את המאפיינים התפקודיים של אקורדים שדרגותיהם שייכות ליותר מתפקיד אחד, וכן את התנהגותם של צלילים מסוימים בתוך אקורד. הן מסייעות גם להבין אילו דרגות אופייניות לתפקיד יותר או פחות, וכך לקבוע תפקיד כאשר האקורד אינו שלם.
+
+| תפקיד | צלילים מפעילים | צלילים נלווים | דיסוננסים |
 | :-: | :- | :- | :- |
-| **T**	| 1 and 3	| 5 and 6	| 5 (if 6 is also present) and 7 |
-| **S**	| 4 and 6	| 1 and 2	| 1 (if 2 is also present) and 3 |
-| **D**	| 5 and 7	| 2	| 4 and 6 |
+| **T** | 1 ו־3 | 5 ו־6 | 5, אם גם 6 נוכחת, וכן 7 |
+| **S** | 4 ו־6 | 1 ו־2 | 1, אם גם 2 נוכחת, וכן 3 |
+| **D** | 5 ו־7 | 2 | 4 ו־6 |
 
+בסולפז׳ דו נייד (movable do):
 
-In terms of moveable-*do* solfège:
-
-| function 	| triggers 	| associates 	| dissonances 	|
+| תפקיד | צלילים מפעילים | צלילים נלווים | דיסוננסים |
 | :-: | :- | :- | :- |
-| **T**	| *do* and *mi*/*me*	| *sol* and *la*/*le*	| *sol* (if *la*/*le* is also present) and *ti*/*te*
-| **S**	| *fa* and *la*/*le*	| *do* and *re*	| *do* (if *re* is also present) and *mi*/*me*
-| **D**	| *sol* and *ti*/*te*	| *re*	| *fa* and *la*/*le*
+| **T** | *do* ו־*mi*/*me* | *sol* ו־*la*/*le* | *sol*, אם גם *la*/*le* נוכחת, וכן *ti*/*te* |
+| **S** | *fa* ו־*la*/*le* | *do* ו־*re* | *do*, אם גם *re* נוכחת, וכן *mi*/*me* |
+| **D** | *sol* ו־*ti*/*te* | *re* | *fa* ו־*la*/*le* |
 
-To determine the function of a chord, find the function that includes all the scale degrees of a chord (regardless of chromatic alterations ― that is, treat &#9839;4 the same as regular scale-degree 4). If more than one function contains all the scale degrees, take the function with the most triggers in the chord.
+כדי לקבוע את תפקיד האקורד, מצאו את התפקיד הכולל את כל דרגות הסולם שבאקורד, בלי להתחשב בשינויים כרומטיים: למשל, התייחסו ל־&#9839;4 כמו לדרגה 4 רגילה. אם יותר מתפקיד אחד כולל את כל הדרגות, בחרו בתפקיד שמספר הצלילים המפעילים אותו באקורד הוא הגדול ביותר.
 
-There is one exception to this (for now): a chord with scale degrees 6, 1, and 3 is a special kind of tonic chord, called a *destabilized tonic*. Quinn uses the special functional label is **Tx**, rather than simply **T**, for this chord.
+לעת עתה יש לכך חריג אחד: אקורד הכולל את הדרגות 6, 1 ו־3 הוא סוג מיוחד של אקורד טוניקה, המכונה *טוניקה מעורערת* (destabilized tonic). Quinn משתמש עבורו בתווית המיוחדת **Tx**, ולא רק **T**.
 
-Also note that because the III<sup>7</sup> chord's scale-degrees do not wholly belong to any of the three functions, it can behave similar to **T** and **D** chords, depending on context. It is a rare chord in its diatonic form.
+שימו לב גם שדרגותיו של אקורד III<sup>7</sup> אינן נכללות כולן באף אחד משלושת התפקידים. לכן הוא יכול להתנהג בדומה לאקורדי **T** או **D**, בהתאם להקשר. בצורתו הדיאטונית הוא אקורד נדיר.
 
-[This handout]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) will help you determine the function of a chord from the bass scale degree and/or the Roman numeral.
+[דף העזר הזה]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) יסייע בקביעת תפקיד אקורד לפי דרגת הבס ו/או המספר הרומי.
 
-## Labeling chords ##
+## סימון אקורדים
 
-There are two ways in which we will label chords according to function. The first is to label chords with Roman numerals, thoroughbass figures, and functional labels. When doing so, place the appropriate Roman numeral *below* the bass line, the thoroughbass figure *above* the bass line (since it represents the upper voices), and place a functional label **T**/**S**/**D** below the Roman numeral (no **Tx**; simply call a **VI** chord **T**). For now this label can simply apply T, S, or D to individual chords; in the future, we will alter this practice slightly in order to show [functional prolongation](harmonicSyntax2.html). The first example shows individual chord functions, and the second example shows functional prolongation.
+נשתמש בשתי דרכים לסימון אקורדים לפי תפקידם. הראשונה היא מספרים רומיים, ספרות בס ממוספר ותוויות תפקיד. הניחו את המספר הרומי המתאים *מתחת* לקו הבס, את ספרות הבס הממוספר *מעל* לקו הבס — משום שהן מייצגות את הקולות העליונים — ואת תווית התפקיד **T**/**S**/**D** מתחת למספר הרומי. בדרך זו אין משתמשים ב־**Tx**; אקורד **VI** יסומן פשוט **T**. לעת עתה אפשר להצמיד T, S או D לכל אקורד בפני עצמו. בהמשך נשנה מעט את הנוהג כדי להציג [הארכת תפקיד](harmonicSyntax2.html). הדוגמה הראשונה מציגה תפקידים של אקורדים יחידים, והשנייה הארכת תפקיד.
 
-[![]({{ site.url }}/Graphics/harmony/RNsIndividualFunctions.png)]({{ site.url }}/Graphics/harmony/RNsIndividualFunctions.png)
+[![תפקידים של אקורדים יחידים לצד מספרים רומיים]({{ site.url }}/Graphics/harmony/RNsIndividualFunctions.png)]({{ site.url }}/Graphics/harmony/RNsIndividualFunctions.png)
 
-[![]({{ site.url }}/Graphics/harmony/RNsFunctionalProlongation.png)]({{ site.url }}/Graphics/harmony/RNsFunctionalProlongation.png)
+[![הארכת תפקיד הרמוני בניתוח במספרים רומיים]({{ site.url }}/Graphics/harmony/RNsFunctionalProlongation.png)]({{ site.url }}/Graphics/harmony/RNsFunctionalProlongation.png)
 
-The second way to label a harmonic progression is what Quinn calls *functional bass*. Functional bass symbols combine a chord's function (**T**, **S**, **D**, or **Tx**) with an Arabic numeral denoting the scale degree of its bass note. A tonic chord with *do* in the bass is **T1**, a dominant chord with *ti* in the bass is **D7**, etc. If the bass note is chromatically altered, use a **+** or **–** to denote raised or lowered (*la* and *ti* in minor do not count, since *le*, *la*, *te*, and *ti* all belong to minor, but you can use +/– for clarity if you like). And if there is a chromatically altered note anywhere in the chord, put the functional bass symbol inside square brackets: **[S6]**, **[S+4]**, **[T–7]**, etc. (See [Chromatically altered subdominant chords](alteredSubdominants.html), [Applied chords](appliedChords.html), and [Modal mixture](modalMixture.html) for more information on common chromatically altered chords.)
+הדרך השנייה היא מה ש־Quinn מכנה *בס פונקציונלי* (functional bass). הסימנים משלבים את תפקיד האקורד — **T**, **S**, **D** או **Tx** — עם ספרה המציינת את דרגת הסולם של צליל הבס. אקורד טוניקה עם *do* בבס הוא **T1**, אקורד דומיננטה עם *ti* בבס הוא **D7**, וכן הלאה. אם צליל הבס משתנה כרומטית, השתמשו ב־**+** או **–** לציון הגבהה או הנמכה. *la* ו־*ti* במינור אינם נחשבים שינוי כזה, מאחר ש־*le*, *la*, *te* ו־*ti* כולן שייכות למינור; עם זאת, אפשר להשתמש ב־+/– לשם בהירות. אם יש צליל משתנה כרומטית בכל מקום באקורד, הקיפו את סימן הבס הפונקציונלי בסוגריים מרובעים: **[S6]**, **[S+4]**, **[T–7]**, וכן הלאה. לפרטים על אקורדים כרומטיים נפוצים ראו [אקורדי סובדומיננטה משתנים כרומטית](alteredSubdominants.html), [אקורדים שניוניים](appliedChords.html) ו[עירוב מודאלי](modalMixture.html).
 
-[![]({{ site.url }}/Graphics/harmony/FunctionalBassFunctions.png)]({{ site.url }}/Graphics/harmony/FunctionalBassFunctions.png)
+[![סימוני בס פונקציונלי ותפקידי האקורדים]({{ site.url }}/Graphics/harmony/FunctionalBassFunctions.png)]({{ site.url }}/Graphics/harmony/FunctionalBassFunctions.png)
 
-Quinn also advocates using what I call *interpreted functional bass*. This nomenclature uses the same symbols, but uses parentheses to denote [*contrapuntal prolongation*](http://openmusictheory.com/harmonicSyntax2.html) and lower-case postscripts to explain the contrapuntal role of the embellishing chord (p for passing, n for neighbor, i for incomplete neighbor, d for divider, e for embellishing — all of these refer to the voice-leading pattern in the bass voice). Following is an example of interpreted functional bass.
+Quinn תומך גם בשימוש במה שאני מכנה *בס פונקציונלי מפורש* (interpreted functional bass). שיטה זו משתמשת באותם סימנים, אך בסוגריים עגולים לציון [*הארכה קונטרפונקטית*](harmonicSyntax2.html), ובאותיות קטנות הנוספות בסוף הסימן להסבר תפקידו הקונטרפונקטי של אקורד העיטור: p לצליל עובר (passing), n לצליל שכן (neighbor), i לצליל שכן לא שלם (incomplete neighbor), d למחלק (divider) ו־e לעיטור (embellishing). כל אלה מתייחסים לתבנית הולכת הקולות בקול הבס. להלן דוגמה לבס פונקציונלי מפורש.
 
-[![]({{ site.url }}/Graphics/harmony/InterpretedFunctionalBass.png)]({{ site.url }}/Graphics/harmony/InterpretedFunctionalBass.png)
+[![ניתוח באמצעות בס פונקציונלי מפורש]({{ site.url }}/Graphics/harmony/InterpretedFunctionalBass.png)]({{ site.url }}/Graphics/harmony/InterpretedFunctionalBass.png)
 
-In this text, we primarily use the first method of Roman numerals and (prolonged) harmonic functions, since it is the most common in North American music theory. However, functional bass can be helpful for identifying categories of chords that belong together. For example, in a dictation or transcription task, we might hear *re* in the bass but not know what specific chord it is. If context tells us it is likely a dominant chord, rather than subdominant, we can label it **D2**. This rules out **II** (a subdominant chord) but keeps open multiple dominant options like **V<sup>6/4</sup>** or **VII<sup>6</sup>** until we are able to make a final determination. Similarly, when composing, there are patterns that might take an **S4**, with the specific chord (**IV** or **II<sup>6</sup>**) determined by voice-leading rather than harmonic syntax, but where a **D4** chord (**V<sup>4/2</sup>**) would be syntactically inappropriate, regardless of voice-leading.
+בספר זה אנו משתמשים בעיקר בדרך הראשונה — מספרים רומיים ותפקידים הרמוניים, לרבות הארכותיהם — משום שהיא הנפוצה ביותר בתאוריית המוזיקה בצפון אמריקה. עם זאת, בס פונקציונלי יכול לסייע בזיהוי קטגוריות של אקורדים השייכים יחד. למשל, בתרגיל הכתבה או תעתוק אפשר לשמוע *re* בבס בלי לדעת מהו האקורד המסוים. אם ההקשר מורה שסביר שזה אקורד דומיננטה ולא סובדומיננטה, אפשר לסמנו **D2**. כך נשלל **II**, שהוא אקורד סובדומיננטה, אך נשארות אפשרויות דומיננטיות כגון **V<sup>6/4</sup>** או **VII<sup>6</sup>**, עד שאפשר להכריע. באופן דומה, בהלחנה עשויות להופיע תבניות הדורשות **S4**, כאשר האקורד המסוים — **IV** או **II<sup>6</sup>** — נקבע לפי הולכת הקולות ולא לפי התחביר ההרמוני. באותו מקום אקורד **D4**, כלומר **V<sup>4/2</sup>**, יהיה בלתי מתאים מבחינה תחבירית, בלי קשר להולכת הקולות.
 
-Thus, when referring to specific chords, we will use Roman numerals to label the chords and functional labels to interpret their role in context. When referring to broader categories of chords, we will more often use functional bass.
+לכן בהתייחסות לאקורדים מסוימים נשתמש במספרים רומיים לזיהוים ובתוויות תפקיד לפירוש מקומם בהקשר. בהתייחסות לקטגוריות רחבות יותר של אקורדים נשתמש לעיתים קרובות יותר בבס פונקציונלי.

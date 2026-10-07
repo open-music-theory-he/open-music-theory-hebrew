@@ -1,36 +1,41 @@
 ---
 layout: post
-title: Performing a harmonic analysis
+title: "ביצוע ניתוח הרמוני"
+language: he
+translation_status: language-reviewed
+translation_batch: 5
 ---
 
-Analyzing harmony in a piece or passage of music involves more than labeling chords. Even the most basic analysis also involves *interpreting* the way that specific chords and progressions function within a broader context. Ultimately, no analysis is complete until individual musical elements are interpreted in light of the work as a whole and the historical setting in which the piece occurs. But this resource simply walks through the steps of performing a basic harmonic analysis, interpreting each chord and chord progression in light of the musical phrase in which it occurs.
+ניתוח הרמוניה ביצירה או בקטע מוזיקלי כולל יותר מסימון אקורדים. אפילו הניתוח הבסיסי ביותר כולל גם *פירוש* של האופן שבו אקורדים ומהלכים מסוימים פועלים בהקשר רחב יותר. בסופו של דבר, ניתוח אינו שלם עד שהרכיבים המוזיקליים היחידים מפורשים לאור היצירה כולה והרקע ההיסטורי שלה. עם זאת, עמוד זה עובר רק על שלבי ניתוח הרמוני בסיסי, שבו כל אקורד ומהלך מפורשים לאור הפראזה שבה הם מופיעים.
 
-The first step in a harmonic analysis is to *identify phrases*. For the most part, that means beginning by identifying [*cadences*](cadenceTypes.html). However, not every type of phrase ends with a cadence, so sensitivity to theme types is important. In classical instrumental music, that means listening for [period- and sentence-like structures](classicalThemes.html). In classical or romantic music with text, that means listening in particular for the ends of poetic lines and melodic phrases.
+השלב הראשון בניתוח הרמוני הוא *זיהוי הפראזות*. בדרך כלל מתחילים בזיהוי [*קדנצות*](cadenceTypes.html). עם זאת, לא כל טיפוס של פראזה מסתיים בקדנצה, ולכן חשובה רגישות לטיפוסי נושאים. במוזיקה קלאסית כלית פירוש הדבר הוא הקשבה ל[מבנים דמויי תקופה ומשפט](classicalThemes.html). במוזיקה קלאסית או רומנטית עם טקסט יש להקשיב במיוחד לסיומי שורות השירה והפראזות המלודיות.
 
-Once you have identified the musical phrases, it can be helpful to perform a harmonic reduction (thoroughbass reduction, for example) for each phrase. Below the score/thoroughbass line, write the appropriate Roman numeral, **T/S/D** label for each chord, and/or an uninterpreted functional bass symbol for each chord (**T1 T3 S4** etc.). [This handout]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) can help you determine the functions of chords in the thoroughbass reduction.
+לאחר זיהוי הפראזות יכול לעזור לבצע צמצום הרמוני (harmonic reduction), למשל צמצום לבס ממוספר, לכל פראזה. מתחת לתווים או לקו הבס הממוספר כתבו לכל אקורד את המספר הרומי המתאים, תווית **T/S/D** ו/או סימן בס פונקציונלי ללא פירוש של הארכות, כגון **T1 T3 S4**. [דף העזר הזה]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf) יכול לסייע בקביעת תפקידי האקורדים בצמצום.
 
-Next identify the general harmonic structure of each phrase. Typical phrases in classical music will do one of the following:
+לאחר מכן זהו את המבנה ההרמוני הכללי של כל פראזה. פראזות אופייניות במוזיקה קלאסית עושות אחת מהפעולות הבאות:
 
-- prolong tonic without a cadence (a classical *presentation* phrase, for example)  
-- progress toward an authentic cadence (ending with **V<sup>(7)</sup> I**, **D5 T1** in functional bass)  
-- progress toward a half cadence (ending with **V**, **D5** in functional bass)
+- מאריכות טוניקה ללא קדנצה, למשל פראזת *הצגה* קלאסית.
+- מתקדמות לקדנצה אותנטית, המסתיימת ב־**V<sup>(7)</sup> I**, או **D5 T1** בבס פונקציונלי.
+- מתקדמות לחצי קדנצה, המסתיימת ב־**V**, או **D5** בבס פונקציונלי.
 
-If the phrase prolongs tonic (no cadence), label the *entire* phrase **T–––.**
+אם הפראזה מאריכה טוניקה ללא קדנצה, סמנו את *כולה* **T–––.**
 
-If the phrase ends with a cadence, identify the *cadential progression*. This includes the last chord of the tonic zone, optionally followed by a subdominant chord or zone (most often a single chord), and a required dominant zone (most often a single chord or compound cadence formula). Half-cadence phrases end there. Authentic-cadence phrases continue on to a final tonic zone (usually a single chord). 
+אם הפראזה מסתיימת בקדנצה, זהו את *המהלך הקדנציאלי* (cadential progression). הוא כולל את האקורד האחרון באזור הטוניקה, שאחריו יכול לבוא אקורד או אזור סובדומיננטה — לרוב אקורד יחיד — וחייב לבוא אזור דומיננטה, לרוב אקורד יחיד או נוסחת קדנצה מורכבת. פראזות של חצי קדנצה מסתיימות שם. פראזות של קדנצה אותנטית ממשיכות לאזור טוניקה אחרון, בדרך כלל אקורד יחיד.
 
-The the **(S) D T** of the cadential progression should be labeled as such. Once the cadential progression is identified, everything before it is labeled as tonic prolongation. Regardless of whether it is contrapuntal prolongation, a subsidiary progression, or a combination of the two, it will be labeled **T–––.** (See [Harmonic syntax – prolongation](http://openmusictheory.com/harmonicSyntax2.html) if those terms are unfamiliar to you.)
+יש לסמן את **(S) D T** של המהלך הקדנציאלי בהתאם לתפקידיהם. לאחר זיהוי המהלך הקדנציאלי, כל מה שלפניו מסומן כהארכת טוניקה. בין שמדובר בהארכה קונטרפונקטית, במהלך משני או בצירוף של שניהם, הוא יסומן **T–––.** אם המונחים אינם מוכרים, ראו [תחביר הרמוני — הארכה](harmonicSyntax2.html).
 
-Thus a phrase ending with a half cadence will have a functional analysis that looks like:
+לכן ניתוח התפקידים של פראזה המסתיימת בחצי קדנצה ייראה כך:
 
-> T—————— (S) D 
+> T—————— (S) D
 
-A phrase ending with an authentic cadence will have a functional analysis that looks like:
+ושל פראזה המסתיימת בקדנצה אותנטית:
 
 > T—————— (S) D T
 
-Following is an excerpt from the opening of Haydn's Piano Sonata in C Major, Hob. HVI:21, I. Chords are labeled with Roman numerals and a **T/S/D** functional label for each chord. The tonic prolongation is shown below that with a T followed by a line for the duration of the tonic zone. The cadential progression is comprised of the last tonic chord (m. 4) through **S D T** to the **PAC** in m. 6.
+להלן קטע מתחילת סונטת הפסנתר של היידן ב־C מז׳ור, Hob. XVI:21, פרק ראשון. האקורדים מסומנים במספרים רומיים ובתווית תפקיד **T/S/D** לכל אקורד. הארכת הטוניקה מוצגת מתחתיהם באמצעות T וקו הנמשך לאורך אזור הטוניקה. המהלך הקדנציאלי מתחיל באקורד הטוניקה האחרון בתיבה 4 וממשיך דרך **S D T** אל הקדנצה האותנטית המושלמת, **PAC**, בתיבה 6.
 
-[![]({{ site.url }}/Graphics/harmony/XVI-21-prolongation.png)]({{ site.url }}/Graphics/harmony/XVI-21-prolongation.png)
+[![ניתוח הארכת הטוניקה והקדנצה בסונטת היידן Hob. XVI:21]({{ site.url }}/Graphics/harmony/XVI-21-prolongation.png)]({{ site.url }}/Graphics/harmony/XVI-21-prolongation.png)
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת סונטת היידן Hob. XVI:21 בספוטיפיי" src="https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+> **הערת המהדורה העברית:** מזהה הסונטה תוקן משגיאת הדפוס HVI:21 ל־XVI:21, התואם לשם קובץ דוגמת התווים ולסימון Hoboken לסונטות הפסנתר. תיאור התיבות והניתוח נשמרו מן המקור.

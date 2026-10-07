@@ -1,92 +1,95 @@
 ---
 layout: post
-title: Improvising a sentence with galant schemata
+title: "אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט"
+language: he
+translation_status: language-reviewed
+translation_batch: 4
 ---
 
-The [classical sentence](sentence.html) lends itself well to *galant* schemata. In fact, we have labeled many of the schemata on our [summary page](schemataSummary.html) as "presentation" or "continuation" schemata. Many four-stage schemata tend to appear with the melodic configuration common to the presentation phrase: a basic idea and its varied repetition.
+המשפט המוזיקלי הקלאסי ([classical sentence](sentence.html)) מתאים היטב לסכמות בסגנון *הגלנט* (galant schemata). אכן, רבות מן הסכמות ב[עמוד הסיכום](schemataSummary.html) מסווגות כסכמות ״הצגה״ או ״המשך״. סכמות רבות בנות ארבעה שלבים נוטות להופיע בתצורה המלודית האופיינית לפראזת הצגה: רעיון בסיסי וחזרה עליו בשינוי.
 
-Take the opening theme from Haydn's Piano Sonata in G Major, Hob. XVI:27, third movement.
+התבוננו בנושא הפותח את הפרק השלישי של סונטת הפסנתר של היידן ב־G מז׳ור, Hob. XVI:27.
 
-[![]({{ site.url }}/Graphics/HaydnXVI27.png)]({{ site.url }}/Graphics/HaydnXVI27.png)  
-*Public domain score excerpted from [IMSLP](http://www.imslp.org). Click image to enlarge.*
+[![הנושא הפותח בפרק השלישי של סונטת היידן Hob. XVI:27]({{ site.url }}/Graphics/HaydnXVI27.png)]({{ site.url }}/Graphics/HaydnXVI27.png)
+*קטע תווים בנחלת הכלל, מתוך [IMSLP](http://www.imslp.org). לחצו על התמונה להגדלה.*
 
-Bars 1–4 (the presentation phrase) give an embellishment of the Meyer schema. Note the two-bar basic idea that is repeated in mm. 3–4, transposed up a step (for the most part).
+בתיבות 1–4, פראזת ההצגה, מופיע עיטור של סכמת Meyer. שימו לב לרעיון הבסיסי בן שתי התיבות, החוזר בתיבות 3–4 בטרנספוזיציה של דרגה אחת כלפי מעלה, ברובו.
 
-Bars 5–6 (beginning the continuation phrase) give an embellishment of the modulating Passo Indietro schema. This is followed by a **II<sup>6</sup> V<sup>7</sup> I** cadence in the key of the dominant. (Of course, it goes by so fast, it can easily sound like a half cadence in the home key.)
+בתיבות 5–6, תחילת פראזת ההמשך, מופיע עיטור של סכמת Passo Indietro המודולטורית. אחריו באה קדנצה **II<sup>6</sup> V<sup>7</sup> I** בטונליות הדומיננטה. כמובן, המהלך מהיר כל כך שהוא עשוי להישמע בקלות כחצי קדנצה בטונליות הראשית.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת היידן בספוטיפיי" src="https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-Our beginning improvisations will not be nearly as elaborate as Haydn's composition, but note a few features that are helpful to mimic:
+האלתורים הראשונים שלנו לא יהיו מורכבים כמעט כמו יצירתו של היידן, אך כדאי לחקות כמה ממאפייניה:
 
-- The Meyer's typical melody notes come on each downbeat (stage 1 – bar 1, etc.).  
-- The Meyer's typical melody notes for stages 1 and 3 also come at the end of the bar, immediately preceding their counterparts in bars 2 and 4.  
-- Though the harmonic rhythm remains the same, the switch from presentation schema to continuation schema is matched by a change from two-bar melodic "chunks" to one-bar melodic chunks. (This is the *fragmentation* that is common to continuation phrases.)  
-- The continuation phrase follows well from the presentation phrase rhythmically and harmonically, but there is no obvious motivic connection between the two phrases.  
-- The cadence is relatively formulaic.
+- צלילי המלודיה האופייניים ל־Meyer מופיעים בפעימה הראשונה של כל תיבה: שלב 1 בתיבה 1, וכן הלאה.
+- צלילי המלודיה האופייניים לשלבים 1 ו־3 של Meyer מופיעים גם בסוף התיבה, מיד לפני הצלילים המקבילים להם בתיבות 2 ו־4.
+- אף שקצב חילופי האקורדים נשאר זהה, המעבר מסכמת הצגה לסכמת המשך מלווה במעבר מיחידות מלודיות בנות שתי תיבות ליחידות בנות תיבה אחת. זהו *הפיצול ליחידות קצרות יותר* (fragmentation), הנפוץ בפראזות המשך.
+- פראזת ההמשך נובעת היטב מפראזת ההצגה מבחינה מקצבית והרמונית, אך אין קשר מוטיבי מובהק בין שתי הפראזות.
+- הקדנצה מבוססת למדי על נוסחה מקובלת.
 
-In those ways, this theme is a model example for our simple improvisations: highlight the schema's typical melody notes on the downbeats and/or across the barline between mm. 1 and 2, mm. 3 and 4; use a more original melodic idea at the beginning and get more formulaic as you progress towards the final cadence; etc.
+מבחינות אלה הנושא הוא דגם מתאים לאלתורים הפשוטים שלנו: הדגישו את צלילי המלודיה האופייניים לסכמה בפעימות הראשונות ו/או משני עברי קו התיבה שבין תיבות 1 ו־2 ובין תיבות 3 ו־4; השתמשו ברעיון מלודי מקורי יותר בתחילה, והסתמכו יותר על נוסחאות ככל שאתם מתקרבים לקדנצה האחרונה; וכן הלאה.
 
-Following is a video that goes into more detail about tricky situations and specific techniques that may come up when using these schemata to improvise a sentence. This video focuses on the presentation phrase, using schemata like the Meyer or the Jupiter.
+הסרטון שלהלן מפרט מצבים מאתגרים וטכניקות מסוימות העשויים להופיע כשמשתמשים בסכמות אלה לאלתור משפט מוזיקלי. הוא מתמקד בפראזת ההצגה, עם סכמות כגון Meyer או Jupiter.
 
-<iframe src="http://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
-<a href="http://vimeo.com/109188050">Improvising a presentation phrase</a> on <a href="https://vimeo.com">Vimeo</a>.
+<iframe title="אלתור פראזת הצגה" src="http://player.vimeo.com/video/109188050" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br/>
+<a href="http://vimeo.com/109188050">אלתור פראזת הצגה</a> ב־<a href="https://vimeo.com">Vimeo</a>.
 
-# Putting it together
+## חיבור המרכיבים
 
-The simplest way to build an entire sentence is to begin with one of the four-stage presentation schemata above, and then follow it with either a 5-stage Prinner (which ends on an IAC) or some kind of continuation–cadence combination. Following are a few examples. You can use these as skeletons upon which to base an improvisation, or you can embellish these interactive examples to try out composing a simple sentence. (See the [Using Trinket](trinket.html) page for details.)
+הדרך הפשוטה ביותר לבנות משפט שלם היא להתחיל באחת מסכמות ההצגה בנות ארבעת השלבים שלעיל, ואחריה להשתמש ב־Prinner בת חמישה שלבים, המסתיימת בקדנצה אותנטית בלתי מושלמת (IAC), או בצירוף כלשהו של המשך וקדנצה. להלן כמה דוגמאות. אפשר להשתמש בהן כשלדים לאלתור, או לעטר את הדוגמאות האינטראקטיביות כדי להתנסות בחיבור משפט פשוט. לפרטים ראו [שימוש ב־Trinket](trinket.html).
 
-## Presentation – 5-phase Prinner
+### הצגה — Prinner בת חמישה שלבים
 
-The following framework begins with a Meyer and follows with a 5-stage Prinner. Note that stages 3 and 4 of the Prinner are compressed into a single bar in order to line up with the common 8-bar sentence length. Also note that any presentation schema can be substituted for the Meyer.
+השלד הבא מתחיל ב־Meyer וממשיך ב־Prinner בת חמישה שלבים. שימו לב ששלבים 3 ו־4 של Prinner נדחסים לתיבה אחת כדי להתאים לאורך הנפוץ של משפט בן שמונה תיבות. אפשר גם להחליף את Meyer בכל סכמת הצגה אחרת.
 
-<iframe src="https://trinket.io/embed/music/4ea073d8f1" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="Meyer ואחריה Prinner בת חמישה שלבים" src="https://trinket.io/embed/music/4ea073d8f1" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-## Presentation – Passo Indietro – Cadence
+### הצגה — Passo Indietro — קדנצה
 
-Often classical composers would begin a Prinner, and then truncate it to make room for the final cadence. The following example does this, beginning with a Jupiter and progressing through a Passo Indietro (a half-Prinner) to a Compound HC.
+מלחינים קלאסיים התחילו לעיתים קרובות Prinner, ואז קיצרו אותה כדי לפנות מקום לקדנצה האחרונה. כך נעשה בדוגמה הבאה: היא מתחילה ב־Jupiter, ממשיכה ב־Passo Indietro — מחצית Prinner — ומגיעה לחצי קדנצה מורכבת (Compound HC).
 
-<iframe src="https://trinket.io/embed/music/ee80a49382" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="Jupiter, Passo Indietro וחצי קדנצה מורכבת" src="https://trinket.io/embed/music/ee80a49382" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-By compressing the last two bars into a single bar, we can convert this into a PAC-ending sentence. (And combined, the two versions could form a 16-bar compound theme.)
+באמצעות דחיסת שתי התיבות האחרונות לתיבה אחת אפשר להפוך זאת למשפט המסתיים בקדנצה אותנטית מושלמת (PAC). יחד, שתי הגרסאות יכולות ליצור נושא מורכב בן שש־עשרה תיבות.
 
-<iframe src="https://trinket.io/embed/music/bcc2fe55de" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="גרסה המסתיימת בקדנצה אותנטית מושלמת" src="https://trinket.io/embed/music/bcc2fe55de" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-## Presentation – Fast Prinner – Cadence
+### הצגה — Prinner מהירה — קדנצה
 
-Instead of a Passo Indietro (half of a Prinner), we could use a full Prinner, but twice as fast. This allows the melody to move more in the latter half of the sentence, accomplishing the fragmentation and acceleration of melodic and harmonic rhythm that are common to continuation phrases.
+במקום Passo Indietro, שהיא מחצית Prinner, אפשר להשתמש ב־Prinner שלמה בקצב מהיר פי שניים. כך המלודיה יכולה לנוע יותר במחצית השנייה של המשפט, וליצור את הפיצול ואת האצת המקצב המלודי וקצב חילופי האקורדים האופייניים לפראזות המשך.
 
-Following is a sentence formed by Sol-Fa-Mi – Prinner – Fa-Fi-Sol HC.
+להלן משפט המורכב מ־Sol-Fa-Mi, מ־Prinner ומחצי קדנצה Fa-Fi-Sol HC.
 
-<iframe src="https://trinket.io/embed/music/dcdfbf0994" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="Sol-Fa-Mi, Prinner וחצי קדנצה Fa-Fi-Sol" src="https://trinket.io/embed/music/dcdfbf0994" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-And the same, but ending with a simple PAC.
+ואותה תבנית, אך עם קדנצה אותנטית מושלמת פשוטה בסיום:
 
-<iframe src="https://trinket.io/embed/music/a63f2a06bc" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="Sol-Fa-Mi ו־Prinner עם קדנצה אותנטית מושלמת" src="https://trinket.io/embed/music/a63f2a06bc" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-# Practicing
+## תרגול
 
-To practice improvising using these schemata, you can play along with the mp3 audio files below, created by Mark Arnett. Each recording is in C major, simple quadruple meter, and contains an Alberti-bass left hand with the melodic skeleton in the right hand.
+כדי לתרגל אלתור באמצעות הסכמות אפשר לנגן עם קובצי השמע בפורמט mp3 שלהלן, שיצר Mark Arnett. כל הקלטה היא ב־C מז׳ור ובמשקל פשוט ארבע־פעימתי; יד שמאל מנגנת בס אלברטי (Alberti bass) ויד ימין מנגנת את השלד המלודי.
 
-## Individual schemata
+### סכמות יחידות
 
-- [Aprile]({{ site.url }}/media/schemata/aprile.mp3)  
-- [Do–Re–Mi]({{ site.url }}/media/schemata/do-re-mi.mp3)  
-- [Fonte]({{ site.url }}/media/schemata/fonte.mp3)  
-- [Jupiter – root-position dominant]({{ site.url }}/media/schemata/jupiterB.mp3)  
-- [Jupiter – inverted dominant]({{ site.url }}/media/schemata/jupiterA.mp3)  
-- [Meyer]({{ site.url }}/media/schemata/meyer.mp3)  
-- [Monte]({{ site.url }}/media/schemata/monte.mp3)  
-- [Pastorella]({{ site.url }}/media/schemata/pastorella.mp3)  
-- [Prinner (4-stage)]({{ site.url }}/media/schemata/Prinner4.mp3)  
-- [Prinner (5-stage)]({{ site.url }}/media/schemata/Prinner5.mp3)  
-- [Modulating Prinner (4-stage)]({{ site.url }}/media/schemata/modulatingPrinner4.mp3)  
-- [Modulating Prinner (5-stage)]({{ site.url }}/media/schemata/modulatingPrinner5.mp3)  
-- [Sol–Fa–Mi – II chord on stage two]({{ site.url }}/media/schemata/sol-fa-miA.mp3)  
-- [Sol–Fa–Mi – VII chord on stage two]({{ site.url }}/media/schemata/sol-fa-miB.mp3)  
+- [Aprile]({{ site.url }}/media/schemata/aprile.mp3)
+- [Do–Re–Mi]({{ site.url }}/media/schemata/do-re-mi.mp3)
+- [Fonte]({{ site.url }}/media/schemata/fonte.mp3)
+- [Jupiter — דומיננטה במצב יסודי]({{ site.url }}/media/schemata/jupiterB.mp3)
+- [Jupiter — דומיננטה בהיפוך]({{ site.url }}/media/schemata/jupiterA.mp3)
+- [Meyer]({{ site.url }}/media/schemata/meyer.mp3)
+- [Monte]({{ site.url }}/media/schemata/monte.mp3)
+- [Pastorella]({{ site.url }}/media/schemata/pastorella.mp3)
+- [Prinner בת ארבעה שלבים]({{ site.url }}/media/schemata/prinner4.mp3)
+- [Prinner בת חמישה שלבים]({{ site.url }}/media/schemata/prinner5.mp3)
+- [Prinner מודולטורית בת ארבעה שלבים]({{ site.url }}/media/schemata/modulatingPrinner4.mp3)
+- [Prinner מודולטורית בת חמישה שלבים]({{ site.url }}/media/schemata/modulatingPrinner5.mp3)
+- [Sol–Fa–Mi — אקורד II בשלב השני]({{ site.url }}/media/schemata/sol-fa-miA.mp3)
+- [Sol–Fa–Mi — אקורד VII בשלב השני]({{ site.url }}/media/schemata/sol-fa-miB.mp3)
 
-## Sentential schema chains
+### שרשראות סכמות ליצירת משפט
 
-- [Jupiter – Passo Indietro – Compound HC]({{ site.url }}/media/schemata/Jup-PI-ComHC.mp3)  
-- [Jupiter – Passo Indietro – Compound PAC]({{ site.url }}/media/schemata/Jup-PI-ComPAC.mp3)  
-- [Meyer – 5-stage Prinner]({{ site.url }}/media/schemata/Meyer-PrinnerB.mp3)  
-- [Sol–Fa–Mi – Prinner (two bars) – Fa–Fi–Sol HC]({{ site.url }}/media/schemata/SFM-Prinner-FFSHC.mp3)  
+- [Jupiter — Passo Indietro — חצי קדנצה מורכבת]({{ site.url }}/media/schemata/Jup-PI-ComHC.mp3)
+- [Jupiter — Passo Indietro — קדנצה אותנטית מושלמת מורכבת]({{ site.url }}/media/schemata/Jup-PI-ComPAC.mp3)
+- [Meyer — Prinner בת חמישה שלבים]({{ site.url }}/media/schemata/Meyer-PrinnerB.mp3)
+- [Sol–Fa–Mi — Prinner בשתי תיבות — חצי קדנצה Fa–Fi–Sol]({{ site.url }}/media/schemata/SFM-Prinner-FFSHC.mp3)

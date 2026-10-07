@@ -1,259 +1,264 @@
 ---
 layout: post
-title: Galant schemata – summary
+title: "סכמות בסגנון הגלנט — סיכום"
+language: he
+translation_status: language-reviewed
+translation_batch: 4
 ---
 
-# Openings (presentations)
+> **הערת המהדורה העברית:** הברות הסולפז׳ בטבלאות נשמרות בלטינית כדרגות יחסיות. סדר השלבים הוא משמאל לימין. האותיות הרומיות הגדולות הן סימוני המקור ואינן קובעות שכל האקורדים מז׳וריים. Cad. מסמן את האקורד הקדנציאלי; T, Tx, S ו־D נשמרים בשיטת התפקידים של הספר.
 
-The following schemata tend to appear at the opening of themes, often as the framework for a presentation phrase in a [sentence](sentence.html).
+# פתיחות — פראזות הצגה
 
-*Note: though these schemata are presented in major mode, most of these can be converted directly to minor mode.
+הסכמות שלהלן נוטות להופיע בתחילת נושאים, לעיתים קרובות כשלד לפראזת הצגה במשפט מוזיקלי ([sentence](sentence.html)).
 
-## The Meyer
+*הערה: אף שסכמות אלה מוצגות במז׳ור, את רובן אפשר להעביר ישירות למינור.*
 
-| stage: | 1 | 2 | 3 | 4 |
+## Meyer
+
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *do* | *ti* | *fa* | *mi* |
-| bass: | *do* | *re* | *ti* | *do* |
+| מלודיה: | *do* | *ti* | *fa* | *mi* |
+| בס: | *do* | *re* | *ti* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 4/3 | 6/5 | 5/3 |
-| Roman numerals: | I | V | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 4/3 | 6/5 | 5/3 |
+| מספרים רומיים: | I | V | V | I |
+| תפקידים: | T | D | D | T |
 
-## The Jupiter
+## Jupiter
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *do* | *re* | *fa* | *mi* |
-| bass: | *do* | *ti* | *ti* | *do* |
+| מלודיה: | *do* | *re* | *fa* | *mi* |
+| בס: | *do* | *ti* | *ti* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/5 | 6/5 | 5/3 |
-| Roman numerals: | I | V | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 6/5 | 6/5 | 5/3 |
+| מספרים רומיים: | I | V | V | I |
+| תפקידים: | T | D | D | T |
 
-or
+או
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *do* | *re* | *fa* | *mi* |
-| bass: | *do* | *sol* | *sol* | *do* |
+| מלודיה: | *do* | *re* | *fa* | *mi* |
+| בס: | *do* | *sol* | *sol* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 7 | 7 | 5/3 |
-| Roman numerals: | I | V | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 7 | 7 | 5/3 |
+| מספרים רומיים: | I | V | V | I |
+| תפקידים: | T | D | D | T |
 
-## The Aprile
+## Aprile
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *do* | *ti* | *re* | *do* |
-| bass: | *do* | *re* | *ti* | *do* |
+| מלודיה: | *do* | *ti* | *re* | *do* |
+| בס: | *do* | *re* | *ti* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 4/3 | 6/5 | 5/3 |
-| Roman numerals: | I | V | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 4/3 | 6/5 | 5/3 |
+| מספרים רומיים: | I | V | V | I |
+| תפקידים: | T | D | D | T |
 
-## The Pastorella
+## Pastorella
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *mi* | *re* | *fa* | *mi* |
-| bass: | *do* | *sol* | *sol* | *do* |
+| מלודיה: | *mi* | *re* | *fa* | *mi* |
+| בס: | *do* | *sol* | *sol* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 7 | 7 | 5/3 |
-| Roman numerals: | I | V | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 7 | 7 | 5/3 |
+| מספרים רומיים: | I | V | V | I |
+| תפקידים: | T | D | D | T |
 
-## The Do–Re–Mi
+## Do–Re–Mi
 
-Though common in a three-stage version, this four-stage version is more typical when employed in a presentation phrase.
+אף שהגרסה בת שלושת השלבים נפוצה, גרסה זו בת ארבעת השלבים אופיינית יותר לשימוש בפראזת הצגה.
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *do* | *re* | *re* | *mi* |
-| bass: | *do* | *ti* | *ti* | *do* |
+| מלודיה: | *do* | *re* | *re* | *mi* |
+| בס: | *do* | *ti* | *ti* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/5 | 6/5 | 5/3 |
-| Roman numerals: | I | V | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 6/5 | 6/5 | 5/3 |
+| מספרים רומיים: | I | V | V | I |
+| תפקידים: | T | D | D | T |
 
-(Root-position dominant chords may also be used.)
+(אפשר להשתמש גם באקורדי דומיננטה במצב יסודי.)
 
 ## Sol–Fa–Mi
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *sol* | *fa* | *fa* | *mi* |
-| bass: | *do* | *re* | *ti* | *do* |
+| מלודיה: | *sol* | *fa* | *fa* | *mi* |
+| בס: | *do* | *re* | *ti* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 5/3 | 6/5 | 5/3 |
-| Roman numerals: | I | II | V | I |
-| functions: | T | S | D | T |
+| בס ממוספר: | 5/3 | 5/3 | 6/5 | 5/3 |
+| מספרים רומיים: | I | II | V | I |
+| תפקידים: | T | S | D | T |
 
-or 
+או
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *sol* | *fa* | *fa* | *mi* |
-| bass: | *do* | *re* | *ti* | *do* |
+| מלודיה: | *sol* | *fa* | *fa* | *mi* |
+| בס: | *do* | *re* | *ti* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/3 | 6/5 | 5/3 |
-| Roman numerals: | I | VII | V | I |
-| functions: | T | D | D | T |
+| בס ממוספר: | 5/3 | 6/3 | 6/5 | 5/3 |
+| מספרים רומיים: | I | VII | V | I |
+| תפקידים: | T | D | D | T |
 
-## The Romanesca
+## Romanesca
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *sol* | *sol* | *do* | *sol* |
-| bass: | *do* | *ti* | *la* | *mi* |
+| מלודיה: | *sol* | *sol* | *do* | *sol* |
+| בס: | *do* | *ti* | *la* | *mi* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/3 | 5/3 | 6/3 |
-| Roman numerals: | I | V | VI | I |
-| functions: | T | D | Tx | T |
+| בס ממוספר: | 5/3 | 6/3 | 5/3 | 6/3 |
+| מספרים רומיים: | I | V | VI | I |
+| תפקידים: | T | D | Tx | T |
 
-The melody of this schema is quite flexible. The bass/harmony are the more definitive elements. Also note that, in contrast to the other "presentation" schemata, this schema is far more common in slower movements.
+המלודיה של סכמה זו גמישה למדי. הבס וההרמוניה הם הרכיבים המגדירים יותר. שימו לב גם שסכמה זו נפוצה הרבה יותר בפרקים איטיים, בהשוואה לסכמות ההצגה האחרות.
 
-# Continuing schemata
+# סכמות המשך
 
-## The Prinner
+## Prinner
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *la* | *sol* | *fa* | *mi* |
-| bass: | *fa* | *mi* | *re* | *do* |
+| מלודיה: | *la* | *sol* | *fa* | *mi* |
+| בס: | *fa* | *mi* | *re* | *do* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/3 | 7–6/3 | 5/3 |
-| Roman numerals: | IV | I | VII | I |
-| functions: | S | T | D | T |
+| בס ממוספר: | 5/3 | 6/3 | 7–6/3 | 5/3 |
+| מספרים רומיים: | IV | I | VII | I |
+| תפקידים: | S | T | D | T |
 
-or
+או
 
-| stage: | 1 | 2 | 3 | 4 | 5 |
+| שלב: | 1 | 2 | 3 | 4 | 5 |
 | -: | :-: | :-: | :-: | :-: | :-: | 
-| melody: | *la* | *sol* | *fa* | *fa* | *mi* |
-| bass: | *fa* | *mi* | *re* | *sol* | *do* |
+| מלודיה: | *la* | *sol* | *fa* | *fa* | *mi* |
+| בס: | *fa* | *mi* | *re* | *sol* | *do* |
 | | | | | | |
-| thoroughbass: | 5/3 | 6/3 | 7–6/3 | 7 | 5/3 |
-| Roman numerals: | IV | I | VII | V | I |
-| functions: | S | T | D | D | T |
+| בס ממוספר: | 5/3 | 6/3 | 7–6/3 | 7 | 5/3 |
+| מספרים רומיים: | IV | I | VII | V | I |
+| תפקידים: | S | T | D | D | T |
 
-## The Modulating Prinner
+## Prinner מודולטורית
 
-This schema modulates from the tonic to the dominant. It is a common continuation phrase for a modulating sentence. It is also a common framework for a *tutti* passage that begins the transition module of a sonata/symphony movement.
+סכמה זו יוצרת מודולציה מהטוניקה אל הדומיננטה. היא פראזת המשך נפוצה במשפט מודולטורי. היא גם שלד נפוץ לקטע *טוטי* (tutti), שבו מנגן ההרכב כולו, בתחילת יחידת המעבר בפרק סונטה או סימפוניה.
 
-| stage: | 1 | 2 | 3 | 4 |
+| שלב: | 1 | 2 | 3 | 4 |
 | -: | :-: | :-: | :-: | :-: | 
-| melody: | *mi* | *re* | *do* | *ti* |
-| bass: | *do* | *ti* | *la* | *sol* |
+| מלודיה: | *mi* | *re* | *do* | *ti* |
+| בס: | *do* | *ti* | *la* | *sol* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/3 | 7–#6/3 | 5/3 |
-| Roman numerals: | I | V | VII/V | V |
+| בס ממוספר: | 5/3 | 6/3 | 7–#6/3 | 5/3 |
+| מספרים רומיים: | I | V | VII/V | V |
 
-or
+או
 
-| stage: | 1 | 2 | 3 | 4 | 5 |
+| שלב: | 1 | 2 | 3 | 4 | 5 |
 | -: | :-: | :-: | :-: | :-: | :-: | 
-| melody: | *mi* | *re* | *do* | *do* | *ti* |
-| bass: | *do* | *ti* | *la* | *re* | *sol* |
+| מלודיה: | *mi* | *re* | *do* | *do* | *ti* |
+| בס: | *do* | *ti* | *la* | *re* | *sol* |
 | | | | | | |
-| thoroughbass: | 5/3 | 6/3 | 7–#6/3 | 7/# | 5/3 |
-| Roman numerals: | I | V | VII/V | V/V | V |
+| בס ממוספר: | 5/3 | 6/3 | 7–#6/3 | 7/# | 5/3 |
+| מספרים רומיים: | I | V | VII/V | V/V | V |
 
-## The Passo Indietro
+## Passo Indietro
 
-| stage: | 1 | 2 |
+| שלב: | 1 | 2 |
 | -: | :-: | :-: |
-| melody: | *la* | *sol* |
-| bass: | *fa* | *mi* |
+| מלודיה: | *la* | *sol* |
+| בס: | *fa* | *mi* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/3 |
-| Roman numerals: | IV | I |
-| functions: | S | T |
+| בס ממוספר: | 5/3 | 6/3 |
+| מספרים רומיים: | IV | I |
+| תפקידים: | S | T |
 
-This is essentially the first two stages of a Prinner. The latter two stages are often elided (cut away) in order to make room for a cadence pattern.
+אלה למעשה שני השלבים הראשונים של Prinner. לעיתים קרובות מושמטים שני השלבים האחרונים כדי לפנות מקום לתבנית קדנצה.
 
-Like the Prinner, the Passo Indietro has a "modulating version" (the first two stages of the Modulating Prinner).
+כמו Prinner, גם ל־Passo Indietro יש ״גרסה מודולטורית״: שני השלבים הראשונים של Prinner המודולטורית.
 
-| stage: | 1 | 2 |
+| שלב: | 1 | 2 |
 | -: | :-: | :-: | 
-| melody: | *mi* | *re* |
-| bass: | *do* | *ti* |
+| מלודיה: | *mi* | *re* |
+| בס: | *do* | *ti* |
 | | | | | |
-| thoroughbass: | 5/3 | 6/3 |
-| Roman numerals: | I | V |
+| בס ממוספר: | 5/3 | 6/3 |
+| מספרים רומיים: | I | V |
 
 
-# Cadences
+# קדנצות
 
-## The Simple PAC
+## קדנצה אותנטית מושלמת פשוטה (PAC)
 
-| stage: | 1 | 2 |
+| שלב: | 1 | 2 |
 | -: | :-: | :-: |
-| melody: | *re* | *do* |
-| bass: | *sol* | *do* |
+| מלודיה: | *re* | *do* |
+| בס: | *sol* | *do* |
 | | | |
-| thoroughbass: | (7) | 5/3 |
-| Roman numerals: | V | I |
-| functions: | D | T |
+| בס ממוספר: | (7) | 5/3 |
+| מספרים רומיים: | V | I |
+| תפקידים: | D | T |
 
-## The Simple IAC
+## קדנצה אותנטית בלתי מושלמת פשוטה (IAC)
 
-| stage: | 1 | 2 |
+| שלב: | 1 | 2 |
 | -: | :-: | :-: |
-| melody: | *fa* | *mi* |
-| bass: | *sol* | *do* |
+| מלודיה: | *fa* | *mi* |
+| בס: | *sol* | *do* |
 | | | |
-| thoroughbass: | 7 | 5/3 |
-| Roman numerals: | V | I |
-| functions: | D | T |
+| בס ממוספר: | 7 | 5/3 |
+| מספרים רומיים: | V | I |
+| תפקידים: | D | T |
 
-## The fa–fi–sol HC
+## חצי קדנצה עם fa–fi–sol בבס (HC)
 
-This is a common approach to a half cadence, especially at the end of a sonata movement's transition (TR) module. The definitive element is the bass line: *fa*–*fi*–*sol*. The *re*–*do*–*ti* melody is common, and the most active of the possibilities that fit the harmonies. See Mozart's K. 545, I., mm. 10–11, and K. 333, I., mm. 17–18, for examples.
+זו דרך נפוצה להגיע לחצי קדנצה, במיוחד בסוף יחידת המעבר (TR) בפרק בצורת סונטה. הרכיב המגדיר הוא קו הבס: *fa*–*fi*–*sol*. המלודיה *re*–*do*–*ti* נפוצה, והיא הפעילה ביותר מבין האפשרויות המתאימות להרמוניות. לדוגמאות ראו מוצרט K. 545, פרק ראשון, תיבות 10–11; וכן K. 333, פרק ראשון, תיבות 17–18.
 
-| stage: | 1 | 2 | 3 |
+| שלב: | 1 | 2 | 3 |
 | -: | :-: | :-: | :-: | 
-| melody: | *re* | *do* | *ti* |
-| bass: | *fa* | *fi* | *sol* |
+| מלודיה: | *re* | *do* | *ti* |
+| בס: | *fa* | *fi* | *sol* |
 | | | | |
-| thoroughbass: | 6/3 | 6/5 | (7) |
-| Roman numerals: | II | V/V | V |
-| functions: | S | S | D |
+| בס ממוספר: | 6/3 | 6/5 | (7) |
+| מספרים רומיים: | II | V/V | V |
+| תפקידים: | S | S | D |
 
-## The Compound PAC
+## קדנצה אותנטית מושלמת מורכבת (PAC)
 
-| stage: | 1 | 2 | 3 |
+| שלב: | 1 | 2 | 3 |
 | -: | :-: | :-: | :-: | 
-| melody: | *mi* | *re* | *do* |
-| bass: | *sol* | *sol* | *do* |
+| מלודיה: | *mi* | *re* | *do* |
+| בס: | *sol* | *sol* | *do* |
 | | | | |
-| thoroughbass: | (8)/6/4 | (7) | 5/3 |
-| Roman numerals: | Cad. | V | I |
-| functions: | D | D | T |
+| בס ממוספר: | (8)/6/4 | (7) | 5/3 |
+| מספרים רומיים: | Cad. | V | I |
+| תפקידים: | D | D | T |
 
-## The Compound IAC
+## קדנצה אותנטית בלתי מושלמת מורכבת (IAC)
 
-| stage: | 1 | 2 | 3 |
+| שלב: | 1 | 2 | 3 |
 | -: | :-: | :-: | :-: | 
-| melody: | *sol* | *fa* | *mi* |
-| bass: | *sol* | *sol* | *do* |
+| מלודיה: | *sol* | *fa* | *mi* |
+| בס: | *sol* | *sol* | *do* |
 | | | | |
-| thoroughbass: | 8/6/4 | 7 | 5/3 |
-| Roman numerals: | Cad. | V | I |
-| functions: | D | D | T |
+| בס ממוספר: | 8/6/4 | 7 | 5/3 |
+| מספרים רומיים: | Cad. | V | I |
+| תפקידים: | D | D | T |
 
-## The Compound HC
+## חצי קדנצה מורכבת (HC)
 
-| stage: | 1 | 2 |
+| שלב: | 1 | 2 |
 | -: | :-: | :-: |
-| melody: | *mi* | *re* |
-| bass: | *sol* | *sol* |
+| מלודיה: | *mi* | *re* |
+| בס: | *sol* | *sol* |
 | | | |
-| thoroughbass: | 6/4 | 5/3 |
-| Roman numerals: | Cad. | V |
-| functions: | D | D |
+| בס ממוספר: | 6/4 | 5/3 |
+| מספרים רומיים: | Cad. | V |
+| תפקידים: | D | D |
 
-(The Compound HC can be approached by any **S** chord, or even the end of the tonic prolongational zone.)
+(אפשר להגיע לחצי הקדנצה המורכבת מכל אקורד **S**, ואף מסיומו של אזור הארכת הטוניקה.)
 
-There are, of course, more cadence patterns than these, but these are the most straightforward for framing an improvisation, or a simple model composition. See [Classical cadence types](http://openmusictheory.com/cadenceTypes.html) for more details about standard cadential patterns.
+כמובן, קיימות תבניות קדנצה נוספות, אך אלה הישירות ביותר לבניית שלד לאלתור או לחיבור מודל פשוט. לפרטים נוספים על תבניות קדנצה מקובלות ראו [סוגי קדנצות קלאסיות](cadenceTypes.html).

@@ -51,25 +51,25 @@ translation_status: partial
 [צלילי נטייה ודיסוננסים הרמוניים פונקציונליים](tendencyTonesFunctionalDissonances.html)   
 [מימוש בס ממוספר בסגנון בס רציף קפדני — סרטון](TBDemo.html)
 
-[Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)   
-[Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)   
+[הולכת קולות מלודית בסגנון כלי מקלדת](melodicKeyboardStyle.html)<br>
+[סכמות להולכת קולות בסגנון כלי מקלדת](KBVLschemata.html)<br>
 [Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)   
 [Realizing an unfigured bass line (video).](unfiguredBass.html)
 
 [Embellishing tones.](embellishingTones.html)
 
-## Harmony
+## הרמוניה
 
-[Introduction to musical functions.](functions.html)   
-[Harmonic functions.](harmonicFunctions.html)   
-[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)   
-[Harmonic syntax - prolongation.](harmonicSyntax2.html)   
-[Performing a harmonic analysis.](harmonicAnalysis.html)
+[מבוא לתפקידים מוזיקליים](functions.html)<br>
+[תפקידים הרמוניים](harmonicFunctions.html)<br>
+[תחביר הרמוני — הפראזה האידאלית](harmonicSyntax1.html)<br>
+[תחביר הרמוני — הארכה](harmonicSyntax2.html)<br>
+[ביצוע ניתוח הרמוני](harmonicAnalysis.html)
 
-[Classical cadence types.](cadenceTypes.html)   
-[Chromatically altered subdominant chords.](alteredSubdominants.html)   
+[סוגי קדנצות קלאסיות](cadenceTypes.html)<br>
+[אקורדי סובדומיננטה משתנים כרומטית](alteredSubdominants.html)<br>
 [Applied chords.](appliedChords.html)   
-[Modal mixture.](modalMixture.html)   
+[עירוב מודאלי](modalMixture.html)<br>
 [Modulation.](Modulation.html)
 
 #### Handouts and charts
@@ -121,12 +121,12 @@ translation_status: partial
 
 [Minuet form.](minuet.html)
 
-### Galant Schemata
+### סכמות בסגנון הגלנט
 
-[Galant schemata – opens and closes.](schemataOpensAndCloses.html)  
-[Galant Schemata – continuation patterns.](schemataContinuationPatterns.html)  
-[Galant schemata – summary.](schemataSummary.html)   
-[Improvising a sentence with galant schemata.](schemata-improv.html)
+[סכמות בסגנון הגלנט — פתיחות וסיומים](schemataOpensAndCloses.html)<br>
+[סכמות בסגנון הגלנט — תבניות המשך](schemataContinuationPatterns.html)<br>
+[סכמות בסגנון הגלנט — סיכום](schemataSummary.html)<br>
+[אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט](schemata-improv.html)
 
 ## Post-tonal music
 
@@ -176,7 +176,7 @@ Tranpositional Symmetry.
 
 [Syncopation in pop/rock music.](syncopation.html)
 
-### Harmony
+### הרמוניה
 
 [Harmony in pop/rock music.](popRockHarmony.html)   
 [The “50s doo-wop” progression.](popRockHarmony-dooWop.html)   

@@ -1,43 +1,46 @@
 ---
 layout: post
-title: Galant Schemata – continuation patterns
+title: "סכמות בסגנון הגלנט — תבניות המשך"
+language: he
+translation_status: language-reviewed
+translation_batch: 4
 ---
 
-The three schema below were described first by the eighteenth-century theorist Joseph Riepel. They are ["continuation patterns"](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html), often found after the first double bar in a minuet. The "Fonte" and "Monte" are both sequential, the "Ponte" is a way of extending a harmony.
+שלוש הסכמות שלהלן תוארו לראשונה בידי התאורטיקן בן המאה השמונה־עשרה Joseph Riepel. אלה [תבניות המשך (continuation patterns)](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert.html), המופיעות לעיתים קרובות אחרי קו התיבה הכפול הראשון במינואט. Fonte ו־Monte הן תבניות סקוונציאליות; Ponte היא דרך להאריך הרמוניה.
 
+## Fonte
 
-# Fonte #
+*Fonte* — באיטלקית ״מזרקה״ או ״באר״; חשבו על ירידה — היא תבנית נפוצה לפתיחת *החלק האמצעי המנוגד* בצורה תלת־חלקית קטנה. כלומר, היא מופיעה אחרי קו התיבה הכפול במינואט, בטריו של מינואט או בנושא בצורה דו־חלקית מעוגלת. Fonte היא סכמה של *מודל וסקוונצה* (model/sequence): תבנית בת שתי תיבות חוזרת מיד, דרגה אחת מתחת למקור.
 
-A *Fonte* (It. for "fountain" or "well"—think *going down*) is a common pattern to begin the *contrasting middle* of a small ternary form. In other words, it follows the double-bar in a minuet, minuet trio, or rounded-binary theme. A Fonte is a *model/sequence* schema: a two-bar pattern is immediately repeated one step lower than the original.
+[![סכמת Fonte: מודל וחזרה בדרגה נמוכה יותר]({{ site.url }}/Graphics/form/fonte.png)]({{ site.url }}/Graphics/form/fonte.png)
 
-[![]({{ site.url }}/Graphics/form/fonte.png)]({{ site.url }}/Graphics/form/fonte.png)
+מבחינה הרמונית, היחידה הראשונה בת שתי התיבות — *המודל* — כוללת שני אקורדים, אחד בכל תיבה: דומיננטה שניונית והאקורד העובר טוניקיזציה, שאליו היא מכוונת. תבנית האקורדים הנפוצה ביותר למודל של Fonte היא **D7/II T1/II** *ביחס לטונליות הראשית*, כאשר **D7** הוא אקורד סקסטה ו־**T1** הוא אקורד קווינטה. אפשריים גם ״היפוכים״ אחרים, למשל **D4/II T3/II**. כאשר המודל פורש את **D7/II II**, הסקוונצה מטרנספזת אותו מטה אל הטוניקה: **D7 T1** *של הטונליות הראשית*.
 
-Harmonically, the first two-bar unit (the *model*) contains two chords, one per bar: an applied dominant chord, and the tonicized chord to which the applied dominant points. The most common chord pattern for the Fonte's model is **D7/II T1/II** *of the home key*, with the **D7** being a chord of the sixth and the **T1** being a chord of the fifth. (Other "inversions" are possible, such as **D4/II T3/II**.) When the model composes out **D7/II II**, the sequence will transpose it down to tonic: **D7 T1** *of the home key*.
+למשל, ניתוח לפי תפקידי הבס של Fonte אופיינית בצורה תלת־חלקית קטנה, שטונליותה הראשית G מז׳ור, נראה כך:
 
-As an example, the functional-bass analysis of a typical Fonte in a small ternary whose home key is G major looks like:
+[![ניתוח Fonte בדוגמה מתוך היידן בטונליות G מז׳ור]({{ site.url }}/Graphics/form/Haydn27fonteAnnotated.png)]({{ site.url }}/Graphics/form/Haydn27fonteAnnotated.png)
 
-[![]({{ site.url }}/Graphics/form/Haydn27fonteAnnotated.png)]({{ site.url }}/Graphics/form/Haydn27fonteAnnotated.png)
+שימו לב למהלכים שאינם קדנציאליים, **D7–T1**. בדרך כלל היה צריך לפרש מהלכים כאלה כמאריכים תפקיד טונלי — כלומר, תפקיד טוניקה — אך כאן פירוש כזה יהיה קשה. סכמות כוללות לעיתים קרובות מהלכים כאלה. נתחו כל אקורד בפני עצמו וציינו את הסכמה, במקום לנסות לפרש את המהלכים כמאריכים. אכן, הם אינם מהלכי הארכה.
 
-Note the non-cadential progressions, **D7–T1**. Normally such progressions would need to be interpreted as prolonging a tonal function (i.e., tonic function), which would be difficult to interpret here. Schemata often contain such progressions. Simply analyze the chords individually and label the schema, rather than trying to interpret these progressions as prolongational. (Indeed, they are not.)
+מודל נפוץ למינואט הכולל Fonte הוא:
 
-A common model for a minuet containing a Fonte is as follows:
+<div dir="ltr">||: EXPOSITION ending with V:PAC :||: Fonte - phrase ending with I:HC – RECAPITULATION :||</div>
 
-||: EXPOSITION ending with V:PAC :||: Fonte - phrase ending with I:HC – RECAPITULATION :||
+> **הערת המהדורה העברית — מקרא לתרשים:** אקספוזיציה המסתיימת בקדנצה אותנטית מושלמת בטונליות הדומיננטה; Fonte ופראזה המסתיימת בחצי קדנצה בטונליות הראשית; רפריזה. סימני החזרה והסימונים הטונליים נשמרו בתרשים המקורי.
 
-The Fonte is a quick and easy way for a composer to transition from the key of the dominant (where a major-key minuet's exposition cadences immediately before the double-bar) to the key of the tonic. It will usually be followed by a phrase that stands on or moves to the dominant of the home key. The half cadence or *dominant arrival* at the end of that phrase will prepare for the return to the opening material in the home key, the *recapitulation* of the minuet or small ternary.
+Fonte היא דרך מהירה ופשוטה לעבור מטונליות הדומיננטה — שבה האקספוזיציה של מינואט במז׳ור מגיעה לקדנצה מיד לפני קו התיבה הכפול — אל טונליות הטוניקה. אחריה תבוא בדרך כלל פראזה המתעכבת על הדומיננטה של הטונליות הראשית או נעה אליה. חצי הקדנצה או *ההגעה לדומיננטה* בסוף הפראזה יכינו את חזרת החומר הפותח בטונליות הראשית: *הרפריזה* של המינואט או הצורה התלת־חלקית הקטנה.
 
-# Monte #
+## Monte
 
-A *Monte* (It. for "mountain"—think *going up*) functions similarly to a Fonte. It typically occurs as part of the *contrasting middle* section of a minuet or other small ternary, it is a model/sequence schema, and it involves an applied chord resolving to a tonicized chord—typically a **D7 T1** pattern. The difference is that where a Fonte goes *down* (**D7/II T1/II D7 T1**), a Monte goes *up* (**D7/IV T1/IV D7/V T1/V**). And where a Fonte is almost exclusively four bars long (one model followed by one transposed repetition), a Monte sometimes extends to six or more bars (one model followed by one *or more* transposed repetitions).
+*Monte* — באיטלקית ״הר״; חשבו על עלייה — פועלת באופן דומה ל־Fonte. היא מופיעה בדרך כלל בחלק האמצעי המנוגד של מינואט או של צורה תלת־חלקית קטנה אחרת. זו סכמה של מודל וסקוונצה, ובה אקורד שניוני הנפתר אל אקורד העובר טוניקיזציה, בדרך כלל בתבנית **D7 T1**. ההבדל הוא ש־Fonte יורדת — **D7/II T1/II D7 T1** — ואילו Monte עולה — **D7/IV T1/IV D7/V T1/V**. נוסף על כך, Fonte נמשכת כמעט תמיד ארבע תיבות: מודל וחזרה אחת בטרנספוזיציה. Monte מתארכת לעיתים לשש תיבות או יותר: מודל וחזרה אחת *או יותר* בטרנספוזיציה.
 
-[![]({{ site.url }}/Graphics/form/monte.png)]({{ site.url }}/Graphics/form/monte.png)
+[![סכמת Monte: מודל וחזרה בדרגה גבוהה יותר]({{ site.url }}/Graphics/form/monte.png)]({{ site.url }}/Graphics/form/monte.png)
 
-# Ponte #
+## Ponte
 
-A *Ponte* (It. for "bridge") was another common schema for the *contrasting middle* of a minuet. Unlike the Fonte and the Monte, the Ponte need not be a model/sequence schema. It effects *delay* rather than *motion*. A Ponte typically functions like what Caplin calls *standing on the dominant*. The exposition of the major-key minuet will end with a PAC in the dominant of the home key. When a Ponte follows that cadence, it holds onto that **T1/V**, heightens tension melodically, and often adds a seventh to the chord (making it D5 of the home key). A passage built on a Ponte does not have a cadence, since there is no harmonic progression, but instead ends with a punctuated dominant chord in the home key, which Caplin calls a *dominant arrival* rather than a half cadence. This dominant arrival prepares the return of the home key and the opening basic idea that come at the minuet's recapitulation.
+*Ponte* — באיטלקית ״גשר״ — הייתה סכמה נפוצה נוספת לחלק האמצעי המנוגד של מינואט. שלא כמו Fonte ו־Monte, היא אינה חייבת להיות סכמה של מודל וסקוונצה. היא יוצרת *עיכוב* ולא *תנועה*. Ponte פועלת בדרך כלל בדומה למה ש־Caplin מכנה *התעכבות על הדומיננטה* (standing on the dominant). האקספוזיציה של מינואט במז׳ור תסתיים בקדנצה אותנטית מושלמת בטונליות הדומיננטה של הטונליות הראשית. כאשר Ponte באה אחרי קדנצה זו, היא ממשיכה להחזיק ב־**T1/V**, מגבירה את המתח המלודי, ולעיתים קרובות מוסיפה ספטימה לאקורד, וכך הופכת אותו ל־D5 של הטונליות הראשית. לקטע הבנוי על Ponte אין קדנצה, משום שאין בו מהלך הרמוני. במקום זאת הוא מסתיים באקורד דומיננטה מודגש בטונליות הראשית; Caplin מכנה זאת *הגעה לדומיננטה* (dominant arrival), ולא חצי קדנצה. הגעה זו מכינה את חזרת הטונליות הראשית והרעיון הבסיסי הפותח ברפריזה של המינואט.
 
-
-# References #
+## מקורות
 
 Caplin, William. *Classical Form*. Oxford University Press, 2000.
 

@@ -1,24 +1,25 @@
 ---
 layout: post
-title: Modal mixture
+title: "עירוב מודאלי"
+language: he
+translation_status: language-reviewed
+translation_batch: 7
 ---
 
-*Modal mixture* (also called *modal borrowing*) refers to the use of chords belonging to a parallel key—for example, a passage in F major incorporating one or more chords from F minor. Note that, like with the use of applied chords, this does not necessarily constitute modulation. Only a cadence can confirm a new key. Without a cadence in a new key, the non-diatonic chords are simply "borrowed."
+*עירוב מודאלי* (modal mixture), המכונה גם *שאילה מודאלית* (modal borrowing), הוא שימוש באקורדים השייכים לסולם בעל אותה טוניקה: למשל, קטע ב־F מז׳ור הכולל אקורד אחד או יותר מ־F מינור. כמו בשימוש באקורדים שניוניים, אין בכך בהכרח מודולציה. רק קדנצה יכולה לאשר טונליות חדשה. ללא קדנצה בטונליות חדשה, האקורדים הלא־דיאטוניים פשוט ״שאולים״.
 
-Note that the use of the leading-tone in place of the subtonic, or a melodic-minor figure (*sol–la–ti–do*) in a minor key does *not* constitute modal mixture. Those are considered "native" to the minor mode.
+שימו לב ששימוש בצליל המוביל במקום בסובטוניקה, או בתבנית מינור מלודי — *sol–la–ti–do* — בטונליות מינורית *אינו* עירוב מודאלי. אלה נחשבים רכיבים השייכים למינור עצמו.
 
+## סימון במספרים רומיים
 
-## Roman numeral notation
+כאשר שורש האקורד השאול שייך לטונליות הראשית, למשל E מינור במקום E מז׳ור, המספר הרומי נשאר זהה, משום שהוא מייצג רק את דרגת הסולם של שורש האקורד. אם איכות האקורד מוצגת באמצעות המספר הרומי, יש לשנות את הסימון כך שישקף את איכות האקורד השאול. למשל, אם יצירה במינור מסתיימת ב*טרצה פיקרדית* (Picardy third) — אקורד טוניקה משולש מז׳ורי — המספר הרומי הוא **I** במקום **i**. גם ספרות הבס הממוספר משתנות כדי לשקף את השינוי הכרומטי.
 
-When the root of a borrowed chord belongs to the home key (e.g., using an E-minor chord instead of an E-major chord), the Roman numeral remains the same, since the Roman numeral simply represents the scale-degree of the chordal root. If chord quality is reflected in the Roman numeral, then adjustments must be made to ensure that the borrowed chord's quality is reflected. For example, if a piece in minor ends with a *Picardy third* (a major tonic triad), the Roman numeral is **I** instead of **i**. (The thoroughbass will also be altered to reflect the chromatic change.)
+אם השורש משתנה ביחס לטונליות הראשית, הניחו במול או דיאז לפני המספר הרומי לציון השינוי: במול מציין הנמכה בחצי טון לעומת הדרגה הרגילה, ודיאז מציין הגבהה בחצי טון. למשל, אקורד *le–do–me* בטונליות מז׳ורית הוא **&#9837;VI**. שוב, שנו גם את ספרות הבס הממוספר לפי הצורך.
 
-If the root is altered relative to the home key, use a flat or sharp in front of the Roman numeral to designate the alteration: flat to designate *lowered* (that is, a semitone below normal), sharp to designate *raised* (a semitone above normal). For example, a *le–do–me* chord in a major key is **&#9837;VI**. (Again, alter the thoroughbass as necessary.)
+## סימון בבס פונקציונלי
 
+אקורדים השאולים מסולמות בעלי אותה טוניקה הם אקורדים המשתנים כרומטית, ולכן יש להקיף את סימוני הבס הפונקציונלי שלהם בסוגריים מרובעים. למשל, אם אקורד **S4** במז׳ור שאול מן המינור בעל אותה טוניקה — *fa–le–do* במקום *fa–la–do* — הסימון הוא **\[S4\]**, ולא **S4**. אם צליל הבס אינו משתנה, זהו השינוי היחיד בסימון הבס הפונקציונלי; אך זכרו לשנות גם את ספרות הבס הממוספר.
 
-## Functional bass notation 
+אם צליל הבס משתנה כרומטית, יש לשקף זאת בסימן פלוס או מינוס לפני הספרה, נוסף על הסוגריים המרובעים. למשל, אם קטע במז׳ור כולל אקורד 5/3 מעל *le* — *le–do–me* במקום *la–do–mi* — הסימון הוא **\[Tx–6\]**.
 
-Chords borrowed from parallel keys are chromatically altered chords, and therefore their functional bass symbols should be enclosed in square brackets. For example, if an **S4** chord in major is borrowed from the parallel minor (*fa–le–do* instead of *fa–la–do*), the functional bass symbol is **\[S4\]** not **S4**. If the bass note is not altered, this is the only change to the functional bass (but be sure to alter the thoroughbass figure as well).
-
-If the bass note is chromatically altered, that must be reflected in the functional bass with a plus or minus before the numeral (as well as the square brackets). For example, if a passage in a major key incorporates a 5/3 chord over *le* (*le–do–me* instead of *la–do–mi*), the functional bass is **\[Tx–6\]**.
-
-
+> **הערת המהדורה העברית:** המילה parallel במקור מציינת כאן סולמות בעלי אותה טוניקה, כגון F מז׳ור ו־F מינור; אין הכוונה לסולמות יחסיים בעלי סימני סולם משותפים. תנאי אישור הטונליות בקדנצה נשמר כשיטת הספר.

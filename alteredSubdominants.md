@@ -1,81 +1,85 @@
 ---
 layout: post
-title: Chromatically altered subdominant chords
+title: "אקורדי סובדומיננטה משתנים כרומטית"
+language: he
+translation_status: language-reviewed
+translation_batch: 7
 ---
 
-The most common chromatically altered subdominant chords (aside from the applied dominant of V) are the *Neapolitan chord* and the various *augmented-sixth chords*. 
+אקורדי הסובדומיננטה המשתנים כרומטית הנפוצים ביותר, מלבד הדומיננטה השניונית של V, הם *האקורד הנפוליטני* ואקורדי *הסקסטה המוגדלת* לסוגיהם.
 
-<img src="Graphics/N-AugSixths.png" alt="Neapolitan chord and augmented sixth chords, as described below, notated on a staff in basso-continuo style in G minor or major." style="width: 75%; display: block; margin: auto;" />
+<img src="Graphics/N-AugSixths.png" alt="נפוליטני ואקורדי סקסטה מוגדלת ב־G מינור או מז׳ור" style="width: 75%; display: block; margin: auto;" />
 
-## Neapolitan chord
+## האקורד הנפוליטני
 
-The Neapolitan chord contains lowered scale-degree 2, along with scale-degree 4, and lowered scale-degree 6: *ra*, *fa*, and *le*. It is a major triad, and it usually appears with *fa* in the bass (first-inversion), which is also doubled in a four-voice texture. 
+*האקורד הנפוליטני* (Neapolitan chord) כולל דרגה 2 מונמכת, דרגה 4 ודרגה 6 מונמכת: *ra*, *fa* ו־*le*. זהו אקורד משולש מז׳ורי, והוא מופיע בדרך כלל עם *fa* בבס, כלומר בהיפוך ראשון. במרקם ארבעה קולות *fa* מוכפל גם הוא.
 
-In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Roman numeral (that is, it is not labeled a flat-II chord in classical music). As a chromatically altered subdominant chord, it always expresses subominant function (**S**).
+בניתוח במספרים רומיים משתמשים ב־**N.** או ב־**N.<sup>6</sup>** במקום מספר רומי. כלומר, בשיטת הניתוח הקלאסית המתוארת כאן הוא אינו מסומן כאקורד II במול. כאקורד סובדומיננטה משתנה כרומטית הוא מבטא תמיד תפקיד סובדומיננטה, **S**.
 
-In a functional bass analysis, **N.** is placed below the functional designation of **[S4]**.
+בניתוח בס פונקציונלי מציבים **N.** מתחת לסימון **[S4]**.
 
-Several prominent Neapolitan chords occur in "Der Müller und der Bach" from Schubert's song cycle, *Die schöne Müllerin* (song no. 19). On the score below (mm. 7–10 of the song), the tonic triad (G minor) is followed by a Neapolitan, then a dominant-seventh chord, and then tonic: T – S – D – T.
+כמה אקורדים נפוליטניים בולטים מופיעים בשיר ״Der Müller und der Bach״ מתוך מחזור השירים של שוברט *Die schöne Müllerin*, שיר מס׳ 19. בתווים שלהלן, תיבות 7–10, מופיע אקורד הטוניקה המשולש ב־G מינור, ואחריו נפוליטני, אקורד ספטימה דומיננטי וטוניקה: T – S – D – T.
 
-<img src="Graphics/DMUDB.png" alt="Neapolitan chord in mm. 7–10 of Schubert's Der Müller und der Bach." style="width: 75%; display: block; margin: auto;" />
+<img src="Graphics/DMUDB.png" alt="נפוליטני בשוברט, תיבות 7–10" style="width: 75%; display: block; margin: auto;" />
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="הקלטת הדוגמה לאקורד כרומטי 1" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-## Augmented-sixth chords
+## אקורדי סקסטה מוגדלת
 
-Augmented-sixth chords are so named because of the augmented sixth that occurs between *le* and *fi*, two scale-degrees that are present in every augmented-sixth chord. The other pitch(es) in the chord determine which kind of augmented-sixth chord is present. 
+אקורדי סקסטה מוגדלת (augmented-sixth chords) נקראים על שם הסקסטה המוגדלת שבין *le* ל־*fi*, שתי דרגות המופיעות בכל אקורד מסוג זה. הצלילים הנוספים קובעים איזה סוג של אקורד סקסטה מוגדלת מתקבל.
 
-### Italian augmented-sixth chord
+### סקסטה מוגדלת איטלקית
 
-The *Italian augmented-sixth chord* is the simplest augmented-sixth chord, with only three members: *le*, *do*, and *fi*. *Le* is typically the bass note, and in a four-voice texture, *do* is typically the pitch that is doubled. (Keep in mind that you do not double the bass in a chord of the sixth, nor a chromatically altered tone such as *fi*. Thus, *do* remains as the only tone that can be doubled in strict style, and this doubling typically carries into freer styles, as well.)
+*אקורד סקסטה מוגדלת איטלקית* (Italian augmented-sixth chord) הוא הפשוט ביותר במשפחה, ובו שלושה צלילים בלבד: *le*, *do* ו־*fi*. בדרך כלל *le* הוא צליל הבס, ובארבעה קולות מוכפל בדרך כלל *do*. זכרו שבאקורד סקסטה אין מכפילים את הבס, ואף לא צליל משתנה כרומטית כגון *fi*. לכן *do* הוא היחיד שאפשר להכפיל בסגנון הקפדני; ההכפלה הזאת ממשיכה בדרך כלל גם לסגנונות חופשיים יותר.
 
-In a Roman numeral analysis, **It.** replaces a Roman numeral. The figured bass is a simple slashed "6." It expresses subdominant function **S**).
+בניתוח במספרים רומיים משתמשים ב־**It.** במקום מספר רומי. סימון הבס הממוספר הוא 6 פשוט עם קו חוצה. האקורד מבטא תפקיד סובדומיננטה, **S**.
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**
+כאשר *le* בבס, הסימון הפונקציונלי הוא **[S6]**, ומתחתיו מוסיפים **It.**
 
-The following example is from Beethoven's Bagatelle, Op. 119, No. 1, mm. 1–4. In m. 3, the Italian augmented-sixth chord falls on beat 3, immediately before the dominant chord.
+הדוגמה הבאה לקוחה מן הבגטלה של בטהובן אופ׳ 119 מס׳ 1, תיבות 1–4. בתיבה 3 אקורד הסקסטה האיטלקית מופיע בפעימה השלישית, מיד לפני אקורד הדומיננטה.
 
-<img src="Graphics/Op119-1.png" alt="Italian augmented-sixth chord in mm. 1–4 of Beethoven's Op. 119, No. 1." style="width: 75%; display: block; margin: auto;" />
+<img src="Graphics/Op119-1.png" alt="סקסטה איטלקית בבטהובן אופ׳ 119 מס׳ 1" style="width: 75%; display: block; margin: auto;" />
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="הקלטת הדוגמה לאקורד כרומטי 2" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-### French augmented-sixth chord
+### סקסטה מוגדלת צרפתית
 
-The *French augmented-sixth chord* has four members: *le*, *do*, *re*, and *fi*. As in the Italian sixth, *le* is typically the bass note.
+*אקורד סקסטה מוגדלת צרפתית* (French augmented-sixth chord) כולל ארבעה צלילים: *le*, *do*, *re* ו־*fi*. כמו באיטלקית, *le* הוא בדרך כלל צליל הבס.
 
-In a Roman numeral analysis, **Fr.** replaces a Roman numeral. The figured bass is a slashed "6" with a "4" and a "3." It expresses subdominant function **S**).
+בניתוח במספרים רומיים משתמשים ב־**Fr.** במקום מספר רומי. סימון הבס הממוספר הוא 6 עם קו חוצה, וכן 4 ו־3. האקורד מבטא תפקיד סובדומיננטה, **S**.
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Fr.**
+כאשר *le* בבס, הסימון הפונקציונלי הוא **[S6]**, ומתחתיו מוסיפים **Fr.**
 
-The following example is from Mozart's String Quartet, "Dissonance," K. 465, iv., mm. 10–16. The French augmented-sixth chord occurs on beat 2 of m. 14. In this passage, a "milder" subdominant chord (**IV<sup>6</sup>**) progresses to the more intense French sixth, which progresses into the cadential 6/4 before the final **V–I.**
- 
-<img src="Graphics/K465-iv.png" alt="French augmented-sixth chord in mm. 10–16 of Mozart's String Quartet, K. 465, iv." style="width: 75%; display: block; margin: auto;" />
+הדוגמה הבאה לקוחה מרביעיית המיתרים ״הדיסוננסים״ של מוצרט, K. 465, פרק רביעי, תיבות 10–16. אקורד הסקסטה הצרפתית מופיע בפעימה השנייה של תיבה 14. כאן אקורד סובדומיננטה ״מתון״ יותר, **IV<sup>6</sup>**, מתקדם אל הסקסטה הצרפתית המתוחה יותר, ומשם אל שש־ארבע קדנציאלי לפני **V–I.** האחרון.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<img src="Graphics/K465-iv.png" alt="סקסטה צרפתית במוצרט K. 465, פרק רביעי" style="width: 75%; display: block; margin: auto;" />
 
-### German augmented-sixth chord
+<iframe title="הקלטת הדוגמה לאקורד כרומטי 3" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The *German augmented-sixth chord* has four members: *le*, *do*, *me*, and *fi*. As in the other augmented sixth chords, *le* is typically the bass note.
+### סקסטה מוגדלת גרמנית
 
-In a Roman numeral analysis, **Ger.** replaces a Roman numeral. The figured bass is a slashed "6" with a "5." It expresses subdominant function **S**).
+*אקורד סקסטה מוגדלת גרמנית* (German augmented-sixth chord) כולל ארבעה צלילים: *le*, *do*, *me* ו־*fi*. כמו בשאר הסוגים, *le* הוא בדרך כלל צליל הבס.
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Ger.**
+בניתוח במספרים רומיים משתמשים ב־**Ger.** במקום מספר רומי. סימון הבס הממוספר הוא 6 עם קו חוצה ו־5. האקורד מבטא תפקיד סובדומיננטה, **S**.
 
-The German sixth is almost always used in minor and followed by a cadential 6/4 chord, with *me* and *do* carrying over into the cadential 6/4. 
+כאשר *le* בבס, הסימון הפונקציונלי הוא **[S6]**, ומתחתיו מוסיפים **Ger.**
 
-In Beethoven's Piano Sonata in E Major, Op. 109, iii., a German augmented-sixth chord occurs on the last beat of m. 7 and carries over into m. 8 before releasing tension into the half cadence at the end of m. 8.
+הסקסטה הגרמנית מופיעה כמעט תמיד במינור וממשיכה לשש־ארבע קדנציאלי, כאשר *me* ו־*do* נשמרים אל תוך שש־ארבע.
 
-<img src="Graphics/Op109-iii.png" alt="German augmented-sixth chord in mm. 1–8 of Beethoven's Piano Sonata, Op. 109, iii." style="width: 75%; display: block; margin: auto;" />
+בסונטת הפסנתר של בטהובן ב־E מז׳ור, אופ׳ 109, פרק שלישי, אקורד סקסטה גרמנית מופיע בפעימה האחרונה של תיבה 7 ונמשך אל תיבה 8, לפני שחרור המתח בחצי הקדנצה שבסופה.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<img src="Graphics/Op109-iii.png" alt="סקסטה גרמנית בבטהובן אופ׳ 109, פרק שלישי" style="width: 75%; display: block; margin: auto;" />
 
-### Swiss augmented-sixth chord
+<iframe title="הקלטת הדוגמה לאקורד כרומטי 4" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The *Swiss augmented-sixth chord* has four members: *le*, *do*, *ri*, and *fi*. This chord is named "Swiss" because it sounds German but is spelled like the French. (*ri* in place of *me*) (Switzerland has a mixture of German-, French-, Italian-, and Romansch-based languages, with German and French being the largest.) *Le* is typically the bass note.
+### סקסטה מוגדלת שווייצרית
 
-In a Roman numeral analysis, **Sw.** replaces a Roman numeral. The figured bass is a slashed "6" with a slashed "4" and a "3." It expresses subdominant function **S**).
+*אקורד סקסטה מוגדלת שווייצרית* (Swiss augmented-sixth chord) כולל ארבעה צלילים: *le*, *do*, *ri* ו־*fi*. הוא נקרא ״שווייצרי״ מפני שהוא נשמע כגרמני אך מאוית בדומה לצרפתי: *ri* במקום *me*. בשווייץ מתקיימות יחד שפות המבוססות על גרמנית, צרפתית, איטלקית ורומאנש, כאשר גרמנית וצרפתית הן הגדולות שבהן. *Le* הוא בדרך כלל צליל הבס.
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Sw.**
+בניתוח במספרים רומיים משתמשים ב־**Sw.** במקום מספר רומי. סימון הבס הממוספר הוא 6 עם קו חוצה, 4 עם קו חוצה ו־3. האקורד מבטא תפקיד סובדומיננטה, **S**.
 
-Like the German sixth, the Swiss augmented-sixth is almost always followed by a cadential 6/4 chord. However, the Swiss chord tends to appear in major keys, with *ri* proceeding to *mi* and *do* carrying over into the cadential 6/4. 
+כאשר *le* בבס, הסימון הפונקציונלי הוא **[S6]**, ומתחתיו מוסיפים **Sw.**
 
+כמו הסקסטה הגרמנית, השווייצרית ממשיכה כמעט תמיד לשש־ארבע קדנציאלי. עם זאת, היא נוטה להופיע במז׳ור, כאשר *ri* מתקדם אל *mi* ו־*do* נשמר אל תוך שש־ארבע.
+
+> **הערת המהדורה העברית:** ra, le, fi ו־ri הן הברות כרומטיות של דו נייד ונשמרות בלטינית כדי למנוע החלפה בתווים מוחלטים. הסימונים N., It., Fr., Ger. ו־Sw. ושיוכם ל־S הם מוסכמות המקור; אין להסיק שאין שיטות סימון אחרות. המילים ״כמעט תמיד״ נשמרו ואינן הופכות לאיסור.

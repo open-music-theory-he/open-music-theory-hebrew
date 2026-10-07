@@ -1,19 +1,22 @@
 ---
 layout: post
-title: Melodic keyboard-style voice-leading
+title: "הולכת קולות מלודית בסגנון כלי מקלדת"
+language: he
+translation_status: language-reviewed
+translation_batch: 4
 ---
 
-Strict melodic keyboard-style voice-leading involves the composition of two primary musical lines—the melody and the bass line. The inner voices are secondary and serve largely as harmonic "filler." *All principles of good basso continuo voice-leading hold* for melodic keyboard-style writing. However, because of the inclusion of a melody, several additional principles of composition must be observed.
+הולכת קולות מלודית קפדנית בסגנון כלי מקלדת (melodic keyboard-style voice-leading) כוללת חיבור של שני קווים מוזיקליים עיקריים — המלודיה וקו הבס. הקולות הפנימיים משניים ומשמשים בעיקר למילוי הרמוני. *כל עקרונות הולכת הקולות הטובה בבס רציף חלים* גם על כתיבה מלודית בסגנון כלי מקלדת. עם זאת, מאחר שנכללת מלודיה, יש להקפיד על כמה עקרונות חיבור נוספים.
 
-The *outer voices* (melody and bass) draw the most attention, and therefore they should make good counterpoint with each other. The melody should largely follow the principles of composing a cantus firmus or a first-species counterpoint line. In a strict keyboard-style melody that means:
+*הקולות החיצוניים* — המלודיה והבס — מושכים את עיקר תשומת הלב, ולכן עליהם ליצור קונטרפונקט טוב זה עם זה. המלודיה צריכה לפעול בעיקר לפי עקרונות חיבור קנטוס פירמוס או קו קונטרפונקט מן הסוג הראשון. במלודיה קפדנית בסגנון כלי מקלדת פירוש הדבר הוא:
 
-- The melody should begin on a member of the tonic triad.  
-- The melody should end on *do*.  
-- The melody should have a single climax and good, smooth shape.  
-- The melody should be "singable" (even though it will be played on the keyboard).  
+- המלודיה צריכה להתחיל בצליל השייך לאקורד המשולש של הטוניקה.
+- המלודיה צריכה להסתיים בדו היחסי (*do*).
+- למלודיה צריכה להיות נקודת שיא אחת ומתאר טוב וחלק.
+- המלודיה צריכה להיות ניתנת לשירה, אף שהיא מיועדת לנגינה בכלי מקלדת.
 
-These melodic constraints may make following the *law of the shortest way* and contrary/oblique motion with the bass difficult, and at times impossible. When that happens, keep the voice motion as smooth (and playable) as possible, and be very careful not to compose voice-leading errors such as forbidden parallels.
+מגבלות מלודיות אלה עלולות להקשות על יישום *חוק הדרך הקצרה ביותר* ועל תנועה מנוגדת או תנועה שבה קול אחד נשאר במקומו ביחס לבס, ולעיתים אף למנוע זאת. במקרים כאלה יש לשמור על תנועת קולות חלקה ונוחה לנגינה ככל האפשר, ולהיזהר במיוחד משגיאות בהולכת קולות, כגון מקבילות אסורות.
 
-In general, if you follow the figures, double the correct chord tone, move the upper voices as little as possible and in contrary or oblique motion to the bass, and take special care when the melody makes the latter impossible, your voice leading will sound smooth and will be fairly easy to perform. Those are the goals of strict keyboard-style voice-leading.
+באופן כללי, אם תפעלו לפי הספרות, תכפילו את צליל האקורד המתאים, תניעו את הקולות העליונים מעט ככל האפשר ובתנועה מנוגדת או בתנועה שבה קול אחד נשאר במקומו ביחס לבס, ותקפידו במיוחד כאשר המלודיה מונעת את סוגי התנועה האלה, הולכת הקולות תישמע חלקה ותהיה קלה למדי לביצוע. אלה מטרותיה של הולכת קולות קפדנית בסגנון כלי מקלדת.
 
-A number of specific situations come up frequently enough that they are worth tucking away as "stock patterns" to be pulled out when appropriate. See the [Keyboard-style voice-leading schemata](KBVLschemata.html) resource.
+כמה מצבים מסוימים חוזרים לעיתים קרובות מספיק כדי שכדאי לזכור אותם כתבניות מוכנות לשימוש בעת הצורך. ראו את עמוד העזר [סכמות להולכת קולות בסגנון כלי מקלדת](KBVLschemata.html).

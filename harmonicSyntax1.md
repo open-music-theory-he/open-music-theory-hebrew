@@ -1,63 +1,64 @@
 ---
 layout: post
-title: Harmonic syntax - the idealized phrase
+title: "תחביר הרמוני — הפראזה האידאלית"
+language: he
+translation_status: language-reviewed
+translation_batch: 5
 ---
 
-*Harmonic syntax* concerns the norms or principles according to which harmonies (chords) are placed into meaningful successions. These norms include progressions that are more or less common than others. Those norms generate expectations for listeners familiar with the style: if **IV–V** is more common than **IV–VI**, the appearance of a **IV** chord generates an expectation that the next chord is more likely to be **V** than it is to be **VI**.
+*תחביר הרמוני* (harmonic syntax) עוסק בנורמות או בעקרונות שלפיהם הרמוניות — אקורדים — מסודרות ברצפים בעלי משמעות. הנורמות כוללות מהלכים נפוצים יותר ופחות. הן יוצרות ציפיות אצל מאזינים המכירים את הסגנון: אם **IV–V** נפוץ יותר מ־**IV–VI**, הופעת אקורד **IV** יוצרת ציפייה שהאקורד הבא יהיה בסבירות גבוהה יותר **V** מאשר **VI**.
 
-In Western classical music, harmonies generally group into three *harmonic functions* — tonic (T), subdominant (S), and dominant (D) — and these functions group together chords that progress to and from other chords in similar ways. For example, since **II** and **IV** are both subdominant chords, they will participate in many of the same kinds of chord progressions, and at times can be substituted for each other with only a minimal change to the musical effect.
+במוזיקה הקלאסית המערבית הרמוניות מתקבצות בדרך כלל בשלושה *תפקידים הרמוניים*: טוניקה (T), סובדומיננטה (S) ודומיננטה (D). כל תפקיד מקבץ אקורדים המתקדמים מאקורדים אחרים ואליהם בדרכים דומות. למשל, מאחר ש־**II** ו־**IV** הם שניהם אקורדי סובדומיננטה, הם משתתפים ברבים מאותם סוגי מהלכים, ולעיתים אפשר להחליף ביניהם בשינוי קטן בלבד של ההשפעה המוזיקלית.
 
-On a local level (chord-to-chord progressions), we can summarize the tendencies of these functions with the cycle **T–S–D–T**. That is, harmonies tend to progress through a cyclical progression of those three functions:
+ברמה המקומית, במעבר מאקורד לאקורד, אפשר לסכם את נטיות התפקידים במחזור **T–S–D–T**. כלומר, הרמוניות נוטות להתקדם במחזור של שלושת התפקידים:
 
-> **T → S → D → T →** and so on . . .
+> **T → S → D → T →** וכן הלאה.
 
-That does not rule out T progressing to D, D progressing to S, etc. But it does mean that those progressions tend to be less common, at least in classical music.
+הדבר אינו שולל מעבר מ־T ל־D, מ־D ל־S וכן הלאה. הוא כן אומר שמהלכים אלה נוטים להיות נפוצים פחות, לפחות במוזיקה קלאסית.
 
-Higher-level musical structures also impact the norms according to which these harmonic functions progress. For now, we will consider one higher-level structure that influences chord-progression tendencies — the phrase — and we will limit our study to isolated, complete, self-sufficient phrases. This is an idealized, oversimplified setting — like strict voice-leading — that is useful for learning the basics. Some such phrases even exist in real music! But most of the time there are a number of competing factors that influence the chord-progression strategies employed by a composer at any given moment. However, the idealized phrase is a helpful starting point. Future study will explore how classical composers employ harmonic progressions in larger musical works that combine multiple phrases (which are not self-sufficient) into larger themes and movements.
+גם מבנים מוזיקליים ברמה גבוהה יותר משפיעים על הנורמות שלפיהן מתקדמים התפקידים ההרמוניים. לעת עתה נבחן מבנה אחד המשפיע על נטיות מהלכי האקורדים — הפראזה — ונגביל את העיון לפראזות נפרדות, שלמות ועצמאיות. כמו הולכת קולות קפדנית, זהו מצב אידאלי ומפושט יתר על המידה, המסייע בלימוד היסודות. יש אפילו פראזות כאלה במוזיקה ממשית! אך בדרך כלל פועלים כמה גורמים מתחרים, המשפיעים על בחירות המלחין במהלך האקורדים בכל רגע נתון. בכל זאת, הפראזה האידאלית היא נקודת פתיחה מועילה. בהמשך נבחן כיצד מלחינים קלאסיים משתמשים במהלכים הרמוניים ביצירות גדולות יותר, המשלבות כמה פראזות שאינן עצמאיות בנושאים ובפרקים גדולים יותר.
 
+## הפראזה האידאלית
 
-## The idealized phrase
+*הפראזה האידאלית* (idealized phrase), המכונה גם *מודל הפראזה* (phrase model), היא פראזה יחידה העוברת מחזור שלם של תפקידים הרמוניים, ומתחילה ומסתיימת בטוניקה. תרגילי הולכת קולות קפדנית הם פראזות כאלה. הן מתחילות בנקודת יציבות — טוניקה — מתרחקות ממנה, ולבסוף מובילות למתח רב ולפתרון: *קדנצה אותנטית*. הדפוס יציבות–אי־יציבות–יציבות, או מנוחה–תנועה–מנוחה, עם יעד יחיד בסוף, אמור להיות מוכר מן הקונטרפונקט לפי סוגים ומן הולכת הקולות הקפדנית בסגנון כלי מקלדת. דפוס זה שולט גם במבנים צורניים רחבי היקף במוזיקה קלאסית.
 
-The *idealized phrase* (also called the *phrase model*) is a single musical phrase that progresses through an entire cycle of harmonic functions, beginning and ending on tonic. (Strict voice-leading exercises are such phrases.) These phrases begin with a point of stability (tonic), move away from that stable point, and then eventually lead to a point of high tension and resolution (an *authentic cadence*). This pattern of stability–instability–stability, or rest–motion–rest, with a single goal at the end, should be familiar both from species counterpoint and from strict keyboard-style voice-leading. (This pattern also governs large-scale formal structures in classical music.)
+הפראזה הפשוטה ביותר המציגה מחזור הרמוני שלם זה היא טוניקה–דומיננטה–טוניקה: **I–V–I.** היא מתחילה ומסתיימת בהרמוניה היציבה ביותר, **I**, וכוללת קדנצה אותנטית, **V–I**. אקורד **V** הוא שיא אי־היציבות, ובו צליל הנטייה *ti*, המכוון בעוצמה הרבה ביותר אל נקודת ההגעה האחרונה: *do*, הטוניקה.
 
-The simplest phrase that exhibits this complete harmonic cycle is a tonic-dominant-tonic progression: **I–V–I.** This phrase begins and ends with the most stable harmony (**I**), and includes an *authentic cadence* (**V–I**). The **V** is the high point of instability, containing the tendency tone (*ti*) that most strongly points to the final point of arrival (*do*, or tonic).
+אפשר להרחיב את המחזור באמצעות הוספת אקורד סובדומיננטה, אקורד טוניקה מעורערת או שניהם, כמו בדוגמאות:
 
-This harmonic cycle can be expanded by inserting a subdominant chord, a destabilized tonic chord, or both, as in the following examples: 
-
-> **I IV V I**  
-> **I II V I**  
-> **I VI V I**  
+> **I IV V I**
+> **I II V I**
+> **I VI V I**
 > **I VI II V I**
 
-In *functional bass* terms, any harmonic progression that follows the pattern
+במונחי *בס פונקציונלי* (functional bass), כל מהלך הרמוני הפועל לפי הדפוס
 
 > **T1 → (S_) → D5 → T1**
 
-can serve as the basis for a complete idealized phrase. (Harmonies in parentheses are optional.)
+יכול לשמש בסיס לפראזה אידאלית שלמה. ההרמוניות בסוגריים הן בגדר אפשרות.
 
-Phrases are seldom 3–5 chords long, however, and a harmonic function can be expressed by more than a single chord. Thus we can understand the harmonic functions not simply as chords, but as *zones* of varying length in a phrase, which can be created by a number of chords or short chord progressions. More generally, then, our idealized musical phrase contains a single progression of functional zones **T → (S) → D → T**, begins with **T1**, and ends with an authentic cadence (**D5–T1**), as seen in the example below.
+עם זאת, פראזות נמשכות לעיתים רחוקות רק שלושה עד חמישה אקורדים, ותפקיד הרמוני יכול להתבטא ביותר מאקורד יחיד. לכן אפשר להבין את התפקידים לא רק כאקורדים, אלא כ*אזורים* באורכים שונים בתוך פראזה, הנוצרים באמצעות כמה אקורדים או מהלכים קצרים. באופן כללי יותר, הפראזה האידאלית שלנו כוללת מהלך יחיד של אזורי תפקיד: **T → (S) → D → T**. היא מתחילה ב־**T1** ומסתיימת בקדנצה אותנטית, **D5–T1**, כבדוגמה שלהלן.
 
+## הפעלה והארכה של תפקידים הרמוניים בפראזה אידאלית
 
-## Triggering and prolonging harmonic functions in an idealized phrase
+כדי לבסס אזור של תפקיד הרמוני, או להפעילו, מלחינים נוטים להשתמש ב*דרגת סולם קבועה בבס*. כלומר, הטוניקה נוטה להיות מופעלת ב־**T1**, שהוא תמיד **I**; הסובדומיננטה ב־**S2** או ב־**S4**, הכוללים מגוון אקורדי **II** ו־**IV** במצב יסודי או בהיפוכים, עם ספטימה או בלעדיה; והדומיננטה ב־**D5** — **V** עם ספטימה או בלעדיה, או [*קדנצה מורכבת*](cadenceTypes.html). ארבע קטגוריות האקורדים האלה — **T1**, **S2**, **S4** ו־**D5** — נקראות *אקורדים פונקציונליים* (functional chords), משום שהם מפעילים את התפקיד, או *אקורדים קדנציאליים* (cadential chords), משום שהם יכולים להשתתף בקדנצה.
 
-To establish, or trigger, a harmonic functional zone, composers tend to use *a fixed scale degree in the bass*. In other words, tonic tends to be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in in root position or inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or a [*compound cadence*](cadenceTypes)). These four categories of chords — **T1**, **S2**, **S4**, and **D5** — are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). 
+אקורדים אחרים נקראים לעיתים *אקורדים קונטרפונקטיים* (contrapuntal chords) או *אקורדי עיטור* (embellishing chords), והם משמשים בדרך כלל ל*הארכת* תפקיד לאורך האזור.
 
-Other chords are often called *contrapuntal chords* or *embellishing chords*, and are typically used to *prolong* a function throughout the zone. 
+בניתוח הרמוני מציגים הארכות תפקיד באמצעות T, S או D מתחת לסימוני האקורדים היחידים — מספרים רומיים או בס פונקציונלי — וקו הנמשך מתחילת אזור התפקיד עד סופו.
 
-Functional prolongations are shown in a harmonic analysis by writing/typing T, S, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
+הקטע הבא לקוח מסונטת הפסנתר של מוצרט ב־A מז׳ור, K. 331, פרק ראשון, תיבות 1–4. מתחת לתווים המקוריים מופיעים צמצום הרמוני וניתוח. ניתוח כזה נקרא ניתוח הרמוני *מפרש* (interpreted), משום שההרמוניות מפורשות לפי התנהגותן בפראזה ולא רק מקבלות תוויות. בפראזה זו שימו לב לדברים הבאים:
 
-The following excerpt is from Mozart's Piano Sonata in A Major, K. 331, I., mm. 1–4, with a harmonic reduction and analysis provided below the original score. Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. In this phrase, note the following:
+- אזור הטוניקה מופעל באקורד טוניקה משולש במצב יסודי, **I** או **T1**.
+- אקורדי דומיננטה קונטרפונקטיים — **D7**, אקורדי דומיננטה בהיפוך ראשון — יוצרים תנועת בס עוברת בין אקורד **I** הפותח, **vi** בתיבה 3 וחזרת **I** בתיבה 4.
+- [המהלך הקדנציאלי](harmonicAnalysis.html) מתחיל בתיבה 4 במעבר מ־**I** אל <strong>ii<sup>6</sup></strong>, שהוא **S4**, ואז אל אקורד שש־ארבע הקדנציאלי ואל אקורד הדומיננטה המשולש, **D5**. כל המהלך הקדנציאלי בתיבה 4 מורכב מאקורדים קדנציאליים, בעלי דרגות סולם קבועות בבס.
+- לעומת זאת, כל אזור הארכת הטוניקה מורכב מאקורדים קונטרפונקטיים — דרגות סולם משתנות בבס — למעט אקורד **I** שהפעיל את תפקיד הטוניקה.
+- **vi** נמצא במצב יסודי ובכל זאת הוא אקורד עיטור; <strong>ii<sup>6</sup></strong> נמצא בהיפוך ובכל זאת הוא אקורד פונקציונלי או קדנציאלי. ההבדל אינו ההיפוך, אלא דרגת הסולם בבס.
 
-- The tonic zone is triggered by a root-position tonic triad (**I** or **T1**).  
-- Contrapuntal dominant chords (**D7** — first-inversion dominant chords) create a passing bass motion between the opening **I** chord, the **vi** in m. 3, and the return of **I** in m. 4.  
-- The [cadential progression](harmonicAnalysis) begins in m. 4 with the move from **I** to <strong>ii<sup>6</sup></strong> (**S4**) and then to the cadential six-four and dominant triad (**D5**). Note that the entirety of the cadential progression in m. 4 is made up of *cadential chords* — chords with fixed scale degrees in the bass.  
-- In contrast, the entire tonic-prolongation zone is made up of *contrapuntal chords* — variable scale degrees in the bass — with the exception of the **I** chord that triggered the tonic function.  
-- The **vi** chord is a root-position chord, but still an embellishing chord, while the <strong>ii<sup>6</sup></strong> is an inverted chord, but still a functional/cadential chord. The difference is not the inversion, but the scale degree of the bass.
+[![מוצרט K. 331, תיבות 1–4, עם צמצום וניתוח הרמוני]({{ site.url }}/Graphics/harmony/k331-reduction.png)]({{ site.url }}/Graphics/harmony/k331-reduction.png)
 
-[![]({{ site.url }}/Graphics/harmony/k331-reduction.png)]({{ site.url }}/Graphics/harmony/k331-reduction.png)
+<iframe title="הקלטת סונטת מוצרט K. 331 בספוטיפיי" src="https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+לא כל הפראזות הקלאסיות מתאימות בצורה מסודרת כל כך למגמות הכלליות שתוארו כאן. כפי שנידון ב[סגנון ונטייה](tendency.html), עקרונות התחביר ההרמוני אמינים אך גם ניתנים להגמשה ולהפרה. לעיתים קרובות דווקא מוזיקה המגמישה או מפרה את ה״כללים״ בדרכים מעניינות היא החשובה לנו ביותר. לכן בניתוחים שלכם זכרו שאלה עקרונות *כלליים*, ובו בזמן חפשו היכן מלחינים מקיימים את הציפיות והיכן הם מפרים אותן.
 
-Not all classical phrases as neatly fit the general trends outlined in this resource. As discussed in [Style and tendency](tendency), the principles of harmonic syntax are both reliable and bendable/breakable, and it is often the music that bends/breaks the "rules" in interesting ways that we care about the most. So in your own analyses, keep these principles in mind as *general* principles, and simultaneously look for where composers meet these expectations as well as where they break them. 
-
-For more details on the triggering and prolonging of harmonic functions in a classical phrase, see [Harmonic syntax – prolongation](harmonicSyntax2).
+לפרטים נוספים על הפעלה והארכה של תפקידים בפראזה קלאסית ראו [תחביר הרמוני — הארכה](harmonicSyntax2.html).
