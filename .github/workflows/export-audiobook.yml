@@ -1,0 +1,88 @@
+name: Export Hebrew audiobook in stages
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Generate more audio, or prepare transcripts without API calls
+        type: choice
+        options: [generate, prepare]
+        default: generate
+  schedule:
+    - cron: '17 9 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hebrew-audiobook
+  cancel-in-progress: false
+
+jobs:
+  audiobook:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements-audiobook.txt
+      - name: Install audio tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install -r scripts/requirements-audiobook.txt
+      - name: Check resumability and request schema without API calls
+        run: python -m unittest discover -s scripts -p 'test_audiobook.py' -v
+      - name: Restore persistent audiobook data
+        if: inputs.mode != 'prepare'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mkdir -p dist
+          set +e
+          git ls-remote --exit-code --heads origin audiobook-data > /tmp/audiobook-branch
+          branch_status=$?
+          set -e
+          if [ "$branch_status" = 0 ]; then
+            git fetch origin audiobook-data
+            git worktree add --detach dist/audiobook-state FETCH_HEAD
+          elif [ "$branch_status" = 2 ]; then
+            git worktree add --detach --no-checkout dist/audiobook-state HEAD
+            git -C dist/audiobook-state switch --orphan audiobook-data
+          else
+            exit "$branch_status"
+          fi
+          printf 'working.wav\nworking.mp3\n*.tmp\nconcat.txt\n' > dist/audiobook-state/.gitignore
+      - name: Prepare transcripts only
+        if: inputs.mode == 'prepare'
+        run: python scripts/export_audiobook.py --prepare-only
+      - name: Generate next segments with the fixed model
+        if: inputs.mode != 'prepare'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AUDIOBOOK_COMMIT_CHECKPOINT: 'true'
+        run: python scripts/export_audiobook.py
+      - name: Preserve progress even after an error
+        if: always() && inputs.mode != 'prepare'
+        run: |
+          if [ -d dist/audiobook-state ]; then
+            git -C dist/audiobook-state add --all .
+            if ! git -C dist/audiobook-state diff --cached --quiet; then
+              git -C dist/audiobook-state commit -m 'Preserve interrupted audiobook progress'
+              git -C dist/audiobook-state push origin HEAD:audiobook-data
+            fi
+          fi
+      - name: Publish completed chapters and progress report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hebrew-audiobook
+          path: dist/audiobook/
+          if-no-files-found: warn
+          retention-days: 30
+          compression-level: 0
