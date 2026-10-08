@@ -1,49 +1,57 @@
 ---
 layout: post
-title: The period
+title: "הפריודה"
+language: he
+translation_status: language-reviewed
+translation_batch: 8
 ---
 
+*פריודה* (period) היא טיפוס של נושא, בדומה ל[משפט המוזיקלי](sentence.html), הנפוץ בסגנון הקלאסי.
 
-A period is one type of theme, like the [sentence](sentence.html), common to the Classical style.
+הפריודה היא בדרך כלל בת שמונה תיבות, ומכילה שתי פראזות בנות ארבע תיבות, הנקראות *פראזה פותחת* (antecedent) ו*פראזה עונה* (consequent).
 
-The period is generally eight measures long and contains two four-measure phrases, called  *antecedent* and *consequent*.
+<img src="Graphics/ClassicalThemes/period.svg" alt="תרשים הפריודה: פראזה פותחת ופראזה עונה" onerror="this.src='Graphics/ClassicalThemes/period.png'">
 
-<img src="Graphics/ClassicalThemes/period.svg" onerror="this.src='Graphics/ClassicalThemes/period.png'">
+הפריודה מתאפיינת באיזון ובסימטריה. הפראזה הפותחת שלה מתחילה ב*רעיון בסיסי* (basic idea, או BI) החוזר בתחילת הפראזה העונה. בניגוד למשפט המוזיקלי, שבו יש קדנצה אחת, הפריודה מכילה *שתי קדנצות*: קדנצה חלשה המסיימת את *הפראזה הפותחת*, וקדנצה חזקה המסיימת את *הפראזה העונה*.
 
-The period is characterized by balance and symmetry. Its antecedent phrase is initiated by a basic idea that recurs at the beginning of the consequent phrase. Unlike the sentence, which exhibits a single cadence, the period contains *two cadences*, a weak one to end the *antecedent* and a strong one to end the *consequent*.
+<a id="antecedent-phrase-mm-14"></a>
+## הפראזה הפותחת — תיבות 1–4
 
-## Antecedent phrase (mm. 1–4)
+בניגוד למשפט המוזיקלי, שבו רעיון בסיסי מלווה בחזרה עליו, הרעיון הבסיסי בן שתי התיבות הפותח את הפראזה הפותחת בפריודה מלווה תמיד ב*רעיון מנוגד* (contrasting idea, או CI) בן שתי תיבות. הרעיון המנוגד תומך במהלך קדנציאלי המסיים את הפראזה הפותחת בקדנצה חלשה: HC או IAC.
 
-Unlike the sentence, which contains a basic idea followed by a repetition, the two measure basic idea that begins the a period's antecedent is always followed by a two-measure *contrasting idea* (CI). That contrasting idea supports a cadential progression that ends the antecedent with a weak cadence, either a HC or an IAC.
+<figure>
+  <img src="/Graphics/form/antecedent.png" alt="היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–4: פראזה פותחת">
+  <figcaption>פראזה פותחת: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–4</figcaption>
+</figure>
 
-<figure>	
-  <img src="/Graphics/form/antecedent.png">
-  <figcaption>Antecedent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-4 </figcaption>
-</figure> 
+<iframe src="https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g" title="הקלטת היידן, Hob. XV:27: דוגמה לפריודה" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+שימו לב לניגוד בין הרעיון הבסיסי לרעיון המנוגד. הרעיון הבסיסי עולה ומתווה את משולש הטוניקה בקפיצות אל כל אחד מצליליו, ואילו הרעיון המנוגד יורד בצעדים ומוביל ל־**I:HC** חלשה. הדגשת הטוניקה במלודיה של הרעיון הבסיסי מלווה בהארכת טוניקה בהרמוניה — גרסה של סכמת [*רומנסקה*](schemataOpensAndCloses.html):
 
-Note the contrast created between the basic idea and contrasting idea. While the BI ascends, outlining the tonic triad with leaps to each of its members, the CI descends stepwise leading to a weak I:HC. The emphasis on tonic in the melody of the BI is accompanied by a tonic prolongation in the harmony (a variant of the [*Romanesca* schema](schemataOpensAndCloses.html)):
+> **I V6 VI III**
 
-> **I V6 VI III**  
-or  
+או
+
 **T(1 D7p x6 3)**
 
-Supporting the CI is an expanded cadential progression:
+ברעיון המנוגד תומך מהלך קדנציאלי מורחב:
 
-> **III IV V<sup>6/5</sup>/V V**  
-or  
+> **III IV V<sup>6/5</sup>/V V**
+
+או
+
 **T3 S(4 [+]) D5**
 
 <!--The formal functional progression in this example is identical to the antecedent (which is often the case): the BI exhibits presentation function, and the CI exhibits continuation–cadential function. Note that Haydn uses a single subdominant chord in the consequent (the applied chord from the antecedent has been dropped) and moves to the dominant one beat earlier so that the PAC’s tonic arrival can come on the downbeat of the last bar of the phrase. This compression of the cadential progression to accommodate the additional tonic chord at the end is common.-->
 
-## Consequent phrase (mm. 5–8)
+<a id="consequent-phrase-mm-58"></a>
+## הפראזה העונה — תיבות 5–8
 
-Consequent phrases always begin with a restatement of the BI, occasionally varied, and end with a CI. A consequent phrase's CI often resembles the antecedent's, but slightly altered to accommodate a stronger cadence. It is also common for a consequent phrase's CI to be entirely new. While a sentence can close with a number of cadence types, the period's consequent phrase always ends with a PAC:
+פראזות עונות מתחילות תמיד בהצגה חוזרת של הרעיון הבסיסי, לעיתים בצורה מגוונת, ומסתיימות ברעיון מנוגד. הרעיון המנוגד של הפראזה העונה דומה לעיתים קרובות לזה של הפראזה הפותחת, אך משתנה מעט כדי לאפשר קדנצה חזקה יותר. נפוץ גם שהרעיון המנוגד של הפראזה העונה חדש לחלוטין. בעוד שמשפט מוזיקלי יכול להסתיים בכמה סוגי קדנצות, הפראזה העונה של הפריודה מסתיימת תמיד ב־PAC:
 
-<figure>	
-  <img src="/Graphics/form/xv27.png">
-  <figcaption>Antecedent + Consequent: Haydn, Piano Trio in C major, Hob. XV:27, III, mm. 1-8 </figcaption>
-</figure> 
+<figure>
+  <img src="/Graphics/form/xv27.png" alt="היידן, Hob. XV:27, פרק שלישי, תיבות 1–8: הפראזה הפותחת והפראזה העונה">
+  <figcaption>פראזה פותחת ופראזה עונה: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–8</figcaption>
+</figure>
 
-In this example, the BI is restated exactly at the beginning of the consequent. The concluding CI is a slight variation of the end of the antecedent, altered here to create a PAC.
+בדוגמה זו הרעיון הבסיסי חוזר בדיוק בתחילת הפראזה העונה. הרעיון המנוגד המסיים הוא שינוי קל של סיום הפראזה הפותחת, שהותאם כאן ליצירת PAC.

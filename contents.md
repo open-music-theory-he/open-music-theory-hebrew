@@ -9,7 +9,7 @@ translation_status: partial
 [הקדמה למהדורה העברית](hebrew-introduction.html)  
 [דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
 
-**מצב העבודה:** פרקי היסודות ופרקי הקונטרפונקט והבס הממוספר הבאים תורגמו ונבדקו מול המקור. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+**מצב העבודה:** 45 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
 
 ## מבוא למקור
 
@@ -68,31 +68,31 @@ translation_status: partial
 
 [סוגי קדנצות קלאסיות](cadenceTypes.html)<br>
 [אקורדי סובדומיננטה משתנים כרומטית](alteredSubdominants.html)<br>
-[Applied chords.](appliedChords.html)   
+[אקורדים שניוניים](appliedChords.html)<br>
 [עירוב מודאלי](modalMixture.html)<br>
-[Modulation.](Modulation.html)
+[מודולציה](Modulation.html)
 
 #### Handouts and charts
 
 [Lead-sheet and figured-bass symbols.]({{ site.url }}/Graphics/Handouts/LSandFBsymbols.pdf)   
 [Harmonies (Roman numerals and functional bass) by bass scale degree.]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
-## Form
+## צורה
 
-### Thematic Structure in the Classical Style
+### מבנה נושאי בסגנון הקלאסי
 
-#### Classical theme types.   
+#### טיפוסי נושא קלאסיים
 
-[The sentence.](sentence.html)   
-[The period.](period.html)   
-[Hybrid themes.](hybridThemes.html)   
-[Compound periods.](compoundPeriod.html)  
+[המשפט המוזיקלי](sentence.html)<br>
+[הפריודה](period.html)<br>
+[נושאים היברידיים](hybridThemes.html)<br>
+[פריודה מורכבת](compoundPeriod.html)<br>
 [Compound sentences.](compoundSentence.html)  
 [The small ternary.](smallTernary.html)  
 [The small binary.](smallBinary.html)
 
 [Theme type reference.](classicalThemes.html)  
-[Thematic function reference.](themeFunctions.html)
+[תפקידים נושאיים — דף עזר](themeFunctions.html)
 
 #### Techniques of Phrase Rhythm  
 
@@ -187,7 +187,7 @@ Tranpositional Symmetry.
 [The circle-of-fifths progression (in minor)](popRockHarmony-fifths.html)   
 [Plagal progressions.](popRockHarmony-plagal.html)
 
-### Form
+### צורה
 
 [Form in pop/rock music – overview.](popRockForm.html)  
 [Terminology and basic concepts.](popRockForm-terms.html)  

@@ -1,62 +1,70 @@
 ---
 layout: post
-title: The sentence
+title: "המשפט המוזיקלי"
+language: he
+translation_status: language-reviewed
+translation_batch: 8
 ---
 
-The prototypical sentence is eight measures long and contains two four-measure phrases. The first of these is called the *presentation phrase* and the second is the *continuation phrase*.
+*המשפט המוזיקלי* (sentence) בצורתו הטיפוסית הוא בן שמונה תיבות ומכיל שתי פראזות בנות ארבע תיבות. הראשונה נקראת *פראזת הצגה* (presentation phrase), והשנייה *פראזת המשך* (continuation phrase).
 
-<img src="Graphics/ClassicalThemes/sentence.svg" onerror="this.src='Graphics/ClassicalThemes/sentence.png'">
+<img src="Graphics/ClassicalThemes/sentence.svg" alt="תרשים המשפט המוזיקלי: פראזת הצגה ופראזת המשך" onerror="this.src='Graphics/ClassicalThemes/sentence.png'">
 
-## Presentation phrase (mm. 1–4)
+<a id="presentation-phrase-mm-14"></a>
+## פראזת הצגה — תיבות 1–4
 
-The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a [subsidiary harmonic progression](harmonicSyntax2.html#subsidiary-harmonic-progressions") or [contrapuntal chords](harmonicSyntax2.html#contrapuntal-prolongation--passing-chord).
+פראזת ההצגה פותחת את המשפט המוזיקלי, ויש בה שני רכיבים עיקריים: מלודי והרמוני. מבחינה מלודית היא מכילה שתי הופעות של *רעיון בסיסי* (basic idea, או BI). מבחינה הרמונית היא מאריכה את הטוניקה באמצעות [מהלך הרמוני משני](harmonicSyntax2.html#subsidiary-harmonic-progressions) או [אקורדים קונטרפונקטיים](harmonicSyntax2.html#contrapuntal-prolongation--passing-chord).
 
-<figure>	
-  <img src="/Graphics/form/k283-presentation.png">
-  <figcaption>Presentation: Mozart, K. 283, i., mm. 1–4</figcaption>
+<figure>
+  <img src="/Graphics/form/k283-presentation.png" alt="מוצרט, K. 283, פרק ראשון, תיבות 1–4: הרעיון הבסיסי וחזרתו בפראזת ההצגה">
+  <figcaption>הצגה: מוצרט, K. 283, פרק ראשון, תיבות 1–4</figcaption>
 </figure>
 
-Here, the basic idea begins with the pickup to m. 1 and ends with the F-sharp on the downbeat of m. 2. It’s then repeated. Though a basic idea is often exactly repeated, this example shows that it need not be. Rather, a basic idea is defined more abstractly by its rhythm and melodic contour, and thus, varied repetitions like this are possible.
+כאן הרעיון הבסיסי מתחיל בקדמה לתיבה 1 ומסתיים ב־F דיאז בפעימה הראשונה של תיבה 2. לאחר מכן הוא חוזר. אף שרעיון בסיסי חוזר לעיתים קרובות בדיוק, דוגמה זו מראה שאין הכרח בכך. הרעיון הבסיסי מוגדר באופן מופשט יותר באמצעות המקצב והמתאר המלודי שלו; לכן אפשריות גם חזרות מגוונות כגון זו.
 
-Harmonically, these four measures prolong tonic. Measures two and three are contrapuntal chords that are surrounded by the tonic:
+מבחינה הרמונית, ארבע התיבות הללו מאריכות טוניקה. בתיבות 2 ו־3 מופיעים אקורדים קונטרפונקטיים המוקפים בטוניקה:
 
-> **I V4/3 V6/5 I**  
-or  
+> **I V4/3 V6/5 I**
+
+או
+
 > **T(1 D(2 7)n 1)**
 
-Altogether, the two expressions of the basic idea and the tonic prolongation in this phrase exhibit [*presentation function*](themeFunctions.html#presentation). Hence, the name "presentation phrase."
+יחד, שתי הופעות הרעיון הבסיסי והארכת הטוניקה בפראזה זו מבטאות [*תפקיד הצגה*](themeFunctions.html#presentation). מכאן השם ״פראזת הצגה״.
 
-## Continuation phrase (mm. 5–10)
+<a id="continuation-phrase-mm-510"></a>
+## פראזת המשך — תיבות 5–10
 
-Continuation phrases acquire momentum and lead to the cadence that ends the sentence. Three types of cadence typically end a sentence: PAC, IAC, or HC.
+פראזות המשך צוברות תנופה ומובילות לקדנצה המסיימת את המשפט המוזיקלי. שלושה סוגי קדנצות מסיימים בדרך כלל משפט מוזיקלי: PAC, IAC או HC.
 
-Continuation phrases begin with [*continuation function*](themeFunctions.html#continuation-function), which has one or more (but not necessarily all) of the following five characteristics.
+פראזות המשך מתחילות ב[*תפקיד המשך*](themeFunctions.html#continuation), שלו אחד או יותר מחמשת המאפיינים הבאים, אך לא בהכרח כולם:
 
-- Fragmentation: a breakdown in the size of melodic units  
-- Liquidation: removal of "characteristic" melodic figures  
-- Sequential repetition
-- Accelerated surface rhythm  
-- Accelerated harmonic rhythm
+- פיצול ליחידות קצרות יותר (fragmentation): הקטנת היחידות המלודיות.
+- פירוק החומר האופייני (liquidation): סילוק תבניות מלודיות ״אופייניות״.
+- חזרה בסקוונצה.
+- האצת מקצב פני השטח.
+- האצת המקצב ההרמוני.
 
-<figure>	
-  <img src="/Graphics/form/k283.png">
-  <figcaption>Presentation + Continuation: Mozart, K. 283, I, mm. 1–10</figcaption>
+<figure>
+  <img src="/Graphics/form/k283.png" alt="מוצרט, K. 283, פרק ראשון, תיבות 1–10: הצגה והמשך עד הקדנצה">
+  <figcaption>הצגה והמשך: מוצרט, K. 283, פרק ראשון, תיבות 1–10</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" title="הקלטת מוצרט, K. 283: דוגמה למשפט מוזיקלי" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
+בדוגמה זו מופיעים כל חמשת המאפיינים. הרעיון הבסיסי יוצר יחידה נורמטיבית באורך שתי תיבות. החל בקדמה לתיבה 5, יחידה זו *מתפצלת* ליחידות בנות תיבה אחת, שחציין השני חוזר ב*סקוונצה* צעד אחד נמוך יותר. בתיבה 7, *האצת מקצב פני השטח* מלווה ב*האצת המקצב ההרמוני*: חלקי השש־עשרה ביד ימין נשמעים מעל המיולה ביד שמאל.
 
+משפטים מוזיקליים מסתיימים תמיד במהלכים קדנציאליים התומכים ב[*תפקיד קדנציאלי*](themeFunctions.html#cadential). בקטע זה, בעוד שתיבות 5–8 האריכו טוניקה באמצעות אקורדים קונטרפונקטיים, תיבות 8–10 משתמשות במהלך קדנציאלי טיפוסי:
 
-This example exhibits all five characteristics. The basic idea creates a normative unit that is two measures in length. Beginning with the pickup to m. 5, that normative size is *fragmented* into one-measure units whose second half is *sequenced* one step lower. At m. 7 *increased surface rhythm* is matched with an *acceleration of harmonic rhythm* as the pianist's sixteenth notes occur above a hemiola in the pianist's left hand.
+> **I IV6 Cad.6/4 V7 I**
 
-Sentences always end with cadential progressions that support [*cadential function*](themeFunctions.html#cadential-function). In this passage, while mm. 5–8 prolonged tonic by means of contrapuntal chords, mm. 8–10 employ a typical cadential progression:
+או
 
-> **I IV6 Cad.6/4 V7 I**  
-or  
 **T1 S6 D5 — T1**
 
-And while mm. 5–8 employed fragments of the basic idea (the "characteristic" elements of the melody), mm. 8–10 *liquidates* those into elements unrelated to the basic idea (the "conventional" elements—scales and arpeggios, ending with a descending contour).
+ובעוד שתיבות 5–8 השתמשו במקטעים מן הרעיון הבסיסי — הרכיבים ״האופייניים״ של המלודיה — תיבות 8–10 *מפרקות את החומר האופייני* לרכיבים שאינם קשורים לרעיון הבסיסי: רכיבים ״מוסכמיים״, כלומר סולמות וארפג׳ים, המסתיימים במתאר יורד.
 
-## Phrase length ##
+<a id="phrase-length"></a>
+## אורך הפראזה
 
-Note the length of the phrases in this example: a four-bar presentation phrase is followed by a *six-bar* continuation phrase. The prototypical phrase is four measures, but this is commonly [expanded](internalExpansions.html) or even compressed by composers. In the sentence, continuation phrases are more likely to undergo expansions or contractions than are presentation phrases.
+שימו לב לאורכי הפראזות בדוגמה: אחרי פראזת הצגה בת ארבע תיבות מופיעה פראזת המשך בת *שש* תיבות. הפראזה הטיפוסית היא בת ארבע תיבות, אך מלחינים נוהגים [להרחיב](internalExpansions.html) אותה ואף לצמצמה. במשפט המוזיקלי, פראזות המשך נוטות לעבור הרחבה או צמצום יותר מפראזות הצגה.

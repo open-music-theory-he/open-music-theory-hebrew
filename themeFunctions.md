@@ -1,54 +1,66 @@
 ---
 layout: post
-title: Thematic Function
+title: "תפקידים נושאיים"
+language: he
+translation_status: language-reviewed
+translation_batch: 8
 ---
 
-This page is a quick-reference. For examples of these functions in musical contexts, see the resource on [Classical theme types](classicalThemes.html).
+עמוד זה הוא דף עזר לעיון מהיר. לדוגמאות לתפקידים אלה בהקשרים מוזיקליים, ראו את העמוד על [טיפוסי נושא קלאסיים](classicalThemes.html).
 
-# Initiating Functions
+<a id="initiating-functions"></a>
+# תפקידי פתיחה
 
-## Presentation
+<a id="presentation"></a>
+## הצגה
 
-*Presentation function* comes at the *beginning* of a theme or phrase. It involves the *establishment of the primary melodic material* (usually through the use of one or more statements of a *basic idea*) and the *establishment of the tonality of the theme* (usually through *tonic prolongation*). 
+*תפקיד הצגה* (presentation function) מופיע ב*תחילתו* של נושא או של פראזה. הוא כרוך ב*ביסוס החומר המלודי העיקרי*, בדרך כלל באמצעות הצגה אחת או יותר של *רעיון בסיסי* (basic idea), וב*ביסוס הטונליות של הנושא*, בדרך כלל באמצעות *הארכת טוניקה*.
 
-## Antecedent
+<a id="antecedent"></a>
+## תפקיד פותח
 
-*Antecedent function* comes at the *beginning* of a theme or phrase. It involves the statement of a *basic idea* followed by a *contrasting idea.* An *antecedent* should close with a weak cadence, usually a HC or IAC.
+*תפקיד פותח* (antecedent function) מופיע ב*תחילתו* של נושא או של פראזה. הוא כרוך בהצגת *רעיון בסיסי* ואחריו *רעיון מנוגד* (contrasting idea). *פראזה פותחת* אמורה להסתיים בקדנצה חלשה, בדרך כלל HC או IAC.
 
-# Medial Functions
+<a id="medial-functions"></a>
+# תפקידי אמצע
 
-## Continuation
+<a id="continuation"></a>
+<a id="continuation-function"></a>
+## המשך
 
-*Continuation function* comes in the *middle* of a phrase or theme. It typically involves the *breakdown of the primary melodic material* and *harmonic acceleration* towards the cadence.
+*תפקיד המשך* (continuation function) מופיע ב*אמצע* פראזה או נושא. הוא כרוך בדרך כלל ב*פירוק החומר המלודי העיקרי* וב*האצה הרמונית* לקראת הקדנצה.
 
-Following are important terms/concepts associated with continuation function. Not all need be present for a passage to express continuation function, but some should be.
+להלן מונחים ומושגים חשובים הקשורים לתפקיד המשך. לא כולם חייבים להופיע כדי שקטע יבטא תפקיד המשך, אך מקצתם אמורים להופיע.
 
-- *Fragmentation* – Breaking the melodic unit into smaller chunks (for example, following two-bar basic ideas in the presentation with one-bar melodic ideas). Note: fragmentation references the breakdown of the *size* of the units. Those units are not necessarily related melodically.  
-- *Liquidation* – Gradually replacing the *characteristic* or unique parts of a melody with *conventional* or common elements.  
-- *Sequential repetition* – Repeating the same melodic or harmonic element two or three times, transposed to different pitch levels. This is often used in conjunction with fragmentation.  
-- *Acceleration of melodic rhythm* – Changing from predominately quarter notes and eighth notes in the melody to predominately eighth notes and sixteenth notes, for example.  
-- *Acceleration of harmonic rhythm* – Chord changes coming more frequently (changing from one chord per bar to two chords per bar, for example).  
+- *פיצול ליחידות קצרות יותר* (fragmentation): חלוקת היחידה המלודית למקטעים קטנים יותר; למשל, אחרי רעיונות בסיסיים בני שתי תיבות בהצגה מופיעים רעיונות מלודיים בני תיבה אחת. שימו לב: הפיצול מתייחס להקטנת *גודל* היחידות. לא בהכרח יש ביניהן קשר מלודי.
+- *פירוק החומר האופייני* (liquidation): החלפה הדרגתית של חלקיה *האופייניים* או הייחודיים של המלודיה ברכיבים *מוסכמיים* או שכיחים.
+- *חזרה בסקוונצה* (sequential repetition): חזרה על אותו רכיב מלודי או הרמוני פעמיים או שלוש, בטרנספוזיציה לגבהים שונים. פעולה זו משולבת לעיתים קרובות בפיצול ליחידות קצרות יותר.
+- *האצת המקצב המלודי* (acceleration of melodic rhythm): למשל, מעבר ממלודיה הנשענת בעיקר על רבעים ושמיניות למלודיה הנשענת בעיקר על שמיניות וחלקי שש־עשרה.
+- *האצת המקצב ההרמוני* (acceleration of harmonic rhythm): החלפת אקורדים בתדירות גבוהה יותר; למשל, מעבר מאקורד אחד בכל תיבה לשני אקורדים בכל תיבה.
 
-#Closing Functions
+<a id="closing-functions"></a>
+# תפקידי סיום
 
-## Cadential
+<a id="cadential"></a>
+<a id="cadential-function"></a>
+## תפקיד קדנציאלי
 
-*Cadential function* comes at the end of a theme or phrase. It typically involves a *cadential harmonic progression* and a *conventional, descending melodic pattern*.
+*תפקיד קדנציאלי* (cadential function) מופיע בסופו של נושא או של פראזה. הוא כרוך בדרך כלל ב*מהלך הרמוני קדנציאלי* וב*תבנית מלודית מוסכמית יורדת*.
 
-A classical cadential progression *begins with the last chord of tonic prolongation* and *ends with a cadential arrival*. The [three typical types of cadential arrival](cadenceTypes.html) in Classical music are the perfect authentic cadence (PAC), the imperfect authentic cadence (IAC), and the half cadence (HC). 
+מהלך קדנציאלי קלאסי *מתחיל באקורד האחרון של הארכת הטוניקה* ו*מסתיים בהגעה קדנציאלית*. [שלושת הסוגים הטיפוסיים של הגעה קדנציאלית](cadenceTypes.html) במוזיקה קלאסית הם קדנצה אותנטית מושלמת (PAC), קדנצה אותנטית לא־מושלמת (IAC) וחצי־קדנצה (HC).
 
-A half-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and arrive on a cadential **D** chord (*always* **D5**: **V** or **V<sup>7</sup>**):
+מהלך המוביל לחצי־קדנצה יתחיל באקורד **T** האחרון, יעבור דרך **S** אם היא מופיעה, ויגיע לאקורד **D** קדנציאלי — *תמיד* **D5**, כלומר **V** או **V<sup>7</sup>**:
 
 > **T__ (S__) D5**
 
-An authentic-cadential progression will begin with the final **T** chord, progress (optionally) through **S**, and end with the cadential **D T** progression (*always* **D5 T1**: **V<sup>(7)</sup> I**):
+מהלך המוביל לקדנצה אותנטית יתחיל באקורד **T** האחרון, יעבור דרך **S** אם היא מופיעה, ויסתיים במהלך הקדנציאלי **D T** — *תמיד* **D5 T1**, כלומר **V<sup>(7)</sup> I**:
 
 > **T_ (S_) D5 T1**
 
-## Consequent
+<a id="consequent"></a>
+## תפקיד עונה
 
-*Consequent function* resembles *antecedent function* in that it involves the presentation of a basic idea followed by a contrasting one. Unlike the *antecedent function*, however, *consequent function* brings completion to a thematic unit. Therefore, it ends with a strong cadence, typically a PAC.  
-
+*תפקיד עונה* (consequent function) דומה לתפקיד פותח בכך שהוא כרוך בהצגת רעיון בסיסי ואחריו רעיון מנוגד. אולם בניגוד לתפקיד הפותח, התפקיד העונה מביא יחידה נושאית לידי השלמה. לכן הוא מסתיים בקדנצה חזקה, בדרך כלל PAC.
 
 <!--
 
@@ -57,4 +69,3 @@ An authentic-cadential progression will begin with the final **T** chord, progre
 Just as there is exactly one progression through **T (S) D T** for every cadence in classical music, there is exactly one progression through **presentation – continuation – cadential** functions for every cadence in classical music.
 
 None of these functions are optional; all must be present in a normative formal progression.-->
-

@@ -1,90 +1,88 @@
 ---
 layout: post
-title: Applied chords
+title: "אקורדים שניוניים"
+language: he
+translation_status: language-reviewed
+translation_batch: 8
 ---
 
-*Tonicization* is the process of momentarily emphasizing a non-tonic chord by using chords borrowed from the key in which that chord is tonic. Unlike *modulation*, there is no cadence in a new key, only a short progression of chords borrowed from another key. 
+*טוניקיזציה* (tonicization) היא תהליך של הדגשה רגעית של אקורד שאינו הטוניקה, באמצעות אקורדים השאולים מן הטונליות שבה אותו אקורד הוא הטוניקה. בניגוד ל*מודולציה* (modulation), אין כאן קדנצה בטונליות חדשה, אלא רק מהלך קצר של אקורדים השאולים מטונליות אחרת.
 
-The chord that is tonicized is typically a chord that belongs to the present key. The chords that emphasize it are usually the chords borrowed from another key. And these chords are usually chromatic alterations of chords native to the present key. 
+האקורד שעובר טוניקיזציה שייך בדרך כלל לטונליות הנוכחית. האקורדים המדגישים אותו הם בדרך כלל אלה השאולים מטונליות אחרת, ולרוב הם שינויים כרומטיים של אקורדים השייכים לטונליות הנוכחית.
 
-The most straightforward example is when a subdominant chord is chromatically altered by changing *fa* to *fi*, and then progresses, like usual, to the dominant chord. This alteration of *fa* to *fi* turns a regular subdominant chord into a chord that has a dominant function in the "key of the dominant." 
+הדוגמה הפשוטה ביותר היא אקורד סובדומיננטה המשתנה כרומטית באמצעות החלפת *fa* ב־*fi*, ולאחר מכן מתקדם, כרגיל, לאקורד הדומיננטה. שינוי זה של *fa* ל־*fi* הופך אקורד סובדומיננטה רגיל לאקורד בעל תפקיד דומיננטי ב״טונליות של הדומיננטה״.
 
-For example, take the chord progression **F–G–C** in C major. We would label this progression as **IV–V–I** with Roman numerals. If we change *fa* (F) to *fi* (F\#) in the F chord, we get **F\#dim–G–C**. In the key of C, we might analyze this progression as **\#ivº V I**, noting the change in root and quality. However, we can also note that F\#-dim is native to G major; it is a dominant-functioning chord (**viiº**) in the key of G—the key in which the following chord is tonic. In other words, we are borrowing the dominant chord from the key of G and *applying* it to the G-major triad. Thus, we can re-interpret the F\#dim as an *applied dominant* of the G chord, which we label **viiº/V**—read "seven of five." Thus this progression is labeled **viiº/V V I**.
+למשל, נבחן את מהלך האקורדים **F–G–C** ב־C מז׳ור. במספרים רומיים נסמן אותו **IV–V–I**. אם נשנה את *fa* ‏(F) ל־*fi* ‏(F\#) באקורד F, נקבל **F\#dim–G–C**. בטונליות C אפשר לנתח מהלך זה כ־**\#ivº V I**, ולציין כך את שינוי השורש והאיכות. אולם אפשר גם להבחין ש־F\#dim שייך ל־G מז׳ור: הוא אקורד בעל תפקיד דומיננטי (**viiº**) בטונליות G — הטונליות שבה האקורד הבא הוא הטוניקה. במילים אחרות, אנו שואלים אקורד בעל תפקיד דומיננטי מטונליות G ו*מחילים* אותו על המשולש G מז׳ור. לכן אפשר לפרש מחדש את F\#dim כ*דומיננטה שניונית* (applied dominant) של אקורד G, ולסמן אותו **viiº/V** — בקריאה ״שבע של חמש״. לפיכך המהלך מסומן **viiº/V V I**.
 
-Note, however, that though we "borrowed" or "applied" a dominant chord from G major, that chord is acting in the context of C major. Its scale degrees are *fi*, *la*, and *do*: an alteration of scale degrees that clearly express subdominant function. Thus, in C major, the progression **F\#dim–G–C** still expresses the functional progression **S–D–T**. (In functional bass—see below—this progression would be analyzed as **[S+4] D5 T1**.)
+עם זאת, אף ש״שאלנו״ או ״החלנו״ אקורד דומיננטי מ־G מז׳ור, הוא פועל בהקשר של C מז׳ור. דרגותיו הן *fi*, *la* ו־*do*: שינוי של דרגות המבטאות בבירור תפקיד סובדומיננטי. לכן ב־C מז׳ור המהלך **F\#dim–G–C** עדיין מבטא את רצף התפקידים **S–D–T**. בניתוח בס פונקציונלי — ראו להלן — נסמן מהלך זה **[S+4] D5 T1**.
 
-*Exercise: change one note in the following excerpt to turn the subdominant chord into an applied chord. What Roman numeral and functional bass would you give that chord?*
+*תרגיל: שנו תו אחד בקטע הבא כדי להפוך את אקורד הסובדומיננטה ל*אקורד שניוני* (applied chord). איזה מספר רומי ואיזה סימון בס פונקציונלי תתנו לאקורד?*
 
-<iframe src="https://trinket.io/embed/music/c6b5004279" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe src="https://trinket.io/embed/music/c6b5004279" title="תרגיל: הפיכת אקורד סובדומיננטה לאקורד שניוני" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-Such borrowing of chords can happen for *any major or minor triad in the home key*. Any diatonic triad can take an applied chord—a chromatically altered chord that also functions as a dominant chord in which the following chord is tonic. Thus, the example progression of **F\#dim–G** can occur in any key to which the G-major triad belongs: G major, C major, D major, B minor, A minor, or E minor. 
+שאילת אקורדים כזאת יכולה להתרחש עבור *כל משולש מז׳ורי או מינורי בטונליות הראשית*. כל משולש דיאטוני יכול לקבל אקורד שניוני — אקורד ששונה כרומטית ומתפקד גם כאקורד דומיננטי בטונליות שבה האקורד הבא הוא הטוניקה. לפיכך המהלך לדוגמה **F\#dim–G** יכול להופיע בכל טונליות שאליה שייך המשולש G מז׳ור: G מז׳ור, C מז׳ור, D מז׳ור, B מינור, A מינור או E מינור.
 
-Two things will always be true of the applied chord:
+שני דברים יהיו נכונים תמיד לגבי האקורד השניוני:
 
-- The chromatically altered chord will function as a dominant chord in the key of the chord that follows it (**V** or **VII**).  
-- The chromatically altered chord will be an alteration of the function that logically precedes the function of the chord that follows it.
+- האקורד ששונה כרומטית יתפקד כאקורד דומיננטי בטונליות של האקורד הבא אחריו (**V** או **VII**).
+- האקורד ששונה כרומטית יהיה שינוי של התפקיד הקודם מבחינה הגיונית לתפקידו של האקורד הבא אחריו.
 
-On the latter point, if the tonicized chord has tonic function in the current key (such as *mi–sol–ti* or *la–do–mi*), the applied chord will be an altered dominant of the current key. If the tonicized chord has dominant function in the current key, the applied chord will be an altered subdominant of the current key. If the tonicized chord has subdominant function in the current key, the applied chord will be an altered tonic of the current key.
+בנוגע לנקודה השנייה: אם לאקורד שעובר טוניקיזציה יש תפקיד טוניקלי בטונליות הנוכחית, למשל *mi–sol–ti* או *la–do–mi*, האקורד השניוני יהיה דומיננטה ששונתה בטונליות הנוכחית. אם לאקורד שעובר טוניקיזציה יש תפקיד דומיננטי בטונליות הנוכחית, האקורד השניוני יהיה סובדומיננטה ששונתה בטונליות הנוכחית. אם לאקורד שעובר טוניקיזציה יש תפקיד סובדומיננטי בטונליות הנוכחית, האקורד השניוני יהיה טוניקה ששונתה בטונליות הנוכחית.
 
-| applied chord |   | tonicized chord |
+| האקורד השניוני |   | האקורד שעובר טוניקיזציה |
 |:----------------:|:-:|:---------------:|
-|     altered T    | → | S 
-|     altered S    | → | D 
-|     altered D    | → | T 
+| T ששונתה כרומטית | → | S |
+| S ששונתה כרומטית | → | D |
+| D ששונתה כרומטית | → | T |
 
-Analytical notation
--------------------
+## סימון בניתוח
 
-Applied dominant chords will always make use of *slash notation*. Rather than **#IV**, **#V**, etc., in the Roman numerals, convention is to express its identity in the key that it is borrowed from. If in the key of E-flat, an F-dominant-seventh chord is used to tonicize a B-flat triad, we label the **F7** chord as **V<sup>7</sup>/V**, rather than **II<sup>7</sup>**. This goes on the same line as the Roman numerals for diatonic chords.
+אקורדי דומיננטה שניונית יסומנו תמיד באמצעות *לוכסן*. במקום **#IV**, **#V** וכדומה במספרים רומיים, מקובל לבטא את זהות האקורד בטונליות שממנה הוא שאול. אם בטונליות E במול משתמשים באקורד F ספטימה דומיננטית כדי לבצע טוניקיזציה למשולש B במול, נסמן את אקורד **F7** כ־**V<sup>7</sup>/V**, ולא כ־**II<sup>7</sup>**. הסימון נכתב באותה שורה עם המספרים הרומיים של האקורדים הדיאטוניים.
 
-Underneath the slash notation, we label its harmonic function (**T**, **S**, or **D**). Here we show the way the chord is functioning in the *home* key, not the key from which it is borrowed. So while **F7** may be **V/V** in E-flat, it is a chromatically altered **S**, and so belongs in the **S** harmonic zone.
+מתחת לסימון עם הלוכסן נציין את התפקיד ההרמוני של האקורד (**T**, **S** או **D**). כאן אנו מראים כיצד האקורד מתפקד בטונליות *הראשית*, ולא בטונליות שממנה הוא שאול. לכן, אף ש־**F7** עשוי להיות **V/V** ב־E במול, הוא **S** ששונתה כרומטית, ושייך אפוא לאזור ההרמוני **S**.
 
-This distinction is important. Applied chords are employed within the context of a tonal phrase, and without a cadence in a new key (a modulation), these borrowed chords still play a role within the original key. So while we reflect their borrowedness via slash notation in the Roman numerals, it is also important to reflect their role in the broader harmonic context of the phrase by means of *non*-modulating functional labels.
+הבחנה זו חשובה. אקורדים שניוניים משמשים בהקשר של פראזה טונלית, וללא קדנצה בטונליות חדשה — כלומר, ללא מודולציה — אקורדים שאולים אלה עדיין ממלאים תפקיד בטונליות המקורית. לכן, לצד ביטוי השאילה באמצעות סימון עם לוכסן במספרים הרומיים, חשוב לבטא גם את תפקידם בהקשר ההרמוני הרחב של הפראזה, באמצעות תוויות תפקיד ש*אינן* מציינות מודולציה.
 
-Following is a short keyboard-style passage that includes two different applied chords, notated with Roman numerals. 
+להלן קטע קצר בסגנון כלי מקלדת הכולל שני אקורדים שניוניים שונים, המסומנים במספרים רומיים.
 
-<iframe src="https://trinket.io/embed/music/45c20d9624" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe src="https://trinket.io/embed/music/45c20d9624" title="קטע בסגנון כלי מקלדת: שני אקורדים שניוניים במספרים רומיים" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
+### הערות על סימון בס פונקציונלי
 
-### Notes on functional-bass notation
+כמו ב[אקורדי סובדומיננטה ששונו כרומטית][alteredSubdominants], בסימון הבס הפונקציונלי של כל אקורד שניוני יהיו שני רכיבים. ראשית, בשורה הרגילה של ניתוח הבס הפונקציונלי יופיע סימן המציג את תפקידו בטונליות הנוכחית ואת דרגת הסולם של תו הבס, עם ״+״ או ״–״ אם גובה צליל הבס השתנה. הסימן יוקף בסוגריים מרובעים כדי לציין שהאקורד שונה כרומטית. הסוגריים המרובעים נחוצים בלי קשר לקול שבו מתרחש השינוי הכרומטי. שנית, מתחת לשורה הרגילה יופיע סימן המציין את הטונליות שממנה האקורד שאול ואת סימון הבס הפונקציונלי שהיה לו באותה טונליות.
 
-Like [chromatically altered subdominant chords][alteredSubdominants], every applied chord will have two elements to its functional bass symbol. First, on the normal line of functional bass analysis will be a symbol showing its function in the current key and the scale degree of the bass note (with "+" or "–" for altered bass pitches), surrounded by square brackets to signify that the chord is chromatically altered. (The square brackets are necessary no matter in which voice the chromatic alteration occurs.) Second, below the normal line of functional bass analysis will be a symbol denoting the key from which it is borrowed and the functional bass symbol the chord would have in that key. 
+בדוגמה שלעיל, **F\#dim–G–C** בטונליות C, שורת הבס הפונקציונלי הרגילה תהיה **[S+4] D5 T1**, ומתחת ל־**[S+4]** יופיע **D7/V**. הסימן האחרון משתמש בלוכסן במשמעות ״בטונליות של״, ובמספר רומי לציון הטוניקה של אותה טונליות *ביחס לטונליות הנוכחית*. נשתמש במספרים רומיים בדרך דומה בלימוד מודולציה, לציון הטוניקות של האזורים הטונליים שאליהם המוזיקה עוברת. עם זאת, במספרים רומיים *לעולם אין משתמשים* לציון שורשי אקורדים במסגרת ניתוח בס פונקציונלי.
 
-In our above example of **F\#dim–G–C** in the key of C, the regular functional bass line would read **[S+4] D5 T1**, and below the **[S+4]** would be the symbol **D7/V**. The latter symbol uses a slash to denote "in the key of" and a Roman numeral to denote the tonic of that key *relative to the current key*. We will use Roman numerals similarly when studying modulation to denote tonics of key areas to which the music modulates. Roman numerals, however, are *never* used to denote chordal roots in the context of a functional bass analysis. 
+הנה אותה דוגמה מן הקטע שלעיל, אך המספרים הרומיים הוחלפו בשכבה העליונה של ניתוח הבס הפונקציונלי. Trinket תומך רק בשכבה אחת של מילות שיר או ניתוח הרמוני. אילו אקורדים דורשים שכבה שנייה של ניתוח בס פונקציונלי? מה יהיו הסימנים בשכבה זו?
 
-Here is the same example above, but with the top layer of functional bass analysis replacing the Roman numerals. (Trinket only supports one layer of lyrics/harmonic analysis.) What chords would require a second layer of functional bass analysis? What would those symbols be?
+<iframe src="https://trinket.io/embed/music/9a8ff25f3c" title="תרגיל: הוספת שכבה שנייה לניתוח הבס הפונקציונלי" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-<iframe src="https://trinket.io/embed/music/9a8ff25f3c" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+(אפשר למצוא את הגרסה עם ניתוח הבס הפונקציונלי [כאן](https://trinket.io/music/406c96fec0).)
 
-(You can find the interpreted functional bass version [here](https://trinket.io/music/406c96fec0).)
+## דרגות הסולם באקורדים שניוניים
 
+כשם שהאקורדים השונים בעלי התפקיד הדומיננטי בטונליות מכילים צירוף כלשהו של דרגות בעלות תפקיד דומיננטי — *sol*, *ti*/*te*, *re*, *fa* ו/או *la*/*le*, בדרך כלל *le* — לכל קטגוריה של אקורדי דומיננטה שניונית יש קבוצת דרגות אופייניות משלה. אלה הקבוצות:
 
-## Scale degrees in applied chords
+**D/II** — *di*, *mi*, *sol*, *la* ו־*te*.<br>
+**D/lowered-III (minor)** — *re*, *fa*, *le* ו־*te*; דומיננטה של הדרגה השלישית המונמכת במינור.<br>
+**D/III (major)** — *ri*, *fi*, *la*, *ti* ו־*do*; דומיננטה של הדרגה השלישית במז׳ור.<br>
+**D/IV** — *mi*, *sol*, *te*, *do* ו־*ra*.<br>
+**D/V** — *fi*, *la*, *do*, *re* ו־*me*.<br>
+**D/lowered-VI (minor)** — *sol*, *te*, *ra* ו־*me*; דומיננטה של הדרגה השישית המונמכת במינור.<br>
+**D/VI (major)** — *si*, *ti*, *re*, *mi* ו־*fa*; דומיננטה של הדרגה השישית במז׳ור.<br>
+**D/lowered-VII (minor)** — *la*, *do*, *me* ו־*fa*; דומיננטה של הדרגה השביעית המונמכת במינור.
 
-Just as the various dominant functioning chords in a key will contain some combination of the dominant-functioning scale degrees—*sol*, *ti*/*te*, *re*, *fa*, and/or *la*/*le* (usually *le*)—each category of applied dominant chords will have their own set of usual scale degrees. They are as follows. 
+## דיסוננסים תפקודיים באקורדים שניוניים
 
-**D/II** — *di*, *mi*, *sol*, *la*, and *te*.  
-**D/lowered-III (minor)** — *re*, *fa*, *le*, and *te*.  
-**D/III (major)** — *ri*, *fi*, *la*, *ti*, and *do*.  
-**D/IV** — *mi*, *sol*, *te*, *do*, and *ra*.  
-**D/V** — *fi*, *la*, *do*, *re*, and *me*.  
-**D/lowered-VI (minor)** — *sol*, *te*, *ra*, and *me*.  
-**D/VI (major)** — *si*, *ti*, *re*, *mi*, and *fa*.  
-**D/lowered-VII (minor)** — *la*, *do*, *me*, and *fa*.
+מכיוון שטוניקיזציה שואלת זמנית אקורד מטונליות אחרת, ומכיוון שהאקורד מורכב מדרגות סולם באותה טונליות אחרת, אקורד שניוני כרוך ב*שאילת נטיות של דרגות סולם מן הטונליות האחרת*. במילים אחרות, באקורד שניוני יש להעריך קונסוננסים תפקודיים — צלילים מפעילי תפקיד וצלילים נלווים לתפקיד — ודיסוננסים תפקודיים, וכן צלילי נטייה כגון *ti*, ביחס לטונליות שממנה האקורד שאול, ולא ביחס לטונליות הראשית.
 
+ככלל מקוצר, פירוש הדבר בדרך כלל הוא שהספטימה של אקורד ספטימה או הקווינטה של אקורד מוקטן הן דיסוננסים תפקודיים. באקורד ספטימה חצי־מוקטן או מוקטן במלואו, הן הקווינטה והן הספטימה נוטות להיות דיסוננסים תפקודיים. כלל מקוצר נוסף הוא שהצליל שהוגבה כרומטית נוטה להיות הצליל המוביל של הטונליות העוברת טוניקיזציה.
 
-## Functional dissonances in applied chords
+בניתוח בס פונקציונלי, השתמשו בתווית התפקיד שלפני הלוכסן ובמספר הרומי שאחריו כדי לזהות את הדיסוננסים התפקודיים באופן אמין יותר. נבחן אקורד **D5/V**, כלומר **S2** ששונה כרומטית, ב־G מז׳ור. בטונליות הראשית האקורד מכיל *re* ‏(A), *fi* ‏(C דיאז), *la* ‏(E) ו־*do* ‏(G). אבל בטונליות V, כלומר D מז׳ור, גבהים אלה הם *sol*, *ti*, *re* ו־*fa*. לכן יש להתייחס ל־C דיאז כאל צליל מוביל, ול־G — *fa* ב־D — כאל דיסוננס תפקודי של תפקיד הדומיננטה.
 
-Since tonicization temporarily borrows a chord from another key, and since that chord is made up of scale degress from that other key, an applied chord involves *borrowing scale-degree tendency from that other key*. In other words, in an applied chord, judge functional consonances (triggers and associates) and dissonances, as well as tendency tones like *ti*, relative to the key borrowed from, not the home key.
+*תרגיל: בדוגמאות שלעיל, מצאו את הדיסוננס התפקודי בכל אקורד שניוני. מהו גובה הצליל שלו? כיצד הוא מתקדם אל האקורד הבא?*
 
-As a shortcut, that usually means the seventh of a seventh chord or the fifth of a diminished chord are functional dissonances. (In a half- or fully-diminished-seventh chord, both the fifth and seventh tend to be functional dissonances.) Also as a shortcut, the chromatically raised tone tends to be the leading-tone of the tonicized key.
-
-In functional bass, use the functional label before the slash and the Roman numeral after the slash to determine functional dissonances more reliably. Consider a **D5/V** (altered **S2**) chord in G major. In the home key, the chord contains *re* (A), *fi* (C-sharp), *la* (E), and *do* (G). But those pitches are *sol*, *ti*, *re*, and *fa* in the key of V (D major). Thus, the C-sharp should be treated like a leading-tone, and the G (*fa* in D) like a functional dissonance of dominant function.
-
-*Exercise: In the examples above, find the functional dissonance in each applied chord. What pitch is it? How does it progress into the next chord?*
-
-*Exercise: on the bullet list above, determine which solfège syllable(s) are the functional dissonance for each applied chord.*
-
+*תרגיל: ברשימה שלעיל, קבעו איזו הברת סולפז׳, או אילו הברות, הן הדיסוננס התפקודי בכל אקורד שניוני.*
 
 [D7ofV]: {{ site.url }}/Graphics/D7ofV.png
 [alteredSubdominants]: alteredSubdominants.html

@@ -1,52 +1,58 @@
 ---
 layout: post
-title: Modulation
+title: "מודולציה"
+language: he
+translation_status: language-reviewed
+translation_batch: 8
 ---
 
-*Tonicization* occurs when a chord or short succession of chords are borrowed from another key in order to emphasize—or *tonicize*—a chord in the home key. (See [analyzing applied chords][Applied].) *Modulation* occurs when a longer succession of chords emphasizes a new tonic, leading to the perception of a new key. The principal difference between tonicization and modulation is the presence or absence of a cadence: tonicization does *not* incorporate a cadence in the tonicized key; modulation *does* incorporate at least one cadence (PAC, IAC, or HC) in a new key.
+*טוניקיזציה* (tonicization) מתרחשת כאשר אקורד או רצף קצר של אקורדים נשאלים מטונליות אחרת כדי להדגיש אקורד בטונליות הראשית, או לבצע לו טוניקיזציה. ראו [ניתוח אקורדים שניוניים][Applied]. *מודולציה* (modulation) מתרחשת כאשר רצף ארוך יותר של אקורדים מדגיש טוניקה חדשה, ומוביל לתפיסה של טונליות חדשה. ההבדל העיקרי בין טוניקיזציה למודולציה הוא קיומה או היעדרה של קדנצה: טוניקיזציה *אינה* כוללת קדנצה בטונליות העוברת טוניקיזציה; מודולציה *כוללת* לפחות קדנצה אחת — PAC, IAC או HC — בטונליות חדשה.
 
-There are several ways in which a composer can effect a modulation. The most common are described below.
+יש כמה דרכים שבהן מלחין יכול ליצור מודולציה. הנפוצות ביותר מתוארות להלן.
 
-## Direct/phrase modulation
+<a id="directphrase-modulation"></a>
+## מודולציה ישירה ומודולציה בין פראזות
 
-A *direct modulation* occurs when a chord in the previous key is followed directly by a chord in the new key. In other words, there is no smooth transition or overlap between keys, just a direct movement from one key to the next. This often happens at phrase boundaries, with the old-key tonic ending one phrase and the new-key tonic beginning the next. When a direct modulation happens across a phrase boundary, it is also called a *phrase modulation*.
+*מודולציה ישירה* (direct modulation) מתרחשת כאשר אחרי אקורד בטונליות הקודמת מופיע ישירות אקורד בטונליות החדשה. במילים אחרות, אין מעבר הדרגתי או חפיפה בין הטונליות, אלא מעבר ישיר מטונליות אחת לאחרת. הדבר קורה לעיתים קרובות בגבולות פראזות: הטוניקה של הטונליות הקודמת מסיימת פראזה אחת, והטוניקה של הטונליות החדשה פותחת את הבאה. כאשר מודולציה ישירה מתרחשת בגבול בין פראזות, היא נקראת גם *מודולציה בין פראזות* (phrase modulation).
 
-Examples of phrase modulations abound at the point between the end of the exposition in a minuet or a sonata and the beginning of the repeat of the exposition (if an exposition repeat is present). 
+דוגמאות רבות למודולציה בין פראזות מופיעות בין סוף התצוגה במינואט או בסונטה לבין תחילת החזרה על התצוגה, כאשר יש חזרה כזאת.
 
-A direct modulation is noted in a harmonic analysis by following the last chord in the old key with the new key, followed by a colon, and then the first chord in the new key.
+בניתוח הרמוני מציינים מודולציה ישירה באמצעות כתיבת הטונליות החדשה אחרי האקורד האחרון בטונליות הקודמת, ולאחריה נקודתיים והאקורד הראשון בטונליות החדשה.
 
 > G: I II V I Am: I . . .
 
-or
+או
 
 > G: T1 S4 D5 T1 Am: T1 . . .
 
-## Step-up/pump-up modulation
+<a id="step-uppump-up-modulation"></a>
+## מודולציה בעלייה של צעד
 
-In the pop literature, direct modulations by whole- or half-step are common near the end of the song. Direct/phrase modulations by step from old-key tonic to new-key tonic in pop music are also called *step-up* or *pump-up modulations*. A step-up modulation is notated like a direct modulation.
+ברפרטואר הפופ נפוצות לקראת סוף השיר מודולציות ישירות בטון שלם או בחצי טון. מודולציות ישירות, או מודולציות בין פראזות, העוברות בצעד מן הטוניקה הקודמת לטוניקה החדשה במוזיקת פופ מכונות גם *מודולציות בעלייה של צעד* (step-up או pump-up modulations). מודולציה כזאת מסומנת כמו מודולציה ישירה.
 
-"I Wanna Be Sedated" by the Ramones includes an obvious *step-up* modulation (1:10).
+השיר ״I Wanna Be Sedated״ של Ramones כולל מודולציה ברורה בעלייה של צעד, ב־1:10.
 
-<iframe class="spotify"  src="https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF" frameborder="0" allowtransparency="true"></iframe>
+<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF" title="Ramones: מודולציה בעלייה של צעד ב־I Wanna Be Sedated" frameborder="0" allowtransparency="true"></iframe>
 
-## Truck-driver modulation
+<a id="truck-driver-modulation"></a>
+## מודולציית ״נהג המשאית״
 
-A *truck-driver* modulation is a direct modulation that moves from the old key (usually the tonic chord) to the dominant chord of the new key to prepare that tonic arrival, again common in pop music. The idea behind the name (coined by Walter Everett) is that the music loses energy briefly while in "neutral" (the new key dominant) before moving to a higher state of energy (the new-key tonic, a step above the old-key tonic). A truck-driver modulation is notated like a direct modulation.
+*מודולציית ״נהג המשאית״* (truck-driver modulation) היא מודולציה ישירה העוברת מן הטונליות הקודמת, בדרך כלל מאקורד הטוניקה שלה, אל אקורד הדומיננטה של הטונליות החדשה, כדי להכין את הגעת הטוניקה החדשה. גם סוג זה נפוץ במוזיקת פופ. הרעיון שמאחורי הכינוי, שטבע Walter Everett, הוא שהמוזיקה מאבדת לרגע אנרגיה כשהיא ב״הילוך סרק״ — בדומיננטה של הטונליות החדשה — לפני שהיא עוברת לרמת אנרגיה גבוהה יותר: הטוניקה החדשה, הנמצאת צעד מעל הטוניקה הקודמת. מודולציה זו מסומנת כמו מודולציה ישירה.
 
-Billy Ocean's "Get Outta My Dreams" contains a classic truck-driver modulation (3:55).
+השיר ״Get Outta My Dreams״ של Billy Ocean כולל דוגמה טיפוסית למודולציית ״נהג המשאית״, ב־3:55.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ"></iframe>
+<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ" title="Billy Ocean: מודולציית נהג המשאית ב־Get Outta My Dreams"></iframe>
 
-## Pivot-chord modulation
+<a id="pivot-chord-modulation"></a>
+## מודולציה באמצעות אקורד ציר
 
-A *pivot-chord* modulation makes use of at least one chord that is native to both the old key and the new key. It is the most common type of modulation in common-practice tonal music. The smoothest type of pivot-chord modulation uses a pivot-chord that expresses the same function in both keys — commonly subdominant function, but other functional arrangements are possible and commonly used.
+*מודולציה באמצעות אקורד ציר* (pivot-chord modulation) משתמשת לפחות באקורד אחד השייך הן לטונליות הקודמת והן לטונליות החדשה. זהו סוג המודולציה הנפוץ ביותר במוזיקה הטונלית של תקופת הפרקטיקה המשותפת. המעבר החלק ביותר באמצעות אקורד ציר משתמש באקורד המבטא אותו תפקיד בשתי הטונליות — לרוב תפקיד סובדומיננטי — אך צירופים תפקודיים אחרים אפשריים ונפוצים גם הם.
 
-When a chord expresses dominant function in the new key and is an applied chord in the old key, it is not a pivot chord. Instead, that chord is effecting a direct or truck-driver modulation. A pivot chord must belong to the diatonic collection of both keys (keeping in mind that in minor, both *la* and *le*, and both *ti* and *te* are "native" to the minor key).
+כאשר אקורד מבטא תפקיד דומיננטי בטונליות החדשה והוא אקורד שניוני בטונליות הקודמת, הוא אינו אקורד ציר. במקום זאת, הוא יוצר מודולציה ישירה או מודולציית ״נהג המשאית״. אקורד ציר חייב להשתייך לאוסף הדיאטוני של שתי הטונליות. יש לזכור שבמינור הן *la* והן *le*, וכן הן *ti* והן *te*, נחשבות דרגות השייכות לטונליות עצמה.
 
-A pivot-chord modulation is notated in a special way. The pivot chord receives its analytical symbol for the old key, as usual. Below that symbol is the new key, colon, and the analytical symbol for the pivot chord in the new key. When using notation software, a two-layered analysis is fine: use the lyrics tool to create multiple "verses" of harmonic analysis, one for each key, overlapping on the pivot chord. When analyzing by hand, use a bracket like the one shown in the following example.
+מודולציה באמצעות אקורד ציר מסומנת בדרך מיוחדת. אקורד הציר מקבל כרגיל את סימון הניתוח שלו בטונליות הקודמת. מתחת לסימן זה כותבים את הטונליות החדשה, נקודתיים, וסימון הניתוח של אקורד הציר בטונליות החדשה. בתוכנת תיווי אפשר להשתמש בניתוח בשתי שכבות: באמצעות כלי מילות השיר יוצרים כמה ״בתים״ של ניתוח הרמוני, אחד לכל טונליות, עם חפיפה באקורד הציר. בניתוח בכתב יד משתמשים בסוגר המחבר את שני הניתוחים, כמו בדוגמה הבאה.
 
-<img src="Graphics/harmony/pivot.png" alt="Pivot chord bracket notation: VII of D minor becomes V of F major." style="width:75%" />
-
+<img src="Graphics/harmony/pivot.png" alt="סימון בסוגר של אקורד ציר: VII ב־D מינור הופך ל־V ב־F מז׳ור." style="width:75%" />
 
 [Applied]: appliedChords.html
 [mod]: {{ site.url }}/Graphics/harmony/modEx.png

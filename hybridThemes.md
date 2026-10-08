@@ -1,82 +1,86 @@
 ---
 layout: post
-title: Hybrid themes
+title: "נושאים היברידיים"
+language: he
+translation_status: language-reviewed
+translation_batch: 8
 ---
 
-Hybrid themes mixes the [functional features](themeFunctions.html) of [sentences](sentence.html) and [periods](period.html). William Caplin has identified four primary types: 
+*נושאים היברידיים* (hybrid themes) משלבים את [המאפיינים התפקודיים](themeFunctions.html) של [משפטים מוזיקליים](sentence.html) ושל [פריודות](period.html). William Caplin זיהה ארבעה טיפוסים עיקריים:
 
-## Hybrid 1 ##
+<a id="hybrid-1"></a>
+## טיפוס היברידי 1
 
-Hybrid 1 combines an [antecedent phrase](themeFunctions.html#antecedent) with a [continuation phrase](themeFunctions.html#continuation).
+טיפוס היברידי 1 משלב [פראזה פותחת](themeFunctions.html#antecedent) עם [פראזת המשך](themeFunctions.html#continuation).
 
-<img src="Graphics/ClassicalThemes/hybrid1.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid1.png'">
+<img src="Graphics/ClassicalThemes/hybrid1.svg" alt="טיפוס היברידי 1: פראזה פותחת ופראזת המשך" onerror="this.src='Graphics/ClassicalThemes/hybrid1.png'">
 
 <!--This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).-->
 
-<figure>	
-  <img src="/Graphics/form/k330-ii.png">
-  <figcaption>Antecedent + Continuation: Mozart, Piano Sonata in C major, K. 330 II, mm. 1–8</figcaption>
+<figure>
+  <img src="/Graphics/form/k330-ii.png" alt="מוצרט, סונטה לפסנתר ב־C מז׳ור, K. 330, פרק שני, תיבות 1–8: פראזה פותחת והמשך">
+  <figcaption>פראזה פותחת והמשך: מוצרט, סונטה לפסנתר ב־C מז׳ור, K. 330, פרק שני, תיבות 1–8</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd" title="הקלטת מוצרט, K. 330, פרק שני: טיפוס היברידי 1" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-A prototypical example is found in the first eight measures of Mozart's Piano Sonata in C major, II. The antecedent phrase contains a basic idea characterized by the repeated notes forming its anacrusis. This is followed by a contrasting idea formed from a scalar ascent leading to the phrase's half cadence in m. 4. Following the antecedent phrase, the music begins to express continuation function, primarily through fragmentation and an increase in surface rhythm. In the middle of m. 6, the characteristic melodic motives are liquidated into conventional scalar figuration leading to a V:PAC.
+דוגמה טיפוסית מופיעה בשמונה התיבות הראשונות של הפרק השני בסונטה לפסנתר ב־C מז׳ור מאת מוצרט. הפראזה הפותחת מכילה רעיון בסיסי המתאפיין בתווים החוזרים היוצרים את הקדמה שלו. אחריו מופיע רעיון מנוגד הבנוי מעלייה בסולם, המובילה לחצי־קדנצה של הפראזה בתיבה 4. אחרי הפראזה הפותחת המוזיקה מתחילה לבטא תפקיד המשך, בעיקר באמצעות פיצול ליחידות קצרות יותר והאצת מקצב פני השטח. באמצע תיבה 6, המוטיבים המלודיים האופייניים מתפרקים לתבניות סולמיות מוסכמיות המובילות ל־**V:PAC**.
 
-## Hybrid 2 ##
+<a id="hybrid-2"></a>
+## טיפוס היברידי 2
 
-Hybrid 2 combines an antecedent phrase with a four-measure cadential progression.
+טיפוס היברידי 2 משלב פראזה פותחת עם מהלך קדנציאלי בן ארבע תיבות.
 
-<img src="Graphics/ClassicalThemes/hybrid2.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid2.png'">
+<img src="Graphics/ClassicalThemes/hybrid2.svg" alt="טיפוס היברידי 2: פראזה פותחת ומהלך קדנציאלי" onerror="this.src='Graphics/ClassicalThemes/hybrid2.png'">
 
-<figure>	
-  <img src="/Graphics/form/haydn-III-66-ii.png">
-  <figcaption>Antecedent + Cadential: Haydn, String Quartet in G major, Hob. III:66, II, mm. 1–8</figcaption>
+<figure>
+  <img src="/Graphics/form/haydn-III-66-ii.png" alt="היידן, רביעיית מיתרים ב־G מז׳ור, Hob. III:66, פרק שני, תיבות 1–8: פראזה פותחת ופראזה קדנציאלית">
+  <figcaption>פראזה פותחת ופראזה קדנציאלית: היידן, רביעיית מיתרים ב־G מז׳ור, Hob. III:66, פרק שני, תיבות 1–8</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj" title="הקלטת היידן, Hob. III:66, פרק שני: טיפוס היברידי 2" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-Here, the four measures subsequent to the antecedent support a single cadential progression: 
+כאן ארבע התיבות שאחרי הפראזה הפותחת תומכות במהלך קדנציאלי יחיד:
 
-> **I6 ii6/5 V I**  
+> **I6 ii6/5 V I**
 
-Notice that this four-measure phrase does not display any markers of [continuation function](themeFunctions.html#continuation). 
+שימו לב שפראזה זו, בת ארבע התיבות, אינה מציגה שום סימן של [תפקיד המשך](themeFunctions.html#continuation).
 
+<a id="the-compound-basic-idea"></a>
+## הרעיון הבסיסי המורכב
 
+כשם שמלחינים משלבים לעיתים מאפיינים שונים של שני טיפוסי הנושא העיקריים, כך נפוצים גם שילובים של טיפוסי פראזה שונים. *הרעיון הבסיסי המורכב* (compound basic idea, או CBI) משלב את המאפיינים המלודיים של [התפקיד הפותח](themeFunctions.html#antecedent) עם המאפיינים ההרמוניים של [תפקיד ההצגה](themeFunctions.html#presentation). כמו פראזה פותחת, הוא מציג רעיון בסיסי ואחריו רעיון מנוגד. אולם כמו פראזת הצגה, הרעיון הבסיסי המורכב פשוט מאריך טוניקה, בלי להסתיים בקדנצה.
 
-##The Compound Basic Idea
+<a id="hybrid-3"></a>
+## טיפוס היברידי 3
 
-Just as we sometimes find composers combining different features of the two primary thematic types, we also often find combinations of different types of phrase. The "compound basic idea," or CBI, combines the melodic characteristics of the [antecedent function](themeFunctions.html#antecedent) with the harmonic characteristics of the [presentation](themeFunctions.html#presentation) function. Like an antecedent, it presents a basic idea followed by a contrasting one. But like a presentation, the compound basic idea simply prolongs tonic, without ending in a cadence. 
+הטיפוס ההיברידי השלישי דומה מאוד ל[טיפוס הראשון](hybridThemes.html#hybrid-1). אולם במקום להתחיל בפראזה פותחת, הפראזה הראשונה שלו היא [רעיון בסיסי מורכב](hybridThemes.html#the-compound-basic-idea). אחרי הרעיון הבסיסי המורכב, טיפוס היברידי 3 מסתיים בפראזת המשך הנחתמת בקדנצה.
 
+<img src="Graphics/ClassicalThemes/hybrid3.svg" alt="טיפוס היברידי 3: רעיון בסיסי מורכב ופראזת המשך" onerror="this.src='Graphics/ClassicalThemes/hybrid3.png'">
 
-## Hybrid 3 ##
-
-The third hybrid type strongly resembles the [first hybrid](hybridThemes.html#hybrid-1). Rather than beginning with an initiating antecedent, however, its first phrase is a [CBI](hybridThemes.html#the-compound-basic-idea). Following the CBI, Hybrid 3 concludes with a continuation that ends with a cadence.
-
-<img src="Graphics/ClassicalThemes/hybrid3.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid3.png'">
-
-<figure>	
-  <img src="/Graphics/form/beethoven_op30.png">
-  <figcaption>Compound Basic Idea + Continuation: Beethoven, Violin Sonata, Op. 30, No. 2, III, mm. 1–8</figcaption>
+<figure>
+  <img src="/Graphics/form/beethoven_op30.png" alt="בטהובן, סונטה לכינור, אופוס 30 מס׳ 2, פרק שלישי, תיבות 1–8: רעיון בסיסי מורכב והמשך">
+  <figcaption>רעיון בסיסי מורכב והמשך: בטהובן, סונטה לכינור, אופוס 30 מס׳ 2, פרק שלישי, תיבות 1–8</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT" title="הקלטת בטהובן, אופוס 30 מס׳ 2, פרק שלישי: טיפוס היברידי 3" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-In this example, from Beethoven's Violin Sonata, Op. 30, the melodic structure of the initiating phrase contains two contrasting ideas, each of which begins with the same dotted figure. However, unlike a typical antecedent, the phrase only prolongs tonic as the V6 on the last beat of m. 3 only decorates the tonic through a lower neighbor motion rather than creating cadential articulation. Thus, the phrase is best understood as a ["compound basic idea."](hybridThemes.html#the-compound-basic-idea)
+בדוגמה זו, מן הסונטה לכינור אופוס 30 של בטהובן, המבנה המלודי של הפראזה הראשונה מכיל שני רעיונות מנוגדים, שכל אחד מהם מתחיל באותה תבנית מנוקדת. עם זאת, בניגוד לפראזה פותחת טיפוסית, הפראזה רק מאריכה טוניקה: **V6** בפעימה האחרונה של תיבה 3 מעטר את הטוניקה באמצעות תנועת שכן תחתון, במקום ליצור חיתוך קדנציאלי. לכן נכון יותר להבין את הפראזה כ[״רעיון בסיסי מורכב״](hybridThemes.html#the-compound-basic-idea).
 
-The concluding phrase is a typical continuation expressed through fragmentation, melodic sequence, and increased harmonic rhythm.
+הפראזה המסיימת היא פראזת המשך טיפוסית, המתבטאת בפיצול ליחידות קצרות יותר, בסקוונצה מלודית ובהאצת המקצב ההרמוני.
 
+<a id="hybrid-4"></a>
+## טיפוס היברידי 4
 
-## Hybrid 4 ##
+טיפוס היברידי 4 דומה לפריודה, אלא שהפראזה הראשונה היא ״רעיון בסיסי מורכב״ ולא פראזה פותחת. אחרי [הרעיון הבסיסי המורכב](hybridThemes.html#the-compound-basic-idea), הפראזה המסיימת מבטאת את תפקידה של פראזה עונה. בדרך כלל היא משנה את החזרה של הרעיון המנוגד, כך שהנושא מסתיים בקדנצה חזקה.
 
-Hybrid 4 resembles the period, with the exception that the first phrase is comprised of a "compound basic idea" rather than an antecedent. Following the [CBI](hybridThemes.html#the-compound-basic-idea), the concluding phrase expresses the function of a consequent, typically altering the return of the contrasting idea so that the theme ends with a strong cadence.
+<img src="Graphics/ClassicalThemes/hybrid4.svg" alt="טיפוס היברידי 4: רעיון בסיסי מורכב ופראזה עונה" onerror="this.src='Graphics/ClassicalThemes/hybrid4.png'">
 
-<img src="Graphics/ClassicalThemes/hybrid4.svg" onerror="this.src='Graphics/ClassicalThemes/hybrid4.png'">
-
-<figure>	
-  <img src="/Graphics/form/beethoven_18_2.png">
-  <figcaption>Compound Basic Idea + Consequent: Beethoven, String Quartet in G major, Op. 18/2, IV., mm. 1–8</figcaption>
+<figure>
+  <img src="/Graphics/form/beethoven_18_2.png" alt="בטהובן, רביעיית מיתרים ב־G מז׳ור, אופוס 18 מס׳ 2, פרק רביעי, תיבות 1–8: רעיון בסיסי מורכב ופראזה עונה">
+  <figcaption>רעיון בסיסי מורכב ופראזה עונה: בטהובן, רביעיית מיתרים ב־G מז׳ור, אופוס 18 מס׳ 2, פרק רביעי, תיבות 1–8</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N" title="הקלטת בטהובן, אופוס 18 מס׳ 2, פרק רביעי: טיפוס היברידי 4" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The cello's presentation of the initiating phrase contains two distinct melodic ideas. But this phrase's conclusion, on the C4 in m. 4, is not sufficient to create cadential closure. When the remaining strings enter in m. 5, they work through the same basic and contrasting ideas, but are able to create a I:PAC to close the consequent phrase. 
+הצגת הפראזה הראשונה בצ׳לו מכילה שני רעיונות מלודיים מובחנים. אולם סיום הפראזה על C4 בתיבה 4 אינו מספיק ליצירת סגירה קדנציאלית. כששאר כלי המיתר מצטרפים בתיבה 5, הם מעבדים את אותם רעיונות בסיסיים ומנוגדים, אך יכולים ליצור **I:PAC** לסיום הפראזה העונה.
