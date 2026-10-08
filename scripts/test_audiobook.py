@@ -14,6 +14,20 @@ def wav_bytes():
 
 
 class AudiobookChecks(unittest.TestCase):
+    def test_untranslated_partial_and_unreviewed_chapters_are_excluded(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            (root/'contents.md').write_text('[A](ready.html) [B](partial.html) [C](english.html)')
+            for name, status in [('ready','language-reviewed'),('done','completed'),
+                                 ('partial','partial'),('draft','translated'),
+                                 ('open','translated-needs-editorial-review'),('english',None)]:
+                front = 'layout: post\ntitle: "פרק"\n'
+                if status:
+                    front += 'translation_status: '+status+'\n'
+                (root/(name+'.md')).write_text('---\n'+front+'---\nטקסט')
+            with patch.object(book,'ROOT',root):
+                self.assertEqual([p.name for p in book.chapter_order()],['ready.md','done.md'])
+
     def test_split_preserves_every_character(self):
         text = ('מוזיקה. סי דיאז.\n\nעברית English Ⅳ ♭. '*100)+'סיום'
         chunks = book.split_text(text,300)
@@ -41,13 +55,13 @@ class AudiobookChecks(unittest.TestCase):
                    'source_sha256':'fixture','transcript':'ראשון שני','chunks':['ראשון','שני'],'notices':[]}
         with tempfile.TemporaryDirectory() as temp:
             args = ['export_audiobook.py','--state',temp+'/state','--output',temp+'/out']
-            with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false'}), \
+            with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false','GITHUB_STEP_SUMMARY':''}), \
                  patch.object(sys,'argv',args), patch.object(book,'prepare',return_value=('test',{},[chapter])), \
                  patch.object(book.time,'sleep'), patch.object(book,'synthesize',side_effect=[(wav_bytes(),1),book.Paused('quota_or_rate_limit_429')]):
                 book.main()
             report = json.loads(Path(temp+'/out/progress.json').read_text())
             self.assertEqual(report['status'],'paused'); self.assertEqual(report['chapters'][0]['segments_ready'],1)
-            with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false'}), \
+            with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false','GITHUB_STEP_SUMMARY':''}), \
                  patch.object(sys,'argv',args), patch.object(book,'prepare',return_value=('test',{},[chapter])), \
                  patch.object(book.time,'sleep'), patch.object(book,'synthesize',return_value=(wav_bytes(),1)) as generate:
                 book.main()
@@ -56,7 +70,7 @@ class AudiobookChecks(unittest.TestCase):
             report = json.loads(Path(temp+'/out/progress.json').read_text())
             self.assertEqual(report['status'],'complete')
             self.assertTrue(Path(temp+'/out/chapters/001 — בדיקה.mp3').is_file())
-            with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false'}), \
+            with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false','GITHUB_STEP_SUMMARY':''}), \
                  patch.object(sys,'argv',args), patch.object(book,'prepare',return_value=('test',{},[chapter])), \
                  patch.object(book,'synthesize') as generate:
                 book.main()

@@ -38,7 +38,10 @@ def source(path):
 
 
 def chapter_order():
-    candidates = {p for p in ROOT.glob('*.md') if source(p)[0].get('translation_status')
+    # A nonempty status may mean partial or still awaiting review.
+    # Include only translations that have passed language/source review.
+    eligible_statuses = {'language-reviewed', 'completed'}
+    candidates = {p for p in ROOT.glob('*.md') if source(p)[0].get('translation_status') in eligible_statuses
                   and p.name not in ('index.md','contents.md','contents-hidden.md','README.md')}
     first = [ROOT/'hebrew-introduction.md', ROOT/'fixed-and-movable-do.md']
     soup = BeautifulSoup(markdown.markdown((ROOT/'contents.md').read_text()), 'html.parser')
