@@ -1,0 +1,52 @@
+{
+  "batch": 10,
+  "date": "2026-10-08",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Full paragraph comparison by the same AI; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "internalExpansions.md",
+      "source_sha256": "dea08f69789a724a2a68a6f6273011f1508e18fc33004d1eec444693975582d0",
+      "target_sha256": "88fd914b0f676ebe803e8970e1c885314abc2f76c2eaf81abf95af7d821b0667",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [
+        "internalExpansions.html#non-standard-lengths",
+        "sonataThematicModules.html#primary-theme-module-p",
+        "compoundPeriod.html#a-compound-period-comprised-of-two-sentences",
+        "themeFunctions.html#presentation",
+        "hybridThemes.html#the-compound-basic-idea"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 3,
+      "source_iframes": 4
+    },
+    {
+      "file": "externalExpansions.md",
+      "source_sha256": "3050d0fb8f2a44089e68cc720d959cc655fa6b22f6780894e73025d818c4ff24",
+      "target_sha256": "c657a1a04b1d93749c53fed69fff0c627ae0d83fb36280f8caf4003bb070fd6d",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [
+        "sonataFramingModules.html#introduction",
+        "sonataThematicModules.html#subordinate-theme-module-s",
+        "smallTernary.html#three-thematic-functions",
+        "externalExpansions.html#prefix",
+        "alteredSubdominants.html#augmented-sixth-chords"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 3,
+      "source_iframes": 3
+    }
+  ],
+  "amended_previous_chapter": {
+    "file": "alteredSubdominants.md",
+    "change": "Add source heading anchor only",
+    "target_sha256": "e5a979369dc501ccb4bc89586d24196e61f1f34f7b623c572fc172c481079c32"
+  },
+  "limitations": [
+    "No full score analysis or media playback verification",
+    "No Jekyll build or visual RTL review",
+    "Historical attribution translated, not independently researched"
+  ]
+}

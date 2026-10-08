@@ -9,9 +9,10 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
-  "scope": "51 chapter files; index and contents are partial support pages",
+  "scope": "53 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -813,9 +814,48 @@
       "missing_music_tokens": [],
       "embed_count_preserved": true,
       "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "internalExpansions.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 3,
+      "iframes": 4,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "externalExpansions.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 3,
+      "iframes": 3,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
+    {
+      "url": "http://courses.music.indiana.edu/rhythm/illustrations/hypermeter.html",
+      "status": 502,
+      "final_url": "http://courses.music.indiana.edu/rhythm/illustrations/hypermeter.html",
+      "result": "needs_review",
+      "checked_at": "2026-10-08"
+    },
     {
       "url": "http://en.wikipedia.org/wiki/Solfège",
       "result": "unverified",
@@ -945,6 +985,13 @@
       "checked_at": "2026-10-07"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0Mkcj2eA2EMqMGfzwCnd0u",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0Mkcj2eA2EMqMGfzwCnd0u",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T",
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T",
@@ -1014,6 +1061,13 @@
       "checked_at": "2026-10-07"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm",
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm",
@@ -1056,9 +1110,23 @@
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify:track:3QKUA7OAaQu3Zl1cqMa9gq",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h",
@@ -1097,6 +1165,13 @@
       "final_url": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
       "result": "reachable",
       "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:5wi0p2gHWFYSwnjgHSYEP3",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:5wi0p2gHWFYSwnjgHSYEP3",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ",
@@ -1141,6 +1216,20 @@
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify:track:78LK9tbF0jwOd4PYtk42WD",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:78LK9tbF0jwOd4PYtk42WD",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:7DsGTbl7EABrY5GK6Dza9P",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:7DsGTbl7EABrY5GK6Dza9P",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
@@ -1158,6 +1247,13 @@
       "final_url": "https://openlibrary.org/verify_human?next=/works/OL3267613W/Style_and_music",
       "result": "reachable",
       "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL4649619W/Phrase_rhythm_in_tonal_music",
+      "status": 200,
+      "final_url": "https://openlibrary.org/verify_human?next=/works/OL4649619W/Phrase_rhythm_in_tonal_music",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://openlibrary.org/works/OL5851060W/Sweet_Anticipation",
@@ -1477,8 +1573,8 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_links_checked_this_run": 2,
-  "cached_external_results": 98,
+  "external_links_checked_this_run": 9,
+  "cached_external_results": 100,
   "fatal_structural_errors": [],
   "batch2_unit_structure": true,
   "batch2_unit_hashes_current": true
