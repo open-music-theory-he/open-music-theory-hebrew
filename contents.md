@@ -9,7 +9,7 @@ translation_status: partial
 [הקדמה למהדורה העברית](hebrew-introduction.html)  
 [דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
 
-**מצב העבודה:** 51 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+**מצב העבודה:** 54 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
 
 ## מבוא למקור
 
@@ -105,9 +105,9 @@ translation_status: partial
   
 [Sonata form: exposition types.](SonataTheory-exposition.html)   
 [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)   
-[Thematic Modules.](sonataThematicModules.html)   
-[Sonata form: the recapitulation.](sonataRecap.html)   
-[Sonata form: the development.](sonataDevelopment.html)   
+[יחידות נושאיות](sonataThematicModules.html)<br>
+[צורת סונטה — הרפריזה](sonataRecap.html)<br>
+[צורת סונטה — הפיתוח](sonataDevelopment.html)<br>
 [Sonata form: framing modules (intro & coda).](sonataFramingModules.html)
 
 ### Rondo Form

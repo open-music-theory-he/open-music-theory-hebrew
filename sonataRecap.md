@@ -1,46 +1,49 @@
 ---
 layout: post
-title: Sonata form – the recapitulation
+title: צורת סונטה — הרפריזה
+language: he
+translation_status: language-reviewed
+translation_batch: 11
 ---
 
-The _recapitulation_ is the goal of the sonata, coming after the _exposition_ and the _development_ (anything that precedes the exposition is _introduction_ and anything that follows the recapitulation is _coda_). It answers the expectations set forth by the exposition, and it brings the _essential sonata closure_. Thus, the relationship between the exposition and the recapitulation is the a central focus of a sonata analysis.
+*הרפריזה* (recapitulation) היא היעד של הסונטה, והיא באה אחרי *התצוגה* וה*פיתוח*. כל מה שקודם לתצוגה הוא *מבוא* (introduction), וכל מה שבא אחרי הרפריזה הוא *קודה* (coda). הרפריזה עונה לציפיות שהציבה התצוגה ומביאה את *הסגירה המהותית של הסונטה* (essential sonata closure). לכן היחס בין התצוגה לרפריזה הוא מוקד מרכזי בניתוח סונטה.
 
-In light of the importance of this relationship, an analysis of a recapitulation should always take place in light of the exposition.
+בשל חשיבותו של יחס זה, יש לנתח תמיד את הרפריזה לאור התצוגה.
 
-## Thematic cycle ##
+## המחזור הנושאי {#thematic-cycle}
 
-The recapitulation typically follows the same pattern of modules set forth in the exposition: { P TR ’ S / C } for a two-part exposition, { P TR ⇒ FS / C } for a continuous exposition (the apostrophe stands for the MC, the slash stands for the EEC/ESC).
+הרפריזה פועלת בדרך כלל לפי אותו דפוס יחידות שהוצג בתצוגה: <span dir="ltr">{ P TR ’ S / C }</span> בתצוגה דו־חלקית, ו־<span dir="ltr">{ P TR ⇒ FS / C }</span> בתצוגה רציפה. סימן הגרש מציין את הצזורה האמצעית (medial caesura, MC), והלוכסן מציין את הסגירה המהותית של התצוגה או של הסונטה (EEC/ESC).
 
-## Essential sonata closure
+## הסגירה המהותית של הסונטה {#essential-sonata-closure}
 
-The harmonic goal of the recapitulation (and the sonata movement as a whole) is the _essential sonata closure (ESC)_. The ESC will always be a I:PAC, and will typically occur at the same thematic point in the recapitulation as the EEC in the exposition. It is often the exact same music as in the exposition, but transposed from the secondary key to the home key.
+היעד ההרמוני של הרפריזה, ושל פרק הסונטה כולו, הוא *הסגירה המהותית של הסונטה* (ESC). ה־ESC תהיה תמיד I:PAC, ובדרך כלל תתרחש באותה נקודה נושאית ברפריזה שבה התרחשה EEC בתצוגה. לעיתים קרובות זו בדיוק אותה מוזיקה שהופיעה בתצוגה, אך בטרנספוזיציה מן הטונליות המשנית לטונליות הראשית.
 
-## Recomposition
+## כתיבה מחדש {#recomposition}
 
-The simplest exposition–recapitulation relationship occurs in a sonata with a I:HC MC in the exposition followed immediately by S in the dominant. In such a sonata, the composer can simply repeat P–TR verbatim in the recapitulation, and then repeat S–C verbatim, but transposed down a fifth. In such a sonata, there is no recomposition. Every bar in the recapitulation directly corresponds to a bar in the exposition, at pitch or tranposed by fifth.
+היחס הפשוט ביותר בין תצוגה לרפריזה מופיע בסונטה שבה MC מסוג I:HC בתצוגה מלווה מיד ב־S בדומיננטה. בסונטה כזו המלחין יכול לחזור ברפריזה על P–TR בדיוק כפי שהופיעו, ואז לחזור על S–C בדיוק כפי שהופיעו, אך בטרנספוזיציה של קווינטה כלפי מטה. במקרה זה אין כתיבה מחדש (recomposition). כל תיבה ברפריזה מקבילה ישירות לתיבה בתצוגה, באותם גבהים או בטרנספוזיציה של קווינטה.
 
-In most sonatas, however, some music from the exposition is *recomposed* in the recapitulation, often to "undo" the modulation that happened on the way to a V:HC MC. In such cases, we use the term *correspondence bars* (or *correspondence measures*) to refer to the passages that are the same (or the same transposed) in the exposition and the recapitulation. *Referential bars* make clear reference to specific bars in the exposition, but the material is changed in some non-trivial way. *Alterations* are passages in the recapitulation that have no clear reference or correspondence to passages in the exposition.
+ברוב הסונטות, לעומת זאת, חלק מן המוזיקה של התצוגה *נכתב מחדש* ברפריזה, לעיתים קרובות כדי ״לבטל״ את המודולציה שהתרחשה בדרך ל־MC מסוג V:HC. במקרים כאלה משתמשים במונח *תיבות מקבילות* (correspondence bars או correspondence measures) לקטעים הזהים בתצוגה וברפריזה, או זהים בטרנספוזיציה. *תיבות מתייחסות* (referential bars) מתייחסות בבירור לתיבות מסוימות בתצוגה, אך החומר השתנה בהן באופן מהותי כלשהו. *קטעים משנים* (alterations) הם קטעים ברפריזה שאין להם התייחסות ברורה לקטעים בתצוגה או הקבלה ברורה אליהם.
 
-Correspondence, reference, and altered material tends to happen in the following order in the recapitulation: 
+חומר מקביל, חומר מתייחס וחומר משנה נוטים להופיע ברפריזה בסדר הבא:
 
-- correspondence bars (P and perhaps the beginning of TR or TR ⇒ FS)  
-- alterations or referential bars (primarily in TR or TR ⇒ FS)  
-- correspondence bars (S and C, and sometimes the material immediately preceding the MC, transposed to the home key)
+- תיבות מקבילות: P, ואולי תחילת TR או TR ⇒ FS.
+- קטעים משנים או תיבות מתייחסות: בעיקר ב־TR או ב־TR ⇒ FS.
+- תיבות מקבילות: S ו־C, ולעיתים החומר שלפני MC, בטרנספוזיציה לטונליות הראשית.
 
-### Crux
+### נקודת החיבור מחדש {#crux}
 
-The point in the recapitulation at which alterations give way to renewed correspondence with the exposition is called the *crux*. This point, along with the MC and the ESC, must be determined before most of the rest of the analysis of the recapitulation can take place. Generally speaking, the crux will come before the beginning of S, with S and C comprised primarily of *correspondence bars*.
+הנקודה ברפריזה שבה הקטעים המשנים מפנים את מקומם להקבלה מחודשת לתצוגה נקראת *נקודת החיבור מחדש* (crux). יש לזהות נקודה זו, יחד עם MC ו־ESC, לפני שאפשר להשלים את רוב יתר הניתוח של הרפריזה. ככלל, נקודת החיבור מחדש תבוא לפני תחילת S; רוב S ו־C יהיו מורכבים מתיבות מקבילות.
 
-Typically there are no alterations *post-crux*, but when there are, they should not be overlooked in an analysis.
+בדרך כלל אין קטעים משנים *אחרי נקודת החיבור מחדש*, אך כשהם מופיעים אין להתעלם מהם בניתוח.
 
-## Hermeneutics
+## פרשנות {#hermeneutics}
 
-A sonata analysis only _begins_ with the finding and labeling of these modules, keys, and events. Once you have successfully analyzed the sonata structure, move into interpretation (the scholarly term for the study of musical or textual interpretation is _hermeneutics_). Sonata hermeneutics begins with interpretive questions like:
+ניתוח סונטה רק *מתחיל* במציאת היחידות, הטונליות והאירועים האלה ובסימונם. לאחר שניתחתם בהצלחה את מבנה הסונטה, עברו לפרשנות. המונח האקדמי לחקר פרשנות מוזיקלית או טקסטואלית הוא *הרמנויטיקה* (hermeneutics). פרשנות של סונטה מתחילה בשאלות כגון:
 
-* What expectations does the exposition set up for the recapitulation (and other passages such as the development and, if present, coda)?
-* How does the recapitulation fulfill those expectations?
-* How does the recapitulation thwart or mess with those expectations?
-* What effects might the expected and unexpected elements in the recapitulation have on listeners?
-* How do the unique elements of the piece in question relate to other pieces in its historical context?
+- אילו ציפיות יוצרת התצוגה ביחס לרפריזה, וגם ביחס לקטעים אחרים כגון הפיתוח והקודה, אם יש קודה?
+- כיצד הרפריזה ממלאת ציפיות אלו?
+- כיצד הרפריזה מכשילה אותן או משבשת אותן?
+- כיצד עשויים המרכיבים הצפויים והבלתי צפויים ברפריזה להשפיע על המאזינים?
+- כיצד קשורים המרכיבים הייחודיים של היצירה ליצירות אחרות בהקשר ההיסטורי שלה?
 
-When writing, presenting, or discussing a sonata analysis, don't simply catalog structure. Begin with questions like these, and provide structural details only in service of explaining your answers to those questions (and others that are raised by your engagement with the piece).
+בכתיבה, בהצגה או בדיון בניתוח סונטה, אל תסתפקו במיון המבנה. התחילו בשאלות כאלה, והציגו פרטים מבניים כדי להסביר את תשובותיכם עליהן ועל שאלות אחרות העולות מן העיסוק ביצירה.
