@@ -7,9 +7,10 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
-  "scope": "40 chapter files; index and contents are partial support pages",
+  "scope": "47 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -635,6 +636,118 @@
       "missing_music_tokens": [],
       "embed_count_preserved": true,
       "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "appliedChords.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 3,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "Modulation.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 2,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "sentence.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 3,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "period.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 3,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "hybridThemes.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 8,
+      "iframes": 4,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "compoundPeriod.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 5,
+      "iframes": 2,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "themeFunctions.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
@@ -767,6 +880,34 @@
       "checked_at": "2026-10-07"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH",
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH",
@@ -779,6 +920,20 @@
       "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW",
       "result": "reachable",
       "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5nBf5P09DwNUA9XbwKueVI",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5nBf5P09DwNUA9XbwKueVI",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih",
@@ -800,10 +955,24 @@
       "result": "reachable"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify:track:1mblryRrYNlSJqvrrtvzyq",
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify:track:1mblryRrYNlSJqvrrtvzyq",
       "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:1w6C2YqIHygosg9OY6v7Wl",
@@ -825,6 +994,13 @@
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h",
       "result": "reachable"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9",
@@ -875,6 +1051,13 @@
       "final_url": "https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ",
       "result": "reachable",
       "checked_at": "2026-10-07"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://embed.spotify.com/?uri=spotify:track:70TI9J2rsGIuXyFqVzOswh",
@@ -976,6 +1159,13 @@
       "checked_at": "2026-10-07"
     },
     {
+      "url": "https://trinket.io/embed/music/45c20d9624",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/45c20d9624",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://trinket.io/embed/music/480c1acf9b",
       "status": 200,
       "final_url": "https://trinket.io/embed/music/480c1acf9b",
@@ -1039,6 +1229,13 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "https://trinket.io/embed/music/9a8ff25f3c",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/9a8ff25f3c",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://trinket.io/embed/music/a089e987ca",
       "status": 200,
       "final_url": "https://trinket.io/embed/music/a089e987ca",
@@ -1079,6 +1276,13 @@
       "final_url": "https://trinket.io/embed/music/bd3da422f4",
       "result": "reachable",
       "checked_at": "2026-10-06"
+    },
+    {
+      "url": "https://trinket.io/embed/music/c6b5004279",
+      "status": 200,
+      "final_url": "https://trinket.io/embed/music/c6b5004279",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://trinket.io/embed/music/da93d4d902",
@@ -1137,6 +1341,13 @@
       "checked_at": "2026-10-06"
     },
     {
+      "url": "https://trinket.io/music/406c96fec0",
+      "status": 200,
+      "final_url": "https://trinket.io/music/406c96fec0",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://vimeo.com",
       "status": 200,
       "final_url": "https://vimeo.com/",
@@ -1188,8 +1399,8 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_links_checked_this_run": 4,
-  "cached_external_results": 80,
+  "external_links_checked_this_run": 0,
+  "cached_external_results": 98,
   "fatal_structural_errors": [],
   "batch2_unit_structure": true,
   "batch2_unit_hashes_current": true

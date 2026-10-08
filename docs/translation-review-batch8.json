@@ -1,0 +1,277 @@
+{
+  "batch": 8,
+  "date": "2026-10-08",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Full source/target comparison by the same AI; structural checks and local arithmetic; not independent human review.",
+  "chapters": [
+    {
+      "file": "appliedChords.md",
+      "source_sha256": "d4376b50f21c16fffd214f7c51f70a99483a3699e094b016131345512f46c9fc",
+      "target_sha256": "46625fb3fba4f0a0a0871d5445d6859b9a9c3bf3515785fa1ac1b3814226bcc1",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [],
+      "local_anchor_failures": [],
+      "source_images": 0,
+      "source_iframes": 3
+    },
+    {
+      "file": "Modulation.md",
+      "source_sha256": "1b58cf0ef128652db37f31a71d56b0be0266d31fedbb102258da33bbf5a31031",
+      "target_sha256": "53d7d28370588a252f50326d9e6c85fd2e37d0740812d421ef9ff8c97f38a69b",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [],
+      "local_anchor_failures": [],
+      "source_images": 1,
+      "source_iframes": 2
+    },
+    {
+      "file": "sentence.md",
+      "source_sha256": "f2fee649650ea35741b554a74fcffb1067605a575dae1c40a3087482dd846584",
+      "target_sha256": "5f04661ee269aeb6daa0d5ac6b7a713379669f8daf42a2b75e98135ce6226cfc",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [
+        "harmonicSyntax2.html#subsidiary-harmonic-progressions",
+        "harmonicSyntax2.html#contrapuntal-prolongation--passing-chord",
+        "themeFunctions.html#presentation",
+        "themeFunctions.html#continuation",
+        "themeFunctions.html#cadential"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 3,
+      "source_iframes": 1
+    },
+    {
+      "file": "period.md",
+      "source_sha256": "b273d2d5a0f09ce80f9eed14255df99b908d40ce9ae1b2f524218c6ef48758c6",
+      "target_sha256": "ee8a88281d6071bbdd6daed03e3b1cc72fda1d6437e0b561438c49e64a955a45",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [],
+      "local_anchor_failures": [],
+      "source_images": 3,
+      "source_iframes": 1
+    },
+    {
+      "file": "hybridThemes.md",
+      "source_sha256": "dba907148e89a744ef467177b0be9443f6cd122ccb424666d0d5f2e0f138bb7a",
+      "target_sha256": "b9edc3c37e99a8669ebf2e62b1f26e37224a47956bfbcdd873ca39636fdead05",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [
+        "themeFunctions.html#antecedent",
+        "themeFunctions.html#continuation",
+        "themeFunctions.html#continuation",
+        "themeFunctions.html#antecedent",
+        "themeFunctions.html#presentation",
+        "hybridThemes.html#hybrid-1",
+        "hybridThemes.html#the-compound-basic-idea",
+        "hybridThemes.html#the-compound-basic-idea",
+        "hybridThemes.html#the-compound-basic-idea"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 8,
+      "source_iframes": 4
+    },
+    {
+      "file": "compoundPeriod.md",
+      "source_sha256": "da9a99b5db6cf61cc50f36c5f89d9f43385ee1595989d06b34c50d6355ee5e6b",
+      "target_sha256": "f0b45706192335c77a25092f624ed5e3561b8a2f716b03897f0f3a214958aad5",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [
+        "themeFunctions.html#antecedent",
+        "themeFunctions.html#consequent",
+        "hybridThemes.html#hybrid-1",
+        "hybridThemes.html#the-compound-basic-idea"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 5,
+      "source_iframes": 2
+    },
+    {
+      "file": "themeFunctions.md",
+      "source_sha256": "b8a27fb7eb6c2ae01e03c829bda6fe672825139d174f6fd541c3d9e01bbb9dac",
+      "target_sha256": "2b299cefd39bf5924f9ff46084fe17c54d6db0ddf2f21f3a26cc29c51773101e",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "local_anchors_checked": [],
+      "local_anchor_failures": [],
+      "source_images": 0,
+      "source_iframes": 0
+    }
+  ],
+  "applied_scale_degree_sets_in_C": {
+    "II": {
+      "syllables": [
+        "di",
+        "mi",
+        "sol",
+        "la",
+        "te"
+      ],
+      "dominant_root_pc": 9,
+      "intervals_above_root": [
+        0,
+        1,
+        4,
+        7,
+        10
+      ]
+    },
+    "lowered-III": {
+      "syllables": [
+        "re",
+        "fa",
+        "le",
+        "te"
+      ],
+      "dominant_root_pc": 10,
+      "intervals_above_root": [
+        0,
+        4,
+        7,
+        10
+      ]
+    },
+    "III": {
+      "syllables": [
+        "ri",
+        "fi",
+        "la",
+        "ti",
+        "do"
+      ],
+      "dominant_root_pc": 11,
+      "intervals_above_root": [
+        0,
+        1,
+        4,
+        7,
+        10
+      ]
+    },
+    "IV": {
+      "syllables": [
+        "mi",
+        "sol",
+        "te",
+        "do",
+        "ra"
+      ],
+      "dominant_root_pc": 0,
+      "intervals_above_root": [
+        0,
+        1,
+        4,
+        7,
+        10
+      ]
+    },
+    "V": {
+      "syllables": [
+        "fi",
+        "la",
+        "do",
+        "re",
+        "me"
+      ],
+      "dominant_root_pc": 2,
+      "intervals_above_root": [
+        0,
+        1,
+        4,
+        7,
+        10
+      ]
+    },
+    "lowered-VI": {
+      "syllables": [
+        "sol",
+        "te",
+        "ra",
+        "me"
+      ],
+      "dominant_root_pc": 3,
+      "intervals_above_root": [
+        0,
+        4,
+        7,
+        10
+      ]
+    },
+    "VI": {
+      "syllables": [
+        "si",
+        "ti",
+        "re",
+        "mi",
+        "fa"
+      ],
+      "dominant_root_pc": 4,
+      "intervals_above_root": [
+        0,
+        1,
+        4,
+        7,
+        10
+      ]
+    },
+    "lowered-VII": {
+      "syllables": [
+        "la",
+        "do",
+        "me",
+        "fa"
+      ],
+      "dominant_root_pc": 5,
+      "intervals_above_root": [
+        0,
+        4,
+        7,
+        10
+      ]
+    }
+  },
+  "examples": {
+    "Fsharp_diminished_in_C": [
+      "F#",
+      "A",
+      "C"
+    ],
+    "A7_in_G_tonicizes_D": [
+      "A",
+      "C#",
+      "E",
+      "G"
+    ],
+    "pivot_D_minor_VII_equals_F_major_V": [
+      "C",
+      "E",
+      "G"
+    ],
+    "formal_count_examples": {
+      "sentence_Mozart_K283": {
+        "presentation": 4,
+        "continuation": 6
+      },
+      "period_Haydn_XV27": {
+        "antecedent": 4,
+        "consequent": 4
+      },
+      "compound_period_Mozart_K284": {
+        "large_antecedent": 8,
+        "large_consequent": 8
+      }
+    }
+  },
+  "limitations": [
+    "No Jekyll build or browser rendering QA yet",
+    "Unchanged graphics retain source English labels",
+    "Playback and recording identity not verified",
+    "No historical research into terminology attribution",
+    "Only selected score details visually reviewed; not a note-by-note audit of all scores"
+  ]
+}
