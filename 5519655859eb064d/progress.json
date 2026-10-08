@@ -61,9 +61,14 @@
         "musical_notation_needs_listening_review",
         "visual_or_interactive_content"
       ],
-      "segments_ready": 0,
+      "segments_ready": 5,
       "segments_total": 5,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "14d92bc6aee220c4226db19cbdca374c134365dcc201fe37db8124ad1845b20b",
+      "sha256": "4e0fcb7e88102ecef0b2449d7cf7e3528a66610b55847fa9231cea4048d9cdb7",
+      "seconds": 466.96000000000004,
+      "chunks": 5,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "protonotation.md",
@@ -72,9 +77,14 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 0,
+      "segments_ready": 4,
       "segments_total": 4,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "5544b8efa56db55ed3c3a24176e1fd8f66d52582b49989bd63ac9195adef837c",
+      "sha256": "6064b17302949c54c51d0da1c881be3255fc278909dd59f2184760f107ea53fb",
+      "seconds": 351.32,
+      "chunks": 4,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "rhythmicValues.md",
@@ -83,9 +93,14 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 0,
+      "segments_ready": 2,
       "segments_total": 2,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "7a131bbffdbd4262d76732362325114db6d0527e20dc46b7044e8e384bd54202",
+      "sha256": "e79855659cd161e95b313ce1d66aceb17e1426549ddc3b4e10ded4a935045e82",
+      "seconds": 132.36,
+      "chunks": 2,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "beams.md",
@@ -407,9 +422,22 @@
       "status": "pending"
     },
     {
+      "source": "appliedChords.md",
+      "title": "אקורדים שניוניים",
+      "filename": "036 — אקורדים שניוניים.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review",
+        "table_linearized_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 8,
+      "status": "pending"
+    },
+    {
       "source": "modalMixture.md",
       "title": "עירוב מודאלי",
-      "filename": "036 — עירוב מודאלי.mp3",
+      "filename": "037 — עירוב מודאלי.mp3",
       "notices": [
         "musical_notation_needs_listening_review"
       ],
@@ -418,9 +446,214 @@
       "status": "pending"
     },
     {
+      "source": "Modulation.md",
+      "title": "מודולציה",
+      "filename": "038 — מודולציה.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "sentence.md",
+      "title": "המשפט המוזיקלי",
+      "filename": "039 — המשפט המוזיקלי.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "period.md",
+      "title": "הפריודה",
+      "filename": "040 — הפריודה.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "hybridThemes.md",
+      "title": "נושאים היברידיים",
+      "filename": "041 — נושאים היברידיים.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "compoundPeriod.md",
+      "title": "פריודה מורכבת",
+      "filename": "042 — פריודה מורכבת.mp3",
+      "notices": [
+        "image_alt_only",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "compoundSentence.md",
+      "title": "משפט מוזיקלי מורכב",
+      "filename": "043 — משפט מוזיקלי מורכב.mp3",
+      "notices": [
+        "image_alt_only",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "smallTernary.md",
+      "title": "צורה תלת־חלקית קטנה",
+      "filename": "044 — צורה תלתחלקית קטנה.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    },
+    {
+      "source": "smallBinary.md",
+      "title": "צורה דו־חלקית קטנה",
+      "filename": "045 — צורה דוחלקית קטנה.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "classicalThemes.md",
+      "title": "טיפוסי נושא קלאסיים — דף עזר",
+      "filename": "046 — טיפוסי נושא קלאסיים  דף עזר.mp3",
+      "notices": [
+        "image_alt_only"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "themeFunctions.md",
+      "title": "תפקידים נושאיים",
+      "filename": "047 — תפקידים נושאיים.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "externalExpansions.md",
+      "title": "הרחבות חיצוניות",
+      "filename": "048 — הרחבות חיצוניות.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 2,
+      "status": "pending"
+    },
+    {
+      "source": "internalExpansions.md",
+      "title": "הרחבות פנימיות",
+      "filename": "049 — הרחבות פנימיות.mp3",
+      "notices": [
+        "image_alt_only",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 5,
+      "status": "pending"
+    },
+    {
+      "source": "sonataStructuralPointsOfArrival.md",
+      "title": "צורת סונטה — נקודות הגעה מבניות",
+      "filename": "050 — צורת סונטה  נקודות הגעה מבניות.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 4,
+      "status": "pending"
+    },
+    {
+      "source": "sonataThematicModules.md",
+      "title": "צורת סונטה — יחידות נושאיות",
+      "filename": "051 — צורת סונטה  יחידות נושאיות.mp3",
+      "notices": [
+        "image_alt_only",
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
+      "source": "sonataRecap.md",
+      "title": "צורת סונטה — הרפריזה",
+      "filename": "052 — צורת סונטה  הרפריזה.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review"
+      ],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "sonataDevelopment.md",
+      "title": "צורת סונטה — הפיתוח",
+      "filename": "053 — צורת סונטה  הפיתוח.mp3",
+      "notices": [],
+      "segments_ready": 0,
+      "segments_total": 3,
+      "status": "pending"
+    },
+    {
+      "source": "sonataFramingModules.md",
+      "title": "צורת סונטה — יחידות מסגרת (מבוא וקודה)",
+      "filename": "054 — צורת סונטה  יחידות מסגרת מבוא וקודה.mp3",
+      "notices": [
+        "musical_notation_needs_listening_review",
+        "visual_or_interactive_content"
+      ],
+      "segments_ready": 0,
+      "segments_total": 6,
+      "status": "pending"
+    },
+    {
       "source": "schemataOpensAndCloses.md",
       "title": "סכמות בסגנון הגלנט — פתיחות וסיומים",
-      "filename": "037 — סכמות בסגנון הגלנט  פתיחות וסיומים.mp3",
+      "filename": "055 — סכמות בסגנון הגלנט  פתיחות וסיומים.mp3",
       "notices": [
         "image_alt_only"
       ],
@@ -431,7 +664,7 @@
     {
       "source": "schemataContinuationPatterns.md",
       "title": "סכמות בסגנון הגלנט — תבניות המשך",
-      "filename": "038 — סכמות בסגנון הגלנט  תבניות המשך.mp3",
+      "filename": "056 — סכמות בסגנון הגלנט  תבניות המשך.mp3",
       "notices": [
         "image_alt_only",
         "musical_notation_needs_listening_review"
@@ -443,7 +676,7 @@
     {
       "source": "schemataSummary.md",
       "title": "סכמות בסגנון הגלנט — סיכום",
-      "filename": "039 — סכמות בסגנון הגלנט  סיכום.mp3",
+      "filename": "057 — סכמות בסגנון הגלנט  סיכום.mp3",
       "notices": [
         "musical_notation_needs_listening_review",
         "table_linearized_needs_listening_review"
@@ -455,7 +688,7 @@
     {
       "source": "schemata-improv.md",
       "title": "אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט",
-      "filename": "040 — אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט.mp3",
+      "filename": "058 — אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט.mp3",
       "notices": [
         "image_alt_only",
         "musical_notation_needs_listening_review",
@@ -466,6 +699,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 6,
+  "requests_this_run": 12,
   "reason": "quota_or_rate_limit_429"
 }
