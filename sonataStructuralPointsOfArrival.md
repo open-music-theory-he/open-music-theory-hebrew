@@ -1,44 +1,46 @@
 ---
 layout: post
-title: Sonata form – structural points of arrival
+title: צורת סונטה — נקודות הגעה מבניות
+language: he
+translation_status: language-reviewed
+translation_batch: 12
 ---
 
-A sonata exposition has two structural arrival points, all associated with, but not equivalent to, cadential arrivals.
+בתצוגה של סונטה יש שתי נקודות הגעה מבניות. שתיהן קשורות להגעות קדנציאליות, אך אינן זהות להן.
 
-## Medial caesura (MC)
+## צזורה אמצעית (MC) {#medial-caesura-mc}
 
-James Hepokoski and Warren Darcy (whose theory forms the basis of these reference materials) recommend that when analyzing a sonata exposition, "the first task [is] to locate and identify the treatment of the _MC_" (p. 24). In a two-part exposition the moment marks the end of the part one of the exposition and thus indicates the imminent arrival of the subordinate theme, which begins part two. Prepared by energy that has been gained in the transition zone (TR), the MC is a rhetorical break–quite often a rest or silence–that dissipates the transition's energy, opening "space" for the onset of S. The first step in locating in an MC is to look for this break, which is often as simple as finding rests immediately before music in the subordinate key.
+ג׳יימס הפוקוסקי וורן דארסי, שהתאוריה שלהם היא הבסיס לחומרי עזר אלה, ממליצים שבניתוח תצוגה של סונטה, ״המשימה הראשונה [היא] לאתר ולזהות כיצד מטופלת ה־*MC*״ (עמ׳ 24). בתצוגה דו־חלקית, רגע זה מציין את סוף החלק הראשון של התצוגה, וכך מבשר את הגעתו הקרובה של הנושא המשני, הפותח את החלק השני. *הצזורה האמצעית* (medial caesura, MC), שהאנרגיה שנצברה באזור המעבר (TR) מכינה אותה, היא הפסקה רטורית — לעיתים קרובות הפסקה בתווים או שתיקה — המפזרת את אנרגיית המעבר ופותחת ״מרחב״ לתחילת S. הצעד הראשון באיתור MC הוא לחפש הפסקה זו; לעיתים די למצוא הפסקות בתווים מיד לפני מוזיקה בטונליות המשנית.
 
-Medial caesuras are always associated with a cadence–most often a half cadence. Though importantly, *MCs are not cadences* in themselves. Typically, the transition module leads to an HC, and a "[standing on the dominant](internalExpansions.html)" is used to gain energy that will culminate in the MC. (H/D call this a "dominant lock.") Occasionally — especially in slow movements or shorter movements — the MC and structural HC will occur at the same time, though technically, they are not the same thing!
+צזורות אמצעיות קשורות תמיד לקדנצה, בדרך כלל לחצי קדנצה (half cadence, HC). עם זאת, *צזורות אמצעיות אינן קדנצות* בפני עצמן. בדרך כלל יחידת המעבר מובילה ל־HC, ו״[שהייה על הדומיננטה](externalExpansions.html#standing-on-the-dominant)״ משמשת לצבירת אנרגיה שתגיע לשיאה ב־MC. הפוקוסקי ודארסי מכנים זאת ״נעילה על הדומיננטה״ (dominant lock). לפעמים — במיוחד בפרקים איטיים או קצרים — ה־MC וחצי הקדנצה המבנית מתרחשות באותו רגע, אף שמבחינה מושגית אין הן אותו הדבר!
 
-In the following example (from Mozart's Piano Sonata in D major, K. 284), the transition's continuation reaches an HC at the beginning of the second line (marked legato). The dominant is prolonged via a "standing on the dominant," and the MC is reached 5 measures later, marked by "three hammer blows" in the left hand and a one-beat silence.
+בדוגמה הבאה, מתוך הסונטה לפסנתר ברה מז׳ור, K. 284, מאת מוצרט, ההמשך של המעבר מגיע ל־HC בתחילת השורה השנייה, במקום המסומן legato. הדומיננטה מוארכת באמצעות ״שהייה על הדומיננטה״, וה־MC מגיעה כעבור חמש תיבות; היא מסומנת באמצעות ״שלוש מהלומות פטיש״ ביד שמאל ושתיקה בת פעמה אחת.
 
-**Mozart Piano Sonata in D major, K. 284, i**
+**מוצרט, סונטה לפסנתר ברה מז׳ור, K. 284, פרק ראשון**
 
-[![]({{ site.url }}/Graphics/form/medialCaesura.png)]({{ site.url }}/Graphics/form/medialCaesura.png)
+[![דוגמת תווים: חצי קדנצה, שהייה על הדומיננטה וצזורה אמצעית בסונטה K. 284 מאת מוצרט]({{ site.url }}/Graphics/form/medialCaesura.png)]({{ site.url }}/Graphics/form/medialCaesura.png)
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2DuicS9kJJcP1sIyIGxGpE" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת הסונטה לפסנתר K. 284 מאת מוצרט — דוגמת צזורה אמצעית" src="https://embed.spotify.com/?uri=spotify:track:2DuicS9kJJcP1sIyIGxGpE" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-As mentioned, the most common cadence associated with an MC is a half cadence. Typically, the HC occurs either in the home key, which we will call a I:HC MC, or the secondary key, a V:HC MC or III:HC MC. 
+כאמור, הקדנצה השכיחה ביותר הקשורה ל־MC היא חצי קדנצה. בדרך כלל ה־HC מתרחשת בטונליות הראשית — אז נכנה את הצזורה <bdi dir="ltr">I:HC MC</bdi> — או בטונליות המשנית, בצזורה מסוג <bdi dir="ltr">V:HC MC</bdi> או <bdi dir="ltr">III:HC MC</bdi>.
 
-These musical characteristics often lead to an MC, and are associated with the transition module (discussed below):
+המאפיינים המוזיקליים הבאים מובילים לעיתים קרובות ל־MC וקשורים ליחידת המעבר, הנדונה בהמשך:
 
-* *energy gain* leading into the HC;
-* a continuous maintaining of energy between the HC and the MC.
-* a pause or break in the musical texture at the MC (sometimes *filled* by a single voice or other greatly reduced texture—what H/D call "caesura fill");
+* *הגברת אנרגיה* לקראת ה־HC;
+* שמירה רציפה על האנרגיה בין ה־HC ל־MC;
+* הפסקה או קטיעה במרקם המוזיקלי ב־MC. לפעמים קול יחיד או מרקם אחר המצומצם במידה רבה *ממלאים* את ההפסקה — מה שהפוקוסקי ודארסי מכנים ״מילוי הצזורה״ (caesura fill).
 
-Other common, but by no means required, features are:
+מאפיינים שכיחים נוספים, שאינם נדרשים בהכרח, הם:
 
-* *fa–fi–sol* in the bass (or sometimes, *le–sol*), leading into the HC;  
-* a thrice-repeated chord of arrival immediately preceding the break (what H/D call "hammer blows").
+* <bdi dir="ltr">*fa–fi–sol*</bdi> בבס, או לפעמים <bdi dir="ltr">*le–sol*</bdi>, לקראת ה־HC;
+* חזרה שלוש פעמים על אקורד ההגעה מיד לפני ההפסקה — מה שהפוקוסקי ודארסי מכנים ״מהלומות פטיש״ (hammer blows).
 
-*For an MC to be a real MC, it must be followed by a satisfactory subordinate (S) theme* (see below). A cadence that otherwise could function as an MC, but is not followed by a satisfactory S theme, is considered a case of "medial caesura declined," or could indicate the presence of a continuous exposition.
+*כדי ש־MC תהיה צזורה אמצעית ממש, חייב להופיע אחריה נושא משני (S) העונה לדרישות* (ראו בהמשך). קדנצה שבנסיבות אחרות הייתה יכולה לתפקד כ־MC, אך אין אחריה נושא S העונה לדרישות, נחשבת למקרה של ״צזורה אמצעית שנדחתה״ (medial caesura declined), או עשויה להעיד על תצוגה רציפה.
 
-## Essential expositional closure (EEC)
+## סגירה מהותית של התצוגה (EEC) {#essential-expositional-closure-eec}
 
-In the exposition of a sonata movement, the EEC is "the first satisfactory PAC within the [subordinate] key that goes on to differening material" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is _always_ in the subordinate key. In a major mode, it will nearly always be a V:PAC, and in the minor mode, it is most often a III:PAC. The closing zone (C) immediately follows the EEC.
+בתצוגה של פרק בצורת סונטה, *הסגירה המהותית של התצוגה* (essential expositional closure, EEC) היא ״ה־PAC הראשונה העונה לדרישות בטונליות [המשנית], שאחריה עוברים לחומר שונה״ (הפוקוסקי ודארסי, עמ׳ 18). PAC היא קדנצה אותנטית מושלמת (perfect authentic cadence). ה־EEC *אינה* אופציונלית, והיא מתרחשת *תמיד* בטונליות המשנית. במודוס מז׳ורי היא תהיה כמעט תמיד <bdi dir="ltr">V:PAC</bdi>, ובמודוס מינורי — לרוב <bdi dir="ltr">III:PAC</bdi>. אזור הסיום (C) בא מיד אחרי ה־EEC.
 
-Two features of the EEC are of great importance: (1) it coincides with the _first_ satisfactory PAC, and (2) it is followed by _differing_ material. _Often, the rhetorically strongest PAC in the dominant is not the EEC_.
+לשני מאפיינים של ה־EEC חשיבות רבה: (1) היא חלה יחד עם ה־PAC *הראשונה* העונה לדרישות, ו־(2) בא אחריה חומר *שונה*. *לעיתים קרובות, ה־PAC החזקה ביותר מבחינה רטורית בטונליות הדומיננטה אינה ה־EEC*.
 
-Once the PAC has been achieved, any new material is part of a _closing zone (C)_, as it is no longer under the purview of _S_.
-
+לאחר שהושגה ה־PAC, כל חומר חדש הוא חלק מ*אזור הסיום (C)*, שכן הוא כבר אינו שייך לתחום הנושא המשני S.

@@ -1,46 +1,49 @@
 ---
 layout: post
-title: Sonata form – framing modules (introduction & coda)
+title: צורת סונטה — יחידות מסגרת (מבוא וקודה)
+language: he
+translation_status: language-reviewed
+translation_batch: 12
 ---
 
-The *grammar* of a sonata — the basic harmonic and thematic story that anchors the formal style — is accomplished largely in the exposition, development, and especially the recapitulation. Of course, sonata-form movements typically have other narratives to tell musically, and the bigger the story, the more care composers take to hold it all together. 
+ה*דקדוק* של הסונטה — הסיפור ההרמוני והנושאי הבסיסי המעגן את סגנונה הצורני — מתממש בעיקר בתצוגה, בפיתוח ובייחוד ברפריזה. כמובן, לפרקים בצורת סונטה יש בדרך כלל סיפורים מוזיקליים נוספים לספר; וככל שהסיפור גדול יותר, המלחינים מקפידים יותר לשמור על לכידותו.
 
-Larger sonata movements tend to have one or more framing modules: either an *introduction*, a *coda*, or both. These help to "frame" the big picture, and to create a coherent musical narrative — often an arc that builds in tension to a climax and resolves to a point of relative rest by the end of the movement.
+פרקי סונטה גדולים נוטים לכלול יחידת מסגרת אחת או יותר: *מבוא* (introduction), *קודה* (coda), או שניהם. יחידות אלה מסייעות להעמיד את התמונה הכוללת במסגרת וליצור סיפור מוזיקלי לכיד — לעיתים קרובות קשת שבה המתח מצטבר עד לשיא, ולבסוף נפתר ומגיע למנוחה יחסית בסוף הפרק.
 
-Some common characteristics of these modules are provided below, many of which are shared with introductions and codas in [pop/rock music](http://openmusictheory.com/popRockForm.html).
+להלן כמה מאפיינים שכיחים של יחידות אלה. רבים מהם משותפים גם למבואות ולקודות ב[מוזיקת פופ ורוק](http://openmusictheory.com/popRockForm.html).
 
-## Introduction
+## מבוא {#introduction}
 
-An introduction is any material that precedes the primary theme zone (P). It stands *outside* the exposition. If the exposition is repeated, the introduction is not repeated with it. Thus, a composer's open repeat sign **\|\|:** in the score can be an important visual clue in identifying the end of an introduction and the beginning of an exposition. Because the introduction is not part of the exposition, it is not repeated in the recapitulation. Thus, even without repeats in a score or a performance, once the thematic cycle of the exposition, development, and recapitulation has been identified, the introduction can be identified as music that precedes the first occurrence of that cycle. Finally, though introductory material may be referenced later in the sonata, the introductory module only occurs once in a standard sonata movement (unlike a pop/rock introduction).
+מבוא הוא כל חומר הקודם לאזור הנושא הראשי (P). הוא נמצא *מחוץ* לתצוגה. אם חוזרים על התצוגה, המבוא אינו חוזר איתה. לכן סימן תחילת החזרה **<bdi dir="ltr">||:</bdi>** שכתב המלחין בתווים עשוי להיות רמז חזותי חשוב לזיהוי סוף המבוא ותחילת התצוגה. מכיוון שהמבוא אינו חלק מהתצוגה, אין חוזרים עליו ברפריזה. לפיכך, גם ללא חזרות בתווים או בביצוע, לאחר זיהוי המחזור הנושאי של התצוגה, הפיתוח והרפריזה, אפשר לזהות את המבוא כמוזיקה הקודמת להופעה הראשונה של מחזור זה. לבסוף, אף שחומר מן המבוא עשוי להופיע כאזכור בהמשך הסונטה, יחידת המבוא מופיעה פעם אחת בלבד בפרק סונטה רגיל, בניגוד למבוא בפופ וברוק.
 
-### Introduction types
+### סוגי מבואות {#introduction-types}
 
-Introductions can be very brief, including simply one, two, or three *forte* chords from the orchestra as a simple "call to attention." The opening two chords of Beethoven's "Eroica" symphony are an example of this brief introduction.
+מבואות יכולים להיות קצרים מאוד: למשל, אקורד אחד, שניים או שלושה שהתזמורת מנגנת בעוצמה חזקה (*forte*), כ״קריאה לתשומת לב״ פשוטה. שני אקורדי הפתיחה של הסימפוניה ״ארואיקה״ מאת בטהובן הם דוגמה למבוא קצר כזה.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7GN1OfFxv9xpUjLI6ELqyh" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת הסימפוניה ארואיקה מאת בטהובן — מבוא קצר" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7GN1OfFxv9xpUjLI6ELqyh" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-Longer introductions often provide a slow contrast to a lively P theme. These slow introductions sometimes emphasize the parallel minor mode to prepare a major-key P theme. They typically end with a half cadence or other strong dominant arrival to generate anticipation of the tonic-emphasizing P theme that follows. The composer may *stand on the dominant* for some time to increase that anticipation. An example that does all of these things would be the introduction to Beethoven's fourth symphony (0:00–2:36 in the following recording).
+מבואות ארוכים יותר מציעים לעיתים קרובות ניגוד איטי לנושא P נמרץ. מבואות איטיים אלה מדגישים לפעמים את המודוס המינורי בעל אותה טוניקה, כדי להכין נושא P בטונליות מז׳ורית. בדרך כלל הם מסתיימים בחצי קדנצה או בהגעה חזקה אחרת לדומיננטה, כדי לעורר ציפייה לנושא P שיבוא אחריהם וידגיש את הטוניקה. המלחין עשוי לשהות על הדומיננטה זמן־מה כדי להגביר ציפייה זו. המבוא לסימפוניה הרביעית של בטהובן מדגים את כל המאפיינים הללו (0:00–2:36 בהקלטה הבאה).
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:1MibYhJxREG8c84CeT4RXS" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת הסימפוניה הרביעית מאת בטהובן — המבוא" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:1MibYhJxREG8c84CeT4RXS" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-Haydn's Symphony 96 ("Miracle") exemplifies the same traits (0:00–1:30 in the recording below).
+הסימפוניה מס׳ 96 של היידן, ״הנס״, מדגימה אותם מאפיינים (0:00–1:30 בהקלטה שלהלן).
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:3POiY0HHaGByp3AXTteZYY" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת הסימפוניה מס׳ 96, הנס, מאת היידן — המבוא" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:3POiY0HHaGByp3AXTteZYY" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-## Coda
+## קודה {#coda}
 
-A coda is a new module that follows the end of the recapitulation's thematic cycle. In other words, once the harmonic work of the recapitulation has been accomplished (the arrival of the **I:PAC ESC**) and the basic themes of the exposition have been presented (such as **P TR S C**), new material tends to fall into the coda module.
+קודה היא יחידה חדשה הבאה לאחר סוף המחזור הנושאי של הרפריזה. במילים אחרות, לאחר שהרפריזה השלימה את עבודתה ההרמונית — ההגעה לסגירה המהותית של הסונטה (essential sonata closure, ESC) באמצעות <bdi dir="ltr">**I:PAC ESC**</bdi>, כאשר PAC היא קדנצה אותנטית מושלמת — ולאחר שהוצגו הנושאים הבסיסיים של התצוגה, למשל במחזור <bdi dir="ltr">**P TR S C**</bdi>, חומר חדש נוטה להשתייך ליחידת הקודה.
 
-Like the introduction, the coda sits outside the recapitulation. Thus, if the development and recapitulation are repeated (more often in the score than in modern performances), the coda will come after the final repeat. Without a clear repeat mark in the score, codas are primarily identified by their coming after the end of the thematic material being recapitulated.
+כמו המבוא, הקודה נמצאת מחוץ לרפריזה. לכן, אם חוזרים על הפיתוח והרפריזה — דבר השכיח בתווים יותר מאשר בביצועים מודרניים — הקודה תבוא אחרי החזרה האחרונה. בהיעדר סימן חזרה ברור בתווים, מזהים קודות בעיקר לפי הופעתן לאחר סוף החומר הנושאי החוזר ברפריזה.
 
-There is one common exception: often a codetta from the exposition will be expanded in the recapitulation to make a stronger ending punctuation to close the movement. What distinguishes a coda from a codetta is that a codetta is a post-cadential extension of the final cadence of the exposition/recapitulation. A coda *does something more* — harmonically, such as visiting a new key; or melodically, such as introducing a new theme or revisiting earlier material such as P or the development. 
+יש חריג שכיח אחד: לעיתים קרובות מרחיבים ברפריזה קודטה (codetta) מן התצוגה, כדי להעניק סיום מודגש יותר שיחתום את הפרק. ההבדל בין קודה לקודטה הוא שקודטה היא הארכה שלאחר קדנצה של הקדנצה האחרונה בתצוגה או ברפריזה. קודה *עושה דבר־מה נוסף*: מבחינה הרמונית, למשל ביקור בטונליות חדשה; או מבחינה מלודית, למשל הצגת נושא חדש או חזרה לחומר מוקדם יותר, כגון P או הפיתוח.
 
-One can compare the codetta–coda relationship to the postchorus–coda relationship in pop/rock music. A codetta or postchorus simply rounds out the ending of a cycle, making its finality clear. A coda makes a notable melodic or harmonic move in order to do something more novel and significant.
+אפשר להשוות את היחס קודטה–קודה ליחס בין חטיבה שלאחר הפזמון (postchorus) לקודה בפופ וברוק. קודטה או חטיבה שלאחר הפזמון פשוט משלימות את סוף המחזור ומבהירות את סופיותו. קודה מבצעת מהלך מלודי או הרמוני בולט, כדי לעשות דבר חדש ומשמעותי יותר.
 
-An example coda would be at the end of Beethoven's Piano Sonata in C Major, Op. 2, No. 3, first movement (beginning at 8:29 in the recording below). The recapitulation completes its **P TR? S? TR S C** cycle. After a shortened version of C, though, a deceptive resolution of the dominant chord leads to an excursion in A-flat major (flat-VI) involving new melodic material. After a harmonic sequence, Beethoven brings back the opening of the P theme in C major, followed by a bombastic, definitive end to the movement. The new melody, the new key area, and the use of a substantial portion of P, all contribute to its coda-ness — and make a codetta interpretation difficult to sustain.
+דוגמה לקודה נמצאת בסוף הפרק הראשון של הסונטה לפסנתר בדו מז׳ור, אופ׳ 2 מס׳ 3, מאת בטהובן, החל ב־8:29 בהקלטה שלהלן. הרפריזה משלימה את המחזור <bdi dir="ltr">**P TR? S? TR S C**</bdi>. אולם לאחר גרסה מקוצרת של C, פתרון מדומה של אקורד הדומיננטה מוביל לסטייה ללה־במול מז׳ור (flat-VI), ובה חומר מלודי חדש. לאחר סקוונצה הרמונית, בטהובן מחזיר את פתיחת נושא P בדו מז׳ור, ואחריה סיום רב־רושם ונחרץ לפרק. המלודיה החדשה, אזור הטונליות החדש והשימוש בחלק משמעותי של P — כל אלה תורמים לאופיו של הקטע כקודה ומקשים להצדיק פירוש שלו כקודטה.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:4XY27zyWLd729jTgVoSZir" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="הקלטת הסונטה לפסנתר בדו מז׳ור, אופ׳ 2 מס׳ 3, מאת בטהובן — הקודה" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:4XY27zyWLd729jTgVoSZir" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-While the coda sits outside the definitive sonata structure, it often plays an important role rhetorically in the movement. For example, since flat-VI is a closely related key in minor, the flat-VI emphasis in Op. 2/3 could be seen as rounding out a bigger tonal story. Beethoven visits minor-V in the exposition and minor-I in the recapitulation as part of the double-MC form. The coda in flat-VI (closely related to minor-I) could be interpreted as rounding off that story — one that comes alongside the normal sonata-form story, but is not part of it. Other times codas may simply allow a composer to extend the resolution of tension built up in a long movement, or complete work begun but not finished during a development section. 
+אף שהקודה נמצאת מחוץ למבנה המגדיר את הסונטה, לעיתים קרובות היא ממלאת תפקיד רטורי חשוב בפרק. למשל, מאחר ש־flat-VI היא טונליות קרובה במינור, אפשר לראות בהדגשת flat-VI באופ׳ 2 מס׳ 3 השלמה של סיפור טונלי רחב יותר. בטהובן מבקר בטונליות V מינורית בתצוגה ובטונליות I מינורית ברפריזה, כחלק מצורה בעלת שתי צזורות אמצעיות (double-MC). אפשר לפרש את הקודה ב־flat-VI, טונליות הקרובה ל־I המינורית, כהשלמה של סיפור זה — סיפור המתקיים לצד הסיפור הרגיל של צורת הסונטה, אך אינו חלק ממנו. במקרים אחרים, קודות עשויות פשוט לאפשר למלחין להאריך את פתרון המתח שנצבר בפרק ארוך, או להשלים עבודה שהחלה בחטיבת הפיתוח אך לא הסתיימה בה.
 
-Whatever the case, it is important to remember that while what happens in the exposition and recapitulation "makes a sonata a sonata," what happens in these framing modules (and the development) often defines what is special about one sonata in particular. A complete analysis engages both the normative and the deviant, the grammatical and the rhetorical.
+בכל מקרה, חשוב לזכור שבעוד שהמתרחש בתצוגה וברפריזה הוא ש״הופך סונטה לסונטה״, המתרחש ביחידות המסגרת האלה ובפיתוח מגדיר לעיתים קרובות את ייחודה של סונטה מסוימת. ניתוח מלא עוסק הן במוסכמי והן בחורג מן המוסכמות, הן בדקדוק והן ברטוריקה.
