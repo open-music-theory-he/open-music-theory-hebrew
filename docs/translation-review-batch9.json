@@ -1,0 +1,66 @@
+{
+  "batch": 9,
+  "date": "2026-10-08",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Source/target comparison by the same AI; not independent human review",
+  "chapters": [
+    {
+      "file": "compoundSentence.md",
+      "source_sha256": "adc233ee5a1d4dd496033cea2ba563dd51c88a9bdbf242db2f3607c0c67e9ee3",
+      "target_sha256": "a6e2f65c6e23d28e36440d9c1643026b6291b20339e4e93be6717be5f9860ac4",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass; source newline in fallback repaired",
+      "local_anchors_checked": [
+        "hybridThemes.html#the-compound-basic-idea",
+        "internalExpansions.html#phrase-expansion"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 2,
+      "source_iframes": 1
+    },
+    {
+      "file": "smallTernary.md",
+      "source_sha256": "279a95ddb19cef25fea7ab4ef51300553811ea3ca818f5ab316dd1ed3144ac11",
+      "target_sha256": "90fcd2f353a083d3ab3c6ee2c14e140af0cff64e59ea501d4903bdf204dcd738",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass; source newline in fallback repaired",
+      "local_anchors_checked": [
+        "externalExpansions.html#suffix"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "smallBinary.md",
+      "source_sha256": "b70c08298ea3e3ec10cc59c12292946822f20811ae829cda652fce40df536651",
+      "target_sha256": "ab428187c40409b5a619ec102cee17ee831e01ab4aee2af9dbf43cfddae34cfb",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass; source newline in fallback repaired",
+      "local_anchors_checked": [
+        "smallTernary.html#binary-characteristics",
+        "externalExpansions.html#suffix"
+      ],
+      "local_anchor_failures": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "classicalThemes.md",
+      "source_sha256": "f0fdae082bfc474754ca4ddbaa0a172ef5235fa71336676060e9cf95cb7c2bab",
+      "target_sha256": "7999962c48cb296df3c161cb58ac5ed16851a927818706563b3c19b7493ca41c",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass; source newline in fallback repaired",
+      "local_anchors_checked": [],
+      "local_anchor_failures": [],
+      "source_images": 12,
+      "source_iframes": 0
+    }
+  ],
+  "limitations": [
+    "No Jekyll build or visual RTL QA",
+    "Music graphics retain English text",
+    "K498 image ends at measure 13; PAC at 16 not verified",
+    "Spotify playback not verified"
+  ]
+}

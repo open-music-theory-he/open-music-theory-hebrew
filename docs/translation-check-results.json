@@ -8,9 +8,10 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
-  "scope": "47 chapter files; index and contents are partial support pages",
+  "scope": "51 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -748,6 +749,70 @@
       "missing_music_tokens": [],
       "embed_count_preserved": true,
       "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "compoundSentence.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 2,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "smallTernary.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 2,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "smallBinary.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 2,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "classicalThemes.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 12,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
@@ -898,6 +963,12 @@
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT",
       "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "url": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2i04xcBOAjx413oclWSzxx",
+      "result": "unverified",
+      "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)",
       "checked_at": "2026-10-08"
     },
     {
@@ -1073,6 +1144,13 @@
       "url": "https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://openlibrary.org/works/OL2689355W/Classical_form",
+      "status": 200,
+      "final_url": "https://openlibrary.org/verify_human?next=/works/OL2689355W/Classical_form",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://openlibrary.org/works/OL3267613W/Style_and_music",
@@ -1399,7 +1477,7 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_links_checked_this_run": 0,
+  "external_links_checked_this_run": 2,
   "cached_external_results": 98,
   "fatal_structural_errors": [],
   "batch2_unit_structure": true,
