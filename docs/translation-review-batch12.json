@@ -1,0 +1,41 @@
+{
+  "batch": 12,
+  "date": "2026-10-08",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Full paragraph comparison by the same AI; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "sonataStructuralPointsOfArrival.md",
+      "source_sha256": "1cdaab3296b0ba87c10438b80fb9361e200447397383791fd81884148fe539e1",
+      "target_sha256": "81994fd9c76e274f1d66362617f2ca6d6e8f2757a201629fbe8a4a925a5234d7",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "medial-caesura-mc",
+        "essential-expositional-closure-eec"
+      ],
+      "source_images": 1,
+      "source_iframes": 1
+    },
+    {
+      "file": "sonataFramingModules.md",
+      "source_sha256": "0ce0548b1bb57aa1baf0c2ec004d2796a0935a039a70cf9a5e39cafc51b31089",
+      "target_sha256": "d29ff5f99f1a327c82f50a48e10dfd9879c36d288603cf5cd9720feb2d616359",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "introduction",
+        "introduction-types",
+        "coda"
+      ],
+      "source_images": 0,
+      "source_iframes": 4
+    }
+  ],
+  "limitations": [
+    "No full score analysis or Spotify playback verification",
+    "No Jekyll build or visual RTL review",
+    "Theory and attribution translated, not independently researched"
+  ],
+  "formal_and_solfege_tokens_checked": true
+}
