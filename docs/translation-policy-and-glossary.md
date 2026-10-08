@@ -401,3 +401,21 @@
 | closing section / codetta | חטיבת סיום / קודטה | כאן: אחרי PAC |
 | evaded cadence | התחמקות מקדנצה | הגעה צפויה שאינה מתממשת |
 | hypermeter | היפרמטר | ארגון משקלי מעל רמת התיבה |
+
+### השלמת מילון — מקבץ 11
+
+| מונח | תרגום | הערה |
+|---|---|---|
+| thematic module / rotation / cycle | יחידה נושאית / סבב נושאי / מחזור נושאי | הסימונים P/TR/S/C נשמרים |
+| primary / subordinate theme | נושא ראשי / נושא משני | P / S |
+| subordinate / secondary key | טונליות משנית | לא אקורד שניוני |
+| medial caesura | צזורה אמצעית | MC |
+| essential expositional / sonata closure | סגירה מהותית של התצוגה / הסונטה | EEC / ESC |
+| dissolving transition | מעבר מתפרק | מובחן מפיצול ומפירוק החומר האופייני |
+| energy gain | הגברת אנרגיה | תיאור רטורי בהקשר הצורני |
+| central-action zone | אזור הפעולה המרכזית | CAZ |
+| recomposition | כתיבה מחדש | לא טרנספוזיציה בלבד |
+| correspondence / referential bars | תיבות מקבילות / מתייחסות | זהות לעומת זיקה עם שינוי מהותי |
+| alterations | קטעים משנים | בהקשר הרפריזה: ללא הקבלה או התייחסות ברורה |
+| crux | נקודת החיבור מחדש | חידוש ההקבלה לתצוגה; מינוח תיאורי |
+| hermeneutics | הרמנויטיקה / חקר הפרשנות | בהקשר מוזיקלי או טקסטואלי |

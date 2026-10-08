@@ -10,9 +10,10 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
-  "scope": "53 chapter files; index and contents are partial support pages",
+  "scope": "56 chapter files; index and contents are partial support pages",
   "chapters": [
     {
       "file": "hebrew-introduction.md",
@@ -846,6 +847,54 @@
       "missing_music_tokens": [],
       "embed_count_preserved": true,
       "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "sonataThematicModules.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 1,
+      "iframes": 1,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "sonataDevelopment.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
+    },
+    {
+      "file": "sonataRecap.md",
+      "yaml": "pass",
+      "hebrew_present": true,
+      "local_targets": "pass",
+      "missing_targets": [],
+      "images": 0,
+      "iframes": 0,
+      "image_alt": "pass",
+      "source_links_and_assets": "pass",
+      "removed_source_targets": [],
+      "explicit_music_tokens_preserved": "pass",
+      "missing_music_tokens": [],
+      "embed_count_preserved": true,
+      "iframe_accessible_titles": "pass"
     }
   ],
   "external_links": [
@@ -1160,6 +1209,13 @@
       "result": "reachable"
     },
     {
+      "url": "https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6",
+      "status": 200,
+      "final_url": "https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
+    },
+    {
       "url": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
       "status": 200,
       "final_url": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
@@ -1233,6 +1289,13 @@
       "url": "https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w",
       "result": "unverified",
       "error": "HTTPSConnectionPool(host='embed.spotify.com', port=443): Read timed out. (read timeout=12)"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Heuristic",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Heuristic",
+      "result": "reachable",
+      "checked_at": "2026-10-08"
     },
     {
       "url": "https://openlibrary.org/works/OL2689355W/Classical_form",
@@ -1573,8 +1636,8 @@
   ],
   "interval_table_rows_exact": true,
   "new_major_scale_arithmetic": true,
-  "external_links_checked_this_run": 9,
-  "cached_external_results": 100,
+  "external_links_checked_this_run": 2,
+  "cached_external_results": 109,
   "fatal_structural_errors": [],
   "batch2_unit_structure": true,
   "batch2_unit_hashes_current": true

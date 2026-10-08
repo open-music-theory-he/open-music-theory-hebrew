@@ -1,0 +1,65 @@
+{
+  "batch": 11,
+  "date": "2026-10-08",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Full paragraph comparison by the same AI; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "sonataThematicModules.md",
+      "source_sha256": "beb10c14cea2c04cb2df188cf93b019d29ea388de855f595efda497059a63f7f",
+      "target_sha256": "929b46c82ffbcabf080f5de3b3e32319d26966c774dd6ff0a2f357aaa3ff2c1b",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "primary-theme-module-p",
+        "transition-module-tr",
+        "harmonic-motion",
+        "melodicmotivic-characteristics",
+        "subordinate-theme-module-s",
+        "closing-module-c",
+        "retransition-rt"
+      ],
+      "source_images": 1,
+      "source_iframes": 1
+    },
+    {
+      "file": "sonataDevelopment.md",
+      "source_sha256": "8b5d5fe5286cc90fd88a399f42c04ef75bfd45f8bc840063f790aaee546ce235",
+      "target_sha256": "11b12fcf40d4d5777b794dc18de8508bbb3bf86a8f42417a928e864aeb1d192b",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "tonal-organization",
+        "thematic-organization",
+        "four-modules"
+      ],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "sonataRecap.md",
+      "source_sha256": "629107206141b1e87f1cdc9632a00a09749c0cc39e52bcad84da4986ec20c8f9",
+      "target_sha256": "ae8b3cdfbe86457218bb3ab8bff835114db0a8db8eaf02ba1bea8aa1db56e6f8",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "thematic-cycle",
+        "essential-sonata-closure",
+        "recomposition",
+        "crux",
+        "hermeneutics"
+      ],
+      "source_images": 0,
+      "source_iframes": 0
+    }
+  ],
+  "exact_formal_cycles_preserved": [
+    "{ P TR ’ S / C }",
+    "{ P TR ⇒ FS / C }"
+  ],
+  "limitations": [
+    "No full score analysis or Spotify playback verification",
+    "No Jekyll build or visual RTL review",
+    "Theory and attribution translated, not independently researched"
+  ]
+}
