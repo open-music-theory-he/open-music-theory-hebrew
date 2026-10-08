@@ -24,6 +24,8 @@ translation_batch: 7
 
 <iframe title="הקלטת הדוגמה לאקורד כרומטי 1" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
+<a id="augmented-sixth-chords"></a>
+
 ## אקורדי סקסטה מוגדלת
 
 אקורדי סקסטה מוגדלת (augmented-sixth chords) נקראים על שם הסקסטה המוגדלת שבין *le* ל־*fi*, שתי דרגות המופיעות בכל אקורד מסוג זה. הצלילים הנוספים קובעים איזה סוג של אקורד סקסטה מוגדלת מתקבל.

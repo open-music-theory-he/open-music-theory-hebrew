@@ -1,49 +1,52 @@
 ---
 layout: post
-title: External Expansions
+title: הרחבות חיצוניות
+language: he
+translation_status: language-reviewed
+translation_batch: 10
 ---
 
-A theme is often preceded or followed by material outside of its typical boundaries, but which is clearly dependent on the theme. This material is *external* to the theme itself— “before-the-beginning” or “after-the-end," as William Caplin as termed it.
+לעיתים קרובות נושא מלווה בחומר המופיע לפני גבולותיו הרגילים או אחריהם, אך תלוי בו בבירור. חומר זה הוא *חיצוני* לנושא עצמו — ״לפני ההתחלה״ או ״אחרי הסיום״, במונחיו של ויליאם קפלין.
 
-## Prefix ##
+## קידומת {#prefix}
 
-An *prefix* is a passage—short or [long](sonataFramingModules.html#introduction)—that *precedes* a theme. Short prefixes lack distinct motivic material and/or harmonic progression. While connected to the theme that follows, when removed prefixes do not disturb the logic of the phrase itself. 
+*קידומת* (prefix) היא קטע קצר או [ארוך](sonataFramingModules.html#introduction) *הקודם* לנושא. קידומות קצרות חסרות חומר מוטיבי מובחן ו/או מהלך הרמוני. הן קשורות לנושא הבא אחריהן, אך הסרתן אינה פוגעת בהיגיון של הפראזה עצמה.
 
-<figure>	
-  <img src="/Graphics/form/sym101.png">
-  <figcaption>Prefix: Haydn, Symphony No. 101, "Clock</figcaption>
+<figure>
+  <img src="/Graphics/form/sym101.png" alt="תווים לקידומת ליווי בסימפוניה מספר 101 של היידן">
+  <figcaption>קידומת: היידן, סימפוניה מספר 101, ״השעון״</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ" title="הקלטת סימפוניית השעון של היידן ב־Spotify" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-Here, a one-measure, accompanimental prefix prepares the four-measure antecedent phrase that begins in m. 2. The prefix lacks both a characteristic melody and harmonic progression. 
+כאן קידומת ליווי בת תיבה אחת מכינה פראזה פותחת בת ארבע תיבות, המתחילה בתיבה 2. בקידומת אין מנגינה אופיינית וגם אין מהלך הרמוני.
 
-## Suffix ##
+## סיומת {#suffix}
 
-A suffix prolongs the harmony that closed the theme. Suffixes are described, and given different names, according to what kind of cadence, PAC or HC, ends the theme to which they are attached.
+*סיומת* (suffix) מאריכה את ההרמוניה שסיימה את הנושא. סיומות מתוארות ומקבלות שמות שונים בהתאם לסוג הקדנצה — קדנצה אותנטית מושלמת (PAC) או חצי קדנצה (HC) — המסיימת את הנושא שאליו הן מצטרפות.
 
-###Closing sections
+### חטיבות סיום {#closing-sections}
 
-Sometimes called *codettas*, *closing sections* follow themes that end with PACs.
+*חטיבות סיום* (closing sections), המכונות לעיתים גם *קודטות* (codettas), באות אחרי נושאים המסתיימים ב־PAC.
 
-<figure>	
-  <img src="/Graphics/form/k330.png">
-  <figcaption>Closing Section: Mozart, Piano Sonata in C major, K. 330</figcaption>
+<figure>
+  <img src="/Graphics/form/k330.png" alt="תווים לחטיבת סיום בסונטה של מוצרט, קכל 330">
+  <figcaption>חטיבת סיום: מוצרט, סונטה לפסנתר בדו מז׳ור, קכל 330</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll" title="הקלטת הסונטה של מוצרט, קכל 330, ב־Spotify" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-The [compound period](compoundPeriod.html) here ends with a PAC in m. 16. Following the cadence, a five-measure *closing section* serves to confirm it. Notice that the melody is centered around scale degree 1—a common feature of these passages—and that harmonically the ii–V-I cadential progression that ended the theme (see m. 15 and 16) is simply repeated.
+[הפריודה המורכבת](compoundPeriod.html) בדוגמה מסתיימת ב־PAC בתיבה 16. אחרי הקדנצה באה *חטיבת סיום* בת חמש תיבות, המאשרת אותה. שימו לב שהמנגינה מתמקדת בדרגה 1 — מאפיין נפוץ של קטעים כאלה. מבחינה הרמונית, המהלך הקדנציאלי ii–V-I שסיים את הנושא (ראו תיבות 15 ו־16) פשוט חוזר.
 
-###Standing on the Dominant
+### שהייה על הדומיננטה {#standing-on-the-dominant}
 
-When a *suffix* follows a half cadence, we refer to it as *standing on the dominant*. These passages are often signals for thematic entrances (such as the [second theme](sonataThematicModules.html#subordinate-theme-module) of a sonata form movement) or thematic returns (such as the recapitulation in a [small ternary](smallTernary.html#three-thematic-functions)). 
+כאשר *סיומת* באה אחרי חצי קדנצה, מכנים אותה *שהייה על הדומיננטה* (standing on the dominant). קטעים כאלה מסמנים לעיתים קרובות כניסה של נושא, למשל [הנושא השני](sonataThematicModules.html#subordinate-theme-module-s) בפרק בצורת סונטה, או חזרה של נושא, למשל הרפריזה ב[צורה תלת־חלקית קטנה](smallTernary.html#three-thematic-functions).
 
-<figure>	
-  <img src="/Graphics/form/sym40.png">
-  <figcaption>Standing on the Dominant: Mozart, Symphony No. 40, K. 550, i</figcaption>
+<figure>
+  <img src="/Graphics/form/sym40.png" alt="תווים לשהייה על הדומיננטה בסימפוניה מספר 40 של מוצרט">
+  <figcaption>שהייה על הדומיננטה: מוצרט, סימפוניה מספר 40, קכל 550, פרק ראשון</figcaption>
 </figure>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u" title="הקלטת הסימפוניה מספר 40 של מוצרט ב־Spotify" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-This famous example begins with a one-measure [prefix](externalExpansions.html#prefix) followed a [compound sentence](compoundSentence.html). The compound sentence ends with a half cadence in m. 16. (Notice the [augmented sixth chord](alteredSubdominants.html#augmented-sixth-chords) that precedes it.) The succeeding measures *stand on the dominant,* prolonging the cadence by emphasizing dominant harmony with scale degree 5 embellished melodically.
+דוגמה מפורסמת זו מתחילה ב[קידומת](externalExpansions.html#prefix) בת תיבה אחת, ואחריה [משפט מוזיקלי מורכב](compoundSentence.html). המשפט המורכב מסתיים בחצי קדנצה בתיבה 16. שימו לב ל[אקורד הסקסטה המוגדלת](alteredSubdominants.html#augmented-sixth-chords) הקודם לה. התיבות שלאחר מכן *שוהות על הדומיננטה*: הן מאריכות את הקדנצה בהדגשת הרמוניה של דומיננטה ובעיטור מלודי של דרגה 5.

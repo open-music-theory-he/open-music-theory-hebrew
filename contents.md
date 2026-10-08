@@ -9,7 +9,7 @@ translation_status: partial
 [הקדמה למהדורה העברית](hebrew-introduction.html)  
 [דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
 
-**מצב העבודה:** 49 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+**מצב העבודה:** 51 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
 
 ## מבוא למקור
 
@@ -96,8 +96,8 @@ translation_status: partial
 
 #### Techniques of Phrase Rhythm  
 
-[External Expansions.](externalExpansions.html)   
-[Internal Expansions.](internalExpansions.html)
+[הרחבות חיצוניות](externalExpansions.html)<br>
+[הרחבות פנימיות](internalExpansions.html)
 
 ### Sonata Form
 
