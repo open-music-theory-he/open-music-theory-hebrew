@@ -1,29 +1,33 @@
 ---
 layout: post
-title: The small binary
+title: צורה דו־חלקית קטנה
+language: he
+translation_status: language-reviewed
+translation_batch: 9
 ---
 
-The small binary often fulfills a structural role similar to that as the small ternary. It can be the main theme of any of the full-movement forms, but is most often found as the theme of a theme and variations, [rondo](thematicFunctionInRondo.html), or the [minuet and trio](minuet.html).
+הצורה הדו־חלקית הקטנה (small binary) ממלאת לעיתים קרובות תפקיד מבני דומה לזה של הצורה התלת־חלקית הקטנה. היא יכולה להיות הנושא הראשי בכל צורה המשתרעת על פרק יצירה שלם, אך לרוב היא מופיעה כנושא ביצירת נושא ווריאציות, ב[רונדו](thematicFunctionInRondo.html) או ב[מינואט וטריו](minuet.html).
 
-Small binaries have two parts, each of which is usually repeated. Unlike the ["rounded binary,"](smallTernary.html##Binary characteristics) small binaries *do not* include a recapitulation of the material heard in the *first part*.
+לצורות דו־חלקיות קטנות יש שני חלקים, שכל אחד מהם מבוצע בדרך כלל בחזרה. בניגוד ל[צורה הדו־חלקית המעוגלת](smallTernary.html#binary-characteristics), הן *אינן* כוללות רפריזה של החומר שנשמע ב*חלק הראשון*.
 
-<figure>	
-  <img src="/Graphics/ClassicalThemes/smallBinary.png">
-  <figcaption>The small binary</figcaption>
-</figure> 
+<figure>
+  <img src="/Graphics/ClassicalThemes/smallBinary.png" alt="תרשים צורה דו־חלקית קטנה: שני חלקים, ללא רפריזה">
+  <figcaption>צורה דו־חלקית קטנה</figcaption>
+</figure>
 
+### החלק הראשון {#first-part}
 
-###First part
-Typically constructed as tight-knit [period](period.html), [sentence](sentence.html), or [hybrid](hybridThemes.html), the *first part* ends with cadential articulation in the home key or a closely related one. Because a small binary is often smaller than that of the *small ternary,* it is not uncommon to find a I:HC at the close of the first part.
+*החלק הראשון* בנוי בדרך כלל כ[פריודה](period.html), [משפט מוזיקלי](sentence.html) או [נושא היברידי](hybridThemes.html) בעלי מבנה הדוק. הוא מסתיים בחיתוך קדנציאלי בטונליות הראשית או בטונליות קרובה. מכיוון שצורה דו־חלקית קטנה היא לעיתים קרובות קטנה מן הצורה התלת־חלקית הקטנה, סיום החלק הראשון ב־I:HC אינו נדיר.
 
-###Second part
-The *second part* of a small binary quite often begins like a contrasting middle. The material that *follows* the *contrasting middle*, however, is not a *recapitulation*. If it were, the theme would be a [small ternary](smallTernary.html). Rather, this material takes on a variety of guises. Often, it resembles one of the common "after-phrases"--*continuation*, *consequent,* or *cadential.* In the classical style, the second part of a small binary will always close with a I:PAC.
+### החלק השני {#second-part}
 
-###An example
+*החלק השני* מתחיל לעיתים קרובות בדומה לאמצע מנוגד. ואולם, החומר *שאחרי האמצע המנוגד* אינו *רפריזה*: אילו היה רפריזה, הנושא היה [צורה תלת־חלקית קטנה](smallTernary.html). במקום זאת, חומר זה מופיע במגוון צורות. לעיתים קרובות הוא דומה לאחת מ״הפראזות המסיימות״ (after-phrases) הנפוצות — פראזת המשך, פראזה עונה או פראזה קדנציאלית. בסגנון הקלאסי, החלק השני של צורה דו־חלקית קטנה מסתיים תמיד ב־I:PAC.
 
-<figure>	
-  <img src="/Graphics/form/k305.png">
-  <figcaption>Mozart, Violin Sonata in A major, K. 305</figcaption>
-</figure> 
+### דוגמה {#an-example}
 
-In this small binary, the *first part* is created by a simple period that modulates to and closes in the dominant key with a V:PAC. A *contrasting middle* follows, where we see a typical ["standing on the dominant"](externalExpansions.html#suffix) to support a prolongation of V7. Notice that the motivic material in the *contrasting middle* is quite similar to the motivic material we hear in the *first part.* This is typical of a small binary, whose *second part* does not contrast with the *first part* to such a high degree as in the *small ternary.* Following the *contrasting middle*, the final four measures of this example resemble a continuation: the melodic motive we hear in the *contrasting material* is fragmented and sequenced, and begins, with the pickup to the penultimate measure, a cadence.   
+<figure>
+  <img src="/Graphics/form/k305.png" alt="תווים לדוגמת צורה דו־חלקית קטנה בסונטה לכינור של מוצרט, קכל 305">
+  <figcaption>מוצרט, סונטה לכינור בלה מז׳ור, קכל 305</figcaption>
+</figure>
+
+בדוגמה זו, *החלק הראשון* בנוי כפריודה פשוטה העוברת מודולציה לדומיננטה ומסתיימת בטונליות זו ב־V:PAC. אחריו בא *אמצע מנוגד*, ובו ״[שהייה על הדומיננטה](externalExpansions.html#suffix)״ טיפוסית, התומכת בהארכת V7. שימו לב שהחומר המוטיבי באמצע המנוגד דומה מאוד לזה שבחלק הראשון. זהו מאפיין טיפוסי של צורה דו־חלקית קטנה: החלק השני אינו מנוגד לראשון באותה מידה כמו בצורת תלת־חלקית קטנה. אחרי האמצע המנוגד, ארבע התיבות האחרונות בדוגמה דומות לפראזת המשך. המוטיב המלודי שנשמע בחומר המנוגד מפוצל ליחידות קצרות יותר ומופיע בסקוונצה; עם הקדמה לתיבה שלפני האחרונה הוא מתחיל מהלך קדנציאלי.

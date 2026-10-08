@@ -9,7 +9,7 @@ translation_status: partial
 [הקדמה למהדורה העברית](hebrew-introduction.html)  
 [דו מוחלט ודו יחסי: מדריך לקורא העברי](fixed-and-movable-do.html)
 
-**מצב העבודה:** 45 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
+**מצב העבודה:** 49 פרקי מקור ושני פרקי פתיחה בעברית תורגמו ונבדקו מול המקור, ובהם פרקי יסודות, קונטרפונקט, הרמוניה וכמה פרקי צורה. יתר החלקים עדיין מוצגים באנגלית. בדיקת תצוגת האתר והמדיה טרם הושלמה.
 
 ## מבוא למקור
 
@@ -87,11 +87,11 @@ translation_status: partial
 [הפריודה](period.html)<br>
 [נושאים היברידיים](hybridThemes.html)<br>
 [פריודה מורכבת](compoundPeriod.html)<br>
-[Compound sentences.](compoundSentence.html)  
-[The small ternary.](smallTernary.html)  
-[The small binary.](smallBinary.html)
+[משפטים מוזיקליים מורכבים](compoundSentence.html)<br>
+[צורה תלת־חלקית קטנה](smallTernary.html)<br>
+[צורה דו־חלקית קטנה](smallBinary.html)
 
-[Theme type reference.](classicalThemes.html)  
+[טיפוסי נושא — דף עזר](classicalThemes.html)<br>
 [תפקידים נושאיים — דף עזר](themeFunctions.html)
 
 #### Techniques of Phrase Rhythm  

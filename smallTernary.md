@@ -1,33 +1,39 @@
 ---
 layout: post
-title: The Small Ternary
+title: צורה תלת־חלקית קטנה
+language: he
+translation_status: language-reviewed
+translation_batch: 9
 ---
 
-Like the smaller [sentence](sentence.html), [period](period.html), and [hybrid](hybridThemes.html) themes, the small ternary can act alone as the theme of a full-movement form. The small ternary is larger, however--constructed from themes just as the smaller theme types were constructed from phrases and sub-phrases. As a slightly larger structure, this theme type involves interesting questions about formal organization and perception--questions that stem from its historical pedigree among other things--that we will also find in the full-movement forms.
+בדומה לנושאים הקטנים יותר — [משפט מוזיקלי](sentence.html), [פריודה](period.html) ו[נושא היברידי](hybridThemes.html) — הצורה התלת־חלקית הקטנה (small ternary) יכולה לשמש לבדה כנושא של צורה המשתרעת על פרק יצירה שלם. עם זאת, היא גדולה יותר: היא בנויה מנושאים, כשם שטיפוסי הנושא הקטנים בנויים מפראזות ומתת־פראזות. בהיותה מבנה מעט גדול יותר, היא מעוררת שאלות מעניינות על ארגון צורני ותפיסה, הנובעות בין השאר מן המסורת ההיסטורית שלה. שאלות אלו יופיעו גם בצורות של פרקים שלמים.
 
-This theme type is normally expressed through three [thematic functions](themeFunctions.html): "exposition (A)," "contrasting middle (B)," and "recapitulation (A)." 
+טיפוס נושא זה מתבטא בדרך כלל בשלושה [תפקידים נושאיים](themeFunctions.html): תצוגה (exposition, A), אמצע מנוגד (contrasting middle, B) ורפריזה (recapitulation, A).
 
-<figure>	
-  <img src="/Graphics/ClassicalThemes/smallTernary.png">
-  <figcaption>The small ternary</figcaption>
-</figure> 
+<figure>
+  <img src="/Graphics/ClassicalThemes/smallTernary.png" alt="תרשים צורה תלת־חלקית קטנה: תצוגה, אמצע מנוגד ורפריזה">
+  <figcaption>צורה תלת־חלקית קטנה</figcaption>
+</figure>
 
-###Three thematic functions
-The *exposition* and *recapitulation* are "tight-knit" functions usually expressed by one of the smaller theme types. Each ends with a cadence. Most commonly, a small-ternary's *exposition* will end with a I:PAC, but the exposition may also modulate to a closely related key. In major-mode pieces, a typical modulation will yield an exposition ending with a V:PAC, while in the minor mode, the mediant (III:PAC) key area is more common. 
+### שלושה תפקידים נושאיים {#three-thematic-functions}
 
-A *recapitulation* follows the *contrasting middle* and is marked by a return of thematic material from the *exposition*. In the simplest examples, a *recapitulation* may simply copy the *exposition.* But more commonly, some changes are made, including [expansions and contractions](internalExpansions.html). Alterations are especially common--necessary, in fact--when the *exposition* cadences in a non-tonic key: *Recapitulation's* invariably close with a I:PAC, and thus, if the exposition has modulated, the recapitulation must be altered to end in tonic.
+*התצוגה* ו*הרפריזה* הן תפקידים בעלי מבנה ״הדוק״ (tight-knit), המתבטאים בדרך כלל באחד מטיפוסי הנושא הקטנים. כל אחת מסתיימת בקדנצה. לרוב תצוגה של צורה תלת־חלקית קטנה מסתיימת ב־I:PAC, אך היא יכולה גם לעבור מודולציה לטונליות קרובה. ביצירות במז׳ור, מודולציה טיפוסית תניב תצוגה המסתיימת ב־V:PAC; במינור, הטונליות של המדיאנטה (III:PAC) נפוצה יותר.
 
-Located between the *exposition* and *recapitulation,* the *contrasting middle* is a "loose" formal region that provides melodic and harmonic contrast. Because it is a looser region, it is not commonly expressed by a theme type. If anything, unpredictability is typical. Nonetheless, we can often characterize such passages in terms of "loosening devices" like fragmentation, sequence, and modulation. And as a means of providing harmonic contrast, *contrasting middles* tend to emphasize dominant harmony. To mark their end, provide contrast, and create anticipation for the return of tonic in the *recapitulation,* these sections invariably have dominant harmony at their close. This may be expressed as a I:HC, V:PAC, or in simpler cases, the entire *contrasting middle* may prolong dominant harmony through a "[standing on the dominant](externalExpansions.html#suffix)." 
+*הרפריזה* באה אחרי *האמצע המנוגד*, ומזוהה בחזרת חומר נושאי מן *התצוגה*. בדוגמאות הפשוטות ביותר היא עשויה להעתיק את התצוגה כמות שהיא. בדרך כלל, עם זאת, נעשים שינויים, ובהם [הרחבות וצמצומים](internalExpansions.html). שינויים נפוצים במיוחד — ולמעשה נחוצים — כאשר התצוגה מסתיימת בקדנצה בטונליות שאינה הטוניקה: הרפריזה מסתיימת תמיד ב־I:PAC. לכן, אם התצוגה עברה מודולציה, יש לשנות את הרפריזה כדי שתסתיים בטוניקה.
 
-###An example
-<figure>	
-  <img src="/Graphics/form/k284.png">
-  <figcaption>Mozart, Piano Sonata in D major, K. 284, "Tema con variazione"</figcaption>
-</figure> 
- 
-A prototypical example is given above--the "theme" of the variation movement closing Mozart's Piano Sonata in D major, K. 284. Mozart's *exposition* is a simple period whose second half modulates to the dominant, ending with a V:PAC. Following the repeat, the *contrasting middle* begins with a [*fonte*](schemataContinuationPatterns.html) sequence that leads to a fragmented, descending scalar passage that closes the section with a I:HC. (Note the motivic relationships to the *exposition*: the descending scale in m. 10 recalls the pickup to m. 7, and the *fonte* sets a melodic motive that resembles the first two beats of m. 7.) Finally, the recapitulation recalls the exposition. It presents only the *contrasting phrase*, however, altering it so that the theme ends with a I:PAC.
+*האמצע המנוגד*, שבין התצוגה לרפריזה, הוא אזור צורני ״רופף״ (loose), המספק ניגוד מלודי והרמוני. בשל מבנהו הפחות הדוק, הוא בדרך כלל אינו מתבטא בטיפוס נושא מוגדר; דווקא חוסר צפיות הוא מאפיין טיפוסי. בכל זאת, אפשר לעיתים קרובות לאפיין קטעים כאלה באמצעות אמצעים המחלישים את ההידוק המבני, כגון פיצול ליחידות קצרות יותר, סקוונצה ומודולציה. כדי ליצור ניגוד הרמוני, האמצע המנוגד נוטה להדגיש הרמוניה של דומיננטה. בסיומו תמיד מופיעה הרמוניה של דומיננטה, המסמנת את סוף החלק, מספקת ניגוד ויוצרת ציפייה לחזרת הטוניקה ברפריזה. הדבר יכול להתבטא ב־I:HC או ב־V:PAC; במקרים פשוטים יותר, האמצע המנוגד כולו עשוי להאריך הרמוניה של דומיננטה באמצעות ״[שהייה על הדומיננטה](externalExpansions.html#suffix)״ (standing on the dominant).
 
-###Binary characteristics
-Mozart's theme gives us an example of one of the most common characteristics of the small ternary: the repeat signs. Those repeat signs divide the form into *two parts*, and therein lies one of the most discussed (and perhaps, most controversial and confusing) features of this thematic type. Because on the largest scale the three parts of this theme are nested within *two reprises*, many music theorists prefer to label these passages as *binaries*. Since we have chosen to emphasize the functional characteristics of classical form, of which there are three in this passage, the ternary understanding is more appropriate here. Throughout the history of music, we also find examples without repeats (or with perhaps only one repeat), and those examples establish the repeat signs as a non-obligatory feature.  
+### דוגמה {#an-example}
 
-But rather than settling the question, sophisticated analysts tend to understand the ambiguity present here. As a common hedge, many music theorists label passages like Mozart's (those with an *exposition*, *contrasting middle*, *recapitulation*, *and* repeat signs) as "rounded binaries." The "rounded" description refers to the return of the exposition material at the form's end, which has the effect of "rounding out" the structure.   
+<figure>
+  <img src="/Graphics/form/k284.png" alt="תווים לנושא מתוך פרק הווריאציות בסונטה של מוצרט, קכל 284">
+  <figcaption>מוצרט, סונטה לפסנתר ברה מז׳ור, קכל 284, ״Tema con variazione״ — נושא עם וריאציות</figcaption>
+</figure>
+
+לעיל מופיעה דוגמה טיפוסית: הנושא של פרק הווריאציות המסיים את הסונטה לפסנתר ברה מז׳ור, קכל 284, מאת מוצרט. *התצוגה* היא פריודה פשוטה, שהמחצית השנייה שלה עוברת מודולציה לדומיננטה ומסתיימת ב־V:PAC. אחרי החזרה, *האמצע המנוגד* מתחיל בסקוונצת [Fonte](schemataContinuationPatterns.html), המובילה למעבר סולמי יורד המפוצל ליחידות קצרות יותר, ולסיום החלק ב־I:HC. שימו לב לקשרים המוטיביים לתצוגה: הסולם היורד בתיבה 10 מזכיר את הקדמה לתיבה 7, וב־Fonte מופיע מוטיב מלודי הדומה לשתי הפעמות הראשונות של תיבה 7. לבסוף, הרפריזה חוזרת לחומר מן התצוגה. עם זאת, היא מציגה רק את *הפראזה המנוגדת*, בשינוי המאפשר לנושא להסתיים ב־I:PAC.
+
+### מאפיינים דו־חלקיים {#binary-characteristics}
+
+הנושא של מוצרט מדגים אחד המאפיינים הנפוצים ביותר של הצורה התלת־חלקית הקטנה: סימני החזרה. הם מחלקים את הצורה ל*שני חלקים*, וכאן נמצא אחד המאפיינים הנדונים ביותר של טיפוס נושא זה, ואולי גם אחד השנויים ביותר במחלוקת והמבלבלים ביותר. ברמת המבנה הגדולה ביותר, שלושת חלקי הנושא כלולים בתוך *שני חלקים הנתונים לחזרה* (reprises). לכן תאורטיקנים רבים מעדיפים לתאר קטעים כאלה כ*צורות דו־חלקיות*. בספר זה בחרנו להדגיש את המאפיינים התפקידיים של הצורה הקלאסית; בקטע זה יש שלושה תפקידים, ולכן ההבנה התלת־חלקית מתאימה כאן יותר. לאורך תולדות המוזיקה מוצאים גם דוגמאות ללא חזרות, או עם חזרה אחת בלבד; דוגמאות אלו מלמדות שסימני החזרה אינם מאפיין הכרחי.
+
+במקום להכריע את השאלה, מנתחים מיומנים נוטים להכיר בדו־המשמעות. ניסוח מסויג נפוץ הוא ״צורה דו־חלקית מעוגלת״ (rounded binary): כך מכנים תאורטיקנים רבים קטעים כמו זה של מוצרט, שיש בהם תצוגה, אמצע מנוגד, רפריזה *וגם* סימני חזרה. המילה ״מעוגלת״ מתייחסת לחזרת חומר התצוגה בסוף הצורה, המעניקה למבנה מעין סגירת מעגל.
