@@ -109,9 +109,14 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 0,
+      "segments_ready": 2,
       "segments_total": 2,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "ddb75614ac407575754158791bf73f4817a0cbdf1fb5ed334ba409a830344609",
+      "sha256": "6bc8db90352e5dbfeee2d588d3923055edb62bcc194c3a31fa1737250d6e37e5",
+      "seconds": 110.28,
+      "chunks": 2,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "pitches.md",
@@ -120,9 +125,14 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 0,
+      "segments_ready": 2,
       "segments_total": 2,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "6889341cb8bc492421535708bf4c474b63060d0d495fdf7aca5b8b6e40560dc1",
+      "sha256": "1df0ba719bd7defb760dcd1522dffa6f095ed672706f709a028a9a21fc6763d8",
+      "seconds": 160.51999999999998,
+      "chunks": 2,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "scales.md",
@@ -131,9 +141,14 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 0,
+      "segments_ready": 4,
       "segments_total": 4,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "adf9c682e115737f5685a79b04d77d1194838bd2bcf72c005fd5b9e6315c3475",
+      "sha256": "549365631553b43df6dfe6b4ecd08964c1c13186d3bef0b0d4a59778972f96a6",
+      "seconds": 342.04,
+      "chunks": 4,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "keySignatures.md",
@@ -699,6 +714,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 12,
-  "reason": "quota_or_rate_limit_429"
+  "requests_this_run": 9,
+  "reason": "service_temporarily_unavailable_503"
 }
