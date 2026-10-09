@@ -157,7 +157,7 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 3,
       "status": "pending"
     },
@@ -714,6 +714,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 9,
-  "reason": "service_temporarily_unavailable_503"
+  "requests_this_run": 2,
+  "reason": "quota_or_rate_limit_429"
 }
