@@ -157,9 +157,14 @@
       "notices": [
         "image_alt_only"
       ],
-      "segments_ready": 1,
+      "segments_ready": 3,
       "segments_total": 3,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "4498cf841495baf6dbf5a62d248cb92332862233ad936528b51f1892cd2bf157",
+      "sha256": "31bfc182596b3626ec79cb0f14e72a9ae93c17153489f0eb0b0c4241f4f97627",
+      "seconds": 242.12,
+      "chunks": 3,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "intervals.md",
@@ -714,6 +719,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 2,
+  "requests_this_run": 3,
   "reason": "quota_or_rate_limit_429"
 }
