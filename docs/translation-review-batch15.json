@@ -1,0 +1,363 @@
+{
+  "batch": 15,
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "date": "2026-10-09",
+  "review_method": "Self-review by same AI: paragraph-by-paragraph source/target comparison, terminology and explicit exceptions; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "popRockForm-functions.md",
+      "source_sha256": "c491b0d4f77908b03b8aa0a85dd92af83aa07e4022d6676ab04212e697c97dab",
+      "target_sha256": "bb884177c773a288f85f46bcda4b4fdea0972c5cde0c425756f26f96e79c0e10",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "functions-for-primary-modules",
+        "strophe-a",
+        "chorus-c",
+        "functions-for-secondary-modules",
+        "bridge-b",
+        "verse-v",
+        "prechorus-p",
+        "postchorus-z",
+        "functions-for-auxiliary-modules",
+        "introduction-mid-song-introduction-i",
+        "outro-o",
+        "coda-x",
+        "closing-rhetoric",
+        "functions-for-standout-passages-within-modules",
+        "refrain",
+        "climb"
+      ],
+      "source_images": 0,
+      "source_iframes": 7,
+      "completeness_exception": null
+    },
+    {
+      "file": "trinket.md",
+      "source_sha256": "7a200bdc6f31cdee7510e56ce048d54470055e9da828a35c8dfc24e79bd5aa3f",
+      "target_sha256": "a2c3fcae27a5b9f8c8e268b91787a6813d2ac2d77915d981b9653bcefee98855",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "notation-guide",
+        "pitch",
+        "rhythm",
+        "chords",
+        "lyrics",
+        "example"
+      ],
+      "source_images": 0,
+      "source_iframes": 2,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-plagal.md",
+      "source_sha256": "89613c7b343b265816d7c60863dbc2b69203e0648fdbe3e75268743bab76f9fe",
+      "target_sha256": "8a977d01a1e4b9a908076b033e6eab3a8e9491d8787b34d2b7b8965835a67a2e",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "double-plagal-progression",
+        "extended-plagal-progressions"
+      ],
+      "source_images": 0,
+      "source_iframes": 5,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-lament.md",
+      "source_sha256": "e49e96d6fc4f1163cbcc4c57e1974a626e691b6a9125f6e2a47a7cef45b686dc",
+      "target_sha256": "a1cee002e6a8814ef2ce97a38f9c7b5455b62e69ba453d55a38f539f67ff1e21",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "embellishingTones.md",
+      "source_sha256": "ea2f0e5648cbfc4d491b5020df62e7bb05b0df7c8cfe3c5c36449d1628828019",
+      "target_sha256": "61d4b417c9b4d6f397ac811eac7766e01783f8ab43b3898f64a6d0f35bf6a573",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "passing-tone-pt",
+        "complete-neighbor-tone-nt",
+        "double-neighbor-figure-dn",
+        "incomplete-neighbor-tone-int",
+        "appoggiatura-app",
+        "escape-tone-esc",
+        "anticipation-ant",
+        "syncopation-syn",
+        "suspension-sus",
+        "retardation-ret"
+      ],
+      "source_images": 2,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony.md",
+      "source_sha256": "e53a06a0976cfcb25c495fb635bf4a6370574ebfd8064dd7c22624dc7d473a37",
+      "target_sha256": "214087a895c5d3ac47810174292bd5b101356e0aa728525ce298bf8f0459ba1c",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "harmonic-functions-in-minor",
+        "schemata",
+        "rocks-tonal-systems"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-dooWop.md",
+      "source_sha256": "f65938cc6b898cebbfe4cbed25982b81d86f8ba3e61535cf7177f3ceca337539",
+      "target_sha256": "e493238cc6c1dce61cd7d23fbe03c74929acc091933848acf68b707963ffbd49",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 4,
+      "completeness_exception": null
+    },
+    {
+      "file": "about.md",
+      "source_sha256": "e3a0f451a8413999f938851aee2b156457ee3d01809ada8c35942cc7f55fa1d3",
+      "target_sha256": "9eab591f4ab80e9b1ea8f858b5a68dde7646e06f4fac605ce5b7fe9ea20d67d1",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "inverted-or-flipped-music-theory",
+        "open-source",
+        "a-critical-textbook",
+        "hybrid-pedagogy-publishing",
+        "supporters"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockForm-terms.md",
+      "source_sha256": "c258717dd99335cc2aaac7a9e73c6632bc1b5bfe631981e51032cf8d51844727",
+      "target_sha256": "325ab43fecd0cc74907971474517561165ef99fa861d69a8d8f462b13f65654e",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "poetic-terminology",
+        "foot",
+        "line",
+        "couplet",
+        "quatrain",
+        "stanza",
+        "example",
+        "other-structures",
+        "descriptors-rhetorical-devices",
+        "lyric-variant",
+        "lyric-invariant",
+        "music-variant",
+        "music-invariant",
+        "chorusification",
+        "harmonic-aspects-of-form",
+        "on-tonic",
+        "off-tonic",
+        "harmonically-closed",
+        "harmonically-open",
+        "turnaround"
+      ],
+      "source_images": 0,
+      "source_iframes": 2,
+      "completeness_exception": "One U2 lyric stanza shortened to nine words; other quoted lyrics in final pop/rock pages paraphrased, source analysis retained"
+    },
+    {
+      "file": "popRockForm-notation.md",
+      "source_sha256": "1941eabce429aa84cd9c0034a625f1aeca42786ec9a958bc08faf0e89158c380",
+      "target_sha256": "872586af59f6e9356fed2189f82583fc5ac94c7634a2ba1c32cecfd6f9908020",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "capital-letters",
+        "lower-case-letters",
+        "full-sized-numerals",
+        "subscript-numerals",
+        "timeline-notation"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-fifths.md",
+      "source_sha256": "aa0a6c54ecfccc6e2b5e623d87f9cefe33e358f6bfcd2e329c4c4630293efb19",
+      "target_sha256": "ee15416a27fa0e75e7f1646dc617ae4737273682b3d483ac867666f585431379",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 3,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockForm-containers.md",
+      "source_sha256": "8e59e5d3b1652b4a90a6b9e2c9897f998c427774b419069764d1dbb8c2376ec1",
+      "target_sha256": "a8af86458618bb4cab836319b2bfcea553a434cf38645d2e763b77ee7221e68d",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "formal-containers",
+        "phrase",
+        "module",
+        "primary-module",
+        "secondary-module",
+        "core-module",
+        "auxiliary-module",
+        "cycle",
+        "module-structures",
+        "two-part-aa",
+        "two-part-ab",
+        "three-part-aab",
+        "three-part-abb",
+        "four-part-srdc"
+      ],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "unfiguredBass.md",
+      "source_sha256": "579575517ddc43601aceae1b432d572bbbce6d5dfaee802be9cf2d4c8c27f19f",
+      "target_sha256": "49d7791e13aa6ad7935d8541f5f2e816e777a3255da447cea346858e6716ad41",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "syncopation.md",
+      "source_sha256": "6ea7d4161b8170ec3b212798aefe496adc85f18c1bfaf0e1af392776abb0b79b",
+      "target_sha256": "0eb93f6bc618aa31ff991c91239a2afbd1af06b9dc0921016cd2da38ad21332e",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "straight-syncopations",
+        "transcribing-straight-syncopations",
+        "fake-triplets",
+        "demo"
+      ],
+      "source_images": 3,
+      "source_iframes": 3,
+      "completeness_exception": null
+    },
+    {
+      "file": "melodicKB.md",
+      "source_sha256": "8118cd22d2ef74b97891f72d59815cbdb6b46aa693a0786721eeec67660f1591",
+      "target_sha256": "21d47e67345a544eea61be714f1f4721271467713e516cef228e6cdebe5c25ce",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "analyzingPoetry.md",
+      "source_sha256": "3d2121c21387c6a7628b04a9b543e01a878c8a49f7d3ac087e91d3818674eff6",
+      "target_sha256": "5cc0ee7e7a96642b174effe59eccb8ed601c4faa9b1dbfe7c9a0b95ac5fca49d",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "what-is-poetry",
+        "how-can-we-analyze-poetry",
+        "structure",
+        "historical-context",
+        "intertextuality",
+        "ethics"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockForm.md",
+      "source_sha256": "17873e59bbb487ec7643ec3bdf6fdfab90c5e03752a40dc1139c55c71b00d769",
+      "target_sha256": "c47f4f6ec173721285495949f78bad9ecf379072158cfa354b352e16df44e394",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "strophic-form",
+        "32-bar-song-form-aaba",
+        "verse-chorus-form-vc-vcb",
+        "simple-verse-chorus-form",
+        "super-simple-verse-chorus-form",
+        "going-into-detail"
+      ],
+      "source_images": 0,
+      "source_iframes": 3,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-blues.md",
+      "source_sha256": "e8995c8b9d105c04f96ecd9d0c5010a8218fdf774c6a5b6af01dbfa4f379a3ea",
+      "target_sha256": "740ff4e8d0fdb6f1b3fe32f67d8446a74b49d391f2e09f2423c56da4128da44e",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 3,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-puff.md",
+      "source_sha256": "ed0870b6854111059e4f204b0082d6724778358e02a651013798433458390047",
+      "target_sha256": "5f5fccb56afe1d8c9404351e666f78e1e1b10107f9b9f2e210992ca065213a3b",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 2,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-sscp.md",
+      "source_sha256": "c584b06f38904bace7a8010d6efa01f29a41115605a9c5d282d3848a3ee33d03",
+      "target_sha256": "48a8109f5359af4dd04d6d6b676924273f3ef6c3aa7d7108adadf81ddf7054a5",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 6,
+      "completeness_exception": null
+    }
+  ],
+  "limitations": [
+    "Full Jekyll build unavailable (Ruby not installed)",
+    "No exhaustive score or media playback verification",
+    "Original embedded images, PDFs, recordings and videos not translated",
+    "Source inconsistencies recorded in translation-notes; lyrics abridgement explicitly recorded"
+  ]
+}

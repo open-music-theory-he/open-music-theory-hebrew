@@ -1,8 +1,8 @@
 # התקדמות התרגום
 
-8 באוקטובר 2026 · מקבצים 1–12
+9 באוקטובר 2026 · מקבצים 1–16
 
-**56 פרקי מקור תורגמו ונבדקו מול המקור. שני פרקי פתיחה חדשים נכתבו ונבדקו. הספר כולו טרם תורגם.**
+**כל 124 עמודי התוכן והעזר מן המקור תורגמו ונבדקו בסיוע AI. שני פרקי הפתיחה נכתבו ונבדקו: 126 עמודי תוכן. תרגום מלל הפרקים הסתיים; ביקורת התצוגה, המדיה והגהה מקצועית אינן מושלמות.**
 
 כל הפרקים נמצאים במצב `language-reviewed`: בדיקת תוכן ולשון בסיוע AI הסתיימה; בדיקות האתר והמדיה ממתינות. מצב זה אינו אישור לפרסום סופי.
 
@@ -125,3 +125,100 @@
 - [צורת סונטה — יחידות מסגרת (מבוא וקודה)](../sonataFramingModules.md)
 
 [ביקורת המקבץ](translation-review-batch12.md). סך הכול 56 פרקי מקור ושני פרקי פתיחה: 58 קבצים. בדיקות תצוגה וניגון עדיין ממתינות. רק פרקים שתרגומם נבדק זכאים להפקת שמע; הכנת טקסט אינה אישור להפקת הקלטות. ההמשך: מבוא לתאוריית הסונטה, טיפוסי תצוגה ויתר פרקי הצורה.
+
+
+## מקבץ 13
+
+- [pitch(Class).md](../pitch(Class).md)
+- [inversion.md](../inversion.md)
+- [normalOrder.md](../normalOrder.md)
+- [symmetryAndCentricity.md](../symmetryAndCentricity.md)
+- [mod12.md](../mod12.md)
+- [setClassAndPrimeForm1.md](../setClassAndPrimeForm1.md)
+- [commonTonesUnderTransposition.md](../commonTonesUnderTransposition.md)
+- [sonataRondo.md](../sonataRondo.md)
+- [SonataTheory-intro.md](../SonataTheory-intro.md)
+- [transposition.md](../transposition.md)
+- [setClassAndPrimeForm2.md](../setClassAndPrimeForm2.md)
+- [SonataTheory-exposition.md](../SonataTheory-exposition.md)
+- [rondo.md](../rondo.md)
+- [interval(Class).md](../interval(Class).md)
+- [thematicFunctionInRondo.md](../thematicFunctionInRondo.md)
+- [fivePartRondo.md](../fivePartRondo.md)
+- [complements.md](../complements.md)
+- [minuet.md](../minuet.md)
+- [scales2.md](../scales2.md)
+
+[ביקורת המקבץ](translation-review-batch13.md). סך הכול 75 פרקי מקור ושני פרקי פתיחה: 77 קבצים. שאלות תאורטיות וחוסרי מקור נרשמים לסיום הספר; בדיקות תצוגה ומדיה ממתינות. ההמשך: תאוריית שנים־עשר טונים, פרקי ניתוח, פופ ורוק ועמודי העזר.
+
+
+## מקבץ 14
+
+- [twelveToneMusicInvariance.md](../twelveToneMusicInvariance.md)
+- [twelveToneIntervallicStructure.md](../twelveToneIntervallicStructure.md)
+- [atonalGlossary.md](../atonalGlossary.md)
+- [atonal.md](../atonal.md)
+- [twelveToneBasics.md](../twelveToneBasics.md)
+- [postTonalAnalysis.md](../postTonalAnalysis.md)
+- [twelveToneOperations.md](../twelveToneOperations.md)
+- [twelveToneMusicDerivation.md](../twelveToneMusicDerivation.md)
+- [twelveTone.md](../twelveTone.md)
+
+[ביקורת המקבץ](translation-review-batch14.md). סך הכול 84 פרקי מקור ושני פרקי פתיחה: 86 קבצים. ספר השמע כולל רק פרקים שתרגומם נבדק. ההמשך: פופ ורוק, טקסט ומוזיקה ועמודי העזר; נותרו 20 עמודי תוכן מן המקור.
+
+
+## מקבץ 15
+
+- [popRockForm-functions.md](../popRockForm-functions.md)
+- [trinket.md](../trinket.md)
+- [popRockHarmony-plagal.md](../popRockHarmony-plagal.md)
+- [popRockHarmony-lament.md](../popRockHarmony-lament.md)
+- [embellishingTones.md](../embellishingTones.md)
+- [popRockHarmony.md](../popRockHarmony.md)
+- [popRockHarmony-dooWop.md](../popRockHarmony-dooWop.md)
+- [about.md](../about.md)
+- [popRockForm-terms.md](../popRockForm-terms.md)
+- [popRockForm-notation.md](../popRockForm-notation.md)
+- [popRockHarmony-fifths.md](../popRockHarmony-fifths.md)
+- [popRockForm-containers.md](../popRockForm-containers.md)
+- [unfiguredBass.md](../unfiguredBass.md)
+- [syncopation.md](../syncopation.md)
+- [melodicKB.md](../melodicKB.md)
+- [analyzingPoetry.md](../analyzingPoetry.md)
+- [popRockForm.md](../popRockForm.md)
+- [popRockHarmony-blues.md](../popRockHarmony-blues.md)
+- [popRockHarmony-puff.md](../popRockHarmony-puff.md)
+- [popRockHarmony-sscp.md](../popRockHarmony-sscp.md)
+
+[ביקורת מקבץ 15](translation-review-batch15.md). סך הכול 104 עמודי מקור ברשימה הראשית ושתי תוספות: 106. נשארו עמודי תוכן נוספים מחוץ לרשימה הראשית, שטופלו במקבץ 16.
+
+
+## מקבץ 16
+
+- [popRockHarmony-EverettSystem3.md](../popRockHarmony-EverettSystem3.md)
+- [popRockHarmony-minor.md](../popRockHarmony-minor.md)
+- [thematicStructureInTheClassicalStyle.md](../thematicStructureInTheClassicalStyle.md)
+- [melodicDictationDemo.md](../melodicDictationDemo.md)
+- [melodicSequentials.md](../melodicSequentials.md)
+- [popRockHarmony-EverettSystem4.md](../popRockHarmony-EverettSystem4.md)
+- [sightSinging.md](../sightSinging.md)
+- [addCC.md](../addCC.md)
+- [SonataTheory-modules.md](../SonataTheory-modules.md)
+- [whiteKeyMethod.md](../whiteKeyMethod.md)
+- [GDrive.md](../GDrive.md)
+- [popRockHarmony-pachelbel.md](../popRockHarmony-pachelbel.md)
+- [chromaticSolfege.md](../chromaticSolfege.md)
+- [popRockHarmony-EverettSystem5.md](../popRockHarmony-EverettSystem5.md)
+- [popRockHarmony-EverettSystem2.md](../popRockHarmony-EverettSystem2.md)
+- [createGraphic.md](../createGraphic.md)
+- [VAT.md](../VAT.md)
+- [MinuetForm.md](../MinuetForm.md)
+- [linkToTwitter.md](../linkToTwitter.md)
+- [typesettingKBStyle.md](../typesettingKBStyle.md)
+
+[ביקורת מקבץ 16](translation-review-batch16.md). נוספו 20 עמודי תוכן ועזר: 124 עמודי מקור ושתי תוספות, 126. תורגמו גם ארבעה עמודי מעטפת; שלושת הנושאים ללא פרק במקור נשארים מצייני מקום, ללא המצאת טקסט.
+
+
+## מצב סיום מלל הספר
+
+[כל ההערות המצטברות](translation-notes.md), לרבות הרשומות שטופלו; [שאלות להכרעה](translation-questions-final.md). המקור נשאר קבוע. השמע הוכן בלבד, 126 עמודים/428 מקטעים, ללא API; הפקה קודמת אינה מעידה שהספר כולו הוקלט. הנכסים המקוריים נשמרו: PDF, תמונות, וידאו ותרגילים לא תורגמו מחדש.

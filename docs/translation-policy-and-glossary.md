@@ -431,3 +431,57 @@
 | hammer blows | מהלומות פטיש |
 | medial caesura declined | צזורה אמצעית שנדחתה — אין אחריה נושא S העונה לדרישות |
 | parallel minor | מינור בעל אותה טוניקה; להבדיל ממינור יחסי |
+
+
+### מונחים שנוספו במקבץ 13
+
+| מקור | עברית |
+|---|---|
+| refrain / episode | חטיבה חוזרת / אפיזודה |
+| interior theme / second-theme complex | נושא פנימי / מכלול נושא שני |
+| trimodular block / Fortspinnung | גוש תלת־יחידתי / טווייה מתמשכת |
+| deformation | חריגה (מן הנורמה בסונטה) |
+| pitch / pitch class | גובה צליל / מחלקת גובה צליל |
+| octave / enharmonic equivalence | שקילות אוקטבית / אנהרמונית |
+| ordered / unordered interval | מרווח מסודר / בלתי מסודר |
+| normal order / prime form | סדר נורמלי / צורה ראשונית |
+| set class / cardinality | מחלקת קבוצה / עוצמת קבוצה |
+| interval-class vector | וקטור מחלקות מרווח |
+| literal / abstract complement | משלים ממשי / מופשט |
+| centricity / axis of symmetry | מרכזיות / ציר סימטריה |
+
+
+### מונחים שנוספו במקבץ 14
+
+| מקור | עברית והבחנה |
+|---|---|
+| serialism / row | סריאליזם / שורה |
+| prime row form | צורה ראשונית של השורה, להבדיל מצורה ראשונית של מחלקת קבוצה |
+| retrograde / retrograde inversion | הילוך לאחור / היפוך והילוך לאחור |
+| row class / derived row | מחלקת שורה / שורה נגזרת |
+| discrete segment / invariance | מקטע נפרד (לא חופף) / אינווריאנטיות |
+| simultaneity | צירוף בו־זמני |
+
+
+### מונחים שנוספו במקבצים 15–16
+
+| מקור | עברית והבחנה |
+|---|---|
+| passing tone / complete neighbor / incomplete neighbor | צליל עובר / צליל שכן שלם / צליל שכן בלתי שלם |
+| double neighbor figure / escape tone | דגם שכן כפול / צליל חומק |
+| appoggiatura / anticipation | אפוג׳טורה / הקדמה; anticipation אינה מבוא |
+| suspension / retardation | השהיה / השהיה הנפתרת בעלייה |
+| strophe / verse / stanza | סטרופה / בית מוזיקלי / בית שירי בטקסט |
+| chorus / refrain | פזמון כמודול / שורה או קטע חוזרים בתוך מודול |
+| prechorus / postchorus | קדם־פזמון / אחר־פזמון |
+| primary / secondary / core / auxiliary module | מודול ראשי / משני / ליבה / עזר; שני הזוגות אינם נרדפים |
+| outro / coda in pop-rock | קטע סיום מחומר מוכר / קודה מחומר חדש; הגדרה מקומית לשיטת הפרק |
+| chorusification / climb | הצטמצמות אל הפזמון / טיפוס |
+| turnaround | טרנאראונד — מהלך המוביל לחזרה |
+| statement / restatement-response / departure / conclusion | הצגה / הצגה חוזרת או תגובה / התרחקות / סיום; srdc |
+| fake triplets / fake sextuplets | טריולות מדומות / סקסטולות מדומות |
+| foot / couplet / quatrain | רגל פיוטית / צמד שורות / רביעיית שורות |
+| white-key method / sequentials | שיטת הקלידים הלבנים / תרגילי סקוונצה |
+| power chord | אקורד כוח — קווינטה פתוחה ללא טרצה |
+
+כל המונחים הם בחירות תרגום של המהדורה, ולא טענה שהתקבלו כמינוח רשמי. מקור אנגלי בהגדרה הראשונה מאפשר זיהוי. עמודי מעטפת מסומנים support-reviewed ואינם מיועדים לשמע. ציטוטי שירים שקוצרו מסומנים במפורש, ואינם מדורגים כשלמים.

@@ -1,0 +1,301 @@
+{
+  "batch": 16,
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "date": "2026-10-09",
+  "review_method": "Self-review by same AI: paragraph-by-paragraph source/target comparison, terminology and explicit exceptions; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "popRockHarmony-EverettSystem3.md",
+      "source_sha256": "8565e7630b02ed9c07cc42686fa092974c026b61d0e1fcf81c533ddd47e5ef40",
+      "target_sha256": "906ca62361dded69c33d4690d923938b24520a4e573f1b0df862f825ec6135e8",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 2,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-minor.md",
+      "source_sha256": "4e269484e61bf88338905f00d0801dc1925f97e72dc7c37dfff620596d2b2097",
+      "target_sha256": "9b915496867e397ec7447c4dc23028ce7ce481834183d451121e997cafe0eee8",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "thematicStructureInTheClassicalStyle.md",
+      "source_sha256": "fd576777b69e562632d853fdad42451e38792cc1a859e28ec8bb89451f05a0d3",
+      "target_sha256": "8158288d888f269b879c4d3b5d7e70676193045a0176be1f9c8e7251b4a8d7e2",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "melodicDictationDemo.md",
+      "source_sha256": "23a8bf5b2e0f36b0d0367e4bafe2057df816b57fba84b833de3550484cdcf184",
+      "target_sha256": "d18be61f7985027d9e12a716ff7d613b0c63412944ed4434a3769adcbfb6299d",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "melodicSequentials.md",
+      "source_sha256": "d4992ba5297d7a5463e487c3089e04731936e44f1eb15fda7ffe110fd01e8fae",
+      "target_sha256": "f25a6d56de433ca0a223f085a995da33b82a5d2fd4af4228d576fa098610a7da",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "1-do-re-mi",
+        "2-do-re-mi-do",
+        "3-do-mi-re-do",
+        "4-do-mi",
+        "5-do-re-mi-fa-sol",
+        "6-do-sol",
+        "7-do-mi-sol"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-EverettSystem4.md",
+      "source_sha256": "e4811def11808236cae4c3a138a1f82dc3b814b946d722ef03a36d7588683764",
+      "target_sha256": "60a853fa42407b6fa89ac173a02396e5df5bf7c4854a5718247a549c8337805a",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "sightSinging.md",
+      "source_sha256": "b6516010b7e8f9e9088b11b6ac458ff25a27dcca4926d720898ac852880ac2e0",
+      "target_sha256": "7f64b69de16a200393833279f6ed6d06181efa0b3a09425dc5ab317cb672fc85",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "addCC.md",
+      "source_sha256": "58094afe593b7c1c1da2b2a483cc7b3507d3d03a8372f0bf6fbec5b7cc0b82ea",
+      "target_sha256": "ab8ba3040545c7f46e7f9de3707780bf5ad9f503cc77aed8fde4a97cb86fa875",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle"
+      ],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "SonataTheory-modules.md",
+      "source_sha256": "255ead4dee450c1817ea4e803a33c24fc9a1f45c2c2efbe7e059f6cb5b3b5e4f",
+      "target_sha256": "a082cb274e71cf962bc0c5aea9b52a99c98ba0ce33396de27401fbc311a5e566",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle",
+        "cadences",
+        "medial-caesura-mc",
+        "essential-expositional-closure-eec",
+        "essential-sonata-closure-esc",
+        "modules",
+        "primary-theme-p",
+        "transition-tr",
+        "secondary-theme-s",
+        "closing-zone-c",
+        "retransition-rt"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "whiteKeyMethod.md",
+      "source_sha256": "cf95eb2f0ae91a125dc8e75a8762cc05f145e2d5c4cd052dff23ed03d49cd5e6",
+      "target_sha256": "cfb0ab1e51054ce975487741d07cca5ffcb5659e7a637bdccaef5a7055e4167b",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "white-key-method"
+      ],
+      "source_images": 4,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "GDrive.md",
+      "source_sha256": "0622424ce7447f9e38230ab0dc4509681bba085b993f0566e6b105bb517ba08f",
+      "target_sha256": "e7be1a9a50a59af963669abfee0373f7753e244250879ce0ca9e42ff99cf4215",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle"
+      ],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-pachelbel.md",
+      "source_sha256": "0893c8a1fee5ba2c983d6ff5b1974fac2213e6b4045ccdda138a80f0e9f17c08",
+      "target_sha256": "8f3de9f183387003691172be43b8634bbc59b3a035926982cfbe1ef1f96e3187",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 3,
+      "completeness_exception": null
+    },
+    {
+      "file": "chromaticSolfege.md",
+      "source_sha256": "e241f07d26085a136c74be7c786b857c57718198306240d8a8f391355228cf66",
+      "target_sha256": "c1dd9efc756a16f131ad00409ae8330fbb7deee72a57a33a74f310daf40f5ecf",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "chromatically-raised-pitches",
+        "chromatically-lowered-pitches",
+        "exercises-to-build-fluency",
+        "1-complete-lower-neighbors",
+        "2-complete-upper-neighbors",
+        "3-incomplete-lower-neighbors",
+        "4-incomplete-upper-neighbors"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-EverettSystem5.md",
+      "source_sha256": "2795a8a70785274f0986ee1862c228f5a732cef27e7e602cc92e0ca30654d291",
+      "target_sha256": "bdbaa19c20cecf0e84d9b32f81dc7d7527b758fa37e2f2037a3f6cd84b7120aa",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 3,
+      "completeness_exception": null
+    },
+    {
+      "file": "popRockHarmony-EverettSystem2.md",
+      "source_sha256": "9890ba191420c8b8aa1cc8be04155efbcea7e62f430a8c8aa9ead20f885854a2",
+      "target_sha256": "eb66d24ce6afb072374ed50ed0eb3504be787b2b2bcd5f1cd439ad73b018261b",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 4,
+      "completeness_exception": null
+    },
+    {
+      "file": "createGraphic.md",
+      "source_sha256": "2dbbac52e39552569d3262d4e75bdc67f6b0fe017d65ef37f266588633b76ece",
+      "target_sha256": "088aff684289272ff3b6fdf7cdc1e3cb091f8f1138c7d040f06e5b62c8e2712e",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle"
+      ],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "VAT.md",
+      "source_sha256": "1f817e78cf1f3756df872755b7dd2814e90f15f79962635f05d025bb0d61a7ef",
+      "target_sha256": "2cd3a9b95c15bf1214f90356a58b2b162147a5ddc34d8e7fda959a56bd12477d",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle"
+      ],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "MinuetForm.md",
+      "source_sha256": "d6010237148e8b8c5291ff970d7572a8a0772ceab64cc12c2c3a4b4f6fcb4bdd",
+      "target_sha256": "3654b4affdc606f8529c3085f5fa0f788bc338d7776b286c16bb3e090c1f0d3d",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle",
+        "formal-containers-in-the-classical-minuet",
+        "formal-functions-in-the-classical-minuet",
+        "exposition",
+        "contrasting-middle",
+        "recapitulation"
+      ],
+      "source_images": 0,
+      "source_iframes": 0,
+      "completeness_exception": null
+    },
+    {
+      "file": "linkToTwitter.md",
+      "source_sha256": "ef30c9d85949283e9a374c88489255304b74737d2f7704918744cb4a617896cc",
+      "target_sha256": "680a307cbde24c9820ca9fd97d36481f83d867c7c6f086263ad84b9733d38ad9",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [
+        "pagetitle"
+      ],
+      "source_images": 0,
+      "source_iframes": 1,
+      "completeness_exception": null
+    },
+    {
+      "file": "typesettingKBStyle.md",
+      "source_sha256": "01089d5bd1e3cb1e8f3fccba720bb59070cbc54addf3cff34c43e247e5b23b11",
+      "target_sha256": "180cb2db2754afcc70ee3a6722b1b1bbd801322435fbadb1196185a674a1b609",
+      "paragraph_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "code_blocks_exact": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 2,
+      "completeness_exception": null
+    }
+  ],
+  "limitations": [
+    "Full Jekyll build unavailable (Ruby not installed)",
+    "No exhaustive score or media playback verification",
+    "Original embedded images, PDFs, recordings and videos not translated",
+    "Source inconsistencies recorded in translation-notes; lyrics abridgement explicitly recorded"
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "batch": 13,
+  "date": "2026-10-09",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Paragraph comparison by the same AI; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "pitch(Class).md",
+      "source_sha256": "55642b92ac2758181888c8bd8892082c0663876eacd0fee4b6daa79fbf17a8c7",
+      "target_sha256": "6b805503864b9dc8dc50cc61f45800060c11d82f75b60d99aa7c3f9482702138",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "octave-equivalence",
+        "enharmonic-equivalence",
+        "pitch",
+        "pitch-class",
+        "integer-notation",
+        "disclaimer"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "inversion.md",
+      "source_sha256": "48eea5456547e9c94b4cc8db99b192bc86849794cceeff4e29d4ed6aac07c8c9",
+      "target_sha256": "869bf64bef5fb978a9e0b01b5c53bc23b760b47f3fb2389fdd9d9413cbc8f5c8",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 5,
+      "source_iframes": 0
+    },
+    {
+      "file": "normalOrder.md",
+      "source_sha256": "faf5166a85a685f2525ce359a0f3c3df1e4af7ec0eea21fd3b27c4002437ec24",
+      "target_sha256": "560f1e89246bb9346c1ef9db17949b5c1a6a17c7db80f6af98a4f85106889a93",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "symmetryAndCentricity.md",
+      "source_sha256": "f1ff84a57a86e632919e238a0072d67d8303f3b4224c0d226c5804c2be4c6e08",
+      "target_sha256": "49d9b32cbab3312b1ee1205c407b0aba4e8a2b102e470afdee16685234b5127a",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "pitch-symmetry",
+        "pitch-class-symmetry"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 6,
+      "source_iframes": 0
+    },
+    {
+      "file": "mod12.md",
+      "source_sha256": "256295651d5d48f383e3794d44da3e5241fef98c6c1aba9825badc3e84482a37",
+      "target_sha256": "939cc5f5bb84c432a490eeed43e3f7959df3b30cfbf4680021669fddb5ba9900",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "addition-and-subtraction"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 1,
+      "source_iframes": 0
+    },
+    {
+      "file": "setClassAndPrimeForm1.md",
+      "source_sha256": "898454d694f5adce421fed9270f0000697ef3b7d809c4bf456a2aa90702b83fa",
+      "target_sha256": "feb2a245da9ba5f2b11788b065849aac303aa724ce8013924f3c5cffaf20e227",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "commonTonesUnderTransposition.md",
+      "source_sha256": "b83612f1301e96607f131528c38da1b51ad7218ee710cbf3ad5c63b2d588bc04",
+      "target_sha256": "bde68917d2ddf4b765f406f7c883a2f91159611aea438a4bd81c08460703d185",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "pagetitle"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "sonataRondo.md",
+      "source_sha256": "405b15d851f537dfc6877317c2e1e2016f16c2d171c0e510bd126fafa94ec64d",
+      "target_sha256": "d835ef5e03b6f865eac921c0f26be350c472fb7082f703f1bc390609ba40d744",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "SonataTheory-intro.md",
+      "source_sha256": "5ba48b38c48b4e988eca59e0435537e0475aadb83b1c5aff59a6f57dd5151198",
+      "target_sha256": "7076b8bf06392bcc80d993e4d7bef9ced76751e8543d0c07ccbf16b0d54957ea",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "sonata-form",
+        "formal-functions-in-a-sonata-movement",
+        "cadential-goals",
+        "defaults-and-deformations",
+        "auxiliary-modules",
+        "further-details"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "transposition.md",
+      "source_sha256": "481c866cd5770ac804835cc834e3a9c481d8e21f3b30b4c743717f11929cf6c7",
+      "target_sha256": "bc6f478daa81c21d93f43c347399bfc6b30aa038eb0a668ae28a7cc989d5702f",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 3,
+      "source_iframes": 0
+    },
+    {
+      "file": "setClassAndPrimeForm2.md",
+      "source_sha256": "5b5ae2772ba4b1b0183f075d68066d63e9991227c60946752e2b60269eb7adad",
+      "target_sha256": "1dbdb2511cb6af5cad751427f1150177dd18d9b0d02447b40b2dd4a0e41cc173",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "interval-class-vector"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 1,
+      "source_iframes": 0
+    },
+    {
+      "file": "SonataTheory-exposition.md",
+      "source_sha256": "f7c788a7525c32765e90e73749eb88e2595622f85e02d7b366e0dbeefae34d55",
+      "target_sha256": "f878f86c6201b64122915a78988958085e3a36f61c21b15315f5b4289a61b1bc",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "the-two-part-exposition",
+        "multiple-mcs",
+        "the-continuous-exposition"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 1
+    },
+    {
+      "file": "rondo.md",
+      "source_sha256": "f3aa6605ab1863ab09d317784c72a0c0f4e9e11efcaf80fd0e9c3945a317fd83",
+      "target_sha256": "caf49dd3a3f4df97840d8f60d690f6aa32c89a44de2cef00c26a22cd50de4a97",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "interval(Class).md",
+      "source_sha256": "770ab81f6f7260bf986a4e38798845d7d8da3f1b0bb1230725587b9ec4c1d102",
+      "target_sha256": "c08a44655c4a9c16fc81f4d2dc1325c8a740d5a5176ca8369b1fd95c757dc4aa",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "pitch-interval",
+        "pitch-class-intervals",
+        "ordered-intervals",
+        "unordered-intervals",
+        "summary"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 4,
+      "source_iframes": 0
+    },
+    {
+      "file": "thematicFunctionInRondo.md",
+      "source_sha256": "642e85706981e41c5868d985cacd084499927fdde9df255c8082d237ca0fa4e6",
+      "target_sha256": "152ff8ba306b0dfa1dfe308e68e08d7dbfad44e1c77dae6488d08fbad139734f",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "interior-theme",
+        "second-theme-complex"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "fivePartRondo.md",
+      "source_sha256": "3bb8d88507b73bd863058cc647cd745089338988dabebf29709c2dcbe1b7478a",
+      "target_sha256": "d2666d0e81fd5c6abe6d5740fcabeb570443660f97574a86d2439303dc5efe38",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "complements.md",
+      "source_sha256": "a0eba2aa0b2bb36a80ad4a9d27ae9256698f20dc26f8b30622bc7b88a5d1ffd4",
+      "target_sha256": "2011fbf7135db6980d555c439c3c635190ee9ba60156a2f25704ddef5f35a443",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "minuet.md",
+      "source_sha256": "bb18690a1e39512ba6249936d1b9dab1888858206825013f6301b17d96513d57",
+      "target_sha256": "34995409ac6df015c4cba51bdb47c7b6f20d2cdb491e28ba06541bed135e9bfc",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "exposition",
+        "contrasting-middle",
+        "recapitulation",
+        "trio"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "scales2.md",
+      "source_sha256": "b38d298ca61c8b3efdce94b076c3a3429fd809941f1b9b99f7867a725e9e92d4",
+      "target_sha256": "479ab15f14416781aeaa1f6deca4f78a69146de9c627e69dbab9240c62f60e9e",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "source_heading_ids": [
+        "diatonic-collection-modes",
+        "pentatonic-collection",
+        "whole-tone-collection",
+        "octatonic-collection",
+        "other-collections-and-scales"
+      ],
+      "heading_ids_needing_source_normalization": [],
+      "source_images": 11,
+      "source_iframes": 0
+    }
+  ],
+  "limitations": [
+    "Jekyll build and visual RTL pending",
+    "No full score or media playback review",
+    "Unresolved source theory and links recorded in N106–N115"
+  ],
+  "numeric_checks": [
+    "T4 example",
+    "major/minor-triad IC vector",
+    "027 and 016 vectors",
+    "complement vector differences",
+    "octatonic T3 invariance"
+  ]
+}

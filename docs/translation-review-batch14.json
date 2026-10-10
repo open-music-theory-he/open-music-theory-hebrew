@@ -1,0 +1,124 @@
+{
+  "batch": 14,
+  "date": "2026-10-09",
+  "source_commit": "a907aa015f7ec54b925ddb070d2d36aecd0dc705",
+  "review_method": "Paragraph comparison by the same AI; not independent human proofreading",
+  "chapters": [
+    {
+      "file": "twelveToneMusicInvariance.md",
+      "source_sha256": "ee852bbb32424735a5784923c544228ead8ada631935a0bbd0e54c332ecf9868",
+      "target_sha256": "195ae93171b1e5d414bd14241cdf82e7efa4574b1a43fc438fd6c31e8407ae1f",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 1,
+      "source_iframes": 0
+    },
+    {
+      "file": "twelveToneIntervallicStructure.md",
+      "source_sha256": "072ccde5c6af5dd58f6147b065e887ceec0c32d38ce1b64e3d8acc83752e4bb8",
+      "target_sha256": "2ab069aea0d580bcff3b6f702cbf84e80883488947fa15d0b9c92646916c36ce",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "atonalGlossary.md",
+      "source_sha256": "2f218e42ec0e4bddcce2ed7dfeaf4c111aa13dd058ec1b3f7ef59895b01317eb",
+      "target_sha256": "cc24b3fdb9b55e325391696544a5735c1b92eebe7be90d3c9ae50b2bdaaf9e18",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 0,
+      "source_iframes": 1
+    },
+    {
+      "file": "atonal.md",
+      "source_sha256": "4454a2bb8b5fd97bfd46272fce078a50ab72c8e059c636fe3cd369219c9ec663",
+      "target_sha256": "fa2a2b1242c718554773cbce550aaffaa20b04c82d9f834f255a41fee2b1ccd4",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "intervals",
+        "the-12-pitch-class-cycle-clock-face",
+        "common-pitch-class-collections",
+        "common-operations",
+        "transposition",
+        "inversion"
+      ],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "twelveToneBasics.md",
+      "source_sha256": "583b30e2a0187ebbe25b0d33ed545fe94576cf751e54d0e0d7d2ce6f741fe14b",
+      "target_sha256": "daaae9cbb28cf7b4471a9e615dbda243dce5715627b76bc492f6514c1ea87603",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 3,
+      "source_iframes": 0
+    },
+    {
+      "file": "postTonalAnalysis.md",
+      "source_sha256": "70b11a673a724860b2b1ff39056bb104e1319b17b1df9df3b5542c11444a9d77",
+      "target_sha256": "7df1f7d2ae177325a84517638db0cea5bb8c6509f9db0d496ffa6511fd4ef61d",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "starting-out",
+        "get-your-hands-dirty"
+      ],
+      "source_images": 0,
+      "source_iframes": 0
+    },
+    {
+      "file": "twelveToneOperations.md",
+      "source_sha256": "55806cadeda0b180ca9fe2db6d17a7b541f4ef4b5c563bea4a06453aa3d88962",
+      "target_sha256": "afb3762a7eecea326b313a2e4703537f2f90f97992459cc37052ae23922d9541",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 2,
+      "source_iframes": 0
+    },
+    {
+      "file": "twelveToneMusicDerivation.md",
+      "source_sha256": "2ed7813d65ac374f243fdf9c4a42825e08ad542ae4dff1625bb97e224ad6a06e",
+      "target_sha256": "6ffec8d762d3a420e7a30412b624a7f6530a5c3fb339e4e885912990c6e13ffb",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [],
+      "source_images": 1,
+      "source_iframes": 0
+    },
+    {
+      "file": "twelveTone.md",
+      "source_sha256": "2fcc4749ee829816426f9f78e20cbe61ffd27d96af8690f5f6fd90a23ec525f8",
+      "target_sha256": "98ea0352cef6c574d5b3827ef401a5588567360ff9518edcdd19dfa3a75d2b38",
+      "source_target_comparison": "reviewed",
+      "ordered_media_sources_and_fallbacks": "pass",
+      "original_heading_ids_preserved": [
+        "prime-form",
+        "retrograde-form",
+        "inversion-form",
+        "retrograde-inversion",
+        "interval-progressions"
+      ],
+      "source_images": 0,
+      "source_iframes": 0
+    }
+  ],
+  "limitations": [
+    "No full score or playback review",
+    "Jekyll and RTL pending",
+    "Source issues recorded in N116–N122"
+  ],
+  "numeric_checks": [
+    "12 factorial",
+    "Op25 P/I/R/RI interval sequences",
+    "T8 segment calculation and source inconsistency"
+  ]
+}
