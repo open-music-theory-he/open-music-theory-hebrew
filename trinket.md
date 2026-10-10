@@ -1,65 +1,68 @@
 ---
 layout: post
-title: Using Trinket
+title: "שימוש ב־Trinket"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-<iframe class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
-*Error-detection exercise from [Composing a first-species counterpoint](http://openmusictheory.com/firstSpecies.html).*
+<iframe title="תרגיל איתור שגיאות בקונטרפונקט מן הסוג הראשון" class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+*תרגיל איתור שגיאות מתוך [כתיבת קונטרפונקט מן הסוג הראשון](firstSpecies.html).*
 
-[Trinket](http://trinket.io) is a new tool for interactive music notation on the web. It can be added to any website that supports iFrames, and there are several music trinkets embedded in Open Music Theory (with more on the way as the textbook grows).
+[Trinket](http://trinket.io) הוא כלי חדש לתיווי מוזיקלי אינטראקטיבי באינטרנט, כפי שהוא מתואר במקור. אפשר להוסיפו לכל אתר התומך ב־iFrames, וב־Open Music Theory מוטמעים כמה רכיבי תיווי כאלה, עם נוספים המתוכננים ככל שהספר גדל.
 
-## Notation guide
+## מדריך תיווי {#notation-guide}
 
-Music notation is created by entering text into a box at the bottom of the trinket. Trinkets offer a limited set of musical features, in order to keep things simple. The text required for these features is provided below. Most of these features are included in the example trinket at the bottom of this page.
+יוצרים תיווי מוזיקלי בהזנת טקסט לתיבה בתחתית הרכיב. כדי לשמור על פשטות, רכיבי Trinket מציעים מבחר מוגבל של תכונות מוזיקליות. להלן הטקסט הדרוש להפעלתן; רובן נכללות בדוגמה שבתחתית העמוד.
 
-### Pitch
+### גובה צליל {#pitch}
 
-Pitch classes are designated by their letter names followed by - for flat, # for sharp, or "n" for natural. Rests are designated by "r".
+מחלקות גובה צליל מסומנות באותיות, ואחריהן `-` לבמול, `#` לדיאז או `n` לבקר. הפסקות מסומנות `r`.
 
-In order to avoid confusion with rhythmic numbers, trinket uses a version of the Helmholtz register designation. So ISO Octave 4 (middle C up to the B above it) uses lower case letters:
+כדי למנוע בלבול עם המספרים הקצביים, Trinket משתמש בגרסה של סימון הרגיסטר של הלמהולץ (Helmholtz). לכן אוקטבה 4, המכונה במקור ISO Octave 4 — מ־C האמצעי עד B שמעליו — משתמשת באותיות קטנות:
 
     c d e f g a b
 
 <br/>
-ISO Octave 5 adds primes:
+אוקטבה 5 מוסיפה גרש:
 
     c' d' e' f' g' a' b'
 
 <br/>
-ISO Octave 6 takes two primes (c''), Octave 7 three primes (c'''), etc.
+אוקטבה 6 מוסיפה שני גרשים, c''; אוקטבה 7 שלושה, c'''; וכן הלאה.
 
-Octave 3 (immediately below middle C) uses capital letters:
+אוקטבה 3, מיד מתחת ל־C האמצעי, משתמשת באותיות גדולות:
 
     C D E F G A B
-	
+
 <br/>
-Octave 2 uses two capital letters:
+אוקטבה 2 משתמשת בשתי אותיות גדולות:
 
     CC DD EE FF GG AA BB
 
 <br/>
-And so on.
+וכן הלאה.
 
-### Rhythm
+### קצב {#rhythm}
 
-Rhythms are designated by numbers representing note values—2 for half note, 4 for quarter note, etc.—and periods for dotted notes—2. for dotted half note, 4.. for doubly dotted quarter note, etc. These numbers immediately follow the pitches.
+הקצב מסומן במספרי ערכי התווים: 2 לחצי, 4 לרבע וכן הלאה; נקודות מציינות ניקוד — 2. לחצי מנוקד, 4.. לרבע בעל שתי נקודות וכן הלאה. המספרים באים מיד אחרי גבהי הצליל.
 
-Ties are denoted by placing a ~ immediately after the rhythmic value.
+קשת הארכה מסומנת ב־`~` מיד אחרי הערך הקצבי.
 
-### Chords
+### אקורדים {#chords}
 
-To make a chord, simply put two or more notes within angled brackets (and put the rhythm outside the bracket).
+ליצירת אקורד, כתבו שני צלילים או יותר בסוגריים זוויתיים, ואת הערך הקצבי מחוץ לסוגריים:
 
     <c e g>4. <d f>8
 
 <br/>
 
-### Lyrics
+### מילים {#lyrics}
 
-When using lyrics, simple type lyrics (or analytical notation) into the lyric box. Use a space to move on to the next note. When skipping a note, put a ~ for the notes that don't take lyrics.
+בשימוש במילות שיר, פשוט הזינו מילים או סימוני ניתוח לתיבת המילים. רווח מעביר לתו הבא. בדילוג על תו, הזינו `~` עבור התווים שאינם מקבלים מילים.
 
-### Example
+### דוגמה {#example}
 
-Here is an example that uses many of the features listed above. (International readers, please forgive the movable-do!)
+להלן דוגמה המשתמשת ברבות מן התכונות האלה. מחברי המקור פונים לקוראים הבין־לאומיים בבקשת סליחה על השימוש בדו נייד (movable-do)!
 
-<iframe src="https://trinket.io/embed/music/91c673df7c" width="100%" height="260" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe title="דוגמת תיווי, קצב, אקורדים וסולפז׳ ב־Trinket" src="https://trinket.io/embed/music/91c673df7c" width="100%" height="260" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>

@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Harmonic functions in minor
+title: "פונקציות הרמוניות במינור בפופ וברוק"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
-In classical harmony, usually the same chords are used in major and in minor with the same functions. For example, **T1 S4 D5 T1** (**I IV**-or-**II V I**) is common in both modes, though the quality of chords will change. In rock/pop music, especially that of the last 20 years or so, there are some common differences in the normative harmonic patterns of major and minor modes.
+בהרמוניה קלאסית משתמשים בדרך כלל באותם אקורדים במז׳ור ובמינור לאותן פונקציות. למשל, **T1 S4 D5 T1**, כלומר **I IV** או **II V I**, נפוץ בשני המודוסים, אף שסוגי האקורדים משתנים. בפופ וברוק, בייחוד בכעשרים השנים שקדמו לכתיבת המקור, קיימים הבדלים נפוצים בין הדגמים ההרמוניים המקובלים במז׳ור ובמינור.
 
-For instance, the most common **S–D** progression in major is **IV–V**. While this is also common in minor, there is another common **S–D** progression that is far more common in minor than major: **bVI–bVII**. Thus the typical cadential bass line of *fa*–*sol*–*do* is replaced by *le*–*te*–*do*. In other words, **Dm–E(m)–Am** is replaced by **F–G–Am**.
+למשל, מהלך **S–D** הנפוץ ביותר במז׳ור הוא **IV–V**. הוא נפוץ גם במינור, אך במינור נפוץ הרבה יותר מאשר במז׳ור מהלך **S–D** נוסף: **bVI–bVII**. לכן קו הבס הקדנציאלי הטיפוסי *fa*–*sol*–*do* מוחלף ב־*le*–*te*–*do*. במילים אחרות, **Dm–E(m)–Am** מוחלף ב־**F–G–Am**. ההברות הן בדו יחסי.
 
-Where minor-key songs with **IV–V–I** bear a stronger resemblance to their *parallel* major (sharing the same bass syllables and Roman numerals), songs that employ this **bVI–bVII–I** progression bear a stronger resemblance to the *relative* major (sharing the same bass notes and actual chords). 
+שירים במינור עם **IV–V–I** דומים יותר למז׳ור *המקביל*, בעל אותה טוניקה, ומשתפים עמו הברות בס וספרות רומיות. שירים המשתמשים ב־**bVI–bVII–I** דומים יותר למז׳ור *היחסי*, ומשתפים עמו צלילי בס ואקורדים בפועל.
 
-For example, the common **S–D–T** progression in C major is **F–G–C**. In A minor, the same functional progression could be **F–G–Am**.
+למשל, מהלך **S–D–T** נפוץ ב־C מז׳ור הוא **F–G–C**. ב־A מינור אותו מהלך פונקציונלי יכול להיות **F–G–Am**.
 
-Songwriters like U2 (“One”) take advantage of this relationship in songs where the verse and chorus modules are in different keys. In both cases, the verse is in minor and is based on a chord progression that ends **bVI–bVII**, followed by a return to **I** at the beginning of the next phrase. In both cases, the chorus begins on **I** in the relative major, turning the **bVI–bVII** in the minor key into **IV–V** in the major key. This two-key approach with **VI–VII / IV–V** as “pivot” point has become increasingly common in recent years.
+יוצרים כגון U2, בשיר ״One״, מנצלים קשר זה כשהבית והפזמון בסולמות שונים. הבית במינור ומבוסס על מהלך המסתיים ב־**bVI–bVII**, ואחריו חזרה ל־**I** בתחילת הפסוקית הבאה. הפזמון מתחיל ב־**I** במז׳ור היחסי, וכך **bVI–bVII** במינור נעשה **IV–V** במז׳ור. הגישה הדו־סולמית עם **VI–VII / IV–V** כנקודת ציר נעשתה נפוצה יותר בשנים המתוארות במקור.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:6mWBwQ20G3GdlXU7eEOWGR" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+<iframe title="דוגמה מוזיקלית להאזנה — פונקציות הרמוניות במינור בפופ וברוק" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:6mWBwQ20G3GdlXU7eEOWGR" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
+
+> הערת תרגום: המקור אומר פעמיים ״בשני המקרים״, אך מביא רק דוגמה אחת. התיאור נשמר ללא המצאת שיר נוסף. ההקבלה הכתובה I IV-or-II V I הובהרה כ־I–IV–V–I או I–II–V–I; הספרות הרומיות כאן אינן מסמנות תמיד את איכות האקורד באמצעות גודל האות.

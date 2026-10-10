@@ -1,56 +1,60 @@
 ---
 layout: post
-title: Minuet form
+title: "צורת מינואט — עמוד עזר חלופי מן המקור"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
 {{ page.title }}
 ================
 
+# יחידות מבנה במינואט הקלאסי {#formal-containers-in-the-classical-minuet}
 
-# Formal containers in the classical minuet #
+פרק מינואט קלאסי כולל בדרך כלל *מינואט ראשי*, אחריו *טריו* שמבנהו דומה מאוד למינואט, ואחריו חזרת *דה קאפו* (da capo) על המינואט הראשי, בדרך כלל ללא ביצוע סימני החזרה. לכן לפרק צורה כוללת ABA’: מינואט–טריו–מינואט דה קאפו.
 
-A classical minuet movement typically contains a *main minuet*, followed by a *trio* that is very similar in structure with a minuet, followed by a *da capo* repeat of the main minuet (usually performed without taking the repeats). The movement, then, has a large-scale ABA' form: *minuet–trio–minuet da capo*.
+המינואט הראשי והטריו נוטים להיות במבנה *תלת־חלקי קטן*. כמו פרק המינואט והטריו כולו, גם הצורה התלת־חלקית הקטנה היא ABA’. אך המבנה שבמינואט הטיפוסי הוא מן הסוג *הדו־חלקי המעוגל* (rounded binary): אף שיש שלושה חלקים נבדלים, A, ‏B ו־A’, הם מקובצים לשתי חטיבות גדולות יותר, שכל אחת חוזרת.
 
-Both the main minuet and the trio tend to be *small ternary* structures. Like the minuet/trio movement, the small ternary form follows an ABA' structure. However, the small ternary structure found in the typical minuet is of the *rounded binary* type. That is, while there are three distinct parts—A, B, and A'—they are grouped into two larger sections, each of which is repeated. 
-
-The first part in the two-part structure is the *first reprise*, and the second part is the *second reprise*, so called because they each repeat. The first reprise contains the A section of the minuet; the second contains the B and the A' sections.
+הראשונה היא *החלק הראשון הנתון לחזרה* (first reprise), והשנייה *החלק השני הנתון לחזרה* (second reprise), משום שכל אחד חוזר. הראשון מכיל A; השני מכיל B ו־A’.
 
 > ||: A :||: B A' :||
 
-When listening to the minuet, the three parts of the small ternary structure are heard in the order:
+בהאזנה למינואט שלושת חלקי המבנה התלת־חלקי נשמעים בסדר:
 
-> A A B A' B A' 
+> A A B A' B A'
 
-Thus, the minuet form has properties both of ternary or three-part form (three distinct sections: A, B, A') and binary or two-part form (two reprises).
+לכן לצורת המינואט תכונות תלת־חלקיות — שלושה חלקים נבדלים — ודו־חלקיות, שני חלקים הנתונים לחזרה.
 
-# Formal functions in the classical minuet #
+# פונקציות צורניות במינואט הקלאסי {#formal-functions-in-the-classical-minuet}
 
-Each container in the minuet's (or the trio's) small ternary form has its own formal function attached to it. The formal function exhibited in the A section is called *exposition* function; the B section *contrasting middle* function; and the A' section *recapitulation* function. As with all formal functions, each of these functions have *internal characteristics* that define and identify it as well as a *position within the larger formal structure* that define it.
+לכל יחידת מבנה בצורה התלת־חלקית הקטנה של המינואט או הטריו פונקציה משלה. A ממלא *פונקציית תצוגה* (exposition); ‏B — *אמצע מנוגד* (contrasting middle); ו־A’ — *רפריזה* (recapitulation). כמו בכל פונקציה צורנית, לכל אחת מאפיינים פנימיים המגדירים ומזהים אותה, וכן מיקום במבנה הרחב המגדיר אותה.
 
-## Exposition ##
+## תצוגה {#exposition}
 
-The definitive internal characteristics of *exposition* function are the presence of a *characteristic melodic theme* that will define and identify the minuet, the *establishment of the home key*, and *movement toward a secondary key*. The characteristic melodic theme is typically a *period* or *hybrid 1* (antecedent + continuation), though it may also be a sentence or another hybrid type. In a typical exposition containing a period or hybrid 1, the home key is established by a cadence in the home key—usually a I:HC—at the end of the antecedent phrase. (A sentence would establish the home key through tonic prolongation in the presentation phrase.) Movement toward a secondary key takes place in a continuation or consequent phrase, ending almost always with a V:PAC (when coming from a major home key) or a III:PAC (minor home key). A *modulating Prinner* schema is often used in a continuation phrase modulating to V. Harmonic sequences are also common means of moving to the new key.
+המאפיינים הפנימיים המגדירים תצוגה הם *נושא מלודי אופייני* המגדיר ומזהה את המינואט, *ביסוס הטונליות הראשית* ו*תנועה אל טונליות משנית*. הנושא בדרך כלל *פריודה* או *נושא היברידי 1*, קודמת והמשך, אך יכול להיות גם משפט מוזיקלי או היבריד אחר. בתצוגה טיפוסית עם פריודה או היבריד 1, קדנצה בטונליות הראשית, בדרך כלל I:HC בסוף הפסוקית הקודמת, מבססת אותה. במשפט מוזיקלי היא מתבססת באמצעות הארכת הטוניקה בפסוקית ההצגה. התנועה לטונליות משנית מתרחשת בפסוקית המשך או עוקבת, וכמעט תמיד מסתיימת ב־V:PAC מן המז׳ור הראשי או ב־III:PAC מן המינור הראשי. סכמה של *פרינר מודולטורי* משמשת לעיתים קרובות בפסוקית המשך המודולטת אל V. גם סקוונצות הרמוניות הן אמצעי נפוץ למעבר לסולם החדש.
 
-> Major-key exposition:  
-phrase 1: Antecedent → I:HC  
-phrase 2: Consequent/continuation → V:PAC
+> תצוגה במז׳ור:  
+פסוקית 1: קודמת → I:HC  
+פסוקית 2: עוקבת או המשך → V:PAC
 
-> Minor-key exposition:  
-phrase 1: Antecedent → I:HC  
-phrase 2: Consequent/continuation → III:PAC
+> תצוגה במינור:  
+פסוקית 1: קודמת → I:HC  
+פסוקית 2: עוקבת או המשך → III:PAC
 
-The definitive position of exposition function is at the beginning of a small ternary form (A section, beginning of the minuet or beginning of the trio). When a minuet or trio begins, expect the above internal characteristics to be present, and listen for any deviations from those norms.
+מיקומה המגדיר של התצוגה הוא בתחילת צורה תלת־חלקית קטנה: A, בתחילת המינואט או הטריו. בפתיחתם צפו למאפיינים אלה והאזינו לסטיות מן הנורמות.
 
-When listening to a minuet to identify whether or not a passage exhibits *exhibition* function, first keep in mind simply that minuets rarely begin with a function other than exposition. If you are listening to a passage without knowing where the passage occurs in the movement, listen for a single tight-knit theme that ends with a V:PAC or III:PAC. If you are unsure about the modulation, use the repeat of the A secion to determine whether the A section begins in the same key in which it ends. Classical minuets are highly conventional forms, and there are rarely exposition modulations other than I-to-V in major or I-to-III in minor.
+בעת זיהוי תפקיד התצוגה בהאזנה, זכרו שמינואטים מתחילים רק לעיתים רחוקות בתפקיד אחר. אם אין יודעים היכן הקטע נמצא בפרק, האזינו לנושא הדוק יחיד המסתיים ב־V:PAC או III:PAC. אם המודולציה אינה ברורה, השתמשו בחזרת A כדי לברר אם הוא מתחיל ומסתיים באותו סולם. מינואטים קלאסיים הם צורות מוסכמות מאוד; מודולציות בתצוגה שאינן I אל V במז׳ור או I אל III במינור נדירות.
 
-## Contrasting middle ##
+## אמצע מנוגד {#contrasting-middle}
 
-The definitive internal characteristics of *contrasting middle* function are a *return to the home key* culminating in a I:HC or a *dominant arrival* in the home key, and a likely looser-knit structure than found in exposition or recapitulation functions. The return to the home key is often, though not always, accomplished by a *Fonte*, *Monte*, or *Ponte* schema, or some combination of those schemas, beginning immediately after the end of the A section/first reprise. Tighter-knit B sections are almost always *sentences*, beginning with a two-bar basic idea that is repeated a step higher (*Monte*) or a step lower (*Fonte*).
+מאפייניו הפנימיים הם *חזרה לטונליות הראשית* המגיעה לשיא ב־I:HC או ב*הגעה לדומיננטה* בטונליות הראשית, ומבנה שסביר שיהיה רופף יותר מבתצוגה או ברפריזה. החזרה נעשית לעיתים קרובות, אך לא תמיד, באמצעות סכמת *פונטה*, *מונטה* או *פונטֶה*, או שילוב שלהן, המתחיל מיד אחרי סוף A, החלק הראשון הנתון לחזרה. חלקי B הדוקים יותר הם כמעט תמיד *משפטים מוזיקליים*: רעיון בסיסי בן שתי תיבות החוזר צעד גבוה יותר, *Monte*, או נמוך יותר, *Fonte*.
 
-The definitive position of *contrasting middle* function is immediately following *exposition function* at the beginning of the second reprise (B section in a small ternary). If you lose track of the boundary between the A and B sections, listen for the repeat of the second reprise, which will go back to the beginning of the B section.
+מיקומו המגדיר הוא מיד אחרי התצוגה, בתחילת החלק השני הנתון לחזרה: B בצורה תלת־חלקית קטנה. אם איבדתם את הגבול בין A ל־B, האזינו לחזרת החלק השני, השבה לתחילת B.
 
-## Recapitulation ##
+## רפריזה {#recapitulation}
 
-The definitive internal characteristics of *recapitulation* function are the *return of the basic idea* from the A section at the beginning of the recapitulation, the *return of the home key* at the beginning of the recapitulation, and a final cadence in the home key—I:PAC. In a typical small ternary, the antecedent phrases that open A and A' are identical or nearly so. If a *modulating Prinner* was used in the A section's continuation phrase to modulate to V, a non-modulating Prinner will be used in the A' section's continuation phrase to prepare the final I:PAC.
+מאפייניה הפנימיים הם *חזרת הרעיון הבסיסי* מ־A בתחילתה, *חזרת הטונליות הראשית* בתחילתה וקדנצה אחרונה בטונליות הראשית, I:PAC. בצורה תלת־חלקית קטנה טיפוסית הפסוקיות הקודמות הפותחות את A ו־A’ זהות או כמעט זהות. אם פסוקית ההמשך ב־A השתמשה בפרינר מודולטורי אל V, זו ב־A’ משתמשת בפרינר לא מודולטורי להכנת I:PAC האחרונה.
 
-The definitive position of *recapitulation* function is at the end of the second reprise, immediately following *contrasting middle* function (and preceding the repeat of the *contrasting middle* function when the entire second reprise is repeated).
+מיקומה המגדיר הוא בסוף החלק השני הנתון לחזרה, מיד אחרי האמצע המנוגד ולפני חזרתו כאשר כל החלק השני חוזר.
+
+> הערת תרגום: זהו עמוד עזר חלופי במקור, השונה מפרק [המינואט הראשי](minuet.html); הוא נשמר כעמוד עצמאי ולא הוחלף באותו תרגום. exhibition במקור תוקן לתצוגה, exposition, לפי ההקשר. Fonte/Monte/Ponte מובחנים גם באנגלית כדי למנוע בלבול בין שמות הסכמות.

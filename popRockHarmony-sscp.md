@@ -1,35 +1,38 @@
 ---
 layout: post
-title: The Singer/Songwriter chord progression
+title: "מהלך האקורדים של הזמרים־היוצרים"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-**&#124;&#124;: VI – IV – I – V :&#124;&#124;** (in major)  
-**&#124;&#124;: I – VI – III – VII :&#124;&#124;** (in minor) 
+**&#124;&#124;: VI – IV – I – V :&#124;&#124;** (במז׳ור)  
+**&#124;&#124;: I – VI – III – VII :&#124;&#124;** (במינור)
 
-Like the 50s doo-wop, this is a four-chord cyclical progression. It has been around for some time but became increasingly common beginning in the mid-1990s with singer/songwriters such as Sarah McLachlan, Jewel, and Joan Osborne, though the chord progression can be found in a variety of musical styles. 
+כמו הדו־וופ של שנות החמישים, זהו מהלך מחזורי של ארבעה אקורדים. הוא היה קיים זמן מה, אך נעשה נפוץ יותר מאמצע שנות התשעים אצל זמרות־יוצרות כגון Sarah McLachlan, Jewel ו־Joan Osborne. עם זאת, הוא מופיע במגוון סגנונות מוזיקליים. מכאן הכינוי ״מהלך הזמרים־היוצרים״ (Singer/Songwriter progression).
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:3ozomn4PrGEKEuusxX2HpC" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך האקורדים של הזמרים־היוצרים" src="https://embed.spotify.com/?uri=spotify:track:3ozomn4PrGEKEuusxX2HpC" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1xNmF1Uep5OGutizZSbKvd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך האקורדים של הזמרים־היוצרים" src="https://embed.spotify.com/?uri=spotify:track:1xNmF1Uep5OGutizZSbKvd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:7hZxxM8EK1cMlzMT8vxu1T" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך האקורדים של הזמרים־היוצרים" src="https://embed.spotify.com/?uri=spotify:track:7hZxxM8EK1cMlzMT8vxu1T" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-This progression is interesting in two particular ways. First, like the 50s doo-wop, it can begin its rotation in places other than the first chord. For example, U2′s “With or Without You” cycles through this progression with phrases starting on tonic:
+למהלך שתי תכונות מעניינות במיוחד. ראשית, כמו בדו־וופ של שנות החמישים, הסבב יכול להתחיל במקומות אחרים ולא באקורד הראשון. למשל, ״With or Without You״ של U2 חוזר על המהלך בפסוקיות המתחילות בטוניקה:
 
-**&#124;&#124;: I – V – VI – IV :&#124;&#124;** 
+**&#124;&#124;: I – V – VI – IV :&#124;&#124;**
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך האקורדים של הזמרים־היוצרים" src="https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-The second interesting feature of this progression is its mode ambiguity. The same chords—depending on the passages before and after a series of repetitions of the progression, and depending on which chords in the cycle begin and end it—can project a feel of major or of minor. In other words,
+התכונה השנייה היא עמימות המודוס. אותם אקורדים יכולים לעורר תחושה של מז׳ור או של מינור, בהתאם לקטעים שלפני רצף החזרות ואחריו ולאקורדים הפותחים והמסיימים את המחזור. במילים אחרות,
 
 **Am – F – C – G**
 
-can sound like VI–IV–I–V in C major, or like I–VI–III–VII in A minor. In fact, some songwriters take advantage of this duality in songs that modulate back and forth between relative major and minor keys, as well as in songs with some parallel ambiguity in the text (hence its usefulness for those mid-1990s songwriters). An example is “What About Love” by Heart, which has an obvious D-minor intro, a D-minor/F-major verse using the singer/songwriter progression, and a chorus obviously in F major.
+יכול להישמע כ־VI–IV–I–V ב־C מז׳ור או כ־I–VI–III–VII ב־A מינור. יש יוצרים המנצלים את הכפילות בשירים העוברים הלוך ושוב בין סולמות מז׳ור ומינור יחסיים, וכן בשירים שבהם יש עמימות מקבילה במילים — ומכאן שימושיותו אצל היוצרים האמורים משנות התשעים. דוגמה היא ״What About Love״ של Heart: מבוא ברור ב־D מינור, בית ב־D מינור/‏F מז׳ור המשתמש במהלך הזמרים־היוצרים, ופזמון ברור ב־F מז׳ור.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:7JmsQwxDlC89imxewJcnHO" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך האקורדים של הזמרים־היוצרים" src="https://embed.spotify.com/?uri=spotify:track:7JmsQwxDlC89imxewJcnHO" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-Lastly, we find a "deceptive" variant of this progression from time to time. Here the cycle of chords begins on IV in order to end on V–VI, allowing phrases to end with a deceptive cadence. "Mexico" by Jump, Little Children incorporates this "deceptive" variant (as well as the original version). Listen to the last two phrases of each strophe. Both phrases employ the deceptive variant, except the final phrase has its last chord elided by the I chord that begins the next module. The result is a phrase ending with a deceptive cadence, followed by a phrase that ends with V–I, or deceptive cadence (DC) => perfect authentic cadence (PAC).
+לבסוף, לעיתים מופיעה גרסה ״מדומה״ (deceptive) של המהלך. מחזור האקורדים מתחיל ב־IV כדי להסתיים ב־V–VI, וכך מאפשר לפסוקיות להסתיים בקדנצה מדומה. ״Mexico״ של Jump, Little Children משלב גרסה זו לצד המקורית. האזינו לשתי הפסוקיות האחרונות בכל סטרופה. שתיהן משתמשות בגרסה המדומה, אך בפסוקית האחרונה האקורד האחרון חופף לאקורד I הפותח את המודול הבא ומוחלף בו. התוצאה היא פסוקית המסתיימת בקדנצה מדומה ואחריה פסוקית המסתיימת ב־V–I: קדנצה מדומה (DC) => קדנצה אותנטית מושלמת (PAC).
 
-**&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)  
+**&#124;&#124;: IV – I – V – VI :&#124;&#124;** (גרסה ״מדומה״)
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:4bAlvRdlQeyMxi6EokQduj" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך האקורדים של הזמרים־היוצרים" src="https://embed.spotify.com/?uri=spotify:track:4bAlvRdlQeyMxi6EokQduj" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

@@ -1,25 +1,29 @@
 ---
 layout: post
-title: The Pachelbel progression 
+title: "מהלך פכלבל"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
 **&#124;&#124;: I – V – VI – III – IV – I – IV – V :&#124;&#124;**
 
-The Pachelbel progression comes from ‘Canon’ in D Major by ‘Pachelbel’ (the scare quotes indicate that the piece is neither a canon nor likely composed by Pachelbel). It’s prevalence in popular music has recently been made famous by comedian Rob Paravonian's ["Pachelbel Rant."](https://www.youtube.com/watch?v=JdxkVQy7QLM).
+מהלך פכלבל נלקח מן ״הקנון״ ב־D מז׳ור של ״פכלבל״. המקור מוסיף מירכאות ומסביר שהיצירה אינה קנון וככל הנראה גם לא הולחנה בידי פכלבל. תפוצת המהלך במוזיקה פופולרית זכתה לפרסום באמצעות [״Pachelbel Rant״ של הקומיקאי Rob Paravonian](https://www.youtube.com/watch?v=JdxkVQy7QLM).
 
-The full progression is given above, but there are a few common alterations. First, the cadential progression may be changed (substituting two bars of V or a cadential 6/4–5/3 for the final IV–V progression). Also, instead of moving in root-position triads, some composers and songwriters will invert every other chord:
+> הערת המהדורה העברית: הטענה השוללת את היות היצירה קנון ואת ייחוסה לפכלבל היא טענה של המקור, שנויה לבדיקה ולא מסקנה מאומתת של צוות התרגום. היא נשמרת כאן עם הסתייגות גלויה עד הכרעה בסוף הספר.
+
+המהלך המלא מופיע לעיל, אך יש כמה שינויים נפוצים. ראשית, אפשר לשנות את המהלך הקדנציאלי: להחליף את IV–V האחרון בשתי תיבות של V או ב־6/4–5/3 קדנציאלי. כמו כן, במקום משולשים במצב יסודי, יש מלחינים ויוצרים ההופכים כל אקורד שני:
 
 **&#124;&#124;: I – V<sup>6</sup> – VI – III<sup>6</sup> – IV – I<sup>6</sup> – IV – V :&#124;&#124;**
 
-Lastly, some composers or songwriters will only use the first four or five chords and follow with a completely new second half. As long as the first four chords—in root position or with the standard inversions—are present, we can consider it an instance of the Pachelbel progression.
+לבסוף, יש המשתמשים רק בארבעת או בחמשת האקורדים הראשונים, וממשיכים במחצית שנייה חדשה לגמרי. כל עוד ארבעת הראשונים מופיעים, במצב יסודי או בהיפוכים הרגילים, אפשר לראות בכך מופע של מהלך פכלבל.
 
-**I – V – VI – III . . .** (to begin a phrase; "truncated" version)
+**I – V – VI – III . . .** (בפתיחת פסוקית; גרסה ״מקוצרת״)
 
-Here are a few of the numerous examples mentioned by Paravonian that feature the Pachelbel progression:
+להלן כמה מן הדוגמאות הרבות שמזכיר Paravonian, ובהן מהלך פכלבל:
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:45V4Mk7vZV2b9JfSWuUX9m" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך פכלבל" src="https://embed.spotify.com/?uri=spotify:track:45V4Mk7vZV2b9JfSWuUX9m" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך פכלבל" src="https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
-
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך פכלבל" src="https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

@@ -1,15 +1,20 @@
 ---
 layout: post
-title: Creating a musical graphic and importing it into a text document
+title: "יצירת תמונה מוזיקלית והכנסתה למסמך טקסט"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
 {{ page.title }}
 ================
 
-The following video demonstrates how to create a musical graphic in MuseScore, crop it on a Mac, and import it into a word processing document using Pages. The process is similar for other applications and platforms.
+הסרטון הבא מדגים יצירת תמונה מוזיקלית ב־MuseScore, חיתוכה ב־Mac והכנסתה למסמך של מעבד תמלילים באמצעות Pages. התהליך דומה ביישומים ובפלטפורמות אחרים.
 
-<iframe src="http://player.vimeo.com/video/64721244" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — יצירת תמונה מוזיקלית והכנסתה למסמך טקסט" src="http://player.vimeo.com/video/64721244" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-You can also use the [Snippet creator][snippet] plugin for MuseScore to create these graphics directly from the application.
+אפשר גם להשתמש בתוסף [Snippet creator][snippet] ל־MuseScore וליצור את התמונות ישירות מתוך היישום.
 
 [snippet]: http://musescore.org/en/project/snippetcreator
+
+> הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.

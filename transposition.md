@@ -1,22 +1,25 @@
 ---
 layout: post
-title: Transposition
+title: טרנספוזיציה
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-In post-tonal music, transposition is often associated with motion: Take a chord, motive, melody, and when it is transposed, the aural effect is of *moving* that chord, motive, or melody in some direction. That’s the effect here, in two disconnected passages from Debussy's, *La cathédrale engloutie*:
+במוזיקה פוסט־טונלית, *טרנספוזיציה* (transposition) קשורה לעיתים קרובות לתנועה: כאשר מעתיקים אקורד, מוטיב או מלודיה, הרושם השמיעתי הוא של *הזזתם* לכיוון כלשהו. זה האפקט בשני הקטעים הנפרדים האלה מתוך ״הקתדרלה השקועה״, *La cathédrale engloutie*, מאת דביסי:
 
-[![]({{ site.url }}/Graphics/postTonal/transposition.png)]({{ site.url }}/Graphics/postTonal/transposition.png)
+[![שני קטעים מתוך הקתדרלה השקועה המדגימים טרנספוזיציה]({{ site.url }}/Graphics/postTonal/transposition.png)]({{ site.url }}/Graphics/postTonal/transposition.png)
 
-The opening motive — comprising the notes B, D, E, or {11, 2, 4} — is transposed four semitones higher in m. 18, representing the cathedral’s slow ascent above the water. Transposing something preserves its intervallic content, and not only that, it preserves the specific arrangement of that thing’s intervals. When we hear the passage at m. 18 above, we recognize its relationship to the passage in m. 1 because the same intervals return, but starting on a different pitch.
+מוטיב הפתיחה, המכיל את הצלילים B, D, E, או <bdi dir="ltr">{11, 2, 4}</bdi>, מועתק ארבעה חצאי טונים כלפי מעלה בתיבה 18, ומייצג את עלייתה האיטית של הקתדרלה מעל המים. טרנספוזיציה שומרת על התוכן המרווחי, ואף על הסידור המסוים של המרווחים. כשאנו שומעים את הקטע בתיבה 18, אנו מזהים את הקשר לתיבה 1 מפני שאותם מרווחים חוזרים, אך מתחילים בגובה צליל אחר.
 
-Transposition is an operation — something that is *done* to a pitch, pitch class, or collection of these things — or alternatively a *measurement* — representing the distance between things. We represent it as *Tn*, where *n* represents the ordered pitch-class interval between the two things. To transpose something by *Tn*, add *n* to every element in that thing (mod 12). Given the collection of pitch classes in m. 1 above and transposition by *T4*:
+טרנספוזיציה היא פעולה — דבר שנעשה לגובה צליל, למחלקת גובה צליל או לאוסף שלהם — או לחלופין *מדידה* המייצגת את המרחק בין דברים. נסמן אותה *Tn*, כאשר *n* מציין את המרווח המסודר בין מחלקות גובה הצליל של שני הדברים. לביצוע *Tn*, מוסיפים *n* לכל איבר, במודולו 12. בהינתן אוסף מחלקות גובה הצליל בתיבה 1 לעיל וטרנספוזיציה *T4*:
 
-[![]({{ site.url }}/Graphics/postTonal/t4.png)]({{ site.url }}/Graphics/postTonal/t4.png)
+[![חישוב טרנספוזיציה T4 באמצעות הוספת ארבע במודולו 12]({{ site.url }}/Graphics/postTonal/t4.png)]({{ site.url }}/Graphics/postTonal/t4.png)
 
-The result is the pitch classes in m. 18. *T4* {11, 2, 4} = {3, 6, 8}.
+התוצאה היא המחלקות בתיבה 18: <bdi dir="ltr">*T4* {11, 2, 4} = {3, 6, 8}</bdi>.
 
-Alternatively, to determine the transpositional relationship *between* two things, subtract the first thing from the second. If the numbers that result are all the same, the two things are related by that *Tn*.
+לחלופין, כדי לקבוע את יחס הטרנספוזיציה *בין* שני דברים, מחסירים את הראשון מן השני. אם כל המספרים המתקבלים זהים, שני הדברים קשורים באותה *Tn*.
 
-[![]({{ site.url }}/Graphics/postTonal/t4Measurement.png)]({{ site.url }}/Graphics/postTonal/t4Measurement.png)
+[![קביעת T4 באמצעות הפרשי מחלקות גובה הצליל המתאימות]({{ site.url }}/Graphics/postTonal/t4Measurement.png)]({{ site.url }}/Graphics/postTonal/t4Measurement.png)
 
-This is how I arrived at the *T4* arrow label in the musical example above, by “subtracting” the pitch class integers of m. 1 from the pitch-class integers in m. 18.
+כך נקבעה תווית החץ *T4* בדוגמה המוזיקלית: באמצעות ״חיסור״ מספרי מחלקות גובה הצליל בתיבה 1 מן המספרים בתיבה 18.

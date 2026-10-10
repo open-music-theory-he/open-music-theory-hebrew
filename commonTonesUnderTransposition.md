@@ -1,24 +1,28 @@
 ---
 layout: post
-title: Common Tones under Transposition
+title: צלילים משותפים תחת טרנספוזיציה
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
 {{ page.title }}
 ================
 
-We've already seen that the set class list can tell us some very interesting and important things about the intervallic properties of a set class and its complement.
+כבר ראינו שרשימת מחלקות הקבוצה יכולה ללמד אותנו דברים מעניינים וחשובים על התכונות המרווחיות של מחלקת קבוצה ושל המשלים שלה.
 
-It can also tell us how many common tones are retained when a set is transposed.  Here's how it works:
+היא יכולה גם ללמד כמה צלילים משותפים נשמרים כשמבצעים טרנספוזיציה לקבוצה. כך הדבר פועל:
 
-Each placeholder in the interval vector tells us how many of a particular interval class are in a given set class. For example, in the (027) set class shown below, all members of that class will have two interval class 5s and one interval class 2. 
+כל מקום בווקטור מחלקות המרווח מציין כמה מרווחים ממחלקה מסוימת יש במחלקת הקבוצה הנתונה. למשל, במחלקת הקבוצה <bdi dir="ltr">(027)</bdi> המוצגת להלן, בכל קבוצה השייכת למחלקה יש שני מרווחים ממחלקה 5 ומרווח אחד ממחלקה 2.
 
-*Those numbers also tell us how many common tones are retained when those sets are transposed by a member of that interval class*. That is, because there is a *1* in the second column, a pitch class set belonging to (027) will retain *1* common tone when transposed by either *T2* or *T10*. Because there is a *2* in the fifth column, it will retain *2* common tones when transposed by either *T5* or *T7*.
+*המספרים האלה מציינים גם כמה צלילים משותפים נשמרים בטרנספוזיציה במרווח השייך למחלקת המרווח הזאת*. כלומר, מאחר שבעמודה השנייה מופיע *1*, קבוצה השייכת ל־<bdi dir="ltr">(027)</bdi> תשמור צליל משותף *אחד* בטרנספוזיציה *T2* או *T10*. מאחר שבעמודה החמישית מופיע *2*, היא תשמור *שני* צלילים משותפים בטרנספוזיציה *T5* או *T7*.
 
-[![]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition.png)]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition.png)
+[![וקטור המרווחים של מחלקת הקבוצה 027 והקשר לצלילים משותפים]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition.png)]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition.png)
 
-You can see this explicitly below. I've taken four arbitrary members of (027)—show on the left—and transposed them in various ways. As indicated above, only *T2*, *T10*, *T5*, or *T7* will keep common tones. Any other transposition will have zero common tones.
+הדבר מוצג במפורש להלן. ארבע קבוצות שרירותיות השייכות ל־<bdi dir="ltr">(027)</bdi>, המוצגות משמאל, הועתקו בדרכים שונות. כפי שצוין לעיל, רק *T2*, *T10*, *T5* או *T7* ישמרו צלילים משותפים. בכל טרנספוזיציה אחרת לא יהיו צלילים משותפים.
 
-[![]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition2.png)]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition2.png) 
+[![ארבע קבוצות מן המחלקה 027 והצלילים המשותפים תחת טרנספוזיציות שונות]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition2.png)]({{ site.url }}/Graphics/postTonal/commonTonesUnderTransposition2.png)
 
-If an interval class vector has a tritone, it will retain twice as many common tones under tritone transposition than is indicated in the vector. For example, the trichord (016) has an interval vector of <100011>. When transposed by *T6*, it will have 2—not 1—common tones.
+> **הערת מהדורה:** המשפט ״בכל טרנספוזיציה אחרת״ נשמר מן המקור, אך אינו מזכיר את טרנספוזיציית הזהות T0, המשמרת את כל הצלילים. החריג נרשם לבירור ב־N113.
 
+כאשר וקטור מחלקות המרווח כולל טריטון, בטרנספוזיציה בטריטון יישמרו פי שניים צלילים משותפים מן המספר הנקוב בווקטור. למשל, לקבוצה בת שלושה צלילים <bdi dir="ltr">(016)</bdi> הווקטור <bdi dir="ltr">&lt;100011&gt;</bdi>. תחת *T6* יהיו לה שני צלילים משותפים, ולא אחד.

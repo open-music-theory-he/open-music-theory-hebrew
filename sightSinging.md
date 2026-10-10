@@ -1,24 +1,29 @@
 ---
 layout: post
-title: Sight-singing tips
+title: "הנחיות לשירה מן הדף"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
-When singing a melody from sight, go through the following process before attempting to sing it.
+לפני שירה של מלודיה מן הדף, עברו על התהליך הבא.
 
-First, identify the meter. The meter can be found by looking at the *top number* of the time signature. Then identify the beat value and the division value from looking at the bottom number. (Revisit [Meter and time signatures][meter] if necessary.)
+ראשית, זהו את המשקל לפי *המספר העליון* בסימן המשקל. לאחר מכן זהו את ערך הפעמה ואת ערך חלוקתה לפי המספר התחתון. במידת הצורך חזרו אל [משקל וסימני משקל][meter].
 
-Next, identify the key. The key signature will give you two possibilities for key: one major and one minor. Then look at the first and last notes of the melody: these will often be tonic, especially the last note (this is not always true for excerpts of longer melodies, though). This will help you decide between the two possibilities presented by the key signature. Lastly, look for any accidentals. Raised pitches that would be *la* or *ti* in the minor key suggested by the signature will confirm that minor key as the key of the melody.
+לאחר מכן זהו את הסולם. סימן הסולם מציע שתי אפשרויות: מז׳ור אחד ומינור אחד. התבוננו בצליל הראשון ובאחרון של המלודיה: לעיתים קרובות הם הטוניקה, בייחוד האחרון, אם כי לא תמיד בקטעים מתוך מלודיות ארוכות. הדבר יסייע לבחור בין האפשרויות. לבסוף חפשו סימני היתק. צלילים מוגבהים שיהיו *la* או *ti* בסולם המינורי שמציע הסימן יאשרו אותו כסולם המלודיה, לפי הנחיית המקור.
 
-Then scan the rhythm for the fastest notes, and the pitches for the hardest passages. Choose a tempo that will make these passages comfortable.
+סרקו את המקצב למציאת הצלילים המהירים ביותר ואת גבהי הצליל למציאת הקטעים הקשים ביותר. בחרו מפעם שבו נוח לבצע אותם.
 
-Find the highest and lowest notes. When singing by yourself, you can sing in any key you like. Choose a key that will put the highest and lowest notes in your range.
+מצאו את הצליל הגבוה ביותר ואת הנמוך ביותר. כששרים לבד אפשר לשיר בכל סולם שתרצו. בחרו סולם שיכניס את שניהם לטווח הקול שלכם.
 
-Once you have key and tempo chosen, orient yourself to the key. For example, you can use scales, arpeggios, or something like the solfège patterns on pp. 51 and 89 of Gary Karpinski's *Manual for Ear Training and Sight-Singing*.
+לאחר בחירת הסולם והמפעם, התמקמו בסולם: למשל באמצעות סולמות, ארפג׳ים או דגמי סולפז׳ כמו אלה שבעמ׳ 51 ו־89 בספר *Manual for Ear Training and Sight-Singing* של Gary Karpinski.
 
-*After* orienting yourself to the key, look for the hardest and trickiest passages. Sing through a couple of these licks out loud, perhaps adding or removing notes in order to figure them out, then sing them as written.
+*אחרי* ההתמקמות בסולם מצאו את הקטעים הקשים והמסובכים ביותר. שירו כמה מהם בקול, ואולי הוסיפו או השמיטו צלילים כדי להבין אותם, ואז שירו אותם כפי שנכתבו.
 
-Be sure to sing the lowest and highest notes out loud before you begin the melody. This way you will know both the sound and the feel of those notes ahead of time, which will help you perform them and detect errors as you sing.
+לפני תחילת המלודיה הקפידו לשיר בקול את הצליל הנמוך והגבוה ביותר. כך תכירו מראש את צלילם ואת התחושה שלהם ותוכלו לבצע אותם ולזהות שגיאות בזמן השירה.
 
-Finally, with a comfortable key and tempo, and at least a rough handle on the toughest licks, sing the melody straight through, while conducting the meter, without stopping.
+לבסוף, בסולם ובמפעם נוחים ולאחר שהשגתם לפחות אחיזה ראשונית בקטעים הקשים, שירו את המלודיה ברצף, תוך ניצוח המשקל, ללא עצירה.
 
 [meter]: meter.html
+
+> הערת תרגום: הכללים לזיהוי הסולם והמשקל הם הנחיות מקור להקשרים טונליים רגילים, ואינם הוכחה יחידה לכל מלודיה או משקל. la/ti כאן הן הברות דו יחסי, לא גבהי צליל מוחלטים. מספרי העמודים לא אומתו מול מהדורת הספר.

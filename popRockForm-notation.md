@@ -1,33 +1,35 @@
 ---
 layout: post
-title: Form in pop/rock music – Analytical notation
+title: "צורה בפופ וברוק — סימון לניתוח"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-Following are notational conventions for analyses of musical form.
+להלן מוסכמות הסימון לניתוח צורה מוזיקלית.
 
-## Capital letters
+## אותיות גדולות {#capital-letters}
 
-Modules are labeled with capital letters according to function. A module that functions as a strophe is labeled with an “A”; a module that functions as a bridge, “B”; etc.
+מודולים מסומנים באותיות גדולות לפי הפונקציה. מודול המתפקד כסטרופה מסומן ״A״; מודול המתפקד כגשר — ״B״; וכן הלאה.
 
-## Lower-case letters
+## אותיות קטנות {#lower-case-letters}
 
-Phrases are labeled with lower-case letters according to their musical content. If two phrases use more-or-less the same musical framework (harmony, melody, and rhythm), they receive the same letter. Letters are assigned in the same manner as poetic rhymes: the first phrase is *a* and any phrase that follows based on the same music is also *a* (primes are used for slight variations, such as new text or altered instrumentation); the next phrase with new musical material is b; and so on. These letters do *not* correspond to functions. 
+פסוקיות מסומנות באותיות קטנות לפי תוכנן המוזיקלי. אם שתי פסוקיות משתמשות פחות או יותר באותה מסגרת מוזיקלית — הרמוניה, מלודיה ומקצב — הן מקבלות אותה אות. הקצאת האותיות דומה לסימון חריזה: הראשונה היא *a*, וכל פסוקית הבאה המבוססת על אותה מוזיקה היא גם *a*. סימני פריים משמשים לשינויים קלים, כגון מילים חדשות או תזמור אחר. הפסוקית הבאה בעלת חומר מוזיקלי חדש היא b, וכן הלאה. אותיות אלה *אינן* מציינות פונקציות.
 
-The single exception to this convention is when phrases within a module demonstrate a sentential progression (*srdc*), in which case the first phrase (statement) is labeled *s*; restatement/response, *r*; departure, *d*; conclusion, *c*.
+החריג היחיד הוא כשפסוקיות המודול מציגות מהלך במבנה משפט, *srdc*: הראשונה, הצגה (statement), מסומנת *s*; הצגה חוזרת או תגובה (restatement/response) — *r*; התרחקות (departure) — *d*; וסיום (conclusion) — *c*.
 
-## Full-sized numerals
+## ספרות בגודל רגיל {#full-sized-numerals}
 
-Full-sized numerals are attached to capital letters when there are two or more modules with the same function but different music. For example, if a song contains two different melodies that both function as verse themes, they are labeled “V1” (the one that appears first in the song) and “V2.”
+ספרות בגודל רגיל מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה אך מוזיקה שונה. למשל, אם בשיר שתי מלודיות שונות המשמשות כנושאי בית, הן מסומנות ״V1״ — הראשונה המופיעה בשיר — ו־״V2״.
 
-## Subscript numerals
+## ספרות בכתב תחתי {#subscript-numerals}
 
-Subscript numerals are attached to capital letters when there are two or more modules with the same function and music but different text. For example, if a song contains three verses, and they all have different lyrics but the same music, they are labeled “V<sub>1</sub>”, “V<sub>2</sub>”, and “V<sub>3</sub>”.
+ספרות בכתב תחתי מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה ואותה מוזיקה, אך מילים שונות. למשל, שלושה בתים בעלי מילים שונות ואותה מוזיקה מסומנים ״V<sub>1</sub>״, ״V<sub>2</sub>״ ו־״V<sub>3</sub>״.
 
-## Timeline notation
+## סימון בציר זמן {#timeline-notation}
 
-[Variations Audio Timeliner][VAT] does not support subscripts. It is fine to use full-sized numerals for both purposes if making timelines in VAT.
+[Variations Audio Timeliner][VAT] אינו תומך בכתב תחתי. ביצירת צירי זמן ב־VAT אפשר להשתמש בספרות בגודל רגיל לשתי המטרות.
 
-[*Back to pop/rock form overview.*](popRockForm.html)
+[*חזרה לסקירת הצורה בפופ וברוק.*](popRockForm.html)
 
 [VAT]: http://variations.sourceforge.net/vat/
-

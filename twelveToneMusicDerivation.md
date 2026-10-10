@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Twelve-Tone Music — Derived Rows
+title: מוזיקת שנים־עשר טונים — שורות נגזרות
+language: he
+translation_status: language-reviewed
+translation_batch: 14
 ---
 
-_Derived rows_ are rows whose non-overlapping segments (*discrete* segments) belong to the same set class. Because they must not overlap, discrete subsets divide the row into either six 2-note segments, four 3-note segments, three 4-note segments, or two 6-note segments. (In general, we are mostly concerned with rows that are trichordally- or tetrachordally-derived.)
+*שורות נגזרות* (derived rows) הן שורות שמקטעיהן הלא חופפים — מקטעים *נפרדים* (discrete segments) — שייכים לאותה מחלקת קבוצה. מכיוון שהמקטעים אינם חופפים, תת־הקבוצות הנפרדות מחלקות את השורה לשישה מקטעים בני שני צלילים, לארבעה בני שלושה, לשלושה בני ארבעה, או לשניים בני שישה. בדרך כלל נתמקד בשורות הנגזרות מקבוצות בנות שלושה או ארבעה צלילים.
 
-An example is offered below. This row (from Webern's String Quartet, Op. 28) has been divided into discrete tetrachords and discrete dyads. All of the tetrachords belong to the set class (0123). Thus, we say that the row is tetrachordally derived, and that it is *generated* by (0123). Further, the discrete dyads indicated an interesting dyadic derivation, by (01).
+להלן דוגמה. השורה, מתוך רביעיית המיתרים אופ׳ 28 של וברן, חולקה לקבוצות נפרדות בנות ארבעה צלילים ולצמדי צלילים נפרדים. כל קבוצות הארבעה שייכות למחלקת הקבוצה <bdi dir="ltr">(0123)</bdi>. לכן נאמר שהשורה נגזרת מקבוצות בנות ארבעה, ושהיא *נוצרת* באמצעות <bdi dir="ltr">(0123)</bdi>. נוסף על כך, צמדי הצלילים הנפרדים מצביעים על גזירה מעניינת מצמדים מן המחלקה <bdi dir="ltr">(01)</bdi>.
 
-[![]({{ site.url }}/Graphics/postTonal/derivedRow.png)]({{ site.url }}/Graphics/postTonal/derivedRow.png)
+[![שורת וברן אופוס 28 המחולקת לקבוצות ארבעה ולצמדים]({{ site.url }}/Graphics/postTonal/derivedRow.png)]({{ site.url }}/Graphics/postTonal/derivedRow.png)
 
-From a compositional and listener-oriented perspective, derived rows are very suggestive. Because the set-class content of a row doesn't change when it's transposed, inverted, etc., these set classes will circulate constantly throughout a piece, even if different row forms are used. Therefore, a derived row guarantees the regular recurrence of a very small selection of set class—thus ensuring a particular type of unity throughout a piece.
+מנקודת מבט הלחנתית ושל המאזין, לשורות נגזרות אפשרויות רבות. מאחר שתוכן מחלקות הקבוצה של שורה אינו משתנה בטרנספוזיציה, בהיפוך וכן הלאה, מחלקות אלה מופיעות שוב ושוב לאורך היצירה, גם אם משתמשים בצורות שורה שונות. לכן שורה נגזרת מבטיחה הישנות קבועה של מבחר קטן מאוד של מחלקות קבוצה, ובכך סוג מסוים של אחדות לאורך היצירה.

@@ -1,40 +1,42 @@
 ---
 layout: post
-title: Analyzing a post-tonal piece from scratch
+title: ניתוח יצירה פוסט־טונלית מן ההתחלה
+language: he
+translation_status: language-reviewed
+translation_batch: 14
 ---
 
-What makes post-tonal music so interesting is the uniqueness of each piece. As György Ligeti points out, many post-tonal works make use of "one-of-a-kind forms" ("On Form in New Music," 1966). In the best cases, these one-of-a-kind forms can make listening to this music very engaging. (In the worst cases, it can be quite disorienting and frustrating.) In most cases, though, this constant uniqueness makes analysis difficult, as there is not one process or one set of tools that can help musicians figure out the structure and meaning of a piece.
+ייחודה של כל יצירה הוא שעושה את המוזיקה הפוסט־טונלית למעניינת כל כך. כפי שג׳רג׳ ליגטי מציין, יצירות פוסט־טונליות רבות משתמשות ב״צורות יחידות במינן״ (״On Form in New Music״, 1966). במקרים הטובים ביותר צורות אלה הופכות את ההאזנה למרתקת מאוד; במקרים הגרועים ביותר היא עלולה להיות מבלבלת ומתסכלת. ברוב המקרים, הייחוד המתמיד מקשה על הניתוח, שכן אין תהליך יחיד או מערכת כלים אחת המסייעים למוזיקאים לפענח את מבנה היצירה ואת משמעותה.
 
-However, there are some general principles that can guide our engagement with post-tonal works. Keeping these principles — really, *questions* — in mind early in the analytical process can help us relate what we are hearing to what we already know, and can help us figure out what tools and procedures to use as we dig deeper into the piece.
+עם זאת, כמה עקרונות כלליים יכולים להנחות את העיסוק ביצירות פוסט־טונליות. זכירתם — למעשה, אלה *שאלות* — בשלב מוקדם של הניתוח יכולה לסייע לקשר את הנשמע למה שכבר ידוע לנו, ולבחור כלים ותהליכים להעמקת העיון.
 
-## Starting out
+## מתחילים {#starting-out}
 
-When engaging a post-tonal work for the first time, the following three questions can offer great help in knowing how to conduct an analysis of the work:
+במפגש הראשון עם יצירה פוסט־טונלית, שלוש השאלות הבאות יכולות לסייע מאוד בתכנון הניתוח:
 
-**What is the form of the work?** Even if we cannot get a clear answer like ABA' right away, certain moments in the music will jump out of the texture as we listen — climaxes, points of arrival, moments when things change. When we hear these moments, we can note them for further analysis: What made that moment sound like a high point or an arrival? What *specifically* changed at that moment? If our ears latched onto it the first time, there's a good chance that it is important, and some composers purposefully use those clearly audible moments to help listeners make sense of their one-of-a-kind musical structures.
+**מה צורת היצירה?** גם אם איננו יכולים לענות מיד בתבנית ברורה כגון <bdi dir="ltr">ABA'</bdi>, רגעים מסוימים יבלטו מתוך המרקם בהאזנה: שיאים, נקודות הגעה ורגעי שינוי. כשנשמע אותם, אפשר לרשום אותם לניתוח נוסף: מה גרם לרגע להישמע כשיא או כהגעה? מה *בדיוק* השתנה? אם האוזן נתפסה בו בהאזנה הראשונה, סביר שהוא חשוב. מלחינים מסוימים משתמשים במכוון ברגעים נשמעים בבירור כדי לסייע למאזינים להבין את המבנים הייחודיים שלהם.
 
-**What does the title mean?** A title like String Quartet No. 1 may not help, but a title like "The Sunken Cathedral" can be both evocative *and* guide us to understand the roles that specific elements in the piece are playing in the larger structure. Again, this can help us narrow down which musical elements are most in need of our analytical attention.
+**מה פירוש שם היצירה?** שם כגון ״רביעיית מיתרים מס׳ 1״ אולי אינו מועיל, אך ״הקתדרלה השקועה״ יכול גם לעורר דימויים וגם להנחות אותנו להבנת תפקידיהם של מרכיבים מסוימים במבנה הגדול. כך אפשר לצמצם את בחירת המרכיבים הזקוקים ביותר לתשומת לב בניתוח.
 
-**What is the historical context of the work?** Was it written by Schoenberg, Berg, or Webern? Then maybe set theory or twelve-tone theory would provide the most insightful tools. Was it written before the 1920s? Don't bother applying mature twelve-tone theory. Was it composed by Debussy or Bartók? Then an analysis of how different pitch-class collections relate to the form might be the best place to start. Was it written by a European after WWII? Then a hunt for serial structures might be in order. Is the piece a ballet by Stravinsky? Look at the rhythm and compare it with a video of the original choreography (if you can find one). Knowing what techniques are associated with what composers/countries/time periods can help narrow things down a lot and direct our attention to musical elements that are more likely to be structurally important than others.
+**מה ההקשר ההיסטורי של היצירה?** האם נכתבה בידי שנברג, ברג או וברן? אולי תורת הקבוצות או תאוריית שנים־עשר טונים יספקו את הכלים המעמיקים ביותר. האם נכתבה לפני שנות העשרים של המאה העשרים? אל תטרחו להחיל עליה תאוריית שנים־עשר טונים מפותחת. האם נכתבה בידי דביסי או ברטוק? אולי כדאי להתחיל ביחס בין אוספי מחלקות גובה צליל שונים לבין הצורה. האם נכתבה בידי מלחין אירופי אחרי מלחמת העולם השנייה? אולי יש לחפש מבנים סריאליים. האם זה בלט של סטרווינסקי? בחנו את הקצב והשוו לסרטון הכוראוגרפיה המקורית, אם אפשר למצוא כזה. ידיעת הקשר בין טכניקות לבין מלחינים, ארצות ותקופות יכולה לצמצם מאוד את האפשרויות ולמקד את תשומת הלב במרכיבים שסביר יותר שהם חשובים מבחינה מבנית.
 
-None of these questions will give a fool-proof answer. However, if we ask all three and they all point in the same direction, that's a good sign that we should begin our analysis there.
+אף אחת מהשאלות אינה נותנת תשובה חסינת טעויות. אולם אם שלושתן מצביעות לאותו כיוון, זה סימן טוב שכדאי להתחיל שם.
 
-## Get your hands dirty
+## ניגשים לעבודה {#get-your-hands-dirty}
 
-Once these preliminary questions point us in one or two directions, we can start trying some things out and seeing what works. Whether you are looking for rhythmic motives, pitch-class collections, twelve-tone rows, or trichord/tetrachord cells, keep the following questions in mind as you work:
+לאחר שהשאלות הראשוניות מצביעות על כיוון אחד או שניים, אפשר לנסות דברים ולראות מה עובד. בין שאתם מחפשים מוטיבים קצביים, אוספי מחלקות גובה צליל, שורות שנים־עשר טונים או תאים בני שלושה או ארבעה צלילים, זכרו את השאלות הבאות:
 
-- What analyses are offering an explanation of your experience of the piece?  
-- What analyses are answering questions you already had about the piece?  
-- What analyses are opening up new, more interesting questions?  
-- And perhaps most importantly: *What analyses are helping you tie seemingly disparate things together with a sense of unity?*
+- אילו ניתוחים מסבירים את חוויית היצירה שלכם?
+- אילו ניתוחים עונים על שאלות שכבר היו לכם לגביה?
+- אילו ניתוחים פותחים שאלות חדשות ומעניינות יותר?
+- ואולי החשובה ביותר: *אילו ניתוחים עוזרים לקשור דברים שנראו נפרדים לתחושת אחדות?*
 
-A good musical analysis is a good theory: an explanation of your observations and experience. And since many post-tonal composers try to use a few fundamental principles to generate a diversity of musical effects, the best musical analysis is often the one that can explain the most things with the smallest number of basic principles. (This is not always the case, but if you can find a small set of basic, unifying principles, you've almost certainly got a good analysis.) This is what mathematicians call *elegance*, and it can go a long way in analyzing art, as well.
+ניתוח מוזיקלי טוב הוא תאוריה טובה: הסבר של התצפיות ושל החוויה שלכם. מכיוון שמלחינים פוסט־טונליים רבים מנסים ליצור מגוון השפעות מוזיקליות באמצעות עקרונות יסוד מעטים, הניתוח הטוב ביותר הוא לעיתים קרובות זה שמסביר את רוב הדברים באמצעות המספר הקטן ביותר של עקרונות בסיסיים. אין זה תמיד כך, אך אם מצאתם מערכת קטנה של עקרונות מאחדים, כמעט בוודאות יש בידיכם ניתוח טוב. המתמטיקאים מכנים זאת *אלגנטיות*, והיא יכולה להועיל מאוד גם בניתוח אמנות.
 
-You may find that your initial hunch did not work out. That may be because of an analytical mistake, so check your work. However, it also may be because the composer is purposefully working against the more obvious expectations that (s)he expects listeners to bring to their work. So keep and open mind and try a few different things early on to see what looks the most promising. 
+ייתכן שההשערה הראשונה שלכם לא תעבוד. אולי יש טעות בניתוח — בדקו אותו. אך אולי המלחין פועל במכוון נגד הציפיות הברורות יותר שהוא מניח שהמאזינים מביאים איתם. לכן שמרו על ראש פתוח ונסו בשלב מוקדם כמה גישות, כדי לראות מה נראה מבטיח ביותר.
 
-Always keep in mind your experience of the piece: what stood out to you the most when you heard it the first time, the second time, the twentieth time... Grounding your analysis in your own experience will help motivate you to keep searching. But it will also take advantage of those structures that your brain already knows, but so far can only make sense of unconsciously. Tying your musical instincts to explicit concepts is easier than starting completely from scratch, and it will usually lead to a more personally satisfying result.
-
+זכרו תמיד את חוויית היצירה שלכם: מה בלט בהאזנה הראשונה, השנייה, העשרים וכן הלאה. עיגון הניתוח בחוויה שלכם יעזור להתמיד בחיפוש, וגם ינצל מבנים שהמוח כבר מכיר אך מבין בינתיים רק באופן לא מודע. קל יותר לקשור אינסטינקטים מוזיקליים למושגים מפורשים מאשר להתחיל מאפס, ובדרך כלל התוצאה תהיה מספקת יותר מבחינה אישית.
 
 <hr/>
 
-*This resource written by Kris Shaffer.*
+*חומר עזר זה נכתב בידי Kris Shaffer.*

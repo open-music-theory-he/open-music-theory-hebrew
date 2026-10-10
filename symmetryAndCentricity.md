@@ -1,35 +1,37 @@
 ---
 layout: post
-title: Symmetry and Centricity
+title: סימטריה ומרכזיות
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-Centricity in post-tonal music can be established in a variety of ways, often simply by emphasis. When a particular pitch-class is regularly the lowest, highest, loudest, or longest in a passage, that pitch-class becomes something like a tonic.
+אפשר לבסס *מרכזיות* (centricity) במוזיקה פוסט־טונלית בדרכים שונות, לעיתים פשוט באמצעות הדגשה. כאשר מחלקת גובה צליל מסוימת היא בקביעות הנמוכה ביותר, הגבוהה ביותר, החזקה ביותר או הממושכת ביותר בקטע, היא נעשית מעין טוניקה.
 
-Apart from these means, pitch and/or pitch-class symmetry represents a novel method by which post-tonal composers created centricity in their music. And the study of symmetry in general takes us far afield of the compositional techniques generally associated with common-practice tonal music.
+מלבד אמצעים אלה, סימטריה של גבהי צליל ו/או של מחלקות גובה צליל היא דרך חדשה שבה יצרו מלחינים פוסט־טונליים מרכזיות במוזיקה שלהם. חקר הסימטריה בכלל מרחיק אותנו מאוד מטכניקות ההלחנה המזוהות בדרך כלל עם מוזיקה טונלית מתקופת הפרקטיקה המקובלת.
 
-## Pitch Symmetry
+## סימטריה של גבהי צליל {#pitch-symmetry}
 
-Think of pitch symmetry in terms of a musical “mirror.” In the passage below — from Bartók’s *Music for Strings, Percussion, and Celesta* — the third violin (3. Vl.) plays a gesture comprising two descending pitch intervals: –5 followed by –1. That is *mirrored* by the fourth violin (4. Vl), who plays the same pitch intervals, only ascending: +5 followed by +1. Below the example, I’ve diagrammed the gestures in pitch space. And you can that when combined the two gestures create a symmetrical arch.
+חשבו על סימטריה של גבהי צליל במונחים של ״מראה״ מוזיקלית. בקטע להלן, מתוך *מוזיקה לכלי קשת, כלי הקשה וצ׳לסטה* של ברטוק, הכינור השלישי, המסומן 3. Vl., מנגן מחווה הכוללת שני מרווחים יורדים בין גבהי צליל: <bdi dir="ltr">–5</bdi> ואחריו <bdi dir="ltr">–1</bdi>. הכינור הרביעי, 4. Vl., *משקף* זאת ומנגן אותם מרווחים בעלייה: <bdi dir="ltr">+5</bdi> ואחריו <bdi dir="ltr">+1</bdi>. מתחת לדוגמה המחוות מוצגות בתרשים מרחב גובה הצליל. אפשר לראות ששילובן יוצר קשת סימטרית.
 
-**Bartók, *Music for Strings, Percussion, and Celesta***
+**ברטוק, מוזיקה לכלי קשת, כלי הקשה וצ׳לסטה**
 
-[![]({{ site.url }}/Graphics/postTonal/upper.png)]({{ site.url }}/Graphics/postTonal/upper1.png)
+[![מחוות משתקפות בכינורות השלישי והרביעי ביצירה של ברטוק]({{ site.url }}/Graphics/postTonal/upper.png)]({{ site.url }}/Graphics/postTonal/upper.png)
 
-[![]({{ site.url }}/Graphics/postTonal/upperSymmetry.png)]({{ site.url }}/Graphics/postTonal/upperSymmetry.png)
+[![תרשים סימטריה של גבהי הצליל בכינורות]({{ site.url }}/Graphics/postTonal/upperSymmetry.png)]({{ site.url }}/Graphics/postTonal/upperSymmetry.png)
 
-Pitch symmetry always implies an *axis of symmetry*. Maintaining our mirror metaphor, this is the place in pitch space where the mirror exists. In the case of the example above, the mirror is located at B4. Below, you’ll see the same gesture in the lower strings. The pitch-space line shows that it has a different *axis of symmetry* — around E2.
+סימטריה של גבהי צליל מניחה תמיד *ציר סימטריה* (axis of symmetry). במטפורת המראה, זה המקום במרחב גובה הצליל שבו נמצאת המראה. בדוגמה לעיל היא נמצאת ב־B4. להלן אותה מחווה בכלי הקשת הנמוכים. ישר מרחב גובה הצליל מראה שיש לה ציר סימטריה אחר, סביב E2.
 
+[![המחווה בכלי הקשת הנמוכים]({{ site.url }}/Graphics/postTonal/lower.png)]({{ site.url }}/Graphics/postTonal/lower.png)
 
-[![]({{ site.url }}/Graphics/postTonal/lower.png)]({{ site.url }}/Graphics/postTonal/upper1.png)
+[![תרשים ציר הסימטריה סביב E2 בכלי הקשת הנמוכים]({{ site.url }}/Graphics/postTonal/lowerSymmetry.png)]({{ site.url }}/Graphics/postTonal/lowerSymmetry.png)
 
-[![]({{ site.url }}/Graphics/postTonal/lowerSymmetry.png)]({{ site.url }}/Graphics/postTonal/upperSymmetry.png)
+## סימטריה של מחלקות גובה צליל {#pitch-class-symmetry}
 
-## Pitch-Class Symmetry
+סימטריה של מחלקות גובה צליל דומה מאוד לסימטריה של גבהי צליל, אך מובנת ב[מרחב מחלקות גובה הצליל](pitch(Class).html). להלן קטע נוסף מאותה יצירה של ברטוק. כמו לעיל, המחווה העולה בכלי הקשת הנמוכים משקפת את המחווה היורדת בכלי הקשת הגבוהים.
 
-Pitch-class symmetry is very similar to pitch symmetry, but understood in [pitch-class space](pitch(Class)). Below you’ll see another passage from the same piece by Bartók. As above the lower strings have an ascending gesture that mirrors the descending gesture in the upper strings.
+[![קטע נוסף של ברטוק המדגים סימטריה של מחלקות גובה צליל]({{ site.url }}/Graphics/postTonal/bartok.png)]({{ site.url }}/Graphics/postTonal/bartok.png)
 
-[![]({{ site.url }}/Graphics/postTonal/bartok.png)]({{ site.url }}/Graphics/postTonal/bartok.png)
+מיפוי הקטע על מעגל מחלקות גובה הצליל מראה את הסימטריה שלו. התבוננו היטב בתרשים המעגלי: הקטע סימטרי מבחינת מחלקות גובה צליל סביב *2 וגם סביב 8*. בניגוד למרחב גובה הצליל, הצירים במרחב מחלקות גובה הצליל נמצאים תמיד בשתי נקודות שונות על המעגל.
 
-Mapping this on the pitch-class circle shows the passage’s pitch-class symmetry. Look at this circular diagram very carefully. You’ll notice that the passage is pitch-class symmetrical around *both 2 and 8*. Unlike pitch space, pitch-class axes are always located at *two different points* in the pitch-class circle.
-
-[![]({{ site.url }}/Graphics/postTonal/pitchClassAxes.png)]({{ site.url }}/Graphics/postTonal/pitchClassAxes.png)
+[![ציר סימטריה העובר דרך מחלקות גובה הצליל 2 ו־8]({{ site.url }}/Graphics/postTonal/pitchClassAxes.png)]({{ site.url }}/Graphics/postTonal/pitchClassAxes.png)

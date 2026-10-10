@@ -1,51 +1,54 @@
 ---
 layout: post
-title: Analyzing poetry
+title: "ניתוח שירה"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-*This resource created by Jonathan Sircy, Department of English, Charleston Southern University.*
+*חומר עזר זה נכתב בידי Jonathan Sircy, המחלקה לאנגלית, Charleston Southern University.*
 
-## What is poetry?
+## מהי שירה? {#what-is-poetry}
 
-We can distinguish *poetry* from *prose* by its
+אפשר להבחין בין *שירה* (poetry) ל*פרוזה* (prose) באמצעות:
 
-- preference for formal organization,  
-- intensely conveyed emotions and images,  
-- and concentrated use of language.
- 
-Poetry favors the concrete and particular over the vague and abstract. Poetic language isn’t disconnected from normal communication. Rather, it conveys ideas and emotions with greater precision than everyday language.
+- העדפת ארגון צורני;
+- העברת רגשות ודימויים בעוצמה;
+- שימוש מרוכז בלשון.
 
-## How can we analyze poetry?
+השירה מעדיפה את המוחשי והמסוים על המעורפל והמופשט. הלשון הפיוטית אינה מנותקת מתקשורת רגילה, אלא מעבירה רעיונות ורגשות בדיוק רב יותר מלשון היומיום.
 
-There are several ways to skin the poetic cat. What follows are four large categories with accompanying questions that can help us systematically interpret a poem. Not only are these categories not mutually exclusive, they are often complementary.
+## כיצד אפשר לנתח שירה? {#how-can-we-analyze-poetry}
 
-### STRUCTURE
+יש כמה דרכים לנתח שיר. להלן ארבע קטגוריות רחבות ושאלות המסייעות לפרש שיר באופן שיטתי. הקטגוריות אינן מוציאות זו את זו, ולעיתים קרובות הן משלימות זו את זו.
 
-If we pay attention to a particular poem’s meter, tone, imagery, and figurative language, we are able to talk about a poem’s *unity*. This attention to structure starts from the premise that each of the poem’s parts work together organically (rather than, say, mechanically) to achieve a unified goal. If we were to put that goal into a single sentence, we would have the poem’s *theme*, a succinct statement of the poem’s central idea and emotions.
+### מבנה {#structure}
 
-**Chief question: What idea or emotion UNIFIES the poem’s different parts?**
+תשומת לב למשקל, לטון, לדימויים וללשון הציורית של שיר מאפשרת לדבר על *אחדותו*. העיון במבנה מתחיל בהנחה שכל חלקי השיר פועלים יחד באופן אורגני, ולא למשל מכני, להשגת מטרה מאוחדת. ניסוח מטרה זו במשפט אחד יהיה *הנושא* (theme) של השיר: אמירה תמציתית של הרעיון המרכזי ורגשותיו.
 
-**Key terms: meter, tone, imagery, figurative language**
+**שאלה מרכזית: איזה רעיון או רגש מאחד את חלקי השיר השונים?**
 
-*Meter*: the pattern of accented and unaccented syllables in a given poetic line  
-*Tone*: the speaker’s attitude toward his subject, audience, or himself  
-*Imagery*: the poetic representation of any sense experience  
-*Figurative language*: the non-literal use of language to achieve an effect
+**מונחים מרכזיים: משקל, טון, דימויים, לשון ציורית.**
 
-### HISTORICAL CONTEXT
+*משקל* (meter): דפוס ההברות המוטעמות והלא מוטעמות בשורה.<br>
+*טון* (tone): יחס הדובר לנושא, לקהל או לעצמו.<br>
+*דימויים* (imagery): ייצוג פיוטי של כל חוויה חושית.<br>
+*לשון ציורית* (figurative language): שימוש לא מילולי בלשון להשגת אפקט.
 
-When we pay attention to a poem’s structure, we pretend that it is an artifact that can be separated from the outside world. But every literary work had an author and an audience, and both are deeply influenced by a particular place and time. This not only affects the way we read poetic allusions but the way we interpret particular words.
+### הקשר היסטורי {#historical-context}
 
-**Chief Question: How do the poem’s words reflect the cultural context of the author and/or poet?**
+בעיון במבנה אנו מתייחסים לשיר כאילו הוא עצם שאפשר להפריד מן העולם החיצוני. אולם לכל יצירה ספרותית היו מחבר וקהל, ושניהם מושפעים עמוקות ממקום וזמן מסוימים. הדבר משפיע לא רק על קריאת רמיזות ספרותיות, אלא גם על פירוש מילים מסוימות.
 
-### INTERTEXTUALITY
+**שאלה מרכזית: כיצד מילות השיר משקפות את ההקשר התרבותי של המחבר ו/או המשורר?**
 
-Poems aren’t just in conversation with history. They’re in conversation with other poems. This means that a literary work—in its form and/or content—resembles other literary works. When we focus on formal similarities, we’re concerned with genres, the different types or subcategories a poet has chosen (e.g. epic, lyric, satire). When we focus on similar content, we are either discussing *allusions*—intended references to another literary image—or *archetypes*, images or characters that appear so frequently they are less the domain of one author than part of a common literary heritage.
+### בין־טקסטואליות {#intertextuality}
 
-**Chief question: How is this literary work like/unlike other literary works?**
+שירים אינם משוחחים רק עם ההיסטוריה, אלא גם עם שירים אחרים. כלומר, יצירה ספרותית דומה לאחרות בצורה ו/או בתוכן. בעיון בדמיון צורני אנו עוסקים בסוגות, כלומר בסוגים או בתתי־סוגים שבחר המשורר, כגון אפוס, שירה לירית וסאטירה. בעיון בדמיון תוכני אנו דנים ב*רמיזות* (allusions), הפניות מכוונות לדימוי ספרותי אחר, או ב*ארכיטיפים* (archetypes), דימויים או דמויות החוזרים בתדירות כזו שהם חלק ממורשת ספרותית משותפת יותר משהם נחלת מחבר יחיד.
 
-### ETHICS
+**שאלה מרכזית: במה יצירה ספרותית זו דומה ליצירות אחרות ובמה היא שונה מהן?**
 
-Every poem interprets life and thus, explicitly or implicitly, provides us with a view of the world. Defenders of poetry have long maintained that poetry is uniquely able to delight AND instruct; in fact, it often instructs BY delighting. That means every literary work presents actions/beliefs for us to applaud or denounce. This is often the most difficult thing to interpret about a particular work of art, and we must keep in mind that a work may present objectionable actions or beliefs in order to criticize them.
+### אתיקה {#ethics}
 
-**Chief question: What actions or beliefs does the poem support?**
+כל שיר מפרש את החיים, ולכן מספק במפורש או במשתמע השקפת עולם. מגיני השירה טענו במשך זמן רב שהיא מסוגלת באופן ייחודי גם להענג וגם ללמד; למעשה, לעיתים קרובות היא מלמדת באמצעות ההנאה. לכן כל יצירה ספרותית מציגה מעשים ואמונות שעלינו לשבח או לגנות. זה לעיתים החלק הקשה ביותר בפרשנות של יצירת אמנות מסוימת, ועלינו לזכור שיצירה יכולה להציג מעשים או אמונות מעוררי התנגדות כדי לבקרם.
+
+**שאלה מרכזית: באילו מעשים או אמונות השיר תומך?**

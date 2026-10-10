@@ -1,108 +1,107 @@
 ---
 layout: post
-title: Form in pop/rock music – Terminology and basic concepts
+title: "צורה בפופ וברוק — מונחים ומושגי יסוד"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
+זהו מילון המונחים והמושגים שישמשו לניתוח פופ ורוק. המונחים, המושגים, ההגדרות וכללי הסימון מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת Jason Summach, ‏John Covach, ‏Walter Everett, ‏Mark Spicer או Daniel Harrison; או על שילוב ביניהם.
 
-This document is a glossary of terms and concepts that we will use in our analysis of pop/rock music. Terms, concepts, definitions, and notational guidelines in this document are taken either from common convention; the published or unpublished work of Jason Summach, John Covach, Walter Everett, Mark Spicer, or Daniel Harrison; or some combination thereof.
+## מונחים בשירה {#poetic-terminology}
 
-## Poetic terminology
+### רגל {#foot}
 
-### Foot
+צירוף של שתיים או שלוש הברות, בדרך כלל הברה מוטעמת אחת והברה אחת או שתיים לא מוטעמות. רגליים נפוצות הן *יאמב* (iamb: לא מוטעמת–מוטעמת), *טרוכאי* (trochee: מוטעמת–לא מוטעמת), *ספונדי* (spondee: שתי מוטעמות ברצף), *אנפסט* (anapest: לא מוטעמת–לא מוטעמת–מוטעמת) ו*דקטיל* (dactyl: מוטעמת–לא מוטעמת–לא מוטעמת).
 
-A combination of two or three syllables: typically one stressed syllable, and one or two unstressed syllables. Common poetic feet include the *iamb* (unstressed – stressed), the *trochee* (stressed – unstressed), the *spondee* (two stressed syllables in a row), the *anapest* (stressed – stressed – unstressed), and the *dactyl* (stressed – unstressed – unstressed.)
+> הערת תרגום: המקור מגדיר כאן בטעות את האנפסט כמוטעמת–מוטעמת–לא מוטעמת, ההגדרה תוקנה במפורש על סמך [מדריך הפרוזודיה של אוניברסיטת Harvard](https://poetry.harvard.edu/guide-prosody) ו[מילון Academy of American Poets](https://poets.org/glossary/anapest), המגדירים שתי הברות לא מוטעמות ואחריהן מוטעמת. אין שינוי בדקטיל.
 
-### Line
+### שורה {#line}
 
-A group of poetic feet functioning as a single unit. Each poetic line is given its own line as printed/written text. If the line is part of rhyming poetry, the last syllable/foot participates in a rhyme with another line. (Internal rhyme is also possible.)
+קבוצת רגליים הפועלת כיחידה אחת. כל שורה פיוטית מקבלת שורה משלה בטקסט המודפס או הכתוב. בשירה מחורזת ההברה או הרגל האחרונה משתתפת בחריזה עם שורה אחרת. תיתכן גם חריזה פנימית.
 
-### Couplet
+### צמד שורות {#couplet}
 
-A pair of lines. If poetry is rhyming, the two lines making up a couplet typically rhyme with each other. They may also participate in a larger rhyme scheme (see quatrain below).
+זוג שורות. בשירה מחורזת שתי השורות בדרך כלל חורזות זו עם זו. הן עשויות להשתתף גם בדגם חריזה רחב יותר; ראו רביעיית שורות להלן.
 
-### Quatrain
+### רביעיית שורות {#quatrain}
 
-A pair of couplets (i.e., four lines). Common quatrain rhyme schemes are *aabb*, *abab*, *abcb*.
+שני צמדי שורות, כלומר ארבע שורות. דגמי חריזה נפוצים הם *aabb*, ‏*abab* ו־*abcb*.
 
-### Stanza
+### בית שירי {#stanza}
 
-A set of poetic lines that work together as a single narrative unit. Typically one or more quatrains (i.e., total number of lines are a multiple of four).
+קבוצת שורות הפועלת כיחידה סיפורית אחת. בדרך כלל היא כוללת רביעיית שורות אחת או יותר, כלומר מספר השורות הכולל הוא כפולה של ארבע. כאן ״בית שירי״ מציין stanza של הטקסט, להבדיל ממודול verse מוזיקלי.
 
-### Example
+### דוגמה {#example}
 
-Following is a stanza from U2, "Pride (In the Name of Love)." This stanza is a quatrain composed of four lines. The first and third lines have four feet (that is, four stressed syllables) with irregular rhythm. The second and fourth lines have three feet with irregular rhythm, and they rhyme with each other.
+המקור מביא בית מתוך ״Pride (In the Name of Love)״ של U2. הבית הוא רביעיית שורות. בשורה הראשונה ובשלישית ארבע רגליים — ארבע הברות מוטעמות — במקצב לא סדיר; בשנייה וברביעית שלוש רגליים במקצב לא סדיר, והן חורזות זו עם זו. תחילת הבית:
 
-> One man come in the name of love.  
-One man come and go.  
-One man come, he to justify.  
-One man to overthrow.
+> One man come in the name of love.
 
-### Other structures
+*במהדורה העברית מובא רק קטע קצר ממילות השיר. לניתוח ארבע השורות יש להיעזר בטקסט השיר או בהקלטה; יתר המילים אינן משוחזרות כאן.*
 
-For more poetic structures and terms, see Vanier College's resource, [Poetry's Structure and Form](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf).
+### מבנים נוספים {#other-structures}
 
+למבנים ולמונחים נוספים בשירה, ראו את משאב Vanier College, ‏[Poetry’s Structure and Form](http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf).
 
-## Descriptors & rhetorical devices
+## מאפיינים ואמצעים רטוריים {#descriptors-rhetorical-devices}
 
-### Lyric-variant
+### מילים משתנות {#lyric-variant}
 
-A module or phrase is lyric-variant if each time it appears it brings (mostly) different lyrics.
+מודול או פסוקית הם בעלי מילים משתנות (lyric-variant) כאשר בכל הופעה הם מציגים בעיקר מילים אחרות.
 
-## Lyric-invariant
+## מילים קבועות {#lyric-invariant}
 
-A module or phrase is lyric-invariant if each time it appears it brings (mostly) the same lyrics. Lyric invariance tends to come at points of formal closure (tail refrains at the ends of strophes, choruses at the end of a verse-chorus song’s formal cycle).
+מודול או פסוקית הם בעלי מילים קבועות (lyric-invariant) כאשר בכל הופעה הם מציגים בעיקר אותן מילים. קביעות המילים נוטה להופיע בנקודות סגירה צורנית: שורות חוזרות בסופי סטרופות ופזמונים בסוף המחזור הצורני של שיר בית–פזמון.
 
-### Music-variant
+### מוזיקה משתנה {#music-variant}
 
-A module or phrase is music-variant if each time it appears it brings (mostly) different music.
+מודול או פסוקית הם בעלי מוזיקה משתנה (music-variant) כאשר בכל הופעה הם מציגים בעיקר מוזיקה אחרת.
 
-### Music-invariant
+### מוזיקה קבועה {#music-invariant}
 
-A module or phrase is music-invariant if each time it appears it brings (mostly) the same music.
+מודול או פסוקית הם בעלי מוזיקה קבועה (music-invariant) כאשר בכל הופעה הם מציגים בעיקר אותה מוזיקה.
 
-### Chorusification
+### הצטמצמות אל הפזמון {#chorusification}
 
-Jay Summach uses the term “chorusification” (p. 321) to describe a process where modules are stripped away from the formal cycle until only the chorus module (C) remains. For example, a song that begins with the cycle {VPC} may appear near the end of the song without the verse {PC} and then again without the prechorus {C}. This process is part of a goal-directed progression toward the end of the song, giving special emphasis to the chorus.
+Jay Summach משתמש במונח ״chorusification״ (עמ׳ 321) לתיאור תהליך שבו מודולים מושמטים מן המחזור הצורני עד שנותר רק הפזמון (C). למשל, שיר המתחיל במחזור {VPC} יכול להופיע לקראת סופו ללא הבית, {PC}, ובהמשך ללא קדם־הפזמון, {C}. זהו חלק מתהליך מכוון אל סיום השיר, המעניק לפזמון הדגשה מיוחדת.
 
-Bon Jovi's "Livin' on a Prayer" is a good example of chorusification. The first two cycles are similar in length and content, but the third cycle (beginning at 2:58) replaces the verse with an instrumental chorus, giving the third cycle two choruses. After this cycle closes, the chorus repeats forming a chorus-based outro.
+״Livin’ on a Prayer״ של Bon Jovi מדגים זאת היטב. שני המחזורים הראשונים דומים באורכם ובתוכנם. השלישי, המתחיל ב־2:58, מחליף את הבית בפזמון כלי, כך שבמחזור השלישי שני פזמונים. לאחר סגירתו הפזמון חוזר ויוצר קטע סיום המבוסס עליו.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — מונחים ומושגי יסוד" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)  
-Spotify URI: [spotify:track:0J6mQxEZnlRt9ymzFntA6z](spotify:track:0J6mQxEZnlRt9ymzFntA6z)  
+קישור HTML: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)  
+מזהה Spotify URI: [spotify:track:0J6mQxEZnlRt9ymzFntA6z](spotify:track:0J6mQxEZnlRt9ymzFntA6z)
 
+## היבטים הרמוניים של הצורה {#harmonic-aspects-of-form}
 
-## Harmonic aspects of form
+### פתיחה בטוניקה {#on-tonic}
 
-### On-tonic
+פסוקית או מודול הם on-tonic כאשר הם מתחילים בהרמוניית טוניקה — I במצב יסודי.
 
-A phrase or module is on-tonic when it begins with tonic harmony (I in root position).
+### פתיחה מחוץ לטוניקה {#off-tonic}
 
-### Off-tonic
+פסוקית או מודול הם off-tonic כאשר הם מתחילים בהרמוניה שאינה טוניקה.
 
-A phrase or module is off-tonic when it begins on a harmony other than tonic.
+### סגירות הרמונית {#harmonically-closed}
 
-### Harmonically closed
+פסוקית או מודול סגורים הרמונית כאשר הם מסתיימים בהרמוניית טוניקה — I במצב יסודי.
 
-A phrase or module is harmonically closed when it ends with tonic harmony (I in root position).
+### פתיחות הרמונית {#harmonically-open}
 
-### Harmonically open
+פסוקית או מודול פתוחים הרמונית כאשר הם מסתיימים בהרמוניה שאינה טוניקה.
 
-A phrase or module is harmonically open when it ends on a harmony other than tonic.
+### טרנאראונד {#turnaround}
 
-### Turnaround
+שימוש באקורד שאינו טוניקה, בדרך כלל דומיננטה, בסוף יחידה סגורה הרמונית, לצורך מעבר לפתיחת היחידה הבאה המתחילה בטוניקה. זהו turnaround, מהלך המוביל לחזרה.
 
-The use of a non-tonic chord (usually dominant) at the end of a harmonically closed unit to transition into the beginning of the following on-tonic unit.
+״Wooly Bully״ של Sam the Sham and the Pharoahs כולל turnaround בסוף רבות מהסטרופות שלו. אחד מופיע ב־0:54: אקורד V<sup>7</sup> פשוט המכין את חזרת I בפתיחת הסטרופה הבאה.
 
-The song "Wooly Bully" by Sam the Sham and the Pharoahs contains a turnaround at the end of many of its strophes. One of these occur at 0:54 ― a simple V<sup>7</sup> chord to prepare the return of I as the next strophe begins. 
+<iframe title="דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — מונחים ומושגי יסוד" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+קישור HTML: [https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z](https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z)  
+מזהה Spotify URI: [spotify:track:2XkuSbp5say8nZW8g6156Z](spotify:track:2XkuSbp5say8nZW8g6156Z)
 
-HTML link: [https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z](https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z)  
-Spotify URI: [spotify:track:2XkuSbp5say8nZW8g6156Z](spotify:track:2XkuSbp5say8nZW8g6156Z)  
+*מעניין שבשיר זה הגיטריסט אינו זוכר תמיד את ה־turnaround. ב־0:28 הבס וסקסופון הבריטון מנגנים את הדומיננטה, אך הגיטריסט נשאר בטוניקה. ב־1:18 הזמר קורא קריאות אזהרה, כאילו מזכיר לגיטריסט לא להחמיץ את המעבר בתיבה הבאה. הוא עושה זאת שוב ב־2:08. כאשר הגיטריסט מבצע את המעבר עם יתר הלהקה, הזמר קורא קריאות שבח, כאילו מברך אותו. פרשנות זו מובאת מדברי מחברי המקור.*
 
-*Interestingly in this song, the guitarist doesn't always remember the turnarounds. Notice that at 0:28 the bass and baritone saxophone play the dominant, but the guitarist keeps tonic. At 1:18, the singer yells, "Watch it now! Watch it! Watch it!" as if warning the guitarist not to miss the turnaround in the next bar. He does the same in 2:08. When the guitarist gets the turnaround with the rest of the band, the singer yells, "You got it! You got it!" as if congratulating the guitarist.*
-
-
-[*Back to pop/rock form overview.*](popRockForm.html)
-
+[*חזרה לסקירת הצורה בפופ וברוק.*](popRockForm.html)

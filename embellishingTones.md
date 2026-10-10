@@ -1,69 +1,72 @@
 ---
 layout: post
-title: Embellishing tones
+title: "צלילי קישוט"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-## Passing Tone (PT)
+## צליל עובר (PT) {#passing-tone-pt}
 
-![][passing]
+![דוגמת צליל עובר][passing]
 
-A passing tone is a melodic embellishment (typically a non-chord tone) that occurs between two stable tones (typically chord tones), creating stepwise motion. The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but two adjacent passing tones can also be used to fill in the space between two chord tones a fourth apart. A passing tone can be either accented (occurring on a strong beat or strong part of the beat) or unaccented (weak beat or weak part of the beat).
+*צליל עובר* (passing tone) הוא קישוט מלודי, בדרך כלל צליל שאינו באקורד, המופיע בין שני צלילים יציבים, בדרך כלל צלילי אקורד, ויוצר תנועה בצעדים. הדגם הטיפוסי הוא צליל אקורד–צליל עובר–צליל אקורד, הממלא טרצה, כפי שמוצג בדוגמה. אפשר גם להשתמש בשני צלילים עוברים סמוכים למילוי המרווח בין שני צלילי אקורד במרחק קוורטה. צליל עובר יכול להיות מוטעם — בפעמה חזקה או בחלק חזק שלה — או לא מוטעם, בפעמה חלשה או בחלק חלש שלה.
 
-## Complete Neighbor Tone (NT)
+## צליל שכן שלם (NT) {#complete-neighbor-tone-nt}
 
-![][neighbor]
+![דוגמת צליל שכן שלם][neighbor]
 
-Like the passing tone, a complete neighbor tone is a melodic embellishment that occurs between two stable tones (typically chord tones); however, a complete neighbor tone will occur between two instances of the same stable tone. Also like the passing tone, movement from the stable tone to the neighbor tone and back will always be by step. A complete neighbor can be either accented or unaccented, but unaccented is more common. 
+כמו צליל עובר, *צליל שכן שלם* (complete neighbor tone) הוא קישוט מלודי בין שני צלילים יציבים, בדרך כלל צלילי אקורד; אך הוא מופיע בין שתי הופעות של אותו צליל יציב. גם כאן התנועה מן הצליל היציב לשכן ובחזרה היא תמיד בצעד. הוא יכול להיות מוטעם או לא מוטעם, אך הלא מוטעם שכיח יותר.
 
-## Double Neighbor Figure (DN)
+## דגם שכן כפול (DN) {#double-neighbor-figure-dn}
 
-![]({{ site.url }}/Graphics/embellishingTones/doubleNeighbor.png)
+![דוגמת דגם שכן כפול]({{ site.url }}/Graphics/embellishingTones/doubleNeighbor.png)
 
-Like the complete neighbor figure, the double neighbor figure begins and ends on the *same* stable tone (typically a chord tone). Between those two instances of the stable tone are two embellishing tones — one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbors (below), working together in the double-neighbor figure they balance each other out and create a contiguous whole, with the overall stability of a complete neighbor. A double neighbor figure is typically unaccented.
+כמו דגם שכן שלם, *דגם שכן כפול* (double neighbor figure) מתחיל ומסתיים באותו צליל יציב, בדרך כלל צליל אקורד. בין שתי הופעותיו יש שני צלילי קישוט: אחד צעד מעליו ואחד צעד מתחתיו. אף שכל אחד מהם בנפרד יכול להיחשב שכן בלתי שלם, כמוסבר להלן, יחד הם מאזנים זה את זה ויוצרים מכלול רציף בעל יציבות כללית של שכן שלם. דגם שכן כפול בדרך כלל אינו מוטעם.
 
-## Incomplete Neighbor Tone (INT)
+## צליל שכן בלתי שלם (INT) {#incomplete-neighbor-tone-int}
 
-![][INT]
+![דוגמת צליל שכן בלתי שלם][INT]
 
-The incomplete neighbor tone is an unaccented embellishing tone that is approached by leap and proceeds by step to an accented stable tone (typically a chord tone). Broadly speaking an incomplete neighbor tone is any embellishing tone a step away from a stable tone that proceeds or follows it (and is connected on the other side by leap), but other kinds of incomplete neighbor tones have special names and roles that follow below.
+*צליל שכן בלתי שלם* (incomplete neighbor tone) הוא צליל קישוט לא מוטעם, שאליו מגיעים בקפיצה וממנו ממשיכים בצעד לצליל יציב מוטעם, בדרך כלל צליל אקורד. באופן רחב, זה כל צליל קישוט במרחק צעד מצליל יציב הבא לפניו או אחריו, המחובר בצדו השני בקפיצה. אולם לסוגים אחרים של שכן בלתי שלם יש שמות ותפקידים מיוחדים, שיופיעו בהמשך.
 
-## Appoggiatura (APP)
+## אפוג׳טורה (APP) {#appoggiatura-app}
 
-![][appoggiatura]
+![דוגמת אפוג׳טורה][appoggiatura]
 
-An appoggiatura is a kind of incomplete neighbor tone that is accented, approached by leap (usually up), and followed by step (usually down, but always in the opposite direction of the preceding leap) to a more stable tone (typically a chord tone).
+*אפוג׳טורה* (appoggiatura) היא שכן בלתי שלם מוטעם, שאליו מגיעים בקפיצה, בדרך כלל כלפי מעלה, וממנו ממשיכים בצעד לצליל יציב יותר, בדרך כלל צליל אקורד. הצעד בדרך כלל יורד, ותמיד בכיוון ההפוך לקפיצה הקודמת.
 
-## Escape Tone (ESC)
+## צליל חומק (ESC) {#escape-tone-esc}
 
-![][escape]
+![דוגמת צליל חומק][escape]
 
-An escape tone, or *echappée*, is a kind of incomplete neighbor tone that is unaccented, preceded by step (usually up) from a chord tone, and followed by leap (usually down, but always in the opposite direction of the preceding step).
+*צליל חומק* (escape tone), או *échappée*, הוא שכן בלתי שלם לא מוטעם, שאליו מגיעים בצעד מצליל אקורד, בדרך כלל כלפי מעלה, וממנו יוצאים בקפיצה, בדרך כלל כלפי מטה אך תמיד בכיוון ההפוך לצעד הקודם.
 
-## Anticipation (ANT)
+## הקדמה (ANT) {#anticipation-ant}
 
-![][anticipation]
+![דוגמת הקדמת צליל מן האקורד הבא][anticipation]
 
-An anticipation is essentially an otherwise stable tone that comes too early. An anticipation is typically a non-chord tone that will occur immediately before a change of harmony, and it will be followed on that change of harmony by the same note, now a chord tone of the new harmony. It is typically found at the ends of phrases and larger formal units.
+*הקדמה* (anticipation) היא למעשה צליל שהיה יציב אילו לא הגיע מוקדם מדי. בדרך כלל הוא אינו צליל אקורד כשהוא מופיע מיד לפני שינוי הרמוני; עם השינוי בא אחריו אותו צליל, כעת כצליל באקורד החדש. הקדמות מופיעות בדרך כלל בסופי פראזות ויחידות צורניות גדולות יותר.
 
-## Syncopation (SYN)
+## סינקופה (SYN) {#syncopation-syn}
 
-![]({{ site.url }}/Graphics/embellishingTones/syncopatedNote.png)
+![דוגמת צליל מסונקף]({{ site.url }}/Graphics/embellishingTones/syncopatedNote.png)
 
-[Syncopation](http://openmusictheory.com/syncopation.html) occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Like the anticipation, the syncopated note is an early arrival — it tends to belong to the chord on the following beat. Unlike the anticipation, the syncopation is tied into a note in that chord; it is not rearticulated. Rather than anticipating a note in the chord that follows, a syncopation is simply an early arrival.
+[סינקופה](syncopation.html) (syncopation) מתרחשת כאשר דפוס קצבי המופיע בדרך כלל בפעמות חזקות או בחלקיהן החזקים מופיע במקום זאת בפעמות חלשות או בחלקיהן החלשים. כמו בהקדמה, הצליל המסונקף מגיע מוקדם ונוטה להשתייך לאקורד שבפעמה הבאה. בניגוד להקדמה, הוא מחובר בקשת הארכה לצליל באקורד הבא ואינו מנוגן מחדש. במקום להקדים צליל שיישמע שוב באקורד הבא, הוא פשוט מגיע מוקדם.
 
-## Suspension (SUS)
+## השהיה (SUS) {#suspension-sus}
 
-![][suspension]
+![דוגמת השהיה עם הכנה ופתרון][suspension]
 
-A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and occurs simultaneous with a change of harmony. The suspension then proceeds down by step to the resolution, which occurs over the same harmony as the suspension. The suspension is in many respects the opposite of the syncopation: if the anticipation is an early arrival of a tone belonging to the following chord, a suspension is a lingering of a chord tone belonging to the previous chord that forces the late arrival of the new chord’s chord tone. However, in composition and improvisation, the suspension must be treated with a great deal more care than the syncopation. The most common suspensions (and their resolutions) in upper voices form the following intervallic patterns against the bass: 9–8, 7–6, 4–3. (With the exception of 9–8, the pitch class of the resolution tone should never sound in another voice simultaneous with the suspended tone.) Instead of *SUS*, it is more typical to notate the intervallic pattern in the thoroughbass figures.
+*השהיה* (suspension) מורכבת משלושה חלקים חיוניים: *הכנה*, מוטעמת או לא מוטעמת; *ההשהיה עצמה*, מוטעמת; ו*פתרון*, לא מוטעם. ההכנה היא צליל אקורד קונסוננטי. ההשהיה היא אותו צליל, ומופיעה יחד עם שינוי הרמוני. לאחר מכן היא יורדת בצעד לפתרון, מעל אותה הרמוניה שבה נשמעה ההשהיה. מבחינות רבות היא ההפך מסינקופה: אם הקדמה היא הגעה מוקדמת של צליל מהאקורד הבא, השהיה היא התעכבות של צליל מהאקורד הקודם, הדוחה את הגעת צליל האקורד החדש. אולם בהלחנה ובאלתור יש לטפל בהשהיה בזהירות רבה יותר מאשר בסינקופה. ההשהיות השכיחות ביותר בקולות העליונים, עם פתרונותיהן, יוצרות מול הבס את הדגמים <bdi dir="ltr">9–8, 7–6, 4–3</bdi>. למעט 9–8, מחלקת גובה הצליל של הפתרון לעולם לא תישמע בקול אחר בו־זמנית עם הצליל המושהה. במקום SUS מקובל יותר לסמן את דגם המרווחים בספרות הבס הממוספר.
 
-## Retardation (RET)
+## השהיה הנפתרת בעלייה (RET) {#retardation-ret}
 
-![][retardation]
+![דוגמת השהיה הנפתרת בעלייה][retardation]
 
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the example). Instead of *RET*, it is preferable to notate the intervallic pattern in the thoroughbass figures.
+*השהיה הנפתרת בעלייה* (retardation) היא למעשה השהיה שפתרונה עולה. כמעט תמיד היא שמורה לאקורד האחרון בחטיבה צורנית גדולה או בפרק, ולעיתים קרובות מופיעה יחד עם השהיה רגילה, כבדוגמה. במקום RET עדיף לסמן את דגם המרווחים בספרות הבס הממוספר.
 
-[passing]: {{ site.url }}/Graphics/embellishingTones/passingTone.png 
+[passing]: {{ site.url }}/Graphics/embellishingTones/passingTone.png
 [neighbor]: {{ site.url }}/Graphics/embellishingTones/neighborTone.png
 [INT]: {{ site.url }}/Graphics/embellishingTones/INT.png
 [appoggiatura]: {{ site.url }}/Graphics/embellishingTones/appoggiatura.png

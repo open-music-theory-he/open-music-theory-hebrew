@@ -1,16 +1,19 @@
 ---
 layout: post
-title: Complements
+title: קבוצות משלימות
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-The *literal complement* of a pitch-class set is every pitch not included in that set. For example, the complement of the seven-note C major scale is the five-note pentatonic scale: F-sharp, G-sharp, A-sharp, C-sharp, and D-sharp.
+*המשלים הממשי* (literal complement) של קבוצת מחלקות גובה צליל מכיל כל צליל שאינו כלול בקבוצה. למשל, המשלים של סולם C מז׳ור בן שבעת הצלילים הוא סולם פנטטוני בן חמישה צלילים: F♯, G♯, A♯, C♯ ו־D♯.
 
-The complement of any *n-chord* is always a *12-n*  chord. Thus, a trichord's compliment will be a nonachord, a tetrachords an octachord, and so on.
+המשלים של כל קבוצה בת *n* צלילים (n-chord) הוא תמיד קבוצה בת <bdi dir="ltr">12-n</bdi> צלילים. לפיכך המשלים של קבוצה בת שלושה צלילים (trichord) הוא קבוצה בת תשעה (nonachord), של קבוצה בת ארבעה (tetrachord) — קבוצה בת שמונה (octachord), וכן הלאה.
 
-Below you'll see the trichord [0,1,2]. Its *literal complement* is all of the notes not a part of it: [3,4,5,6,7,8,9,T,E]. When we put both of those pitch-class sets in prime form, the two are said to be *abstract complement*:
+להלן הקבוצה בת שלושה צלילים <bdi dir="ltr">[0,1,2]</bdi>. המשלים הממשי שלה הוא כל הצלילים שאינם בה: <bdi dir="ltr">[3,4,5,6,7,8,9,T,E]</bdi>. כאשר מציגים את שתי הקבוצות בצורה ראשונית, הן מכונות *משלימים מופשטים* (abstract complements):
 
-[![]({{ site.url }}/Graphics/postTonal/complements.png)]({{ site.url }}/Graphics/postTonal/complements.png)
+[![קבוצת שלושה צלילים והמשלים שלה, בממשות ובצורה ראשונית]({{ site.url }}/Graphics/postTonal/complements.png)]({{ site.url }}/Graphics/postTonal/complements.png)
 
-On the set-class list, _abstract complements _are listed next to one another, and they have a very interesting intervallic relationship, as you can see by comparing their IC vectors. Complementary set classes have a similar "distribution" of intervals. Below, you'll see that the set (012345678) has exactly 6 more of each type of interval class than does its complement (012). That is, except for the tritone. It has only 3 more.
+ברשימת מחלקות הקבוצה המשלימים המופשטים מופיעים זה לצד זה. ביניהם יחס מרווחי מעניין מאוד, הניכר בהשוואת וקטורי מחלקות המרווח שלהם. במחלקות קבוצה משלימות יש ״התפלגות״ דומה של מרווחים. להלן תראו שבקבוצה <bdi dir="ltr">(012345678)</bdi> יש בדיוק שישה מרווחים נוספים מכל מחלקת מרווח לעומת המשלים שלה, <bdi dir="ltr">(012)</bdi>, פרט לטריטון: ממנו יש רק שלושה נוספים.
 
-[![]({{ site.url }}/Graphics/postTonal/complementAndItsVector.png)]({{ site.url }}/Graphics/postTonal/complementAndItsVector.png)
+[![וקטורי מחלקות המרווח של קבוצות משלימות וההפרשים ביניהם]({{ site.url }}/Graphics/postTonal/complementAndItsVector.png)]({{ site.url }}/Graphics/postTonal/complementAndItsVector.png)

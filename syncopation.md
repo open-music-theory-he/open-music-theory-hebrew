@@ -1,68 +1,70 @@
 ---
 layout: post
-title: Syncopation in pop/rock music
+title: "סינקופה במוזיקת פופ ורוק"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-*Syncopation* occurs when a rhythmic pattern that typically occurs on strong beats or strong parts of the beat occurs instead on weak beats or weak parts of the beat. Most pop/rock songs have a mixture of syncopated and "straight" rhythms. The syncopated rhythms are usually easy to sing, since they often match speech better than straight rhythms. However, they are more difficult than straight rhythms to sight-sing, dictate, or transcribe. 
+*סינקופה* (syncopation) נוצרת כאשר דגם קצבי המופיע בדרך כלל בפעמות חזקות או בחלקים חזקים של הפעמה מופיע במקומם בפעמות חלשות או בחלקים חלשים שלה. רוב שירי הפופ והרוק משלבים מקצבים מסונקפים ומקצבים ״ישרים״, ללא הסטה. בדרך כלל קל לשיר את המקצבים המסונקפים, מפני שלעיתים קרובות הם מתאימים לדיבור טוב יותר מן המקצבים הישרים. עם זאת, קשה יותר לשיר אותם מן הדף, לרשום אותם בהכתבה מוזיקלית או לתעתק אותם משמיעה.
 
-## Straight syncopations 
+## סינקופות במקצב ישר {#straight-syncopations}
 
-In contemporary pop/rock music, syncopation typically involves taking a series of notes of equal durations, cutting the duration of the first note in half, and shifting the rest early by that half duration.
+בפופ וברוק עכשוויים סינקופה כרוכה בדרך כלל בלקיחת סדרה של צלילים שווי משך, בקיצור משכו של הראשון לחצי ובהקדמת יתר הצלילים באותו חצי משך.
 
-For example, a series of four quarter notes, all sounding on the beat, can be transformed in this way by making the first note into an eighth note, and sounding each successive quarter note on eighth note early—all on the *offbeats*.
+לדוגמה, סדרה של ארבעה רבעים, שכולם נשמעים על הפעמה, יכולה להשתנות כך: הראשון נעשה שמינית, וכל רבע הבא נשמע שמינית מוקדם יותר — כולם *בין הפעמות* (offbeats).
 
-This process can occur on any metrical level. If the duration of the series of "straight" notes is two beats, they will be syncopated by changing the first note to a single beat and shifting each other note early by a beat. If the duration of the straight notes, like the figure above, is a beat, they will be syncopated by a division (one half beat in simple meter). If the straight notes are each divisions, they will be syncopated by shifting each note by a subdivision. The unit of syncopation (the duration of the first note, and the amount of shift applied to the following notes) is always half of the duration of the straight notes. All of these syncopations are realtively common in contemporary pop/rock music.
+התהליך יכול להתרחש בכל רמה מטרית. אם משכו של כל צליל בסדרה ״הישרה״ הוא שתי פעמות, מסנקפים אותה באמצעות קיצור הצליל הראשון לפעמה אחת והקדמת כל צליל אחר בפעמה. אם משך הצלילים הישרים הוא פעמה, כמו בדוגמה שלעיל, ההסטה היא ביחידת חלוקה של הפעמה — חצי פעמה במשקל פשוט. אם כל צליל ישר הוא יחידת חלוקה, ההסטה היא ביחידת חלוקת־משנה. יחידת הסינקופה — משך הצליל הראשון ומידת הקדמת הבאים — היא תמיד חצי ממשך הצלילים הישרים בדגם זה. כל הסינקופות הללו נפוצות יחסית בפופ וברוק עכשוויים.
 
-As a convention, when we take a series of notes that each have a duration of one beat and shift them early by half of a beat, we will call that *beat-level syncopation*. When we take a series of notes that each have a duration of one division and shift them early by a subdivision, we will call that *division-level syncopation*.
+לצורכי הספר, כשאנו לוקחים סדרת צלילים בני פעמה כל אחד ומקדימים אותם בחצי פעמה, נכנה זאת *סינקופה ברמת הפעמה*. כשכל צליל הוא יחידת חלוקה ואנו מקדימים אותו ביחידת חלוקת־משנה, נכנה זאת *סינקופה ברמת חלוקת הפעמה*.
 
-*Beat-level syncopation.*  
-[![][quarterToEighth]][quarterToEighth]
+*סינקופה ברמת הפעמה.*  
+[![הסטת רבעים בשמינית, בסינקופה ברמת הפעמה][quarterToEighth]][quarterToEighth]
 
-*Division-level syncopation.*  
-[![][eighthToSixteenth]][eighthToSixteenth]
+*סינקופה ברמת חלוקת הפעמה.*  
+[![הסטת שמיניות בשש־עשרית, בסינקופה ברמת החלוקה][eighthToSixteenth]][eighthToSixteenth]
 
-(Note the use of ties to make each beat clear. Always do this in order to make it easy to read.)
+שימו לב לשימוש בקשתות הארכה כדי להבהיר כל פעמה. הקפידו לעשות זאת כדי להקל על הקריאה.
 
-## Transcribing straight syncopations 
+## תעתוק סינקופות במקצב ישר {#transcribing-straight-syncopations}
 
-Straight syncopated rhythms are easily identified by the frequently occuring off-beat rhythms. For example, if you conduct or tap the counting pulse while listening to a song, several notes in a row that are articulated between your taps or conducted beats, with no notes articulated simultaneously with the counting pulse, indicate syncopation.
+קל לזהות מקצבים מסונקפים אלה לפי המקצבים החוזרים בין הפעמות. למשל, אם אתם מנצחים או מקישים את דופק הספירה בעת ההאזנה לשיר, כמה צלילים רצופים שהתקפותיהם נשמעות בין ההקשות או תנועות הניצוח, ללא התקפות החופפות לדופק הספירה, מצביעים על סינקופה.
 
-Once you identify a syncopated passage—which may only involve two or three notes—figure out on what metrical level the syncopation occurs. For example, in simple meter, if no notes are articulated directly on the counting pulse beats and one note is articulated in between each beat, the syncopation is occuring at the beat level. If no notes are articulated directly on the counting pulse beats and *two notes* are articulated in between each beat, listen to the passage again while tapping the *division*. If no notes are articulated directly on the division taps and one note is articulated in between each tap, the syncopation is occuring at the division level. 
+לאחר זיהוי קטע מסונקף — שעשוי לכלול רק שניים או שלושה צלילים — בררו באיזו רמה מטרית מתרחשת הסינקופה. למשל, במשקל פשוט, אם אין התקפות בדיוק על פעמות דופק הספירה ויש התקפה אחת בין כל שתי פעמות, הסינקופה היא ברמת הפעמה. אם אין התקפות על פעמות הדופק ו*שתי התקפות* נשמעות בין כל שתי פעמות, האזינו שוב תוך הקשת *חלוקת הפעמה*. אם אין התקפות החופפות להקשות החלוקה ויש התקפה אחת בין כל שתי הקשות, הסינקופה היא ברמת החלוקה.
 
-Once you have determined the metrical level on which the syncopation occurs, determine the durational value of the shift. If the syncopation occurs on the beat level (one note sounding between each counting pulse beat), the value of syncopation is a division: each beat-length note has been shifted one division early. If the syncopation occurs on the division level, the value of syncopation is a subdivision: each division-length note has been shifted one subdivision early.
+לאחר קביעת הרמה המטרית, קבעו את ערך המשך של ההסטה. בסינקופה ברמת הפעמה — צליל אחד בין כל שתי פעמות ספירה — ערך ההסטה הוא יחידת חלוקה: כל צליל בן פעמה הוקדם ביחידת חלוקה אחת. בסינקופה ברמת החלוקה, ערך ההסטה הוא יחידת חלוקת־משנה: כל צליל בן יחידת חלוקה הוקדם ביחידת חלוקת־משנה אחת.
 
-Lastly, determine how the syncopated pattern begins. Does the offbeat pattern simply begin offbeat? Or does the pattern begin with two quick notes back-to-back as above—one short note on the beat followed by the first of the longer syncopated notes?
+לבסוף, בררו כיצד הדגם המסונקף מתחיל. האם הדגם שבין הפעמות פשוט מתחיל בין הפעמות? או שהוא מתחיל בשני צלילים מהירים רצופים, כמו לעיל — צליל קצר על הפעמה ואחריו הראשון מבין הצלילים המסונקפים הארוכים יותר?
 
-Once you have determinted the level of syncopation, the duration of the shift, and whether or not the pattern begins with a truncated onbeat note, the rhythmic pattern should be easy to notate. If, however, you are still having difficulty, try using the lyric syllables and the stress patterns of the lyrics to help you keep track of the individual notes and which ones are on/offbeat. Writing lyrics down before notating the rhythm can be a big help.
+לאחר שקבעתם את רמת הסינקופה, את משך ההסטה ואם הדגם מתחיל בצליל מקוצר על הפעמה, אמור להיות קל לרשום אותו בתווים. אם עדיין קשה, נסו להיעזר בהברות מילות השיר ובדגמי ההטעמה שלהן כדי לעקוב אחר הצלילים ואחר מיקומם על הפעמה או ביניהן. כתיבת המילים לפני רישום המקצב יכולה לסייע מאוד.
 
-## Fake triplets
+## טריולות מדומות {#fake-triplets}
 
-Another common rhythmic pattern in pop/rock is to divide a beat (or two beats) into three almost-equal groups. For example, dividing a half note into two dotted-eighth notes and an eighth note (3+3+2). Since this pattern approximates a triplet while still maintaining the simple division of beats by 2, 4, 8, etc., we can call them *fake triplets*.
+דגם נפוץ נוסף בפופ וברוק מחלק פעמה, או שתי פעמות, לשלוש קבוצות כמעט שוות. למשל, מחלקים חצי לשתי שמיניות מנוקדות ולשמינית — 3+3+2. מאחר שהדגם דומה בקירוב לטריולה אך שומר על חלוקה פשוטה של הפעמות ל־2, 4, 8 וכן הלאה, אפשר לכנותו *טריולות מדומות* (fake triplets).
 
-![]({{ site.url }}/Graphics/syncopation/fakeTripletsBar.png)
+![טריולות מדומות לאורך תיבה]({{ site.url }}/Graphics/syncopation/fakeTripletsBar.png)
 
-![]({{ site.url }}/Graphics/syncopation/fakeTripletsHalfBar.png)
+![טריולות מדומות לאורך חצי תיבה]({{ site.url }}/Graphics/syncopation/fakeTripletsHalfBar.png)
 
-Fake triplets are more common than "real" triplets in most pop/rock genres, but both do occur, so take care to distinguish between the two. "Cathedrals" by Jump, Little Children contains examples of both (as well as  some straight syncopation), and is an excellent example for practicing performing and identifying fake and real triplets.
+ברוב סוגות הפופ והרוק טריולות מדומות נפוצות יותר מטריולות ״אמיתיות״, אך שתיהן מופיעות, ולכן יש להבחין ביניהן. ״Cathedrals״ של Jump, Little Children כולל את שתיהן, וכן מעט סינקופות במקצב ישר, והוא דוגמה מצוינת לתרגול ביצוען וזיהוין.
 
-<iframe class="spotify"  src="https://embed.spotify.com/?uri=spotify:track:2wd52lU3agY0P3x2hxPYhm" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="Cathedrals של Jump, Little Children — דוגמה להאזנה" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:2wd52lU3agY0P3x2hxPYhm" frameborder="0" allowtransparency="true"></iframe>
 
-While fake triplets occur most often in 3+3+2 groupings, 3+2+3 and 2+3+3 are also possible.
+טריולות מדומות מופיעות לרוב בקבוצות 3+3+2, אך גם 3+2+3 ו־2+3+3 אפשריות.
 
-A related pattern is what we might call *fake sextuplets*. Here the 3+3+2 pattern is doubled, resulting in 3+3+3+3+2+2. 
+דגם קרוב הוא מה שאפשר לכנות *סקסטולות מדומות* (fake sextuplets). כאן מוכפל הדגם 3+3+2 ומתקבל 3+3+3+3+2+2.
 
-![]({{ site.url }}/Graphics/syncopation/fakeSextuplets.png)
+![סקסטולות מדומות בדגם 3+3+3+3+2+2]({{ site.url }}/Graphics/syncopation/fakeSextuplets.png)
 
-In the opening of "Electric Co." by U2, the guitar plays subdivisions (sixteenths) grouped 3+3+3+3+2+2, while the kick drum plays straight beats (quarters) under the hi-hat playing straight subdivisions. 
+בפתיחת ״Electric Co.״ של U2 הגיטרה מנגנת יחידות חלוקת־משנה, שש־עשריות, בקבוצות 3+3+3+3+2+2. תוף הבס מנגן פעמות ישרות, רבעים, מתחת להיי־האט המנגן יחידות חלוקת־משנה ישרות.
 
-<iframe class="spotify"  src="https://embed.spotify.com/?uri=spotify:track:7sSdgidO7APGUdad4Ssw0L" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="Electric Co. של U2 — דוגמה להאזנה" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7sSdgidO7APGUdad4Ssw0L" frameborder="0" allowtransparency="true"></iframe>
 
-## Demo
+## הדגמה {#demo}
 
-The following video walks through the process of transcribing straight syncopations in the song "Shh" by Frou Frou.
+הסרטון הבא מדגים שלב אחר שלב תעתוק סינקופות במקצב ישר בשיר ״Shh״ של Frou Frou.
 
-<iframe src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
-
+<iframe title="הדגמת תעתוק סינקופות בשיר Shh של Frou Frou" src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
 [quarterToEighth]: {{ site.url }}/Graphics/syncopation/quarterToEighth.png
 [halfToQuarter]: {{ site.url }}/Graphics/syncopation/halfToQuarter.png

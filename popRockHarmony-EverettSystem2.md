@@ -1,32 +1,37 @@
 ---
 layout: post
-title: Pop/rock tonality that draws on diatonic modes
+title: "טונליות בפופ וברוק השואבת ממודוסים דיאטוניים"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
-Much pop/rock music draws not (only) on the classical major/minor system, but also on diatonic modes. These are not the modes as used in the Medieval Christian church, but the diatonic modes common in Western (especially English and Celtic) folk music. 
+מוזיקת פופ ורוק רבה אינה נשענת רק על מערכת המז׳ור והמינור הקלאסית, אלא גם על מודוסים דיאטוניים. אלה אינם המודוסים כפי ששימשו בכנסייה הנוצרית בימי הביניים, אלא המודוסים הדיאטוניים הנפוצים במוזיקה עממית מערבית, בייחוד אנגלית וקלטית.
 
-The most common modes used in this "tonal system" of pop/rock music are:
+המודוסים הנפוצים ביותר ב״מערכת טונלית״ זו של פופ ורוק הם:
 
-- **Dorian:** *do re me fa sol la te do*  
-- **Mixolydian:** *do re mi fa sol la te do*  
-- **Aeolian:** *do re me fa sol le te do*
+- **דורי:** *do re me fa sol la te do*
+- **מיקסולידי:** *do re mi fa sol la te do*
+- **אאולי:** *do re me fa sol le te do*
 
-*(Lydian is also possible, but rare. Locrian is rarer still, given its lowered fifth scale-degree. Phrygian is common, but typically as part of Everett's ["System 5."](popRockHarmony-EverettSystem5.html))*
+*גם לידי אפשרי, אך נדיר. לוקרי נדיר עוד יותר, בשל דרגת הסולם החמישית המונמכת שלו. פריגי נפוץ, אך בדרך כלל כחלק מ[״מערכת 5״ של Everett](popRockHarmony-EverettSystem5.html). ההברות הן בדו יחסי.*
 
-The characteristic harmonies in modal pop/rock include a heavy emphasis on **flat-VII** as the primary "dominant" chord (rather than **V** or even **v**), as these four common modes all contain *te*. **Flat-VI** is also common in Aeolian, and **Flat-III** in Dorian and Aeolian.
+ההרמוניות האופייניות לפופ ולרוק מודאליים מדגישות מאוד את **flat-VII** כאקורד ״דומיננטה״ ראשי במקום **V** ואפילו **v**, שכן ארבעת המודוסים הנפוצים האמורים מכילים *te*, לפי ניסוח המקור. גם **flat-VI** נפוץ באאולי, ו־**flat-III** בדורי ובאאולי.
 
-An obvious example would be "Scarborough Fair," by Simon & Garfunkel. This is based on a Dorian folk melody, and the harmony reflects this folk origin, emphasizing **i**, **III**, and **flat-VII**.
+דוגמה ברורה היא ״Scarborough Fair״ של Simon & Garfunkel. השיר מבוסס על מלודיה עממית דורית, וההרמוניה משקפת את המקור העממי ומדגישה **i**, ‏**III** ו־**flat-VII**.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:53uzBMME2GSfpUVtOtiLvA" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:53uzBMME2GSfpUVtOtiLvA" frameborder="0" allowtransparency="true"></iframe>
 
-This harmonic language can be found in Simon & Garfunkel's original compositions, as well, such as their Aeolian-based song, "The Sound of Silence."
+השפה ההרמונית הזאת נמצאת גם ביצירות מקוריות שלהם, כגון ״The Sound of Silence״, המבוסס על אאולי.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7eQUgarLukHLkZaO1mxtab" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7eQUgarLukHLkZaO1mxtab" frameborder="0" allowtransparency="true"></iframe>
 
-Irish band U2 uses modally based tonality frequently. For example, the intro and verse of "In God's Country" is built on an alternation of **I** and **v** (Mixolydian). The chorus modulates up a step, switching to Aeolian/Dorian (there is no *la* or *le* present to distinguish between the two).
+U2, הלהקה האירית, משתמשת לעיתים קרובות בטונליות מודאלית. למשל, המבוא והבית של ״In God’s Country״ בנויים על חילופים בין **I** ל־**v**, במיקסולידי. הפזמון עולה בצעד לסולם אחר ועובר לאאולי או לדורי: אין בו *la* או *le* שיאפשרו להבחין ביניהם.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7GJg0Pvbb4nqWTwGmkXF1S" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7GJg0Pvbb4nqWTwGmkXF1S" frameborder="0" allowtransparency="true"></iframe>
 
-"Sunday, Bloody Sunday" is another prime Aeolian-based example from U2, with harmony built on **i**, **III**, and **flat-VI**. (Note the occasional tag in the parallel major, built on the "double-plagal" progression, **flat-VII IV I**.)
+״Sunday, Bloody Sunday״ הוא דוגמה מובהקת נוספת של U2 המבוססת על אאולי, בהרמוניה של **i**, ‏**III** ו־**flat-VI**. שימו לב לסיומת המזדמנת במז׳ור המקביל, המבוססת על המהלך ״הפלגלי הכפול״ **flat-VII IV I**.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:6C4LXC9UFH1IKiHYOp0BiJ" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:6C4LXC9UFH1IKiHYOp0BiJ" frameborder="0" allowtransparency="true"></iframe>
+
+> הערת תרגום: המקור אומר ״ארבעת המודוסים הנפוצים״ לאחר רשימה של שלושה. פריגי מוזכר בסוגריים ומכיל te, אך לידי אינו מכיל te. אין להסיק את הטענה על כל המודוסים שהוזכרו; ניסוח המנייה נשמר כטענת מקור והסוגיה מתועדת.

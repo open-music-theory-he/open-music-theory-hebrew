@@ -1,24 +1,27 @@
 ---
 layout: post
-title: The "50s doo-wop" progression
+title: "מהלך הדו־וופ של שנות החמישים"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
 **&#124;&#124;: I – VI – IV – V :&#124;&#124;**  
-or  
+או  
 **&#124;&#124;: I – VI – II – V :&#124;&#124;**
 
-This cyclical chord progression was very common in rock ballads from the 1950s and early 1960s, hence the name (example: “Duke of Earl” by Gene Chandler). 
+מהלך אקורדים מחזורי זה היה נפוץ מאוד בבלדות רוק משנות החמישים ומראשית שנות השישים, ומכאן שמו — ״דו־וופ של שנות החמישים״ (50s doo-wop). דוגמה היא ״Duke of Earl״ של Gene Chandler.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1CX9WKs56Ur7r1NDPmuowt" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הדו־וופ של שנות החמישים" src="https://embed.spotify.com/?uri=spotify:track:1CX9WKs56Ur7r1NDPmuowt" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-However, it has continued to be used frequently ever since (examples: the verse and chorus of “Friday” by Rebecca Black, the chorus of “Total Eclipse of the Heart” by Bonnie Tyler).
+עם זאת, השימוש התכוף בו נמשך מאז. דוגמאות: הבית והפזמון של ״Friday״ מאת Rebecca Black, והפזמון של ״Total Eclipse of the Heart״ מאת Bonnie Tyler.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:4fK6E2UywZTJIa5kWnCD6x" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הדו־וופ של שנות החמישים" src="https://embed.spotify.com/?uri=spotify:track:4fK6E2UywZTJIa5kWnCD6x" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:5prTs2HAw2G4idHZyeFp8o" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הדו־וופ של שנות החמישים" src="https://embed.spotify.com/?uri=spotify:track:5prTs2HAw2G4idHZyeFp8o" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-Because it is typically employed in cycles, it can also be found starting on a different chord in the cycle and then proceeding through the same succession of chords. For example, “Viva la Vida” by Coldplay works through a cyclical repetition of the same succession of chords, but their phrases begin on IV rather than I:
+מאחר שהוא מופיע בדרך כלל במחזורים, אפשר למצוא אותו גם מתחיל באקורד אחר במחזור וממשיך באותו רצף אקורדים. למשל, ״Viva la Vida״ של Coldplay חוזר במחזוריות על אותו רצף, אך הפסוקיות מתחילות ב־IV ולא ב־I:
 
 **&#124;&#124;: IV – V – I – VI :&#124;&#124;**
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1mea3bSkSGXuIRvnydlB5b" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הדו־וופ של שנות החמישים" src="https://embed.spotify.com/?uri=spotify:track:1mea3bSkSGXuIRvnydlB5b" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

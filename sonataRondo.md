@@ -1,16 +1,23 @@
 ---
 layout: post
-title: Sonata Rondo
+title: סונטה־רונדו
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-A sonata rondo (ABACABA) features the same refrain-episode alternation that we find in the five-part rondo, but certain aspects of sonata form are infiltrate this alternation.
+סונטה־רונדו (sonata rondo), שתבניתה <bdi dir="ltr">ABACABA</bdi>, מציגה אותם חילופים בין חטיבה חוזרת (refrain) לאפיזודה (episode) המצויים ברונדו בן חמישה חלקים, אך היבטים מסוימים של צורת הסונטה חודרים לחילופים אלה.
 
-**Exposition**						**Development**		**Recapitulation**
+| תפקיד צורני | החטיבות לפי סדר הופעתן |
+|---|---|
+| תצוגה | חטיבה חוזרת 1; אפיזודה 1 |
+| חזרת החטיבה החוזרת | חטיבה חוזרת 2 |
+| פיתוח או נושא פנימי | אפיזודה 2 |
+| רפריזה | חטיבה חוזרת 3; אפיזודה 3 |
+| חזרה מסיימת | חטיבה חוזרת 4 |
 
+> **הערת מהדורה:** התרשים המיושר באמצעות רווחים במקור הוסב לטבלה. סדר שבע החטיבות והקיבוץ המוסבר בשלושת הסעיפים שלהלן נשמרו. ראו N109.
 
-Refrain 1	Episode 1	Refrain 2	Episode 2			Refrain 3	Episode 3	Refrain 4
-
-
-1. Refrain 1 and Episode 1 form a sonata exposition that is recapitulated in Refrain 3 and Episode 3. As is the case in sonata form, the recapitulation contains a "tonal adjustment" so that it ends in the tonic key. That is, Episode 1 and 3 will be the same thematically, but Episode 3 will occur in tonic.
-2. Because it resembles sonata form, the first and third episodes are always constructed as "second-theme" complexes.
-3. Episode 2 (C in the short-hand diagram above) may be a development—possibly containing a prep-zone, CAZ, and retransition—or it may be a simpler interior theme.
+1. חטיבה חוזרת 1 ואפיזודה 1 יוצרות תצוגת סונטה, החוזרת כרפריזה בחטיבה חוזרת 3 ובאפיזודה 3. כמו בצורת סונטה, הרפריזה מכילה ״התאמה טונלית״, כך שתסתיים בטונליות הטוניקה. כלומר, אפיזודות 1 ו־3 זהות מבחינה נושאית, אך אפיזודה 3 תהיה בטונליות הטוניקה.
+2. בשל הדמיון לצורת סונטה, האפיזודות הראשונה והשלישית בנויות תמיד כ״מכלולי נושא שני״ (second-theme complexes).
+3. אפיזודה 2, המסומנת C בתרשים המקוצר לעיל, עשויה להיות פיתוח — אולי עם אזור הכנה (prep-zone), אזור הפעולה המרכזית (CAZ) ומעבר חוזר — או נושא פנימי פשוט יותר.

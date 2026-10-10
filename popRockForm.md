@@ -1,95 +1,95 @@
 ---
 layout: post
-title: Form in pop/rock music – Overview
+title: "צורה בפופ וברוק — סקירה"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
+שירי פופ ורוק מסוף המאה העשרים נוטים לפעול לפי אחד משלושה דגמי מבנה בקנה מידה גדול.
 
-Pop/rock songs of the late twentieth century tend to follow one of three large-scale structural patterns. 
+## צורה סטרופית {#strophic-form}
 
-## Strophic form
+האזינו ל־״Blue Suede Shoes״ של Carl Perkins. בשיר כמה *מודולים* (modules), שכולם מבוססים על אותה מוזיקה בסיסית. אף שהתזמור והמילים משתנים, הקטע המתחיל ב־0:19 כולל אותה מלודיה, הרמוניה ומבנה פסוקיות — או לפחות דומים מאוד — כמו הקטעים המתחילים ב־0:58, 1:37 ו־1:54. בהאזנה מדוקדקת יותר אפשר לשמוע בפתיחת השיר גרסה דומה אך מקוצרת של אותם דגמים. אפילו הקטעים הכליים ב־0:41 וב־1:21 מבוססים על אותו דגם, עם מלודיה אחרת בצורת סולו גיטרה. השיר כולו חוזר על הדגם הבסיסי המוצג ב־0:19–0:41, או על וריאציות קלות שלו. שירים החוזרים לכל אורכם על אותה יחידה בסיסית מרובת פסוקיות נקראים *סטרופיים*. הצורה נקראת *צורה סטרופית* (strophic form), ולעיתים AAA, מפני שהחומר הבסיסי A חוזר. היחידה החוזרת נקראת *סטרופה* (strophe). צורה זו נפוצה יותר ברוקנרול המוקדם, בשנות החמישים והשישים, מאשר משנות השבעים ואילך.
 
-Consider "Blue Suede Shoes" by Carl Perkins. This song contains multiple *modules*, all of which have the same basic underlying music. Though the instrumentation and the lyrics change, the section beginning at 0:19 contains the same -- or, at least, very similar -- melody, harmony, and phrase structure as the sections that begin at 0:58, 1:37, and 1:54. Listening a bit more closely, we can hear a similar, but abbreviated, version of the same patterns at the opening of the song. Even the instrumental sections at 0:41 and 1:21 have the same underlying pattern, just a different melody in the form of a guitar solo. The entire song is a repetition of this same basic pattern, or slight variations of it, modeled at 0:19–0:41. Songs that follow this structure of repeating the same basic multi-phrase unit throughout are called *strophic* songs. The form is called *strophic form* (sometimes abbreviated AAA, because the same basic material A is repeated), and the basic unit that is repeated is called a *strophe*. Strophic form is more common in early rock-and-roll (1950s–1960s) than in the 1970s and beyond.
+<iframe title="דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+קישור HTML: [https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h](https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h)  
+מזהה Spotify URI: [spotify:track:7bglJCaprPQTfDfovdJS2h](spotify:track:7bglJCaprPQTfDfovdJS2h)
 
-HTML link: [https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h](https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h)  
-Spotify URI: [spotify:track:7bglJCaprPQTfDfovdJS2h](spotify:track:7bglJCaprPQTfDfovdJS2h)
+להלן מתווה כללי של צורת ״Blue Suede Shoes״ למעקב בזמן ההאזנה:
 
-And here is a bird's-eye-view sketch of the form of "Blue Suede Shoes" to follow as you listen:
+- 0:00 — סטרופה 1
+- 0:19 — סטרופה 2
+- 0:41 — סטרופה כלית
+- 0:58 — סטרופה 3
+- 1:21 — סטרופה כלית
+- 1:37 — סטרופה 1, חזרה בשינוי קל
+- 1:54 — סטרופה 4
 
-- 0:00 – Strophe 1  
-- 0:19 – Strophe 2  
-- 0:41 – Instrumental strophe  
-- 0:58 – Strophe 3  
-- 1:21 – Instrumental strophe  
-- 1:37 – Strophe 1 (slightly varied repetition)  
-- 1:54 – Strophe 4
+״Blue Suede Shoes״ מורכב כולו מסטרופות, אך שירים סטרופיים יכולים לכלול גם [*מודולי עזר*](popRockForm-containers.html), כגון מבואות, קטעי סיום וקודות. עם זאת, אם לשיר יותר מרעיון מוזיקלי מרכזי אחד מעבר לסטרופות ולמודולי העזר, הוא אינו סטרופי, וסביר שישתייך לאחת משתי הצורות הבאות.
 
-While "Blue Suede Shoes" is composed entirely of strophes, it is important to note that strophic songs can also contain [*auxiliary modules*](popRockForm-containers) such as intros, outros, and codas. However, if a song has more than one main musical idea other than strophes and auxiliary modules, it is not strophic, but likely one of the following two forms.
- 
+## צורת שיר בת 32 תיבות — AABA {#32-bar-song-form-aaba}
 
-## 32-bar song form (AABA)
+מבנה נוסף הנפוץ יותר ברוקנרול המוקדם הוא AABA, המכונה גם ״צורת שיר בת 32 תיבות״, על שם מאפיינים של שירים מוקדמים יותר מ״תור הזהב״ המשתמשים במבנה זה.
 
-Another formal structure that is more common in early rock-and-roll is AABA form, also called 32-bar song form because of some of the features of earlier "Golden Age" songs that make use of this structure. 
+האזינו ל־״I Want to Hold Your Hand״ של The Beatles. לאחר מבוא קצר השיר מתחיל בשתי סטרופות. אך במקום סטרופה כלית, כמו ב־״Blue Suede Shoes״, הלהקה עוברת ל*גשר* (bridge) ב־0:52. הקטע החדש יוצר מתח באמצעות ניגוד לנושא הסטרופה הראשית ועיכוב חזרתו עד 1:11. השיר מתחיל ומסתיים בסטרופה, והיא מכילה את מילות הכותרת. עבור מאזינים רבים זהו גם חלקו הזכיר ביותר. לכן הסטרופה עדיין המודול *הראשי*. נוסף לה מודול *משני* המוסיף עניין ומתח — הגשר — וכן מודול עזר, המבוא, המסייע לפתוח את השיר.
 
-Consider "I Want to Hold Your Hand" by The Beatles. After a brief introduction, the song begins with two strophes. However, where "Blue Suede Shoes" followed with an instrumental strophe, The Beatles move to a *bridge* at 0:52. This new section builds tension by contrasting and withholding the main strophe theme before it returns at 1:11. Note that the song begins and ends with the strophe, and the strophe contains the title lyrics. It also, for many people, is the more memorable part of the song. Thus, the strophe is still the *primary* module. But now it has a *secondary* module to add interest and tension, the bridge. (And an auxiliary module, the intro, to help get the song off the ground.)
+להלן מתווה כללי של צורת ״I Want to Hold Your Hand״:
 
-Here is a bird's-eye-view sketch of the form of "I Want to Hold Your Hand":
+- 0:00 — מבוא
+- 0:08 — סטרופה 1 (A1)
+- 0:29 — סטרופה 2 (A2)
+- 0:51 — גשר (B)
+- 1:11 — סטרופה 3 (A3)
+- 1:33 — גשר (B)
+- 1:53 — סטרופה 3 (A3)
 
-- 0:00 – Intro  
-- 0:08 – Strophe 1 (A1)  
-- 0:29 – Strophe 2 (A2)  
-- 0:51 – Bridge (B)  
-- 1:11 – Strophe 3 (A3)  
-- 1:33 – Bridge (B)  
-- 1:53 – Strophe 3 (A3)  
+*המקור מציין שאין לשיר זה הקלטה חוקית, בגישה פתוחה, שניתן להטמיע. עם זאת, קל למצוא אותו אם אין ברשותכם הקלטה. זהו תיאור זמינות מן המקור, שלא עודכן במהדורה העברית.*
 
-*There is no legal, open-access, embeddable audio for this song. However, it is easy to find, if you don't already own a recording.*
- 
-"I Want to Hold Your Hand" is a typical AABA song in that it does not just have four modules, AABA. AABA songs almost always have a complete AABA [*cycle*](popRockForm-containers), followed by either another complete AABA cycle, or an incomplete cycle (typically BA). Once the first AABA cycle is complete, there tend not to be any new lyrics, only repetition of the whole or the end of the main cycle.
+״I Want to Hold Your Hand״ אופייני לשירי AABA בכך שהוא אינו מסתפק בארבעה מודולים, AABA. כמעט תמיד יש בהם [*מחזור*](popRockForm-containers.html) AABA שלם, ואחריו מחזור AABA שלם נוסף או מחזור חלקי, בדרך כלל BA. לאחר השלמת המחזור הראשון בדרך כלל אין מילים חדשות, אלא רק חזרה על המחזור המרכזי כולו או על סופו.
 
-The convention is to label cycles with curly brackets: {}. So the large-scale form of "I Want to Hold Your Hand" is
+מקובל לסמן מחזורים בסוגריים מסולסלים: {}. לכן הצורה הכוללת של ״I Want to Hold Your Hand״ היא:
 
 > {AABA}{BA}
 
-## Verse-chorus form (VC, VCB)
+## צורת בית–פזמון — VC, VCB {#verse-chorus-form-vc-vcb}
 
-The last of the three main form types, *verse-chorus form* is a versatile song form that rapidly took over rock-and-roll in the 1960s and has dominated the genre ever since. Like AABA form, verse-chorus form has multiple *core* (non-auxiliary) modules. However, where the title lyrics, the most memorable music, and the main narrative all tend to take place in the strophe of an AABA song (which both begins *and* ends the song), in verse-chorus form, those features are split between the verse (a secondary module, which contains the main narrative text, and which begins the song) and the chorus (the primary module, which contains the title lyrics, the most memorable melody, and which ends the song).
+השלישית מבין הצורות המרכזיות, *צורת בית–פזמון* (verse-chorus form), היא צורת שיר גמישה שהתפשטה במהירות ברוקנרול בשנות השישים ושולטת בסוגה מאז, לפי תיאור המקור. כמו ב־AABA, יש בה כמה מודולי *ליבה*, שאינם מודולי עזר. אולם ב־AABA מילות הכותרת, המוזיקה הזכירה ביותר ועיקר הסיפור מופיעים בדרך כלל בסטרופה, שגם פותחת וגם מסיימת את השיר. בצורת בית–פזמון מאפיינים אלה מתחלקים בין הבית (verse) — מודול משני המכיל את עיקר הטקסט הסיפורי ופותח את השיר — לבין הפזמון (chorus), המודול הראשי המכיל את מילות הכותרת ואת המלודיה הזכירה ביותר ומסיים את השיר.
 
-Consider Bon Jovi's song "Livin' on a Prayer." After an extended intro, the first cycle begins with a verse at 0:47. Then at 1:18 a *prechorus* increases energy and tension into the chorus at 1:34. After a brief mid-song introduction, this cycle is repeated beginning at 1:54, with the addition of a *postchorus* at 2:56. A final cycle at 3:00 is atypical and abbreviated, and if followed by a repetition of its final chorus multiple times, during which a fadeout ends the song.
+האזינו ל־״Livin’ on a Prayer״ של Bon Jovi. אחרי מבוא מורחב המחזור הראשון מתחיל בבית ב־0:47. ב־1:18 *קדם־פזמון* (prechorus) מגביר את האנרגיה והמתח לקראת הפזמון ב־1:34. לאחר מבוא קצר באמצע השיר המחזור חוזר, החל מ־1:54, בתוספת *אחר־פזמון* (postchorus) ב־2:56. מחזור אחרון ב־3:00 הוא לא טיפוסי ומקוצר. אחריו חוזר הפזמון האחרון כמה פעמים, ובמהלכן דעיכה הדרגתית, fadeout, מסיימת את השיר.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)  
-Spotify URI: [spotify:track:0J6mQxEZnlRt9ymzFntA6z](spotify:track:0J6mQxEZnlRt9ymzFntA6z)  
+קישור HTML: [https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z)  
+מזהה Spotify URI: [spotify:track:0J6mQxEZnlRt9ymzFntA6z](spotify:track:0J6mQxEZnlRt9ymzFntA6z)
 
-Like "Livin' on a Prayer," a verse-chorus song’s formal cycle will contain at least two core modules—verse (V) and chorus (C), with the chorus module being the primary module. Other possible modules in the cycle exhibit prechorus (P), bridge (B), and postchorus (Z) functions. 
+כמו ב־״Livin’ on a Prayer״, המחזור הצורני של שיר בית–פזמון יכלול לפחות שני מודולי ליבה — בית (V) ופזמון (C) — כשהפזמון הוא הראשי. מודולים אפשריים נוספים ממלאים פונקציות קדם־פזמון (P), גשר (B) ואחר־פזמון (Z).
 
-A full cycle containing all modules except for B would be {VPCZ}. These four functions always progress in this order, though not all need be present. Bridge modules are somewhat flexible. If a song has single bridge module, it tends to appear once, followed by the last chorus, or the last prechorus and chorus, of the song. Bridges often appear in place of the verse and/or prechorus modules in the last cycle, not as an extra element. Thus, songs that incorporate all five core module types rarely will place all five in a single cycle. 
+מחזור מלא הכולל את כל המודולים מלבד B יהיה {VPCZ}. ארבע הפונקציות מתקדמות תמיד בסדר זה, אף שלא כולן חייבות להופיע. הגשרים גמישים במידת מה. כשיש גשר יחיד, הוא נוטה להופיע פעם אחת, ואחריו הפזמון האחרון או קדם־הפזמון והפזמון האחרונים. לעיתים קרובות גשר מחליף את הבית ו/או קדם־הפזמון במחזור האחרון ואינו רכיב נוסף. לכן שירים המשלבים את כל חמשת סוגי מודולי הליבה מציבים אותם רק לעיתים רחוקות במחזור יחיד.
 
-Common non-bridge cycles include {VC}, {VPC}, and occasionally (especially as the first cycle in a song) {VVC}, with Z potentially added to the end of any. Common cycles including bridge are {BC} and {BPC}, with Z potentially added to the end of either.
+מחזורים נפוצים ללא גשר: {VC}, ‏{VPC}, ולעיתים — בייחוד במחזור הראשון — {VVC}. אפשר להוסיף Z בסוף כל אחד. מחזורים נפוצים עם גשר הם {BC} ו־{BPC}, ואפשר להוסיף Z בסוף שניהם.
 
-## Simple verse-chorus form
+## צורת בית–פזמון פשוטה {#simple-verse-chorus-form}
 
-*Simple verse-chorus form* is a term coined by John Covach, referring to songs in verse-chorus form where the harmonic progression underlying the verse is the same as that underlying the chorus. A prime example of this is U2's "With or Without You."
+*צורת בית–פזמון פשוטה* (simple verse-chorus form) היא מונח שטבע John Covach לשירים שבהם המהלך ההרמוני בבסיס הבית זהה לזה שבבסיס הפזמון. דוגמה מובהקת היא ״With or Without You״ של U2.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A5JGEAz15LkPoOtFHttDtVs" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-HTML link: [https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs)  
-Spotify URI: [spotify:track:5JGEAz15LkPoOtFHttDtVs](spotify:track:5JGEAz15LkPoOtFHttDtVs)
+קישור HTML: [https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs)  
+מזהה Spotify URI: [spotify:track:5JGEAz15LkPoOtFHttDtVs](spotify:track:5JGEAz15LkPoOtFHttDtVs)
 
+## צורת בית–פזמון פשוטה במיוחד {#super-simple-verse-chorus-form}
 
-## Super-simple verse-chorus form
+*צורת בית–פזמון פשוטה במיוחד* (super-simple verse-chorus form) היא מונח שטבע [Jay Summach](http://gradworks.umi.com/35/25/3525244.html) על בסיס המונח של Covach. הוא מציין שירים שבהם גם המהלך ההרמוני וגם המלודיה זהים בבית ובפזמון (Summach, עמ׳ 322).
 
-*Super-simple verse-chorus form* is a term coined by [Jay Summach](http://gradworks.umi.com/35/25/3525244.html) (based on Covach’s), referring to songs in verse-chorus form where both the harmonic progression and the melody are both the same for verse and chorus (Summach, p. 322).
+## הרחבה {#going-into-detail}
 
+הפרקים הבאים מפרטים את המבנים הכוללים ואת המבנים המרכיבים אותם. המונחים, המושגים, ההגדרות וכללי הסימון ב־OMT מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת [Jason Summach](http://gradworks.umi.com/35/25/3525244.html), ‏John Covach, ‏Walter Everett, ‏Mark Spicer או Daniel Harrison; או על שילוב ביניהם.
 
-## Going into detail
+- [מונחים ומושגי יסוד](popRockForm-terms.html)
+- [יחידות מבנה ומבני מודולים](popRockForm-containers.html)
+- [פונקציות צורניות](popRockForm-functions.html)
+- [סימון לניתוח](popRockForm-notation.html)
 
-The following sections go into greater detail about these large-scale structures and the component structures that make them up. Terms, concepts, definitions, and notational guidelines in OMT are taken either from common convention; the published or unpublished work of [Jason Summach](http://gradworks.umi.com/35/25/3525244.html), John Covach, Walter Everett, Mark Spicer, or Daniel Harrison; or some combination thereof.
-
-
-- [Terminology and basic concepts](popRockForm-terms)  
-- [Formal containers and module structures](popRockForm-containers)  
-- [Formal functions](popRockForm-functions)  
-- [Analytical notation](popRockForm-notation)  
+> הערת תרגום: זמני הכניסה נשמרו מן המקור. בפרק ״פונקציות צורניות״ מופיעים זמנים מעט שונים לאותו שיר; טרם אומתה התאמתם לגרסת ההקלטה המוטמעת. גם 0:52 בתיאור הגשר לעומת 0:51 במתווה נשמרו.

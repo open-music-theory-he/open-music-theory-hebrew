@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Twelve-Tone Music — Intervallic Structure
+title: מוזיקת שנים־עשר טונים — מבנה מרווחי
+language: he
+translation_status: language-reviewed
+translation_batch: 14
 ---
 
-Pitch-class orderings are not the only things ordered by twelve-tone rows. Because pitch classes are always in relationships with one another, a twelve-tone row is also an ordered collection of *intervals.* Understanding the intervallic structure of a row class is the best way to get a sense of what it will sound like.    
+סדר מחלקות גובה הצליל אינו הדבר היחיד שמסודר בשורת שנים־עשר טונים. מאחר שמחלקות גובה הצליל נמצאות תמיד ביחסים זו עם זו, השורה היא גם אוסף מסודר של *מרווחים*. הבנת המבנה המרווחי של מחלקת שורה היא הדרך הטובה ביותר לקבל מושג על הצליל שלה.
 
-Below, you'll see the figure from resource on [operations](twelveToneOperations.html). Below each of the row forms in that example, I have shown the series of [ordered pitch-class intervals](interval(Class).html).
+המקור מפנה כאן לתרשים שבפרק [הפעולות](twelveToneOperations.html), ומתאר סדרות של [מרווחים מסודרים בין מחלקות גובה צליל](interval(Class).html) מתחת לכל אחת מצורות השורה בדוגמה.
 
-Rows that are **transpositionally-related** (as **P11** and **P10** are) have _the same_ series of ordered pitch-class intervals.
+> **הערת מהדורה:** בקובץ המקור אין בפועל הטמעה של התרשים המתואר כמצוי ״להלן״. נשמרו שתי ההפניות הקיימות; החוסר נרשם ב־N117.
 
-Rows that are **inversionally-related** (as **P10** and **I0** are) have *complementary* ordered pitch-class intervals. That is, intervals in corresponding locations in the row forms "sum to 12."
+לשורות **הקשורות בטרנספוזיציה**, כמו **P11** ו־**P10**, יש *אותה* סדרה של מרווחים מסודרים בין מחלקות גובה צליל.
 
-Rows that are **retrograde-related** have ordered pitch-class intervals that are _reverse complements_. Compare **P10** and **R10**. Reading **R10** backwards, the *final* three intervals (for example) are 4 1 8. Those are the complements of **P10**′s *first* three intervals: 8 11 4.
+לשורות **הקשורות בהיפוך**, כמו **P10** ו־**I0**, יש מרווחים מסודרים *משלימים*: מרווחים במקומות מקבילים בצורות השורה מסתכמים ב־12.
 
-Rows that are **retrograde-inversion related** have ordered pitch-class intervals that are _reverses_ of one another. Compare **P10** and **RI0**. Reading **RI0**′s intervals backwards, you'll notice that they are the _same_ as **P10**′s read forwards.
+לשורות **הקשורות בהילוך לאחור** יש מרווחים מסודרים שהם *משלימים בסדר הפוך*. השוו **P10** ו־**R10**. בקריאת **R10** לאחור, שלושת המרווחים *האחרונים*, למשל, הם <bdi dir="ltr">4 1 8</bdi>. אלה המשלימים של שלושת המרווחים *הראשונים* ב־**P10**: <bdi dir="ltr">8 11 4</bdi>.
+
+לשורות **הקשורות בהיפוך ובהילוך לאחור** יש מרווחים מסודרים שהם *היפוך של סדר הרצף* זה של זה. השוו **P10** ו־**RI0**: בקריאת מרווחי **RI0** לאחור, הם *זהים* למרווחי **P10** הנקראים לפנים.

@@ -1,30 +1,35 @@
 ---
 layout: post
-title: Plagal progressions 
+title: "מהלכים פלגליים"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-The IV chord, while certainly an extremely frequent predominant/subdominant chord in common-practice repertoire, has an even more prominent place in pop/rock music. Perhaps borne out of the 5-6 neighboring motion found in shuffle-blues guitar accompaniment patterns, an alternation between I and IV is a common occurrence in numerous genres. 
+אקורד IV נפוץ מאוד כקדם־דומיננטה או כסובדומיננטה ברפרטואר של תקופת הפרקטיקה המקובלת, אך בפופ וברוק מקומו בולט עוד יותר. חילופים בין I ל־IV נפוצים בסוגות רבות. ייתכן שמקורם בתנועת השכן 5-6 שבדגמי ליווי גיטרה בבלוז במקצב שאפל.
 
-In "Soul Man" by Sam and Dave, the chord progression used in the verse consists of an alternation of I and IV (listen carefully to the bass).
+ב־״Soul Man״ של Sam and Dave מהלך האקורדים בבית מחליף בין I ל־IV. האזינו היטב לבס.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6eJlEcRmeyQfTlDQBDyqkW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלכים פלגליים" src="https://embed.spotify.com/?uri=spotify:track:6eJlEcRmeyQfTlDQBDyqkW" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-A similar oscillation between I and IV can be found in the verse to "In the Midnight Hour" by Wilson Pickett.
+תנודה דומה בין I ל־IV מופיעה בבית של ״In the Midnight Hour״ של Wilson Pickett.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלכים פלגליים" src="https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-This kind of chord progression isn't limited to Soul and R&B, of course. The beginning of "After The Gold Rush" by Neil Young features a similar progression (it deviates after the the words "...drummers drummin..." Also, note the discrepancy between the melody notes and the chords throughout). 
+כמובן, מהלך כזה אינו מוגבל לסול ול־R&B. פתיחת ״After The Gold Rush״ של Neil Young כוללת מהלך דומה, הסוטה מן הדגם לאחר המילים ״drummers drummin״. שימו לב גם לחוסר ההתאמה בין צלילי המלודיה לאקורדים לאורך השיר.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלכים פלגליים" src="https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-### Double-plagal progression ###
+### מהלך פלגלי כפול {#double-plagal-progression}
 
-The "double-plagal" progression ([Walter Everett's term](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html)) is an expansion of the plagal progression discussed above to include the "IV/IV" chord prior to the IV chord. This is perhaps more simply explained as bVII-IV-I (or simply VII-iv-I in minor). The most famous instance of the double-plagal progression is likely the coda from "Hey Jude" by The Beatles, performed here by Wilson Pickett:
+המהלך ״הפלגלי הכפול״ (double-plagal progression), [מונח של Walter Everett](http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html), מרחיב את המהלך הפלגלי שלעיל ומוסיף את האקורד ״IV/IV״ לפני IV. בפשטות, זהו bVII-IV-I, או VII-iv-I במינור. ככל הנראה הדוגמה המפורסמת ביותר היא הקודה של ״Hey Jude״ של The Beatles, המובאת כאן בביצוע Wilson Pickett:
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלכים פלגליים" src="https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-### Extended plagal progressions ###
+### מהלכים פלגליים מורחבים {#extended-plagal-progressions}
 
-The "applied IV" chord can be used in sequence, similar to the descending-fifths progression in common-practice music. In the version of "Hey Joe" by Jimi Hendrix, the verse consists of three iterations of the plagal motion in a descending-fourths pattern, which results in the progression: bVI-bIII-bVII-IV-I, in the key of E major.
+אפשר להשתמש באקורד ״IV משני״ (applied IV) בסקוונצה, בדומה למהלך הקווינטות היורדות במוזיקה של תקופת הפרקטיקה המקובלת. בגרסת ״Hey Joe״ של Jimi Hendrix הבית כולל שלושה מופעים של התנועה הפלגלית בדגם של קוורטות יורדות. מתקבל המהלך bVI-bIII-bVII-IV-I בסולם E מז׳ור.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0NWPxcsf5vdjdiFUI8NgkP" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלכים פלגליים" src="https://embed.spotify.com/?uri=spotify:track:0NWPxcsf5vdjdiFUI8NgkP" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+
+> הערת תרגום: המקור מונה כאן ״שלושה מופעים״, אף שבמהלך המודפס יש ארבעה מעברים. המהלך והמספר נשמרו; שאלת המנייה מתועדת להכרעה בסוף הספר.

@@ -1,18 +1,21 @@
 ---
 layout: post
-title: Minor-pentatonic-based pop/rock tonality
+title: "טונליות בפופ וברוק המבוססת על פנטטוניקה מינורית"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
-A uniquely rock phenomenon is the common use of major triads or power chords (open fifths) built upon members of the pentatonic scale. In such a "tonal system," songs make heavy use of **I**, **flat-III**, **IV**, **V**, and **flat-VII**. A related practice uses a different "rotation" of the pentatonic scale, replacing **V** with **flat-VI**.
+תופעה שהמקור מציג כייחודית לרוק היא השימוש הנפוץ במשולשים מז׳וריים או ב*אקורדי כוח* (power chords), קווינטות פתוחות ללא טרצה, הבנויים על צלילי הסולם הפנטטוני. ב״מערכת טונלית״ זו משתמשים רבות ב־**I**, ‏**flat-III**, ‏**IV**, ‏**V** ו־**flat-VII**. פרקטיקה קרובה משתמשת ב״סיבוב״ אחר של הסולם הפנטטוני ומחליפה את **V** ב־**flat-VI**.
 
-For example, the chorus of The Beatles' "Sgt. Pepper's Lonely Hearts Club Band" is based on **I**, **flat-III**, and **IV** (all major triads). 
+למשל, הפזמון של ״Sgt. Pepper’s Lonely Hearts Club Band״ של The Beatles מבוסס על **I**, ‏**flat-III** ו־**IV**, כולם משולשים מז׳וריים.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:4fUKE8EULjQdHF4zb0M8FO" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק המבוססת על פנטטוניקה מינורית" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:4fUKE8EULjQdHF4zb0M8FO" frameborder="0" allowtransparency="true"></iframe>
 
-Nirvana's "Smells Like Teen Spirit" exhibits the "rotated" version of this system, repeating the power-chord cycle, **I IV flat-III flat-VI**.
+״Smells Like Teen Spirit״ של Nirvana מדגים את הגרסה ה״מסובבת״ של המערכת וחוזר על מחזור אקורדי הכוח **I IV flat-III flat-VI**.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:5ghIJDpPoe3CfHMGu71E6T" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק המבוססת על פנטטוניקה מינורית" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:5ghIJDpPoe3CfHMGu71E6T" frameborder="0" allowtransparency="true"></iframe>
 
-Related to this minor-pentatonic system is the usage of Phrygian mode in heavy metal and hard core. In many of these songs, power chords are applied to the same minor-pentatonic scale degrees, with the addition of **flat-II**. An example is Shelter's "The Message of the Bhagavat" (beginning at 0:14).
+למערכת הפנטטונית המינורית הזאת קשור השימוש בפריגי בהבי מטאל ובהארדקור. ברבים מהשירים אקורדי כוח נבנים על אותן דרגות פנטטוניות מינוריות, בתוספת **flat-II**. דוגמה היא ״The Message of the Bhagavat״ של Shelter, החל מ־0:14.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7otQ6jzuTljp0NurHHu57w" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק המבוססת על פנטטוניקה מינורית" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7otQ6jzuTljp0NurHHu57w" frameborder="0" allowtransparency="true"></iframe>

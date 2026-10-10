@@ -1,87 +1,93 @@
 ---
 layout: post
-title: Collections and Scales
+title: אוספים וסולמות
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-Folk, pop, classical, and modern composers often organize pitch materials using scales other than major and minor. Some of these scales, like the various diatonic *modes* and the pentatonic collection, are relatively familiar to most listeners. Others — such as octatonic, whole-tone, and acoustic collections/scales — are more novel, and usually (but not always) found in twentieth- and twenty-first-century compositions.
+מלחינים במוזיקה עממית, בפופ, במוזיקה קלאסית ובמוזיקה מודרנית מארגנים לעיתים קרובות חומרי גובה צליל באמצעות סולמות שאינם מז׳ור ומינור. חלקם, כגון ה*מודוסים* הדיאטוניים השונים והאוסף הפנטטוני, מוכרים למדי לרוב המאזינים. אחרים — כגון אוספים וסולמות אוקטטוניים, של טונים שלמים ואקוסטיים — חדשים יותר, ומופיעים בדרך כלל, אך לא תמיד, ביצירות מן המאות העשרים והעשרים ואחת.
 
-When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes — usually five or more. Imagine a collection as a source from which a composer can draw musical material — a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a *scale*. 
+באפיון רבים מן המשאבים המוזיקליים החדשים האלה, המילה ״אוסף״ מתאימה לעיתים יותר מ״סולם״. *אוסף* (collection) הוא קבוצת צלילים, בדרך כלל חמישה או יותר. דמיינו אותו כמקור שממנו המלחין יכול לשאוב חומר מוזיקלי — מעין ״מרק״ שבו מחלקות גובה הצליל צפות בחופשיות. אוספים כשלעצמם אינם מניחים מרכז טונלי. אולם ביצירה המלחין עשוי לבסס מרכז כזה באמצעות העדפת צליל אחד באוסף, שאז נכנה אותו *סולם* (scale).
 
-## Diatonic Collection (modes)
+## האוסף הדיאטוני — מודוסים {#diatonic-collection-modes}
 
-The *diatonic collection* is any transposition of the 7 white keys on the piano. Refer to these collections by the number of sharps and flats they contain: the “0-sharp” collection, the “1-sharp” collection, and so on. The “2-flat” collection, for example, contains the pitch classes {F, G, A, B-flat, C, D, E-flat}.
+*האוסף הדיאטוני* (diatonic collection) הוא כל טרנספוזיציה של שבעת הקלידים הלבנים בפסנתר. מכנים אוספים אלה לפי מספר הדיאזים והבמולים שבהם: אוסף ״ללא דיאזים״, אוסף ״דיאז אחד״ וכן הלאה. למשל, אוסף ״שני במולים״ מכיל את מחלקות גובה הצליל <bdi dir="ltr">{F, G, A, B♭, C, D, E♭}</bdi>.
 
-When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. (Note that while these modes share their names with the modes of the Medieval Christian church, they function quite differently. The similarity is principally one of name.) 
+כאשר אוספים אלה מקבלים צליל טוניקה, הם נעשים סולמות, שעל פי המסורת נקראים לפי מערכת ה״מודוסים״ שנקבעה לפני מאות שנים. שימו לב: אף שמודוסים אלה חולקים שמות עם מודוסי הכנסייה הנוצרית בימי הביניים, הם מתפקדים אחרת למדי. הדמיון הוא בעיקר בשם.
 
-One way to look at these "modes" is to think of the seven white keys of the piano {C, D, E, F, A, B}. These notes, when starting on different pitches, create the different modal scales. By taking each note of the seven-white-key collection, and treating it as as the tonic, all seven modal scales can be played.  Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic:
+דרך אחת להתבונן במודוסים היא לחשוב על שבעת הקלידים הלבנים: <bdi dir="ltr">{C, D, E, F, G, A, B}</bdi>. כאשר מתחילים בכל פעם בצליל אחר, הם יוצרים את הסולמות המודאליים השונים. בהתייחסות לכל אחד משבעת הצלילים כטוניקה אפשר לנגן את כל שבעת המודוסים. ביוני C הוא הטוניקה, בדורי D, בפריגי E, בלידי F, במיקסולידי G, באאולי A ובלוקרי B:
 
-Ionian mode (major scale): *do re mi fa sol la ti do*
+> **הערת מהדורה:** G חסר ברשימת ״שבעת הקלידים״ במקור, אף שהוא נזכר מיד אחריה כטוניקה של המיקסולידי. הושלם ברשימה ותועד ב־N110.
 
-<img src="Graphics/postTonal/modes/ionian.png" alt="Ionian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס היוני (Ionian), סולם מז׳ורי: <bdi dir="ltr">*do re mi fa sol la ti do*</bdi>.
 
-Dorian mode: *do re me fa sol la te do*
+<img src="Graphics/postTonal/modes/ionian.png" alt="המודוס היוני בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-<img src="Graphics/postTonal/modes/dorian.png" alt="Dorian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס הדורי (Dorian): <bdi dir="ltr">*do re me fa sol la te do*</bdi>.
 
-Phrygian mode: *do ra me fa sol le te do*
+<img src="Graphics/postTonal/modes/dorian.png" alt="המודוס הדורי בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-<img src="Graphics/postTonal/modes/phrygian.png" alt="Phrygian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס הפריגי (Phrygian): <bdi dir="ltr">*do ra me fa sol le te do*</bdi>.
 
-Lydian mode: *do re mi fi sol la ti do*
+<img src="Graphics/postTonal/modes/phrygian.png" alt="המודוס הפריגי בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-<img src="Graphics/postTonal/modes/lydian.png" alt="Lydian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס הלידי (Lydian): <bdi dir="ltr">*do re mi fi sol la ti do*</bdi>.
 
-Mixolydian mode: *do re mi fa sol la te do*
+<img src="Graphics/postTonal/modes/lydian.png" alt="המודוס הלידי בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-<img src="Graphics/postTonal/modes/mixolydian.png" alt="Mixolydian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס המיקסולידי (Mixolydian): <bdi dir="ltr">*do re mi fa sol la te do*</bdi>.
 
-Aeolian mode (natural-minor scale): *do re me fa sol le te do*
+<img src="Graphics/postTonal/modes/mixolydian.png" alt="המודוס המיקסולידי בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-<img src="Graphics/postTonal/modes/aeolian.png" alt="Aeolian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס האאולי (Aeolian), סולם מינורי טבעי: <bdi dir="ltr">*do re me fa sol le te do*</bdi>.
 
-Locrian mode (uncommon outside jazz): *do ra me fa se le te do*
+<img src="Graphics/postTonal/modes/aeolian.png" alt="המודוס האאולי בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-<img src="Graphics/postTonal/modes/locrian.png" alt="Locrian mode on the treble staff." style="width:75%; margin:auto;" />
+המודוס הלוקרי (Locrian), שאינו שכיח מחוץ לג׳אז: <bdi dir="ltr">*do ra me fa se le te do*</bdi>.
 
-Like the major and minor scales, these intervallic relationships can be transposed to any tonic pitch.
+<img src="Graphics/postTonal/modes/locrian.png" alt="המודוס הלוקרי בחמשה במפתח סול" style="width:75%; margin:auto;" />
 
-## Pentatonic Collection
+כמו בסולמות מז׳וריים ומינוריים, אפשר להעתיק יחסים מרווחיים אלה לכל גובה צליל של טוניקה.
 
-*Pentatonic collections* are five-note *subsets* of the diatonic collection. Here’s a quick way to create a pentatonic collection: (1) List the notes of a major scale. (2) Remove scale degress 4 and 7. (E.g., the pentatonic collection {C,D,E,G,A} corresponds to scale degrees 1,2,3,5,6 of the C major scale.)
+## האוסף הפנטטוני {#pentatonic-collection}
 
-<img src="Graphics/postTonal/pentatonicWhite.png" alt="White-key pentatonic scale on the treble staff." style="width:50%; margin:auto;" />
+*אוספים פנטטוניים* (pentatonic collections) הם תת־קבוצות בנות חמישה צלילים של האוסף הדיאטוני. דרך מהירה ליצור אוסף כזה: (1) רשמו את צלילי סולם מז׳ורי; (2) הסירו את דרגות 4 ו־7. למשל, האוסף <bdi dir="ltr">{C,D,E,G,A}</bdi> מתאים לדרגות <bdi dir="ltr">1,2,3,5,6</bdi> בסולם C מז׳ור.
 
-Removing scale degrees 4 and 7 results in a collection with no half steps. As a result of its "halfsteplessness", any member of the collection easily functions as a tonal center. For example, given the 0-sharp pentatonic collection, there are five unique scales formed when each of the collection's pitch classes become a tonic: C pentatonic (C,D,E,G,A), D pentatonic (D,E,G,A,C), E pentatonic (E,G,A,C,D), and so on.
+<img src="Graphics/postTonal/pentatonicWhite.png" alt="סולם פנטטוני בקלידים הלבנים בחמשה במפתח סול" style="width:50%; margin:auto;" />
 
-The black keys on the piano also form a pentatonic collection:
+הסרת דרגות 4 ו־7 יוצרת אוסף ללא חצאי טונים. בשל היעדר חצאי הטונים, כל איבר באוסף יכול לתפקד בקלות כמרכז טונלי. למשל, באוסף הפנטטוני ללא דיאזים אפשר ליצור חמישה סולמות שונים, כשכל מחלקת גובה צליל בתורה נעשית טוניקה: C פנטטוני <bdi dir="ltr">(C,D,E,G,A)</bdi>, D פנטטוני <bdi dir="ltr">(D,E,G,A,C)</bdi>, E פנטטוני <bdi dir="ltr">(E,G,A,C,D)</bdi>, וכן הלאה.
 
-<img src="Graphics/postTonal/pentatonicBlack.png" alt="Black-key pentatonic scale on the treble staff." style="width:50%; margin:auto;" />
+גם הקלידים השחורים בפסנתר יוצרים אוסף פנטטוני:
 
+<img src="Graphics/postTonal/pentatonicBlack.png" alt="סולם פנטטוני בקלידים השחורים בחמשה במפתח סול" style="width:50%; margin:auto;" />
 
-## Whole Tone Collection
+## אוסף טונים שלמים {#whole-tone-collection}
 
-This is a group of notes generated entirely by whole tones: {0,2,4,6,8,10}, for example.
+זהו אוסף הנוצר כולו מטונים שלמים, למשל <bdi dir="ltr">{0,2,4,6,8,10}</bdi>.
 
-<img src="Graphics/postTonal/wholeTone.png" alt="C whole-tone scale on the treble staff." style="width:60%; margin:auto;" />
+<img src="Graphics/postTonal/wholeTone.png" alt="סולם טונים שלמים על C בחמשה במפתח סול" style="width:60%; margin:auto;" />
 
-There are only two unique *whole-tone* collections. WT0 contains pitch classes {0,2,4,6,8,10}, while WT1 contains pitch classes {1,3,5,7,9,11}. In other words, WT0 contains the pitch classes {C, D, E, F-sharp, G-sharp, B-flat}, while WT1 contains pitch classes {C-sharp, D-sharp, F, G, A, B}.
+יש רק שני אוספים שונים של *טונים שלמים* (whole-tone collections). WT0 מכיל <bdi dir="ltr">{0,2,4,6,8,10}</bdi>, ו־WT1 מכיל <bdi dir="ltr">{1,3,5,7,9,11}</bdi>. במילים אחרות, WT0 מכיל <bdi dir="ltr">{C, D, E, F♯, G♯, B♭}</bdi>, ו־WT1 מכיל <bdi dir="ltr">{C♯, D♯, F, G, A, B}</bdi>.
 
-## Octatonic Collection
+## האוסף האוקטטוני {#octatonic-collection}
 
-Called octatonic because it has eight pitch classes, the *octatonic collection* is full of compositional potential and has been used by many composers to a variety of ends. An octatonic collection is easily generated by alternating half steps and whole steps. Using pitch class numbers, one example is {0,1,3,4,6,7,9,10}.
+*האוסף האוקטטוני* (octatonic collection), הנקרא כך משום שיש בו שמונה מחלקות גובה צליל, מלא אפשרויות הלחנה ושימש מלחינים רבים למטרות שונות. קל ליצור אותו באמצעות חילופים בין חצי טון לטון שלם. במספרי מחלקות גובה צליל, דוגמה אחת היא <bdi dir="ltr">{0,1,3,4,6,7,9,10}</bdi>.
 
-<img src="Graphics/postTonal/octatonic.png" alt="C half-whole octatonic scale on the treble staff." style="width:75%; margin:auto;" />
+<img src="Graphics/postTonal/octatonic.png" alt="סולם אוקטטוני על C בחילופי חצי טון וטון שלם, במפתח סול" style="width:75%; margin:auto;" />
 
-The interval content of this collection is very homogenous, and this intervallic consistency leads to one of its most interesting properties. When we transpose the above collection by 3—adding 3 to each of the integers in the collection—{0,1,3,4,6,7,9,10} becomes {3,4,6,7,9,10,0,1}. Comparing the two shows that these collections are exactly the same! In fact, you would come up with the same collection if you transposed it by 6 or 9 as well. 
+התוכן המרווחי של אוסף זה אחיד מאוד, ואחידות זו מוליכה לאחת מתכונותיו המעניינות ביותר. אם מעתיקים אותו ב־3, כלומר מוסיפים 3 לכל מספר במודולו 12, <bdi dir="ltr">{0,1,3,4,6,7,9,10}</bdi> נעשה <bdi dir="ltr">{3,4,6,7,9,10,0,1}</bdi>. השוואה מראה שאלה בדיוק אותם אוספים! למעשה, גם טרנספוזיציה ב־6 או ב־9 נותנת אותו אוסף.
 
-Olivier Messiaen called such collections “modes of limited transposition." (The whole-tone scale is also a mode of limited transposition.) And as a result of the property, there are only three unique octatonic collections. We name these arbitrarily as OCT(0,1), OCT(1,2), and OCT(2,3). The numbers to the right of “OCT” are pitch classes within that scale. (E.g., the {0,1,3,4,6,7,9,10} collection I discussed above is OCT(1,2).) We can also call them C–C&#9839; octatonic, C&#9839;–D octatonic, and D–E&#9837; octatonic.
+אוליבייה מסיאן כינה אוספים כאלה ״מודוסים בעלי טרנספוזיציה מוגבלת״ (modes of limited transposition). גם סולם הטונים השלמים הוא מודוס כזה. בשל תכונה זו יש רק שלושה אוספים אוקטטוניים שונים. אנו מכנים אותם באופן שרירותי <bdi dir="ltr">OCT(0,1), OCT(1,2), OCT(2,3)</bdi>. המספרים שאחרי OCT הם מחלקות גובה צליל בתוך הסולם. המקור מכנה את האוסף <bdi dir="ltr">{0,1,3,4,6,7,9,10}</bdi> שנדון לעיל <bdi dir="ltr">OCT(1,2)</bdi>. אפשר גם לכנות את שלושת האוספים אוקטטוני C–C♯, אוקטטוני C♯–D ואוקטטוני D–E♭.
 
-## Other Collections and Scales
+> **הערת מהדורה:** האוסף בדוגמה אינו כולל את המחלקה 2, ולכן הכינוי OCT(1,2) אינו מתאים לכלל השיום שבפסקה עצמה. הסתירה נשמרה כטענת המקור והועברה לבירור בסוף התרגום, N110; אין להשתמש בכינוי זה בלי ההסתייגות.
 
-There are many, many other collections and scales used by composers and musicians in the twentieth- and twenty-first centuries. Messiaen, for example, described five more [modes of limited transposition](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), and there are other smaller collections that have the same property. [Acoustic scales](http://en.wikipedia.org/wiki/Acoustic_scale), formed from the first seven unique partials of the overtone series, are common in the music of Debussy, Bartok, and Crumb — ocassionally as a representation of nature. Jazz musicians have an entire set of scales used for improvisation. Non-Western musics often have unique systems of scales and collections, such as the rāgas used in Indian classical music.
+## אוספים וסולמות אחרים {#other-collections-and-scales}
 
-More generally, any large set of pitch classes that form the basis for a passage may function as a collection, even if it has no familiar name. Most often, music theorists refer to these collections with pitch-class set notation.
+מלחינים ומוזיקאים במאות העשרים והעשרים ואחת משתמשים באוספים ובסולמות רבים נוספים. מסיאן, למשל, תיאר עוד חמישה [מודוסים בעלי טרנספוזיציה מוגבלת](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), ויש אוספים קטנים נוספים בעלי אותה תכונה. [סולמות אקוסטיים](http://en.wikipedia.org/wiki/Acoustic_scale), הנוצרים משבעת הצלילים השונים הראשונים בסדרת הצלילים העיליים, שכיחים במוזיקה של דביסי, ברטוק וקראמב, לפעמים כייצוג של הטבע. למוזיקאי ג׳אז מערכת שלמה של סולמות לאלתור. במוזיקות לא מערביות יש לעיתים קרובות מערכות ייחודיות של סולמות ואוספים, כגון הראגות (rāgas) במוזיקה הקלאסית ההודית.
+
+באופן כללי יותר, כל קבוצה גדולה של מחלקות גובה צליל המהווה בסיס לקטע יכולה לתפקד כאוסף, גם אם אין לה שם מוכר. לרוב תאורטיקנים מציינים אוספים כאלה באמצעות סימון של קבוצות מחלקות גובה צליל.
 
 <hr/>
 
-*This resource was created by Brian Moseley and contains contributions from Meredith Cahill, Elise Campbell, and Kris Shaffer.*
+*חומר עזר זה נכתב בידי Brian Moseley וכולל תרומות מאת Meredith Cahill, Elise Campbell ו־Kris Shaffer.*

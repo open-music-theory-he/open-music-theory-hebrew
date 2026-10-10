@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Five-Part Rondo Form
+title: צורת רונדו בת חמישה חלקים
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-A five-part rondo contains three refrains separated by two episodes: ABACA. (We will occasionally use these short-hand letter designations (A, B, and so on) to label rondos, but get in the habit of labeling the sections as "Refrain 1," "Refrain 2," "Episode 1," etc., to avoid ambiguity with lower-level, embedded forms.)
+רונדו בן חמישה חלקים מכיל שלוש חטיבות חוזרות (refrains), שביניהן שתי אפיזודות (episodes): <bdi dir="ltr">ABACA</bdi>. לעיתים נשתמש באותיות הקיצור האלה, A, B וכן הלאה, לסימון רונדו; אך התרגלו לסמן את החטיבות כ״חטיבה חוזרת 1״, ״חטיבה חוזרת 2״, ״אפיזודה 1״ וכדומה, כדי למנוע דו־משמעות עם צורות המוטמעות בתוך החטיבות ברמה נמוכה יותר.
 
-The episodes of a five-part rondo are interior themes or second-theme complexes. It is more common to find a second-theme complex in Episode 1 than it is to find one in Episode 2. Often, the returns of the refrain are ornamented or abridged.
+האפיזודות ברונדו בן חמישה חלקים הן נושאים פנימיים (interior themes) או מכלולי נושא שני (second-theme complexes). מכלול נושא שני שכיח באפיזודה 1 יותר מאשר באפיזודה 2. לעיתים קרובות החזרות של החטיבה החוזרת מעוטרות או מקוצרות.
 
-The older *rondeau*, from which this formal type derives, could feature many more refrains and episodes. Occasionally, therefore, you will find a seven-, or even nine-part rondo in the classical style.
+צורת ה־*rondeau* הישנה יותר, שממנה נגזר טיפוס צורני זה, יכלה לכלול הרבה יותר חטיבות חוזרות ואפיזודות. לכן לעיתים תמצאו בסגנון הקלאסי רונדו בן שבעה חלקים, ואפילו בן תשעה חלקים.

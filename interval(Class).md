@@ -1,52 +1,55 @@
 ---
 layout: post
-title: Interval (class)
+title: מרווח ומחלקת מרווח
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-Because intervals are dependent upon the pitches that create them, the consonance and dissonance of intervals in tonal music is determined by tonality itself. Imagine the interval create by G and B-flat, a minor third. In the context of G minor, this is a consonant interval. Respelled as G and A-sharp, it creates a dissonant augmented second. From a tonal perspective, the two intervals are different even though they are the same in isolation.
+מכיוון שמרווחים תלויים בגבהי הצליל המרכיבים אותם, הקונסוננס והדיסוננס של מרווחים במוזיקה טונלית נקבעים בידי הטונליות עצמה. דמיינו את המרווח G–B♭, טרצה קטנה: בהקשר של G מינור זהו מרווח קונסוננטי. באיות G–A♯ נוצרת סקונדה מוגדלת דיסוננטית. מנקודת מבט טונלית שני המרווחים שונים, אף שבמנותק מן ההקשר הם זהים.
 
-## Pitch interval
+## מרווח בין גבהי צליל {#pitch-interval}
 
-When analyzing post-tonal music, we will often want to assert that similarity, especially when assumming the enharmonic equivalence of pitches. For us, the intervals G-B-flat and G-A-sharp *are* the same.
+בניתוח מוזיקה פוסט־טונלית נרצה לעיתים קרובות להדגיש את הדמיון הזה, במיוחד כאשר מניחים שקילות אנהרמונית של גבהי הצליל. לצורכינו, המרווחים G–B♭ ו־G–A♯ *הם* אותו מרווח.
 
-Pitch intervals are the distance between *pitches* as measured in half steps. Thus, the interval from G4 to A-sharp5 = +15. Think of it like this: if you are G4, how many half steps do you need to move to get to A-sharp5? You’d need to move up 15.
+*מרווח בין גבהי צליל* (pitch interval) הוא המרחק בין גבהי צליל, הנמדד בחצאי טונים. לפיכך המרווח מ־G4 ל־A♯5 הוא <bdi dir="ltr">+15</bdi>. חשבו כך: אם אתם ב־G4, כמה חצאי טונים צריך לעבור כדי להגיע ל־A♯5? צריך לעלות 15 חצאי טונים.
 
-## Pitch-class intervals
+## מרווחים בין מחלקות גובה צליל {#pitch-class-intervals}
 
-Pitch-class intervals are the distance between *pitch classes* as measured in semitones. Returning to our G4-A-sharp5 interval, we are now interested just in the pitch classes G and A-sharp. To go from G to A-sharp in pitch-class terms, we just have to move up 3.
+*מרווחים בין מחלקות גובה צליל* (pitch-class intervals) הם המרחק בין מחלקות גובה צליל, הנמדד בחצאי טונים. נחזור למרווח G4–A♯5: כעת מעניינות אותנו רק המחלקות G ו־A♯. כדי לעבור מ־G ל־A♯ במונחי מחלקות גובה צליל, די לעלות 3 חצאי טונים.
 
-## Ordered intervals
+## מרווחים מסודרים {#ordered-intervals}
 
-These intervals can be calculated with respect to their *order* (G4 to A-sharp5 is not the same as A-sharp5 to G4) or without worrying about order (G4 to A-sharp5 is the same as A-sharp5 to G4).
+אפשר לחשב מרווחים אלה תוך התחשבות ב*סדר* הצלילים — G4 ל־A♯5 אינו זהה ל־A♯5 ל־G4 — או בלי להתחשב בסדר, ואז G4 ל־A♯5 זהה ל־A♯5 ל־G4.
 
-**Ordered Pitch Interval**
+**מרווח מסודר בין גבהי צליל (ordered pitch interval)**
 
-[![]({{ site.url }}/Graphics/postTonal/Ordered-Pitch-Interval.jpg)]({{ site.url }}/Graphics/postTonal/Ordered-Pitch-Interval.jpg)
+[![תרשים מרווחים מסודרים בין גבהי צליל, עם כיוון התנועה]({{ site.url }}/Graphics/postTonal/Ordered-Pitch-Interval.jpg)]({{ site.url }}/Graphics/postTonal/Ordered-Pitch-Interval.jpg)
 
-Ordered pitch intervals should always have a “+” or “-” sign appended to them, representing the direction we have to travel. The ordered pitch interval from G4 to B-flat5 is +15, but the ordered pitch interval from A-sharp5 to G4 is -15. 
+למרווח מסודר בין גבהי צליל יש לצרף תמיד סימן ״+״ או ״−״, המציין את כיוון התנועה. המרווח המסודר מ־G4 ל־B♭5 הוא <bdi dir="ltr">+15</bdi>, אך מ־A♯5 ל־G4 הוא <bdi dir="ltr">-15</bdi>.
 
-**Ordered Pitch-Class Interval**
+**מרווח מסודר בין מחלקות גובה צליל (ordered pitch-class interval)**
 
-[![]({{ site.url }}/Graphics/postTonal/Pitch-Class-Interval.jpg)]({{ site.url }}/Graphics/postTonal/Pitch-Class-Interval.jpg)
+[![מרווח בין מחלקות גובה צליל הנמדד בכיוון השעון]({{ site.url }}/Graphics/postTonal/Pitch-Class-Interval.jpg)]({{ site.url }}/Graphics/postTonal/Pitch-Class-Interval.jpg)
 
-Ordered pitch-class intervals are measured going around the “clock” in clockwise fashion. Thus, from G to A-sharp = 3, and from A-sharp to G = 9.
+מרווחים מסודרים בין מחלקות גובה צליל נמדדים סביב ה״שעון״ בכיוון השעון. לפיכך מ־G ל־A♯ המרווח הוא 3, ומ־A♯ ל־G הוא 9.
 
-## Unordered intervals
+## מרווחים בלתי מסודרים {#unordered-intervals}
 
-Unordered intervals represent the *shortest distance* between two pitches or pitch classes, without any reference to the order they are in. To determine the unordered interval, simply find the shortest distance between two pitches. 
+מרווחים בלתי מסודרים (unordered intervals) מייצגים את *המרחק הקצר ביותר* בין שני גבהי צליל או שתי מחלקות גובה צליל, ללא התייחסות לסדרם. לקביעת המרווח הבלתי מסודר, מצאו פשוט את המרחק הקצר ביותר בין שני גבהי הצליל.
 
-**Unordered Pitch Interval**
+**מרווח בלתי מסודר בין גבהי צליל**
 
-[![]({{ site.url }}/Graphics/postTonal/Unordered-Pitch-Interval.jpg)]({{ site.url }}/Graphics/postTonal/Unordered-Pitch-Interval.jpg)
+[![תרשים מרווח בלתי מסודר בין גבהי צליל]({{ site.url }}/Graphics/postTonal/Unordered-Pitch-Interval.jpg)]({{ site.url }}/Graphics/postTonal/Unordered-Pitch-Interval.jpg)
 
-The unordered pitch interval from G4 to A-sharp5 is 15. 
+המרווח הבלתי מסודר מ־G4 ל־A♯5 הוא 15.
 
-**Unordered Pitch-Class Interval (Interval Class)**
+**מרווח בלתי מסודר בין מחלקות גובה צליל — מחלקת מרווח (interval class)**
 
-[![]({{ site.url }}/Graphics/postTonal/unorderedPitchClassInt.jpg)]({{ site.url }}/Graphics/postTonal/unorderedPitchClassInt.jpg)
+[![תרשים מחלקת מרווח כמרחק הקצר על מעגל מחלקות גובה הצליל]({{ site.url }}/Graphics/postTonal/unorderedPitchClassInt.jpg)]({{ site.url }}/Graphics/postTonal/unorderedPitchClassInt.jpg)
 
-The unordered pitch-class interval from G to A-sharp is 3.
+המרווח הבלתי מסודר מ־G ל־A♯ הוא 3.
 
-## Summary
+## סיכום {#summary}
 
-Using various combinations of pitch interval, pitch-class interval, ordered, and unordered, we arrive at four different conceptions of interval. To wrap your mind around each of these and begin to understand their various analytical uses, think of them on a sliding scale of most concrete — the ordered pitch interval — to most abstract — the unordered pitch-class interval.
+שילובים שונים של מרווח בין גבהי צליל, מרווח בין מחלקות גובה צליל, מסודר ובלתי מסודר, יוצרים ארבע תפיסות שונות של מרווח. כדי להבין אותן ואת שימושיהן בניתוח, חשבו עליהן כרצף מן המוחשי ביותר — המרווח המסודר בין גבהי צליל — אל המופשט ביותר: המרווח הבלתי מסודר בין מחלקות גובה צליל.

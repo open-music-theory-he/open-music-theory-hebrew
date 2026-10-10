@@ -1,34 +1,35 @@
 ---
 layout: post
-title: Modulo Arithmetic
+title: חשבון מודולרי
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-What time is four hours later than 10 o'clock?
+מה השעה ארבע שעות אחרי השעה עשר?
 
-When we make calculations like this, we are doing *modular arithmetic*. Modular arithmetic is like regular arithmetic, except that the numbers “wrap around” or restart when they reach a certain value, called the *modulus*. In the case of our 12-hour clock, the modulus is 12.
+כשאנו מחשבים חישוב כזה, אנו משתמשים ב*חשבון מודולרי* (modular arithmetic). הוא דומה לחשבון רגיל, אך המספרים ״מסתובבים וחוזרים״ או מתחילים מחדש בהגיעם לערך מסוים, המכונה *מודולוס* (modulus). בשעון בן 12 שעות המודולוס הוא 12.
 
-Musical structures can often be best understood using this modular arithmetic. Think of the C-major scale. We begin on C, then D, E, F, G *and back to A* before B and returning to C. This is a modular system — we might call it *modulo-G* because after G we go back to the beginning (A).
+לעיתים קרובות אפשר להבין מבנים מוזיקליים בצורה הטובה ביותר באמצעות חשבון מודולרי. חשבו על סולם C מז׳ור: מתחילים ב־C, ואז D, E, F, G, *וחוזרים ל־A*, לפני B והחזרה ל־C. זו מערכת מחזורית שאפשר לכנות באופן ציורי ״מודולו־G״, שכן אחרי G חוזרים לתחילת האלפבית, A.
 
-In post-tonal music, once we assume octave and enharmonic equivalence, our pitch-class environment includes twelve unique pitch classes, just like the twelve hours on the clock. In this universe, modular arithmetic is a very useful way to imagine getting around.
+במוזיקה פוסט־טונלית, לאחר הנחת שקילות אוקטבית ואנהרמונית, הסביבה שלנו כוללת 12 מחלקות גובה צליל שונות, כמו 12 השעות בשעון. במרחב זה חשבון מודולרי הוא דרך מועילה מאוד לדמיין את המעבר בין המחלקות.
 
-Counting in this *modulo 12* (or *mod12*) universe works just as in basic math ["1, 2, 3, ..."], but after 11, we “begin again” at 0. (Note that while clocks start at 1 and end on 12, modular arithmetic always (re)starts with zero.) Conversely, when counting down ["10, 9, 8, ..."], we follow 0 with 11. 
+הספירה בעולם של *מודולו 12* (modulo 12, או mod12) פועלת כמו בחשבון בסיסי — ״1, 2, 3, ...״ — אך אחרי 11 מתחילים מחדש ב־0. שימו לב: שעונים מתחילים ב־1 ומסתיימים ב־12, ואילו חשבון מודולרי מתחיל מחדש תמיד באפס. בכיוון ההפוך, בספירה יורדת ״10, 9, 8, ...״, אחרי 0 מגיע 11.
 
-While we are used to thinking of numbers on an infinite line, modular thinking wraps them into a finite number, generally represented by a circle. On this circle, all values are a number from 0 to 11.
+אף שאנו רגילים לדמיין מספרים על ישר אינסופי, החשיבה המודולרית מקפלת אותם למספר סופי של ערכים, המיוצג בדרך כלל במעגל. במעגל זה כל ערך הוא מספר בין 0 ל־11.
 
-**Pitch-Class Space**
+**מרחב מחלקות גובה הצליל**
 
-[![]({{ site.url }}/Graphics/postTonal/Pitch-class-Space.jpg)]({{ site.url }}/Graphics/postTonal/Pitch-class-Space.jpg)
+[![מעגל 12 מחלקות גובה הצליל לחשבון מודולו 12]({{ site.url }}/Graphics/postTonal/Pitch-class-Space.jpg)]({{ site.url }}/Graphics/postTonal/Pitch-class-Space.jpg)
 
-## Addition and Subtraction
+## חיבור וחיסור {#addition-and-subtraction}
 
-To add or subtract in mod12, perform the calculation in the usual manner (7 + 15 = 22) and then add or subtract 12s until you get a number from 0 to 11 (22 - 12 = 10).
+לחיבור או לחיסור ב־mod12, בצעו את החישוב כרגיל, למשל <bdi dir="ltr">7 + 15 = 22</bdi>, ואז הוסיפו או החסירו כפולות של 12 עד שתגיעו למספר בין 0 ל־11: <bdi dir="ltr">22 - 12 = 10</bdi>.
 
-Adding and subtracting can represent many musical ideas: moving seven half steps above D takes you to A (2 + 7 = 9); combining 2 half steps and 11 half steps produces 1 half step (2 + 11 = 1; or starting with C, moving up 2 half steps reaches D, and 11 more C-sharp — 1 higher than the original C).
+חיבור וחיסור יכולים לייצג רעיונות מוזיקליים רבים: עלייה של שבעה חצאי טונים מ־D מביאה ל־A, כלומר <bdi dir="ltr">2 + 7 = 9</bdi>; צירוף שני חצאי טונים ו־11 חצאי טונים נותן חצי טון אחד במודולו 12, <bdi dir="ltr">2 + 11 = 1</bdi>. כלומר, מתחילים ב־C, עולים שני חצאי טונים ל־D, ועוד 11 ל־C♯ — חצי טון אחד מעל C המקורי מבחינת מחלקת גובה הצליל.
 
-Modular arithmetic is a quick way to calculate various intervals between pitches or pitch classess. Some examples:
+חשבון מודולרי הוא דרך מהירה לחשב מרווחים שונים בין גבהי צליל או מחלקות גובה צליל. דוגמאות:
 
-What is the interval class from pitch class 7 (G) to pitch class 10 (B-flat)? 10 - 7 = 3
-What is the pitch class 5 semitones above B-natural (11)? 11 + 5 = 4. That is, E.
+מהי מחלקת המרווח ממחלקה 7, G, למחלקה 10, B♭? <bdi dir="ltr">10 - 7 = 3</bdi>.
 
- 
-
+מהי מחלקת גובה הצליל הנמצאת חמישה חצאי טונים מעל B בקר, מחלקה 11? <bdi dir="ltr">11 + 5 = 4</bdi> במודולו 12, כלומר E.

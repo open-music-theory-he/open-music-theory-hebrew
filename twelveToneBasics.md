@@ -1,30 +1,34 @@
 ---
 layout: post
-title: Twelve-Tone Theory — Basics
+title: תאוריית שנים־עשר טונים — יסודות
+language: he
+translation_status: language-reviewed
+translation_batch: 14
 ---
 
-Twelve-tone music is most often associated with a compositional technique, or style, called *serialism*. The terms are not equivalent, however. *Serialism* is a broad designator referring to the *ordering* of things, whether they are pitches, durations, dynamics, and so on. Twelve-tone composition refers more specifically to music based on orderings of the *twelve pitch classes*. 
+מוזיקת שנים־עשר טונים (twelve-tone music) קשורה לרוב לטכניקת הלחנה או לסגנון המכונים *סריאליזם* (serialism). אולם המונחים אינם זהים. סריאליזם הוא שם רחב המתייחס ל*סידור* של דברים — גבהי צליל, משכים, עוצמות וכן הלאה. הלחנה בשנים־עשר טונים מתייחסת במפורש יותר למוזיקה המבוססת על סידורים של *12 מחלקות גובה הצליל*.
 
-This style of composition is most associated with a group of composers whose figurehead was Arnold Schoenberg and which also included the influential composers Anton Webern and Alban Berg. But twelve-tone compositional techniques and ideas associated with such techniques were very influential for many great composers, and serial and twelve-tone music is still being written today. Much of this music shares similar axioms, outlined below, but composers have used these basic ideas to cultivate entirely original approaches.
+סגנון זה מזוהה ביותר עם קבוצת מלחינים שארנולד שנברג היה הדמות המרכזית בה, ובה גם המלחינים המשפיעים אנטון וברן ואלבן ברג. אולם טכניקות ההלחנה בשנים־עשר טונים והרעיונות הקשורים בהן השפיעו מאוד על מלחינים חשובים רבים, ומוזיקה סריאלית ובשנים־עשר טונים נכתבת גם כיום. חלק גדול ממוזיקה זו חולק עקרונות בסיס דומים, המתוארים להלן, אך מלחינים השתמשו בהם לפיתוח גישות מקוריות לחלוטין.
 
-Twelve-tone music is based on _series_ (sometimes called a _row_) that contains all twelve pitch classes in a particular order. There is no one series used for all twelve-tone music; most composers write a unique row for each piece. (There 12!—that is, 12 factorial—twelve-tone series, which is equal to 479,001,600 unique row forms. Quite a lot of possibilities!) Here's an example, the row for Webern's Piano Variations, Op. 27:
+מוזיקת שנים־עשר טונים מבוססת על *סדרה* (series), המכונה גם *שורה* (row), המכילה את כל 12 מחלקות גובה הצליל בסדר מסוים. אין סדרה אחת לכל מוזיקת שנים־עשר הטונים; רוב המלחינים כותבים שורה ייחודית לכל יצירה. יש <bdi dir="ltr">12!</bdi> סדרות — 12 עצרת — כלומר <bdi dir="ltr">479,001,600</bdi> סידורים שונים. אפשרויות רבות מאוד! להלן השורה של *וריאציות לפסנתר*, אופ׳ 27, מאת וברן:
 
-[![]({{ site.url }}/Graphics/postTonal/basicRow.png)]({{ site.url }}/Graphics/form/basicRow.png)
+[![שורת שנים־עשר הטונים של וריאציות לפסנתר אופוס 27 מאת וברן]({{ site.url }}/Graphics/postTonal/basicRow.png)]({{ site.url }}/Graphics/postTonal/basicRow.png)
 
-There are some general rules for using a twelve-tone row, though as I said, individual approaches are always different:
+יש כמה כללים כלליים לשימוש בשורת שנים־עשר טונים, אף שכאמור הגישות האישיות שונות תמיד:
 
-	1. Pitch classes are played in order; 
-	2. Once a pitch class has been played, it isn't repeated until the next row. 
-	
-A twelve-tone row might be used as a theme or as a source for motives. Chords might be derived from the row, or the row may be used for both thematic and harmonic purposes. We call the basic ordering, shown above for Op. 27, the *prime form* (P). And because it begins on B (pitch class 11), we label it **P11**.
+1. מחלקות גובה הצליל מנוגנות לפי הסדר;
+2. לאחר שמחלקת גובה צליל נוגנה, אין חוזרים עליה עד לשורה הבאה.
 
-Rows can be transposed, inverted, retrograded, or any combination of those operations. Inverting the prime form results in an "I-form." Like P-forms I-forms are labeled by their first pitch-class. Hence, the row below, an inversion of the one above, is called **I0**. Note that it starts on C (0).
+שורה יכולה לשמש כנושא או כמקור למוטיבים. אפשר לגזור ממנה אקורדים, או להשתמש בה הן לצרכים נושאיים והן לצרכים הרמוניים. הסידור הבסיסי, המוצג לעיל לאופ׳ 27, מכונה *הצורה הראשונית של השורה* (prime form, P). מכיוון שהיא מתחילה ב־B, מחלקת גובה צליל 11, היא מסומנת **P11**.
 
+אפשר לבצע לשורות טרנספוזיציה, היפוך, הילוך לאחור (retrograde), או כל שילוב של פעולות אלה. היפוך הצורה הראשונית נותן ״צורת I״. כמו צורות P, צורות I מסומנות לפי מחלקת גובה הצליל הראשונה שלהן. לכן השורה להלן, היפוך של זו שלעיל, מכונה **I0**. שימו לב שהיא מתחילה ב־C, מחלקה 0.
 
-[![]({{ site.url }}/Graphics/postTonal/inversion.png)]({{ site.url }}/Graphics/form/inversion.png)
+[![הדוגמה שהמקור מצרף להסבר צורת I0]({{ site.url }}/Graphics/postTonal/inversion.png)]({{ site.url }}/Graphics/postTonal/inversion.png)
 
-Prime forms and inversion forms can be also be played backwards, also called retrograde. In the example below notice how this work in relation to the P11 and I0 rows from above. When a P-form is retograded, we call it a "R-form." When an I-form is retrograded, it's called an "RI-form." As the example shows, R- and RI-forms are labeled according to their _last pitch class_.
+> **הערת מהדורה:** קובץ inversion.png משמש במאגר גם לדוגמת דביסי בפרק ההיפוך. התאמתו להסבר שורת וברן כאן דורשת אימות חזותי נוסף; אין לראות בכיתוב אישור להתאמה. ראו N116.
 
-[![]({{ site.url }}/Graphics/postTonal/family.png)]({{ site.url }}/Graphics/form/family.png)
+אפשר לנגן צורות P ו־I גם לאחור. בדוגמה להלן שימו לב לקשר לשורות P11 ו־I0 שלעיל. צורת P המנוגנת לאחור מכונה ״צורת R״; צורת I המנוגנת לאחור מכונה ״צורת RI״. כפי שמראה הדוגמה, R ו־RI מסומנות לפי *מחלקת גובה הצליל האחרונה* שלהן.
 
-That graphic shows only four row forms, but each of those forms has twelve transpositions. Thus, a single row breeds a total of 48 rows: 12 *4.  That collection of rows is called a *row class*, and it is the *row class* that the composer draws from when writing his or her music. 
+[![משפחת צורות השורה: P, I, R ו־RI]({{ site.url }}/Graphics/postTonal/family.png)]({{ site.url }}/Graphics/postTonal/family.png)
+
+בתרשים ארבע צורות בלבד, אך לכל אחת 12 טרנספוזיציות. לכן שורה יחידה מולידה 48 שורות: <bdi dir="ltr">12 × 4</bdi>. אוסף זה מכונה *מחלקת שורה* (row class), וממנו המלחין שואב בכתיבת המוזיקה.

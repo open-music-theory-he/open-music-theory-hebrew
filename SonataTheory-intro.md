@@ -1,88 +1,94 @@
 ---
 layout: post
-title: Introduction to sonata theory
+title: מבוא לתאוריית הסונטה
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-A classical *sonata* is a multi-movement work for solo instrument, chamber ensemble, or orchestra with at least one movement in *sonata form*. Almost always, the first movement of a sonata is in sonata form. The last movement is typically an upbeat *finale*, which can be in a number of different forms. Inner movements (second movement of a three-movement sonata; second and third movements of a four-movement sonata) are typically slow movements and/or dance movements (minuets or scherzos). Any non-dance movement in a sonata can take sonata form, but rarely *all* of them at once. Commonly, only the first movement takes sonata form, or the first and one other movement. The other movements will take other standard forms, such as minuet/trio, theme-and-variations, rondo, or sonata-rondo. In this unit, we will focus on sonata forms, particularly as they are found in first movements of instrumental sonatas.
+*סונטה* קלאסית (sonata) היא יצירה מרובת פרקים לכלי סולו, להרכב קאמרי או לתזמורת, שלפחות אחד מפרקיה כתוב ב*צורת סונטה* (sonata form). כמעט תמיד הפרק הראשון של סונטה כתוב בצורת סונטה. הפרק האחרון הוא בדרך כלל *פינאלה* (finale) נמרץ, היכול להיכתב בכמה צורות שונות. הפרקים הפנימיים — הפרק השני בסונטה בת שלושה פרקים, או השני והשלישי בסונטה בת ארבעה פרקים — הם בדרך כלל פרקים איטיים ו/או פרקי מחול, כגון מינואט או סקרצו. כל פרק בסונטה שאינו פרק מחול עשוי להיכתב בצורת סונטה, אך רק לעיתים רחוקות *כולם* נכתבים בה באותה יצירה. בדרך כלל רק הפרק הראשון כתוב בצורת סונטה, או הפרק הראשון ועוד פרק אחד. הפרקים האחרים כתובים בצורות מקובלות אחרות, כגון מינואט וטריו, נושא ווריאציות, רונדו או סונטה־רונדו. ביחידה זו נתמקד בצורות סונטה, ובייחוד כפי שהן מופיעות בפרקים הראשונים של סונטות אינסטרומנטליות.
 
+# צורת סונטה {#sonata-form}
 
-# Sonata form #
+לצורת סונטה תכונות מבניות רבות המשותפות ל*צורה תלת־חלקית קטנה*, ובייחוד לגרסת ה*צורה הדו־חלקית המעוגלת*. כלומר, אפשר להבין את המוזיקה המרכזית של פרק סונטה כמימוש של תבנית גדולה בת שלושה חלקים, <bdi dir="ltr">ABA'</bdi>.
 
-Sonata form shares many structural properties with *small ternary* form (specifically the *rounded binary* variant). That is, the core music of a sonata movement can be understood as exhibiting a large, three-part pattern of ABA'.
+עם זאת, כמו בצורה תלת־חלקית קטנה, לפרק בצורת סונטה יש גם מבנה דו־חלקי: חטיבת A הראשונה היא ״המחצית״ הראשונה של הפרק, וחטיבות B ו־A' יחד הן ״המחצית״ השנייה. הדבר ניכר במיוחד בפרקי סונטה מוקדמים, שבהם חוזרים על כל אחד משני החלקים. זהו מבנה של *שני חלקים הנתונים לחזרה* (double-reprise), וברמה זו הוא נראה בדיוק כמו נושא בצורת דו־חלקית מעוגלת.
 
-However, like small ternary, a sonata-form movement also has a two-part structure, with the first A section forming the first "half" of the movement, and the B and A' sections working together to form the second "half." This is most obviously seen in early sonata movements, which repeat each of those two parts. This is called a *double-reprise* structure, and on this level looks exactly like a rounded-binary theme.
+<bdi dir="ltr">**||: A :||: B A' :||**</bdi><br>
+בביצוע נשמע:<br>
+<bdi dir="ltr">**AABA'BA'**</bdi>
 
-**||: A :||: B A' :||**  
-which sounds like  
-**AABA'BA'**
+בסונטות מאוחרות יותר מוותרים על החזרה על החלק השני וחוזרים רק על החלק הראשון.
 
-Later sonatas shed the repeat of the second reprise, only repeating the first reprise.
+<bdi dir="ltr">**||: A :|| B A' ||**</bdi><br>
+בביצוע נשמע:<br>
+<bdi dir="ltr">**AABA'**</bdi>
 
-**||: A :|| B A' ||**  
-which sounds like  
-**AABA'**
+בסונטות מאוחרות עוד יותר מוותרים לעיתים קרובות על שתי החזרות. כך ההיבט הדו־חלקי של המבנה בולט הרבה פחות מן ההיבט התלת־חלקי, אם בכלל אפשר לומר שהוא קיים.
 
-Still later sonatas often shed both sets of repeats, making the binary aspect of the structure much less obvious (if it even exists) than the ternary aspect of the structure.
+<bdi dir="ltr">**|| A || B A' ||**</bdi><br>
+בביצוע נשמע:<br>
+<bdi dir="ltr">**ABA'**</bdi>
 
-**|| A || B A' ||**  
-which sounds like  
-**ABA'**
+חטיבת A, או ה*יחידה* (module), ממלאת תפקיד של *תצוגה* (exposition), וחטיבת A' ממלאת תפקיד של *רפריזה* (recapitulation). אלה אותם שמות המשמשים בצורות תלת־חלקיות קטנות אחרות, כגון מינואט או הנושא בפרק נושא ווריאציות. חטיבת B ממלאת תפקיד של *פיתוח* (development), השונה מן ה*אמצע המנוגד* בצורות תלת־חלקיות קטנות אחרות. תפקידים אלה יוגדרו בקצרה בהמשך ויידונו בפירוט בחומרי עזר אחרים.
 
-The A section (or *module*) exhibits what we call *exposition* function, and the A' section exhibits *recapitulation* function. (These are the same names as other small ternary forms, like a minuet or the theme of a theme-and-variations movement.) The B section exhibits what we call *development* function. (This differs from the *contrasting middle* of other small ternary forms.) These functions will be briefly defined below and explored in greater detail in other resources.
+כמו במינואטים, מקובל ואפשר לכנות את חטיבת A ״התצוגה״, את B ״הפיתוח״ ואת A' ״הרפריזה״, כל עוד שומרים על ההבחנה המושגית בין יחידות צורניות — קטעי המוזיקה עצמם — לבין תפקידים צורניים: מה שהקטעים האלה *עושים* בהקשר של המבנה המוזיקלי הגדול יותר.
 
-As in minuets, it is common and acceptable to refer to the A section as "the exposition," the B section as "the development," and the A' section as "the recapitulation," as long as we retain the conceptual difference between formal modules (the passages of music) and formal functions (what those passages *do* in the context of the larger musical structure).
+# תפקידים צורניים בפרק סונטה {#formal-functions-in-a-sonata-movement}
 
-# Formal functions in a sonata movement #
+**תפקיד התצוגה** כולל שלושה מאפיינים חשובים:
 
-**Exposition function** involves three important features:
+- ביסוס הטונליות הראשית;
+- מעבר לטונליות משנית וביסוסה באמצעות קדנצה חזקה — קדנצה אותנטית מושלמת (PAC) — המכונה *סגירה מהותית של התצוגה* (essential expositional closure, EEC);
+- הצגת הנושאים המלודיים והמחזור הנושאי שיהיו הבסיס להמשך הפרק.
 
-- establish the home-key tonality;  
-- move to and establish a secondary key by means of a strong cadence (PAC), called the *essential expositional closure* (EEC); and  
-- lay out the melodic themes and thematic cycle that will form the foundation for the rest of the movement.
+אפשר לחשוב על כך כשאלה, או לפחות כאמירה שלא הושלמה: כל החומר המלודי העיקרי של הפרק מוצג, אך הוא מסתיים בטונליות ה״לא נכונה״.
 
-We can think about this as a question, or at least an incomplete statement: all the main melodic material of the movement is presented, but it ends in the "wrong" key.
+**תפקיד הפיתוח** מדגיש את העובדה ששאלה זו נשארת פתוחה: הוא עובר שוב באותן מלודיות ובאותו סדר, ובוחן את אי־היציבות של הטונליות המשנית. בחינה זו יכולה להיעשות בכל אחת מן הדרכים הבאות:
 
-**Development function** highlights the openness of this question by cycling through the same melodies in the same order, exploring the instability of the secondary key. This exploration can be accomplished by any of the following:
+- התחלה בטונליות המשנית, אך מודולציה לטונליות אחרת לפני השגת קדנצה;
+- שימוש במהלכים הרמוניים שאינם פונקציונליים, כגון סקוונצות הרמוניות;
+- מודולציות תכופות;
+- כמה יעדים טונליים שאינם הטונליות הראשית או המשנית.
 
-- beginning in the secondary key, but modulating to another key before achieving a cadence;  
-- employing non-functional harmonic progressions, such as harmonic sequences;  
-- frequent modulation; or  
-- multiple tonal goals other than the home key or secondary key.
+לאחר מכן הפיתוח מגביר את הצורך ב״תשובה״ באמצעות התקדמות אל *דומיננטה פעילה* בטונליות הראשית: חצי קדנצה (HC), או הגעה משמעותית ל־V או ל־V<sup>7</sup>.
 
-It then intensifies the need for an "answer" by progressing toward an *active dominant* (an HC or a major arrival on V or V<sup>7</sup>) in the home key. 
+אם תפקיד התצוגה מציג ״שאלה״ ותפקיד הפיתוח בוחן אותה ואז מעצים אותה, **תפקיד הרפריזה** עונה עליה. הוא עושה זאת באמצעות מעבר אחרון במחזור הנושאי, אך הפעם מביא אותו להשלמה מספקת: PAC בטונליות הראשית, המכונה *סגירה מהותית של הסונטה* (essential sonata closure, ESC).
 
-If exposition function presents a "question," and development function explores and then intensifies this question, **recapitulation function** answers the question. Recapitulation function does this by progressing one last time through the thematic cycle, but this time bringing it to a satisfactory completion: a PAC in the home key, called the *essential sonata closure* (ESC).
+# יעדים קדנציאליים {#cadential-goals}
 
-# Cadential goals #
+כפי שנרמז לעיל, צורת סונטה מעוגנת בכמה קדנצות חשובות. הן משמשות ציוני דרך במבנה הצורני וגם יעדים למוזיקה המובילה אליהן. נסמן קדנצות אלה באמצעות ספרה רומית המציינת את הטונליות ביחס לטונליות הראשית, ואחריה נקודתיים וסוג הקדנצה.
 
-As hinted at above, sonata form is anchored around several important cadences. They serve as signposts for the formal structure, as well as goals of the music leading into them. We will note these cadences using a Roman numeral for the key (relative to the home key) followed by a colon and the type of cadence. 
+כמו בצורה תלת־חלקית קטנה, התצוגה נוטה להסתיים ב־PAC ב*טונליות משנית*: <bdi dir="ltr">V:PAC</bdi> בפרק מז׳ורי, או <bdi dir="ltr">III:PAC</bdi> או <bdi dir="ltr">v:PAC</bdi> בפרק מינורי. אולם כאן הקדנצה אינה רק נורמה: היא *מהותית* לצורה. PAC זו מכונה *סגירה מהותית של התצוגה*, או EEC.
 
-As in small ternary form, the exposition tends to end with a PAC in a *secondary key* (V:PAC in a major-key movement, III:PAC or v:PAC in a minor-key movement). Rather than being simply a norm, though, this cadence is *essential* to the form. This PAC is called the *essential expositional closure*, or EEC.
+לרפריזה קדנצה מקבילה, המוכרת גם מן הצורה התלת־חלקית הקטנה: PAC בטונליות הראשית, הנוטה להקביל ל־EEC מבחינה נושאית. קדנצה זו, <bdi dir="ltr">I:PAC</bdi>, מכונה *סגירה מהותית של הסונטה*, או ESC.
 
-The recapitulation has a corresponding cadence, also familiar from small ternary form: a PAC in the home key, which tends to correspond thematically with the EEC. This I:PAC is called the *essential sonata closure*, or ESC.
+חטיבת הפיתוח, כמו האמצע המנוגד בצורה תלת־חלקית קטנה, מסתיימת בדרך כלל ב־HC בטונליות הראשית (<bdi dir="ltr">I:HC</bdi>), או ב*הגעה לדומיננטה* בטונליות הראשית המכינה את הגעת הרפריזה.
 
-The development section, like the contrasting middle in small ternary form, typically ends with a HC in the home key (I:HC) or a *dominant arrival* in the home key, which prepares the arrival of the recapitulation.
+<div dir="ltr">||: תצוגה <strong>V:PAC</strong> :||: פיתוח <strong>I:HC</strong> רפריזה <strong>I:PAC</strong> :||</div>
 
-||: exposition **V:PAC** :||: development **I:HC** recapitulation **I:PAC** :||
+או:
 
-or
+<div dir="ltr">||: תצוגה <strong>III:PAC</strong> :||: פיתוח <strong>I:HC</strong> רפריזה <strong>I:PAC</strong> :||</div>
 
-||: exposition **III:PAC** :||: development **I:HC** recapitulation **I:PAC** :||
+לעיתים קרובות יש בתצוגה וברפריזה יעד קדנציאלי נוסף, שאינו משותף לצורות אחרות הדומות לצורה תלת־חלקית קטנה. כל אחד מן היעדים האלה מופיע בין תחילת היחידה לבין היעד הקדנציאלי שלה — EEC או ESC — ולעיתים קרובות, אך לא תמיד, כרוכה בו הפסקה או עצירה של התנועה המלודית או ההרמונית. לכן כל אחת מקדנצות הביניים האלה מכונה *צזורה אמצעית* (medial caesura, MC). הן PAC והן HC, בטונליות הראשית או בטונליות משנית, יכולות לתפקד כצזורה אמצעית.
 
-Commonly, the exposition and recapitulation each have an additional cadential goal that is not shared with other small-ternary-like forms. These goals each occur between the beginning of the module and the cadential goal (EEC or ESC), and they often—though not always—involve a pause or stoppage of melodic or harmonic motion. Thus, each of these halfway cadences is called a *medial caesura* (MC). Both PACs and HCs, in the home key or in a secondary key, can function as medial caesurae.
+> **הערת מהדורה:** פסקה זו משמרת את הניסוח המקוצר של המבוא במקור. בפרק ״נקודות הגעה מבניות״ המחברים מבחינים במפורש בין הקדנצה לבין ה־MC הקשורה אליה; גם כאשר הן מתרחשות יחד, הן אינן מושגים זהים. ראו הערה N106 ביומן התרגום.
 
-# Defaults and deformations #
+# ברירות מחדל וחריגות {#defaults-and-deformations}
 
-Sonata form is not a single recipe for structuring a movement. It is a set of norms that are almost always violated, or at least altered, in some way in a composition. Thus, we can talk about individual pieces being "in dialog with" sonata norms. That is, they incorporate enough of the definitive elements to be considered "in sonata form," but they carry enough unique elements to cause some tension with the norms. Over time, some of the unique elements used by classical composers were adopted by others and became norms for a later generation. Thus, even the "typical" sonata movement is different at different times and places in history.
+צורת סונטה אינה מתכון יחיד לבניית פרק. היא מערכת נורמות שביצירה כמעט תמיד מפרים אותן, או לפחות משנים אותן בדרך כלשהי. לכן אפשר לדבר על יצירות מסוימות כמצויות ״בדיאלוג״ עם נורמות הסונטה: יש בהן די מן המרכיבים המגדירים כדי שייחשבו כתובות ״בצורת סונטה״, אך גם די מרכיבים ייחודיים כדי ליצור מתח מסוים עם הנורמות. עם הזמן אימצו מלחינים אחרים חלק מן המרכיבים הייחודיים שבהם השתמשו מלחינים קלאסיים, והם נעשו נורמות לדור מאוחר יותר. לכן גם פרק הסונטה ה״טיפוסי״ משתנה בין תקופות ומקומות בהיסטוריה.
 
-In general, though, for each element of sonata form, we can identify default properties of that element. Sometimes there are multiple possibilities that can be considered normative. For example, the most common cadence used for the MC of a classical sonata movement is V:HC. This is called the *first-level default*. The second most common MC cadence is a I:HC—the *second-level default*. Where multiple possibilities are normative, but one is more common or preferred over another, we use this language.
+ובכל זאת, בדרך כלל אפשר לזהות לכל מרכיב בצורת הסונטה מאפיינים של ברירת מחדל. לפעמים כמה אפשרויות נחשבות נורמטיביות. למשל, הקדנצה השכיחה ביותר המשמשת ל־MC בפרק סונטה קלאסי היא <bdi dir="ltr">V:HC</bdi>. זו *ברירת המחדל מן הרמה הראשונה* (first-level default). קדנצת ה־MC השנייה בשכיחותה היא <bdi dir="ltr">I:HC</bdi> — *ברירת המחדל מן הרמה השנייה* (second-level default). במקרים שבהם כמה אפשרויות הן נורמטיביות, אך אחת שכיחה או מועדפת יותר מן האחרת, אנו משתמשים במינוח זה.
 
-Non-default properties of a particular sonata movement are called *deformations*. For example, a II:IAC MC is not at all typical of classical sonatas. Thus, we would consider it a deformation. It does not mean that a II:IAC cannot function as an MC (though I can't think of an example). However, it means that a II:IAC is a purposeful move by the composer to contradict the norm. As such, any analysis should address this deformation and attempt to explain its musical and historical significance.
+מאפיינים בפרק סונטה מסוים שאינם ברירות מחדל מכונים *חריגות* (deformations). למשל, MC מסוג <bdi dir="ltr">II:IAC</bdi> כלל אינה טיפוסית לסונטות קלאסיות, ולכן נחשיב אותה לחריגה. אין פירוש הדבר ש־<bdi dir="ltr">II:IAC</bdi> אינה יכולה לתפקד כ־MC, אף שכותב המקור אינו יכול לחשוב על דוגמה. אולם פירוש הדבר הוא ש־<bdi dir="ltr">II:IAC</bdi> היא מהלך מכוון של המלחין הסותר את הנורמה. לפיכך על כל ניתוח לעסוק בחריגה זו ולנסות להסביר את משמעותה המוזיקלית וההיסטורית.
 
-# Auxiliary modules #
+# יחידות עזר {#auxiliary-modules}
 
-Often the exposition–development–recapitulation structure is framed by an *introduction* and/or a *coda*. Though important musical activity can take place in these modules, they are outside the sonata proper. The essential sonata elements, as well as the ones that are similar enough from piece to piece that we can generalize about them well, take place in the exposition, development, and recapitulation. Though we will address introduction and coda materials during in-class analyses, and you should address them in your own analyses, the properties of those modules are not covered by these online resources.
+לעיתים קרובות *מבוא* ו/או *קודה* ממסגרים את המבנה תצוגה–פיתוח–רפריזה. אף שפעילות מוזיקלית חשובה עשויה להתרחש ביחידות אלה, הן נמצאות מחוץ לסונטה במובנה המצומצם. המרכיבים המהותיים של הסונטה, וכן אלה הדומים די הצורך מיצירה ליצירה כדי שנוכל להכליל לגביהם היטב, מתקיימים בתצוגה, בפיתוח וברפריזה. אף שנעסוק בחומרי מבוא וקודה בניתוחים בכיתה, וגם עליכם לעסוק בהם בניתוחיכם, תכונותיהן של יחידות אלה אינן מכוסות בחומרי העזר המקוונים האלה.
 
-# Further details #
+> **הערת מהדורה:** המשפט האחרון נשמר מן המקור, אך במהדורת המקור הנמצאת במאגר יש גם פרק על יחידות מסגרת, מבוא וקודה, שכבר תורגם. אי־ההתאמה מתועדת בהערה N107.
 
-The remaining sonata resources on this website are largely in reference format. Rather than walk through the details in the manner of a typical textbook, they will provide you with the defining features of the elements described in as concise a manner possible. This consision will serve you well when referencing these resources quickly during analytical activities. However, it will also force you to wrestle with them in the context of real pieces in order to understand them fully. If you simply read these resources, you will not understand sonata form. You must make use of them while listening to and analyzing music in order to assimilate the information and develop the skills necessary to apply them musically.
+# פרטים נוספים {#further-details}
+
+יתר חומרי העזר על סונטה באתר זה ערוכים בעיקר כדפי עזר. במקום להסביר את הפרטים צעד־צעד כמו בספר לימוד טיפוסי, הם מציגים בתמציתיות רבה ככל האפשר את המאפיינים המגדירים של המרכיבים שתוארו. תמציתיות זו תועיל לכם כאשר תפנו במהירות לחומרי העזר בזמן ניתוח. עם זאת, היא גם תחייב אתכם להתמודד איתם בהקשר של יצירות ממשיות כדי להבין אותם היטב. אם רק תקראו את חומרי העזר, לא תבינו את צורת הסונטה. עליכם להשתמש בהם תוך האזנה למוזיקה וניתוחה, כדי להטמיע את המידע ולפתח את המיומנויות הדרושות ליישומו המוזיקלי.

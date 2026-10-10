@@ -1,31 +1,33 @@
 ---
 layout: post
-title: The blues progression
+title: "מהלך הבלוז"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-A *12-bar blues progression* is composed of three (typically) four-bar phrases. The first phrase is entirely tonic harmony (I). The second phrase contains two bars of subdominant (IV) and two bars of tonic (I). The final phrase begins with one bar of dominant (V) followed by one bar of subdominant (IV) and two bars of tonic (I). The third phrase may or may not end with a *turnaround*.
+*מהלך בלוז בן 12 תיבות* (12-bar blues) מורכב משלוש פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת. הראשונה מבוססת כולה על הרמוניית טוניקה (I). השנייה כוללת שתי תיבות של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). האחרונה מתחילה בתיבה אחת של דומיננטה (V), ואחריה תיבה של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). הפסוקית השלישית עשויה להסתיים ב*טֶרְנְאָרָאוּנְד* (turnaround), אך אינה חייבת.
 
 > I / / / | IV / I / | V IV I /
 
-Because the first phrase starts with I, the second with IV, and the last with V, we can call these phrases the *tonic*, *subdominant*, and *dominant* phrases.
+מאחר שהראשונה מתחילה ב־I, השנייה ב־IV והאחרונה ב־V, אפשר לכנותן פסוקיות *טוניקה*, *סובדומיננטה* ו*דומיננטה*.
 
-A *16-bar blues progression* is composed of four (typically) four-bar phrases, usually two iterations of tonic, followed by subdominant and dominant. The final phrase may or may not end with a *turnaround*.
+*מהלך בלוז בן 16 תיבות* מורכב מארבע פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת: לרוב שני מופעים של פסוקית הטוניקה, ואחריהם סובדומיננטה ודומיננטה. האחרונה עשויה להסתיים ב־turnaround, אך אינה חייבת.
 
 > I / / / | I / / / | IV / I / | V IV I /
 
-Of the two, 12-bar blues is more common. And though both can be found in modules of all types of functions, blues progressions are most typically found in strophes (both in strophic and in AABA song forms).
+מבין השניים, בלוז בן 12 תיבות נפוץ יותר. אף ששניהם מופיעים במודולים בעלי כל סוגי הפונקציות, מהלכי בלוז נמצאים לרוב בסטרופות, הן בצורה סטרופית והן בצורת AABA.
 
-Frequently, songwriters will make alterations to the standard harmonic pattern or extend/compress phrases by a bar or two. However, if you hear most of the features above, consider it an altered blues progression and use the standard 12- or 16-bar pattern as a reference for listening to what specific details have been altered.
+יוצרים משנים לעיתים קרובות את הדגם ההרמוני הרגיל או מאריכים ומקצרים פסוקיות בתיבה או שתיים. אם אתם שומעים את רוב המאפיינים שלעיל, ראו בכך מהלך בלוז מותאם והשתמשו בדגם הרגיל בן 12 או 16 התיבות כנקודת ייחוס לזיהוי הפרטים שהשתנו.
 
-A straight 12-bar blues progression can be found in “Hound Dog” by Elvis Presley. 
+מהלך רגיל בן 12 תיבות מופיע ב־״Hound Dog״ של Elvis Presley.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:0MLpdnTsnnaxH5yEJzxV6I" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הבלוז" src="https://embed.spotify.com/?uri=spotify:track:0MLpdnTsnnaxH5yEJzxV6I" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-“Don’t Be Cruel” by Elvis Presley presents a 12-bar blues pattern with an alteration of the final phrase (II–V–I rather than V–IV–I) in the strophes (the song is in AABA form). 
+״Don’t Be Cruel״ של Elvis Presley מציג בסטרופות דגם בלוז בן 12 תיבות שבו הפסוקית האחרונה שונתה: II–V–I במקום V–IV–I. השיר בצורת AABA.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הבלוז" src="https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-“Surfin’ USA” by the Beach Boys presents a 16-bar blues strophe with the two first phrases each beginning on two bars of V before two bars of I (V / I / instead of I / / / ).
+״Surfin’ USA״ של The Beach Boys מציג סטרופת בלוז בת 16 תיבות, ששתי הפסוקיות הראשונות שלה מתחילות כל אחת בשתי תיבות של V ואחריהן שתי תיבות של I: ‏V / I / במקום I / / /.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:6uixBHa9scQ9egf3EAYmVK" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
-
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך הבלוז" src="https://embed.spotify.com/?uri=spotify:track:6uixBHa9scQ9egf3EAYmVK" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

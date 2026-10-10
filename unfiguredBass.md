@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Realizing an unfigured bass line
+title: "מימוש קו בס ללא ספרות"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
-To realize an unfigured bass, first determine the harmonic functions projected by the scale-degree progression in the bass. Then choose figures for each bass note consistent with those functions. Lastly, realize the resulting figured bass according to the usual procedures.
+כדי לממש בס ללא ספרות (unfigured bass), קבעו תחילה את התפקידים ההרמוניים שמבטא רצף דרגות הסולם בבס. לאחר מכן בחרו לכל צליל בס ספרות המתאימות לתפקידים אלה. לבסוף ממשו את הבס הממוספר שהתקבל לפי ההליכים הרגילים.
 
-<iframe src="http://player.vimeo.com/video/48673007" width="500" height="375" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
+<iframe title="סרטון מימוש קו בס ללא ספרות" src="http://player.vimeo.com/video/48673007" width="500" height="375" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
 
+התרשים הבא מציג את התפקידים השכיחים ביותר לכל דרגת סולם דיאטונית ואת הספרות השכיחות ביותר לכל סוג בס פונקציונלי. זכרו: אחרי קביעת רצף התפקידים, אפשר לשנות את הספרות המסוימות כדי להחליק את הולכת הקולות במימוש הסופי.
 
-The following chart provides the most common functions for each diatonic scale degree and the most common figures for each functional bass type. Keep in mind that once you have determined the functional progression, you may change the specific figures to smooth out the voice leading in the final realization.
-
-![][figs]
-[*View chart full size.*][figs]
+![תרשים תפקידים הרמוניים וספרות שכיחות לפי דרגת הבס][figs]
+[הצגת התרשים בגודל מלא][figs]
 
 [figs]: {{ site.url }}/Graphics/defaultFigures.png

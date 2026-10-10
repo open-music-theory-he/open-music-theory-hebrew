@@ -1,104 +1,107 @@
 ---
 layout: post
-title: Form in pop/rock music – Formal containers and module structures
+title: "צורה בפופ וברוק — יחידות מבנה ומבני מודולים"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
+## יחידות מבנה צורניות {#formal-containers}
 
-## Formal Containers
+### פסוקית {#phrase}
 
-### Phrase
+פסוקית (phrase) היא יחידה מוזיקלית הנמשכת בדרך כלל ארבע תיבות וכוללת שורת שירה אחת כתוכן המילולי. פסוקיות מסומנות באותיות קטנות.
 
-A phrase is a musical unit that typically lasts for four bars and includes one line of poetry for its lyrical content. Phrases are designated by lower-case letters.
+### מודול {#module}
 
-### Module
+בפופ וברוק *מודול* (module) נמשך בדרך כלל בין 8 ל־24 תיבות וכולל 2–4 פסוקיות. יש מודולי עזר הכוללים פסוקית אחת בלבד. מודול מציג [פונקציה צורנית](popRockForm-functions.html) אחת, כגון A, ‏B, ‏C, ‏V, ‏P וכן הלאה, ודגם שלם בעל שניים, שלושה או ארבעה חלקים. בדרך כלל הוא מלחין בית שירי של המילים, stanza.
 
-In pop/rock music, a *module* typically spans between 8 and 24 bars and includes 2–4 phrases. (Some auxiliary modules may contain a single phrase.) A module presents a single [formal function](popRockForm-functions) (such as A, B, C, V, P, etc.) and presents a complete 2-, 3-, or 4-part pattern. Modules typically set a stanza of lyrics.
+גבולות המודולים מתבררים בדרך כלל באמצעות המבנה הפיוטי — סיום קבוצת שורות מחורזות, צמד שורות או בית שירי — או מאפיינים על פני השטח של השיר: הגעה קצבית, הרמונית ומלודית ברורה; שינוי בתזמור או בעוצמה; חזרה לתחילת מודול שנשמע קודם; וכן הלאה.
 
-Module boundaries are usually made apparent by poetic structure (end of a group of rhyming lines—couplet or stanza) or surface features of the song (clear rhythmic, harmonic, and melodic arrival; change in instrumentation or volume; return to beginning of a previously heard module; etc.).
+למשל, במעבר ממודול *בית* למודול *פזמון* ב־2:42 ב־״Pride (In the Name of Love)״ של U2, כמה מאפיינים משרטטים יחד את הגבול:
 
-For instance, take the transition from a *verse* module to a *chorus* module at 2:42 in U2's "Pride (In the Name of Love)." The module boundary is delineated by a number of features simultaneously: 
+- הטקסט מסיים את רביעיית השורות של הבית בחריזה בקירוב של ״sky״ ו־״pride״, לפני בית שירי חדש.
+- מעבר תופים, מחווה נפוצה של סוף פסוקית או מודול, מסמן את סוף הבית.
+- העוצמה הכללית עולה במהירות רבה.
+- הגיטרה נעשית פעילה יותר, וקול גיטרה שני מכפיל אותה.
+- השירה הראשית עולה ברגיסטר.
+- קולות רקע מצטרפים לשירה הראשית.
 
-- The text closes out the verse's quatrain with a (more-or-less) rhyming lyric ("sky"–"pride") before beginning a new stanza.  
-- The end of the verse is signaled by a drum fill, a common end-of-phrase or end-of-module gesture.  
-- The general dynamic gets louder very quickly.  
-- The guitar becomes more active, and is doubled by a second guitar part.  
-- The lead vocals rise in register.  
-- Background vocals are added to the lead vocal part.  
+כל המאפיינים מסייעים להבחין בגבול, ורובם גם מעניקים למודול החדש, הפזמון, אנרגיה רבה מזו של המודול הקודם, הבית.
 
-All of these features help delineate the boundary between modules, and most of them also give the new module (the chorus) a higher eneregy level than the previous module (the verse).
+<iframe title="דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — יחידות מבנה ומבני מודולים" src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+קישור HTML: [https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d)  
+מזהה Spotify URI: [spotify:track:3dh2LlmeMqKJbzn2WUgt3d](spotify:track:3dh2LlmeMqKJbzn2WUgt3d)
 
-HTML link: [https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d](https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d)  
-Spotify URI: [spotify:track:3dh2LlmeMqKJbzn2WUgt3d](spotify:track:3dh2LlmeMqKJbzn2WUgt3d) 
+*כל הגדרות המודולים מבוססות על עבודת הדוקטורט של Jason Summach משנת 2012, ‏״Form in Top-20 Rock Music, 1955–89״.*
 
-*All module definitions are based on Jason Summach's (2012) dissertation, "Form in Top-20 Rock Music, 1955–89."*
+### מודול ראשי {#primary-module}
 
-### Primary module
+״מודול המכיל את חומריו העיקריים של השיר״ (Summach, עמ׳ 322), כגון מילות הכותרת או המוזיקה הזכירה ביותר או השיאית. מודולים ראשיים ממלאים פונקציית סטרופה (A) או פזמון (C). לפרטים ראו [פונקציות צורניות](popRockForm-functions.html).
 
-"A module that contains a song’s principal materials" (Summach, p. 322), such as the title text or the most memorable or climactic music. Primary modules exhibit strophe function (A) or chorus function (C). See [Formal functions](popRockForm-functions) for more details on these specific functions.
+### מודול משני {#secondary-module}
 
-### Secondary module
+מודול משני הוא מודול ליבה היוצר ניגוד למודול הראשי או מפנה אליו תשומת לב (Summach, עמ׳ 322). מודולים משניים ממלאים פונקציות גשר (B), בית (V), קדם־פזמון (P) או אחר־פזמון (Z).
 
-A secondary module is a core module that creates a contrast with the primary module or draws attention to it (see Summach, p. 322). Secondary modules exhibit bridge function (B), verse function (V), prechorus function (P), or postchorus function (Z).
+### מודול ליבה {#core-module}
 
-### Core module
+מודולי הליבה יוצרים את עיקר התוכן המוזיקלי והפיוטי של השיר. כל המודולים הראשיים והמשניים הם מודולי ליבה (Summach, עמ׳ 321).
 
-Core modules form the main musical and poetic content of a song. All primary and secondary modules are considered core modules. (See Summach, p. 321.)
+### מודול עזר {#auxiliary-module}
 
-### Auxiliary module
+מודולי עזר מסייעים למסגר את מודולי הליבה: להציג אותם, לספק הפוגה זמנית מהם או להרגיע את הפעילות לאחריהם. הם ממלאים פונקציות מבוא (I), קטע סיום — outro ‏(O), או קודה (X). ראו Summach, עמ׳ 321.
 
-Auxiliary modules help frame the core modules, introducing them, providing temporary relief from them, or winding down from them. They exhibit introduction function (I), outro function (O), or coda function (X). (See Summach, p. 321.)
+### מחזור {#cycle}
 
-### Cycle
+״רצף המודולים האופייני לצורת שיר, המסתיים בסוג המודול הראשי של השיר״ (Summach, עמ׳ 321). מחזור (cycle) כולל מודול אחד או יותר, בדרך כלל באותו סדר, אם כי לעיתים מושמט מודול אחד או יותר, בייחוד לקראת סוף השיר. סוגריים מסולסלים {} מציינים מחזורים, כדי להבחין בינם לבין שמות צורות השיר.
 
-"The characteristic succession of modules in a song form, ending with the song’s primary module type” (Summach, p. 321). A cycle contains one or more modules, typically in the same order (though sometimes with one or more modules omitted, especially toward the end of a song). Curly brackets {} are used to refer to cycles (to differentiate them from names of song form types).
+מחזור של שיר סטרופי הוא {A}. מאחר שיש בו מודול אחד בלבד, ניתוח המחזורים פשוט ואפשר לדלג עליו בקלות.
 
-A strophic song’s cycle is {A}. Since there is only one module in a strophic cycle, analysis of the cycles is trivial and can be easily passed over. 
-
-A 32-bar song’s cycle is typically {AABA}, though abbreviated cycles are common, especially later in the song. "I Want to Hold Your Hand" is a typical example, where a complete {AABA} cycle is followed by an abbreviated {BA} cycle (see [Pop/rock form overview](popRockForm) for a detailed explanation):
+בשיר בצורת 32 תיבות המחזור הוא בדרך כלל {AABA}, אך מחזורים מקוצרים נפוצים, בייחוד בהמשך השיר. דוגמה טיפוסית היא ״I Want to Hold Your Hand״, שבו מחזור שלם {AABA} ואחריו מחזור מקוצר {BA}; ראו [סקירת הצורה בפופ וברוק](popRockForm.html) להסבר מפורט:
 
 > {AABA}{BA}
 
-A verse-chorus song’s main cycle is typically {VC} or {VPC}. When a bridge occurs in the song, it often replaces V or VP. Postchoruses (Z) can also follow the chorus.
+המחזור המרכזי של שיר בית–פזמון הוא בדרך כלל {VC} או {VPC}. גשר, אם מופיע, מחליף לעיתים קרובות את V או VP. אחר־פזמון (Z) יכול להופיע אחרי הפזמון.
 
-Bon Jovi's "Livin' on a Prayer" (discussed in the [Pop/rock form overview](popRockForm)) contains a moderately complex set of cycles:
+״Livin’ on a Prayer״ של Bon Jovi, הנדון ב[סקירה](popRockForm.html), כולל סדרת מחזורים מורכבת במידת מה:
 
 > I {VPC} I {VPCZ} {C<sub>i</sub>PC} O
 
-Note the use of a mid-song introduction between cycles, and the use of an instrumental chorus (guitar solo) to begin the third cycle, where we might also expect a bridge. The outro is chorus-based, simply a repetition of the chorus ― an example of chorusification.
+שימו לב למבוא באמצע השיר בין המחזורים, ולפזמון הכלי, סולו הגיטרה, הפותח את המחזור השלישי במקום שבו אפשר היה לצפות גם לגשר. קטע הסיום מבוסס על הפזמון ופשוט חוזר עליו — דוגמה להצטמצמות אל הפזמון (chorusification).
 
+## מבני מודולים {#module-structures}
 
-## Module structures
+### שני חלקים — aa’ {#two-part-aa}
 
-### Two-part (aa’)
+מודול הוא בעל שני חלקים כשאפשר לקבץ את פסוקיותיו למחצית ראשונה ולמחצית שנייה. בדרך כלל השנייה מבוססת על אותה מוזיקה כמו הראשונה, ולכן הסימון הוא *aa’*. לעיתים קרובות שתי המחציות מתחילות באופן זהה אך מסתיימות אחרת ויוצרות יחס של קודמת–עוקבת, חלש → חזק.
 
-A module is two-part when the phrases that make up the module can be grouped into a first half and a second half. In two-part modules, the second half is usually based on the same music as the first half, and thus it is labeled *aa’*. Often these two halves begin the same but have different endings, participating in an antecedent–consequent (weak → strong) relationship.
+הפזמון של ״Livin’ on a Prayer״ במבנה *a a’*. לפסוקית הראשונה בת ארבע התיבות ולשנייה בת ארבע התיבות מלודיה והרמוניה זהות — ומכאן *a* — אך מילים שונות — ומכאן סימן הפריים. בשירים רבים היחס פחות חד־משמעי. אם שתי הפסוקיות *מתחילות* בחומר מוזיקלי *דומה*, תנו להן אותה אות. מילים חדשות, סיומים מוזיקליים חדשים או וריאציות מוזיקליות מצדיקים סימן פריים בלבד.
 
-The chorus to "Livin' on a Prayer" has an *a a'* structure. The first four-bar phrase ("Oh, we're half-way there...") and the second four-bar phrase ("Take my hand...") have identical melody and harmony (hence the *a*), but different lyrics (hence the *prime*). Note that in many songs, this relationship is not as clear cut. However, if the two phrases *begin* with *similar* musical material, give them the same letter. New lyrics, new musical endings, or musical variations simply warrant a "prime."
+### שני חלקים — ab {#two-part-ab}
 
-### Two-part – ab
+לעיתים רחוקות מאוד אפשר לקבץ את פסוקיות המודול לשתי מחציות ברורות המבוססות על מוזיקה שונה. מודול כזה מסומן *ab*.
 
-Very rarely a module’s phrases can be grouped into two clear halves based on different music. Such a module is labeled *ab*.
+### שלושה חלקים — aa’b {#three-part-aab}
 
-### Three-part – aa’b
+מודול המכיל שלוש פסוקיות הוא בעל שלושה חלקים. אם שתי הראשונות מבוססות על אותה מוזיקה, הסימון הוא *aa’b*.
 
-A module containing three phrases is a three-part module. If the first two phrases are based on the same music, the module is labeled *aa’b*. 
+[מהלכי בלוז בני 12 תיבות](popRockHarmony-blues.html) הם הדוגמה הנפוצה ביותר למודול *aa’b* בעל שלושה חלקים. ״Hound Dog״ שבעמוד מהלך הבלוז מכיל סטרופות aa’b.
 
-[12-bar blues progressions](popRockHarmony-blues) are the most common example of a three-part *aa’b* module. "Hound Dog" (on the blues-progression page) contains aa'b strophes.
+### שלושה חלקים — abb’ {#three-part-abb}
 
-### Three-part – abb’
+אם הפסוקיות השנייה והשלישית במודול בעל שלושה חלקים מבוססות על אותה מוזיקה, הסימון הוא *abb’*.
 
-If the second and third phrases in a three-part module are based on the same music, the module is labeled *abb’*.
+### ארבעה חלקים — srdc {#four-part-srdc}
 
-### Four-part – srdc
+מודול בן ארבע פסוקיות כולל לעיתים קרובות [מבנה משפט](sentence.html): הצגה → המשך → קדנצה או סיום. בפופ וברוק הדבר מופיע לרוב כרעיון מוזיקלי בסיסי בראשונה, חזרה עליו או ״תגובה״ בשנייה, חומר מנוגד בשלישית — לעיתים קרובות פירוק למקטעים, האצת הקצב ההרמוני והתרחקות מהרמוניית הטוניקה — וסיום ברביעית. הסיום יכול לחזור לרעיון הבסיסי ולטוניקה או להביא חומר חדש עוד יותר היוצר סיום מלודי, קצבי והרמוני חזק. Walter Everett כינה מבנה משפט כזה בפופ וברוק *srdc*: הצגה (statement), הצגה חוזרת או תגובה (restatement/response), התרחקות (departure), סיום (conclusion).
 
-A module composed of four phrases often contains a [sentential structure](sentence) (presentation → continuation → cadential/conclusion). In pop/rock music, this often appears as a basic musical idea in the first phrase, a repetition or "response" to it in the second, contrasting material in the third phrase (often employing fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony), and a conclusion in the fourth phrase ― either with a return to the basic idea and tonic harmony or with still newer material that forms a strong melodic, rhythmic, and harmonic conclusion. Walter Everett has called such a four-phrase sentential structure in pop/rock music *srdc* (statement, restatement/response, departure, conclusion). 
+בסימון רגיל באותיות מודול *srdc* יכול להיות במבנה *aaba*, כשהחומר המוצג חוזר בהצגה החוזרת ושוב בסיום, או *aabc*, כשהסיום חדש. לעיתים ייתכנו *abcd* או *abca*, אך רק אם *b* הוא תגובה ברורה ל־*a* ולא רק חומר חדש.
 
-In conventional lettering, an *srdc* module could employ an *aaba* structure (with statement material returning as a restatement and again as the conclusion), or *aabc* structure (where the conclusion material is new). Occasionally *abcd* or *abca* are possible, but only if *b* is a clear response to *a*, not simply new material. 
+מבני *srdc* נוטים להתחלק בבירור למחציות: *sr* ו־*dc*.
 
-*srdc* structures tend to divide neatly into halves: *sr* and *dc*.
+הסטרופה השנייה ב־״Blue Suede Shoes״ של Carl Perkins, ב־0:19, כוללת מבנה *srdc* ברור. הקלטה וניתוח מודולים שלם נמצאים ב[סקירת הצורה](popRockForm.html). יש בה ארבע פסוקיות בנות ארבע תיבות, במבנה [בלוז בן 16 תיבות](popRockHarmony-blues.html). שתי הראשונות, הצגה–הצגה חוזרת, כוללות אותה הרמוניה — הארכת הטוניקה — ומלודיות המתחילות באופן זהה. אף שהמילים שונות, דגמי המקצב והחריזה זהים. השלישית, ההתרחקות, מביאה מלודיה חדשה, הרמוניה חדשה — מעבר לסובדומיננטה — ואת מילות הכותרת, שורה חוזרת המשותפת לסטרופות נוספות. האחרונה, הסיום, סוגרת את היחידה הפיוטית ואת המהלך ההרמוני של הבלוז.
 
-Carl Perkins's "Blue Suede Shoes" contains a clear *srdc* structure in its second strophe (0:19; find a recording and complete module analysis on the [Pop/rock form overview](popRockForm)). It contains four four-bar phrases (following a [16-bar blues](popRockHarmony-blues) structure). The first two phrases (statement–restatement) contain the same harmony (tonic prolongation), melodies which begin identically, and though the lyrics differ, the rhythmic and rhyme schemes are the same. The third phrase (departure) brings a new melody, new harmony (move to the subdominant), and the title lyrics (this is a refrain shared with other strophes in the song). The final phrase (conclusion) closes out the poetic unit and the blues harmonic progression.
+[*חזרה לסקירת הצורה בפופ וברוק.*](popRockForm.html)
 
-[*Back to pop/rock form overview.*](popRockForm.html)
+> הערת תרגום: המקור מגדיר מחזור כמסתיים במודול הראשי, אך גם מתיר אחר־פזמון Z בסופו. נשמרו שני הניסוחים. בפרק הסימון הסימן i שבתת־הכתב אינו מוגדר במפורש; כאן הוא נשמר בסימון הפזמון הכלי לפי הדוגמה.

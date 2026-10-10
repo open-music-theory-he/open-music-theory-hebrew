@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Blues-based pop/rock tonality
+title: "טונליות בפופ וברוק המבוססת על בלוז"
+language: he
+translation_status: language-reviewed
+translation_batch: 16
 ---
 
-Modern pop/rock owes a great debt to the blues. This "tonal system" includes not only songs that are explicitly based on a 12- or 16-bar blues progression, but also songs that exhibit harmonic structures that have grown out of those patterns—most notably the prominence of **V–IV–I** in recent rock.
+פופ ורוק מודרניים חבים רבות לבלוז. ״מערכת טונלית״ זו כוללת לא רק שירים המבוססים במפורש על מהלך בלוז בן 12 או 16 תיבות, אלא גם שירים שמבניהם ההרמוניים צמחו מדגמים אלה — ובייחוד הבולטות של **V–IV–I** ברוק המתואר במקור.
 
-For example, the eighth-chord cycle that forms the basis of The Beatles' "Let It Be" ends **I V IV I**, and this "backwards" classical move is the main harmonic punctuation at end points within the song.
+למשל, מחזור שמונת האקורדים בבסיס ״Let It Be״ של The Beatles מסתיים ב־**I V IV I**. מהלך זה, ה״הפוך״ ביחס לתחביר הקלאסי, הוא הפיסוק ההרמוני המרכזי בנקודות הסיום בשיר.
 
-<iframe class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48" frameborder="0" allowtransparency="true"></iframe>
+<iframe title="דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק המבוססת על בלוז" class="spotify" src="https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48" frameborder="0" allowtransparency="true"></iframe>
 
-For more blues-based rock examples, see the [blues progression](popRockHarmony-blues.html) resource.
+לדוגמאות נוספות של רוק המבוסס על בלוז, ראו [מהלך הבלוז](popRockHarmony-blues.html).

@@ -1,178 +1,181 @@
 ---
 layout: post
-title: Table of Contents
+title: תוכן עניינים חלופי — ארכיון המקור
+language: he
+translation_status: support-reviewed
 ---
+
 
 {{ page.title }}
 ================
 
-## Introduction ##
+## מבוא ##
 
-[Introduction to this "textbook" (for instructors & scholars).][introSite]  
+[על תאוריית המוזיקה הפתוחה][introSite]  
 
-## Fundamentals ##
+## יסודות ##
 
-[Protonotation.](protonotation.html)  
-[Meter and time signatures.][meter]  
-[Pitches and octave designations.][pitches]  
-[Intervals and dyads.][intervals]  
-[Triads and seventh chords.][triads]  
-[Types of contrapuntal motion.][motionTypes]
+[תיווי מקדים](protonotation.html)  
+[המשקל וסימניו][meter]  
+[גבהי צליל וסימון אוקטבות][pitches]  
+[מרווחים וצמדי צלילים][intervals]  
+[אקורדים משולשים ואקורדי ספטימה][triads]  
+[סוגי תנועה קונטרפונקטית][motionTypes]
 
-## Voice-leading and model composition ##
+## הולכת קולות והלחנה לפי מודלים ##
 
-[Introduction to strict voice-leading.][speciesIntro]  
+[מבוא להולכת קולות קפדנית][speciesIntro]  
 
-### Strict two-voice composition (species counterpoint)
+### הלחנה קפדנית בשני קולות — קונטרפונקט לסוגיו
 
-[Composing a cantus firmus.][CF]  
-[Composing a first-species counterpoint.][firstSpecies]  
-[Composing a second-species counterpoint.][secondSpecies]  
-[Composing a third-species counterpoint.][thirdSpecies]  
-[Composing a fourth-species counterpoint.][fourthSpecies]  
+[כתיבת קנטוס פירמוס][CF]  
+[כתיבת קונטרפונקט מן הסוג הראשון][firstSpecies]  
+[כתיבת קונטרפונקט מן הסוג השני][secondSpecies]  
+[כתיבת קונטרפונקט מן הסוג השלישי][thirdSpecies]  
+[כתיבת קונטרפונקט מן הסוג הרביעי][fourthSpecies]  
 
-### Strict four-voice composition
+### הלחנה קפדנית בארבעה קולות
 
-[Introduction to thoroughbass.][thoroughbass]  
-[A brief history of *basso continuo*.](bassoContinuo-history.html)  
-[Composing in *basso-continuo* style.](bassoContinuo.html)  
-[Style and tendency.](tendency.html)  
-[Tendency tones and functional harmonic dissonances.](tendencyTonesFunctionalDissonances.html)  
-[Realizing a figured bass in strict basso continuo style (video).](TBDemo.html)  
+[מבוא לבס ממוספר][thoroughbass]  
+[היסטוריה קצרה של הבס הרציף והולכת קולות בכלי מקלדת](bassoContinuo-history.html)  
+[הלחנה בסגנון בס רציף](bassoContinuo.html)  
+[סגנון ונטייה](tendency.html)  
+[צלילי נטייה ודיסוננסים הרמוניים פונקציונליים](tendencyTonesFunctionalDissonances.html)  
+[מימוש בס ממוספר בסגנון בס רציף קפדני](TBDemo.html)  
 
-[Melodic keyboard style voice-leading.](melodicKeyboardStyle.html)  
-[Melodic keyboard-style voice-leading schemata.](KBVLschemata.html)  
-[Realizing a figured bass line in melodic keyboard style (video).](melodicKB.html)  
-[Realizing an unfigured bass line (video).][unfiguredBass]  
+[הולכת קולות מלודית בסגנון כלי מקלדת](melodicKeyboardStyle.html)  
+[סכמות להולכת קולות בסגנון כלי מקלדת](KBVLschemata.html)  
+[מימוש בס ממוספר בסגנון מלודי לכלי מקלדת](melodicKB.html)  
+[מימוש קו בס ללא ספרות][unfiguredBass]  
 
-## Harmony ##
+## הרמוניה ##
 
-[Embellishing tones.][embellishingTones]  
+[צלילי קישוט][embellishingTones]  
 
-[Introduction to musical functions.][functions]  
-[Harmonic functions.][harmFunc]  
-[Harmonic syntax - the idealized phrase.](harmonicSyntax1.html)  
-[Harmonic syntax - prolongation.](harmonicSyntax2.html)  
-<!-- [Performing a harmonic analysis.](harmonicAnalysis.html) -->
+[מבוא לתפקידים מוזיקליים][functions]  
+[תפקידים הרמוניים][harmFunc]  
+[תחביר הרמוני — הפראזה האידאלית](harmonicSyntax1.html)  
+[תחביר הרמוני — הארכה](harmonicSyntax2.html)  
+<!-- [ביצוע ניתוח הרמוני](harmonicAnalysis.html) -->
 
-[Classical cadence types.][cadenceTypes]  
-[Generating Roman numerals from a figured bass line.][RNfromFB]  
-[Chromatically altered subdominant chords.][altSub]  
-[Applied chords.][applied]  
-[Modal mixture.][mixture]  
-[Modulation.][Modulation]  
+[סוגי קדנצות קלאסיות][cadenceTypes]  
+[ניתוח בס ממוספר באמצעות ספרות רומיות][RNfromFB]  
+[אקורדי סובדומיננטה משתנים כרומטית][altSub]  
+[אקורדים שניוניים][applied]  
+[עירוב מודאלי][mixture]  
+[מודולציה][Modulation]  
 
-[Harmony in pop/rock music.][popRockHarmony]    
+[הרמוניה במוזיקת פופ ורוק][popRockהרמוניה]    
 
-###### Handouts and charts ######
+###### דפי עזר ותרשימים ######
 
-[Lead-sheet and figured-bass symbols.][LSandFBsymbols]  
-[Harmonies (Roman numerals and functional bass) by bass scale degree.]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
+[סימני אקורדים ובס ממוספר — דף עזר][LSandFBsymbols]  
+[הרמוניות לפי דרגת הבס — ספרות רומיות ובס פונקציונלי]({{ site.url }}/Graphics/Handouts/HarmoniesByBassScaleDegree.pdf)
 
 
-## Form ##
+## צורה ##
 
-**Thematic Structure in the Classical Style**
+**מבנה נושאי בסגנון הקלאסי**
 
-[Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
-[The sentence.](sentence.html)  
-[The period.](period.html)  
-[Hybrid themes.](hybridThemes.html)  
-[Compound periods.](compoundPeriod.html)
-[Compound sentences.](compoundSentence.html)  
-[External Expansions.](externalExpansions.html)  
-[Internal Expansions.](internalExpansions.html)  
+[מבנה נושאי בסגנון הקלאסי](thematicStructureInTheClassicalStyle.html)   
+[המשפט המוזיקלי](sentence.html)  
+[הפריודה](period.html)  
+[נושאים היברידיים](hybridThemes.html)  
+[פריודה מורכבת](compoundPeriod.html)
+[משפט מוזיקלי מורכב](compoundSentence.html)  
+[הרחבות חיצוניות](externalExpansions.html)  
+[הרחבות פנימיות](internalExpansions.html)  
 
-[**Minuet form**.](minuet.html)  
+[צורת מינואט](minuet.html)  
   
-**Sonata Form**
+**צורת סונטה**
 
-[Introduction to Sonata Theory.][SonataIntro]    
-[Sonata form: exposition types.][SonataExpo]  
-- [Structural Points of Arrival.](sonataStructuralPointsOfArrival.html)  
-- [Thematic Modules.](sonataThematicModules.html)  
-[Sonata form: the recapitulation.][SonataRecap]  
-[Sonata form: the development.](sonataDevelopment.html) 
+[מבוא לתאוריית הסונטה][SonataIntro]    
+[צורת סונטה — טיפוסי תצוגה][SonataExpo]  
+- [צורת סונטה — נקודות הגעה מבניות](sonataStructuralPointsOfArrival.html)  
+- [צורת סונטה — יחידות נושאיות](sonataThematicModules.html)  
+[צורת סונטה — הרפריזה][SonataRecap]  
+[צורת סונטה — הפיתוח](sonataDevelopment.html) 
 
-**Rondo Form**
+**צורת רונדו**
 
-[Introduction to Rondo form.](rondo.html)  
-[Thematic Function in Rondo Form.](thematicFunctionInRondo.html)  
-[Five-Part Rondo.](fivePartRondo.html)  
-[Sonata Rondo.](sonataRondo.html)  
+[רונדו](rondo.html)  
+[תפקידים נושאיים בצורת רונדו](thematicFunctionInRondo.html)  
+[צורת רונדו בת חמישה חלקים](fivePartRondo.html)  
+[סונטה־רונדו](sonataRondo.html)  
 
-[**Form in pop/rock music.**][popRockForm]  
+[צורה בפופ וברוק — סקירה][popRockצורה]  
 
-[Classical theme types.][classicalThemes]   
-[Introduction to musical functions.](functions.html)  
-[Galant schemata.][Schemata]  
+[טיפוסי נושא קלאסיים — דף עזר][classicalThemes]   
+[מבוא לתפקידים מוזיקליים](functions.html)  
+[סכמות בסגנון הגלנט — סיכום][Schemata]  
 
-## Post-tonal music ##
+## מוזיקה פוסט־טונלית ##
 
-**Basics**  
+**יסודות**  
 
 [Pitch (class).](pitch(Class).html)  
 [Interval (class).](interval(Class).html)  
-[Modular 12 arithmetic.](mod12.html)    
+[חשבון מודולרי](mod12.html)    
 
-**Organizing Forces**  
+**כוחות מארגנים**  
 
-[Collections and Scales.](scales.html)  
-[Symmetry and Centricity.](symmetryAndCentricity.html)  
+[סולמות ודרגות הסולם](scales.html)  
+[סימטריה ומרכזיות](symmetryAndCentricity.html)  
 
-**Set Theory**  
+**תורת הקבוצות**  
 
-Pitch-Class Sets.  
-[Normal Order.](normalOrder.html)  
-[Tranposition.](transposition.html)  
-[Inversion.](inversion.html)  
-[Set Class and Prime Form (1).](setClassAndPrimeForm1.html)  
-[Set Class and Prime Form (2).](setClassAndPrimeForm2.html)  
-[Complements.](complements.html)  
-[Common Tones under Transposition.](commonTonesUnderTransposition.html)  
-Common Tones under Inversion.  
-Tranpositional Symmetry.  
+קבוצות של מחלקות גובה צליל — נושא ללא פרק במקור.  
+[סדר נורמלי](normalOrder.html)  
+[טרנספוזיציה](transposition.html)  
+[היפוך במוזיקה פוסט־טונלית](inversion.html)  
+[מחלקת קבוצה וצורה ראשונית — חלק 1](setClassAndPrimeצורה1.html)  
+[מחלקת קבוצה וצורה ראשונית — חלק 2](setClassAndPrimeצורה2.html)  
+[קבוצות משלימות](complements.html)  
+[צלילים משותפים תחת טרנספוזיציה](commonTonesUnderTransposition.html)  
+צלילים משותפים תחת היפוך — נושא ללא פרק במקור.  
+סימטריה בטרנספוזיציה — נושא ללא פרק במקור.  
 
-**Twelve-Tone Theory**  
+**תאוריית שנים־עשר טונים**  
 
-[Basics.](twelveToneBasics.html)  
-[Operations.](twelveToneOperations.html)  
-[Intervallic Structure.](twelveToneIntervallicStructure.html)  
-[Derivation.](twelveToneMusicDerivation.html)  
-[Invariance.](twelveToneMusicInvariance.html)  
-
-
-[Analyzing atonal music.][atonal]  
-[Analyzing 12-tone music.][twelveTone]  
-[Glossary of atonal musical terms.][atonalGloss]  
-
-[Sheet of blank chromatic-scale clock faces.][clocks]  
+[תאוריית שנים־עשר טונים — יסודות](twelveToneיסודות.html)  
+[מוזיקת שנים־עשר טונים — פעולות](twelveToneOperations.html)  
+[מוזיקת שנים־עשר טונים — מבנה מרווחי](twelveToneIntervallicStructure.html)  
+[מוזיקת שנים־עשר טונים — שורות נגזרות](twelveToneMusicDerivation.html)  
+[מוזיקת שנים־עשר טונים — אינווריאנטיות](twelveToneMusicInvariance.html)  
 
 
-## Technology ##
+[ניתוח מוזיקה אטונלית][atonal]  
+[ניתוח מוזיקת שנים־עשר טונים][twelveTone]  
+[מילון מונחים למוזיקה אטונלית][atonalGloss]  
 
-[Uploading and sharing a file via Google Drive.](GDrive.html)  
-[Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]  
-[Using Variations Audio Timeliner.][VAT]  
-[Adding a creative commons license to a blog post.][addCC]  
-[Posting a blog link to Twitter.][linkToTwitter]  
-[Creating a musical graphic and importing it into a text document.][createGraphic]
+[לוחות שעון ריקים לסולם הכרומטי][clocks]  
 
-## Performance ##
 
-[Melodic sequentials.](melodicSequentials.html)  
-[Harmonic sequentials.]({{ site.url }}/Graphics/harmonicSequential.pdf)  
-[Chromatic solfège syllables and sequentials.](chromaticSolfege.html)  
-[Sight-singing tips.][sightSinging]  
+## טכנולוגיה ##
 
-## Listening ##
+[העלאת קובץ ושיתופו באמצעות Google Drive](GDrive.html)  
+[תיווי תרגיל הולכת קולות בסגנון כלי מקלדת][kbTypesetting]  
+[שימוש ב־Variations Audio Timeliner][VAT]  
+[הוספת רישיון Creative Commons לרשומת בלוג][addCC]  
+[פרסום קישור לבלוג בטוויטר][linkToTwitter]  
+[יצירת תמונה מוזיקלית והכנסתה למסמך טקסט][createGraphic]
 
-[Transcribing syncopation in pop/rock music.][syncopation]  
-[Melodic dictation demo.][melDict]  
+## ביצוע ##
 
-## Text and music ##
+[תרגילי סקוונצה מלודיים](melodicSequentials.html)  
+[תרגילי סקוונצה הרמוניים]({{ site.url }}/Graphics/harmonicSequential.pdf)  
+[הברות סולפז׳ כרומטיות ותרגילי סקוונצה](chromaticSolfege.html)  
+[הנחיות לשירה מן הדף][sightSinging]  
 
-[Analyzing poetry.][poetry]  
+## האזנה ##
+
+[סינקופה במוזיקת פופ ורוק][syncopation]  
+[הדגמת הכתבה מלודית][melDict]  
+
+## טקסט ומוזיקה ##
+
+[ניתוח שירה][poetry]  
 
 
 
@@ -180,7 +183,7 @@ Tranpositional Symmetry.
 
 [meter]: meter.html
 [pitches]: pitches.html
-[intervals]: Intervals.html
+[intervals]: intervals.html
 [triads]: triads.html
 [motionTypes]: motionTypes.html
 
@@ -199,7 +202,7 @@ Tranpositional Symmetry.
 [functions]: functions.html
 [harmFunc]: harmonicFunctions.html
 [harmSyntax]: harmonicSyntax.html
-[popRockHarmony]: popRockHarmony.html
+[popRockהרמוניה]: popRockהרמוניה.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
@@ -210,14 +213,14 @@ Tranpositional Symmetry.
 [LSandFBsymbols]: {{ site.url }}/Graphics/Handouts/LSandFBsymbols.pdf
 [funcBassChart]: {{ site.url }}/Graphics/Handouts/funcBassChart.pdf
 [classicalThemes]: classicalThemes.html
-[MinuetForm]: MinuetForm.html
+[Minuetצורה]: Minuetצורה.html
 [Modulation]: Modulation.html
 [mixture]: modalMixture.html
-[Schemata]: Schemata.html
+[Schemata]: schemataSummary.html
 [SonataIntro]: SonataTheory-intro.html
 [SonataExpo]: SonataTheory-exposition.html
 [SonataRecap]: sonataRecap.html
-[popRockForm]: popRockForm.html
+[popRockצורה]: popRockצורה.html
 [syncopation]: syncopation.html
 [sightSinging]: sightSinging.html
 [addCC]: addCC.html
@@ -232,3 +235,6 @@ Tranpositional Symmetry.
 [twelveTone]: twelveTone.html
 [atonalGloss]: atonalGlossary.html
 [clocks]: {{ site.url }}/Graphics/blankClockFaces.pdf
+
+
+> הערת תרגום: זהו תוכן עניינים חלופי היסטורי; אינו משנה את סדר הספר הראשי. Intervals.html תוקן ל־intervals.html, ו־Schemata.html החסר הוחלף בסיכום הסכמות הקיים. ההפניה ״אוספים וסולמות״ ל־scales.html נשמרה מן המקור אף שפרק האוספים הפוסט־טונלי הוא scales2.html. הגדרות קישור לא בשימוש נשמרו כרשומות מקור.

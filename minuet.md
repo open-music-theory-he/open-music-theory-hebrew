@@ -1,51 +1,53 @@
 ---
 layout: post
-title: Minuet Form
+title: צורת מינואט
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-A classical minuet movement typically contains a _main minuet_, followed by a _trio, _followed by a _da capo_ repeat of the main minuet (usually performed without taking the repeats). The movement, then, has a large-scale ABA' form: _minuet–trio–minuet da capo_.
+פרק מינואט קלאסי מכיל בדרך כלל *מינואט ראשי* (main minuet), אחריו *טריו* (trio), ואחריו חזרת *דה קאפו* (da capo) של המינואט הראשי, המבוצעת בדרך כלל בלי לקיים את החזרות הפנימיות. לפיכך לפרק צורה גדולה של <bdi dir="ltr">ABA'</bdi>: מינואט–טריו–מינואט דה קאפו.
 
-Both the main minuet and the trio tend to be *small ternary* structures. Like the minuet/trio movement itself, the small ternary form follows an ABA' structure. However, the small ternary structure found in the typical *main minuet* is of the *rounded binary* type. That is, while there are three distinct modules—A, B, and A'—they are grouped into two larger sections, each of which is repeated. 
+הן המינואט הראשי והן הטריו נוטים להיות מבנים של *צורה תלת־חלקית קטנה* (small ternary). כמו פרק המינואט והטריו עצמו, הצורה התלת־חלקית הקטנה עוקבת אחר מבנה <bdi dir="ltr">ABA'</bdi>. אולם המבנה התלת־חלקי הקטן במינואט ראשי טיפוסי הוא מן הסוג ה*דו־חלקי המעוגל* (rounded binary). כלומר, יש שלוש יחידות מובחנות — A, B ו־A' — אך הן מקובצות לשני חלקים גדולים יותר, ועל כל אחד מהם חוזרים.
 
-The first part in the two-part structure is the *first reprise*, and the second part is the *second reprise*, so called because they each repeat. The first reprise contains the A module of the minuet; the second contains the B and the A' modules.
+החלק הראשון במבנה הדו־חלקי מכונה *החלק הראשון הנתון לחזרה* (first reprise), והשני — *החלק השני הנתון לחזרה* (second reprise), שכן חוזרים על כל אחד מהם. הראשון מכיל את יחידת A של המינואט; השני מכיל את יחידות B ו־A'.
 
-Each section of the minuet's (or the trio's) small ternary form has its own formal function attached to it. The formal function exhibited in the A section is called *exposition* function; the B section *contrasting middle* function ; and the A' section *recapitulation* function.
+לכל חטיבה בצורה התלת־חלקית הקטנה של המינואט או הטריו תפקיד צורני משלה. התפקיד בחטיבת A מכונה *תצוגה* (exposition); בחטיבת B — *אמצע מנוגד* (contrasting middle); ובחטיבת A' — *רפריזה* (recapitulation).
 
-## Exposition
+## תצוגה {#exposition}
 
-At the least, the exposition module of the minuet typically contains a primary theme: tight-knit  (period, sentence, or hybrid), ending with a PAC, or occasionally a HC. It is common, however, for an exposition to have more complex structure, projecting not just primary theme, but secondary thematic function, transition, and closing. Not all of these functions are necessarily present. 
+לכל הפחות, יחידת התצוגה של מינואט מכילה בדרך כלל נושא ראשי הדוק — פריודה, משפט מוזיקלי או נושא היברידי — המסתיים בקדנצה אותנטית מושלמת (PAC), או לפעמים בחצי קדנצה (HC). אולם מקובל שתצוגה תהיה מורכבת יותר במבנה ותבטא לא רק נושא ראשי אלא גם תפקיד נושא משני, מעבר וסיום. לא כל התפקידים האלה חייבים להופיע.
 
-**Primary Theme**
+**נושא ראשי**
 
-Expositions always have a *primary themes*. A prototypical *primary theme* is (1) tight-knit and (2) ends with a PAC or HC in the tonic key. When an exposition does not modulate, it is understood to exclusively express *primary theme* function.
+בתצוגות יש תמיד *נושא ראשי*. נושא ראשי טיפוסי הוא (1) הדוק ו־(2) מסתיים ב־PAC או ב־HC בטונליות הטוניקה. כאשר התצוגה אינה מבצעת מודולציה, היא מובנת כמבטאת תפקיד של נושא ראשי בלבד.
 
-**Secondary Theme**
+**נושא משני**
 
-But if the exposition modulates, the functions of *transition*, and *secondary theme* may appear as well. At minimum a *secondary theme* will close with cadential confirmation (usually a PAC) of the subordinate key. Often, it is looser than the main theme—perhaps [expanded or contracted](internalExpansions.html).
+אם התצוגה מבצעת מודולציה, גם תפקידי *מעבר* ו*נושא משני* עשויים להופיע. לכל הפחות, נושא משני יסתיים באישור קדנציאלי, בדרך כלל PAC, של הטונליות המשנית. לעיתים קרובות הוא רופף יותר מן הנושא הראשי, ואולי [מורחב או מקוצר](internalExpansions.html).
 
-**Transition**
+**מעבר**
 
-If a phrase contains a [pivot chord modulation][modulation.html] linking the main key to the subordinate key, that phrase is understood to express *transition* function. (If a new phrase begins immediately in the subordinate key through [direct modulation][modulation.html], there is no transition function.)
+אם פראזה מכילה [מודולציה באמצעות אקורד ציר](Modulation.html) המחברת בין הטונליות הראשית למשנית, היא מובנת כמבטאת תפקיד של מעבר. אם פראזה חדשה מתחילה מיד בטונליות המשנית באמצעות [מודולציה ישירה](Modulation.html), אין תפקיד מעבר.
 
-Very, very often the transition and the secondary theme are "fused" together (TR==>S) in a single phrase.
+לעיתים קרובות מאוד המעבר והנושא המשני ״מתמזגים״ בפראזה אחת: <bdi dir="ltr">TR==>S</bdi>.
 
-**Closing Section**
+**חטיבת סיום**
 
-Sometimes the secondary theme closes with a PAC and is followed by a [closing section](externalExpansions.html).
+לפעמים הנושא המשני מסתיים ב־PAC, ואחריו באה [חטיבת סיום](externalExpansions.html).
 
-## Contrasting Middle
+## אמצע מנוגד {#contrasting-middle}
 
-A contrasting middle section is significantly looser than the exposition. Though it may contain some kind of thematic structure (sentence, primarily), it often does not. Sequences and remote tonal areas are quite typical of the digression section. When doing analysis, your goal should be to identify the melodic/motivic material and understand the tonal structure.
+חטיבת האמצע המנוגד רופפת במידה ניכרת מן התצוגה. אף שהיא עשויה להכיל מבנה נושאי כלשהו, בעיקר משפט מוזיקלי, לעיתים קרובות אין בה מבנה כזה. סקוונצות ואזורי טונליות רחוקים אופייניים למדי לחטיבת הסטייה הזאת. בניתוח, מטרתכם היא לזהות את החומר המלודי והמוטיבי ולהבין את המבנה הטונלי.
 
-Contrasting middle passages end with a I:HC, creating a harmonic interruption. Commonly, the I:HC is followed by a post-cadential "[standing on the dominant][externalExpansions.html]."
+קטעי אמצע מנוגד מסתיימים ב־<bdi dir="ltr">I:HC</bdi>, היוצרת הפסק הרמוני. בדרך כלל אחרי ה־<bdi dir="ltr">I:HC</bdi> באה ״[שהייה על הדומיננטה](externalExpansions.html#standing-on-the-dominant)״ שלאחר הקדנצה.
 
-## Recapitulation
+## רפריזה {#recapitulation}
 
-The definitive characteristics of a minuet's *recapitulation* function are (1) the *return of the basic idea* from the A section at its beginning, (2) the *return of the home key* at its beginning, and (3) a final PAC in the home key.
+המאפיינים המגדירים את תפקיד ה*רפריזה* במינואט הם (1) *חזרת הרעיון הבסיסי* מחטיבת A בתחילתה, (2) *חזרת הטונליות הראשית* בתחילתה, ו־(3) PAC מסיימת בטונליות הראשית.
 
-A recapitulation typically copies the thematic and phrase-structural features of the exposition, but altering the secondary theme so as to end in tonic. Commonly, the recapitulation [*expands* the exposition's closing phrase](internalExpansions.html).
+הרפריזה מעתיקה בדרך כלל את מאפייני הנושא ומבנה הפראזות של התצוגה, אך משנה את הנושא המשני כך שיסתיים בטונליות הטוניקה. לעיתים קרובות הרפריזה [*מרחיבה* את הפראזה המסיימת של התצוגה](internalExpansions.html).
 
-## Trio
+## טריו {#trio}
 
-Like the minuet, a trio is typically a rounded or simple binary form. It's primary job is to establish melodic and harmonic contrast. While contrasting tonally with the *main minuet* is a central feature of the Trio, Trio's often simply projection modal contrast. When the tonic stays the same, a major-key *main minuet* might be contrasted with a Trio marked *minore.* (The corresponding situation for a minor-key *main minuet* is a *maggiore* Trio.)
-
+כמו המינואט, הטריו הוא בדרך כלל צורה דו־חלקית מעוגלת או פשוטה. משימתו העיקרית היא לבסס ניגוד מלודי והרמוני. אף שניגוד טונלי למינואט הראשי הוא מאפיין מרכזי של הטריו, לעיתים קרובות הטריו מבטא רק ניגוד מודאלי. כאשר הטוניקה נשארת זהה, למינואט ראשי מז׳ורי עשוי להיות טריו מנוגד המסומן *minore*, כלומר מינורי. המצב המקביל למינואט ראשי מינורי הוא טריו המסומן *maggiore*, כלומר מז׳ורי.

@@ -1,22 +1,25 @@
 ---
 layout: post
-title: Circle-of-fifths progression, minor mode
+title: "מהלך מעגל הקווינטות במינור"
+language: he
+translation_status: language-reviewed
+translation_batch: 15
 ---
 
 **&#124;&#124;: I – IV – VII – III :&#124;&#124;**
 
-Much more will be said about circle-of-fifths progressions in the context of classical music. In pop/rock music, we will focus on the above four-chord progression. This is considered a “descending” circle-of-fifths progression because each chord’s root moves down by fifth to the next root. In pop/rock, this progression often happens in minor beginning on I, moving to the relative major. Like the [“singer/songwriter” progression](popRockHarmony-sscp.html), there is some key ambiguity in this progression, as the starting chord is easily considered tonic, but the motion from VII to III can easily be heard as V–I in the relative major key. And indeed, it can be used to move from the relative minor to the relative major.
+על מהלכי מעגל הקווינטות ייאמר עוד רבות בהקשר של מוזיקה קלאסית. בפופ וברוק נתמקד במהלך ארבעת האקורדים שלעיל. הוא נחשב מהלך מעגל קווינטות ״יורד״, מפני ששורש כל אקורד יורד בקווינטה אל השורש הבא. בפופ וברוק הוא מופיע לעיתים קרובות במינור, מתחיל ב־I ונע אל המז׳ור היחסי. כמו ב[מהלך הזמרים־היוצרים](popRockHarmony-sscp.html), קיימת כאן עמימות מסוימת של הסולם: קל לשמוע את האקורד הראשון כטוניקה, אך קל גם לשמוע את VII–III כ־V–I במז׳ור היחסי. ואכן, המהלך יכול לשמש למעבר מן המינור היחסי אל המז׳ור היחסי.
 
-Def Leppard’s “Love Bites” (mildly explicit lyrics) begins with this four-chord progression repeated twice for the verse.
+״Love Bites״ של Def Leppard — שהמקור מציין כי מילותיו מעט בוטות — מתחיל בשני מופעים של מהלך ארבעת האקורדים בבית.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:3SoNMDkQr86wqib28yaBI7" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך מעגל הקווינטות במינור" src="https://embed.spotify.com/?uri=spotify:track:3SoNMDkQr86wqib28yaBI7" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-The verse of Muse’s “Thoughts of a Dying Atheist” begins with a [lament progression](popRockHarmony-lament.html), followed by a four-chord circle-of-fifths progression. This progression immediately repeats, returning to the initial minor key. However, the second time through, this lament–circle-of-fifths pattern leads to a chorus in the relative major (taking the III chord as the new tonic).
+הבית ב־״Thoughts of a Dying Atheist״ של Muse מתחיל ב[מהלך קינה](popRockHarmony-lament.html), ואחריו מהלך מעגל קווינטות בן ארבעה אקורדים. המהלך חוזר מייד ושב לסולם המינורי ההתחלתי. אולם בפעם השנייה דגם הקינה–מעגל הקווינטות מוביל לפזמון במז׳ור היחסי, כשהאקורד III נעשה הטוניקה החדשה.
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך מעגל הקווינטות במינור" src="https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
 
-For a complete circle-of-fifths progression, see Gloria Gaynor’s “I Will Survive”:
+למהלך מעגל קווינטות מלא, האזינו ל־״I Will Survive״ של Gloria Gaynor:
 
 **&#124;&#124;: I – IV – VII – III – VI – II – V / :&#124;&#124;**
 
-<iframe src="https://embed.spotify.com/?uri=spotify:track:2DX0WG5OGLQLaXb41Cq1IA" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>
+<iframe title="דוגמה מוזיקלית להאזנה — מהלך מעגל הקווינטות במינור" src="https://embed.spotify.com/?uri=spotify:track:2DX0WG5OGLQLaXb41Cq1IA" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br>

@@ -1,18 +1,23 @@
 ---
 layout: post
-title: Set Class and Prime Form (2)
+title: מחלקת קבוצה וצורה ראשונית — חלק 2
+language: he
+translation_status: language-reviewed
+translation_batch: 13
 ---
 
-_Analytically_, the concept of set class is useful because it can show coherence in a composition. Bartók's "[Subject and Reflection][1]," for example, uses the (02357) set class nearly exclusively—though it appears in many transpositions and inversions.
+*מבחינה אנליטית*, מושג מחלקת הקבוצה (set class) מועיל מפני שהוא יכול להראות לכידות ביצירה. למשל, ״[נושא ושיקוף][1]״ של ברטוק משתמש כמעט אך ורק במחלקת הקבוצה <bdi dir="ltr">(02357)</bdi>, אף שהיא מופיעה בטרנספוזיציות ובהיפוכים רבים.
 
-_Theoretically_, the concept is useful because it provides a prism through which we can begin to study the _possibilities_ provided to us by the twelve pitch-class universe. For almost 500 years, composers mostly used only a small subset of those possibilities (triads, seventh chords, and so forth). Set class lists reveals all of the other possibilities. They also give us hints as to why tonal composers used only a small portion of them and suggest entire worlds organized through other means. Fortunately for us, we don't need to create such a list because many others have! A particularly good list is found [here][2], and I'll give you another to keep in class.
+*מבחינה תאורטית*, המושג מועיל מפני שהוא מאפשר להתחיל לחקור את *האפשרויות* שמציע מרחב 12 מחלקות גובה הצליל. במשך כמעט 500 שנה השתמשו מלחינים בעיקר בתת־קבוצה קטנה של אפשרויות אלה: אקורדים משולשים, מרובעים וכן הלאה. רשימות מחלקות הקבוצה חושפות את כל יתר האפשרויות. הן גם רומזות מדוע השתמשו מלחינים טונליים רק בחלק קטן מהן ומציעות עולמות שלמים המאורגנים בדרכים אחרות. למזלנו אין צורך ליצור רשימה כזו, שכן רבים כבר עשו זאת. רשימה טובה במיוחד נמצאת [כאן][2], ורשימה נוספת תינתן בכיתה.
 
-Most of these set-class lists are organized similarly. Set classes that have the same number of notes in them (we say that they have the same "cardinality") are grouped together: trichords (three-note pitch-class sets) sit together, as do nonachords (nine-note pitch-class sets), and so on. 
+> **הערת מהדורה:** ההפניות המסומנות [1], [2] ו־[4] אינן מוגדרות בקובץ המקור. הן נשמרו כמצייני מקום; לא נבחרה להן כתובת חלופית ללא אימות. ראו N112.
 
-[![]({{ site.url }}/Graphics/postTonal/trichordsAndNonachords.png)]({{ site.url }}/Graphics/postTonal/trichordsAndNonachords.png)
+רוב הרשימות האלה מאורגנות באופן דומה. מחלקות קבוצה בעלות אותו מספר צלילים — אותה *עוצמת קבוצה* (cardinality) — מקובצות יחד: קבוצות בנות שלוש מחלקות גובה צליל (trichords) יחד, קבוצות בנות תשע (nonachords) יחד, וכן הלאה.
 
-Prime form for each set class is show in parenthesis. The "Forte Number" (3-1, 9-1, etc.), often adjacent to the prime form, was given to each set class by the famous music theorist [Allen Forte][4], who was one of the first to describe the set class list.
+[![מחלקות קבוצות בנות שלושה ובנות תשעה צלילים ברשימת מחלקות הקבוצה]({{ site.url }}/Graphics/postTonal/trichordsAndNonachords.png)]({{ site.url }}/Graphics/postTonal/trichordsAndNonachords.png)
 
-## Interval Class Vector##
+הצורה הראשונית (prime form) של כל מחלקת קבוצה מוצגת בסוגריים. ״מספר פורטה״ (Forte number), למשל <bdi dir="ltr">3-1</bdi> או <bdi dir="ltr">9-1</bdi>, המופיע לעיתים קרובות ליד הצורה הראשונית, ניתן לכל מחלקת קבוצה בידי התאורטיקן המפורסם [אלן פורטה][4], שהיה מן הראשונים שתיארו את רשימת מחלקות הקבוצה.
 
-The interval class vector next to each set class's prime form is particularly valuable. Think of it as a numeric representation of the "intervallic flavor" of each set class. IC vectors have six places <_ _ _ _ _ _> that are placeholders for interval classes 1–6. If a set class has a single interval class 1, it will have the digit 1 in the interval class vectors first placeholder. The IC vector <001110>, for example describes a trichord with 1 interval class 3, 1 interval class 4, and 1 interval class 5; that is, the major or minor triad, set class (037)!
+## וקטור מחלקות מרווח {#interval-class-vector}
+
+*וקטור מחלקות המרווח* (interval-class vector, IC vector) המופיע לצד הצורה הראשונית של כל מחלקת קבוצה מועיל במיוחד. חשבו עליו כייצוג מספרי של ״האופי המרווחי״ שלה. בווקטור שישה מקומות, <bdi dir="ltr">&lt;_ _ _ _ _ _&gt;</bdi>, עבור מחלקות המרווח 1–6. אם במחלקת קבוצה מופיעה מחלקת מרווח 1 פעם אחת, במקום הראשון בווקטור תופיע הספרה 1. למשל, הווקטור <bdi dir="ltr">&lt;001110&gt;</bdi> מתאר קבוצה בת שלושה צלילים ובה פעם אחת מחלקת מרווח 3, פעם אחת מחלקת מרווח 4 ופעם אחת מחלקת מרווח 5: אקורד משולש מז׳ורי או מינורי, מחלקת הקבוצה <bdi dir="ltr">(037)</bdi>!

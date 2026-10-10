@@ -1,21 +1,23 @@
 ---
 layout: post
-title: Twelve-Tone Music — Operations
+title: מוזיקת שנים־עשר טונים — פעולות
+language: he
+translation_status: language-reviewed
+translation_batch: 14
 ---
 
-Like pitch-class sets, twelve-tone rows can be transposed (*Tn*),  inverted (*I*), or transposed and inverted (*TnI*). Like [transposing a pitch-class set](transposition.html), transposing a row is accomplished by *adding* a constant value to all of the pitch-classes of the row *while maintaining the order*. In the example below, I have transposed **P11** by *T11* by adding 11 to each of the pitch classes of **P11**. The new row is called **P10** because it begins with pitch class 10. 
+כמו קבוצות מחלקות גובה צליל, שורות שנים־עשר טונים יכולות לעבור טרנספוזיציה (*Tn*), היפוך (*I*), או טרנספוזיציה והיפוך (*TnI*). כמו ב[טרנספוזיציה של קבוצה](transposition.html), מעתיקים שורה באמצעות *הוספת* ערך קבוע לכל מחלקות גובה הצליל שלה, *תוך שמירה על הסדר*. בדוגמה להלן הועתקה **P11** באמצעות *T11*, בהוספת 11 לכל מחלקה, במודולו 12. השורה החדשה מכונה **P10**, משום שהיא מתחילה במחלקה 10.
 
-Inversion occurs when we *subtract* each pitch class of the row from a constant value. Again referring to the example below, when I do *T10I* of **P11** is accomplished by subtracting every pitch class of **P11** from 10.
+היפוך מתבצע כאשר *מחסירים* כל מחלקת גובה צליל בשורה מערך קבוע. בדוגמה להלן, *T10I* של **P11** מתבצע באמצעות חיסור כל מחלקה של **P11** מ־10, וכך מתקבל היפוך של **P11**.
 
-Twelve-tone rows can be _retrograded_ as well, symbolized as *R*. To retrograde a row we read it backwards. Reading **P11** backwards results in the row form shown below **P11** in the example: R11. (Remember that retrograde rows are labeld according to their *final* pitch class.) Reading **I0** backwards results in **RI0**—just below it in the example.
+שורות שנים־עשר טונים יכולות לעבור גם *הילוך לאחור* (retrograde), המסומן *R*: קוראים את השורה בסדר הפוך. קריאת **P11** לאחור נותנת את צורת השורה המוצגת מתחת ל־**P11** בדוגמה, **R11**. זכרו ששורות לאחור מסומנות לפי מחלקת גובה הצליל *האחרונה*. קריאת **I0** לאחור נותנת **RI0**, המופיעה מיד מתחתיה.
 
-[![]({{ site.url }}/Graphics/postTonal/operations.png)]({{ site.url }}/Graphics/postTonal/operations.png)
+[![טרנספוזיציה, היפוך והילוך לאחור של שורת שנים־עשר טונים]({{ site.url }}/Graphics/postTonal/operations.png)]({{ site.url }}/Graphics/postTonal/operations.png)
 
-It's important that you know the difference between *operations* and row forms, because they are often labeled similarly. In these resources *operations* like transposition and inversion will always be italicized. ***Row forms*** will be bolded.
+חשוב להבחין בין *פעולות* לבין צורות שורה, מפני שסימוניהן לעיתים דומים. בחומרי עזר אלה, *פעולות* כגון טרנספוזיציה והיפוך יודגשו תמיד בכתב נטוי, ואילו **צורות שורה** בכתב מודגש.
 
-You need to memorize the effect of transposing, inverting, or retrograding any particular type of row. That is, you should know what kind of ***row form*** results when you perform any *operation* on it. For example, if you *transpose* a **P-form,** what kind of row form results? What about when you retrograde an **RI-form**? The flowchart below will be helpful:
+עליכם לשנן את השפעת הטרנספוזיציה, ההיפוך וההילוך לאחור על כל סוג שורה: לדעת איזו **צורת שורה** מתקבלת כאשר מבצעים עליה *פעולה*. למשל, אם מבצעים *טרנספוזיציה* לצורת **P**, איזה סוג מתקבל? ומה מתקבל כשמנגנים צורת **RI** לאחור? תרשים הזרימה להלן יסייע:
 
-[![]({{ site.url }}/Graphics/postTonal/abstractedRowClass.png)]({{ site.url }}/Graphics/postTonal/abstractedRowClass.png)
+[![תרשים השפעת הפעולות על סוגי צורות השורה]({{ site.url }}/Graphics/postTonal/abstractedRowClass.png)]({{ site.url }}/Graphics/postTonal/abstractedRowClass.png)
 
- 
-
+> **הערת מהדורה:** הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123.
