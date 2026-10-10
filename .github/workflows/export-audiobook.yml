@@ -6,10 +6,10 @@ on:
       mode:
         description: Generate more audio, or prepare transcripts without API calls
         type: choice
-        options: [generate, prepare]
+        options: [generate, tags, prepare]
         default: generate
   schedule:
-    - cron: '17 9 * * *'
+    - cron: '17 */2 * * *'
 
 permissions:
   contents: write
@@ -21,11 +21,11 @@ concurrency:
 jobs:
   audiobook:
     runs-on: ubuntu-24.04
-    timeout-minutes: 50
+    timeout-minutes: 115
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -62,11 +62,16 @@ jobs:
         if: inputs.mode == 'prepare'
         run: python scripts/export_audiobook.py --prepare-only
       - name: Generate next segments with the fixed model
-        if: inputs.mode != 'prepare'
+        if: inputs.mode != 'prepare' && inputs.mode != 'tags'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           AUDIOBOOK_COMMIT_CHECKPOINT: 'true'
         run: python scripts/export_audiobook.py
+      - name: Update existing audio tags without synthesis
+        if: inputs.mode == 'tags'
+        env:
+          AUDIOBOOK_COMMIT_CHECKPOINT: 'true'
+        run: python scripts/export_audiobook.py --tags-only
       - name: Preserve progress even after an error
         if: always() && inputs.mode != 'prepare'
         run: |
@@ -74,8 +79,8 @@ jobs:
             git -C dist/audiobook-state add --all .
             if ! git -C dist/audiobook-state diff --cached --quiet; then
               git -C dist/audiobook-state commit -m 'Preserve interrupted audiobook progress'
-              git -C dist/audiobook-state push origin HEAD:audiobook-data
             fi
+            git -C dist/audiobook-state push origin HEAD:audiobook-data
           fi
       - name: Publish completed chapters and progress report
         if: always()
