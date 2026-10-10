@@ -96,8 +96,9 @@ def main():
         meta, body = metadata(p)
         related[p]=[]
         # Liquid site references become local paths; never load the live website.
+        body = re.sub(r'\{\{\s*page\.title\s*\}\}\s*\n[=]+\s*\n', '', body)
         body = re.sub(r'\{\{\s*site\.(?:url|baseurl)\s*\}\}', SITE, body)
-        soup = BeautifulSoup(markdown.markdown(body, extensions=['tables','fenced_code','footnotes','toc']), 'html.parser')
+        soup = BeautifulSoup(markdown.markdown(body, extensions=['tables','fenced_code','footnotes','toc','attr_list']), 'html.parser')
         for t in soup.find_all(['script','style']): t.decompose()
         for t in soup.find_all(['iframe','audio','video','object','embed']):
             urls = [t.get('src') or t.get('data')] + [s.get('src') for s in t.find_all('source')]
@@ -227,7 +228,7 @@ def main():
                 if destination not in {a['destination'] for a in annex}: raise RuntimeError('Unresolved document link: '+destination)
                 annotation[NameObject('/A')]=DictionaryObject({NameObject('/S'):NameObject('/GoTo'),NameObject('/D'):TextStringObject(destination)})
                 links_rewritten+=1
-    writer.add_metadata({'/Title':'Open Music Theory — full static export','/Subject':'Current repository snapshot; mixed Hebrew/English','/Author':'Open Music Theory contributors; Hebrew edition contributors'})
+    writer.add_metadata({'/Title':'Open Music Theory — full static export','/Subject':'Hebrew translated text; original media and source annexes retained','/Author':'Open Music Theory contributors; Hebrew edition contributors'})
     pdf_out=out/'open-music-theory-static.pdf'
     with pdf_out.open('wb') as stream: writer.write(stream)
     final=PdfReader(pdf_out)

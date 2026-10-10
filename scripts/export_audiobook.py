@@ -202,11 +202,82 @@ def checkpoint(state, message):
         raise RuntimeError('Cannot inspect checkpoint changes')
 
 
+def refresh_metadata(folder, chapter, config, track, total):
+    """Modify ID3 only, retain original bytes, and recover interrupted tag updates."""
+    from mutagen.id3 import ID3, TIT2, TALB, TPE1, TPE2, TRCK, TLAN, TCOP, APIC, USLT, TXXX
+    audio = folder/'chapter.mp3'; receipt = folder/'receipt.json'
+    journal = folder/'metadata-update.json'
+    if journal.exists():
+        update = json.loads(journal.read_text())
+        actual = digest(audio.read_bytes())
+        if actual == update['receipt']['sha256']:
+            save_json(receipt, update['receipt'])
+        elif actual != update['old_sha256']:
+            raise RuntimeError('Interrupted metadata update checksum mismatch')
+        journal.unlink()
+    saved = json.loads(receipt.read_text())
+    if digest(audio.read_bytes()) != saved['sha256']:
+        raise RuntimeError('Completed chapter checksum mismatch')
+    # Embed actual narration only when its source version is known.
+    text = saved.get('narration_text')
+    if not text and saved['source_sha256'] == chapter['source_sha256']:
+        text = chapter['transcript']
+    cover = (ROOT/'images/gramophone.jpg').read_bytes()
+    fields = {'title':chapter['title'], 'track':f'{track}/{total}', 'model':config['model'],
+              'voice':config['voice'], 'source':saved['source'], 'narration_text':text,
+              'cover_sha256':digest(cover), 'version':1}
+    fingerprint = digest(json.dumps(fields,ensure_ascii=False,sort_keys=True).encode())
+    if saved.get('metadata_sha256') == fingerprint:
+        return
+    original = folder/'chapter-original.mp3'
+    if not original.exists():
+        atomic(original, audio.read_bytes())
+    temporary = folder/'metadata.mp3.tmp'
+    atomic(temporary, audio.read_bytes())
+    tags = ID3(temporary)
+    for frame in (TIT2(encoding=3,text=chapter['title']),
+                  TALB(encoding=3,text='תאוריית המוזיקה הפתוחה — המהדורה העברית'),
+                  TPE1(encoding=3,text=['Kris Shaffer','Bryn Hughes','Brian Moseley']),
+                  TPE2(encoding=3,text='Open Music Theory בעברית'),
+                  TRCK(encoding=3,text=fields['track']), TLAN(encoding=3,text='heb'),
+                  TCOP(encoding=3,text='CC BY-SA 4.0; see original chapter attribution'),
+                  APIC(encoding=3,mime='image/jpeg',type=3,desc='עטיפת הספר',data=cover)):
+        tags.add(frame)
+    if text:
+        tags.add(USLT(encoding=3,lang='heb',desc='תמליל הקריינות',text=text))
+    for key,value in [('Model',config['model']),('Voice',config['voice']),
+                      ('Source',saved['source']),('Source SHA256',saved['source_sha256']),
+                      ('Review','AI narration; listening review pending')]:
+        tags.add(TXXX(encoding=3,desc=key,text=value))
+    tags.save(temporary, v2_version=3)
+    ffmpeg(['-i',str(temporary),'-f','null','-'])
+    updated = dict(saved,sha256=digest(temporary.read_bytes()),metadata_sha256=fingerprint,
+                   metadata_version=1)
+    if text:
+        updated['narration_text'] = text
+    save_json(journal, {'old_sha256':saved['sha256'],'receipt':updated})
+    temporary.replace(audio)
+    save_json(receipt, updated)
+    journal.unlink()
+
+
+def existing_completed(work, chapter):
+    exact = work/chapter['id']
+    if (exact/'chapter.mp3').exists() and (exact/'receipt.json').exists():
+        return exact
+    for receipt in sorted(work.glob('*/receipt.json')):
+        saved = json.loads(receipt.read_text())
+        if saved.get('source') == chapter['source'] and (receipt.parent/'chapter.mp3').exists():
+            return receipt.parent
+    return exact
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--state',type=Path,default=ROOT/'dist/audiobook-state')
     parser.add_argument('--output',type=Path,default=ROOT/'dist/audiobook')
     parser.add_argument('--prepare-only',action='store_true')
+    parser.add_argument('--tags-only',action='store_true')
     args = parser.parse_args()
     config = json.loads((ROOT/'scripts/audiobook-config.json').read_text())
     edition, identity, chapters = prepare(config)
@@ -227,17 +298,18 @@ def main():
         print(f'Prepared {len(chapters)} Hebrew chapters / {sum(len(c["chunks"]) for c in chapters)} chunks; no API calls.')
         return
     api_key = os.environ.get('GEMINI_API_KEY','')
-    if not api_key:
+    if not api_key and not args.tags_only:
         raise RuntimeError('Missing repository secret GEMINI_API_KEY')
     begin = time.monotonic(); last_request = None; reason = None; fatal = None
     try:
-        for chapter in chapters:
-            folder = work/chapter['id']; folder.mkdir(exist_ok=True)
+        for track, chapter in enumerate(chapters,1):
+            folder = existing_completed(work, chapter); folder.mkdir(exist_ok=True)
             completed = folder/'chapter.mp3'; receipt = folder/'receipt.json'
             if completed.exists() and receipt.exists():
-                saved = json.loads(receipt.read_text())
-                if digest(completed.read_bytes()) != saved['sha256']:
-                    raise RuntimeError('Completed chapter checksum mismatch')
+                refresh_metadata(folder,chapter,config,track,len(chapters))
+                checkpoint(state,'Update audiobook tags '+chapter['source'])
+                continue
+            if args.tags_only:
                 continue
             seconds = 0
             for index, text in enumerate(chapter['chunks']):
@@ -268,7 +340,8 @@ def main():
             listing.unlink()
             save_json(receipt, {'title':chapter['title'],'source':chapter['source'],'source_sha256':chapter['source_sha256'],
                               'sha256':digest(completed.read_bytes()),'seconds':seconds,'chunks':len(chapter['chunks']),
-                              'review_status':'generated_needs_listening_review'})
+                              'review_status':'generated_needs_listening_review','narration_text':chapter['transcript']})
+            refresh_metadata(folder,chapter,config,track,len(chapters))
             checkpoint(state,'Complete audiobook chapter '+chapter['source'])
     except Paused as pause:
         reason = str(pause)
@@ -277,7 +350,7 @@ def main():
         fatal = str(error) if isinstance(error,RuntimeError) else type(error).__name__
     finally:
         for chapter in chapters:
-            folder = work/chapter['id']; completed = folder/'chapter.mp3'; receipt = folder/'receipt.json'
+            folder = existing_completed(work,chapter); completed = folder/'chapter.mp3'; receipt = folder/'receipt.json'
             item = {k:chapter[k] for k in ('source','title','filename','notices')}
             item['segments_ready'] = len(list(folder.glob('[0-9][0-9][0-9][0-9].json'))) if folder.exists() else 0
             item['segments_total'] = len(chapter['chunks'])
@@ -286,7 +359,7 @@ def main():
                 item.update(json.loads(receipt.read_text())); item['status']='generated'
                 atomic(output/'chapters'/chapter['filename'], completed.read_bytes())
             report['chapters'].append(item)
-        report['status'] = 'error' if fatal else 'paused' if reason else 'complete'
+        report['status'] = 'error' if fatal else 'paused' if reason else 'tags_updated' if args.tags_only else 'complete'
         report['reason'] = fatal or reason
         save_json(work/'progress.json',report); save_json(output/'progress.json',report)
         checkpoint(state,'Save audiobook progress '+report['status'])

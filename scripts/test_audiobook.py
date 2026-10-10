@@ -75,6 +75,27 @@ class AudiobookChecks(unittest.TestCase):
                  patch.object(book,'synthesize') as generate:
                 book.main()
             generate.assert_not_called()
+            # Changing written source identity must not resynthesize completed audio.
+            import subprocess
+            from mutagen.id3 import ID3
+            audio = Path(temp+'/state/test/test/chapter.mp3')
+            def decoded(path):
+                return subprocess.check_output(['ffmpeg','-v','error','-i',str(path),'-f','s16le','-'])
+            before = decoded(audio)
+            changed = dict(chapter,id='changed',source_sha256='changed-written-source')
+            with patch.dict(os.environ,{'GEMINI_API_KEY':'','AUDIOBOOK_COMMIT_CHECKPOINT':'false','GITHUB_STEP_SUMMARY':''}), \
+                 patch.object(sys,'argv',args+['--tags-only']), \
+                 patch.object(book,'prepare',return_value=('test',{},[changed])), \
+                 patch.object(book,'synthesize') as generate:
+                book.main()
+            generate.assert_not_called()
+            self.assertEqual(before,decoded(audio))
+            self.assertEqual(book.existing_completed(Path(temp+'/state/test'),changed),audio.parent)
+            tags = ID3(audio)
+            self.assertTrue(tags.getall('APIC'))
+            self.assertEqual(tags.getall('USLT')[0].text,chapter['transcript'])
+            self.assertTrue((audio.parent/'chapter-original.mp3').exists())
+
 
 
 if __name__ == '__main__':
