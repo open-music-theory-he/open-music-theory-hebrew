@@ -19,6 +19,7 @@ h1,h2,h3,h4 { break-after: avoid; } a { color: #235f90; overflow-wrap: anywhere;
 section.chapter, section.asset { break-before: page; } img { max-width: 100%; height: auto; max-height: 235mm; object-fit: contain; }
 table { border-collapse: collapse; width: 100%; font-size: 9pt; margin: 8pt 0; }
 th,td { border: .5pt solid #bcc9d5; padding: 4pt; vertical-align: top; } th { background: #edf3f8; }
+table.wide { table-layout: fixed; font-size: 7.5pt; } table.wide th,table.wide td { padding: 2pt; overflow-wrap: anywhere; } table.wide th:first-child,table.wide td:first-child { width: 28%; }
 thead { display: table-header-group; } tr,figure { break-inside: avoid; } figure { margin: 8pt 0; }
 pre { white-space: pre-wrap; overflow-wrap: anywhere; direction: ltr; text-align: left; font-size: 8pt; }
 code,bdi { direction: ltr; unicode-bidi: isolate; } blockquote { border-inline-start: 3pt solid #9db6cd; padding-inline-start: 8pt; margin-inline: 0; }
@@ -67,6 +68,8 @@ def ordered_documents(files):
 def local_target(url, current):
     url = html.unescape(url).strip()
     for prefix in (SITE, 'http://openmusictheory.com', 'https://openmusictheory.com', 'https://openmusictheory.github.io'):
+        if url.rstrip('/') == prefix:
+            return None
         if url.startswith(prefix+'/'):
             return ROOT/unquote(url[len(prefix)+1:].split('#')[0].split('?')[0])
     parts = urlsplit(url)
@@ -99,6 +102,10 @@ def main():
         body = re.sub(r'\{\{\s*page\.title\s*\}\}\s*\n[=]+\s*\n', '', body)
         body = re.sub(r'\{\{\s*site\.(?:url|baseurl)\s*\}\}', SITE, body)
         soup = BeautifulSoup(markdown.markdown(body, extensions=['tables','fenced_code','footnotes','toc','attr_list']), 'html.parser')
+        for table in soup.find_all('table'):
+            row = table.find('tr')
+            if row and len(row.find_all(['th','td'])) > 8:
+                table['class'] = table.get('class',[]) + ['wide']
         for t in soup.find_all(['script','style']): t.decompose()
         for t in soup.find_all(['iframe','audio','video','object','embed']):
             urls = [t.get('src') or t.get('data')] + [s.get('src') for s in t.find_all('source')]
@@ -162,7 +169,7 @@ def main():
         rendered.append(f'<section class="asset" id="{key(p)}"><h2 dir="rtl">נספח תמונות</h2><p class="path">{html.escape(aliases[p])}</p><img src="{p.as_uri()}" alt="{html.escape(p.name)}"></section>')
     commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     toc=''.join(f'<li><a href="#{key(p)}">{html.escape(titles[p])}</a></li>' for p in documents)
-    cover=f'''<div class="cover" dir="rtl"><h1>תאוריית המוזיקה הפתוחה</h1><h2>יצוא סטטי מלא של המאגר</h2><p>היצוא כולל את כל פרקי הטקסט הקיימים, בעברית ובאנגלית, ותיעוד הפרויקט. תרגום הספר עדיין בתהליך.</p><p>תמונות משולבות בפרקים; תמונות נוספות ומסמכי PDF מצורפים מיד אחרי הפרקים המקושרים אליהם. מסמכים ללא הפניה מצורפים בסוף. וידאו ותרגילים מקוונים מופיעים כהפניות בלבד. אין הורדה של תוכן משירותי צד שלישי.</p><p>מקור: Open Music Theory. תרגום בסיוע AI. קרדיטים ורישיונות המקור נשמרים במאגר המצורף; טקסט הספר CC BY-SA 4.0.</p><p class="path">Commit: {commit}</p></div><section class="toc" dir="rtl"><h1>תוכן עניינים</h1><ol>{toc}</ol></section>'''
+    cover=f'''<div class="cover" dir="rtl"><h1>תאוריית המוזיקה הפתוחה</h1><h2>יצוא סטטי מלא של המאגר</h2><p>היצוא כולל את פרקי הטקסט שתורגמו לעברית ואת תיעוד הפרויקט. הגהה מקצועית עצמאית עדיין נדרשת; נכסי המדיה והמסמכים המקוריים נשמרים בשפת המקור.</p><p>תמונות משולבות בפרקים; תמונות נוספות ומסמכי PDF מצורפים מיד אחרי הפרקים המקושרים אליהם. מסמכים ללא הפניה מצורפים בסוף. וידאו ותרגילים מקוונים מופיעים כהפניות בלבד. אין הורדה של תוכן משירותי צד שלישי.</p><p>מקור: Open Music Theory. תרגום בסיוע AI. קרדיטים ורישיונות המקור נשמרים במאגר המצורף; טקסט הספר CC BY-SA 4.0.</p><p class="path">Commit: {commit}</p></div><section class="toc" dir="rtl"><h1>תוכן עניינים</h1><ol>{toc}</ol></section>'''
     rendered.append('<section class="asset" id="export-end"><h1 dir="rtl">סיום החומר הסטטי</h1></section>')
     document=f'<!doctype html><html lang="he"><meta charset="utf-8"><style>{CSS}</style><body>{cover}{"".join(rendered)}</body></html>'
     # Old English heading fragments may no longer exist after translation.

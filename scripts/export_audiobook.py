@@ -225,7 +225,7 @@ def refresh_metadata(folder, chapter, config, track, total):
     cover = (ROOT/'images/gramophone.jpg').read_bytes()
     fields = {'title':chapter['title'], 'track':f'{track}/{total}', 'model':config['model'],
               'voice':config['voice'], 'source':saved['source'], 'narration_text':text,
-              'cover_sha256':digest(cover), 'version':1}
+              'cover_sha256':digest(cover), 'artists':['Kris Shaffer','Bryn Hughes','Brian Moseley'], 'version':1}
     fingerprint = digest(json.dumps(fields,ensure_ascii=False,sort_keys=True).encode())
     if saved.get('metadata_sha256') == fingerprint:
         return
@@ -319,6 +319,22 @@ def main():
                     if saved['text_sha256'] != digest(text.encode()) or saved['sha256'] != digest(segment.read_bytes()):
                         raise RuntimeError('Saved segment checksum mismatch')
                     seconds += saved['seconds']; continue
+                # Reuse identical saved narration even if the written source ID changed.
+                reused = False
+                for previous in sorted(work.glob(Path(chapter['source']).stem+'-*')):
+                    for old_receipt in previous.glob('[0-9][0-9][0-9][0-9].json'):
+                        saved = json.loads(old_receipt.read_text())
+                        old_audio = old_receipt.with_suffix('.mp3')
+                        if saved.get('text_sha256') == digest(text.encode()) and old_audio.exists():
+                            if saved['sha256'] != digest(old_audio.read_bytes()):
+                                raise RuntimeError('Saved segment checksum mismatch')
+                            atomic(segment,old_audio.read_bytes()); save_json(segment_receipt,saved)
+                            seconds += saved['seconds']; reused = True; break
+                    if reused:
+                        break
+                if reused:
+                    checkpoint(state,'Reuse saved audiobook segment '+chapter['source'])
+                    continue
                 if report['requests_this_run'] >= config['max_requests_per_run'] or time.monotonic()-begin >= config['max_run_seconds']:
                     raise Paused('run_budget_reached')
                 if last_request is not None:
