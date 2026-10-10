@@ -50,7 +50,7 @@
       "notices": [
         "musical_notation_needs_listening_review"
       ],
-      "segments_ready": 1,
+      "segments_ready": 3,
       "segments_total": 6,
       "status": "pending"
     },
@@ -1512,6 +1512,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 2,
-  "reason": "quota_or_rate_limit_429"
+  "requests_this_run": 3,
+  "reason": "service_temporarily_unavailable_503"
 }
