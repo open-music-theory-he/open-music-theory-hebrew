@@ -5,7 +5,7 @@
   "style": "Clear, warm educational audiobook narration, measured pace, natural pauses.",
   "chunk_characters": 1200,
   "builder_version": 1,
-  "status": "tags_updated",
+  "status": "paused",
   "chapters": [
     {
       "source": "hebrew-introduction.md",
@@ -50,7 +50,7 @@
       "notices": [
         "musical_notation_needs_listening_review"
       ],
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 6,
       "status": "pending"
     },
@@ -1512,6 +1512,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 0,
-  "reason": null
+  "requests_this_run": 2,
+  "reason": "quota_or_rate_limit_429"
 }
