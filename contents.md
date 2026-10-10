@@ -157,7 +157,7 @@ language: he
 
 ### תאוריית שנים־עשר טונים
 
-[תאוריית שנים־עשר טונים — יסודות](twelveToneיסודות.html)<br><br>
+[תאוריית שנים־עשר טונים — יסודות](twelveToneBasics.html)<br><br>
 [מוזיקת שנים־עשר טונים — פעולות](twelveToneOperations.html)<br><br>
 [מוזיקת שנים־עשר טונים — מבנה מרווחי](twelveToneIntervallicStructure.html)<br><br>
 [מוזיקת שנים־עשר טונים — שורות נגזרות](twelveToneMusicDerivation.html)<br><br>

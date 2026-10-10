@@ -65,7 +65,7 @@ translation_status: support-reviewed
 [עירוב מודאלי][mixture]  
 [מודולציה][Modulation]  
 
-[הרמוניה במוזיקת פופ ורוק][popRockהרמוניה]    
+[הרמוניה במוזיקת פופ ורוק][popRockHarmony]    
 
 ###### דפי עזר ותרשימים ######
 
@@ -104,7 +104,7 @@ translation_status: support-reviewed
 [צורת רונדו בת חמישה חלקים](fivePartRondo.html)  
 [סונטה־רונדו](sonataRondo.html)  
 
-[צורה בפופ וברוק — סקירה][popRockצורה]  
+[צורה בפופ וברוק — סקירה][popRockForm]  
 
 [טיפוסי נושא קלאסיים — דף עזר][classicalThemes]   
 [מבוא לתפקידים מוזיקליים](functions.html)  
@@ -129,8 +129,8 @@ translation_status: support-reviewed
 [סדר נורמלי](normalOrder.html)  
 [טרנספוזיציה](transposition.html)  
 [היפוך במוזיקה פוסט־טונלית](inversion.html)  
-[מחלקת קבוצה וצורה ראשונית — חלק 1](setClassAndPrimeצורה1.html)  
-[מחלקת קבוצה וצורה ראשונית — חלק 2](setClassAndPrimeצורה2.html)  
+[מחלקת קבוצה וצורה ראשונית — חלק 1](setClassAndPrimeForm1.html)  
+[מחלקת קבוצה וצורה ראשונית — חלק 2](setClassAndPrimeForm2.html)  
 [קבוצות משלימות](complements.html)  
 [צלילים משותפים תחת טרנספוזיציה](commonTonesUnderTransposition.html)  
 צלילים משותפים תחת היפוך — נושא ללא פרק במקור.  
@@ -138,7 +138,7 @@ translation_status: support-reviewed
 
 **תאוריית שנים־עשר טונים**  
 
-[תאוריית שנים־עשר טונים — יסודות](twelveToneיסודות.html)  
+[תאוריית שנים־עשר טונים — יסודות](twelveToneBasics.html)  
 [מוזיקת שנים־עשר טונים — פעולות](twelveToneOperations.html)  
 [מוזיקת שנים־עשר טונים — מבנה מרווחי](twelveToneIntervallicStructure.html)  
 [מוזיקת שנים־עשר טונים — שורות נגזרות](twelveToneMusicDerivation.html)  
@@ -202,7 +202,7 @@ translation_status: support-reviewed
 [functions]: functions.html
 [harmFunc]: harmonicFunctions.html
 [harmSyntax]: harmonicSyntax.html
-[popRockהרמוניה]: popRockהרמוניה.html
+[popRockHarmony]: popRockHarmony.html
 
 [unfiguredBass]: unfiguredBass.html
 [RNfromFB]: RNfromFB.html
@@ -220,7 +220,7 @@ translation_status: support-reviewed
 [SonataIntro]: SonataTheory-intro.html
 [SonataExpo]: SonataTheory-exposition.html
 [SonataRecap]: sonataRecap.html
-[popRockצורה]: popRockצורה.html
+[popRockForm]: popRockForm.html
 [syncopation]: syncopation.html
 [sightSinging]: sightSinging.html
 [addCC]: addCC.html
