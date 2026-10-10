@@ -174,9 +174,14 @@
         "musical_notation_needs_listening_review",
         "table_linearized_needs_listening_review"
       ],
-      "segments_ready": 0,
+      "segments_ready": 8,
       "segments_total": 8,
-      "status": "pending"
+      "status": "generated",
+      "source_sha256": "7447b5b2314771f9d92a71ea027cbd90f670f9b88d09be03a7383ed7e88e7876",
+      "sha256": "c031ca3339890430fbe56d22356e3ab9fd2404ff8c7f4a598b6f876a42165356",
+      "seconds": 730.68,
+      "chunks": 8,
+      "review_status": "generated_needs_listening_review"
     },
     {
       "source": "triads.md",
@@ -185,7 +190,7 @@
       "notices": [
         "musical_notation_needs_listening_review"
       ],
-      "segments_ready": 0,
+      "segments_ready": 3,
       "segments_total": 8,
       "status": "pending"
     },
@@ -719,6 +724,6 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 3,
+  "requests_this_run": 12,
   "reason": "quota_or_rate_limit_429"
 }
