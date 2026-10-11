@@ -1552,9 +1552,9 @@
       "status": "pending"
     }
   ],
-  "requests_this_run": 9,
+  "requests_this_run": 6,
   "retries_this_run": 5,
-  "segments_generated_this_run": 3,
-  "chapters_completed_this_run": 1,
+  "segments_generated_this_run": 0,
+  "chapters_completed_this_run": 0,
   "reason": "quota_or_rate_limit_429_retries_exhausted"
 }
