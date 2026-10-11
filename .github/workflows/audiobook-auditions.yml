@@ -1,0 +1,61 @@
+name: Audiobook voice and pronunciation auditions
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: audiobook-auditions
+  cancel-in-progress: false
+jobs:
+  auditions:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install audition tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install -r scripts/requirements-audiobook.txt
+      - name: Restore independent audition state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mkdir -p dist
+          if git ls-remote --heads origin audiobook-auditions | rg -q audiobook-auditions; then
+            git fetch origin audiobook-auditions
+            git worktree add --detach dist/audiobook-auditions FETCH_HEAD
+          else
+            git worktree add --detach --no-checkout dist/audiobook-auditions HEAD
+            git -C dist/audiobook-auditions switch --orphan audiobook-auditions
+          fi
+      - name: Generate auditions only
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AUDITION_CHECKPOINT: 'true'
+        run: python -u scripts/audiobook_auditions.py
+      - name: Preserve every completed sample
+        if: always()
+        run: |
+          if [ -d dist/audiobook-auditions ]; then
+            git -C dist/audiobook-auditions add --all .
+            if ! git -C dist/audiobook-auditions diff --cached --quiet; then
+              git -C dist/audiobook-auditions commit -m 'Preserve interrupted auditions'
+            fi
+            git -C dist/audiobook-auditions push origin HEAD:audiobook-auditions
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: audiobook-auditions
+          path: |
+            dist/audiobook-auditions/*.mp3
+            dist/audiobook-auditions/*.wav
+            dist/audiobook-auditions/*.json
+            dist/audiobook-auditions/index.html
+          retention-days: 30
