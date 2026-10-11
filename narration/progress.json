@@ -1,5 +1,5 @@
 {
-  "prepared_chapters": 2,
+  "prepared_chapters": 3,
   "total_chapters": 126,
   "audio_production_enabled": false,
   "chapters": [
@@ -15,6 +15,13 @@
       "source": "fixed-and-movable-do.md",
       "blocks": 24,
       "visual_explanations": 2,
+      "status": "text-reviewed-awaiting-pronunciation-choice"
+    },
+    {
+      "chapter": 3,
+      "source": "about.md",
+      "blocks": 24,
+      "visual_explanations": 0,
       "status": "text-reviewed-awaiting-pronunciation-choice"
     }
   ],
