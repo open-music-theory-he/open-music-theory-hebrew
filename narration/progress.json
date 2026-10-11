@@ -1,5 +1,5 @@
 {
-  "prepared_chapters": 4,
+  "prepared_chapters": 5,
   "total_chapters": 126,
   "audio_production_enabled": false,
   "chapters": [
@@ -30,12 +30,20 @@
       "blocks": 19,
       "visual_explanations": 4,
       "status": "text-reviewed-awaiting-pronunciation-choice"
+    },
+    {
+      "chapter": 5,
+      "source": "meter.md",
+      "blocks": 42,
+      "media_explanations": 20,
+      "status": "text-reviewed-awaiting-pronunciation-choice"
     }
   ],
   "notes": [
     "ניקוד תָּו זמני עד לבחירת דוגמת ההגייה.",
     "הוסר סימון עיצוב בלבד; טקסט קישורים נשמר ומטרותיהם נמצאות בתיעוד המקור.",
     "דוגמאות הקריינות אינן אישור להפקת הספר.",
-    "פרק 004: ארבעת האיורים נבדקו חזותית, כולל המעבר למפתח סול ביד שמאל בדוגמת קווי העזר."
+    "פרק 004: ארבעת האיורים נבדקו חזותית, כולל המעבר למפתח סול ביד שמאל בדוגמת קווי העזר.",
+    "פרק 005: נגני Vimeo ו־Spotify תוארו כקישורים; הכיתובים נשמרו בדיוק. לא נטען שתוכנם נצפה או הוקלט מחדש."
   ]
 }

@@ -1,0 +1,229 @@
+{
+  "chapter": 5,
+  "source": "meter.md",
+  "title": "005 — המשקל וסימניו",
+  "source_sha256": "14d92bc6aee220c4226db19cbdca374c134365dcc201fe37db8124ad1845b20b",
+  "status": "text-reviewed-awaiting-pronunciation-choice",
+  "opening_asset": "pending-user-approval",
+  "voice": "pending-user-selection",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source": "*משקל (meter)* מתאר כיצד כמה רבדים של דופק פועלים יחד לארגון המוזיקה בזמן. את המשקלים המקובלים במוזיקה המערבית אפשר לסווג כ*פשוטים (simple)* או *מורכבים (compound)*, ובמקביל כ*דו־פעימתיים (duple)*, *תלת־פעימתיים (triple)* או *ארבע־פעימתיים (quadruple)*. ",
+      "spoken": "משקל (meter) מתאר כיצד כמה רבדים של דופק פועלים יחד לארגון המוזיקה בזמן. את המשקלים המקובלים במוזיקה המערבית אפשר לסווג כפשוטים (simple) או מורכבים (compound), ובמקביל כדו־פעימתיים (duple), תלת־פעימתיים (triple) או ארבע־פעימתיים (quadruple). "
+    },
+    {
+      "kind": "verbatim",
+      "source": "הסיווג לדו־פעימתי, תלת־פעימתי וארבע־פעימתי נובע מן היחס בין הדופק שלפיו סופרים לבין רבדי דופק *איטיים יותר*. במילים אחרות, זוהי שאלה של *קיבוץ*: כמה פעימות יש בכל תיבה. קיבוץ הפעימות לשתיים יוצר משקל דו־פעימתי; לשלוש — תלת־פעימתי; ולארבע — ארבע־פעימתי. תבניות הניצוח נקבעות לפי סיווג זה. ",
+      "spoken": "הסיווג לדו־פעימתי, תלת־פעימתי וארבע־פעימתי נובע מן היחס בין הדופק שלפיו סופרים לבין רבדי דופק איטיים יותר. במילים אחרות, זוהי שאלה של קיבוץ: כמה פעימות יש בכל תיבה. קיבוץ הפעימות לשתיים יוצר משקל דו־פעימתי; לשלוש — תלת־פעימתי; ולארבע — ארבע־פעימתי. תבניות הניצוח נקבעות לפי סיווג זה. "
+    },
+    {
+      "kind": "verbatim",
+      "source": "הסיווג לפשוט ולמורכב נובע מן היחס בין הדופק שלפיו סופרים לבין רבדי דופק *מהירים יותר*. זוהי שאלה של *חלוקה*: האם כל פעימה מתחלקת לשני חלקים שווים או לשלושה? במשקל פשוט הפעימה מתחלקת לשניים, ובמשקל מורכב לשלושה. ",
+      "spoken": "הסיווג לפשוט ולמורכב נובע מן היחס בין הדופק שלפיו סופרים לבין רבדי דופק מהירים יותר. זוהי שאלה של חלוקה: האם כל פעימה מתחלקת לשני חלקים שווים או לשלושה? במשקל פשוט הפעימה מתחלקת לשניים, ובמשקל מורכב לשלושה. "
+    },
+    {
+      "kind": "verbatim",
+      "source": "מכאן שששת סוגי המשקל המקובלים המתוארים כאן הם:",
+      "spoken": "מכאן שששת סוגי המשקל המקובלים המתוארים כאן הם:"
+    },
+    {
+      "kind": "verbatim",
+      "source": "- פשוט דו־פעימתי: הפעימות מקובצות לשתיים וכל פעימה מתחלקת לשניים\n- פשוט תלת־פעימתי: הפעימות מקובצות לשלוש וכל פעימה מתחלקת לשניים\n- פשוט ארבע־פעימתי: הפעימות מקובצות לארבע וכל פעימה מתחלקת לשניים\n- מורכב דו־פעימתי: הפעימות מקובצות לשתיים וכל פעימה מתחלקת לשלושה\n- מורכב תלת־פעימתי: הפעימות מקובצות לשלוש וכל פעימה מתחלקת לשלושה\n- מורכב ארבע־פעימתי: הפעימות מקובצות לארבע וכל פעימה מתחלקת לשלושה",
+      "spoken": "- פשוט דו־פעימתי: הפעימות מקובצות לשתיים וכל פעימה מתחלקת לשניים\n- פשוט תלת־פעימתי: הפעימות מקובצות לשלוש וכל פעימה מתחלקת לשניים\n- פשוט ארבע־פעימתי: הפעימות מקובצות לארבע וכל פעימה מתחלקת לשניים\n- מורכב דו־פעימתי: הפעימות מקובצות לשתיים וכל פעימה מתחלקת לשלושה\n- מורכב תלת־פעימתי: הפעימות מקובצות לשלוש וכל פעימה מתחלקת לשלושה\n- מורכב ארבע־פעימתי: הפעימות מקובצות לארבע וכל פעימה מתחלקת לשלושה"
+    },
+    {
+      "kind": "verbatim",
+      "source": "בסימן המשקל, *המספר העליון* — ורק המספר העליון — מתאר את סוג המשקל. להלן המספרים העליונים המתאימים לסוגי המשקל שתוארו:",
+      "spoken": "בסימן המשקל, המספר העליון — ורק המספר העליון — מתאר את סוג המשקל. להלן המספרים העליונים המתאימים לסוגי המשקל שתוארו:"
+    },
+    {
+      "kind": "verbatim",
+      "source": "- פשוט דו־פעימתי: 2\n- פשוט תלת־פעימתי: 3\n- פשוט ארבע־פעימתי: 4\n- מורכב דו־פעימתי: 6\n- מורכב תלת־פעימתי: 9\n- מורכב ארבע־פעימתי: 12",
+      "spoken": "- פשוט דו־פעימתי: 2\n- פשוט תלת־פעימתי: 3\n- פשוט ארבע־פעימתי: 4\n- מורכב דו־פעימתי: 6\n- מורכב תלת־פעימתי: 9\n- מורכב ארבע־פעימתי: 12"
+    },
+    {
+      "kind": "verbatim",
+      "source": "## תיווי המשקל",
+      "spoken": "תיווי המשקל"
+    },
+    {
+      "kind": "verbatim",
+      "source": "ב*משקלים פשוטים*, המספר התחתון בסימן המשקל מציין את ערך התו של *פעימה אחת*. אם הפעימה היא רבע, המספר התחתון הוא 4; אם היא חצי, המספר התחתון הוא 2; ואם היא שמינית, המספר התחתון הוא 8, וכן הלאה. ",
+      "spoken": "במשקלים פשוטים, המספר התחתון בסימן המשקל מציין את ערך התָּו של פעימה אחת. אם הפעימה היא רבע, המספר התחתון הוא 4; אם היא חצי, המספר התחתון הוא 2; ואם היא שמינית, המספר התחתון הוא 8, וכן הלאה. "
+    },
+    {
+      "kind": "verbatim",
+      "source": "ב*משקלים מורכבים*, המספר התחתון מציין את ערך התו של *חלק אחד מחלוקת הפעימה*. אם הפעימה היא רבע מנוקד, כל חלק הוא שמינית, ולכן המספר התחתון הוא 8. אם הפעימה היא חצי מנוקד, כל חלק הוא רבע, ולכן המספר התחתון הוא 4. מכיוון שהפעימה מתחלקת לשלושה, משכה גדול פי שלושה ממשך התו של החלוקה, ו*תו הפעימה מנוקד*.",
+      "spoken": "במשקלים מורכבים, המספר התחתון מציין את ערך התָּו של חלק אחד מחלוקת הפעימה. אם הפעימה היא רבע מנוקד, כל חלק הוא שמינית, ולכן המספר התחתון הוא 8. אם הפעימה היא חצי מנוקד, כל חלק הוא רבע, ולכן המספר התחתון הוא 4. מכיוון שהפעימה מתחלקת לשלושה, משכה גדול פי שלושה ממשך התָּו של החלוקה, ותָּו הפעימה מנוקד."
+    },
+    {
+      "kind": "verbatim",
+      "source": "## זיהוי המשקל בהאזנה",
+      "spoken": "זיהוי המשקל בהאזנה"
+    },
+    {
+      "kind": "verbatim",
+      "source": "להסבר מפורט יותר, בדגש על שמיעה וזיהוי של המשקלים המקובלים, צפו בשני הסרטונים הבאים:",
+      "spoken": "להסבר מפורט יותר, בדגש על שמיעה וזיהוי של המשקלים המקובלים, צפו בשני הסרטונים הבאים:"
+    },
+    {
+      "kind": "verbatim",
+      "source": "> **הערת זמינות:** בבדיקת הקישורים ב־6 באוקטובר 2026, עמודי שני סרטוני Vimeo שלהלן השיבו 404. הקישורים נשמרו מן המקור, אך צפייה בהם טרם אומתה.",
+      "spoken": "הערת זמינות: בבדיקת הקישורים ב־6 באוקטובר 2026, עמודי שני סרטוני Vimeo שלהלן השיבו 404. הקישורים נשמרו מן המקור, אך צפייה בהם טרם אומתה."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://player.vimeo.com/video/127952221\" width=\"500\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class=\"caption\"><a href=\"https://vimeo.com/127952221\">משקל — הדופק שלפיו סופרים</a> from <a href=\"https://vimeo.com/user11692346\">Kris Shaffer</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן וידאו להסבר על המשקל. זהו אחד משני הסרטונים שהטקסט מפנה אליהם; זמינותם לא אומתה, כפי שצוין בהערת הזמינות. הכיתוב שמתחת לנגן הוא: משקל — הדופק שלפיו סופרים from Kris Shaffer on Vimeo."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://player.vimeo.com/video/127955738\" width=\"500\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class=\"caption\"><a href=\"https://vimeo.com/127955738\">משקל — קיבוץ וחלוקה</a> from <a href=\"https://vimeo.com/user11692346\">Kris Shaffer</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן וידאו להסבר על המשקל. זהו אחד משני הסרטונים שהטקסט מפנה אליהם; זמינותם לא אומתה, כפי שצוין בהערת הזמינות. הכיתוב שמתחת לנגן הוא: משקל — קיבוץ וחלוקה from Kris Shaffer on Vimeo."
+    },
+    {
+      "kind": "verbatim",
+      "source": "להלן הדוגמאות המוזיקליות שאליהן מתייחסים הסרטונים:",
+      "spoken": "להלן הדוגמאות המוזיקליות שאליהן מתייחסים הסרטונים:"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"Come Out Clean,\" Jump Little Children</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"Come Out Clean,\" Jump Little Children"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"With or Without You,\" U2</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"With or Without You,\" U2"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"The Tourist,\" Radiohead</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"The Tourist,\" Radiohead"
+    },
+    {
+      "kind": "verbatim",
+      "source": "## דוגמאות",
+      "spoken": "דוגמאות"
+    },
+    {
+      "kind": "verbatim",
+      "source": "### משקל פשוט דו־פעימתי",
+      "spoken": "משקל פשוט דו־פעימתי"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">סימפוניה מס׳ 5, פרק IV, לודוויג ואן בטהובן</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: סימפוניה מס׳ 5, פרק IV, לודוויג ואן בטהובן"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:1mblryRrYNlSJqvrrtvzyq\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"Idioteque,\" Radiohead</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"Idioteque,\" Radiohead"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:3QKUA7OAaQu3Zl1cqMa9gq\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">סונטה מס׳ 1 ב־F מינור, אופ׳ 2 מס׳ 1, פרק I, לודוויג ואן בטהובן</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: סונטה מס׳ 1 ב־F מינור, אופ׳ 2 מס׳ 1, פרק I, לודוויג ואן בטהובן"
+    },
+    {
+      "kind": "verbatim",
+      "source": "### משקל פשוט תלת־פעימתי",
+      "spoken": "משקל פשוט תלת־פעימתי"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">רביעיית כלי קשת מס׳ 15 ב־D מינור, K. 421, פרק III, וולפגנג אמדאוס מוצרט</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: רביעיית כלי קשת מס׳ 15 ב־D מינור, K. 421, פרק III, וולפגנג אמדאוס מוצרט"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:6T5JlpcvC0RbPpexl8xXMI\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">סימפוניה מס׳ 90 ב־C מז׳ור, Hob: I:90, פרק III, יוזף היידן</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: סימפוניה מס׳ 90 ב־C מז׳ור, Hob: I:90, פרק III, יוזף היידן"
+    },
+    {
+      "kind": "verbatim",
+      "source": "### משקל פשוט ארבע־פעימתי",
+      "spoken": "משקל פשוט ארבע־פעימתי"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"With or Without You,\" U2</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"With or Without You,\" U2"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"Come Out Clean,\" Jump Little Children</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"Come Out Clean,\" Jump Little Children"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"Shh,\" Imogen Heap</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"Shh,\" Imogen Heap"
+    },
+    {
+      "kind": "verbatim",
+      "source": "### משקל מורכב דו־פעימתי",
+      "spoken": "משקל מורכב דו־פעימתי"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:0qksx8mV28lztYIZ1om8ml\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"Shiver,\" Radiohead</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"Shiver,\" Radiohead"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:1w6C2YqIHygosg9OY6v7Wl\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">רביעיית כלי קשת מס׳ 17 ב־B במול מז׳ור, K. 458, ״הציד״, פרק I, וולפגנג אמדאוס מוצרט</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: רביעיית כלי קשת מס׳ 17 ב־B במול מז׳ור, K. 458, ״הציד״, פרק I, וולפגנג אמדאוס מוצרט"
+    },
+    {
+      "kind": "verbatim",
+      "source": "### משקל מורכב תלת־פעימתי",
+      "spoken": "משקל מורכב תלת־פעימתי"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"The Tourist,\" Radiohead</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"The Tourist,\" Radiohead"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:4mu9wgDkwUSbOGvx2iQfFf\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">סונטה מס׳ 42 ב־G מז׳ור, Hob. XVI:27, פרק II, יוזף היידן</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: סונטה מס׳ 42 ב־G מז׳ור, Hob. XVI:27, פרק II, יוזף היידן"
+    },
+    {
+      "kind": "verbatim",
+      "source": "### משקל מורכב ארבע־פעימתי",
+      "spoken": "משקל מורכב ארבע־פעימתי"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:76ZDwA8uTyMys4LIS3pBUX\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">\"Exogenesis: Symphony Part 3,\" Muse</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: \"Exogenesis: Symphony Part 3,\" Muse"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:70TI9J2rsGIuXyFqVzOswh\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">סונטה מס׳ 14 ב־C דיאז מינור, אופ׳ 27 מס׳ 2, ״אור הירח״, פרק I, לודוויג ואן בטהובן</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: סונטה מס׳ 14 ב־C דיאז מינור, אופ׳ 27 מס׳ 2, ״אור הירח״, פרק I, לודוויג ואן בטהובן"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe src=\"https://embed.spotify.com/?uri=spotify:track:6M1Eo5wuTl8f5qbpLCuph0\" width=\"300\" height=\"80\" frameborder=\"0\" allowtransparency=\"true\"></iframe><p class=\"caption\">הפסיון על פי מתי, מס׳ 1, מקהלה, ״Kommt, ihr Töchter, helft mir klagen״, יוהאן סבסטיאן באך</p>",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן שמע מקושר ב־Spotify לדוגמה המוזיקלית. הנגן מאפשר להאזין ליצירה באתר; תוכן ההקלטה אינו משולב בקריינות זו. הכיתוב שמתחת לנגן הוא: הפסיון על פי מתי, מס׳ 1, מקהלה, ״Kommt, ihr Töchter, helft mir klagen״, יוהאן סבסטיאן באך"
+    },
+    {
+      "kind": "verbatim",
+      "source": "> **הערת המהדורה העברית:** הסיווג עוסק במשקלים המקובלים ובאופן הספירה המתואר כאן. בטמפו איטי או בפרשנות אחרת אפשר לשמוע ולספור רבדי פעימה שונים; למשל, 6/8 יכול להיספר בשש שמיניות אף שהקיבוץ המתואר הוא של שתי פעימות רבע מנוקד. בכיתוב הדוגמה של מוצרט תוקנה שגיאת הדפוס Strong Quartet ל־String Quartet, כלומר רביעיית כלי קשת.",
+      "spoken": "הערת המהדורה העברית: הסיווג עוסק במשקלים המקובלים ובאופן הספירה המתואר כאן. בטמפו איטי או בפרשנות אחרת אפשר לשמוע ולספור רבדי פעימה שונים; למשל, 6/8 יכול להיספר בשש שמיניות אף שהקיבוץ המתואר הוא של שתי פעימות רבע מנוקד. בכיתוב הדוגמה של מוצרט תוקנה שגיאת הדפוס Strong Quartet ל־String Quartet, כלומר רביעיית כלי קשת."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "media_captions_preserved": true,
+    "external_media_content_reviewed": false,
+    "pronunciation_pending": true
+  }
+}
