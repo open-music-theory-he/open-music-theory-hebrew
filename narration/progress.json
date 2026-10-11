@@ -1,5 +1,5 @@
 {
-  "prepared_chapters": 3,
+  "prepared_chapters": 4,
   "total_chapters": 126,
   "audio_production_enabled": false,
   "chapters": [
@@ -23,11 +23,19 @@
       "blocks": 24,
       "visual_explanations": 0,
       "status": "text-reviewed-awaiting-pronunciation-choice"
+    },
+    {
+      "chapter": 4,
+      "source": "basicNotation.md",
+      "blocks": 19,
+      "visual_explanations": 4,
+      "status": "text-reviewed-awaiting-pronunciation-choice"
     }
   ],
   "notes": [
     "ניקוד תָּו זמני עד לבחירת דוגמת ההגייה.",
     "הוסר סימון עיצוב בלבד; טקסט קישורים נשמר ומטרותיהם נמצאות בתיעוד המקור.",
-    "דוגמאות הקריינות אינן אישור להפקת הספר."
+    "דוגמאות הקריינות אינן אישור להפקת הספר.",
+    "פרק 004: ארבעת האיורים נבדקו חזותית, כולל המעבר למפתח סול ביד שמאל בדוגמת קווי העזר."
   ]
 }
