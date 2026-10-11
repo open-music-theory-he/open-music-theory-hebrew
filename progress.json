@@ -1,5 +1,5 @@
 {
-  "status": "running",
+  "status": "paused",
   "completed": 2,
   "total": 10,
   "samples": [
@@ -26,7 +26,8 @@
       "label": "בדיקת הגייה 2 — עם ניקוד",
       "voice": "Charon",
       "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects."
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects.",
+      "sha256": "31da353c9cc9e21c5193486f9f807d1d2914d196adf743cc2b84b2bc077bebd4"
     },
     {
       "id": "03-pronunciation",
@@ -78,5 +79,6 @@
       "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
     }
   ],
-  "requests": 2
+  "requests": 3,
+  "reason": "quota_or_rate_limit_429"
 }
