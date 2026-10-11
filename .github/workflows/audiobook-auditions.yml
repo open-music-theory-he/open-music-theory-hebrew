@@ -27,7 +27,8 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           mkdir -p dist
-          if git ls-remote --heads origin audiobook-auditions | rg -q audiobook-auditions; then
+          audition_ref=$(git ls-remote --heads origin refs/heads/audiobook-auditions)
+          if [ -n "$audition_ref" ]; then
             git fetch origin audiobook-auditions
             git worktree add --detach dist/audiobook-auditions FETCH_HEAD
           else
