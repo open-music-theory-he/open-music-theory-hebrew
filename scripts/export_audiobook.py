@@ -142,7 +142,57 @@ def prepare(config):
 
 
 class Paused(Exception):
-    pass
+    def __init__(self, reason, retry_after=None):
+        super().__init__(reason)
+        self.retry_after = retry_after
+
+
+def quota_pause(error):
+    """Inspect structured quota metadata without logging remote text or secrets."""
+    try:
+        data = json.loads(error.read(65536))
+    except (ValueError, OSError):
+        data = {}
+    daily = False
+    delay = None
+    for item in data.get('error', {}).get('details', []):
+        if not isinstance(item, dict):
+            continue
+        for violation in item.get('violations', []):
+            identifier = str(violation.get('quotaId', '')).lower()
+            daily |= 'perday' in identifier or 'daily' in identifier
+        value = item.get('retryDelay')
+        if isinstance(value, str) and re.fullmatch(r'[0-9]+(?:\.[0-9]+)?s', value):
+            delay = min(900, float(value[:-1]))
+    header = error.headers.get('Retry-After') if error.headers else None
+    if header and re.fullmatch(r'[0-9]+', header):
+        delay = min(900, float(header))
+    return Paused('daily_quota_exhausted' if daily else 'quota_or_rate_limit_429', delay)
+
+
+def synthesize_with_retry(text, config, api_key, report, begin):
+    attempts = 0
+    while True:
+        if time.monotonic()-begin + config['request_timeout_seconds'] >= config['max_run_seconds']:
+            raise Paused('run_budget_reached')
+        report['requests_this_run'] += 1
+        try:
+            return synthesize(text, config, api_key)
+        except Paused as pause:
+            if str(pause) == 'daily_quota_exhausted':
+                raise
+            if str(pause) not in ('quota_or_rate_limit_429', 'network_or_timeout') and not str(pause).startswith('service_temporarily_unavailable_'):
+                raise
+            attempts += 1
+            if attempts > config.get('max_transient_retries', 5):
+                raise Paused(str(pause)+'_retries_exhausted') from None
+            delay = max(pause.retry_after or 0, min(900, 60 * 2**(attempts-1)))
+            if time.monotonic()-begin + delay + config['request_timeout_seconds'] >= config['max_run_seconds']:
+                raise Paused('run_budget_reached') from None
+            report['retries_this_run'] += 1
+            print(f'Retry {attempts}: reason={pause}; waiting {delay:.0f}s; API attempts={report["requests_this_run"]}', flush=True)
+            time.sleep(delay)
+
 
 
 def synthesize(text, config, api_key):
@@ -159,7 +209,7 @@ def synthesize(text, config, api_key):
     except HTTPError as error:
         # Never echo remote bodies, request headers, or key-bearing exception details.
         if error.code == 429:
-            raise Paused('quota_or_rate_limit_429') from None
+            raise quota_pause(error) from None
         if error.code in (500,502,503,504):
             raise Paused('service_temporarily_unavailable_'+str(error.code)) from None
         raise RuntimeError('Gemini HTTP '+str(error.code)+'; no fallback model was used.') from None
@@ -288,7 +338,7 @@ def main():
         raise RuntimeError('Use a fresh output directory for the new narration edition.')
     work = state/edition; work.mkdir(exist_ok=True)
     save_json(work/'edition.json',identity)
-    report = {'edition':edition, **identity, 'status':'prepared','chapters':[], 'requests_this_run':0}
+    report = {'edition':edition, **identity, 'status':'prepared','chapters':[], 'requests_this_run':0, 'retries_this_run':0, 'segments_generated_this_run':0, 'chapters_completed_this_run':0}
     # Text is reviewable independently of the audio. No additional LLM rewrites it.
     for chapter in chapters:
         atomic(output/'transcripts'/Path(chapter['filename']).with_suffix('.txt'), chapter['transcript'].encode())
@@ -339,8 +389,8 @@ def main():
                     raise Paused('run_budget_reached')
                 if last_request is not None:
                     time.sleep(max(0,config['request_interval_seconds']-(time.monotonic()-last_request)))
-                last_request = time.monotonic(); report['requests_this_run'] += 1
-                pcm, duration = synthesize(text,config,api_key)
+                last_request = time.monotonic()
+                pcm, duration = synthesize_with_retry(text,config,api_key,report,begin)
                 wav = folder/'working.wav'; wav.write_bytes(pcm)
                 temporary = folder/'working.mp3'
                 ffmpeg(['-i',str(wav),'-ac','1','-ar','24000','-c:a','libmp3lame','-b:a','64k',str(temporary)])
@@ -349,6 +399,8 @@ def main():
                 save_json(segment_receipt, {'text_sha256':digest(text.encode()),'sha256':digest(segment.read_bytes()),'seconds':duration})
                 seconds += duration
                 checkpoint(state,'Save audiobook segment '+chapter['source']+' '+str(index+1))
+                report['segments_generated_this_run'] += 1
+                print(f'Saved {chapter["source"]}: segment {index+1}/{len(chapter["chunks"])}; new segments this run={report["segments_generated_this_run"]}', flush=True)
             listing = folder/'concat.txt'
             listing.write_text(''.join(f"file '{i:04d}.mp3'\n" for i in range(len(chapter['chunks']))))
             ffmpeg(['-f','concat','-safe','0','-i',str(listing),'-c','copy',str(completed)])
@@ -359,6 +411,8 @@ def main():
                               'review_status':'generated_needs_listening_review','narration_text':chapter['transcript']})
             refresh_metadata(folder,chapter,config,track,len(chapters))
             checkpoint(state,'Complete audiobook chapter '+chapter['source'])
+            report['chapters_completed_this_run'] += 1
+            print(f'Completed {chapter["source"]}; new chapters this run={report["chapters_completed_this_run"]}', flush=True)
     except Paused as pause:
         reason = str(pause)
     except Exception as error:
@@ -384,7 +438,8 @@ def main():
                 if file.is_file() and file.suffix!='.zip':
                     archive.write(file,file.relative_to(output))
         summary = f"Audiobook: {sum(c['status']=='generated' for c in report['chapters'])}/{len(chapters)} chapters; {report['status']}; requests this run: {report['requests_this_run']}."
-        print(summary)
+        print(summary, flush=True)
+        print(f'Stop reason: {report["reason"] or "all eligible chapters complete"}; new chapters={report["chapters_completed_this_run"]}; new segments={report["segments_generated_this_run"]}; retries={report["retries_this_run"]}', flush=True)
         if os.environ.get('GITHUB_STEP_SUMMARY'):
             with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as stream:
                 stream.write(summary+'\n\nFixed model: '+config['model']+'; fixed voice: '+config['voice']+'.\n\nReason: '+str(report['reason'])+'\n')

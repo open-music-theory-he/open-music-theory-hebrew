@@ -28,6 +28,22 @@ class AudiobookChecks(unittest.TestCase):
             with patch.object(book,'ROOT',root):
                 self.assertEqual([p.name for p in book.chapter_order()],['ready.md','done.md'])
 
+    def test_daily_quota_and_rate_limit_retry(self):
+        from urllib.error import HTTPError
+        body = {'error': {'details': [{'violations': [{'quotaId': 'RequestsPerDay'}]}]}}
+        error = HTTPError('https://example.test',429,'quota',{},io.BytesIO(json.dumps(body).encode()))
+        self.assertEqual(str(book.quota_pause(error)), 'daily_quota_exhausted')
+        config = json.loads((book.ROOT/'scripts/audiobook-config.json').read_text())
+        report = {'requests_this_run':0, 'retries_this_run':0}
+        with patch.object(book,'synthesize',side_effect=[book.Paused('quota_or_rate_limit_429',75),(wav_bytes(),1)]), patch.object(book.time,'sleep') as sleep:
+            book.synthesize_with_retry('שלום',config,'placeholder',report,book.time.monotonic())
+        sleep.assert_called_once_with(75)
+        self.assertEqual(report, {'requests_this_run':2,'retries_this_run':1})
+        with patch.object(book,'synthesize',side_effect=book.Paused('daily_quota_exhausted')), patch.object(book.time,'sleep') as sleep:
+            with self.assertRaises(book.Paused):
+                book.synthesize_with_retry('שלום',config,'placeholder',report,book.time.monotonic())
+        sleep.assert_not_called()
+
     def test_split_preserves_every_character(self):
         text = ('מוזיקה. סי דיאז.\n\nעברית English Ⅳ ♭. '*100)+'סיום'
         chunks = book.split_text(text,300)
@@ -57,9 +73,11 @@ class AudiobookChecks(unittest.TestCase):
             args = ['export_audiobook.py','--state',temp+'/state','--output',temp+'/out']
             with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false','GITHUB_STEP_SUMMARY':''}), \
                  patch.object(sys,'argv',args), patch.object(book,'prepare',return_value=('test',{},[chapter])), \
-                 patch.object(book.time,'sleep'), patch.object(book,'synthesize',side_effect=[(wav_bytes(),1),book.Paused('quota_or_rate_limit_429')]):
+                 patch.object(book.time,'sleep'), patch.object(book,'synthesize',side_effect=[(wav_bytes(),1),book.Paused('daily_quota_exhausted')]):
                 book.main()
             report = json.loads(Path(temp+'/out/progress.json').read_text())
+            self.assertEqual(report['reason'],'daily_quota_exhausted')
+            self.assertEqual(report['segments_generated_this_run'],1)
             self.assertEqual(report['status'],'paused'); self.assertEqual(report['chapters'][0]['segments_ready'],1)
             with patch.dict(os.environ,{'GEMINI_API_KEY':'test-placeholder','AUDIOBOOK_COMMIT_CHECKPOINT':'false','GITHUB_STEP_SUMMARY':''}), \
                  patch.object(sys,'argv',args), patch.object(book,'prepare',return_value=('test',{},[chapter])), \
