@@ -9,7 +9,7 @@ on:
         options: [generate, tags, prepare]
         default: generate
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '7,27,47 * * * *'
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   audiobook:
     runs-on: ubuntu-24.04
-    timeout-minutes: 115
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
         with:
@@ -60,18 +60,18 @@ jobs:
           printf 'working.wav\nworking.mp3\n*.tmp\nconcat.txt\n' > dist/audiobook-state/.gitignore
       - name: Prepare transcripts only
         if: inputs.mode == 'prepare'
-        run: python scripts/export_audiobook.py --prepare-only
+        run: python -u scripts/export_audiobook.py --prepare-only
       - name: Generate next segments with the fixed model
         if: inputs.mode != 'prepare' && inputs.mode != 'tags'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           AUDIOBOOK_COMMIT_CHECKPOINT: 'true'
-        run: python scripts/export_audiobook.py
+        run: python -u scripts/export_audiobook.py
       - name: Update existing audio tags without synthesis
         if: inputs.mode == 'tags'
         env:
           AUDIOBOOK_COMMIT_CHECKPOINT: 'true'
-        run: python scripts/export_audiobook.py --tags-only
+        run: python -u scripts/export_audiobook.py --tags-only
       - name: Preserve progress even after an error
         if: always() && inputs.mode != 'prepare'
         run: |
