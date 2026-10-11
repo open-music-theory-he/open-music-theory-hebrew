@@ -1,0 +1,26 @@
+{
+  "prepared_chapters": 2,
+  "total_chapters": 126,
+  "audio_production_enabled": false,
+  "chapters": [
+    {
+      "chapter": 1,
+      "source": "hebrew-introduction.md",
+      "blocks": 8,
+      "visual_explanations": 0,
+      "status": "text-reviewed-awaiting-pronunciation-choice"
+    },
+    {
+      "chapter": 2,
+      "source": "fixed-and-movable-do.md",
+      "blocks": 24,
+      "visual_explanations": 2,
+      "status": "text-reviewed-awaiting-pronunciation-choice"
+    }
+  ],
+  "notes": [
+    "ניקוד תָּו זמני עד לבחירת דוגמת ההגייה.",
+    "הוסר סימון עיצוב בלבד; טקסט קישורים נשמר ומטרותיהם נמצאות בתיעוד המקור.",
+    "דוגמאות הקריינות אינן אישור להפקת הספר."
+  ]
+}
