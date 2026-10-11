@@ -1,0 +1,80 @@
+{
+  "status": "running",
+  "completed": 1,
+  "total": 10,
+  "samples": [
+    {
+      "id": "00-introduction",
+      "label": "פתיח קבוע — מהיר וברור",
+      "voice": "Charon",
+      "text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+      "sha256": "7506342a5d04d771b7b3be764e8c3bac0356e382a62c13289b3ff92e0935dff5",
+      "seconds": 13.48
+    },
+    {
+      "id": "01-pronunciation",
+      "label": "בדיקת הגייה 1 — ללא ניקוד",
+      "voice": "Charon",
+      "text": "כשהוא כתוב על חמשה, תו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects."
+    },
+    {
+      "id": "02-pronunciation",
+      "label": "בדיקת הגייה 2 — עם ניקוד",
+      "voice": "Charon",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects."
+    },
+    {
+      "id": "03-pronunciation",
+      "label": "בדיקת הגייה 3 — ניקוד והוראת הגייה",
+      "voice": "Charon",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Pronounce the musical Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content."
+    },
+    {
+      "id": "04-Charon-measured",
+      "label": "קול Charon — מדוד",
+      "voice": "Charon",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting."
+    },
+    {
+      "id": "05-Charon-fluent",
+      "label": "קול Charon — זורם",
+      "voice": "Charon",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
+    },
+    {
+      "id": "06-Orus-measured",
+      "label": "קול Orus — מדוד",
+      "voice": "Orus",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting."
+    },
+    {
+      "id": "07-Orus-fluent",
+      "label": "קול Orus — זורם",
+      "voice": "Orus",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
+    },
+    {
+      "id": "08-Iapetus-measured",
+      "label": "קול Iapetus — מדוד",
+      "voice": "Iapetus",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting."
+    },
+    {
+      "id": "09-Iapetus-fluent",
+      "label": "קול Iapetus — זורם",
+      "voice": "Iapetus",
+      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
+    }
+  ],
+  "requests": 1
+}
