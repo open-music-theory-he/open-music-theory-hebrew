@@ -9,11 +9,12 @@ on:
         options: [generate, tags, prepare]
         default: generate
   schedule:
-    - cron: '7,27,47 * * * *'
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
 
+# One running synthesis job; new schedules never cancel saved/in-flight work.
 concurrency:
   group: hebrew-audiobook
   cancel-in-progress: false
@@ -82,6 +83,16 @@ jobs:
             fi
             git -C dist/audiobook-state push origin HEAD:audiobook-data
           fi
+      # Also retain partial segments if pushing the dedicated state branch fails.
+      - name: Back up saved state after a workflow failure
+        if: failure() && inputs.mode != 'prepare'
+        uses: actions/upload-artifact@v4
+        with:
+          name: hebrew-audiobook-state-recovery
+          path: dist/audiobook-state/
+          if-no-files-found: warn
+          retention-days: 30
+          compression-level: 0
       - name: Publish completed chapters and progress report
         if: always()
         uses: actions/upload-artifact@v4
