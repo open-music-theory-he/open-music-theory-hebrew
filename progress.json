@@ -1,0 +1,827 @@
+{
+  "status": "error",
+  "chapters_total": 116,
+  "segments_total": 408,
+  "new_segments": 0,
+  "completed_chapters": 0,
+  "voice": "Iapetus",
+  "model": "gemini-3.8-flash-tts",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "001 — הקדמה למהדורה העברית",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 2,
+      "title": "002 — דו קבוע ודו נייד — מדריך לקורא העברי",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 3,
+      "title": "003 — על תאוריית המוזיקה הפתוחה",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 4,
+      "title": "004 — יסודות התיווי",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 5,
+      "title": "005 — המשקל וסימניו",
+      "segments_ready": 0,
+      "segments_total": 7,
+      "complete": false
+    },
+    {
+      "chapter": 6,
+      "title": "006 — תיווי מקדים",
+      "segments_ready": 0,
+      "segments_total": 8,
+      "complete": false
+    },
+    {
+      "chapter": 7,
+      "title": "007 — ערכים קצביים",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 8,
+      "title": "008 — קורות וחלוקות קצב שאולות",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 9,
+      "title": "009 — גבהי צליל וסימון אוקטבות",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 11,
+      "title": "011 — סימני הסולם",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 12,
+      "title": "012 — מרווחים וצמדי צלילים",
+      "segments_ready": 0,
+      "segments_total": 8,
+      "complete": false
+    },
+    {
+      "chapter": 13,
+      "title": "013 — אקורדים משולשים ואקורדי ספטימה",
+      "segments_ready": 0,
+      "segments_total": 8,
+      "complete": false
+    },
+    {
+      "chapter": 14,
+      "title": "014 — סוגי תנועה קונטרפונקטית",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 15,
+      "title": "015 — מבוא להולכת קולות קפדנית",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 19,
+      "title": "019 — כתיבת קונטרפונקט מן הסוג השלישי",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 21,
+      "title": "021 — מבוא לבס ממוספר",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 22,
+      "title": "022 — היסטוריה קצרה של הבס הרציף והולכת קולות בכלי מקלדת",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 23,
+      "title": "023 — ניתוח בס ממוספר באמצעות ספרות רומיות",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 24,
+      "title": "024 — הלחנה בסגנון בס רציף",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 25,
+      "title": "025 — סגנון ונטייה",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 26,
+      "title": "026 — צלילי נטייה ודיסוננסים הרמוניים פונקציונליים",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 27,
+      "title": "027 — מימוש בס ממוספר בסגנון בס רציף קפדני",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 28,
+      "title": "028 — הולכת קולות מלודית בסגנון כלי מקלדת",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 29,
+      "title": "029 — סכמות להולכת קולות בסגנון כלי מקלדת",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 30,
+      "title": "030 — מימוש בס ממוספר בסגנון מלודי לכלי מקלדת",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 31,
+      "title": "031 — מימוש קו בס ללא ספרות",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 32,
+      "title": "032 — צלילי קישוט",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 33,
+      "title": "033 — מבוא לתפקידים מוזיקליים",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 34,
+      "title": "034 — תפקידים הרמוניים",
+      "segments_ready": 0,
+      "segments_total": 9,
+      "complete": false
+    },
+    {
+      "chapter": 35,
+      "title": "035 — תחביר הרמוני — הפראזה האידאלית",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 37,
+      "title": "037 — ביצוע ניתוח הרמוני",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 38,
+      "title": "038 — סוגי קדנצות קלאסיות",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 39,
+      "title": "039 — אקורדי סובדומיננטה משתנים כרומטית",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 41,
+      "title": "041 — עירוב מודאלי",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 42,
+      "title": "042 — מודולציה",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 43,
+      "title": "043 — המשפט המוזיקלי",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 44,
+      "title": "044 — הפריודה",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 45,
+      "title": "045 — נושאים היברידיים",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 46,
+      "title": "046 — פריודה מורכבת",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 47,
+      "title": "047 — משפט מוזיקלי מורכב",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 48,
+      "title": "048 — צורה תלת־חלקית קטנה",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 49,
+      "title": "049 — צורה דו־חלקית קטנה",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 50,
+      "title": "050 — טיפוסי נושא קלאסיים — דף עזר",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 51,
+      "title": "051 — תפקידים נושאיים",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 52,
+      "title": "052 — הרחבות חיצוניות",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 53,
+      "title": "053 — הרחבות פנימיות",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 54,
+      "title": "054 — מבוא לתאוריית הסונטה",
+      "segments_ready": 0,
+      "segments_total": 8,
+      "complete": false
+    },
+    {
+      "chapter": 55,
+      "title": "055 — צורת סונטה — טיפוסי תצוגה",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 56,
+      "title": "056 — צורת סונטה — נקודות הגעה מבניות",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 57,
+      "title": "057 — צורת סונטה — יחידות נושאיות",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 58,
+      "title": "058 — צורת סונטה — הרפריזה",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 59,
+      "title": "059 — צורת סונטה — הפיתוח",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 60,
+      "title": "060 — צורת סונטה — יחידות מסגרת (מבוא וקודה)",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 61,
+      "title": "061 — רונדו",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 62,
+      "title": "062 — תפקידים נושאיים בצורת רונדו",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 63,
+      "title": "063 — צורת רונדו בת חמישה חלקים",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 64,
+      "title": "064 — סונטה־רונדו",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 65,
+      "title": "065 — צורת מינואט",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 66,
+      "title": "066 — סכמות בסגנון הגלנט — פתיחות וסיומים",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 67,
+      "title": "067 — סכמות בסגנון הגלנט — תבניות המשך",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 68,
+      "title": "068 — סכמות בסגנון הגלנט — סיכום",
+      "segments_ready": 0,
+      "segments_total": 9,
+      "complete": false
+    },
+    {
+      "chapter": 70,
+      "title": "070 — גובה צליל ומחלקת גובה צליל",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 71,
+      "title": "071 — מרווח ומחלקת מרווח",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 72,
+      "title": "072 — חשבון מודולרי",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 73,
+      "title": "073 — אוספים וסולמות",
+      "segments_ready": 0,
+      "segments_total": 7,
+      "complete": false
+    },
+    {
+      "chapter": 74,
+      "title": "074 — סימטריה ומרכזיות",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 75,
+      "title": "075 — סדר נורמלי",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 76,
+      "title": "076 — טרנספוזיציה",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 77,
+      "title": "077 — היפוך במוזיקה פוסט־טונלית",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 78,
+      "title": "078 — מחלקת קבוצה וצורה ראשונית — חלק 1",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 79,
+      "title": "079 — מחלקת קבוצה וצורה ראשונית — חלק 2",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 80,
+      "title": "080 — קבוצות משלימות",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 81,
+      "title": "081 — צלילים משותפים תחת טרנספוזיציה",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 82,
+      "title": "082 — תאוריית שנים־עשר טונים — יסודות",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 84,
+      "title": "084 — מוזיקת שנים־עשר טונים — מבנה מרווחי",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 85,
+      "title": "085 — מוזיקת שנים־עשר טונים — שורות נגזרות",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 86,
+      "title": "086 — מוזיקת שנים־עשר טונים — אינווריאנטיות",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 87,
+      "title": "087 — ניתוח יצירה פוסט־טונלית מן ההתחלה",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 88,
+      "title": "088 — ניתוח מוזיקה אטונלית",
+      "segments_ready": 0,
+      "segments_total": 8,
+      "complete": false
+    },
+    {
+      "chapter": 89,
+      "title": "089 — ניתוח מוזיקת שנים־עשר טונים",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 90,
+      "title": "090 — מילון מונחים למוזיקה אטונלית",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 91,
+      "title": "091 — סינקופה במוזיקת פופ ורוק",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 92,
+      "title": "092 — הרמוניה במוזיקת פופ ורוק",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 93,
+      "title": "093 — מהלך הדו־וופ של שנות החמישים",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 94,
+      "title": "094 — מהלך האקורדים של הזמרים־היוצרים",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 95,
+      "title": "095 — מהלך ״Puff״",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 96,
+      "title": "096 — מהלך הבלוז",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 97,
+      "title": "097 — מהלך הקינה",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 98,
+      "title": "098 — מהלך מעגל הקווינטות במינור",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 99,
+      "title": "099 — מהלכים פלגליים",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 100,
+      "title": "100 — צורה בפופ וברוק — סקירה",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 101,
+      "title": "101 — צורה בפופ וברוק — מונחים ומושגי יסוד",
+      "segments_ready": 0,
+      "segments_total": 5,
+      "complete": false
+    },
+    {
+      "chapter": 102,
+      "title": "102 — צורה בפופ וברוק — יחידות מבנה ומבני מודולים",
+      "segments_ready": 0,
+      "segments_total": 6,
+      "complete": false
+    },
+    {
+      "chapter": 103,
+      "title": "103 — צורה בפופ וברוק — פונקציות צורניות",
+      "segments_ready": 0,
+      "segments_total": 9,
+      "complete": false
+    },
+    {
+      "chapter": 104,
+      "title": "104 — צורה בפופ וברוק — סימון לניתוח",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 105,
+      "title": "105 — ניתוח שירה",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 107,
+      "title": "107 — טונליות בפופ וברוק עם שאילה מודאלית",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 108,
+      "title": "108 — פונקציות הרמוניות במינור בפופ וברוק",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 109,
+      "title": "109 — מבנה נושאי בסגנון הקלאסי",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 110,
+      "title": "110 — הדגמת הכתבה מלודית",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 111,
+      "title": "111 — תרגילי סקוונצה מלודיים",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 112,
+      "title": "112 — טונליות בפופ וברוק המבוססת על בלוז",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 113,
+      "title": "113 — הנחיות לשירה מן הדף",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 114,
+      "title": "114 — הוספת רישיון Creative Commons לרשומת בלוג",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 115,
+      "title": "115 — צורת סונטה — מודולים וקדנצות בתצוגה, עמוד עזר חלופי",
+      "segments_ready": 0,
+      "segments_total": 7,
+      "complete": false
+    },
+    {
+      "chapter": 116,
+      "title": "116 — חישוב מרווחים: שיטת הקלידים הלבנים",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 117,
+      "title": "117 — העלאת קובץ ושיתופו באמצעות Google Drive",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 118,
+      "title": "118 — מהלך פכלבל",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 119,
+      "title": "119 — הברות סולפז׳ כרומטיות ותרגילי סקוונצה",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 120,
+      "title": "120 — טונליות בפופ וברוק המבוססת על פנטטוניקה מינורית",
+      "segments_ready": 0,
+      "segments_total": 2,
+      "complete": false
+    },
+    {
+      "chapter": 121,
+      "title": "121 — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
+      "chapter": 122,
+      "title": "122 — יצירת תמונה מוזיקלית והכנסתה למסמך טקסט",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 123,
+      "title": "123 — שימוש ב־Variations Audio Timeliner",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 124,
+      "title": "124 — צורת מינואט — עמוד עזר חלופי מן המקור",
+      "segments_ready": 0,
+      "segments_total": 4,
+      "complete": false
+    },
+    {
+      "chapter": 125,
+      "title": "125 — פרסום קישור לבלוג בטוויטר",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    },
+    {
+      "chapter": 126,
+      "title": "126 — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת",
+      "segments_ready": 0,
+      "segments_total": 1,
+      "complete": false
+    }
+  ],
+  "reason": "Invalid header value b'AQ.Ab8RN6IPQzvbvIdFcZvoPtPy4RD2_kPWk8FfpeFt1vZmO-ttJw\\n'",
+  "requests": 1,
+  "successes": 0,
+  "elapsed_seconds": 0.01
+}
