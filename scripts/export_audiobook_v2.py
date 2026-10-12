@@ -21,11 +21,27 @@ def point_tav(text):
     return HEBREW_WORD.sub(word,text)
 
 def scrub(text,keys):
+    text=str(text)
     for key in keys:
-        if key: text=text.replace(key,'[REDACTED]')
-    text=re.sub(r'AIza[A-Za-z0-9_\-]+','[REDACTED]',text)
+        key=key.strip()
+        if key:
+            for form in (key,repr(key)[1:-1],json.dumps(key)[1:-1]):
+                text=text.replace(form,'[REDACTED]')
+    text=re.sub(r'(?:AIza|AQ\.)[A-Za-z0-9_\-]+','[REDACTED]',text)
     text=re.sub(r'(?i)(api[_-]?key|authorization|access_token|token)\s*[=:]\s*[^\s,;"}]+',r'\1=[REDACTED]',text)
     return text[:16000]
+
+def safe_http_error(raw):
+    # Provider messages may echo headers, credentials or request data.
+    # Retain only a numeric code and a known symbolic status.
+    try:
+        error=json.loads(raw).get('error',{})
+        statuses={'INVALID_ARGUMENT','UNAUTHENTICATED','PERMISSION_DENIED','NOT_FOUND',
+                  'RESOURCE_EXHAUSTED','INTERNAL','UNAVAILABLE','DEADLINE_EXCEEDED'}
+        return {'code':error.get('code') if type(error.get('code')) is int else None,
+                'status':error.get('status') if error.get('status') in statuses else None}
+    except (ValueError,TypeError,AttributeError):
+        return {'format':'unstructured-response'}
 
 def log(event,**fields):
     print(json.dumps({'time':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'event':event,**fields},ensure_ascii=False),flush=True)
@@ -59,7 +75,7 @@ class KeyPool:
                 self.delay=10;self.limited.clear();self.successes+=1
                 log('request-success',key_number=index+1,attempt=self.attempts,backoff_reset_seconds=10,**context)
                 return json.loads(raw)
-            log('http-non-200',key_number=index+1,http_status=status,details=scrub(raw.decode('utf8','replace'),self.keys),**context)
+            log('http-non-200',key_number=index+1,http_status=status,details=safe_http_error(raw),**context)
             if status in (401,403):self.disabled.add(index)
             elif status not in (0,429,500,502,503,504):raise RuntimeError('Non-retryable Gemini HTTP '+str(status))
             self.limited.add(index)
@@ -179,7 +195,7 @@ def main():
             save_json(complete,{'chapter':c['chapter'],'title':c['title'],'sha256':digest(dest.read_bytes()),'opening_sha256':selection['opening_mp3_sha256'],'source_sha256':c['source_sha256'],'review_status':'generated-needs-listening-review'})
             save_progress();checkpoint(state,f'Complete v2 chapter {c["chapter"]:03d}');log('chapter-complete',chapter=c['chapter'],title=c['title'],completed=report['completed_chapters'],total=116)
     except RunDone as e:reason=str(e)
-    except Exception as e:fatal=scrub(str(e),keys);log('fatal',error=fatal)
+    except Exception as e:fatal='generation_error_'+type(e).__name__;log('fatal',error=fatal)
     finally:
         report['status']='error' if fatal else 'paused' if reason else 'complete';report['reason']=fatal or reason or 'all_approved_chapters_completed';save_progress();checkpoint(state,'Save v2 progress '+report['status']);log('run-final',status=report['status'],reason=report['reason'],completed_chapters=report['completed_chapters'],new_segments=report['new_segments'],requests=pool.attempts)
         summary=os.environ.get('GITHUB_STEP_SUMMARY')
