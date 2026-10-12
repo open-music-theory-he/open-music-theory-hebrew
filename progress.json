@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 10,
+  "new_segments": 11,
   "completed_chapters": 5,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -45,7 +45,7 @@
     {
       "chapter": 6,
       "title": "006 — תיווי מקדים",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 8,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 10,
-  "successes": 10,
-  "elapsed_seconds": 281.29
+  "requests": 12,
+  "successes": 11,
+  "elapsed_seconds": 311.4
 }
