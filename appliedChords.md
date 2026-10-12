@@ -18,7 +18,7 @@ translation_batch: 8
 
 *תרגיל: שנו תו אחד בקטע הבא כדי להפוך את אקורד הסובדומיננטה ל*אקורד שניוני* (applied chord). איזה מספר רומי ואיזה סימון בס פונקציונלי תתנו לאקורד?*
 
-<iframe src="https://trinket.io/embed/music/c6b5004279" title="תרגיל: הפיכת אקורד סובדומיננטה לאקורד שניוני" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 שאילת אקורדים כזאת יכולה להתרחש עבור *כל משולש מז׳ורי או מינורי בטונליות הראשית*. כל משולש דיאטוני יכול לקבל אקורד שניוני — אקורד ששונה כרומטית ומתפקד גם כאקורד דומיננטי בטונליות שבה האקורד הבא הוא הטוניקה. לפיכך המהלך לדוגמה **F\#dim–G** יכול להופיע בכל טונליות שאליה שייך המשולש G מז׳ור: G מז׳ור, C מז׳ור, D מז׳ור, B מינור, A מינור או E מינור.
 
@@ -47,7 +47,7 @@ translation_batch: 8
 
 להלן קטע קצר בסגנון כלי מקלדת הכולל שני אקורדים שניוניים שונים, המסומנים במספרים רומיים.
 
-<iframe src="https://trinket.io/embed/music/45c20d9624" title="קטע בסגנון כלי מקלדת: שני אקורדים שניוניים במספרים רומיים" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 <a id="notes-on-functional-bass-notation"></a>
 
@@ -59,7 +59,7 @@ translation_batch: 8
 
 הנה אותה דוגמה מן הקטע שלעיל, אך המספרים הרומיים הוחלפו בשכבה העליונה של ניתוח הבס הפונקציונלי. Trinket תומך רק בשכבה אחת של מילות שיר או ניתוח הרמוני. אילו אקורדים דורשים שכבה שנייה של ניתוח בס פונקציונלי? מה יהיו הסימנים בשכבה זו?
 
-<iframe src="https://trinket.io/embed/music/9a8ff25f3c" title="תרגיל: הוספת שכבה שנייה לניתוח הבס הפונקציונלי" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 (אפשר למצוא את הגרסה עם ניתוח הבס הפונקציונלי [כאן](https://trinket.io/music/406c96fec0).)
 

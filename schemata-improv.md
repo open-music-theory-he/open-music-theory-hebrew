@@ -42,17 +42,17 @@ translation_batch: 4
 
 השלד הבא מתחיל ב־Meyer וממשיך ב־Prinner בת חמישה שלבים. שימו לב ששלבים 3 ו־4 של Prinner נדחסים לתיבה אחת כדי להתאים לאורך הנפוץ של משפט בן שמונה תיבות. אפשר גם להחליף את Meyer בכל סכמת הצגה אחרת.
 
-<iframe title="Meyer ואחריה Prinner בת חמישה שלבים" src="https://trinket.io/embed/music/4ea073d8f1" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ### הצגה — Passo Indietro — קדנצה
 
 מלחינים קלאסיים התחילו לעיתים קרובות Prinner, ואז קיצרו אותה כדי לפנות מקום לקדנצה האחרונה. כך נעשה בדוגמה הבאה: היא מתחילה ב־Jupiter, ממשיכה ב־Passo Indietro — מחצית Prinner — ומגיעה לחצי קדנצה מורכבת (Compound HC).
 
-<iframe title="Jupiter, Passo Indietro וחצי קדנצה מורכבת" src="https://trinket.io/embed/music/ee80a49382" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 באמצעות דחיסת שתי התיבות האחרונות לתיבה אחת אפשר להפוך זאת למשפט המסתיים בקדנצה אותנטית מושלמת (PAC). יחד, שתי הגרסאות יכולות ליצור נושא מורכב בן שש־עשרה תיבות.
 
-<iframe title="גרסה המסתיימת בקדנצה אותנטית מושלמת" src="https://trinket.io/embed/music/bcc2fe55de" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ### הצגה — Prinner מהירה — קדנצה
 
@@ -60,11 +60,11 @@ translation_batch: 4
 
 להלן משפט המורכב מ־Sol-Fa-Mi, מ־Prinner ומחצי קדנצה Fa-Fi-Sol HC.
 
-<iframe title="Sol-Fa-Mi, Prinner וחצי קדנצה Fa-Fi-Sol" src="https://trinket.io/embed/music/dcdfbf0994" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ואותה תבנית, אך עם קדנצה אותנטית מושלמת פשוטה בסיום:
 
-<iframe title="Sol-Fa-Mi ו־Prinner עם קדנצה אותנטית מושלמת" src="https://trinket.io/embed/music/a63f2a06bc" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ## תרגול
 

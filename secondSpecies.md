@@ -7,7 +7,7 @@ translation_batch: 2
 
 בקונטרפונקט מן הסוג השני, קו הקונטרפונקט נע בחצאים כנגד קנטוס פירמוס בתווים שלמים. יחס קצבי זה, <bdi dir="ltr">2:1</bdi>, מציג שתי ״בעיות מוזיקליות יסודיות״ חדשות — אחת משקלית ואחת הרמונית: ההבחנה בין *פעימות חזקות (strong beats)* ל*פעימות חלשות (weak beats)*, והופעת דיסוננס של *צליל עובר (passing tone)*.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/bd3da422f4" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 *תרגיל מן הסוג השני לדוגמה, מאת Heinrich Schenker.*
 
@@ -71,37 +71,37 @@ translation_batch: 2
 
 מכיוון שכל הדיסוננסים בסוג השני הם צלילים עוברים, אין לקפוץ אל צליל דיסוננטי או ממנו, אין לשנות עליו כיוון, ואין להציב דיסוננס בפעימה הראשונה בתיבה.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/ef1cff1ee3" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 #### פעימות חלשות קונסוננטיות
 
 *צליל עובר קונסוננטי (consonant passing tone)* מתווה טרצה בין שתי פעימות ראשונות, באותה תבנית כמו הצליל העובר הדיסוננטי. ההבדל הוא שכל שלושת התווים — הפעימה הראשונה, הצליל העובר והפעימה הראשונה הבאה — קונסוננטיים עם הקנטוס. הצליל העובר הקונסוננטי יהיה תמיד בסקסטה או בקווינטה זכה מעל הקנטוס או מתחתיו.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/de54f539bb" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 גם *תחליף (substitution)* מתווה טרצה בין שתי פעימות ראשונות. במקום למלא אותה בתנועה בצעדים, הקונטרפונקט קופץ קוורטה ואז מתקדם בצעד בכיוון ההפוך. הוא נקרא תחליף מפני שאפשר להציבו במקום צליל עובר בקו הזקוק לקפיצה או לשינוי כיוון נוספים לשם גיוון. כמו בצליל העובר הקונסוננטי, כל שלושת התווים חייבים להיות קונסוננטיים עם הקנטוס.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/f258be56b6" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 *צליל עובר בדילוג (skipped passing tone)* מתווה קוורטה בין שתי פעימות ראשונות. תו הפעימה החלשה מחלק את הקוורטה לטרצה ולצעד. גם כאן, כל שלושת המרווחים ההרמוניים — בפעימה הראשונה, בצליל העובר בדילוג ובפעימה הראשונה הבאה — קונסוננטיים עם הקנטוס.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/24c7f0ee8e" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 *חלוקת מרווח (interval subdivision)* מתווה קווינטה או סקסטה בין פעימות ראשונות עוקבות. המרווח המלודי הגדול והקונסוננטי מחולק לשתי קפיצות קונסוננטיות קטנות יותר: קווינטה מלודית לשתי טרצות; סקסטה לטרצה וקוורטה, או לקוורטה וטרצה. כל שלושת המרווחים *המלודיים* — שני המרווחים בין התווים העוקבים והמרווח בין שתי הפעימות הראשונות — חייבים להיות קונסוננטיים. נוסף על כך, כל תו בקונטרפונקט חייב להיות קונסוננטי עם הקנטוס.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/a79b68de03" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 *שינוי רגיסטר (change of register)* מתרחש כאשר קפיצה גדולה וקונסוננטית מן הפעימה החזקה לחלשה — P5, סקסטה או אוקטבה — מלווה אחריה בצעד בכיוון ההפוך. הוא משמש ליצירת גיוון מלודי לאחר תנועה ממושכת בצעדים, להימנעות ממרווחים מקבילים או מבעיות אחרות, או להתרחקות מנתיב הקנטוס לשם שמירת עצמאות הקולות. יש להשתמש בו לעיתים רחוקות. כרגיל, כל תו חייב להיות קונסוננטי עם הקנטוס.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/827ad0b4a2" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 *דחיית ההתקדמות המלודית (delay of melodic progression)* מתווה צעד בין שתי פעימות ראשונות. היא כוללת קפיצת טרצה מן הפעימה החזקה לחלשה, ולאחריה צעד בכיוון ההפוך אל הפעימה הראשונה הבאה. היא נקראת ״דחייה״ מפני שהיא מקשטת מהלך שהיה אחרת מהלך איטי יותר בסוג הראשון: תנועה בצעד בין פעימות ראשונות.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/5764fe4a4b" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 *צליל שכן קונסוננטי (consonant neighbor tone)* מופיע כשהקונטרפונקט נע בצעד מן הפעימה הראשונה לחלשה וחוזר לגובה המקורי בפעימה הראשונה הבאה. אם הפעימה הראשונה יוצרת קווינטה עם הקנטוס, הצליל השכן הקונסוננטי יוצר סקסטה, ולהפך.
 
-<iframe title="תבנית או הדגמה בקונטרפונקט מן הסוג השני" src="https://trinket.io/embed/music/043d342ffa" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ## הדגמה
 

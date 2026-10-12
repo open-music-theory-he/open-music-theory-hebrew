@@ -65,11 +65,11 @@ translation_batch: 2
 
 ### תרגול במינור: קונטרפונקט מעל הקנטוס
 
-<iframe title="הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון" class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ### תרגול במז׳ור: קונטרפונקט מתחת לקנטוס
 
-<iframe title="הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון" class="trinket" src="https://trinket.io/embed/music/585810f762" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 > **הערת המהדורה העברית:** ההגבלות המחמירות של הפרק חלות על תרגילי הסוג הראשון בשיטת הספר. הן אינן כללים גורפים לכל סגנון מוזיקלי. תפקידי הסולפז׳ הם יחסיים; ראו [דו קבוע ודו נייד](fixed-and-movable-do.html).
 

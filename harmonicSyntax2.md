@@ -30,11 +30,11 @@ translation_batch: 6
 
 לכן אקורד עובר המאריך את **T1–T3** יהיה אקורד דומיננטה — D קודם ל־T — עם דרגה 2 בבס, הצליל העובר בין דרגות 1 ו־3: **D2**.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 1" src="https://trinket.io/embed/music/026277e656" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 אקורדי **D2** נפוצים הם **V<sup>6/4</sup>**, **V<sup>4/3</sup>** ו־**VII<sup>6</sup>**. לכן אפשר לכלול אותם כאקורדים עוברים בהארכת **I–I<sup>6</sup>**. המהלך **T1 D2 T3** שלהלן משתמש ב־**viiº6** להארכת הטוניקה. האזינו לדוגמה, ואז נסו לשנות אותה למהלך **I V<sup>6/4</sup> I<sup>6</sup>** בעל הולכת קולות תקינה.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 2" src="https://trinket.io/embed/music/e02e8af4b3" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 שימו לב שדרגה 2 בבס אמנם יכולה לתמוך באקורד **II**, אך הוא סובדומיננטה, ולכן *אינו* משמש כאן אקורד עובר להארכת טוניקה.
 
@@ -44,7 +44,7 @@ translation_batch: 6
 
 בכתיבה הרמונית מתקבל אותו אפקט באמצעות *אקורד שכן לא שלם* (incomplete neighbor chord). הבס פועל לפי אותה תבנית של שכן לא שלם מן הסוג השני, ותפקיד האקורד הקונטרפונקטי זהה לזה של האקורד העובר המקביל. לכן במקום **T1 D2 T3**, תבנית התחליף בבס תיצור **T1 D4 T3**. במספרים רומיים המהלך יהיה כמעט תמיד **I V<sup>4/2</sup> I<sup>6</sup>**, כמו בדוגמה הבאה.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 3" src="https://trinket.io/embed/music/51a20e2c7a" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ## הארכה קונטרפונקטית — אקורד שכן שלם
 
@@ -57,11 +57,11 @@ translation_batch: 6
 
 להלן הארכת שכן **T1 D7 T1** בסגנון קפדני לכלי מקלדת. מהם המספר הרומי וספרות הבס הממוספר של **D7**? מהו מספר השינויים הקטן ביותר שיאפשר להפוך את המהלך ל־**T3 D4 T3**?
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 4" src="https://trinket.io/embed/music/e12906a55e" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 כשם שבקונטרפונקט מן הסוג השלישי יש תבנית *שכן כפול* (double neighbor), אפשר להאריך הרמוניות בשני אקורדים המשתמשים בתבנית שכן כפול בבס. ההארכה הנפוצה ביותר היא **T1 D2 D7 T1**, בדרך כלל **I V4/3 V6/5 I**.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 5" src="https://trinket.io/embed/music/519c9f039d" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ## הארכה קונטרפונקטית — אקורדי חלוקה ועיטור
 
@@ -75,13 +75,13 @@ translation_batch: 6
 
 להלן מהלך שמפניה. איזו גרסה זו — **I<sup>6</sup>** או **III**? איזה שינוי יחיד דרוש ליצירת הגרסה האחרת? איזה כלל של הולכת קולות כברירת מחדל ״מופר״ כאן? שימו לב: בשל התנגשות כללים, המהלך יפר תמיד כלל זה ותמיד יהיו במלודיה דרגות הסולם האלה.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 6" src="https://trinket.io/embed/music/6a403a3d21" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 במקרים **T1 D5 T1** ו־**T1 S4 T1**, אותו מהלך הרמוני יכול להופיע גם בלי שהבס משנה רגיסטר. כלומר, הבס קופץ מ־*do* אל *sol* או אל *fa*, אך חוזר לצליל הבס המקורי. במקום לחלק קפיצה גדולה, צליל הבס של האקורד שבאמצע דומה לצליל עיטור מן הסוג השלישי. בקונטרפונקט מן הסוג השלישי צליל עיטור מעטר צליל אחר בקפיצה לקונסוננס אחר — בדרך כלל במרחק טרצה או קוורטה — ובחזרה לצליל המקורי. לכן מה שהיה עשוי להיות אקורד מחלק הוא כאן *אקורד עיטור* (embellishing chord).
 
 להלן הארכת *חלוקה* **T1 D5 T1**. איזה שינוי יחיד יכול להפוך אותה להארכה באמצעות *אקורד עיטור*?
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 7" src="https://trinket.io/embed/music/a23ec68873" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 <a id="subsidiary-harmonic-progressions"></a>
 
@@ -95,7 +95,7 @@ translation_batch: 6
 
 למשל, התבוננו במהלך האפשרי הבא לפראזה:
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 8" src="https://trinket.io/embed/music/69e6b9acb9" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 המעבר הראשון במחזור **T–S–D–T** אינו יוצר קדנצה בחזרתו ל־T. עם זאת, אי אפשר לכנותו הארכה קונטרפונקטית, משום שהוא מקיים בדיוק את מחזור התפקידים הרגיל. לכן זהו מהלך משני.
 
@@ -109,11 +109,11 @@ translation_batch: 6
 
 עוד תבנית נפוצה היא **IV**, כלומר **S**, כשכן שלם או לא שלם ל־**I<sup>6</sup>**, כלומר **T**. מהלכים נפוצים הם **I IV I<sup>6</sup>** ו־**I<sup>6</sup> IV I<sup>6</sup>**.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 9" src="https://trinket.io/embed/music/480c1acf9b" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 נפוצה גם הארכה באמצעות שינוי הספרות של **T1**: <strong>I–IV<sup>6/4</sup>–I</strong>. אפשר לראות ב־<strong>IV<sup>6/4</sup></strong> אקורד **S**, אך לעיתים קרובות מתאים יותר לראות בסקסטה ובקוורטה מעל הבס צלילים שכנים לקווינטה ולטרצה. סמנו מהלך כזה פשוט **T———** מתחת למספרים הרומיים.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 10" src="https://trinket.io/embed/music/1e440d4768" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 
 ## הארכת מהלך
 
@@ -121,4 +121,4 @@ translation_batch: 6
 
 המקרה הנפוץ ביותר הוא בס היורד בצעדים מ־*do* אל *sol*, במיוחד במינור. הבס *do*–*te*–*le*–*sol* מקבל הרמון באמצעות **T1 D7 S6 D5**, בדרך כלל **i v<sup>6</sup> iv<sup>6</sup> V**. איכויות האקורדים חשובות במהלך זה, המכונה ״קינה״ (lament). כאן **S6** הוא סובדומיננטה פונקציונלית המובילה אל **D5** הקדנציאלי. לכן **D7** הוא פשוט אקורד עובר המחבר **T1** עם **S6**. כדי לסמן זאת ציירו חץ בין **T** ל־**S** מתחת לניתוח המספרים הרומיים.
 
-<iframe title="דוגמה אינטראקטיבית להארכה הרמונית 11" src="https://trinket.io/embed/music/3b6de8a510" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>

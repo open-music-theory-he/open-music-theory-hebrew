@@ -6,7 +6,7 @@ translation_status: language-reviewed
 translation_batch: 15
 ---
 
-<iframe title="תרגיל איתור שגיאות בקונטרפונקט מן הסוג הראשון" class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
 *תרגיל איתור שגיאות מתוך [כתיבת קונטרפונקט מן הסוג הראשון](firstSpecies.html).*
 
 [Trinket](http://trinket.io) הוא כלי חדש לתיווי מוזיקלי אינטראקטיבי באינטרנט, כפי שהוא מתואר במקור. אפשר להוסיפו לכל אתר התומך ב־iFrames, וב־Open Music Theory מוטמעים כמה רכיבי תיווי כאלה, עם נוספים המתוכננים ככל שהספר גדל.
@@ -65,4 +65,4 @@ translation_batch: 15
 
 להלן דוגמה המשתמשת ברבות מן התכונות האלה. מחברי המקור פונים לקוראים הבין־לאומיים בבקשת סליחה על השימוש בדו נייד (movable-do)!
 
-<iframe title="דוגמת תיווי, קצב, אקורדים וסולפז׳ ב־Trinket" src="https://trinket.io/embed/music/91c673df7c" width="100%" height="260" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<p class="trinket-unavailable" dir="rtl">שירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.</p>
