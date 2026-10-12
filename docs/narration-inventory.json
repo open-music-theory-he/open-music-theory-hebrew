@@ -1,0 +1,2726 @@
+{
+  "files": [
+    "hebrew-introduction.md",
+    "fixed-and-movable-do.md",
+    "about.md",
+    "basicNotation.md",
+    "meter.md",
+    "protonotation.md",
+    "rhythmicValues.md",
+    "beams.md",
+    "pitches.md",
+    "scales.md",
+    "keySignatures.md",
+    "intervals.md",
+    "triads.md",
+    "motionTypes.md",
+    "speciesIntro.md",
+    "cantusFirmus.md",
+    "firstSpecies.md",
+    "secondSpecies.md",
+    "thirdSpecies.md",
+    "fourthSpecies.md",
+    "thoroughbassFigures.md",
+    "bassoContinuo-history.md",
+    "RNfromFB.md",
+    "bassoContinuo.md",
+    "tendency.md",
+    "tendencyTonesFunctionalDissonances.md",
+    "TBDemo.md",
+    "melodicKeyboardStyle.md",
+    "KBVLschemata.md",
+    "melodicKB.md",
+    "unfiguredBass.md",
+    "embellishingTones.md",
+    "functions.md",
+    "harmonicFunctions.md",
+    "harmonicSyntax1.md",
+    "harmonicSyntax2.md",
+    "harmonicAnalysis.md",
+    "cadenceTypes.md",
+    "alteredSubdominants.md",
+    "appliedChords.md",
+    "modalMixture.md",
+    "Modulation.md",
+    "sentence.md",
+    "period.md",
+    "hybridThemes.md",
+    "compoundPeriod.md",
+    "compoundSentence.md",
+    "smallTernary.md",
+    "smallBinary.md",
+    "classicalThemes.md",
+    "themeFunctions.md",
+    "externalExpansions.md",
+    "internalExpansions.md",
+    "SonataTheory-intro.md",
+    "SonataTheory-exposition.md",
+    "sonataStructuralPointsOfArrival.md",
+    "sonataThematicModules.md",
+    "sonataRecap.md",
+    "sonataDevelopment.md",
+    "sonataFramingModules.md",
+    "rondo.md",
+    "thematicFunctionInRondo.md",
+    "fivePartRondo.md",
+    "sonataRondo.md",
+    "minuet.md",
+    "schemataOpensAndCloses.md",
+    "schemataContinuationPatterns.md",
+    "schemataSummary.md",
+    "schemata-improv.md",
+    "pitch(Class).md",
+    "interval(Class).md",
+    "mod12.md",
+    "scales2.md",
+    "symmetryAndCentricity.md",
+    "normalOrder.md",
+    "transposition.md",
+    "inversion.md",
+    "setClassAndPrimeForm1.md",
+    "setClassAndPrimeForm2.md",
+    "complements.md",
+    "commonTonesUnderTransposition.md",
+    "twelveToneBasics.md",
+    "twelveToneOperations.md",
+    "twelveToneIntervallicStructure.md",
+    "twelveToneMusicDerivation.md",
+    "twelveToneMusicInvariance.md",
+    "postTonalAnalysis.md",
+    "atonal.md",
+    "twelveTone.md",
+    "atonalGlossary.md",
+    "syncopation.md",
+    "popRockHarmony.md",
+    "popRockHarmony-dooWop.md",
+    "popRockHarmony-sscp.md",
+    "popRockHarmony-puff.md",
+    "popRockHarmony-blues.md",
+    "popRockHarmony-lament.md",
+    "popRockHarmony-fifths.md",
+    "popRockHarmony-plagal.md",
+    "popRockForm.md",
+    "popRockForm-terms.md",
+    "popRockForm-containers.md",
+    "popRockForm-functions.md",
+    "popRockForm-notation.md",
+    "analyzingPoetry.md",
+    "trinket.md",
+    "popRockHarmony-EverettSystem3.md",
+    "popRockHarmony-minor.md",
+    "thematicStructureInTheClassicalStyle.md",
+    "melodicDictationDemo.md",
+    "melodicSequentials.md",
+    "popRockHarmony-EverettSystem4.md",
+    "sightSinging.md",
+    "addCC.md",
+    "SonataTheory-modules.md",
+    "whiteKeyMethod.md",
+    "GDrive.md",
+    "popRockHarmony-pachelbel.md",
+    "chromaticSolfege.md",
+    "popRockHarmony-EverettSystem5.md",
+    "popRockHarmony-EverettSystem2.md",
+    "createGraphic.md",
+    "VAT.md",
+    "MinuetForm.md",
+    "linkToTwitter.md",
+    "typesettingKBStyle.md"
+  ],
+  "images": {
+    "Graphics/noteillustration.png": {
+      "chapters": [
+        4
+      ],
+      "alt": "רכיבי סימן התו: ראש, רגל, דגל ונקודה",
+      "context": ""
+    },
+    "Graphics/clefs.png": {
+      "chapters": [
+        4
+      ],
+      "alt": "התו C4 בארבעה מפתחות",
+      "context": ""
+    },
+    "Graphics/ledgerLines.png": {
+      "chapters": [
+        4
+      ],
+      "alt": "קווי עזר בקטע מסונטה של היידן",
+      "context": ""
+    },
+    "Graphics/accidentals.png": {
+      "chapters": [
+        4
+      ],
+      "alt": "סימני במול, בקר, דיאז, דיאז כפול ובמול כפול",
+      "context": ""
+    },
+    "Graphics/protonotation/demoMel.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "מנגינה בתיווי מקדים",
+      "context": ""
+    },
+    "Graphics/protonotation/demoMelStaff.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "אותה מנגינה בתיווי רגיל",
+      "context": ""
+    },
+    "Graphics/protonotation/duple.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "משקל דו־פעימתי.",
+      "context": "משקל דו־פעימתי:"
+    },
+    "Graphics/protonotation/triple.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "משקל תלת־פעימתי.",
+      "context": "משקל תלת־פעימתי:"
+    },
+    "Graphics/protonotation/quadruple.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "משקל ארבע־פעימתי.",
+      "context": "משקל ארבע־פעימתי:"
+    },
+    "Graphics/protonotation/dupleMel.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "תיווי מקדים במשקל דו־פעימתי",
+      "context": "דוגמה 1."
+    },
+    "Graphics/protonotation/duple-G.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "המרת הדוגמה למפתח פה",
+      "context": "מפתח פה, טוניקה: G, מספר תחתון: 8."
+    },
+    "Graphics/protonotation/duple-Bb.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "המרת הדוגמה למפתח דו של אלט",
+      "context": "מפתח דו של אלט, טוניקה: B במול, מספר תחתון: 4."
+    },
+    "Graphics/protonotation/quadrupleMel.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "תיווי מקדים במשקל ארבע־פעימתי",
+      "context": "דוגמה 2."
+    },
+    "Graphics/protonotation/quadruple-Es.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "המרת הדוגמה למפתח סול",
+      "context": "מפתח סול, טוניקה: E במול, מספר תחתון: 4."
+    },
+    "Graphics/protonotation/quadruple-Cis.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "המרת הדוגמה למפתח דו של טנור",
+      "context": "מפתח דו של טנור, טוניקה: C דיאז, מספר תחתון: 8."
+    },
+    "Graphics/protonotation/quadruple-F.png": {
+      "chapters": [
+        6
+      ],
+      "alt": "המרת הדוגמה למפתח פה וטוניקה F",
+      "context": "מפתח פה, טוניקה: F, מספר תחתון: 1."
+    },
+    "Graphics/durations.png": {
+      "chapters": [
+        7
+      ],
+      "alt": "סימני תווים בעלי משכים שונים",
+      "context": ""
+    },
+    "Graphics/rests.png": {
+      "chapters": [
+        7
+      ],
+      "alt": "סימני הפסקות בעלי משכים שונים",
+      "context": ""
+    },
+    "Graphics/dots.png": {
+      "chapters": [
+        7
+      ],
+      "alt": "דוגמאות לתווים מנוקדים",
+      "context": ""
+    },
+    "Graphics/ties.png": {
+      "chapters": [
+        7
+      ],
+      "alt": "קשת מאריכה מעבר לקו התיבה",
+      "context": ""
+    },
+    "Graphics/withoutbeams.png": {
+      "chapters": [
+        8
+      ],
+      "alt": "שמיניות ללא קורות במשקל תלת־פעימתי",
+      "context": ""
+    },
+    "Graphics/beams.png": {
+      "chapters": [
+        8
+      ],
+      "alt": "אותן שמיניות מקובצות לפי הפעימות",
+      "context": ""
+    },
+    "Graphics/triplets.png": {
+      "chapters": [
+        8
+      ],
+      "alt": "דוגמאות לטריולות",
+      "context": ""
+    },
+    "Graphics/duplets.png": {
+      "chapters": [
+        8
+      ],
+      "alt": "דוגמאות לדואולות",
+      "context": ""
+    },
+    "Graphics/keyboardlayout-small.png": {
+      "chapters": [
+        9
+      ],
+      "alt": "שמות התווים באותיות על מקלדת הפסנתר",
+      "context": ""
+    },
+    "Graphics/C4toC5.png": {
+      "chapters": [
+        9
+      ],
+      "alt": "סימון גבהים בעלייה מ־C4 אל C5",
+      "context": ""
+    },
+    "Graphics/C4toC3.png": {
+      "chapters": [
+        9
+      ],
+      "alt": "סימון גבהים בירידה מ־C4 אל C3",
+      "context": ""
+    },
+    "Graphics/F3toG4-alto.png": {
+      "chapters": [
+        9
+      ],
+      "alt": "גבהים במפתח דו של אלט",
+      "context": ""
+    },
+    "Graphics/pitchesTenor.png": {
+      "chapters": [
+        9
+      ],
+      "alt": "גבהים במפתח דו של טנור",
+      "context": ""
+    },
+    "Graphics/chromaticscale.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "הסולם הכרומטי",
+      "context": ""
+    },
+    "Graphics/majorscale.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "סולם D מז׳ור",
+      "context": ""
+    },
+    "Graphics/sdsf.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "סולם D מז׳ור: שמות תווים, דרגות והברות סולפז׳",
+      "context": ""
+    },
+    "Graphics/sdsf-naturalMinor.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "מינור טבעי והברות הסולפז׳ שלו",
+      "context": ""
+    },
+    "Graphics/sdsf-harmonicMinor.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "מינור הרמוני עם דרגה שביעית מוגבהת",
+      "context": ""
+    },
+    "Graphics/sdsf-melodicMinorAsc.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "מינור מלודי בעלייה",
+      "context": ""
+    },
+    "Graphics/sdsf-melodicMinorDesc.png": {
+      "chapters": [
+        10
+      ],
+      "alt": "מינור מלודי בירידה",
+      "context": ""
+    },
+    "Graphics/melodyWithoutKS.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "מנגינה ב־D מז׳ור ללא סימני סולם",
+      "context": ""
+    },
+    "Graphics/melodyWithKS.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "אותה מנגינה עם סימני הסולם של D מז׳ור",
+      "context": ""
+    },
+    "Graphics/circleOfFifths.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "מעגל הקווינטות של סולמות המז׳ור",
+      "context": ""
+    },
+    "Graphics/circleOfFifths-minor.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "מעגל הקווינטות של סולמות המינור",
+      "context": ""
+    },
+    "Graphics/sharpsTreble.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "דיאזים במפתח סול",
+      "context": ""
+    },
+    "Graphics/sharpsAlto.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "דיאזים במפתח דו של אלט",
+      "context": ""
+    },
+    "Graphics/sharpsTenor.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "דיאזים במפתח דו של טנור",
+      "context": ""
+    },
+    "Graphics/sharpsBass.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "דיאזים במפתח פה",
+      "context": ""
+    },
+    "Graphics/flatsTreble.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "במולים במפתח סול",
+      "context": ""
+    },
+    "Graphics/flatsAlto.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "במולים במפתח דו של אלט",
+      "context": ""
+    },
+    "Graphics/flatsTenor.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "במולים במפתח דו של טנור",
+      "context": ""
+    },
+    "Graphics/flatsBass.png": {
+      "chapters": [
+        11
+      ],
+      "alt": "במולים במפתח פה",
+      "context": ""
+    },
+    "Graphics/intervals/C4E4.png": {
+      "chapters": [
+        12
+      ],
+      "alt": "צעדים כרומטיים מ־C4 אל E4.",
+      "context": ""
+    },
+    "Graphics/intervals/thirds.png": {
+      "chapters": [
+        12
+      ],
+      "alt": "שלוש טרצות באיכויות שונות.",
+      "context": ""
+    },
+    "Graphics/intervals/compound.png": {
+      "chapters": [
+        12
+      ],
+      "alt": "טרצות גדולות פשוטות ומורכבות.",
+      "context": ""
+    },
+    "Graphics/intervals/inversion.png": {
+      "chapters": [
+        12
+      ],
+      "alt": "היפוך: טרצה גדולה וסקסטה קטנה.",
+      "context": ""
+    },
+    "Graphics/triadsSeventhChords/circleOfThirds-triad.svg": {
+      "chapters": [
+        13
+      ],
+      "alt": "האקורד המשולש A, C, E במעגל הטרצות הדיאטוני.",
+      "context": ""
+    },
+    "Graphics/triadsSeventhChords/circleOfThirds-triadRTF.svg": {
+      "chapters": [
+        13
+      ],
+      "alt": "השורש, הטרצה והקווינטה של A, C, E במעגל הטרצות.",
+      "context": ""
+    },
+    "Graphics/triadsSeventhChords/triads.png": {
+      "chapters": [
+        13
+      ],
+      "alt": "ארבע איכויות של אקורדים משולשים.",
+      "context": ""
+    },
+    "Graphics/triadsSeventhChords/triads-LS.png": {
+      "chapters": [
+        13
+      ],
+      "alt": "ארבע איכויות האקורדים וסימוניהן באותיות.",
+      "context": ""
+    },
+    "Graphics/triadsSeventhChords/circleOfThirds-seventhRTFS.svg": {
+      "chapters": [
+        13
+      ],
+      "alt": "האקורד A, C, E, G במעגל הטרצות הדיאטוני.",
+      "context": ""
+    },
+    "Graphics/intervals/parallel.png": {
+      "chapters": [
+        14
+      ],
+      "alt": "תנועה מקבילה: C–A אל D–B.",
+      "context": ""
+    },
+    "Graphics/intervals/similar.png": {
+      "chapters": [
+        14
+      ],
+      "alt": "תנועה דומה: C–G אל A–F.",
+      "context": ""
+    },
+    "Graphics/intervals/contrary.png": {
+      "chapters": [
+        14
+      ],
+      "alt": "תנועה מנוגדת: C–E אל A–F.",
+      "context": ""
+    },
+    "Graphics/intervals/oblique1.png": {
+      "chapters": [
+        14
+      ],
+      "alt": "תנועה אלכסונית: C–G אל B–G.",
+      "context": "או"
+    },
+    "Graphics/intervals/oblique2.png": {
+      "chapters": [
+        14
+      ],
+      "alt": "תנועה אלכסונית: C–G אל B–G.",
+      "context": "או"
+    },
+    "Graphics/Bach1033.png": {
+      "chapters": [
+        21,
+        22
+      ],
+      "alt": "דוגמת בס ממוספר מתוך סונטה לחליל בדו מז׳ור, BWV 1033",
+      "context": ""
+    },
+    "Graphics/harmony/figuresFull.png": {
+      "chapters": [
+        21
+      ],
+      "alt": "סימוני בס ממוספר מלאים לאקורדים משולשים ומרובעים",
+      "context": ""
+    },
+    "Graphics/harmony/figuresAbbrev.png": {
+      "chapters": [
+        21
+      ],
+      "alt": "סימוני בס ממוספר מקוצרים",
+      "context": ""
+    },
+    "Graphics/harmony/figuresChrom.png": {
+      "chapters": [
+        21
+      ],
+      "alt": "שינויים כרומטיים בספרות הבס הממוספר",
+      "context": ""
+    },
+    "Graphics/Inversions/5-3chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים משולשים במצב יסודי לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/Inversions/7chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים מרובעים במצב יסודי לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/Inversions/6-3chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים משולשים בהיפוך ראשון לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/Inversions/6-5chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים מרובעים בהיפוך ראשון לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/Inversions/6-4chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים משולשים בהיפוך שני לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/Inversions/4-3chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים מרובעים בהיפוך שני לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/Inversions/4-2chords.png": {
+      "chapters": [
+        23
+      ],
+      "alt": "אקורדים מרובעים בהיפוך שלישי לפי דרגת הבס",
+      "context": ""
+    },
+    "Graphics/BCModel.png": {
+      "chapters": [
+        24
+      ],
+      "alt": "דוגמת מימוש בס רציף בארבעה קולות לכלי מקלדת",
+      "context": ""
+    },
+    "Graphics/harmony/VE64.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "חילוף קולות באמצעות אקורד מעבר בהיפוך שני",
+      "context": ""
+    },
+    "Graphics/harmony/VE63.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "חילוף קולות באמצעות אקורד מעבר 6/3",
+      "context": ""
+    },
+    "Graphics/harmony/D4i.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "חילוף קולות באמצעות אקורד תחליף D4",
+      "context": ""
+    },
+    "Graphics/harmony/ParallelTenths.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "דצימות מקבילות בין הבס למלודיה",
+      "context": ""
+    },
+    "Graphics/harmony/Champagne.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "מהלך השמפניה והכפלת הבס באקורד S6",
+      "context": ""
+    },
+    "Graphics/harmony/PinkChampagne.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "גרסת השמפניה הוורודה עם III",
+      "context": ""
+    },
+    "Graphics/harmony/deceptive.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "פתרון מדומה מאקורד V אל VI",
+      "context": ""
+    },
+    "Graphics/harmony/deceptive7.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "פתרון מדומה מאקורד V7 אל VI",
+      "context": ""
+    },
+    "Graphics/harmony/D5problem.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "הקושי בפתרון מלא כאשר שני האקורדים שלמים",
+      "context": ""
+    },
+    "Graphics/harmony/T1dropFifth.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "השמטת קווינטת I ושילוש הבס",
+      "context": ""
+    },
+    "Graphics/harmony/D5dropFifth.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "השמטת קווינטת V7 והכפלת הבס",
+      "context": ""
+    },
+    "Graphics/harmony/S4problem.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "הקושי בהכנה ובפתרון של שני אקורדי ספטימה שלמים",
+      "context": ""
+    },
+    "Graphics/harmony/S4dropThird.png": {
+      "chapters": [
+        29
+      ],
+      "alt": "השמטת טרצת S4 להכנת ספטימת D5",
+      "context": ""
+    },
+    "Graphics/defaultFigures.png": {
+      "chapters": [
+        31
+      ],
+      "alt": "תרשים תפקידים הרמוניים וספרות שכיחות לפי דרגת הבס",
+      "context": "[הצגת התרשים בגודל מלא] figs"
+    },
+    "Graphics/embellishingTones/passingTone.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת צליל עובר",
+      "context": ""
+    },
+    "Graphics/embellishingTones/neighborTone.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת צליל שכן שלם",
+      "context": ""
+    },
+    "Graphics/embellishingTones/doubleNeighbor.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת דגם שכן כפול",
+      "context": ""
+    },
+    "Graphics/embellishingTones/INT.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת צליל שכן בלתי שלם",
+      "context": ""
+    },
+    "Graphics/embellishingTones/appoggiatura.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת אפוג׳טורה",
+      "context": ""
+    },
+    "Graphics/embellishingTones/escapeTone.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת צליל חומק",
+      "context": ""
+    },
+    "Graphics/embellishingTones/anticipation.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת הקדמת צליל מן האקורד הבא",
+      "context": ""
+    },
+    "Graphics/embellishingTones/syncopatedNote.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת צליל מסונקף",
+      "context": ""
+    },
+    "Graphics/embellishingTones/suspension.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת השהיה עם הכנה ופתרון",
+      "context": ""
+    },
+    "Graphics/embellishingTones/retardation.png": {
+      "chapters": [
+        32
+      ],
+      "alt": "דוגמת השהיה הנפתרת בעלייה",
+      "context": ""
+    },
+    "Graphics/harmony/circleOfThirds-leadSheet.png": {
+      "chapters": [
+        34
+      ],
+      "alt": "האקורדים הדיאטוניים של C מז׳ור במעגל טרצות",
+      "context": ""
+    },
+    "Graphics/harmony/circleOfThirds-functions.png": {
+      "chapters": [
+        34
+      ],
+      "alt": "אקורדים דיאטוניים במז׳ור במעגל טרצות, עם מספרים רומיים ותפקידים הרמוניים",
+      "context": ""
+    },
+    "Graphics/harmony/RNsIndividualFunctions.png": {
+      "chapters": [
+        34
+      ],
+      "alt": "תפקידים של אקורדים יחידים לצד מספרים רומיים",
+      "context": ""
+    },
+    "Graphics/harmony/RNsFunctionalProlongation.png": {
+      "chapters": [
+        34
+      ],
+      "alt": "הארכת תפקיד הרמוני בניתוח במספרים רומיים",
+      "context": ""
+    },
+    "Graphics/harmony/FunctionalBassFunctions.png": {
+      "chapters": [
+        34
+      ],
+      "alt": "סימוני בס פונקציונלי ותפקידי האקורדים",
+      "context": ""
+    },
+    "Graphics/harmony/InterpretedFunctionalBass.png": {
+      "chapters": [
+        34
+      ],
+      "alt": "ניתוח באמצעות בס פונקציונלי מפורש",
+      "context": ""
+    },
+    "Graphics/harmony/k331-reduction.png": {
+      "chapters": [
+        35
+      ],
+      "alt": "מוצרט K. 331, תיבות 1–4, עם צמצום וניתוח הרמוני",
+      "context": ""
+    },
+    "Graphics/harmony/subsidiaryProgression.png": {
+      "chapters": [
+        36
+      ],
+      "alt": "מהלך הרמוני משני המאריך טוניקה",
+      "context": ""
+    },
+    "Graphics/harmony/XVI-21-prolongation.png": {
+      "chapters": [
+        37
+      ],
+      "alt": "ניתוח הארכת הטוניקה והקדנצה בסונטת היידן Hob. XVI:21",
+      "context": ""
+    },
+    "Graphics/cadences/Compound43.png": {
+      "chapters": [
+        38
+      ],
+      "alt": "קדנצה מורכבת עם השהיית 4–3",
+      "context": ""
+    },
+    "Graphics/cadences/Compound43-full.png": {
+      "chapters": [
+        38
+      ],
+      "alt": "קדנצה מורכבת 4–3 עם ספרות מלאות",
+      "context": ""
+    },
+    "Graphics/cadences/Cadential64.png": {
+      "chapters": [
+        38
+      ],
+      "alt": "אקורד שש־ארבע קדנציאלי",
+      "context": ""
+    },
+    "Graphics/cadences/Cadential64-full.png": {
+      "chapters": [
+        38
+      ],
+      "alt": "שש־ארבע קדנציאלי עם ספרות מלאות",
+      "context": ""
+    },
+    "Graphics/cadences/Cadential64-7th.png": {
+      "chapters": [
+        38
+      ],
+      "alt": "שש־ארבע קדנציאלי הממשיך לאקורד ספטימה",
+      "context": ""
+    },
+    "Graphics/cadences/Double.png": {
+      "chapters": [
+        38
+      ],
+      "alt": "קדנצה כפולה בת ארבעה שלבים",
+      "context": ""
+    },
+    "Graphics/N-AugSixths.png": {
+      "chapters": [
+        39
+      ],
+      "alt": "נפוליטני ואקורדי סקסטה מוגדלת ב־G מינור או מז׳ור",
+      "context": ""
+    },
+    "Graphics/DMUDB.png": {
+      "chapters": [
+        39
+      ],
+      "alt": "נפוליטני בשוברט, תיבות 7–10",
+      "context": ""
+    },
+    "Graphics/Op119-1.png": {
+      "chapters": [
+        39
+      ],
+      "alt": "סקסטה איטלקית בבטהובן אופ׳ 119 מס׳ 1",
+      "context": ""
+    },
+    "Graphics/K465-iv.png": {
+      "chapters": [
+        39
+      ],
+      "alt": "סקסטה צרפתית במוצרט K. 465, פרק רביעי",
+      "context": ""
+    },
+    "Graphics/Op109-iii.png": {
+      "chapters": [
+        39
+      ],
+      "alt": "סקסטה גרמנית בבטהובן אופ׳ 109, פרק שלישי",
+      "context": ""
+    },
+    "Graphics/harmony/pivot.png": {
+      "chapters": [
+        42
+      ],
+      "alt": "סימון בסוגר של אקורד ציר: VII ב־D מינור הופך ל־V ב־F מז׳ור.",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/sentence.svg": {
+      "chapters": [
+        43,
+        50
+      ],
+      "alt": "תרשים המשפט המוזיקלי: פראזת הצגה ופראזת המשך",
+      "context": ""
+    },
+    "Graphics/form/k283-presentation.png": {
+      "chapters": [
+        43
+      ],
+      "alt": "מוצרט, K. 283, פרק ראשון, תיבות 1–4: הרעיון הבסיסי וחזרתו בפראזת ההצגה",
+      "context": "פראזת ההצגה פותחת את המשפט המוזיקלי, ויש בה שני רכיבים עיקריים: מלודי והרמוני. מבחינה מלודית היא מכילה שתי הופעות של רעיון בסיסי (basic idea, או BI). מבחינה הרמונית היא מאריכה את הטוניקה באמצעות מהלך הרמוני משני או אקורדים קונטרפונקטיים ."
+    },
+    "Graphics/form/k283.png": {
+      "chapters": [
+        43
+      ],
+      "alt": "מוצרט, K. 283, פרק ראשון, תיבות 1–10: הצגה והמשך עד הקדנצה",
+      "context": "האצת המקצב ההרמוני."
+    },
+    "Graphics/ClassicalThemes/period.svg": {
+      "chapters": [
+        44,
+        50
+      ],
+      "alt": "תרשים הפריודה: פראזה פותחת ופראזה עונה",
+      "context": ""
+    },
+    "Graphics/form/antecedent.png": {
+      "chapters": [
+        44
+      ],
+      "alt": "היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–4: פראזה פותחת",
+      "context": "בניגוד למשפט המוזיקלי, שבו רעיון בסיסי מלווה בחזרה עליו, הרעיון הבסיסי בן שתי התיבות הפותח את הפראזה הפותחת בפריודה מלווה תמיד ב רעיון מנוגד (contrasting idea, או CI) בן שתי תיבות. הרעיון המנוגד תומך במהלך קדנציאלי המסיים את הפראזה הפותחת בקדנצה חלשה: HC או IAC."
+    },
+    "Graphics/form/xv27.png": {
+      "chapters": [
+        44
+      ],
+      "alt": "היידן, Hob. XV:27, פרק שלישי, תיבות 1–8: הפראזה הפותחת והפראזה העונה",
+      "context": "פראזה פותחת ופראזה עונה: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–8"
+    },
+    "Graphics/ClassicalThemes/hybrid1.svg": {
+      "chapters": [
+        45,
+        50
+      ],
+      "alt": "טיפוס היברידי 1: פראזה פותחת ופראזת המשך",
+      "context": ""
+    },
+    "Graphics/form/k330-ii.png": {
+      "chapters": [
+        45
+      ],
+      "alt": "מוצרט, סונטה לפסנתר ב־C מז׳ור, K. 330, פרק שני, תיבות 1–8: פראזה פותחת והמשך",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/hybrid2.svg": {
+      "chapters": [
+        45,
+        50
+      ],
+      "alt": "טיפוס היברידי 2: פראזה פותחת ומהלך קדנציאלי",
+      "context": ""
+    },
+    "Graphics/form/haydn-III-66-ii.png": {
+      "chapters": [
+        45
+      ],
+      "alt": "היידן, רביעיית מיתרים ב־G מז׳ור, Hob. III:66, פרק שני, תיבות 1–8: פראזה פותחת ופראזה קדנציאלית",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/hybrid3.svg": {
+      "chapters": [
+        45,
+        50
+      ],
+      "alt": "טיפוס היברידי 3: רעיון בסיסי מורכב ופראזת המשך",
+      "context": ""
+    },
+    "Graphics/form/beethoven_op30.png": {
+      "chapters": [
+        45
+      ],
+      "alt": "בטהובן, סונטה לכינור, אופוס 30 מס׳ 2, פרק שלישי, תיבות 1–8: רעיון בסיסי מורכב והמשך",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/hybrid4.svg": {
+      "chapters": [
+        45,
+        50
+      ],
+      "alt": "טיפוס היברידי 4: רעיון בסיסי מורכב ופראזה עונה",
+      "context": ""
+    },
+    "Graphics/form/beethoven_18_2.png": {
+      "chapters": [
+        45
+      ],
+      "alt": "בטהובן, רביעיית מיתרים ב־G מז׳ור, אופוס 18 מס׳ 2, פרק רביעי, תיבות 1–8: רעיון בסיסי מורכב ופראזה עונה",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/16period-sent.svg": {
+      "chapters": [
+        46,
+        50
+      ],
+      "alt": "פריודה מורכבת: שני משפטים מוזיקליים, הראשון מסתיים בקדנצה חלשה והשני בחזקה",
+      "context": ""
+    },
+    "Graphics/form/k284-ii.png": {
+      "chapters": [
+        46
+      ],
+      "alt": "מוצרט, סונטה לפסנתר ב־D מז׳ור, K. 284, פרק שני: פריודה מורכבת משני משפטים מוזיקליים",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/16period-hybrid1.svg": {
+      "chapters": [
+        46,
+        50
+      ],
+      "alt": "פריודה מורכבת: שני נושאים היברידיים מטיפוס 1",
+      "context": ""
+    },
+    "Graphics/form/k332.png": {
+      "chapters": [
+        46
+      ],
+      "alt": "מוצרט, סונטה לפסנתר ב־F מז׳ור, K. 332, פרק ראשון, תיבות 41–56: פריודה מורכבת משני נושאים היברידיים מטיפוס 1",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/16period-hybrid3.svg": {
+      "chapters": [
+        46,
+        50
+      ],
+      "alt": "פריודה מורכבת: שני נושאים היברידיים מטיפוס 3, המתחילים ברעיון בסיסי מורכב",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/16sentence.svg": {
+      "chapters": [
+        47,
+        50
+      ],
+      "alt": "תרשים משפט מוזיקלי מורכב: הצגה והמשך מורחבים",
+      "context": ""
+    },
+    "Graphics/form/k498.png": {
+      "chapters": [
+        47
+      ],
+      "alt": "תווים לדוגמת המשפט המורכב בטריו של מוצרט, קכל 498",
+      "context": "בתחילה נדמה שההמשך יסתיים לאחר ארבע תיבות בלבד, בתיבה 12. אך הקלרינט אינו מנגן בפעמה הראשונה של תיבה 12, ובמקום זאת מתחיל חוליית קישור אל חזרה בת ארבע תיבות . בחזרה זו (תיבות 13–16), הפסנתר מנגן את מנגינת הקלרינט מתיבות 9–12 ומגיע בבירור לקדנצה אותנטית מושלמת (PAC) בפעמה הראשונה של תיבה 16."
+    },
+    "Graphics/ClassicalThemes/smallTernary.png": {
+      "chapters": [
+        48
+      ],
+      "alt": "תרשים צורה תלת־חלקית קטנה: תצוגה, אמצע מנוגד ורפריזה",
+      "context": "טיפוס נושא זה מתבטא בדרך כלל בשלושה תפקידים נושאיים : תצוגה (exposition, A), אמצע מנוגד (contrasting middle, B) ורפריזה (recapitulation, A)."
+    },
+    "Graphics/form/k284.png": {
+      "chapters": [
+        48
+      ],
+      "alt": "תווים לנושא מתוך פרק הווריאציות בסונטה של מוצרט, קכל 284",
+      "context": "דוגמה {#an-example}"
+    },
+    "Graphics/ClassicalThemes/smallBinary.png": {
+      "chapters": [
+        49
+      ],
+      "alt": "תרשים צורה דו־חלקית קטנה: שני חלקים, ללא רפריזה",
+      "context": "לצורות דו־חלקיות קטנות יש שני חלקים, שכל אחד מהם מבוצע בדרך כלל בחזרה. בניגוד ל צורה הדו־חלקית המעוגלת , הן אינן כוללות רפריזה של החומר שנשמע ב חלק הראשון ."
+    },
+    "Graphics/form/k305.png": {
+      "chapters": [
+        49
+      ],
+      "alt": "תווים לדוגמת צורה דו־חלקית קטנה בסונטה לכינור של מוצרט, קכל 305",
+      "context": "דוגמה {#an-example}"
+    },
+    "Graphics/ClassicalThemes/smallTernary.svg": {
+      "chapters": [
+        50
+      ],
+      "alt": "תרשים צורה תלת־חלקית קטנה — smallTernary",
+      "context": ""
+    },
+    "Graphics/ClassicalThemes/smallBinary.svg": {
+      "chapters": [
+        50
+      ],
+      "alt": "תרשים צורה דו־חלקית קטנה — smallBinary",
+      "context": ""
+    },
+    "Graphics/form/sym101.png": {
+      "chapters": [
+        52
+      ],
+      "alt": "תווים לקידומת ליווי בסימפוניה מספר 101 של היידן",
+      "context": "קידומת (prefix) היא קטע קצר או ארוך הקודם לנושא. קידומות קצרות חסרות חומר מוטיבי מובחן ו/או מהלך הרמוני. הן קשורות לנושא הבא אחריהן, אך הסרתן אינה פוגעת בהיגיון של הפראזה עצמה."
+    },
+    "Graphics/form/k330.png": {
+      "chapters": [
+        52
+      ],
+      "alt": "תווים לחטיבת סיום בסונטה של מוצרט, קכל 330",
+      "context": "חטיבות סיום (closing sections), המכונות לעיתים גם קודטות (codettas), באות אחרי נושאים המסתיימים ב־PAC."
+    },
+    "Graphics/form/sym40.png": {
+      "chapters": [
+        52
+      ],
+      "alt": "תווים לשהייה על הדומיננטה בסימפוניה מספר 40 של מוצרט",
+      "context": "כאשר סיומת באה אחרי חצי קדנצה, מכנים אותה שהייה על הדומיננטה (standing on the dominant). קטעים כאלה מסמנים לעיתים קרובות כניסה של נושא, למשל הנושא השני בפרק בצורת סונטה, או חזרה של נושא, למשל הרפריזה ב צורה תלת־חלקית קטנה ."
+    },
+    "Graphics/form/k494.png": {
+      "chapters": [
+        53
+      ],
+      "alt": "תווים להרחבת תת־פראזה ברונדו של מוצרט, קכל 494",
+      "context": "כאשר רעיון בסיסי או רעיון מנוגד בן שתי תיבות מתרחב, ההרחבה נעשית לעיתים קרובות באמצעות חזרה מוטיבית בתוך הרעיון הבסיסי. מוטיב או תבנית מלודית קטנה אחרת חוזרים, במדויק או בעיטור פשוט, ומגדילים את אורכה הכולל של תת־הפראזה מעבר למצופה."
+    },
+    "Graphics/form/op2no3.png": {
+      "chapters": [
+        53
+      ],
+      "alt": "תווים להרחבת פראזה בסונטה לפסנתר של בטהובן, אופוס 2 מספר 3",
+      "context": "גם פראזות מתרחבות לעיתים קרובות באמצעות חזרה, בדרך כלל בחלק המסיים של הנושא, כאמצעי לדחיית ההגעה לקדנצה."
+    },
+    "Graphics/form/k309.png": {
+      "chapters": [
+        53
+      ],
+      "alt": "תווים להרחבת פראזה בפרק השלישי בסונטה של מוצרט, קכל 309",
+      "context": "בדוגמה שלעיל, הקדנצה בתיבה 8 הובילה להרחבה משום שהייתה חלשה מן המצופה. נושאים ראשיים מסתיימים רק לעיתים רחוקות ב־IAC. זו אחת ההנעות המוזיקליות הנפוצות ביותר להרחבת פראזה. מלבד IAC, גם קדנצות מדומות עשויות להוביל לפראזות מורחבות. לא נדיר גם שקדנצה צפויה כלל אינה מתממשת — אירוע המכונה לעיתים קרובות ״התחמקות מקדנצה״ (evaded cadence)."
+    },
+    "Graphics/form/medialCaesura.png": {
+      "chapters": [
+        56
+      ],
+      "alt": "דוגמת תווים: חצי קדנצה, שהייה על הדומיננטה וצזורה אמצעית בסונטה K. 284 מאת מוצרט",
+      "context": ""
+    },
+    "Graphics/form/TR.png": {
+      "chapters": [
+        57
+      ],
+      "alt": "תווים לדוגמת מעבר מודולטורי ומתפרק בסונטה של בטהובן",
+      "context": ""
+    },
+    "Graphics/form/meyer.png": {
+      "chapters": [
+        66
+      ],
+      "alt": "סכמת Meyer וארבעת שלביה",
+      "context": ""
+    },
+    "Graphics/form/prinner.png": {
+      "chapters": [
+        66
+      ],
+      "alt": "סכמת Prinner והקווים היורדים שלה",
+      "context": ""
+    },
+    "Graphics/form/fonte.png": {
+      "chapters": [
+        67
+      ],
+      "alt": "סכמת Fonte: מודל וחזרה בדרגה נמוכה יותר",
+      "context": ""
+    },
+    "Graphics/form/Haydn27fonteAnnotated.png": {
+      "chapters": [
+        67
+      ],
+      "alt": "ניתוח Fonte בדוגמה מתוך היידן בטונליות G מז׳ור",
+      "context": ""
+    },
+    "Graphics/form/monte.png": {
+      "chapters": [
+        67
+      ],
+      "alt": "סכמת Monte: מודל וחזרה בדרגה גבוהה יותר",
+      "context": ""
+    },
+    "Graphics/HaydnXVI27.png": {
+      "chapters": [
+        69
+      ],
+      "alt": "הנושא הפותח בפרק השלישי של סונטת היידן Hob. XVI:27",
+      "context": "קטע תווים בנחלת הכלל, מתוך IMSLP . לחצו על התמונה להגדלה."
+    },
+    "Graphics/postTonal/Pitch-Space.jpg": {
+      "chapters": [
+        70
+      ],
+      "alt": "תרשים מרחב גובה הצליל: צלילים ברגיסטרים שונים",
+      "context": ""
+    },
+    "Graphics/postTonal/Pitch-class-Space.jpg": {
+      "chapters": [
+        70,
+        72
+      ],
+      "alt": "לוח שעון המציג את 12 מחלקות גובה הצליל",
+      "context": ""
+    },
+    "Graphics/postTonal/Ordered-Pitch-Interval.jpg": {
+      "chapters": [
+        71
+      ],
+      "alt": "תרשים מרווחים מסודרים בין גבהי צליל, עם כיוון התנועה",
+      "context": ""
+    },
+    "Graphics/postTonal/Pitch-Class-Interval.jpg": {
+      "chapters": [
+        71
+      ],
+      "alt": "מרווח בין מחלקות גובה צליל הנמדד בכיוון השעון",
+      "context": ""
+    },
+    "Graphics/postTonal/Unordered-Pitch-Interval.jpg": {
+      "chapters": [
+        71
+      ],
+      "alt": "תרשים מרווח בלתי מסודר בין גבהי צליל",
+      "context": ""
+    },
+    "Graphics/postTonal/unorderedPitchClassInt.jpg": {
+      "chapters": [
+        71
+      ],
+      "alt": "תרשים מחלקת מרווח כמרחק הקצר על מעגל מחלקות גובה הצליל",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/ionian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס היוני בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/dorian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס הדורי בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/phrygian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס הפריגי בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/lydian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס הלידי בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/mixolydian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס המיקסולידי בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/aeolian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס האאולי בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/modes/locrian.png": {
+      "chapters": [
+        73
+      ],
+      "alt": "המודוס הלוקרי בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/pentatonicWhite.png": {
+      "chapters": [
+        73,
+        88
+      ],
+      "alt": "סולם פנטטוני בקלידים הלבנים בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/pentatonicBlack.png": {
+      "chapters": [
+        73,
+        88
+      ],
+      "alt": "סולם פנטטוני בקלידים השחורים בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/wholeTone.png": {
+      "chapters": [
+        73,
+        88
+      ],
+      "alt": "סולם טונים שלמים על C בחמשה במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/octatonic.png": {
+      "chapters": [
+        73,
+        88
+      ],
+      "alt": "סולם אוקטטוני על C בחילופי חצי טון וטון שלם, במפתח סול",
+      "context": ""
+    },
+    "Graphics/postTonal/upper.png": {
+      "chapters": [
+        74
+      ],
+      "alt": "מחוות משתקפות בכינורות השלישי והרביעי ביצירה של ברטוק",
+      "context": ""
+    },
+    "Graphics/postTonal/upperSymmetry.png": {
+      "chapters": [
+        74
+      ],
+      "alt": "תרשים סימטריה של גבהי הצליל בכינורות",
+      "context": ""
+    },
+    "Graphics/postTonal/lower.png": {
+      "chapters": [
+        74
+      ],
+      "alt": "המחווה בכלי הקשת הנמוכים",
+      "context": ""
+    },
+    "Graphics/postTonal/lowerSymmetry.png": {
+      "chapters": [
+        74
+      ],
+      "alt": "תרשים ציר הסימטריה סביב E2 בכלי הקשת הנמוכים",
+      "context": ""
+    },
+    "Graphics/postTonal/bartok.png": {
+      "chapters": [
+        74
+      ],
+      "alt": "קטע נוסף של ברטוק המדגים סימטריה של מחלקות גובה צליל",
+      "context": ""
+    },
+    "Graphics/postTonal/pitchClassAxes.png": {
+      "chapters": [
+        74
+      ],
+      "alt": "ציר סימטריה העובר דרך מחלקות גובה הצליל 2 ו־8",
+      "context": ""
+    },
+    "Graphics/postTonal/transposition.png": {
+      "chapters": [
+        76
+      ],
+      "alt": "שני קטעים מתוך הקתדרלה השקועה המדגימים טרנספוזיציה",
+      "context": ""
+    },
+    "Graphics/postTonal/t4.png": {
+      "chapters": [
+        76
+      ],
+      "alt": "חישוב טרנספוזיציה T4 באמצעות הוספת ארבע במודולו 12",
+      "context": ""
+    },
+    "Graphics/postTonal/t4Measurement.png": {
+      "chapters": [
+        76
+      ],
+      "alt": "קביעת T4 באמצעות הפרשי מחלקות גובה הצליל המתאימות",
+      "context": ""
+    },
+    "Graphics/postTonal/inversion.png": {
+      "chapters": [
+        77,
+        82
+      ],
+      "alt": "דוגמת היפוך מתוך הקתדרלה השקועה מאת דביסי",
+      "context": ""
+    },
+    "Graphics/postTonal/inversionallyRelated.png": {
+      "chapters": [
+        77
+      ],
+      "alt": "שתי מחוות בעלות אותו תוכן מרווחי המסודר בהיפוך",
+      "context": ""
+    },
+    "Graphics/postTonal/invertingWithAClock.png": {
+      "chapters": [
+        77
+      ],
+      "alt": "שיקוף סביב ציר 0–6 ולאחריו טרנספוזיציה במעגל מחלקות גובה הצליל",
+      "context": ""
+    },
+    "Graphics/postTonal/differences.png": {
+      "chapters": [
+        77
+      ],
+      "alt": "חישוב היפוך באמצעות חיסור מחלקת גובה הצליל מן המספר n",
+      "context": ""
+    },
+    "Graphics/postTonal/sums.png": {
+      "chapters": [
+        77
+      ],
+      "alt": "קביעת יחס ההיפוך באמצעות סכומי זוגות המחלקות המתאימים",
+      "context": ""
+    },
+    "Graphics/postTonal/subjecdtAndReflection.png": {
+      "chapters": [
+        78
+      ],
+      "alt": "יחסי טרנספוזיציה והיפוך בין קבוצות בנושא ושיקוף מאת ברטוק",
+      "context": ""
+    },
+    "Graphics/postTonal/primeForm.png": {
+      "chapters": [
+        78
+      ],
+      "alt": "שלבי קביעת הצורה הראשונית של המוטיב מנושא ושיקוף",
+      "context": ""
+    },
+    "Graphics/postTonal/trichordsAndNonachords.png": {
+      "chapters": [
+        79
+      ],
+      "alt": "מחלקות קבוצות בנות שלושה ובנות תשעה צלילים ברשימת מחלקות הקבוצה",
+      "context": ""
+    },
+    "Graphics/postTonal/complements.png": {
+      "chapters": [
+        80
+      ],
+      "alt": "קבוצת שלושה צלילים והמשלים שלה, בממשות ובצורה ראשונית",
+      "context": ""
+    },
+    "Graphics/postTonal/complementAndItsVector.png": {
+      "chapters": [
+        80
+      ],
+      "alt": "וקטורי מחלקות המרווח של קבוצות משלימות וההפרשים ביניהם",
+      "context": ""
+    },
+    "Graphics/postTonal/commonTonesUnderTransposition.png": {
+      "chapters": [
+        81
+      ],
+      "alt": "וקטור המרווחים של מחלקת הקבוצה 027 והקשר לצלילים משותפים",
+      "context": ""
+    },
+    "Graphics/postTonal/commonTonesUnderTransposition2.png": {
+      "chapters": [
+        81
+      ],
+      "alt": "ארבע קבוצות מן המחלקה 027 והצלילים המשותפים תחת טרנספוזיציות שונות",
+      "context": ""
+    },
+    "Graphics/postTonal/basicRow.png": {
+      "chapters": [
+        82
+      ],
+      "alt": "שורת שנים־עשר הטונים של וריאציות לפסנתר אופוס 27 מאת וברן",
+      "context": ""
+    },
+    "Graphics/postTonal/family.png": {
+      "chapters": [
+        82
+      ],
+      "alt": "משפחת צורות השורה: P, I, R ו־RI",
+      "context": ""
+    },
+    "Graphics/postTonal/operations.png": {
+      "chapters": [
+        83
+      ],
+      "alt": "טרנספוזיציה, היפוך והילוך לאחור של שורת שנים־עשר טונים",
+      "context": ""
+    },
+    "Graphics/postTonal/abstractedRowClass.png": {
+      "chapters": [
+        83
+      ],
+      "alt": "תרשים השפעת הפעולות על סוגי צורות השורה",
+      "context": ""
+    },
+    "Graphics/postTonal/derivedRow.png": {
+      "chapters": [
+        85
+      ],
+      "alt": "שורת וברן אופוס 28 המחולקת לקבוצות ארבעה ולצמדים",
+      "context": ""
+    },
+    "Graphics/postTonal/invariance.png": {
+      "chapters": [
+        86
+      ],
+      "alt": "מקטעים אינווריאנטיים בשתי צורות שורה של וברן",
+      "context": ""
+    },
+    "Graphics/postTonal/clockFace.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "לוח שעון עם 12 מחלקות גובה הצליל",
+      "context": ""
+    },
+    "Graphics/postTonal/clockFace-diatonic.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "סולם C מז׳ור מסומן על מעגל מחלקות גובה הצליל",
+      "context": ""
+    },
+    "Graphics/postTonal/major.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "האוסף הדיאטוני כמז׳ור",
+      "context": ""
+    },
+    "Graphics/postTonal/minor.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "האוסף הדיאטוני כמינור טבעי",
+      "context": ""
+    },
+    "Graphics/postTonal/hexatonic.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "האוסף ההקסאטוני",
+      "context": ""
+    },
+    "Graphics/postTonal/xCell.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "תא X הכרומטי",
+      "context": ""
+    },
+    "Graphics/postTonal/yCell.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "תא Y בטונים שלמים",
+      "context": ""
+    },
+    "Graphics/postTonal/zCell.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "תא Z",
+      "context": ""
+    },
+    "Graphics/postTonal/frenchSixth.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "אוסף סקסטה צרפתית",
+      "context": ""
+    },
+    "Graphics/postTonal/acoustic.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "הסולם האקוסטי",
+      "context": ""
+    },
+    "Graphics/postTonal/dualDiatonicFaFi.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "אוסף דו־דיאטוני עם fa ו־fi",
+      "context": ""
+    },
+    "Graphics/postTonal/dualDiatonicTeTi.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "אוסף דו־דיאטוני עם te ו־ti",
+      "context": ""
+    },
+    "Graphics/postTonal/melodyUp.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "מלודיה לפני היפוך",
+      "context": ""
+    },
+    "Graphics/postTonal/melodyDown.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "המלודיה בהיפוך",
+      "context": ""
+    },
+    "Graphics/postTonal/clockFace-tetraChord.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "קבוצה על מעגל מחלקות גובה הצליל לפני היפוך",
+      "context": ""
+    },
+    "Graphics/postTonal/clockFace-tetraChordInverted.png": {
+      "chapters": [
+        88
+      ],
+      "alt": "הקבוצה בהיפוך סביב ציר C ו־F דיאז",
+      "context": ""
+    },
+    "Graphics/syncopation/quarterToEighth.png": {
+      "chapters": [
+        91
+      ],
+      "alt": "הסטת רבעים בשמינית, בסינקופה ברמת הפעמה",
+      "context": "סינקופה ברמת הפעמה."
+    },
+    "Graphics/syncopation/eighthToSixteenth.png": {
+      "chapters": [
+        91
+      ],
+      "alt": "הסטת שמיניות בשש־עשרית, בסינקופה ברמת החלוקה",
+      "context": "סינקופה ברמת חלוקת הפעמה."
+    },
+    "Graphics/syncopation/fakeTripletsBar.png": {
+      "chapters": [
+        91
+      ],
+      "alt": "טריולות מדומות לאורך תיבה",
+      "context": ""
+    },
+    "Graphics/syncopation/fakeTripletsHalfBar.png": {
+      "chapters": [
+        91
+      ],
+      "alt": "טריולות מדומות לאורך חצי תיבה",
+      "context": ""
+    },
+    "Graphics/syncopation/fakeSextuplets.png": {
+      "chapters": [
+        91
+      ],
+      "alt": "סקסטולות מדומות בדגם 3+3+3+3+2+2",
+      "context": ""
+    },
+    "Graphics/intervals/wnm-seconds.png": {
+      "chapters": [
+        116
+      ],
+      "alt": "סקונדות בין קלידים לבנים: E-F ו־B-C קטנות, והשאר גדולות",
+      "context": ""
+    },
+    "Graphics/intervals/wnm-thirds.png": {
+      "chapters": [
+        116
+      ],
+      "alt": "טרצות בין קלידים לבנים: C-E, F-A ו־G-B גדולות, והשאר קטנות",
+      "context": ""
+    },
+    "Graphics/intervals/wnm-fourths.png": {
+      "chapters": [
+        116
+      ],
+      "alt": "קוורטות בין קלידים לבנים: F-B מוגדלת, והשאר זכות",
+      "context": ""
+    },
+    "Graphics/intervals/wnm-sevenths.png": {
+      "chapters": [
+        116
+      ],
+      "alt": "ספטימות בין קלידים לבנים: F-E ו־C-B גדולות, והשאר קטנות",
+      "context": ""
+    }
+  },
+  "tables": [
+    {
+      "chapter": 2,
+      "source": "fixed-and-movable-do.md",
+      "index": 0,
+      "text": "דרגה בסולם מז׳ור | דו נייד | ב־C מז׳ור | ב־D מז׳ור | ב־F מז׳ור | 1 | do — דו | C | D | F | 2 | re — רה | D | E | G | 3 | mi — מי | E | F♯ | A | 4 | fa — פה | F | G | B♭ | 5 | sol — סול | G | A | C | 6 | la — לה | A | B | D | 7 | ti — סי | B | C♯ | E"
+    },
+    {
+      "chapter": 2,
+      "source": "fixed-and-movable-do.md",
+      "index": 1,
+      "text": "דרגה | הברות במינור טבעי המבוסס על do | דוגמה ב־A מינור טבעי | 1 | do | A | 2 | re | B | 3 | me | C | 4 | fa | D | 5 | sol | E | 6 | le | F | 7 | te | G"
+    },
+    {
+      "chapter": 12,
+      "source": "intervals.md",
+      "index": 0,
+      "text": "פרימה | סקונדה | טרצה | קוורטה | קווינטה | סקסטה | ספטימה | אוקטבה | i0 | P1 | d2 | i1 | A1 | m2 | i2 | M2 | d3 | i3 | A2 | m3 | i4 | M3 | d4 | i5 | A3 | P4 | i6 | A4 | d5 | i7 | P5 | d6 | i8 | A5 | m6 | i9 | M6 | d7 | i10 | A6 | m7 | i11 | M7 | d8 | i12 | A7 | P8"
+    },
+    {
+      "chapter": 26,
+      "source": "tendencyTonesFunctionalDissonances.md",
+      "index": 0,
+      "text": "פונקציה | דיסוננסים | T או Tx | 7; גם 5 כאשר 6 קיימת | S | 3; גם 1 כאשר 2 קיימת | D | 4, 6"
+    },
+    {
+      "chapter": 34,
+      "source": "harmonicFunctions.md",
+      "index": 0,
+      "text": "תפקיד | צלילים מפעילים | צלילים נלווים | דיסוננסים | T | 1 ו־3 | 5 ו־6 | 5, אם גם 6 נוכחת, וכן 7 | S | 4 ו־6 | 1 ו־2 | 1, אם גם 2 נוכחת, וכן 3 | D | 5 ו־7 | 2 | 4 ו־6"
+    },
+    {
+      "chapter": 34,
+      "source": "harmonicFunctions.md",
+      "index": 1,
+      "text": "תפקיד | צלילים מפעילים | צלילים נלווים | דיסוננסים | T | do | ו־ | mi | / | me | sol | ו־ | la | / | le | sol | , אם גם | la | / | le | נוכחת, וכן | ti | / | te | S | fa | ו־ | la | / | le | do | ו־ | re | do | , אם גם | re | נוכחת, וכן | mi | / | me | D | sol | ו־ | ti | / | te | re | fa | ו־ | la | / | le"
+    },
+    {
+      "chapter": 40,
+      "source": "appliedChords.md",
+      "index": 0,
+      "text": "האקורד השניוני | האקורד שעובר טוניקיזציה | T ששונתה כרומטית | → | S | S ששונתה כרומטית | → | D | D ששונתה כרומטית | → | T"
+    },
+    {
+      "chapter": 64,
+      "source": "sonataRondo.md",
+      "index": 0,
+      "text": "תפקיד צורני | החטיבות לפי סדר הופעתן | תצוגה | חטיבה חוזרת 1; אפיזודה 1 | חזרת החטיבה החוזרת | חטיבה חוזרת 2 | פיתוח או נושא פנימי | אפיזודה 2 | רפריזה | חטיבה חוזרת 3; אפיזודה 3 | חזרה מסיימת | חטיבה חוזרת 4"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 0,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | do | ti | fa | mi | בס: | do | re | ti | do | בס ממוספר: | 5/3 | 4/3 | 6/5 | 5/3 | מספרים רומיים: | I | V | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 1,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | do | re | fa | mi | בס: | do | ti | ti | do | בס ממוספר: | 5/3 | 6/5 | 6/5 | 5/3 | מספרים רומיים: | I | V | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 2,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | do | re | fa | mi | בס: | do | sol | sol | do | בס ממוספר: | 5/3 | 7 | 7 | 5/3 | מספרים רומיים: | I | V | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 3,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | do | ti | re | do | בס: | do | re | ti | do | בס ממוספר: | 5/3 | 4/3 | 6/5 | 5/3 | מספרים רומיים: | I | V | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 4,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | mi | re | fa | mi | בס: | do | sol | sol | do | בס ממוספר: | 5/3 | 7 | 7 | 5/3 | מספרים רומיים: | I | V | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 5,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | do | re | re | mi | בס: | do | ti | ti | do | בס ממוספר: | 5/3 | 6/5 | 6/5 | 5/3 | מספרים רומיים: | I | V | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 6,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | sol | fa | fa | mi | בס: | do | re | ti | do | בס ממוספר: | 5/3 | 5/3 | 6/5 | 5/3 | מספרים רומיים: | I | II | V | I | תפקידים: | T | S | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 7,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | sol | fa | fa | mi | בס: | do | re | ti | do | בס ממוספר: | 5/3 | 6/3 | 6/5 | 5/3 | מספרים רומיים: | I | VII | V | I | תפקידים: | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 8,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | sol | sol | do | sol | בס: | do | ti | la | mi | בס ממוספר: | 5/3 | 6/3 | 5/3 | 6/3 | מספרים רומיים: | I | V | VI | I | תפקידים: | T | D | Tx | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 9,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | la | sol | fa | mi | בס: | fa | mi | re | do | בס ממוספר: | 5/3 | 6/3 | 7–6/3 | 5/3 | מספרים רומיים: | IV | I | VII | I | תפקידים: | S | T | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 10,
+      "text": "שלב: | 1 | 2 | 3 | 4 | 5 | מלודיה: | la | sol | fa | fa | mi | בס: | fa | mi | re | sol | do | בס ממוספר: | 5/3 | 6/3 | 7–6/3 | 7 | 5/3 | מספרים רומיים: | IV | I | VII | V | I | תפקידים: | S | T | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 11,
+      "text": "שלב: | 1 | 2 | 3 | 4 | מלודיה: | mi | re | do | ti | בס: | do | ti | la | sol | בס ממוספר: | 5/3 | 6/3 | 7–#6/3 | 5/3 | מספרים רומיים: | I | V | VII/V | V"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 12,
+      "text": "שלב: | 1 | 2 | 3 | 4 | 5 | מלודיה: | mi | re | do | do | ti | בס: | do | ti | la | re | sol | בס ממוספר: | 5/3 | 6/3 | 7–#6/3 | 7/# | 5/3 | מספרים רומיים: | I | V | VII/V | V/V | V"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 13,
+      "text": "שלב: | 1 | 2 | מלודיה: | la | sol | בס: | fa | mi | בס ממוספר: | 5/3 | 6/3 | מספרים רומיים: | IV | I | תפקידים: | S | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 14,
+      "text": "שלב: | 1 | 2 | מלודיה: | mi | re | בס: | do | ti | בס ממוספר: | 5/3 | 6/3 | מספרים רומיים: | I | V"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 15,
+      "text": "שלב: | 1 | 2 | מלודיה: | re | do | בס: | sol | do | בס ממוספר: | (7) | 5/3 | מספרים רומיים: | V | I | תפקידים: | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 16,
+      "text": "שלב: | 1 | 2 | מלודיה: | fa | mi | בס: | sol | do | בס ממוספר: | 7 | 5/3 | מספרים רומיים: | V | I | תפקידים: | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 17,
+      "text": "שלב: | 1 | 2 | 3 | מלודיה: | re | do | ti | בס: | fa | fi | sol | בס ממוספר: | 6/3 | 6/5 | (7) | מספרים רומיים: | II | V/V | V | תפקידים: | S | S | D"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 18,
+      "text": "שלב: | 1 | 2 | 3 | מלודיה: | mi | re | do | בס: | sol | sol | do | בס ממוספר: | (8)/6/4 | (7) | 5/3 | מספרים רומיים: | Cad. | V | I | תפקידים: | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 19,
+      "text": "שלב: | 1 | 2 | 3 | מלודיה: | sol | fa | mi | בס: | sol | sol | do | בס ממוספר: | 8/6/4 | 7 | 5/3 | מספרים רומיים: | Cad. | V | I | תפקידים: | D | D | T"
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "index": 20,
+      "text": "שלב: | 1 | 2 | מלודיה: | mi | re | בס: | sol | sol | בס ממוספר: | 6/4 | 5/3 | מספרים רומיים: | Cad. | V | תפקידים: | D | D"
+    },
+    {
+      "chapter": 92,
+      "source": "popRockHarmony.md",
+      "index": 0,
+      "text": "בס | 5/3 או 7 | 6/3 או 6/5 | do | I | re | II | mi | / | me | [III] | I | fa | IV | sol | V | la | / | le | VI | [IV] | te | VII | ti | V"
+    }
+  ],
+  "embeds": [
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://player.vimeo.com/video/127952221"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://player.vimeo.com/video/127955738"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7GGgQvI5OOv1GL9wehJC2w"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1mblryRrYNlSJqvrrtvzyq"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3QKUA7OAaQu3Zl1cqMa9gq"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3kxQTMpuCVX5L34GjHy61h"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6T5JlpcvC0RbPpexl8xXMI"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:2GnWmYszHAtRKJeODAXuT2"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:0jXRQSoOA01VTmrVIDbhtm"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:0qksx8mV28lztYIZ1om8ml"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1w6C2YqIHygosg9OY6v7Wl"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:40J9dEDG0unV6LyYOHfMi9"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:4mu9wgDkwUSbOGvx2iQfFf"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:76ZDwA8uTyMys4LIS3pBUX"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:70TI9J2rsGIuXyFqVzOswh"
+    },
+    {
+      "chapter": 5,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6M1Eo5wuTl8f5qbpLCuph0"
+    },
+    {
+      "chapter": 16,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/da93d4d902"
+    },
+    {
+      "chapter": 16,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/2df65adf8b"
+    },
+    {
+      "chapter": 17,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/56828309"
+    },
+    {
+      "chapter": 17,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/a089e987ca"
+    },
+    {
+      "chapter": 17,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/585810f762"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/bd3da422f4"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/ef1cff1ee3"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/de54f539bb"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/f258be56b6"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/24c7f0ee8e"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/a79b68de03"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/827ad0b4a2"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/5764fe4a4b"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/043d342ffa"
+    },
+    {
+      "chapter": 18,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/57085974"
+    },
+    {
+      "chapter": 20,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/57389373"
+    },
+    {
+      "chapter": 20,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/58488043"
+    },
+    {
+      "chapter": 20,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/22aa934458"
+    },
+    {
+      "chapter": 27,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/60340315"
+    },
+    {
+      "chapter": 30,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/60863823"
+    },
+    {
+      "chapter": 31,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/48673007"
+    },
+    {
+      "chapter": 35,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5yfZxPrcN0hjwzU1OKIsdQ"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/026277e656"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/e02e8af4b3"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/51a20e2c7a"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/e12906a55e"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/519c9f039d"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/6a403a3d21"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/a23ec68873"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/69e6b9acb9"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/480c1acf9b"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/1e440d4768"
+    },
+    {
+      "chapter": 36,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/3b6de8a510"
+    },
+    {
+      "chapter": 37,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6k7Sa5GrujYsn7Ul85gjWQ"
+    },
+    {
+      "chapter": 39,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A4vKJZfXIU7c3qPKMegSDBW"
+    },
+    {
+      "chapter": 39,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A79GyMHrNnQuFaov2JL7Tih"
+    },
+    {
+      "chapter": 39,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A36zKxZUavyuStSq0R4T4IH"
+    },
+    {
+      "chapter": 39,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A00Vxoqv6oGhrcmugk7TAXB"
+    },
+    {
+      "chapter": 40,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/c6b5004279"
+    },
+    {
+      "chapter": 40,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/45c20d9624"
+    },
+    {
+      "chapter": 40,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/9a8ff25f3c"
+    },
+    {
+      "chapter": 42,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "chapter": 42,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3v8vsQfMQio7ohYqFrEsaZ"
+    },
+    {
+      "chapter": 43,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23"
+    },
+    {
+      "chapter": 44,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g"
+    },
+    {
+      "chapter": 45,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd"
+    },
+    {
+      "chapter": 45,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj"
+    },
+    {
+      "chapter": 45,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT"
+    },
+    {
+      "chapter": 45,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N"
+    },
+    {
+      "chapter": 46,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5nBf5P09DwNUA9XbwKueVI"
+    },
+    {
+      "chapter": 46,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0z0t5ihTRm0XSZSw8iRZ0T"
+    },
+    {
+      "chapter": 47,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2i04xcBOAjx413oclWSzxx"
+    },
+    {
+      "chapter": 52,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ"
+    },
+    {
+      "chapter": 52,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll"
+    },
+    {
+      "chapter": 52,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u"
+    },
+    {
+      "chapter": 53,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:78LK9tbF0jwOd4PYtk42WD"
+    },
+    {
+      "chapter": 53,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5wi0p2gHWFYSwnjgHSYEP3"
+    },
+    {
+      "chapter": 53,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7DsGTbl7EABrY5GK6Dza9P"
+    },
+    {
+      "chapter": 53,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0Mkcj2eA2EMqMGfzwCnd0u"
+    },
+    {
+      "chapter": 55,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/53382539?badge=0"
+    },
+    {
+      "chapter": 56,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:2DuicS9kJJcP1sIyIGxGpE"
+    },
+    {
+      "chapter": 57,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6"
+    },
+    {
+      "chapter": 60,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7GN1OfFxv9xpUjLI6ELqyh"
+    },
+    {
+      "chapter": 60,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1MibYhJxREG8c84CeT4RXS"
+    },
+    {
+      "chapter": 60,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3POiY0HHaGByp3AXTteZYY"
+    },
+    {
+      "chapter": 60,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:4XY27zyWLd729jTgVoSZir"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/109188050"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/4ea073d8f1"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/ee80a49382"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/bcc2fe55de"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/dcdfbf0994"
+    },
+    {
+      "chapter": 69,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/a63f2a06bc"
+    },
+    {
+      "chapter": 90,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/63210462"
+    },
+    {
+      "chapter": 91,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:2wd52lU3agY0P3x2hxPYhm"
+    },
+    {
+      "chapter": 91,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7sSdgidO7APGUdad4Ssw0L"
+    },
+    {
+      "chapter": 91,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/52491312?badge=0"
+    },
+    {
+      "chapter": 93,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1CX9WKs56Ur7r1NDPmuowt"
+    },
+    {
+      "chapter": 93,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:4fK6E2UywZTJIa5kWnCD6x"
+    },
+    {
+      "chapter": 93,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5prTs2HAw2G4idHZyeFp8o"
+    },
+    {
+      "chapter": 93,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "chapter": 94,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3ozomn4PrGEKEuusxX2HpC"
+    },
+    {
+      "chapter": 94,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1xNmF1Uep5OGutizZSbKvd"
+    },
+    {
+      "chapter": 94,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7hZxxM8EK1cMlzMT8vxu1T"
+    },
+    {
+      "chapter": 94,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "chapter": 94,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7JmsQwxDlC89imxewJcnHO"
+    },
+    {
+      "chapter": 94,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:4bAlvRdlQeyMxi6EokQduj"
+    },
+    {
+      "chapter": 95,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3hqsBLMAqJqrhr434Z7WlA"
+    },
+    {
+      "chapter": 95,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:61Q9oJNd9hJQFhSDh6Qlap"
+    },
+    {
+      "chapter": 96,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:0MLpdnTsnnaxH5yEJzxV6I"
+    },
+    {
+      "chapter": 96,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg"
+    },
+    {
+      "chapter": 96,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6uixBHa9scQ9egf3EAYmVK"
+    },
+    {
+      "chapter": 97,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw"
+    },
+    {
+      "chapter": 98,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3SoNMDkQr86wqib28yaBI7"
+    },
+    {
+      "chapter": 98,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw"
+    },
+    {
+      "chapter": 98,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:2DX0WG5OGLQLaXb41Cq1IA"
+    },
+    {
+      "chapter": 99,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6eJlEcRmeyQfTlDQBDyqkW"
+    },
+    {
+      "chapter": 99,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm"
+    },
+    {
+      "chapter": 99,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd"
+    },
+    {
+      "chapter": 99,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63"
+    },
+    {
+      "chapter": 99,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "chapter": 100,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h"
+    },
+    {
+      "chapter": 100,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "chapter": 100,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "chapter": 101,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "chapter": 101,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z"
+    },
+    {
+      "chapter": 102,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A3O8s4pon1omITzB07t6oNx"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0EMmVUYs9ZZRHtlADB88uz"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A1C2QJNTmsTxCDBuIgai8QV"
+    },
+    {
+      "chapter": 103,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2wd52lU3agY0P3x2hxPYhm"
+    },
+    {
+      "chapter": 106,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/a089e987ca"
+    },
+    {
+      "chapter": 106,
+      "tag": "iframe",
+      "src": "https://trinket.io/embed/music/91c673df7c"
+    },
+    {
+      "chapter": 107,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:3Gk0l7D2cL1JQaA1bT8i15"
+    },
+    {
+      "chapter": 107,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6qiVgv4lsideE8c1Bxc867"
+    },
+    {
+      "chapter": 108,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6mWBwQ20G3GdlXU7eEOWGR"
+    },
+    {
+      "chapter": 110,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/61037478"
+    },
+    {
+      "chapter": 112,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "chapter": 114,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/50575367"
+    },
+    {
+      "chapter": 117,
+      "tag": "iframe",
+      "src": "//player.vimeo.com/video/73001492"
+    },
+    {
+      "chapter": 118,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:45V4Mk7vZV2b9JfSWuUX9m"
+    },
+    {
+      "chapter": 118,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97"
+    },
+    {
+      "chapter": 118,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM"
+    },
+    {
+      "chapter": 120,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:4fUKE8EULjQdHF4zb0M8FO"
+    },
+    {
+      "chapter": 120,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "chapter": 120,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7otQ6jzuTljp0NurHHu57w"
+    },
+    {
+      "chapter": 121,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:53uzBMME2GSfpUVtOtiLvA"
+    },
+    {
+      "chapter": 121,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7eQUgarLukHLkZaO1mxtab"
+    },
+    {
+      "chapter": 121,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:7GJg0Pvbb4nqWTwGmkXF1S"
+    },
+    {
+      "chapter": 121,
+      "tag": "iframe",
+      "src": "https://embed.spotify.com/?uri=spotify:track:6C4LXC9UFH1IKiHYOp0BiJ"
+    },
+    {
+      "chapter": 122,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/64721244"
+    },
+    {
+      "chapter": 123,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/42041355"
+    },
+    {
+      "chapter": 125,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/48772169"
+    },
+    {
+      "chapter": 126,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/61032934"
+    },
+    {
+      "chapter": 126,
+      "tag": "iframe",
+      "src": "http://player.vimeo.com/video/61034943"
+    }
+  ]
+}
