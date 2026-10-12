@@ -3,7 +3,7 @@
   "chapters_total": 116,
   "segments_total": 408,
   "new_segments": 7,
-  "completed_chapters": 1,
+  "completed_chapters": 2,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -19,7 +19,7 @@
       "title": "002 — דו קבוע ודו נייד — מדריך לקורא העברי",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 3,
@@ -822,5 +822,5 @@
   ],
   "requests": 8,
   "successes": 7,
-  "elapsed_seconds": 197.89
+  "elapsed_seconds": 202.28
 }
