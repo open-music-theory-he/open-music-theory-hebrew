@@ -1,0 +1,60 @@
+{
+  "chapter": 112,
+  "source": "popRockHarmony-EverettSystem4.md",
+  "title": "112 — טונליות בפופ וברוק המבוססת על בלוז",
+  "source_sha256": "60a853fa42407b6fa89ac173a02396e5df5bf7c4854a5718247a549c8337805a",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פופ ורוק מודרניים חבים רבות לבלוז. ״מערכת טונלית״ זו כוללת לא רק שירים המבוססים במפורש על מהלך בלוז בן 12 או 16 תיבות, אלא גם שירים שמבניהם ההרמוניים צמחו מדגמים אלה — ובייחוד הבולטות של <strong>V–IV–I</strong> ברוק המתואר במקור.</p>",
+      "source_text": "פופ ורוק מודרניים חבים רבות לבלוז. ״מערכת טונלית״ זו כוללת לא רק שירים המבוססים במפורש על מהלך בלוז בן 12 או 16 תיבות, אלא גם שירים שמבניהם ההרמוניים צמחו מדגמים אלה — ובייחוד הבולטות של V–IV–I ברוק המתואר במקור.",
+      "spoken": "פופ ורוק מודרניים חבים רבות לבלוז. ״מערכת טונלית״ זו כוללת לא רק שירים המבוססים במפורש על מהלך בלוז בן 12 או 16 תיבות, אלא גם שירים שמבניהם ההרמוניים צמחו מדגמים אלה — ובייחוד הבולטות של V–IV–I ברוק המתואר במקור."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>למשל, מחזור שמונת האקורדים בבסיס ״Let It Be״ של The Beatles מסתיים ב־<strong>I V IV I</strong>. מהלך זה, ה״הפוך״ ביחס לתחביר הקלאסי, הוא הפיסוק ההרמוני המרכזי בנקודות הסיום בשיר.</p>",
+      "source_text": "למשל, מחזור שמונת האקורדים בבסיס ״Let It Be״ של The Beatles מסתיים ב־I V IV I. מהלך זה, ה״הפוך״ ביחס לתחביר הקלאסי, הוא הפיסוק ההרמוני המרכזי בנקודות הסיום בשיר.",
+      "spoken": "למשל, מחזור שמונת האקורדים בבסיס ״Let It Be״ של The Beatles מסתיים ב־I V IV I. מהלך זה, ה״הפוך״ ביחס לתחביר הקלאסי, הוא הפיסוק ההרמוני המרכזי בנקודות הסיום בשיר."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק המבוססת על בלוז\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק המבוססת על בלוז. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לדוגמאות נוספות של רוק המבוסס על בלוז, ראו <a href=\"popRockHarmony-blues.html\">מהלך הבלוז</a>.</p>",
+      "source_text": "לדוגמאות נוספות של רוק המבוסס על בלוז, ראו מהלך הבלוז.",
+      "spoken": "לדוגמאות נוספות של רוק המבוסס על בלוז, ראו מהלך הבלוז."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:7iN1s7xHE4ifF5povM6A48"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מהלך הבלוז",
+        "target": "popRockHarmony-blues.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

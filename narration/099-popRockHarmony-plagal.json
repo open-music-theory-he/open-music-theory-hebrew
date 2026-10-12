@@ -1,0 +1,128 @@
+{
+  "chapter": 99,
+  "source": "popRockHarmony-plagal.md",
+  "title": "099 — מהלכים פלגליים",
+  "source_sha256": "8a977d01a1e4b9a908076b033e6eab3a8e9491d8787b34d2b7b8965835a67a2e",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אקורד IV נפוץ מאוד כקדם־דומיננטה או כסובדומיננטה ברפרטואר של תקופת הפרקטיקה המקובלת, אך בפופ וברוק מקומו בולט עוד יותר. חילופים בין I ל־IV נפוצים בסוגות רבות. ייתכן שמקורם בתנועת השכן 5-6 שבדגמי ליווי גיטרה בבלוז במקצב שאפל.</p>",
+      "source_text": "אקורד IV נפוץ מאוד כקדם־דומיננטה או כסובדומיננטה ברפרטואר של תקופת הפרקטיקה המקובלת, אך בפופ וברוק מקומו בולט עוד יותר. חילופים בין I ל־IV נפוצים בסוגות רבות. ייתכן שמקורם בתנועת השכן 5-6 שבדגמי ליווי גיטרה בבלוז במקצב שאפל.",
+      "spoken": "אקורד IV נפוץ מאוד כקדם־דומיננטה או כסובדומיננטה ברפרטואר של תקופת הפרקטיקה המקובלת, אך בפופ וברוק מקומו בולט עוד יותר. חילופים בין I ל־IV נפוצים בסוגות רבות. ייתכן שמקורם בתנועת השכן 5-6 שבדגמי ליווי גיטרה בבלוז במקצב שאפל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב־״Soul Man״ של Sam and Dave מהלך האקורדים בבית מחליף בין I ל־IV. האזינו היטב לבס.</p>",
+      "source_text": "ב־״Soul Man״ של Sam and Dave מהלך האקורדים בבית מחליף בין I ל־IV. האזינו היטב לבס.",
+      "spoken": "ב־״Soul Man״ של Sam and Dave מהלך האקורדים בבית מחליף בין I ל־IV. האזינו היטב לבס."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:6eJlEcRmeyQfTlDQBDyqkW\" title=\"דוגמה מוזיקלית להאזנה — מהלכים פלגליים\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:6eJlEcRmeyQfTlDQBDyqkW",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלכים פלגליים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>תנודה דומה בין I ל־IV מופיעה בבית של ״In the Midnight Hour״ של Wilson Pickett.</p>",
+      "source_text": "תנודה דומה בין I ל־IV מופיעה בבית של ״In the Midnight Hour״ של Wilson Pickett.",
+      "spoken": "תנודה דומה בין I ל־IV מופיעה בבית של ״In the Midnight Hour״ של Wilson Pickett."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm\" title=\"דוגמה מוזיקלית להאזנה — מהלכים פלגליים\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלכים פלגליים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כמובן, מהלך כזה אינו מוגבל לסול ול־R&amp;B. פתיחת ״After The Gold Rush״ של Neil Young כוללת מהלך דומה, הסוטה מן הדגם לאחר המילים ״drummers drummin״. שימו לב גם לחוסר ההתאמה בין צלילי המלודיה לאקורדים לאורך השיר.</p>",
+      "source_text": "כמובן, מהלך כזה אינו מוגבל לסול ול־R&B. פתיחת ״After The Gold Rush״ של Neil Young כוללת מהלך דומה, הסוטה מן הדגם לאחר המילים ״drummers drummin״. שימו לב גם לחוסר ההתאמה בין צלילי המלודיה לאקורדים לאורך השיר.",
+      "spoken": "כמובן, מהלך כזה אינו מוגבל לסול ול־R&B. פתיחת ״After The Gold Rush״ של Neil Young כוללת מהלך דומה, הסוטה מן הדגם לאחר המילים ״drummers drummin״. שימו לב גם לחוסר ההתאמה בין צלילי המלודיה לאקורדים לאורך השיר."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd\" title=\"דוגמה מוזיקלית להאזנה — מהלכים פלגליים\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלכים פלגליים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מהלך פלגלי כפול {#double-plagal-progression}</h3>",
+      "source_text": "מהלך פלגלי כפול {#double-plagal-progression}",
+      "spoken": "מהלך פלגלי כפול {#double-plagal-progression}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המהלך ״הפלגלי הכפול״ (double-plagal progression), <a href=\"http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html\">מונח של Walter Everett</a>, מרחיב את המהלך הפלגלי שלעיל ומוסיף את האקורד ״IV/IV״ לפני IV. בפשטות, זהו bVII-IV-I, או VII-iv-I במינור. ככל הנראה הדוגמה המפורסמת ביותר היא הקודה של ״Hey Jude״ של The Beatles, המובאת כאן בביצוע Wilson Pickett:</p>",
+      "source_text": "המהלך ״הפלגלי הכפול״ (double-plagal progression), מונח של Walter Everett, מרחיב את המהלך הפלגלי שלעיל ומוסיף את האקורד ״IV/IV״ לפני IV. בפשטות, זהו bVII-IV-I, או VII-iv-I במינור. ככל הנראה הדוגמה המפורסמת ביותר היא הקודה של ״Hey Jude״ של The Beatles, המובאת כאן בביצוע Wilson Pickett:",
+      "spoken": "המהלך ״הפלגלי הכפול״ (double-plagal progression), מונח של Walter Everett, מרחיב את המהלך הפלגלי שלעיל ומוסיף את האקורד ״IV/IV״ לפני IV. בפשטות, זהו bVII-IV-I, או VII-iv-I במינור. ככל הנראה הדוגמה המפורסמת ביותר היא הקודה של ״Hey Jude״ של The Beatles, המובאת כאן בביצוע Wilson Pickett:"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63\" title=\"דוגמה מוזיקלית להאזנה — מהלכים פלגליים\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלכים פלגליים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מהלכים פלגליים מורחבים {#extended-plagal-progressions}</h3>",
+      "source_text": "מהלכים פלגליים מורחבים {#extended-plagal-progressions}",
+      "spoken": "מהלכים פלגליים מורחבים {#extended-plagal-progressions}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אפשר להשתמש באקורד ״IV משני״ (applied IV) בסקוונצה, בדומה למהלך הקווינטות היורדות במוזיקה של תקופת הפרקטיקה המקובלת. בגרסת ״Hey Joe״ של Jimi Hendrix הבית כולל שלושה מופעים של התנועה הפלגלית בדגם של קוורטות יורדות. מתקבל המהלך bVI-bIII-bVII-IV-I בסולם E מז׳ור.</p>",
+      "source_text": "אפשר להשתמש באקורד ״IV משני״ (applied IV) בסקוונצה, בדומה למהלך הקווינטות היורדות במוזיקה של תקופת הפרקטיקה המקובלת. בגרסת ״Hey Joe״ של Jimi Hendrix הבית כולל שלושה מופעים של התנועה הפלגלית בדגם של קוורטות יורדות. מתקבל המהלך bVI-bIII-bVII-IV-I בסולם E מז׳ור.",
+      "spoken": "אפשר להשתמש באקורד ״IV משני״ (applied IV) בסקוונצה, בדומה למהלך הקווינטות היורדות במוזיקה של תקופת הפרקטיקה המקובלת. בגרסת ״Hey Joe״ של Jimi Hendrix הבית כולל שלושה מופעים של התנועה הפלגלית בדגם של קוורטות יורדות. מתקבל המהלך bVI-bIII-bVII-IV-I בסולם E מז׳ור."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:0NWPxcsf5vdjdiFUI8NgkP\" title=\"דוגמה מוזיקלית להאזנה — מהלכים פלגליים\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:0NWPxcsf5vdjdiFUI8NgkP",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלכים פלגליים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: המקור מונה כאן ״שלושה מופעים״, אף שבמהלך המודפס יש ארבעה מעברים. המהלך והמספר נשמרו; שאלת המנייה מתועדת להכרעה בסוף הספר.</p>",
+      "source_text": "הערת תרגום: המקור מונה כאן ״שלושה מופעים״, אף שבמהלך המודפס יש ארבעה מעברים. המהלך והמספר נשמרו; שאלת המנייה מתועדת להכרעה בסוף הספר.",
+      "spoken": "הערת תרגום: המקור מונה כאן ״שלושה מופעים״, אף שבמהלך המודפס יש ארבעה מעברים. המהלך והמספר נשמרו; שאלת המנייה מתועדת להכרעה בסוף הספר."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:6eJlEcRmeyQfTlDQBDyqkW",
+      "https://embed.spotify.com/?uri=spotify:track:78eSeO2ExsR4sLUHtdBCFm",
+      "https://embed.spotify.com/?uri=spotify:track:2anPa0qaFG1Nf0swkpfOQd",
+      "https://embed.spotify.com/?uri=spotify:track:1MMp1H2Kib2BCDtdL5nL63",
+      "https://embed.spotify.com/?uri=spotify:track:0NWPxcsf5vdjdiFUI8NgkP"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מונח של Walter Everett",
+        "target": "http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "chapter": 109,
+  "source": "thematicStructureInTheClassicalStyle.md",
+  "title": "109 — מבנה נושאי בסגנון הקלאסי",
+  "source_sha256": "8158288d888f269b879c4d3b5d7e70676193045a0176be1f9c8e7251b4a8d7e2",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המבנה הנושאי בסגנון הקלאסי מגוון ומעניין מאוד, ותאורטיקנים של מוזיקה חוקרים אותו יותר ממאתיים שנה. בחומרי עזר אלה אנו מתמקדים במבנה נושאי ב<em>סגנון הקלאסי</em>, בהבדל מתקופות הבארוק והרומנטיקה, משתי סיבות מרכזיות. ראשית, הוא זכה לדיון הרב ביותר ומובן היטב. השפע שנכתב על קדנצה קלאסית, מבנה מוטיבי, ארגון פסוקיות ועוד מאפשר לגשת לנושא באופן שיטתי למדי. עם זאת, אין להסיק מן השיטתיות שאפשר להסביר הכול. גם אצל תאורטיקנים שפיתחו תאוריות מבוססות של צורה קלאסית, כגון Hugo Riemann, ניתוח גמיש עודנו חשוב. שנית, הבנת המבנה הנושאי בסגנון הקלאסי מספקת כניסה לצורות הכליות החשובות של התקופה: <a href=\"SonataTheory-intro.html\">צורת סונטה</a>, <a href=\"minuet.html\">מינואט</a> ו<a href=\"rondo.html\">רונדו</a>. לצורות אלה אריכות ימים מרשימה, ומועיל לבחון אותן בעת התהוותן ההיסטורית.</p>",
+      "source_text": "המבנה הנושאי בסגנון הקלאסי מגוון ומעניין מאוד, ותאורטיקנים של מוזיקה חוקרים אותו יותר ממאתיים שנה. בחומרי עזר אלה אנו מתמקדים במבנה נושאי בסגנון הקלאסי, בהבדל מתקופות הבארוק והרומנטיקה, משתי סיבות מרכזיות. ראשית, הוא זכה לדיון הרב ביותר ומובן היטב. השפע שנכתב על קדנצה קלאסית, מבנה מוטיבי, ארגון פסוקיות ועוד מאפשר לגשת לנושא באופן שיטתי למדי. עם זאת, אין להסיק מן השיטתיות שאפשר להסביר הכול. גם אצל תאורטיקנים שפיתחו תאוריות מבוססות של צורה קלאסית, כגון Hugo Riemann, ניתוח גמיש עודנו חשוב. שנית, הבנת המבנה הנושאי בסגנון הקלאסי מספקת כניסה לצורות הכליות החשובות של התקופה: צורת סונטה, מינואט ורונדו. לצורות אלה אריכות ימים מרשימה, ומועיל לבחון אותן בעת התהוותן ההיסטורית.",
+      "spoken": "המבנה הנושאי בסגנון הקלאסי מגוון ומעניין מאוד, ותאורטיקנים של מוזיקה חוקרים אותו יותר ממאתיים שנה. בחומרי עזר אלה אנו מתמקדים במבנה נושאי בסגנון הקלאסי, בהבדל מתקופות הבארוק והרומנטיקה, משתי סיבות מרכזיות. ראשית, הוא זכה לדיון הרב ביותר ומובן היטב. השפע שנכתב על קדנצה קלאסית, מבנה מוטיבי, ארגון פסוקיות ועוד מאפשר לגשת לנושא באופן שיטתי למדי. עם זאת, אין להסיק מן השיטתיות שאפשר להסביר הכול. גם אצל תאורטיקנים שפיתחו תאוריות מבוססות של צורה קלאסית, כגון Hugo Riemann, ניתוח גמיש עודנו חשוב. שנית, הבנת המבנה הנושאי בסגנון הקלאסי מספקת כניסה לצורות הכליות החשובות של התקופה: צורת סונטה, מינואט ורונדו. לצורות אלה אריכות ימים מרשימה, ומועיל לבחון אותן בעת התהוותן ההיסטורית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>תיאורינו למבנה הנושאי הקלאסי לקוחים בעיקר מ־William Caplin, שספרו <a href=\"https://openlibrary.org/works/OL2689355W/Classical_form\"><em>Classical Form</em></a> נשען על רעיונות של Arnold Schoenberg ושל Erwin Ratz. הסבריו לטיפוסי הנושא השונים בסגנון הקלאסי שיטתיים ומעשיים, ומאפשרים יישום גמיש.</p>",
+      "source_text": "תיאורינו למבנה הנושאי הקלאסי לקוחים בעיקר מ־William Caplin, שספרו Classical Form נשען על רעיונות של Arnold Schoenberg ושל Erwin Ratz. הסבריו לטיפוסי הנושא השונים בסגנון הקלאסי שיטתיים ומעשיים, ומאפשרים יישום גמיש.",
+      "spoken": "תיאורינו למבנה הנושאי הקלאסי לקוחים בעיקר מ־William Caplin, שספרו Classical Form נשען על רעיונות של Arnold Schoenberg ושל Erwin Ratz. הסבריו לטיפוסי הנושא השונים בסגנון הקלאסי שיטתיים ומעשיים, ומאפשרים יישום גמיש."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>תאורטיקנים רבים חקרו הרחבה וכיווץ של נושאים. שני חומרי העזר הקצרים כאן על הרחבות <a href=\"externalExpansions.html\">חיצוניות</a> ו<a href=\"internalExpansions.html\">פנימיות</a> נשענים על <a href=\"https://openlibrary.org/books/OL2059999M/Phrase_rhythm_in_tonal_music\"><em>Phrase Rhythm in Tonal Music</em></a> של William Rothstein.</p>",
+      "source_text": "תאורטיקנים רבים חקרו הרחבה וכיווץ של נושאים. שני חומרי העזר הקצרים כאן על הרחבות חיצוניות ופנימיות נשענים על Phrase Rhythm in Tonal Music של William Rothstein.",
+      "spoken": "תאורטיקנים רבים חקרו הרחבה וכיווץ של נושאים. שני חומרי העזר הקצרים כאן על הרחבות חיצוניות ופנימיות נשענים על Phrase Rhythm in Tonal Music של William Rothstein."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: הקישור sonata.html במקור מפנה לעמוד שאינו קיים במאגר. הוא הוחלף בקישור למבוא לתאוריית הסונטה, ללא הוספת פרק שלא היה במקור.</p>",
+      "source_text": "הערת תרגום: הקישור sonata.html במקור מפנה לעמוד שאינו קיים במאגר. הוא הוחלף בקישור למבוא לתאוריית הסונטה, ללא הוספת פרק שלא היה במקור.",
+      "spoken": "הערת תרגום: הקישור sonata.html במקור מפנה לעמוד שאינו קיים במאגר. הוא הוחלף בקישור למבוא לתאוריית הסונטה, ללא הוספת פרק שלא היה במקור."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "צורת סונטה",
+        "target": "SonataTheory-intro.html"
+      },
+      {
+        "label": "מינואט",
+        "target": "minuet.html"
+      },
+      {
+        "label": "רונדו",
+        "target": "rondo.html"
+      },
+      {
+        "label": "Classical Form",
+        "target": "https://openlibrary.org/works/OL2689355W/Classical_form"
+      },
+      {
+        "label": "חיצוניות",
+        "target": "externalExpansions.html"
+      },
+      {
+        "label": "פנימיות",
+        "target": "internalExpansions.html"
+      },
+      {
+        "label": "Phrase Rhythm in Tonal Music",
+        "target": "https://openlibrary.org/books/OL2059999M/Phrase_rhythm_in_tonal_music"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

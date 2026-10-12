@@ -1,0 +1,113 @@
+{
+  "chapter": 96,
+  "source": "popRockHarmony-blues.md",
+  "title": "096 — מהלך הבלוז",
+  "source_sha256": "740ff4e8d0fdb6f1b3fe32f67d8446a74b49d391f2e09f2423c56da4128da44e",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>מהלך בלוז בן 12 תיבות</em> (12-bar blues) מורכב משלוש פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת. הראשונה מבוססת כולה על הרמוניית טוניקה (I). השנייה כוללת שתי תיבות של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). האחרונה מתחילה בתיבה אחת של דומיננטה (V), ואחריה תיבה של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). הפסוקית השלישית עשויה להסתיים ב<em>טֶרְנְאָרָאוּנְד</em> (turnaround), אך אינה חייבת.</p>",
+      "source_text": "מהלך בלוז בן 12 תיבות (12-bar blues) מורכב משלוש פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת. הראשונה מבוססת כולה על הרמוניית טוניקה (I). השנייה כוללת שתי תיבות של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). האחרונה מתחילה בתיבה אחת של דומיננטה (V), ואחריה תיבה של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). הפסוקית השלישית עשויה להסתיים בטֶרְנְאָרָאוּנְד (turnaround), אך אינה חייבת.",
+      "spoken": "מהלך בלוז בן 12 תיבות (12-bar blues) מורכב משלוש פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת. הראשונה מבוססת כולה על הרמוניית טוניקה (I). השנייה כוללת שתי תיבות של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). האחרונה מתחילה בתיבה אחת של דומיננטה (V), ואחריה תיבה של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). הפסוקית השלישית עשויה להסתיים בטֶרְנְאָרָאוּנְד (turnaround), אך אינה חייבת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>I / / / | IV / I / | V IV I /</p>",
+      "source_text": "I / / / | IV / I / | V IV I /",
+      "spoken": "I / / / | IV / I / | V IV I /"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מאחר שהראשונה מתחילה ב־I, השנייה ב־IV והאחרונה ב־V, אפשר לכנותן פסוקיות <em>טוניקה</em>, <em>סובדומיננטה</em> ו<em>דומיננטה</em>.</p>",
+      "source_text": "מאחר שהראשונה מתחילה ב־I, השנייה ב־IV והאחרונה ב־V, אפשר לכנותן פסוקיות טוניקה, סובדומיננטה ודומיננטה.",
+      "spoken": "מאחר שהראשונה מתחילה ב־I, השנייה ב־IV והאחרונה ב־V, אפשר לכנותן פסוקיות טוניקה, סובדומיננטה ודומיננטה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>מהלך בלוז בן 16 תיבות</em> מורכב מארבע פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת: לרוב שני מופעים של פסוקית הטוניקה, ואחריהם סובדומיננטה ודומיננטה. האחרונה עשויה להסתיים ב־turnaround, אך אינה חייבת.</p>",
+      "source_text": "מהלך בלוז בן 16 תיבות מורכב מארבע פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת: לרוב שני מופעים של פסוקית הטוניקה, ואחריהם סובדומיננטה ודומיננטה. האחרונה עשויה להסתיים ב־turnaround, אך אינה חייבת.",
+      "spoken": "מהלך בלוז בן 16 תיבות מורכב מארבע פסוקיות, בדרך כלל בנות ארבע תיבות כל אחת: לרוב שני מופעים של פסוקית הטוניקה, ואחריהם סובדומיננטה ודומיננטה. האחרונה עשויה להסתיים ב־turnaround, אך אינה חייבת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>I / / / | I / / / | IV / I / | V IV I /</p>",
+      "source_text": "I / / / | I / / / | IV / I / | V IV I /",
+      "spoken": "I / / / | I / / / | IV / I / | V IV I /"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מבין השניים, בלוז בן 12 תיבות נפוץ יותר. אף ששניהם מופיעים במודולים בעלי כל סוגי הפונקציות, מהלכי בלוז נמצאים לרוב בסטרופות, הן בצורה סטרופית והן בצורת AABA.</p>",
+      "source_text": "מבין השניים, בלוז בן 12 תיבות נפוץ יותר. אף ששניהם מופיעים במודולים בעלי כל סוגי הפונקציות, מהלכי בלוז נמצאים לרוב בסטרופות, הן בצורה סטרופית והן בצורת AABA.",
+      "spoken": "מבין השניים, בלוז בן 12 תיבות נפוץ יותר. אף ששניהם מופיעים במודולים בעלי כל סוגי הפונקציות, מהלכי בלוז נמצאים לרוב בסטרופות, הן בצורה סטרופית והן בצורת AABA."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>יוצרים משנים לעיתים קרובות את הדגם ההרמוני הרגיל או מאריכים ומקצרים פסוקיות בתיבה או שתיים. אם אתם שומעים את רוב המאפיינים שלעיל, ראו בכך מהלך בלוז מותאם והשתמשו בדגם הרגיל בן 12 או 16 התיבות כנקודת ייחוס לזיהוי הפרטים שהשתנו.</p>",
+      "source_text": "יוצרים משנים לעיתים קרובות את הדגם ההרמוני הרגיל או מאריכים ומקצרים פסוקיות בתיבה או שתיים. אם אתם שומעים את רוב המאפיינים שלעיל, ראו בכך מהלך בלוז מותאם והשתמשו בדגם הרגיל בן 12 או 16 התיבות כנקודת ייחוס לזיהוי הפרטים שהשתנו.",
+      "spoken": "יוצרים משנים לעיתים קרובות את הדגם ההרמוני הרגיל או מאריכים ומקצרים פסוקיות בתיבה או שתיים. אם אתם שומעים את רוב המאפיינים שלעיל, ראו בכך מהלך בלוז מותאם והשתמשו בדגם הרגיל בן 12 או 16 התיבות כנקודת ייחוס לזיהוי הפרטים שהשתנו."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מהלך רגיל בן 12 תיבות מופיע ב־״Hound Dog״ של Elvis Presley.</p>",
+      "source_text": "מהלך רגיל בן 12 תיבות מופיע ב־״Hound Dog״ של Elvis Presley.",
+      "spoken": "מהלך רגיל בן 12 תיבות מופיע ב־״Hound Dog״ של Elvis Presley."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:0MLpdnTsnnaxH5yEJzxV6I\" title=\"דוגמה מוזיקלית להאזנה — מהלך הבלוז\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:0MLpdnTsnnaxH5yEJzxV6I",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך הבלוז. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Don’t Be Cruel״ של Elvis Presley מציג בסטרופות דגם בלוז בן 12 תיבות שבו הפסוקית האחרונה שונתה: II–V–I במקום V–IV–I. השיר בצורת AABA.</p>",
+      "source_text": "״Don’t Be Cruel״ של Elvis Presley מציג בסטרופות דגם בלוז בן 12 תיבות שבו הפסוקית האחרונה שונתה: II–V–I במקום V–IV–I. השיר בצורת AABA.",
+      "spoken": "״Don’t Be Cruel״ של Elvis Presley מציג בסטרופות דגם בלוז בן 12 תיבות שבו הפסוקית האחרונה שונתה: II–V–I במקום V–IV–I. השיר בצורת AABA."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg\" title=\"דוגמה מוזיקלית להאזנה — מהלך הבלוז\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך הבלוז. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Surfin’ USA״ של The Beach Boys מציג סטרופת בלוז בת 16 תיבות, ששתי הפסוקיות הראשונות שלה מתחילות כל אחת בשתי תיבות של V ואחריהן שתי תיבות של I: ‏V / I / במקום I / / /.</p>",
+      "source_text": "״Surfin’ USA״ של The Beach Boys מציג סטרופת בלוז בת 16 תיבות, ששתי הפסוקיות הראשונות שלה מתחילות כל אחת בשתי תיבות של V ואחריהן שתי תיבות של I: V / I / במקום I / / /.",
+      "spoken": "״Surfin’ USA״ של The Beach Boys מציג סטרופת בלוז בת 16 תיבות, ששתי הפסוקיות הראשונות שלה מתחילות כל אחת בשתי תיבות של V ואחריהן שתי תיבות של I: V / I / במקום I / / /."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:6uixBHa9scQ9egf3EAYmVK\" title=\"דוגמה מוזיקלית להאזנה — מהלך הבלוז\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:6uixBHa9scQ9egf3EAYmVK",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך הבלוז. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:0MLpdnTsnnaxH5yEJzxV6I",
+      "https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg",
+      "https://embed.spotify.com/?uri=spotify:track:6uixBHa9scQ9egf3EAYmVK"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [],
+    "singular_tav_pointed": true
+  }
+}

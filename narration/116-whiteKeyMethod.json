@@ -1,0 +1,120 @@
+{
+  "chapter": 116,
+  "source": "whiteKeyMethod.md",
+  "title": "116 — חישוב מרווחים: שיטת הקלידים הלבנים",
+  "source_sha256": "cfb0ab1e51054ce975487741d07cca5ffcb5659e7a637bdccaef5a7055e4167b",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בסופו של דבר צריך לזכור <a href=\"intervals.html\">מרווחים</a>, הן בשמיעה והן בזיהוי חזותי. יש כמה דרכים המסייעות ללמוד זאת במהירות. אחת היא <em>שיטת הקלידים הלבנים</em> (white-key method).</p>",
+      "source_text": "בסופו של דבר צריך לזכור מרווחים, הן בשמיעה והן בזיהוי חזותי. יש כמה דרכים המסייעות ללמוד זאת במהירות. אחת היא שיטת הקלידים הלבנים (white-key method).",
+      "spoken": "בסופו של דבר צריך לזכור מרווחים, הן בשמיעה והן בזיהוי חזותי. יש כמה דרכים המסייעות ללמוד זאת במהירות. אחת היא שיטת הקלידים הלבנים (white-key method)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>שיטת הקלידים הלבנים {#white-key-method}</h3>",
+      "source_text": "שיטת הקלידים הלבנים {#white-key-method}",
+      "spoken": "שיטת הקלידים הלבנים {#white-key-method}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>השיטה דורשת לשנן את כל המרווחים שבין קלידי הפסנתר הלבנים, כלומר את כל המרווחים בסולם C מז׳ור. לאחר שלמדתם אותם, אפשר לחשב כל מרווח כשינוי של מרווח בין קלידים לבנים. למשל, אפשר לחשב D4-F#4 אם יודעים ש־D4-F4 הוא טרצה קטנה: הוא הורחב בחצי טון, ולכן הוא טרצה גדולה.</p>",
+      "source_text": "השיטה דורשת לשנן את כל המרווחים שבין קלידי הפסנתר הלבנים, כלומר את כל המרווחים בסולם C מז׳ור. לאחר שלמדתם אותם, אפשר לחשב כל מרווח כשינוי של מרווח בין קלידים לבנים. למשל, אפשר לחשב D4-F#4 אם יודעים ש־D4-F4 הוא טרצה קטנה: הוא הורחב בחצי טון, ולכן הוא טרצה גדולה.",
+      "spoken": "השיטה דורשת לשנן את כל המרווחים שבין קלידי הפסנתר הלבנים, כלומר את כל המרווחים בסולם C מז׳ור. לאחר שלמדתם אותם, אפשר לחשב כל מרווח כשינוי של מרווח בין קלידים לבנים. למשל, אפשר לחשב D4-F#4 אם יודעים ש־D4-F4 הוא טרצה קטנה: הוא הורחב בחצי טון, ולכן הוא טרצה גדולה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>למרבה הנוחות, הגדלים והסוגים של המרווחים בין קלידים לבנים חוזרים רבות. שננו את הסוג הנפוץ ואת החריגים.</p>",
+      "source_text": "למרבה הנוחות, הגדלים והסוגים של המרווחים בין קלידים לבנים חוזרים רבות. שננו את הסוג הנפוץ ואת החריגים.",
+      "spoken": "למרבה הנוחות, הגדלים והסוגים של המרווחים בין קלידים לבנים חוזרים רבות. שננו את הסוג הנפוץ ואת החריגים."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כל הסקונדות <em>גדולות</em> מלבד שתיים, E-F ו־B-C, שהן <em>קטנות</em>.</p>",
+      "source_text": "כל הסקונדות גדולות מלבד שתיים, E-F ו־B-C, שהן קטנות.",
+      "spoken": "כל הסקונדות גדולות מלבד שתיים, E-F ו־B-C, שהן קטנות."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"סקונדות בין קלידים לבנים: E-F ו־B-C קטנות, והשאר גדולות\" src=\"Graphics/intervals/wnm-seconds.png\"/>",
+      "asset": "Graphics/intervals/wnm-seconds.png",
+      "spoken": "בגירסה הכתובה מופיע כאן שבע סקונדות בין קלידים לבנים במפתח סול. המרווחים E–F ו־B–C מוקפים במסגרת ומסמנים סקונדות קטנות. C–D, D–E, F–G, G–A, A–B הם סקונדות גדולות.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כל הטרצות <em>קטנות</em> מלבד שלוש, C-E, ‏F-A ו־G-B, שהן <em>גדולות</em>.</p>",
+      "source_text": "כל הטרצות קטנות מלבד שלוש, C-E, F-A ו־G-B, שהן גדולות.",
+      "spoken": "כל הטרצות קטנות מלבד שלוש, C-E, F-A ו־G-B, שהן גדולות."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"טרצות בין קלידים לבנים: C-E, F-A ו־G-B גדולות, והשאר קטנות\" src=\"Graphics/intervals/wnm-thirds.png\"/>",
+      "asset": "Graphics/intervals/wnm-thirds.png",
+      "spoken": "בגירסה הכתובה מופיע כאן שבע טרצות בין קלידים לבנים. C–E, F–A ו־G–B מוקפות במסגרת ומציינות טרצות גדולות; D–F, E–G, A–C, B–D הן קטנות. כל זוג כתוב כשני תווים הנשמעים יחד.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כל הקוורטות <em>זכות</em> מלבד אחת, F-B, שהיא <em>מוגדלת</em>.</p>",
+      "source_text": "כל הקוורטות זכות מלבד אחת, F-B, שהיא מוגדלת.",
+      "spoken": "כל הקוורטות זכות מלבד אחת, F-B, שהיא מוגדלת."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"קוורטות בין קלידים לבנים: F-B מוגדלת, והשאר זכות\" src=\"Graphics/intervals/wnm-fourths.png\"/>",
+      "asset": "Graphics/intervals/wnm-fourths.png",
+      "spoken": "בגירסה הכתובה מופיע כאן שבע קוורטות בין קלידים לבנים. רק F–B מוקפת במסגרת: זו קוורטה מוגדלת. C–F, D–G, E–A, G–C, A–D, B–E הן קוורטות זכות.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כעת אתם יודעים <em>את כל</em> המרווחים בין הקלידים הלבנים, כל עוד אתם מבינים <em>היפוך מרווחים</em> (interval inversion). למשל, אם כל הסקונדות גדולות מלבד E-F ו־B-C הקטנות, כל <em>הספטימות</em> קטנות מלבד F-E ו־C-B הגדולות.</p>",
+      "source_text": "כעת אתם יודעים את כל המרווחים בין הקלידים הלבנים, כל עוד אתם מבינים היפוך מרווחים (interval inversion). למשל, אם כל הסקונדות גדולות מלבד E-F ו־B-C הקטנות, כל הספטימות קטנות מלבד F-E ו־C-B הגדולות.",
+      "spoken": "כעת אתם יודעים את כל המרווחים בין הקלידים הלבנים, כל עוד אתם מבינים היפוך מרווחים (interval inversion). למשל, אם כל הסקונדות גדולות מלבד E-F ו־B-C הקטנות, כל הספטימות קטנות מלבד F-E ו־C-B הגדולות."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"ספטימות בין קלידים לבנים: F-E ו־C-B גדולות, והשאר קטנות\" src=\"Graphics/intervals/wnm-sevenths.png\"/>",
+      "asset": "Graphics/intervals/wnm-sevenths.png",
+      "spoken": "בגירסה הכתובה מופיע כאן שבע ספטימות בין קלידים לבנים. C–B ו־F–E מוקפות במסגרת ומציינות ספטימות גדולות. D–C, E–D, G–F, A–G, B–A הן קטנות; האיור משווה את החריגים לדגם הנפוץ.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לאחר שליטה במרווחים בין קלידים לבנים, אפשר לחשב כל מרווח אחר באמצעות שינוי גודלו בהתאם.</p>",
+      "source_text": "לאחר שליטה במרווחים בין קלידים לבנים, אפשר לחשב כל מרווח אחר באמצעות שינוי גודלו בהתאם.",
+      "spoken": "לאחר שליטה במרווחים בין קלידים לבנים, אפשר לחשב כל מרווח אחר באמצעות שינוי גודלו בהתאם."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/intervals/wnm-seconds.png",
+      "Graphics/intervals/wnm-thirds.png",
+      "Graphics/intervals/wnm-fourths.png",
+      "Graphics/intervals/wnm-sevenths.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מרווחים",
+        "target": "intervals.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

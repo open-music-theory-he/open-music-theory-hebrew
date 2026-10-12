@@ -1,0 +1,115 @@
+{
+  "chapter": 104,
+  "source": "popRockForm-notation.md",
+  "title": "104 — צורה בפופ וברוק — סימון לניתוח",
+  "source_sha256": "872586af59f6e9356fed2189f82583fc5ac94c7634a2ba1c32cecfd6f9908020",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן מוסכמות הסימון לניתוח צורה מוזיקלית.</p>",
+      "source_text": "להלן מוסכמות הסימון לניתוח צורה מוזיקלית.",
+      "spoken": "להלן מוסכמות הסימון לניתוח צורה מוזיקלית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>אותיות גדולות {#capital-letters}</h2>",
+      "source_text": "אותיות גדולות {#capital-letters}",
+      "spoken": "אותיות גדולות {#capital-letters}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודולים מסומנים באותיות גדולות לפי הפונקציה. מודול המתפקד כסטרופה מסומן ״A״; מודול המתפקד כגשר — ״B״; וכן הלאה.</p>",
+      "source_text": "מודולים מסומנים באותיות גדולות לפי הפונקציה. מודול המתפקד כסטרופה מסומן ״A״; מודול המתפקד כגשר — ״B״; וכן הלאה.",
+      "spoken": "מודולים מסומנים באותיות גדולות לפי הפונקציה. מודול המתפקד כסטרופה מסומן ״A״; מודול המתפקד כגשר — ״B״; וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>אותיות קטנות {#lower-case-letters}</h2>",
+      "source_text": "אותיות קטנות {#lower-case-letters}",
+      "spoken": "אותיות קטנות {#lower-case-letters}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פסוקיות מסומנות באותיות קטנות לפי תוכנן המוזיקלי. אם שתי פסוקיות משתמשות פחות או יותר באותה מסגרת מוזיקלית — הרמוניה, מלודיה ומקצב — הן מקבלות אותה אות. הקצאת האותיות דומה לסימון חריזה: הראשונה היא <em>a</em>, וכל פסוקית הבאה המבוססת על אותה מוזיקה היא גם <em>a</em>. סימני פריים משמשים לשינויים קלים, כגון מילים חדשות או תזמור אחר. הפסוקית הבאה בעלת חומר מוזיקלי חדש היא b, וכן הלאה. אותיות אלה <em>אינן</em> מציינות פונקציות.</p>",
+      "source_text": "פסוקיות מסומנות באותיות קטנות לפי תוכנן המוזיקלי. אם שתי פסוקיות משתמשות פחות או יותר באותה מסגרת מוזיקלית — הרמוניה, מלודיה ומקצב — הן מקבלות אותה אות. הקצאת האותיות דומה לסימון חריזה: הראשונה היא a, וכל פסוקית הבאה המבוססת על אותה מוזיקה היא גם a. סימני פריים משמשים לשינויים קלים, כגון מילים חדשות או תזמור אחר. הפסוקית הבאה בעלת חומר מוזיקלי חדש היא b, וכן הלאה. אותיות אלה אינן מציינות פונקציות.",
+      "spoken": "פסוקיות מסומנות באותיות קטנות לפי תוכנן המוזיקלי. אם שתי פסוקיות משתמשות פחות או יותר באותה מסגרת מוזיקלית — הרמוניה, מלודיה ומקצב — הן מקבלות אותה אות. הקצאת האותיות דומה לסימון חריזה: הראשונה היא a, וכל פסוקית הבאה המבוססת על אותה מוזיקה היא גם a. סימני פריים משמשים לשינויים קלים, כגון מילים חדשות או תזמור אחר. הפסוקית הבאה בעלת חומר מוזיקלי חדש היא b, וכן הלאה. אותיות אלה אינן מציינות פונקציות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>החריג היחיד הוא כשפסוקיות המודול מציגות מהלך במבנה משפט, <em>srdc</em>: הראשונה, הצגה (statement), מסומנת <em>s</em>; הצגה חוזרת או תגובה (restatement/response) — <em>r</em>; התרחקות (departure) — <em>d</em>; וסיום (conclusion) — <em>c</em>.</p>",
+      "source_text": "החריג היחיד הוא כשפסוקיות המודול מציגות מהלך במבנה משפט, srdc: הראשונה, הצגה (statement), מסומנת s; הצגה חוזרת או תגובה (restatement/response) — r; התרחקות (departure) — d; וסיום (conclusion) — c.",
+      "spoken": "החריג היחיד הוא כשפסוקיות המודול מציגות מהלך במבנה משפט, srdc: הראשונה, הצגה (statement), מסומנת s; הצגה חוזרת או תגובה (restatement/response) — r; התרחקות (departure) — d; וסיום (conclusion) — c."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>ספרות בגודל רגיל {#full-sized-numerals}</h2>",
+      "source_text": "ספרות בגודל רגיל {#full-sized-numerals}",
+      "spoken": "ספרות בגודל רגיל {#full-sized-numerals}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ספרות בגודל רגיל מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה אך מוזיקה שונה. למשל, אם בשיר שתי מלודיות שונות המשמשות כנושאי בית, הן מסומנות ״V1״ — הראשונה המופיעה בשיר — ו־״V2״.</p>",
+      "source_text": "ספרות בגודל רגיל מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה אך מוזיקה שונה. למשל, אם בשיר שתי מלודיות שונות המשמשות כנושאי בית, הן מסומנות ״V1״ — הראשונה המופיעה בשיר — ו־״V2״.",
+      "spoken": "ספרות בגודל רגיל מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה אך מוזיקה שונה. למשל, אם בשיר שתי מלודיות שונות המשמשות כנושאי בית, הן מסומנות ״V1״ — הראשונה המופיעה בשיר — ו־״V2״."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>ספרות בכתב תחתי {#subscript-numerals}</h2>",
+      "source_text": "ספרות בכתב תחתי {#subscript-numerals}",
+      "spoken": "ספרות בכתב תחתי {#subscript-numerals}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ספרות בכתב תחתי מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה ואותה מוזיקה, אך מילים שונות. למשל, שלושה בתים בעלי מילים שונות ואותה מוזיקה מסומנים ״V<sub>1</sub>״, ״V<sub>2</sub>״ ו־״V<sub>3</sub>״.</p>",
+      "source_text": "ספרות בכתב תחתי מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה ואותה מוזיקה, אך מילים שונות. למשל, שלושה בתים בעלי מילים שונות ואותה מוזיקה מסומנים ״V1״, ״V2״ ו־״V3״.",
+      "spoken": "ספרות בכתב תחתי מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה ואותה מוזיקה, אך מילים שונות. למשל, שלושה בתים בעלי מילים שונות ואותה מוזיקה מסומנים ״V1״, ״V2״ ו־״V3״."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>סימון בציר זמן {#timeline-notation}</h2>",
+      "source_text": "סימון בציר זמן {#timeline-notation}",
+      "spoken": "סימון בציר זמן {#timeline-notation}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://variations.sourceforge.net/vat/\">Variations Audio Timeliner</a> אינו תומך בכתב תחתי. ביצירת צירי זמן ב־VAT אפשר להשתמש בספרות בגודל רגיל לשתי המטרות.</p>",
+      "source_text": "Variations Audio Timeliner אינו תומך בכתב תחתי. ביצירת צירי זמן ב־VAT אפשר להשתמש בספרות בגודל רגיל לשתי המטרות.",
+      "spoken": "Variations Audio Timeliner אינו תומך בכתב תחתי. ביצירת צירי זמן ב־VAT אפשר להשתמש בספרות בגודל רגיל לשתי המטרות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockForm.html\"><em>חזרה לסקירת הצורה בפופ וברוק.</em></a></p>",
+      "source_text": "חזרה לסקירת הצורה בפופ וברוק.",
+      "spoken": "חזרה לסקירת הצורה בפופ וברוק."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "Variations Audio Timeliner",
+        "target": "http://variations.sourceforge.net/vat/"
+      },
+      {
+        "label": "חזרה לסקירת הצורה בפופ וברוק.",
+        "target": "popRockForm.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

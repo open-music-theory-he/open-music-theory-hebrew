@@ -1,0 +1,57 @@
+{
+  "chapter": 95,
+  "source": "popRockHarmony-puff.md",
+  "title": "095 — מהלך ״Puff״",
+  "source_sha256": "5f5fccb56afe1d8c9404351e666f78e1e1b10107f9b9f2e210992ca065213a3b",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>I – III – IV . . .</strong> (בפתיחת פסוקית)</p>",
+      "source_text": "I – III – IV . . . (בפתיחת פסוקית)",
+      "spoken": "I – III – IV . . . (בפתיחת פסוקית)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מהלך ״Puff״ נקרא על שם ״Puff, the Magic dragon״ של Peter, Paul, and Mary, הנפתח בו. הוא אינו משתתף במחזורים של 3 או 4 אקורדים כמו המהלכים שלעיל. עם זאת, הוא קשור בדרך כלל לפתיחת פסוקיות ומהרמן את הבס <em>mi</em>/<em>me</em> באקורד III במקום I בהיפוך ראשון. ״House of the Rising Sun״ של The Animals מדגים פתיחת פסוקיות במהלך זה במינור: <em>do</em>–<em>me</em>–<em>fa</em> . . . ההברות הן דרגות בדו יחסי.</p>",
+      "source_text": "מהלך ״Puff״ נקרא על שם ״Puff, the Magic dragon״ של Peter, Paul, and Mary, הנפתח בו. הוא אינו משתתף במחזורים של 3 או 4 אקורדים כמו המהלכים שלעיל. עם זאת, הוא קשור בדרך כלל לפתיחת פסוקיות ומהרמן את הבס mi/me באקורד III במקום I בהיפוך ראשון. ״House of the Rising Sun״ של The Animals מדגים פתיחת פסוקיות במהלך זה במינור: do–me–fa . . . ההברות הן דרגות בדו יחסי.",
+      "spoken": "מהלך ״Puff״ נקרא על שם ״Puff, the Magic dragon״ של Peter, Paul, and Mary, הנפתח בו. הוא אינו משתתף במחזורים של 3 או 4 אקורדים כמו המהלכים שלעיל. עם זאת, הוא קשור בדרך כלל לפתיחת פסוקיות ומהרמן את הבס mi/me באקורד III במקום I בהיפוך ראשון. ״House of the Rising Sun״ של The Animals מדגים פתיחת פסוקיות במהלך זה במינור: do–me–fa . . . ההברות הן דרגות בדו יחסי."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:3hqsBLMAqJqrhr434Z7WlA\" title=\"דוגמה מוזיקלית להאזנה — מהלך ״Puff״\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:3hqsBLMAqJqrhr434Z7WlA",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך ״Puff״. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:61Q9oJNd9hJQFhSDh6Qlap\" title=\"דוגמה מוזיקלית להאזנה — מהלך ״Puff״\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:61Q9oJNd9hJQFhSDh6Qlap",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך ״Puff״. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:3hqsBLMAqJqrhr434Z7WlA",
+      "https://embed.spotify.com/?uri=spotify:track:61Q9oJNd9hJQFhSDh6Qlap"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [],
+    "singular_tav_pointed": true
+  }
+}

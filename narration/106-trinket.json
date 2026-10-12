@@ -1,0 +1,219 @@
+{
+  "chapter": 106,
+  "source": "trinket.md",
+  "title": "106 — שימוש ב־Trinket",
+  "source_sha256": "a2c3fcae27a5b9f8c8e268b91787a6813d2ac2d77915d981b9653bcefee98855",
+  "status": "prepared-awaiting-media-review",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" class=\"trinket\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/a089e987ca\" title=\"תרגיל איתור שגיאות בקונטרפונקט מן הסוג הראשון\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/a089e987ca",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: תרגיל איתור שגיאות בקונטרפונקט מן הסוג הראשון. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>תרגיל איתור שגיאות מתוך <a href=\"firstSpecies.html\">כתיבת קונטרפונקט מן הסוג הראשון</a>.</em></p>",
+      "source_text": "תרגיל איתור שגיאות מתוך כתיבת קונטרפונקט מן הסוג הראשון.",
+      "spoken": "תרגיל איתור שגיאות מתוך כתיבת קונטרפונקט מן הסוג הראשון."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://trinket.io\">Trinket</a> הוא כלי חדש לתיווי מוזיקלי אינטראקטיבי באינטרנט, כפי שהוא מתואר במקור. אפשר להוסיפו לכל אתר התומך ב־iFrames, וב־Open Music Theory מוטמעים כמה רכיבי תיווי כאלה, עם נוספים המתוכננים ככל שהספר גדל.</p>",
+      "source_text": "Trinket הוא כלי חדש לתיווי מוזיקלי אינטראקטיבי באינטרנט, כפי שהוא מתואר במקור. אפשר להוסיפו לכל אתר התומך ב־iFrames, וב־Open Music Theory מוטמעים כמה רכיבי תיווי כאלה, עם נוספים המתוכננים ככל שהספר גדל.",
+      "spoken": "Trinket הוא כלי חדש לתיווי מוזיקלי אינטראקטיבי באינטרנט, כפי שהוא מתואר במקור. אפשר להוסיפו לכל אתר התומך ב־iFrames, וב־Open Music Theory מוטמעים כמה רכיבי תיווי כאלה, עם נוספים המתוכננים ככל שהספר גדל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מדריך תיווי {#notation-guide}</h2>",
+      "source_text": "מדריך תיווי {#notation-guide}",
+      "spoken": "מדריך תיווי {#notation-guide}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>יוצרים תיווי מוזיקלי בהזנת טקסט לתיבה בתחתית הרכיב. כדי לשמור על פשטות, רכיבי Trinket מציעים מבחר מוגבל של תכונות מוזיקליות. להלן הטקסט הדרוש להפעלתן; רובן נכללות בדוגמה שבתחתית העמוד.</p>",
+      "source_text": "יוצרים תיווי מוזיקלי בהזנת טקסט לתיבה בתחתית הרכיב. כדי לשמור על פשטות, רכיבי Trinket מציעים מבחר מוגבל של תכונות מוזיקליות. להלן הטקסט הדרוש להפעלתן; רובן נכללות בדוגמה שבתחתית העמוד.",
+      "spoken": "יוצרים תיווי מוזיקלי בהזנת טקסט לתיבה בתחתית הרכיב. כדי לשמור על פשטות, רכיבי Trinket מציעים מבחר מוגבל של תכונות מוזיקליות. להלן הטקסט הדרוש להפעלתן; רובן נכללות בדוגמה שבתחתית העמוד."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>גובה צליל {#pitch}</h3>",
+      "source_text": "גובה צליל {#pitch}",
+      "spoken": "גובה צליל {#pitch}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מחלקות גובה צליל מסומנות באותיות, ואחריהן <code>-</code> לבמול, <code>#</code> לדיאז או <code>n</code> לבקר. הפסקות מסומנות <code>r</code>.</p>",
+      "source_text": "מחלקות גובה צליל מסומנות באותיות, ואחריהן - לבמול, # לדיאז או n לבקר. הפסקות מסומנות r.",
+      "spoken": "מחלקות גובה צליל מסומנות באותיות, ואחריהן - לבמול, # לדיאז או n לבקר. הפסקות מסומנות r."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כדי למנוע בלבול עם המספרים הקצביים, Trinket משתמש בגרסה של סימון הרגיסטר של הלמהולץ (Helmholtz). לכן אוקטבה 4, המכונה במקור ISO Octave 4 — מ־C האמצעי עד B שמעליו — משתמשת באותיות קטנות:</p>",
+      "source_text": "כדי למנוע בלבול עם המספרים הקצביים, Trinket משתמש בגרסה של סימון הרגיסטר של הלמהולץ (Helmholtz). לכן אוקטבה 4, המכונה במקור ISO Octave 4 — מ־C האמצעי עד B שמעליו — משתמשת באותיות קטנות:",
+      "spoken": "כדי למנוע בלבול עם המספרים הקצביים, Trinket משתמש בגרסה של סימון הרגיסטר של הלמהולץ (Helmholtz). לכן אוקטבה 4, המכונה במקור ISO Octave 4 — מ־C האמצעי עד B שמעליו — משתמשת באותיות קטנות:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<pre><code>c d e f g a b\n</code></pre>",
+      "source_text": "c d e f g a b",
+      "spoken": "c d e f g a b"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><br/>\nאוקטבה 5 מוסיפה גרש:</p>",
+      "source_text": "אוקטבה 5 מוסיפה גרש:",
+      "spoken": "אוקטבה 5 מוסיפה גרש:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<pre><code>c' d' e' f' g' a' b'\n</code></pre>",
+      "source_text": "c' d' e' f' g' a' b'",
+      "spoken": "c' d' e' f' g' a' b'"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><br/>\nאוקטבה 6 מוסיפה שני גרשים, c''; אוקטבה 7 שלושה, c'''; וכן הלאה.</p>",
+      "source_text": "אוקטבה 6 מוסיפה שני גרשים, c''; אוקטבה 7 שלושה, c'''; וכן הלאה.",
+      "spoken": "אוקטבה 6 מוסיפה שני גרשים, c''; אוקטבה 7 שלושה, c'''; וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אוקטבה 3, מיד מתחת ל־C האמצעי, משתמשת באותיות גדולות:</p>",
+      "source_text": "אוקטבה 3, מיד מתחת ל־C האמצעי, משתמשת באותיות גדולות:",
+      "spoken": "אוקטבה 3, מיד מתחת ל־C האמצעי, משתמשת באותיות גדולות:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<pre><code>C D E F G A B\n</code></pre>",
+      "source_text": "C D E F G A B",
+      "spoken": "C D E F G A B"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><br/>\nאוקטבה 2 משתמשת בשתי אותיות גדולות:</p>",
+      "source_text": "אוקטבה 2 משתמשת בשתי אותיות גדולות:",
+      "spoken": "אוקטבה 2 משתמשת בשתי אותיות גדולות:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<pre><code>CC DD EE FF GG AA BB\n</code></pre>",
+      "source_text": "CC DD EE FF GG AA BB",
+      "spoken": "CC DD EE FF GG AA BB"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><br/>\nוכן הלאה.</p>",
+      "source_text": "וכן הלאה.",
+      "spoken": "וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>קצב {#rhythm}</h3>",
+      "source_text": "קצב {#rhythm}",
+      "spoken": "קצב {#rhythm}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הקצב מסומן במספרי ערכי התווים: 2 לחצי, 4 לרבע וכן הלאה; נקודות מציינות ניקוד — 2. לחצי מנוקד, 4.. לרבע בעל שתי נקודות וכן הלאה. המספרים באים מיד אחרי גבהי הצליל.</p>",
+      "source_text": "הקצב מסומן במספרי ערכי התווים: 2 לחצי, 4 לרבע וכן הלאה; נקודות מציינות ניקוד — 2. לחצי מנוקד, 4.. לרבע בעל שתי נקודות וכן הלאה. המספרים באים מיד אחרי גבהי הצליל.",
+      "spoken": "הקצב מסומן במספרי ערכי התווים: 2 לחצי, 4 לרבע וכן הלאה; נקודות מציינות ניקוד — 2. לחצי מנוקד, 4.. לרבע בעל שתי נקודות וכן הלאה. המספרים באים מיד אחרי גבהי הצליל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קשת הארכה מסומנת ב־<code>~</code> מיד אחרי הערך הקצבי.</p>",
+      "source_text": "קשת הארכה מסומנת ב־~ מיד אחרי הערך הקצבי.",
+      "spoken": "קשת הארכה מסומנת ב־~ מיד אחרי הערך הקצבי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>אקורדים {#chords}</h3>",
+      "source_text": "אקורדים {#chords}",
+      "spoken": "אקורדים {#chords}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ליצירת אקורד, כתבו שני צלילים או יותר בסוגריים זוויתיים, ואת הערך הקצבי מחוץ לסוגריים:</p>",
+      "source_text": "ליצירת אקורד, כתבו שני צלילים או יותר בסוגריים זוויתיים, ואת הערך הקצבי מחוץ לסוגריים:",
+      "spoken": "ליצירת אקורד, כתבו שני צלילים או יותר בסוגריים זוויתיים, ואת הערך הקצבי מחוץ לסוגריים:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<pre><code>&lt;c e g&gt;4. &lt;d f&gt;8\n</code></pre>",
+      "source_text": "<c e g>4. <d f>8",
+      "spoken": "<c e g>4. <d f>8"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מילים {#lyrics}</h3>",
+      "source_text": "מילים {#lyrics}",
+      "spoken": "מילים {#lyrics}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בשימוש במילות שיר, פשוט הזינו מילים או סימוני ניתוח לתיבת המילים. רווח מעביר לתו הבא. בדילוג על תו, הזינו <code>~</code> עבור התווים שאינם מקבלים מילים.</p>",
+      "source_text": "בשימוש במילות שיר, פשוט הזינו מילים או סימוני ניתוח לתיבת המילים. רווח מעביר לתו הבא. בדילוג על תו, הזינו ~ עבור התווים שאינם מקבלים מילים.",
+      "spoken": "בשימוש במילות שיר, פשוט הזינו מילים או סימוני ניתוח לתיבת המילים. רווח מעביר לתָּו הבא. בדילוג על תָּו, הזינו ~ עבור התווים שאינם מקבלים מילים."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>דוגמה {#example}</h3>",
+      "source_text": "דוגמה {#example}",
+      "spoken": "דוגמה {#example}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן דוגמה המשתמשת ברבות מן התכונות האלה. מחברי המקור פונים לקוראים הבין־לאומיים בבקשת סליחה על השימוש בדו נייד (movable-do)!</p>",
+      "source_text": "להלן דוגמה המשתמשת ברבות מן התכונות האלה. מחברי המקור פונים לקוראים הבין־לאומיים בבקשת סליחה על השימוש בדו נייד (movable-do)!",
+      "spoken": "להלן דוגמה המשתמשת ברבות מן התכונות האלה. מחברי המקור פונים לקוראים הבין־לאומיים בבקשת סליחה על השימוש בדו נייד (movable-do)!"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"260\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/91c673df7c\" title=\"דוגמת תיווי, קצב, אקורדים וסולפז׳ ב־Trinket\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/91c673df7c",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמת תיווי, קצב, אקורדים וסולפז׳ ב־Trinket. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://trinket.io/embed/music/a089e987ca",
+      "https://trinket.io/embed/music/91c673df7c"
+    ],
+    "pronunciation_pending": true,
+    "pending": [
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/a089e987ca"
+      },
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/91c673df7c"
+      }
+    ],
+    "omissions": [],
+    "links": [
+      {
+        "label": "כתיבת קונטרפונקט מן הסוג הראשון",
+        "target": "firstSpecies.html"
+      },
+      {
+        "label": "Trinket",
+        "target": "http://trinket.io"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

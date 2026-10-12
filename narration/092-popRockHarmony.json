@@ -1,0 +1,330 @@
+{
+  "chapter": 92,
+  "source": "popRockHarmony.md",
+  "title": "092 — הרמוניה במוזיקת פופ ורוק",
+  "source_sha256": "214087a895c5d3ac47810174292bd5b101356e0aa728525ce298bf8f0459ba1c",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הרמוניה בפופ וברוק אינה פועלת תמיד לפי אותן נורמות ואותם דגמים כמו מוזיקה מן התקופה הקלאסית. לכן סימון בס פונקציונלי אינו מתאים לכל מצב. בניתוח ההרמוניה בפופ וברוק נשתמש בעיקר בספרות רומיות, ולעיתים נוסיף בס פונקציונלי כדי להבין דגם הרמוני מסוים או לקשור אותו להרמוניה הקלאסית שלמדנו.</p>",
+      "source_text": "הרמוניה בפופ וברוק אינה פועלת תמיד לפי אותן נורמות ואותם דגמים כמו מוזיקה מן התקופה הקלאסית. לכן סימון בס פונקציונלי אינו מתאים לכל מצב. בניתוח ההרמוניה בפופ וברוק נשתמש בעיקר בספרות רומיות, ולעיתים נוסיף בס פונקציונלי כדי להבין דגם הרמוני מסוים או לקשור אותו להרמוניה הקלאסית שלמדנו.",
+      "spoken": "הרמוניה בפופ וברוק אינה פועלת תמיד לפי אותן נורמות ואותם דגמים כמו מוזיקה מן התקופה הקלאסית. לכן סימון בס פונקציונלי אינו מתאים לכל מצב. בניתוח ההרמוניה בפופ וברוק נשתמש בעיקר בספרות רומיות, ולעיתים נוסיף בס פונקציונלי כדי להבין דגם הרמוני מסוים או לקשור אותו להרמוניה הקלאסית שלמדנו."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הבדל מרכזי בין הרמוניית רוק להרמוניה קלאסית הוא שבפופ וברוק האקורדים הם כמעט תמיד משולשים או אקורדי ספטימה במצב יסודי. הדבר משפיע על ״כללי״ התחביר ההרמוני: אקורדי 6/3 במהלכים קלאסיים מוחלפים באקורדי 5/3 במהלכי פופ ורוק. למשל, המהלך הקלאסי <strong>IV–IV<sup>6</sup></strong> נעשה <strong>IV–VI</strong>. אותו קו בס ממלא אותו תפקיד, אך השימוש באקורד 5/3 במקום 6/3 משנה את המהלך הפונקציונלי לכזה שהיה ״מפר את כללי״ התחביר הקלאסי. הדבר עשוי להקשות מעט על ניתוח הרמוני בפופ וברוק, ובייחוד לנוכח טענת המקור שאין תאוריה שפורסמה להרמוניית רוק השקולה לתאוריה הפונקציונלית של Quinn להרמוניה קלאסית. עם זאת, זיהוי האקורדים והכתבה הרמונית נעשים פשוטים יותר. ברוב המקרים דרגת הסולם בבס היא כל מה שנדרש.</p>",
+      "source_text": "הבדל מרכזי בין הרמוניית רוק להרמוניה קלאסית הוא שבפופ וברוק האקורדים הם כמעט תמיד משולשים או אקורדי ספטימה במצב יסודי. הדבר משפיע על ״כללי״ התחביר ההרמוני: אקורדי 6/3 במהלכים קלאסיים מוחלפים באקורדי 5/3 במהלכי פופ ורוק. למשל, המהלך הקלאסי IV–IV6 נעשה IV–VI. אותו קו בס ממלא אותו תפקיד, אך השימוש באקורד 5/3 במקום 6/3 משנה את המהלך הפונקציונלי לכזה שהיה ״מפר את כללי״ התחביר הקלאסי. הדבר עשוי להקשות מעט על ניתוח הרמוני בפופ וברוק, ובייחוד לנוכח טענת המקור שאין תאוריה שפורסמה להרמוניית רוק השקולה לתאוריה הפונקציונלית של Quinn להרמוניה קלאסית. עם זאת, זיהוי האקורדים והכתבה הרמונית נעשים פשוטים יותר. ברוב המקרים דרגת הסולם בבס היא כל מה שנדרש.",
+      "spoken": "הבדל מרכזי בין הרמוניית רוק להרמוניה קלאסית הוא שבפופ וברוק האקורדים הם כמעט תמיד משולשים או אקורדי ספטימה במצב יסודי. הדבר משפיע על ״כללי״ התחביר ההרמוני: אקורדי 6/3 במהלכים קלאסיים מוחלפים באקורדי 5/3 במהלכי פופ ורוק. למשל, המהלך הקלאסי IV–IV6 נעשה IV–VI. אותו קו בס ממלא אותו תפקיד, אך השימוש באקורד 5/3 במקום 6/3 משנה את המהלך הפונקציונלי לכזה שהיה ״מפר את כללי״ התחביר הקלאסי. הדבר עשוי להקשות מעט על ניתוח הרמוני בפופ וברוק, ובייחוד לנוכח טענת המקור שאין תאוריה שפורסמה להרמוניית רוק השקולה לתאוריה הפונקציונלית של Quinn להרמוניה קלאסית. עם זאת, זיהוי האקורדים והכתבה הרמונית נעשים פשוטים יותר. ברוב המקרים דרגת הסולם בבס היא כל מה שנדרש."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הטבלה הבאה מציגה דרגות סולם בבס ואת שורשי האקורדים והספרות הרומיות המקושרים אליהן בדרך כלל. החזיקו אותה זמינה בעת תעתוק והכתבה של מהלכים הרמוניים ברוק. כפי שאפשר לראות, רוב צלילי הבס מקושרים בדרך כלל לאקורד אחד.</p>",
+      "source_text": "הטבלה הבאה מציגה דרגות סולם בבס ואת שורשי האקורדים והספרות הרומיות המקושרים אליהן בדרך כלל. החזיקו אותה זמינה בעת תעתוק והכתבה של מהלכים הרמוניים ברוק. כפי שאפשר לראות, רוב צלילי הבס מקושרים בדרך כלל לאקורד אחד.",
+      "spoken": "הטבלה הבאה מציגה דרגות סולם בבס ואת שורשי האקורדים והספרות הרומיות המקושרים אליהן בדרך כלל. החזיקו אותה זמינה בעת תעתוק והכתבה של מהלכים הרמוניים ברוק. כפי שאפשר לראות, רוב צלילי הבס מקושרים בדרך כלל לאקורד אחד."
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: center;\">בס</th>\n<th style=\"text-align: center;\">5/3 או 7</th>\n<th style=\"text-align: center;\">6/3 או 6/5</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\">II</td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>mi</em>/<em>me</em></td>\n<td style=\"text-align: center;\">[III]</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\">IV</td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>la</em>/<em>le</em></td>\n<td style=\"text-align: center;\">VI</td>\n<td style=\"text-align: center;\">[IV]</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>te</em></td>\n<td style=\"text-align: center;\">VII</td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\">V</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "בס",
+          "5/3 או 7",
+          "6/3 או 6/5"
+        ],
+        [
+          "do",
+          "I",
+          ""
+        ],
+        [
+          "re",
+          "II",
+          ""
+        ],
+        [
+          "mi/me",
+          "[III]",
+          "I"
+        ],
+        [
+          "fa",
+          "IV",
+          ""
+        ],
+        [
+          "sol",
+          "V",
+          ""
+        ],
+        [
+          "la/le",
+          "VI",
+          "[IV]"
+        ],
+        [
+          "te",
+          "VII",
+          ""
+        ],
+        [
+          "ti",
+          "",
+          "V"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת הרמוניות שכיחות לפי צליל הבס בפופ וברוק, עם עמודה למצב יסודי 5/3 או 7 ועמודה להיפוך ראשון 6/3 או 6/5. בבס do, במצב יסודי I, ובהיפוך ראשון אין ערך מודפס. בבס re, במצב יסודי II, ובהיפוך ראשון אין ערך מודפס. בבס mi/me, במצב יסודי [III], ובהיפוך ראשון I. בבס fa, במצב יסודי IV, ובהיפוך ראשון אין ערך מודפס. בבס sol, במצב יסודי V, ובהיפוך ראשון אין ערך מודפס. בבס la/le, במצב יסודי VI, ובהיפוך ראשון [IV]. בבס te, במצב יסודי VII, ובהיפוך ראשון אין ערך מודפס. בבס ti, במצב יסודי אין ערך מודפס, ובהיפוך ראשון V. סוגריים מרובעים מציינים אפשרויות המופיעות מסויגות בטבלה, ואין להשוות אוטומטית בין צליל הבס לשורש האקורד.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>דרגות הבס וההרמוניות המקושרות אליהן בדרך כלל בפופ וברוק. אקורדים פחות נפוצים מופיעים בסוגריים מרובעים. ההברות הן בדו יחסי.</em></p>",
+      "source_text": "דרגות הבס וההרמוניות המקושרות אליהן בדרך כלל בפופ וברוק. אקורדים פחות נפוצים מופיעים בסוגריים מרובעים. ההברות הן בדו יחסי.",
+      "spoken": "דרגות הבס וההרמוניות המקושרות אליהן בדרך כלל בפופ וברוק. אקורדים פחות נפוצים מופיעים בסוגריים מרובעים. ההברות הן בדו יחסי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>פונקציות הרמוניות במינור {#harmonic-functions-in-minor}</h2>",
+      "source_text": "פונקציות הרמוניות במינור {#harmonic-functions-in-minor}",
+      "spoken": "פונקציות הרמוניות במינור {#harmonic-functions-in-minor}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הפונקציות ההרמוניות בשירי פופ ורוק במינור, בייחוד בעשורים האחרונים המתוארים במקור, נוטות לסטות מן התחביר הקלאסי באופן שונה משירים במז׳ור. לפרטים ראו <a href=\"popRockHarmony-minor.html\">פונקציות הרמוניות במינור</a>.</p>",
+      "source_text": "הפונקציות ההרמוניות בשירי פופ ורוק במינור, בייחוד בעשורים האחרונים המתוארים במקור, נוטות לסטות מן התחביר הקלאסי באופן שונה משירים במז׳ור. לפרטים ראו פונקציות הרמוניות במינור.",
+      "spoken": "הפונקציות ההרמוניות בשירי פופ ורוק במינור, בייחוד בעשורים האחרונים המתוארים במקור, נוטות לסטות מן התחביר הקלאסי באופן שונה משירים במז׳ור. לפרטים ראו פונקציות הרמוניות במינור."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>סכמות {#schemata}</h2>",
+      "source_text": "סכמות {#schemata}",
+      "spoken": "סכמות {#schemata}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>יש מהלכי אקורדים טיפוסיים החוזרים בשירי פופ ורוק רבים. בדרך כלל סכמות (schemata) אלה מופיעות במחזורים: אותו מהלך חוזר כמה פעמים ברצף. הדבר נפוץ במיוחד בפזמונים של שירים בצורת בית–פזמון, אך מופיע גם בבתים, בסטרופות ובגשרים. זה מסייע לזיהוי הרמוניות משמיעה: לצד ההאזנה לדרגות הסולם בבס והבחינה אם ההרמוניות הן אקורדי קווינטה, 5/3 או 7, או אקורדי סקסטה, בדרך כלל 6/3 או 6/5, אפשר להקשיב לדגמים מוכרים משירים אחרים. להלן כמה סכמות נפוצות.</p>",
+      "source_text": "יש מהלכי אקורדים טיפוסיים החוזרים בשירי פופ ורוק רבים. בדרך כלל סכמות (schemata) אלה מופיעות במחזורים: אותו מהלך חוזר כמה פעמים ברצף. הדבר נפוץ במיוחד בפזמונים של שירים בצורת בית–פזמון, אך מופיע גם בבתים, בסטרופות ובגשרים. זה מסייע לזיהוי הרמוניות משמיעה: לצד ההאזנה לדרגות הסולם בבס והבחינה אם ההרמוניות הן אקורדי קווינטה, 5/3 או 7, או אקורדי סקסטה, בדרך כלל 6/3 או 6/5, אפשר להקשיב לדגמים מוכרים משירים אחרים. להלן כמה סכמות נפוצות.",
+      "spoken": "יש מהלכי אקורדים טיפוסיים החוזרים בשירי פופ ורוק רבים. בדרך כלל סכמות (schemata) אלה מופיעות במחזורים: אותו מהלך חוזר כמה פעמים ברצף. הדבר נפוץ במיוחד בפזמונים של שירים בצורת בית–פזמון, אך מופיע גם בבתים, בסטרופות ובגשרים. זה מסייע לזיהוי הרמוניות משמיעה: לצד ההאזנה לדרגות הסולם בבס והבחינה אם ההרמוניות הן אקורדי קווינטה, 5/3 או 7, או אקורדי סקסטה, בדרך כלל 6/3 או 6/5, אפשר להקשיב לדגמים מוכרים משירים אחרים. להלן כמה סכמות נפוצות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-dooWop.html\">מהלך הדו־וופ של שנות החמישים</a></p>",
+      "source_text": "מהלך הדו־וופ של שנות החמישים",
+      "spoken": "מהלך הדו־וופ של שנות החמישים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – VI – IV – V :||</strong><br/>\nאו<br/>\n<strong>||: I – VI – II – V :||</strong></p>",
+      "source_text": "||: I – VI – IV – V :|| או ||: I – VI – II – V :||",
+      "spoken": "||: I – VI – IV – V :|| או ||: I – VI – II – V :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-sscp.html\">מהלך הזמרים־היוצרים</a></p>",
+      "source_text": "מהלך הזמרים־היוצרים",
+      "spoken": "מהלך הזמרים־היוצרים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: VI – IV – I – V :||</strong> (במז׳ור)<br/>\n<strong>||: I – VI – III – VII :||</strong> (במינור)<br/>\n<strong>||: I – V – VI – IV :||</strong> (גרסת ״With or Without You״)<br/>\n<strong>||: IV – I – V – VI :||</strong> (גרסה ״מדומה״)</p>",
+      "source_text": "||: VI – IV – I – V :|| (במז׳ור) ||: I – VI – III – VII :|| (במינור) ||: I – V – VI – IV :|| (גרסת ״With or Without You״) ||: IV – I – V – VI :|| (גרסה ״מדומה״)",
+      "spoken": "||: VI – IV – I – V :|| (במז׳ור) ||: I – VI – III – VII :|| (במינור) ||: I – V – VI – IV :|| (גרסת ״With or Without You״) ||: IV – I – V – VI :|| (גרסה ״מדומה״)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-puff.html\">מהלך ״Puff״</a></p>",
+      "source_text": "מהלך ״Puff״",
+      "spoken": "מהלך ״Puff״"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>I – III – IV . . .</strong> (בפתיחת פסוקית)</p>",
+      "source_text": "I – III – IV . . . (בפתיחת פסוקית)",
+      "spoken": "I – III – IV . . . (בפתיחת פסוקית)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-blues.html\">מהלך הבלוז</a></p>",
+      "source_text": "מהלך הבלוז",
+      "spoken": "מהלך הבלוז"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I - - - | IV - I - | V IV I - :||</strong> (בלוז בן 12 תיבות)<br/>\n<strong>||: I - - - | I - - - | IV - I - | V IV I -:||</strong> (בלוז בן 16 תיבות)</p>",
+      "source_text": "||: I - - - | IV - I - | V IV I - :|| (בלוז בן 12 תיבות) ||: I - - - | I - - - | IV - I - | V IV I -:|| (בלוז בן 16 תיבות)",
+      "spoken": "||: I - - - | IV - I - | V IV I - :|| (בלוז בן 12 תיבות) ||: I - - - | I - - - | IV - I - | V IV I -:|| (בלוז בן 16 תיבות)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-pachelbel.html\">מהלך פכלבל</a></p>",
+      "source_text": "מהלך פכלבל",
+      "spoken": "מהלך פכלבל"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – V – VI – III – IV – I – IV – V :||</strong><br/>\n<strong>||: I – V<sup>6</sup> – VI – III<sup>6</sup> – IV – I<sup>6</sup> – IV – V :||</strong> (גרסה עם בס בצעדים)<br/>\n<strong>I – V – VI – III . . .</strong> (בפתיחת פסוקית; גרסה ״מקוצרת״)</p>",
+      "source_text": "||: I – V – VI – III – IV – I – IV – V :|| ||: I – V6 – VI – III6 – IV – I6 – IV – V :|| (גרסה עם בס בצעדים) I – V – VI – III . . . (בפתיחת פסוקית; גרסה ״מקוצרת״)",
+      "spoken": "||: I – V – VI – III – IV – I – IV – V :|| ||: I – V6 – VI – III6 – IV – I6 – IV – V :|| (גרסה עם בס בצעדים) I – V – VI – III . . . (בפתיחת פסוקית; גרסה ״מקוצרת״)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-lament.html\">מהלך הקינה</a></p>",
+      "source_text": "מהלך הקינה",
+      "spoken": "מהלך הקינה"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – VII – VI – V :||</strong></p>",
+      "source_text": "||: I – VII – VI – V :||",
+      "spoken": "||: I – VII – VI – V :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-fifths.html\">מהלך מעגל הקווינטות במינור</a></p>",
+      "source_text": "מהלך מעגל הקווינטות במינור",
+      "spoken": "מהלך מעגל הקווינטות במינור"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – IV – VII – III :||</strong></p>",
+      "source_text": "||: I – IV – VII – III :||",
+      "spoken": "||: I – IV – VII – III :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-plagal.html\">מהלכים פלגליים</a></p>",
+      "source_text": "מהלכים פלגליים",
+      "spoken": "מהלכים פלגליים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I - IV :||</strong><br/>\n<strong>||: I - bVII - IV - I :||</strong><br/>\n<strong>||: bVI - bIII - bVII - IV - I :||</strong></p>",
+      "source_text": "||: I - IV :|| ||: I - bVII - IV - I :|| ||: bVI - bIII - bVII - IV - I :||",
+      "spoken": "||: I - IV :|| ||: I - bVII - IV - I :|| ||: bVI - bIII - bVII - IV - I :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>״המערכות הטונליות״ של הרוק {#rocks-tonal-systems}</h2>",
+      "source_text": "״המערכות הטונליות״ של הרוק {#rocks-tonal-systems}",
+      "spoken": "״המערכות הטונליות״ של הרוק {#rocks-tonal-systems}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>Walter Everett הציע שש <em>מערכות טונליות</em> שרוב שירי הפופ והרוק משתייכים אליהן. הפרקים הבאים מסכמים ארבע מהן ומביאים דוגמאות — כולן מלבד 1 ו־6, הטונלית ביותר והטונלית פחות מכולן. להרחבה ראו <a href=\"http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html\">מאמרו של Everett מ־2004 ב־<em>Music Theory Online</em></a>.</p>",
+      "source_text": "Walter Everett הציע שש מערכות טונליות שרוב שירי הפופ והרוק משתייכים אליהן. הפרקים הבאים מסכמים ארבע מהן ומביאים דוגמאות — כולן מלבד 1 ו־6, הטונלית ביותר והטונלית פחות מכולן. להרחבה ראו מאמרו של Everett מ־2004 ב־Music Theory Online.",
+      "spoken": "Walter Everett הציע שש מערכות טונליות שרוב שירי הפופ והרוק משתייכים אליהן. הפרקים הבאים מסכמים ארבע מהן ומביאים דוגמאות — כולן מלבד 1 ו־6, הטונלית ביותר והטונלית פחות מכולן. להרחבה ראו מאמרו של Everett מ־2004 ב־Music Theory Online."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מערכת 1: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת — סולמות מז׳ור ומינור, עם שאילה מהסולם המקביל.</p>",
+      "source_text": "מערכת 1: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת — סולמות מז׳ור ומינור, עם שאילה מהסולם המקביל.",
+      "spoken": "מערכת 1: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת — סולמות מז׳ור ומינור, עם שאילה מהסולם המקביל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-EverettSystem2.html\">מערכת 2: טונליות של פופ ורוק השואבת ממודוסים דיאטוניים</a>, כגון דורי, מיקסולידי ואאולי.</p>",
+      "source_text": "מערכת 2: טונליות של פופ ורוק השואבת ממודוסים דיאטוניים, כגון דורי, מיקסולידי ואאולי.",
+      "spoken": "מערכת 2: טונליות של פופ ורוק השואבת ממודוסים דיאטוניים, כגון דורי, מיקסולידי ואאולי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-EverettSystem3.html\">מערכת 3: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים.</a></p>",
+      "source_text": "מערכת 3: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים.",
+      "spoken": "מערכת 3: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-EverettSystem4.html\">מערכת 4: טונליות של פופ ורוק המבוססת על בלוז.</a></p>",
+      "source_text": "מערכת 4: טונליות של פופ ורוק המבוססת על בלוז.",
+      "spoken": "מערכת 4: טונליות של פופ ורוק המבוססת על בלוז."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockHarmony-EverettSystem5.html\">מערכת 5: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית.</a></p>",
+      "source_text": "מערכת 5: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית.",
+      "spoken": "מערכת 5: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מערכת 6: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית עם שינויים כרומטיים.</p>",
+      "source_text": "מערכת 6: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית עם שינויים כרומטיים.",
+      "spoken": "מערכת 6: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית עם שינויים כרומטיים."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 1,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "פונקציות הרמוניות במינור",
+        "target": "popRockHarmony-minor.html"
+      },
+      {
+        "label": "מהלך הדו־וופ של שנות החמישים",
+        "target": "popRockHarmony-dooWop.html"
+      },
+      {
+        "label": "מהלך הזמרים־היוצרים",
+        "target": "popRockHarmony-sscp.html"
+      },
+      {
+        "label": "מהלך ״Puff״",
+        "target": "popRockHarmony-puff.html"
+      },
+      {
+        "label": "מהלך הבלוז",
+        "target": "popRockHarmony-blues.html"
+      },
+      {
+        "label": "מהלך פכלבל",
+        "target": "popRockHarmony-pachelbel.html"
+      },
+      {
+        "label": "מהלך הקינה",
+        "target": "popRockHarmony-lament.html"
+      },
+      {
+        "label": "מהלך מעגל הקווינטות במינור",
+        "target": "popRockHarmony-fifths.html"
+      },
+      {
+        "label": "מהלכים פלגליים",
+        "target": "popRockHarmony-plagal.html"
+      },
+      {
+        "label": "מאמרו של Everett מ־2004 ב־Music Theory Online",
+        "target": "http://www.mtosmt.org/issues/mto.04.10.4/mto.04.10.4.w_everett.html"
+      },
+      {
+        "label": "מערכת 2: טונליות של פופ ורוק השואבת ממודוסים דיאטוניים",
+        "target": "popRockHarmony-EverettSystem2.html"
+      },
+      {
+        "label": "מערכת 3: טונליות של פופ ורוק הדומה מאוד לטונליות הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים.",
+        "target": "popRockHarmony-EverettSystem3.html"
+      },
+      {
+        "label": "מערכת 4: טונליות של פופ ורוק המבוססת על בלוז.",
+        "target": "popRockHarmony-EverettSystem4.html"
+      },
+      {
+        "label": "מערכת 5: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית.",
+        "target": "popRockHarmony-EverettSystem5.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

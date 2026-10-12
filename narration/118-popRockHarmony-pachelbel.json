@@ -1,0 +1,106 @@
+{
+  "chapter": 118,
+  "source": "popRockHarmony-pachelbel.md",
+  "title": "118 — מהלך פכלבל",
+  "source_sha256": "8f3de9f183387003691172be43b8634bbc59b3a035926982cfbe1ef1f96e3187",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – V – VI – III – IV – I – IV – V :||</strong></p>",
+      "source_text": "||: I – V – VI – III – IV – I – IV – V :||",
+      "spoken": "||: I – V – VI – III – IV – I – IV – V :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מהלך פכלבל נלקח מן ״הקנון״ ב־D מז׳ור של ״פכלבל״. המקור מוסיף מירכאות ומסביר שהיצירה אינה קנון וככל הנראה גם לא הולחנה בידי פכלבל. תפוצת המהלך במוזיקה פופולרית זכתה לפרסום באמצעות <a href=\"https://www.youtube.com/watch?v=JdxkVQy7QLM\">״Pachelbel Rant״ של הקומיקאי Rob Paravonian</a>.</p>",
+      "source_text": "מהלך פכלבל נלקח מן ״הקנון״ ב־D מז׳ור של ״פכלבל״. המקור מוסיף מירכאות ומסביר שהיצירה אינה קנון וככל הנראה גם לא הולחנה בידי פכלבל. תפוצת המהלך במוזיקה פופולרית זכתה לפרסום באמצעות ״Pachelbel Rant״ של הקומיקאי Rob Paravonian.",
+      "spoken": "מהלך פכלבל נלקח מן ״הקנון״ ב־D מז׳ור של ״פכלבל״. המקור מוסיף מירכאות ומסביר שהיצירה אינה קנון וככל הנראה גם לא הולחנה בידי פכלבל. תפוצת המהלך במוזיקה פופולרית זכתה לפרסום באמצעות ״Pachelbel Rant״ של הקומיקאי Rob Paravonian."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת המהדורה העברית: הטענה השוללת את היות היצירה קנון ואת ייחוסה לפכלבל היא טענה של המקור, שנויה לבדיקה ולא מסקנה מאומתת של צוות התרגום. היא נשמרת כאן עם הסתייגות גלויה עד הכרעה בסוף הספר.</p>",
+      "source_text": "הערת המהדורה העברית: הטענה השוללת את היות היצירה קנון ואת ייחוסה לפכלבל היא טענה של המקור, שנויה לבדיקה ולא מסקנה מאומתת של צוות התרגום. היא נשמרת כאן עם הסתייגות גלויה עד הכרעה בסוף הספר.",
+      "spoken": "הערת המהדורה העברית: הטענה השוללת את היות היצירה קנון ואת ייחוסה לפכלבל היא טענה של המקור, שנויה לבדיקה ולא מסקנה מאומתת של צוות התרגום. היא נשמרת כאן עם הסתייגות גלויה עד הכרעה בסוף הספר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המהלך המלא מופיע לעיל, אך יש כמה שינויים נפוצים. ראשית, אפשר לשנות את המהלך הקדנציאלי: להחליף את IV–V האחרון בשתי תיבות של V או ב־6/4–5/3 קדנציאלי. כמו כן, במקום משולשים במצב יסודי, יש מלחינים ויוצרים ההופכים כל אקורד שני:</p>",
+      "source_text": "המהלך המלא מופיע לעיל, אך יש כמה שינויים נפוצים. ראשית, אפשר לשנות את המהלך הקדנציאלי: להחליף את IV–V האחרון בשתי תיבות של V או ב־6/4–5/3 קדנציאלי. כמו כן, במקום משולשים במצב יסודי, יש מלחינים ויוצרים ההופכים כל אקורד שני:",
+      "spoken": "המהלך המלא מופיע לעיל, אך יש כמה שינויים נפוצים. ראשית, אפשר לשנות את המהלך הקדנציאלי: להחליף את IV–V האחרון בשתי תיבות של V או ב־6/4–5/3 קדנציאלי. כמו כן, במקום משולשים במצב יסודי, יש מלחינים ויוצרים ההופכים כל אקורד שני:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – V<sup>6</sup> – VI – III<sup>6</sup> – IV – I<sup>6</sup> – IV – V :||</strong></p>",
+      "source_text": "||: I – V6 – VI – III6 – IV – I6 – IV – V :||",
+      "spoken": "||: I – V6 – VI – III6 – IV – I6 – IV – V :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לבסוף, יש המשתמשים רק בארבעת או בחמשת האקורדים הראשונים, וממשיכים במחצית שנייה חדשה לגמרי. כל עוד ארבעת הראשונים מופיעים, במצב יסודי או בהיפוכים הרגילים, אפשר לראות בכך מופע של מהלך פכלבל.</p>",
+      "source_text": "לבסוף, יש המשתמשים רק בארבעת או בחמשת האקורדים הראשונים, וממשיכים במחצית שנייה חדשה לגמרי. כל עוד ארבעת הראשונים מופיעים, במצב יסודי או בהיפוכים הרגילים, אפשר לראות בכך מופע של מהלך פכלבל.",
+      "spoken": "לבסוף, יש המשתמשים רק בארבעת או בחמשת האקורדים הראשונים, וממשיכים במחצית שנייה חדשה לגמרי. כל עוד ארבעת הראשונים מופיעים, במצב יסודי או בהיפוכים הרגילים, אפשר לראות בכך מופע של מהלך פכלבל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>I – V – VI – III . . .</strong> (בפתיחת פסוקית; גרסה ״מקוצרת״)</p>",
+      "source_text": "I – V – VI – III . . . (בפתיחת פסוקית; גרסה ״מקוצרת״)",
+      "spoken": "I – V – VI – III . . . (בפתיחת פסוקית; גרסה ״מקוצרת״)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן כמה מן הדוגמאות הרבות שמזכיר Paravonian, ובהן מהלך פכלבל:</p>",
+      "source_text": "להלן כמה מן הדוגמאות הרבות שמזכיר Paravonian, ובהן מהלך פכלבל:",
+      "spoken": "להלן כמה מן הדוגמאות הרבות שמזכיר Paravonian, ובהן מהלך פכלבל:"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:45V4Mk7vZV2b9JfSWuUX9m\" title=\"דוגמה מוזיקלית להאזנה — מהלך פכלבל\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:45V4Mk7vZV2b9JfSWuUX9m",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך פכלבל. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97\" title=\"דוגמה מוזיקלית להאזנה — מהלך פכלבל\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך פכלבל. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM\" title=\"דוגמה מוזיקלית להאזנה — מהלך פכלבל\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך פכלבל. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:45V4Mk7vZV2b9JfSWuUX9m",
+      "https://embed.spotify.com/?uri=spotify:track:0NJC0FDCODpPUntRTTQq97",
+      "https://embed.spotify.com/?uri=spotify:track:27IRo2rYeizhRMDaNVplNM"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "״Pachelbel Rant״ של הקומיקאי Rob Paravonian",
+        "target": "https://www.youtube.com/watch?v=JdxkVQy7QLM"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

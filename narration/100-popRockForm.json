@@ -1,0 +1,392 @@
+{
+  "chapter": 100,
+  "source": "popRockForm.md",
+  "title": "100 — צורה בפופ וברוק — סקירה",
+  "source_sha256": "c47f4f6ec173721285495949f78bad9ecf379072158cfa354b352e16df44e394",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שירי פופ ורוק מסוף המאה העשרים נוטים לפעול לפי אחד משלושה דגמי מבנה בקנה מידה גדול.</p>",
+      "source_text": "שירי פופ ורוק מסוף המאה העשרים נוטים לפעול לפי אחד משלושה דגמי מבנה בקנה מידה גדול.",
+      "spoken": "שירי פופ ורוק מסוף המאה העשרים נוטים לפעול לפי אחד משלושה דגמי מבנה בקנה מידה גדול."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורה סטרופית {#strophic-form}</h2>",
+      "source_text": "צורה סטרופית {#strophic-form}",
+      "spoken": "צורה סטרופית {#strophic-form}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>האזינו ל־״Blue Suede Shoes״ של Carl Perkins. בשיר כמה <em>מודולים</em> (modules), שכולם מבוססים על אותה מוזיקה בסיסית. אף שהתזמור והמילים משתנים, הקטע המתחיל ב־0:19 כולל אותה מלודיה, הרמוניה ומבנה פסוקיות — או לפחות דומים מאוד — כמו הקטעים המתחילים ב־0:58, 1:37 ו־1:54. בהאזנה מדוקדקת יותר אפשר לשמוע בפתיחת השיר גרסה דומה אך מקוצרת של אותם דגמים. אפילו הקטעים הכליים ב־0:41 וב־1:21 מבוססים על אותו דגם, עם מלודיה אחרת בצורת סולו גיטרה. השיר כולו חוזר על הדגם הבסיסי המוצג ב־0:19–0:41, או על וריאציות קלות שלו. שירים החוזרים לכל אורכם על אותה יחידה בסיסית מרובת פסוקיות נקראים <em>סטרופיים</em>. הצורה נקראת <em>צורה סטרופית</em> (strophic form), ולעיתים AAA, מפני שהחומר הבסיסי A חוזר. היחידה החוזרת נקראת <em>סטרופה</em> (strophe). צורה זו נפוצה יותר ברוקנרול המוקדם, בשנות החמישים והשישים, מאשר משנות השבעים ואילך.</p>",
+      "source_text": "האזינו ל־״Blue Suede Shoes״ של Carl Perkins. בשיר כמה מודולים (modules), שכולם מבוססים על אותה מוזיקה בסיסית. אף שהתזמור והמילים משתנים, הקטע המתחיל ב־0:19 כולל אותה מלודיה, הרמוניה ומבנה פסוקיות — או לפחות דומים מאוד — כמו הקטעים המתחילים ב־0:58, 1:37 ו־1:54. בהאזנה מדוקדקת יותר אפשר לשמוע בפתיחת השיר גרסה דומה אך מקוצרת של אותם דגמים. אפילו הקטעים הכליים ב־0:41 וב־1:21 מבוססים על אותו דגם, עם מלודיה אחרת בצורת סולו גיטרה. השיר כולו חוזר על הדגם הבסיסי המוצג ב־0:19–0:41, או על וריאציות קלות שלו. שירים החוזרים לכל אורכם על אותה יחידה בסיסית מרובת פסוקיות נקראים סטרופיים. הצורה נקראת צורה סטרופית (strophic form), ולעיתים AAA, מפני שהחומר הבסיסי A חוזר. היחידה החוזרת נקראת סטרופה (strophe). צורה זו נפוצה יותר ברוקנרול המוקדם, בשנות החמישים והשישים, מאשר משנות השבעים ואילך.",
+      "spoken": "האזינו ל־״Blue Suede Shoes״ של Carl Perkins. בשיר כמה מודולים (modules), שכולם מבוססים על אותה מוזיקה בסיסית. אף שהתזמור והמילים משתנים, הקטע המתחיל ב־0:19 כולל אותה מלודיה, הרמוניה ומבנה פסוקיות — או לפחות דומים מאוד — כמו הקטעים המתחילים ב־0:58, 1:37 ו־1:54. בהאזנה מדוקדקת יותר אפשר לשמוע בפתיחת השיר גרסה דומה אך מקוצרת של אותם דגמים. אפילו הקטעים הכליים ב־0:41 וב־1:21 מבוססים על אותו דגם, עם מלודיה אחרת בצורת סולו גיטרה. השיר כולו חוזר על הדגם הבסיסי המוצג ב־0:19–0:41, או על וריאציות קלות שלו. שירים החוזרים לכל אורכם על אותה יחידה בסיסית מרובת פסוקיות נקראים סטרופיים. הצורה נקראת צורה סטרופית (strophic form), ולעיתים AAA, מפני שהחומר הבסיסי A חוזר. היחידה החוזרת נקראת סטרופה (strophe). צורה זו נפוצה יותר ברוקנרול המוקדם, בשנות החמישים והשישים, מאשר משנות השבעים ואילך."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h\">https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:7bglJCaprPQTfDfovdJS2h\">spotify:track:7bglJCaprPQTfDfovdJS2h</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h מזהה Spotify URI: spotify:track:7bglJCaprPQTfDfovdJS2h",
+      "spoken": "קישור HTML: https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h מזהה Spotify URI: spotify:track:7bglJCaprPQTfDfovdJS2h"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן מתווה כללי של צורת ״Blue Suede Shoes״ למעקב בזמן ההאזנה:</p>",
+      "source_text": "להלן מתווה כללי של צורת ״Blue Suede Shoes״ למעקב בזמן ההאזנה:",
+      "spoken": "להלן מתווה כללי של צורת ״Blue Suede Shoes״ למעקב בזמן ההאזנה:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:00 — סטרופה 1</li>",
+      "source_text": "0:00 — סטרופה 1",
+      "spoken": "0:00 — סטרופה 1"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:19 — סטרופה 2</li>",
+      "source_text": "0:19 — סטרופה 2",
+      "spoken": "0:19 — סטרופה 2"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:41 — סטרופה כלית</li>",
+      "source_text": "0:41 — סטרופה כלית",
+      "spoken": "0:41 — סטרופה כלית"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:58 — סטרופה 3</li>",
+      "source_text": "0:58 — סטרופה 3",
+      "spoken": "0:58 — סטרופה 3"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:21 — סטרופה כלית</li>",
+      "source_text": "1:21 — סטרופה כלית",
+      "spoken": "1:21 — סטרופה כלית"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:37 — סטרופה 1, חזרה בשינוי קל</li>",
+      "source_text": "1:37 — סטרופה 1, חזרה בשינוי קל",
+      "spoken": "1:37 — סטרופה 1, חזרה בשינוי קל"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:54 — סטרופה 4</li>",
+      "source_text": "1:54 — סטרופה 4",
+      "spoken": "1:54 — סטרופה 4"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Blue Suede Shoes״ מורכב כולו מסטרופות, אך שירים סטרופיים יכולים לכלול גם <a href=\"popRockForm-containers.html\"><em>מודולי עזר</em></a>, כגון מבואות, קטעי סיום וקודות. עם זאת, אם לשיר יותר מרעיון מוזיקלי מרכזי אחד מעבר לסטרופות ולמודולי העזר, הוא אינו סטרופי, וסביר שישתייך לאחת משתי הצורות הבאות.</p>",
+      "source_text": "״Blue Suede Shoes״ מורכב כולו מסטרופות, אך שירים סטרופיים יכולים לכלול גם מודולי עזר, כגון מבואות, קטעי סיום וקודות. עם זאת, אם לשיר יותר מרעיון מוזיקלי מרכזי אחד מעבר לסטרופות ולמודולי העזר, הוא אינו סטרופי, וסביר שישתייך לאחת משתי הצורות הבאות.",
+      "spoken": "״Blue Suede Shoes״ מורכב כולו מסטרופות, אך שירים סטרופיים יכולים לכלול גם מודולי עזר, כגון מבואות, קטעי סיום וקודות. עם זאת, אם לשיר יותר מרעיון מוזיקלי מרכזי אחד מעבר לסטרופות ולמודולי העזר, הוא אינו סטרופי, וסביר שישתייך לאחת משתי הצורות הבאות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורת שיר בת 32 תיבות — AABA {#32-bar-song-form-aaba}</h2>",
+      "source_text": "צורת שיר בת 32 תיבות — AABA {#32-bar-song-form-aaba}",
+      "spoken": "צורת שיר בת 32 תיבות — AABA {#32-bar-song-form-aaba}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מבנה נוסף הנפוץ יותר ברוקנרול המוקדם הוא AABA, המכונה גם ״צורת שיר בת 32 תיבות״, על שם מאפיינים של שירים מוקדמים יותר מ״תור הזהב״ המשתמשים במבנה זה.</p>",
+      "source_text": "מבנה נוסף הנפוץ יותר ברוקנרול המוקדם הוא AABA, המכונה גם ״צורת שיר בת 32 תיבות״, על שם מאפיינים של שירים מוקדמים יותר מ״תור הזהב״ המשתמשים במבנה זה.",
+      "spoken": "מבנה נוסף הנפוץ יותר ברוקנרול המוקדם הוא AABA, המכונה גם ״צורת שיר בת 32 תיבות״, על שם מאפיינים של שירים מוקדמים יותר מ״תור הזהב״ המשתמשים במבנה זה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>האזינו ל־״I Want to Hold Your Hand״ של The Beatles. לאחר מבוא קצר השיר מתחיל בשתי סטרופות. אך במקום סטרופה כלית, כמו ב־״Blue Suede Shoes״, הלהקה עוברת ל<em>גשר</em> (bridge) ב־0:52. הקטע החדש יוצר מתח באמצעות ניגוד לנושא הסטרופה הראשית ועיכוב חזרתו עד 1:11. השיר מתחיל ומסתיים בסטרופה, והיא מכילה את מילות הכותרת. עבור מאזינים רבים זהו גם חלקו הזכיר ביותר. לכן הסטרופה עדיין המודול <em>הראשי</em>. נוסף לה מודול <em>משני</em> המוסיף עניין ומתח — הגשר — וכן מודול עזר, המבוא, המסייע לפתוח את השיר.</p>",
+      "source_text": "האזינו ל־״I Want to Hold Your Hand״ של The Beatles. לאחר מבוא קצר השיר מתחיל בשתי סטרופות. אך במקום סטרופה כלית, כמו ב־״Blue Suede Shoes״, הלהקה עוברת לגשר (bridge) ב־0:52. הקטע החדש יוצר מתח באמצעות ניגוד לנושא הסטרופה הראשית ועיכוב חזרתו עד 1:11. השיר מתחיל ומסתיים בסטרופה, והיא מכילה את מילות הכותרת. עבור מאזינים רבים זהו גם חלקו הזכיר ביותר. לכן הסטרופה עדיין המודול הראשי. נוסף לה מודול משני המוסיף עניין ומתח — הגשר — וכן מודול עזר, המבוא, המסייע לפתוח את השיר.",
+      "spoken": "האזינו ל־״I Want to Hold Your Hand״ של The Beatles. לאחר מבוא קצר השיר מתחיל בשתי סטרופות. אך במקום סטרופה כלית, כמו ב־״Blue Suede Shoes״, הלהקה עוברת לגשר (bridge) ב־0:52. הקטע החדש יוצר מתח באמצעות ניגוד לנושא הסטרופה הראשית ועיכוב חזרתו עד 1:11. השיר מתחיל ומסתיים בסטרופה, והיא מכילה את מילות הכותרת. עבור מאזינים רבים זהו גם חלקו הזכיר ביותר. לכן הסטרופה עדיין המודול הראשי. נוסף לה מודול משני המוסיף עניין ומתח — הגשר — וכן מודול עזר, המבוא, המסייע לפתוח את השיר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן מתווה כללי של צורת ״I Want to Hold Your Hand״:</p>",
+      "source_text": "להלן מתווה כללי של צורת ״I Want to Hold Your Hand״:",
+      "spoken": "להלן מתווה כללי של צורת ״I Want to Hold Your Hand״:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:00 — מבוא</li>",
+      "source_text": "0:00 — מבוא",
+      "spoken": "0:00 — מבוא"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:08 — סטרופה 1 (A1)</li>",
+      "source_text": "0:08 — סטרופה 1 (A1)",
+      "spoken": "0:08 — סטרופה 1 (A1)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:29 — סטרופה 2 (A2)</li>",
+      "source_text": "0:29 — סטרופה 2 (A2)",
+      "spoken": "0:29 — סטרופה 2 (A2)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:51 — גשר (B)</li>",
+      "source_text": "0:51 — גשר (B)",
+      "spoken": "0:51 — גשר (B)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:11 — סטרופה 3 (A3)</li>",
+      "source_text": "1:11 — סטרופה 3 (A3)",
+      "spoken": "1:11 — סטרופה 3 (A3)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:33 — גשר (B)</li>",
+      "source_text": "1:33 — גשר (B)",
+      "spoken": "1:33 — גשר (B)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:53 — סטרופה 3 (A3)</li>",
+      "source_text": "1:53 — סטרופה 3 (A3)",
+      "spoken": "1:53 — סטרופה 3 (A3)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>המקור מציין שאין לשיר זה הקלטה חוקית, בגישה פתוחה, שניתן להטמיע. עם זאת, קל למצוא אותו אם אין ברשותכם הקלטה. זהו תיאור זמינות מן המקור, שלא עודכן במהדורה העברית.</em></p>",
+      "source_text": "המקור מציין שאין לשיר זה הקלטה חוקית, בגישה פתוחה, שניתן להטמיע. עם זאת, קל למצוא אותו אם אין ברשותכם הקלטה. זהו תיאור זמינות מן המקור, שלא עודכן במהדורה העברית.",
+      "spoken": "המקור מציין שאין לשיר זה הקלטה חוקית, בגישה פתוחה, שניתן להטמיע. עם זאת, קל למצוא אותו אם אין ברשותכם הקלטה. זהו תיאור זמינות מן המקור, שלא עודכן במהדורה העברית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״I Want to Hold Your Hand״ אופייני לשירי AABA בכך שהוא אינו מסתפק בארבעה מודולים, AABA. כמעט תמיד יש בהם <a href=\"popRockForm-containers.html\"><em>מחזור</em></a> AABA שלם, ואחריו מחזור AABA שלם נוסף או מחזור חלקי, בדרך כלל BA. לאחר השלמת המחזור הראשון בדרך כלל אין מילים חדשות, אלא רק חזרה על המחזור המרכזי כולו או על סופו.</p>",
+      "source_text": "״I Want to Hold Your Hand״ אופייני לשירי AABA בכך שהוא אינו מסתפק בארבעה מודולים, AABA. כמעט תמיד יש בהם מחזור AABA שלם, ואחריו מחזור AABA שלם נוסף או מחזור חלקי, בדרך כלל BA. לאחר השלמת המחזור הראשון בדרך כלל אין מילים חדשות, אלא רק חזרה על המחזור המרכזי כולו או על סופו.",
+      "spoken": "״I Want to Hold Your Hand״ אופייני לשירי AABA בכך שהוא אינו מסתפק בארבעה מודולים, AABA. כמעט תמיד יש בהם מחזור AABA שלם, ואחריו מחזור AABA שלם נוסף או מחזור חלקי, בדרך כלל BA. לאחר השלמת המחזור הראשון בדרך כלל אין מילים חדשות, אלא רק חזרה על המחזור המרכזי כולו או על סופו."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מקובל לסמן מחזורים בסוגריים מסולסלים: {}. לכן הצורה הכוללת של ״I Want to Hold Your Hand״ היא:</p>",
+      "source_text": "מקובל לסמן מחזורים בסוגריים מסולסלים: {}. לכן הצורה הכוללת של ״I Want to Hold Your Hand״ היא:",
+      "spoken": "מקובל לסמן מחזורים בסוגריים מסולסלים: {}. לכן הצורה הכוללת של ״I Want to Hold Your Hand״ היא:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>{AABA}{BA}</p>",
+      "source_text": "{AABA}{BA}",
+      "spoken": "{AABA}{BA}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורת בית–פזמון — VC, VCB {#verse-chorus-form-vc-vcb}</h2>",
+      "source_text": "צורת בית–פזמון — VC, VCB {#verse-chorus-form-vc-vcb}",
+      "spoken": "צורת בית–פזמון — VC, VCB {#verse-chorus-form-vc-vcb}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>השלישית מבין הצורות המרכזיות, <em>צורת בית–פזמון</em> (verse-chorus form), היא צורת שיר גמישה שהתפשטה במהירות ברוקנרול בשנות השישים ושולטת בסוגה מאז, לפי תיאור המקור. כמו ב־AABA, יש בה כמה מודולי <em>ליבה</em>, שאינם מודולי עזר. אולם ב־AABA מילות הכותרת, המוזיקה הזכירה ביותר ועיקר הסיפור מופיעים בדרך כלל בסטרופה, שגם פותחת וגם מסיימת את השיר. בצורת בית–פזמון מאפיינים אלה מתחלקים בין הבית (verse) — מודול משני המכיל את עיקר הטקסט הסיפורי ופותח את השיר — לבין הפזמון (chorus), המודול הראשי המכיל את מילות הכותרת ואת המלודיה הזכירה ביותר ומסיים את השיר.</p>",
+      "source_text": "השלישית מבין הצורות המרכזיות, צורת בית–פזמון (verse-chorus form), היא צורת שיר גמישה שהתפשטה במהירות ברוקנרול בשנות השישים ושולטת בסוגה מאז, לפי תיאור המקור. כמו ב־AABA, יש בה כמה מודולי ליבה, שאינם מודולי עזר. אולם ב־AABA מילות הכותרת, המוזיקה הזכירה ביותר ועיקר הסיפור מופיעים בדרך כלל בסטרופה, שגם פותחת וגם מסיימת את השיר. בצורת בית–פזמון מאפיינים אלה מתחלקים בין הבית (verse) — מודול משני המכיל את עיקר הטקסט הסיפורי ופותח את השיר — לבין הפזמון (chorus), המודול הראשי המכיל את מילות הכותרת ואת המלודיה הזכירה ביותר ומסיים את השיר.",
+      "spoken": "השלישית מבין הצורות המרכזיות, צורת בית–פזמון (verse-chorus form), היא צורת שיר גמישה שהתפשטה במהירות ברוקנרול בשנות השישים ושולטת בסוגה מאז, לפי תיאור המקור. כמו ב־AABA, יש בה כמה מודולי ליבה, שאינם מודולי עזר. אולם ב־AABA מילות הכותרת, המוזיקה הזכירה ביותר ועיקר הסיפור מופיעים בדרך כלל בסטרופה, שגם פותחת וגם מסיימת את השיר. בצורת בית–פזמון מאפיינים אלה מתחלקים בין הבית (verse) — מודול משני המכיל את עיקר הטקסט הסיפורי ופותח את השיר — לבין הפזמון (chorus), המודול הראשי המכיל את מילות הכותרת ואת המלודיה הזכירה ביותר ומסיים את השיר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>האזינו ל־״Livin’ on a Prayer״ של Bon Jovi. אחרי מבוא מורחב המחזור הראשון מתחיל בבית ב־0:47. ב־1:18 <em>קדם־פזמון</em> (prechorus) מגביר את האנרגיה והמתח לקראת הפזמון ב־1:34. לאחר מבוא קצר באמצע השיר המחזור חוזר, החל מ־1:54, בתוספת <em>אחר־פזמון</em> (postchorus) ב־2:56. מחזור אחרון ב־3:00 הוא לא טיפוסי ומקוצר. אחריו חוזר הפזמון האחרון כמה פעמים, ובמהלכן דעיכה הדרגתית, fadeout, מסיימת את השיר.</p>",
+      "source_text": "האזינו ל־״Livin’ on a Prayer״ של Bon Jovi. אחרי מבוא מורחב המחזור הראשון מתחיל בבית ב־0:47. ב־1:18 קדם־פזמון (prechorus) מגביר את האנרגיה והמתח לקראת הפזמון ב־1:34. לאחר מבוא קצר באמצע השיר המחזור חוזר, החל מ־1:54, בתוספת אחר־פזמון (postchorus) ב־2:56. מחזור אחרון ב־3:00 הוא לא טיפוסי ומקוצר. אחריו חוזר הפזמון האחרון כמה פעמים, ובמהלכן דעיכה הדרגתית, fadeout, מסיימת את השיר.",
+      "spoken": "האזינו ל־״Livin’ on a Prayer״ של Bon Jovi. אחרי מבוא מורחב המחזור הראשון מתחיל בבית ב־0:47. ב־1:18 קדם־פזמון (prechorus) מגביר את האנרגיה והמתח לקראת הפזמון ב־1:34. לאחר מבוא קצר באמצע השיר המחזור חוזר, החל מ־1:54, בתוספת אחר־פזמון (postchorus) ב־2:56. מחזור אחרון ב־3:00 הוא לא טיפוסי ומקוצר. אחריו חוזר הפזמון האחרון כמה פעמים, ובמהלכן דעיכה הדרגתית, fadeout, מסיימת את השיר."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z\">https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:0J6mQxEZnlRt9ymzFntA6z\">spotify:track:0J6mQxEZnlRt9ymzFntA6z</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z מזהה Spotify URI: spotify:track:0J6mQxEZnlRt9ymzFntA6z",
+      "spoken": "קישור HTML: https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z מזהה Spotify URI: spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כמו ב־״Livin’ on a Prayer״, המחזור הצורני של שיר בית–פזמון יכלול לפחות שני מודולי ליבה — בית (V) ופזמון (C) — כשהפזמון הוא הראשי. מודולים אפשריים נוספים ממלאים פונקציות קדם־פזמון (P), גשר (B) ואחר־פזמון (Z).</p>",
+      "source_text": "כמו ב־״Livin’ on a Prayer״, המחזור הצורני של שיר בית–פזמון יכלול לפחות שני מודולי ליבה — בית (V) ופזמון (C) — כשהפזמון הוא הראשי. מודולים אפשריים נוספים ממלאים פונקציות קדם־פזמון (P), גשר (B) ואחר־פזמון (Z).",
+      "spoken": "כמו ב־״Livin’ on a Prayer״, המחזור הצורני של שיר בית–פזמון יכלול לפחות שני מודולי ליבה — בית (V) ופזמון (C) — כשהפזמון הוא הראשי. מודולים אפשריים נוספים ממלאים פונקציות קדם־פזמון (P), גשר (B) ואחר־פזמון (Z)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מחזור מלא הכולל את כל המודולים מלבד B יהיה {VPCZ}. ארבע הפונקציות מתקדמות תמיד בסדר זה, אף שלא כולן חייבות להופיע. הגשרים גמישים במידת מה. כשיש גשר יחיד, הוא נוטה להופיע פעם אחת, ואחריו הפזמון האחרון או קדם־הפזמון והפזמון האחרונים. לעיתים קרובות גשר מחליף את הבית ו/או קדם־הפזמון במחזור האחרון ואינו רכיב נוסף. לכן שירים המשלבים את כל חמשת סוגי מודולי הליבה מציבים אותם רק לעיתים רחוקות במחזור יחיד.</p>",
+      "source_text": "מחזור מלא הכולל את כל המודולים מלבד B יהיה {VPCZ}. ארבע הפונקציות מתקדמות תמיד בסדר זה, אף שלא כולן חייבות להופיע. הגשרים גמישים במידת מה. כשיש גשר יחיד, הוא נוטה להופיע פעם אחת, ואחריו הפזמון האחרון או קדם־הפזמון והפזמון האחרונים. לעיתים קרובות גשר מחליף את הבית ו/או קדם־הפזמון במחזור האחרון ואינו רכיב נוסף. לכן שירים המשלבים את כל חמשת סוגי מודולי הליבה מציבים אותם רק לעיתים רחוקות במחזור יחיד.",
+      "spoken": "מחזור מלא הכולל את כל המודולים מלבד B יהיה {VPCZ}. ארבע הפונקציות מתקדמות תמיד בסדר זה, אף שלא כולן חייבות להופיע. הגשרים גמישים במידת מה. כשיש גשר יחיד, הוא נוטה להופיע פעם אחת, ואחריו הפזמון האחרון או קדם־הפזמון והפזמון האחרונים. לעיתים קרובות גשר מחליף את הבית ו/או קדם־הפזמון במחזור האחרון ואינו רכיב נוסף. לכן שירים המשלבים את כל חמשת סוגי מודולי הליבה מציבים אותם רק לעיתים רחוקות במחזור יחיד."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מחזורים נפוצים ללא גשר: {VC}, ‏{VPC}, ולעיתים — בייחוד במחזור הראשון — {VVC}. אפשר להוסיף Z בסוף כל אחד. מחזורים נפוצים עם גשר הם {BC} ו־{BPC}, ואפשר להוסיף Z בסוף שניהם.</p>",
+      "source_text": "מחזורים נפוצים ללא גשר: {VC}, {VPC}, ולעיתים — בייחוד במחזור הראשון — {VVC}. אפשר להוסיף Z בסוף כל אחד. מחזורים נפוצים עם גשר הם {BC} ו־{BPC}, ואפשר להוסיף Z בסוף שניהם.",
+      "spoken": "מחזורים נפוצים ללא גשר: {VC}, {VPC}, ולעיתים — בייחוד במחזור הראשון — {VVC}. אפשר להוסיף Z בסוף כל אחד. מחזורים נפוצים עם גשר הם {BC} ו־{BPC}, ואפשר להוסיף Z בסוף שניהם."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורת בית–פזמון פשוטה {#simple-verse-chorus-form}</h2>",
+      "source_text": "צורת בית–פזמון פשוטה {#simple-verse-chorus-form}",
+      "spoken": "צורת בית–פזמון פשוטה {#simple-verse-chorus-form}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>צורת בית–פזמון פשוטה</em> (simple verse-chorus form) היא מונח שטבע John Covach לשירים שבהם המהלך ההרמוני בבסיס הבית זהה לזה שבבסיס הפזמון. דוגמה מובהקת היא ״With or Without You״ של U2.</p>",
+      "source_text": "צורת בית–פזמון פשוטה (simple verse-chorus form) היא מונח שטבע John Covach לשירים שבהם המהלך ההרמוני בבסיס הבית זהה לזה שבבסיס הפזמון. דוגמה מובהקת היא ״With or Without You״ של U2.",
+      "spoken": "צורת בית–פזמון פשוטה (simple verse-chorus form) היא מונח שטבע John Covach לשירים שבהם המהלך ההרמוני בבסיס הבית זהה לזה שבבסיס הפזמון. דוגמה מובהקת היא ״With or Without You״ של U2."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A5JGEAz15LkPoOtFHttDtVs\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5JGEAz15LkPoOtFHttDtVs",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — סקירה. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs\">https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:5JGEAz15LkPoOtFHttDtVs\">spotify:track:5JGEAz15LkPoOtFHttDtVs</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs מזהה Spotify URI: spotify:track:5JGEAz15LkPoOtFHttDtVs",
+      "spoken": "קישור HTML: https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs מזהה Spotify URI: spotify:track:5JGEAz15LkPoOtFHttDtVs"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורת בית–פזמון פשוטה במיוחד {#super-simple-verse-chorus-form}</h2>",
+      "source_text": "צורת בית–פזמון פשוטה במיוחד {#super-simple-verse-chorus-form}",
+      "spoken": "צורת בית–פזמון פשוטה במיוחד {#super-simple-verse-chorus-form}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>צורת בית–פזמון פשוטה במיוחד</em> (super-simple verse-chorus form) היא מונח שטבע <a href=\"http://gradworks.umi.com/35/25/3525244.html\">Jay Summach</a> על בסיס המונח של Covach. הוא מציין שירים שבהם גם המהלך ההרמוני וגם המלודיה זהים בבית ובפזמון (Summach, עמ׳ 322).</p>",
+      "source_text": "צורת בית–פזמון פשוטה במיוחד (super-simple verse-chorus form) היא מונח שטבע Jay Summach על בסיס המונח של Covach. הוא מציין שירים שבהם גם המהלך ההרמוני וגם המלודיה זהים בבית ובפזמון (Summach, עמ׳ 322).",
+      "spoken": "צורת בית–פזמון פשוטה במיוחד (super-simple verse-chorus form) היא מונח שטבע Jay Summach על בסיס המונח של Covach. הוא מציין שירים שבהם גם המהלך ההרמוני וגם המלודיה זהים בבית ובפזמון (Summach, עמ׳ 322)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>הרחבה {#going-into-detail}</h2>",
+      "source_text": "הרחבה {#going-into-detail}",
+      "spoken": "הרחבה {#going-into-detail}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הפרקים הבאים מפרטים את המבנים הכוללים ואת המבנים המרכיבים אותם. המונחים, המושגים, ההגדרות וכללי הסימון ב־OMT מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת <a href=\"http://gradworks.umi.com/35/25/3525244.html\">Jason Summach</a>, ‏John Covach, ‏Walter Everett, ‏Mark Spicer או Daniel Harrison; או על שילוב ביניהם.</p>",
+      "source_text": "הפרקים הבאים מפרטים את המבנים הכוללים ואת המבנים המרכיבים אותם. המונחים, המושגים, ההגדרות וכללי הסימון ב־OMT מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת Jason Summach, John Covach, Walter Everett, Mark Spicer או Daniel Harrison; או על שילוב ביניהם.",
+      "spoken": "הפרקים הבאים מפרטים את המבנים הכוללים ואת המבנים המרכיבים אותם. המונחים, המושגים, ההגדרות וכללי הסימון ב־OMT מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת Jason Summach, John Covach, Walter Everett, Mark Spicer או Daniel Harrison; או על שילוב ביניהם."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"popRockForm-terms.html\">מונחים ומושגי יסוד</a></li>",
+      "source_text": "מונחים ומושגי יסוד",
+      "spoken": "מונחים ומושגי יסוד"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"popRockForm-containers.html\">יחידות מבנה ומבני מודולים</a></li>",
+      "source_text": "יחידות מבנה ומבני מודולים",
+      "spoken": "יחידות מבנה ומבני מודולים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"popRockForm-functions.html\">פונקציות צורניות</a></li>",
+      "source_text": "פונקציות צורניות",
+      "spoken": "פונקציות צורניות"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"popRockForm-notation.html\">סימון לניתוח</a></li>",
+      "source_text": "סימון לניתוח",
+      "spoken": "סימון לניתוח"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: זמני הכניסה נשמרו מן המקור. בפרק ״פונקציות צורניות״ מופיעים זמנים מעט שונים לאותו שיר; טרם אומתה התאמתם לגרסת ההקלטה המוטמעת. גם 0:52 בתיאור הגשר לעומת 0:51 במתווה נשמרו.</p>",
+      "source_text": "הערת תרגום: זמני הכניסה נשמרו מן המקור. בפרק ״פונקציות צורניות״ מופיעים זמנים מעט שונים לאותו שיר; טרם אומתה התאמתם לגרסת ההקלטה המוטמעת. גם 0:52 בתיאור הגשר לעומת 0:51 במתווה נשמרו.",
+      "spoken": "הערת תרגום: זמני הכניסה נשמרו מן המקור. בפרק ״פונקציות צורניות״ מופיעים זמנים מעט שונים לאותו שיר; טרם אומתה התאמתם לגרסת ההקלטה המוטמעת. גם 0:52 בתיאור הגשר לעומת 0:51 במתווה נשמרו."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A5JGEAz15LkPoOtFHttDtVs"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h",
+        "target": "https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h"
+      },
+      {
+        "label": "spotify:track:7bglJCaprPQTfDfovdJS2h",
+        "target": "spotify:track:7bglJCaprPQTfDfovdJS2h"
+      },
+      {
+        "label": "מודולי עזר",
+        "target": "popRockForm-containers.html"
+      },
+      {
+        "label": "מחזור",
+        "target": "popRockForm-containers.html"
+      },
+      {
+        "label": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z",
+        "target": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
+      },
+      {
+        "label": "spotify:track:0J6mQxEZnlRt9ymzFntA6z",
+        "target": "spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+      },
+      {
+        "label": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs",
+        "target": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
+      },
+      {
+        "label": "spotify:track:5JGEAz15LkPoOtFHttDtVs",
+        "target": "spotify:track:5JGEAz15LkPoOtFHttDtVs"
+      },
+      {
+        "label": "Jay Summach",
+        "target": "http://gradworks.umi.com/35/25/3525244.html"
+      },
+      {
+        "label": "Jason Summach",
+        "target": "http://gradworks.umi.com/35/25/3525244.html"
+      },
+      {
+        "label": "מונחים ומושגי יסוד",
+        "target": "popRockForm-terms.html"
+      },
+      {
+        "label": "יחידות מבנה ומבני מודולים",
+        "target": "popRockForm-containers.html"
+      },
+      {
+        "label": "פונקציות צורניות",
+        "target": "popRockForm-functions.html"
+      },
+      {
+        "label": "סימון לניתוח",
+        "target": "popRockForm-notation.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "chapter": 122,
+  "source": "createGraphic.md",
+  "title": "122 — יצירת תמונה מוזיקלית והכנסתה למסמך טקסט",
+  "source_sha256": "088aff684289272ff3b6fdf7cdc1e3cb091f8f1138c7d040f06e5b62c8e2712e",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<h1>{{ page.title }}</h1>",
+      "source_text": "{{ page.title }}",
+      "spoken": "{{ page.title }}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הסרטון הבא מדגים יצירת תמונה מוזיקלית ב־MuseScore, חיתוכה ב־Mac והכנסתה למסמך של מעבד תמלילים באמצעות Pages. התהליך דומה ביישומים ובפלטפורמות אחרים.</p>",
+      "source_text": "הסרטון הבא מדגים יצירת תמונה מוזיקלית ב־MuseScore, חיתוכה ב־Mac והכנסתה למסמך של מעבד תמלילים באמצעות Pages. התהליך דומה ביישומים ובפלטפורמות אחרים.",
+      "spoken": "הסרטון הבא מדגים יצירת תמונה מוזיקלית ב־MuseScore, חיתוכה ב־Mac והכנסתה למסמך של מעבד תמלילים באמצעות Pages. התהליך דומה ביישומים ובפלטפורמות אחרים."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"281\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/64721244\" title=\"דוגמה מוזיקלית להאזנה — יצירת תמונה מוזיקלית והכנסתה למסמך טקסט\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/64721244",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — יצירת תמונה מוזיקלית והכנסתה למסמך טקסט. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אפשר גם להשתמש בתוסף <a href=\"http://musescore.org/en/project/snippetcreator\">Snippet creator</a> ל־MuseScore וליצור את התמונות ישירות מתוך היישום.</p>",
+      "source_text": "אפשר גם להשתמש בתוסף Snippet creator ל־MuseScore וליצור את התמונות ישירות מתוך היישום.",
+      "spoken": "אפשר גם להשתמש בתוסף Snippet creator ל־MuseScore וליצור את התמונות ישירות מתוך היישום."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.</p>",
+      "source_text": "הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.",
+      "spoken": "הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "http://player.vimeo.com/video/64721244"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "Snippet creator",
+        "target": "http://musescore.org/en/project/snippetcreator"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

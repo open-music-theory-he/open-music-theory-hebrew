@@ -1,0 +1,74 @@
+{
+  "chapter": 117,
+  "source": "GDrive.md",
+  "title": "117 — העלאת קובץ ושיתופו באמצעות Google Drive",
+  "source_sha256": "e7be1a9a50a59af963669abfee0373f7753e244250879ce0ca9e42ff99cf4215",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<h1>{{ page.title }}</h1>",
+      "source_text": "{{ page.title }}",
+      "spoken": "{{ page.title }}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הסרטון הבא מדגים העלאת קובץ ל־Google Drive ושיתופו עם משתמש אחר.</p>",
+      "source_text": "הסרטון הבא מדגים העלאת קובץ ל־Google Drive ושיתופו עם משתמש אחר.",
+      "spoken": "הסרטון הבא מדגים העלאת קובץ ל־Google Drive ושיתופו עם משתמש אחר."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"375\" mozallowfullscreen=\"\" src=\"//player.vimeo.com/video/73001492\" title=\"דוגמה מוזיקלית להאזנה — העלאת קובץ ושיתופו באמצעות Google Drive\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "//player.vimeo.com/video/73001492",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — העלאת קובץ ושיתופו באמצעות Google Drive. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://vimeo.com/73001492\">העלאת קובץ ושיתופו ב־Google Drive</a> מאת <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> ב־<a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "source_text": "העלאת קובץ ושיתופו ב־Google Drive מאת Kris Shaffer ב־Vimeo.",
+      "spoken": "העלאת קובץ ושיתופו ב־Google Drive מאת Kris Shaffer ב־Vimeo."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.</p>",
+      "source_text": "הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.",
+      "spoken": "הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "//player.vimeo.com/video/73001492"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "העלאת קובץ ושיתופו ב־Google Drive",
+        "target": "http://vimeo.com/73001492"
+      },
+      {
+        "label": "Kris Shaffer",
+        "target": "http://vimeo.com/user11692346"
+      },
+      {
+        "label": "Vimeo",
+        "target": "https://vimeo.com"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

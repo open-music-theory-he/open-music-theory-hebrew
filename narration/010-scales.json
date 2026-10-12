@@ -3,7 +3,7 @@
   "source": "scales.md",
   "title": "010 — סולמות ודרגות הסולם",
   "source_sha256": "adf9c682e115737f5685a79b04d77d1194838bd2bcf72c005fd5b9e6315c3475",
-  "status": "prepared-awaiting-media-review",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -138,7 +138,7 @@
       "kind": "visual-explanation",
       "source": "<img alt=\"מינור מלודי בעלייה\" src=\"Graphics/sdsf-melodicMinorAsc.png\"/>",
       "asset": "Graphics/sdsf-melodicMinorAsc.png",
-      "spoken": "בגירסה הכתובה מופיע כאן איור המיועד להציג מינור מלודי בעלייה ואת הגבהת הדרגות השישית והשביעית. ההברות המודפסות הן do, re, me, fa, sol, la, ti, do, וליד הדרגות 6 ו־7 מופיעים חיצי הגבהה. עם זאת, בתיווי ובשורת שמות הצלילים מופיע B במול במקום B טבעי; פרט זה אינו תואם את ההגבהה המסומנת ודורש הכרעה לפני הקלטה סופית.",
+      "spoken": "בגירסה הכתובה מופיע כאן סולם רה מינור מלודי בעלייה: D4, E4, F4, G4, A4, B4, C5 דיאז, D5. ליד B מופיע סימן בקר. הדרגות השישית והשביעית מוגבהות לעומת מינור טבעי. בהברות דו נייד: do, re, me, fa, sol, la, ti, do.",
       "reviewed": true
     },
     {
@@ -185,13 +185,7 @@
     "external_media_reviewed": false,
     "external_media": [],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "source-inconsistency",
-        "asset": "Graphics/sdsf-melodicMinorAsc.png",
-        "detail": "Printed B♭ conflicts with raised scale degree 6 and la in D melodic minor ascending."
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -227,6 +221,7 @@
         "target": "fixed-and-movable-do.html"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "source_image_recheck": "B4 has a natural sign, not a flat; D ascending melodic minor is correct."
   }
 }

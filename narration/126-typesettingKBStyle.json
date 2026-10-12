@@ -1,0 +1,104 @@
+{
+  "chapter": 126,
+  "source": "typesettingKBStyle.md",
+  "title": "126 — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת",
+  "source_sha256": "180cb2db2754afcc70ee3a6722b1b1bbd801322435fbadb1196185a674a1b609",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב־MuseScore השתמשו בכלי <em>הקולות</em> (voices). הדבר נכון גם ל־Finale ול־NoteFlight, אף שהתהליך המסוים שונה מעט:</p>",
+      "source_text": "ב־MuseScore השתמשו בכלי הקולות (voices). הדבר נכון גם ל־Finale ול־NoteFlight, אף שהתהליך המסוים שונה מעט:",
+      "spoken": "ב־MuseScore השתמשו בכלי הקולות (voices). הדבר נכון גם ל־Finale ול־NoteFlight, אף שהתהליך המסוים שונה מעט:"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"375\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/61032934\" title=\"דוגמה מוזיקלית להאזנה — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/61032934",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://vimeo.com/61032934\">תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־MuseScore</a> מאת <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> ב־<a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "source_text": "תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־MuseScore מאת Kris Shaffer ב־Vimeo.",
+      "spoken": "תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־MuseScore מאת Kris Shaffer ב־Vimeo."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב־LilyPond השתמשו ב<a href=\"/Graphics/KBtypesettingDemo.ly\">תבנית</a> להולכת קולות בסגנון כלי מקלדת:</p>",
+      "source_text": "ב־LilyPond השתמשו בתבנית להולכת קולות בסגנון כלי מקלדת:",
+      "spoken": "ב־LilyPond השתמשו בתבנית להולכת קולות בסגנון כלי מקלדת:"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"375\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/61034943\" title=\"דוגמה מוזיקלית להאזנה — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/61034943",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://vimeo.com/61034943\">תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־LilyPond</a> מאת <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> ב־<a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "source_text": "תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־LilyPond מאת Kris Shaffer ב־Vimeo.",
+      "spoken": "תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־LilyPond מאת Kris Shaffer ב־Vimeo."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: זהו מדריך לגרסאות התוכנות בעת כתיבת המקור. הסרטונים ותיאור הממשק לא עודכנו ולא אומתו מול גרסאות עכשוויות.</p>",
+      "source_text": "הערת תרגום: זהו מדריך לגרסאות התוכנות בעת כתיבת המקור. הסרטונים ותיאור הממשק לא עודכנו ולא אומתו מול גרסאות עכשוויות.",
+      "spoken": "הערת תרגום: זהו מדריך לגרסאות התוכנות בעת כתיבת המקור. הסרטונים ותיאור הממשק לא עודכנו ולא אומתו מול גרסאות עכשוויות."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "http://player.vimeo.com/video/61032934",
+      "http://player.vimeo.com/video/61034943"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־MuseScore",
+        "target": "http://vimeo.com/61032934"
+      },
+      {
+        "label": "Kris Shaffer",
+        "target": "http://vimeo.com/user11692346"
+      },
+      {
+        "label": "Vimeo",
+        "target": "http://vimeo.com"
+      },
+      {
+        "label": "תבנית",
+        "target": "/Graphics/KBtypesettingDemo.ly"
+      },
+      {
+        "label": "תיווי תרגיל הולכת קולות בסגנון כלי מקלדת ב־LilyPond",
+        "target": "http://vimeo.com/61034943"
+      },
+      {
+        "label": "Kris Shaffer",
+        "target": "http://vimeo.com/user11692346"
+      },
+      {
+        "label": "Vimeo",
+        "target": "http://vimeo.com"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

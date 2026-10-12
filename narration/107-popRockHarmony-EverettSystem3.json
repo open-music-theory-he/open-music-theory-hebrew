@@ -1,0 +1,68 @@
+{
+  "chapter": 107,
+  "source": "popRockHarmony-EverettSystem3.md",
+  "title": "107 — טונליות בפופ וברוק עם שאילה מודאלית",
+  "source_sha256": "906ca62361dded69c33d4690d923938b24520a4e573f1b0df862f825ec6135e8",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>יש שירי פופ ורוק שטונליותם דומה מאוד להרמוניה הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים. זו מעין הכלאה בין מערכת 1 של Everett, הקלאסית, למערכת 2, המבוססת על מודוסים דיאטוניים. מאחר שזו ״מערכת״ שאילה פשוטה כל כך, שתי דוגמאות יספיקו.</p>",
+      "source_text": "יש שירי פופ ורוק שטונליותם דומה מאוד להרמוניה הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים. זו מעין הכלאה בין מערכת 1 של Everett, הקלאסית, למערכת 2, המבוססת על מודוסים דיאטוניים. מאחר שזו ״מערכת״ שאילה פשוטה כל כך, שתי דוגמאות יספיקו.",
+      "spoken": "יש שירי פופ ורוק שטונליותם דומה מאוד להרמוניה הקלאסית של תקופת הפרקטיקה המקובלת, אך שואלת ממודוסים דיאטוניים. זו מעין הכלאה בין מערכת 1 של Everett, הקלאסית, למערכת 2, המבוססת על מודוסים דיאטוניים. מאחר שזו ״מערכת״ שאילה פשוטה כל כך, שתי דוגמאות יספיקו."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Everything in its Right Place״ של Radiohead מערב יסודות של טונליות מז׳ורית ומודוס אאולי. אפשר לראות במבוא דוגמה ל<a href=\"popRockHarmony-EverettSystem5.html\">מערכת 5</a>, משולשים מז׳וריים על צלילי הסולם הפנטטוני המינורי. הבית משלב בבירור משולש טוניקה מז׳ורי עם <strong>v</strong>, ‏<strong>flat-VI</strong> ו־<strong>flat-VII</strong> השאולים מאאולי.</p>",
+      "source_text": "״Everything in its Right Place״ של Radiohead מערב יסודות של טונליות מז׳ורית ומודוס אאולי. אפשר לראות במבוא דוגמה למערכת 5, משולשים מז׳וריים על צלילי הסולם הפנטטוני המינורי. הבית משלב בבירור משולש טוניקה מז׳ורי עם v, flat-VI ו־flat-VII השאולים מאאולי.",
+      "spoken": "״Everything in its Right Place״ של Radiohead מערב יסודות של טונליות מז׳ורית ומודוס אאולי. אפשר לראות במבוא דוגמה למערכת 5, משולשים מז׳וריים על צלילי הסולם הפנטטוני המינורי. הבית משלב בבירור משולש טוניקה מז׳ורי עם v, flat-VI ו־flat-VII השאולים מאאולי."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:3Gk0l7D2cL1JQaA1bT8i15\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק עם שאילה מודאלית\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:3Gk0l7D2cL1JQaA1bT8i15",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק עם שאילה מודאלית. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Brown Sugar״ של The Rolling Stones נמצא בבירור בסולם מז׳ורי ומבוסס בעיקר על <strong>I</strong>, ‏<strong>IV</strong> ו־<strong>V</strong>, אך שואל בקביעות מאאולי את המהלך <strong>flat-VI flat-VII I</strong>, הנשמע בבירור בסוף המבוא הכלי.</p>",
+      "source_text": "״Brown Sugar״ של The Rolling Stones נמצא בבירור בסולם מז׳ורי ומבוסס בעיקר על I, IV ו־V, אך שואל בקביעות מאאולי את המהלך flat-VI flat-VII I, הנשמע בבירור בסוף המבוא הכלי.",
+      "spoken": "״Brown Sugar״ של The Rolling Stones נמצא בבירור בסולם מז׳ורי ומבוסס בעיקר על I, IV ו־V, אך שואל בקביעות מאאולי את המהלך flat-VI flat-VII I, הנשמע בבירור בסוף המבוא הכלי."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:6qiVgv4lsideE8c1Bxc867\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק עם שאילה מודאלית\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:6qiVgv4lsideE8c1Bxc867",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק עם שאילה מודאלית. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:3Gk0l7D2cL1JQaA1bT8i15",
+      "https://embed.spotify.com/?uri=spotify:track:6qiVgv4lsideE8c1Bxc867"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מערכת 5",
+        "target": "popRockHarmony-EverettSystem5.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

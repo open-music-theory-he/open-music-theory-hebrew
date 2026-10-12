@@ -1,0 +1,49 @@
+{
+  "chapter": 125,
+  "source": "linkToTwitter.md",
+  "title": "125 — פרסום קישור לבלוג בטוויטר",
+  "source_sha256": "680a307cbde24c9820ca9fd97d36481f83d867c7c6f086263ad84b9733d38ad9",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<h1>{{ page.title }}</h1>",
+      "source_text": "{{ page.title }}",
+      "spoken": "{{ page.title }}"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" class=\"aligncenter\" frameborder=\"0\" height=\"375\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/48772169\" title=\"דוגמה מוזיקלית להאזנה — פרסום קישור לבלוג בטוויטר\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/48772169",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — פרסום קישור לבלוג בטוויטר. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.</p>",
+      "source_text": "הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות.",
+      "spoken": "הערת תרגום: זהו מדריך היסטורי ממהדורת המקור. תוכן הסרטון וממשקי השירותים לא תורגמו או עודכנו כאן, ולא אומתה התאמתם לגרסאות עכשוויות."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "http://player.vimeo.com/video/48772169"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [],
+    "singular_tav_pointed": true
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "chapter": 101,
+  "source": "popRockForm-terms.md",
+  "title": "101 — צורה בפופ וברוק — מונחים ומושגי יסוד",
+  "source_sha256": "325ab43fecd0cc74907971474517561165ef99fa861d69a8d8f462b13f65654e",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>זהו מילון המונחים והמושגים שישמשו לניתוח פופ ורוק. המונחים, המושגים, ההגדרות וכללי הסימון מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת Jason Summach, ‏John Covach, ‏Walter Everett, ‏Mark Spicer או Daniel Harrison; או על שילוב ביניהם.</p>",
+      "source_text": "זהו מילון המונחים והמושגים שישמשו לניתוח פופ ורוק. המונחים, המושגים, ההגדרות וכללי הסימון מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת Jason Summach, John Covach, Walter Everett, Mark Spicer או Daniel Harrison; או על שילוב ביניהם.",
+      "spoken": "זהו מילון המונחים והמושגים שישמשו לניתוח פופ ורוק. המונחים, המושגים, ההגדרות וכללי הסימון מבוססים על מוסכמות מקובלות; על עבודות שפורסמו או שלא פורסמו מאת Jason Summach, John Covach, Walter Everett, Mark Spicer או Daniel Harrison; או על שילוב ביניהם."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מונחים בשירה {#poetic-terminology}</h2>",
+      "source_text": "מונחים בשירה {#poetic-terminology}",
+      "spoken": "מונחים בשירה {#poetic-terminology}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>רגל {#foot}</h3>",
+      "source_text": "רגל {#foot}",
+      "spoken": "רגל {#foot}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>צירוף של שתיים או שלוש הברות, בדרך כלל הברה מוטעמת אחת והברה אחת או שתיים לא מוטעמות. רגליים נפוצות הן <em>יאמב</em> (iamb: לא מוטעמת–מוטעמת), <em>טרוכאי</em> (trochee: מוטעמת–לא מוטעמת), <em>ספונדי</em> (spondee: שתי מוטעמות ברצף), <em>אנפסט</em> (anapest: לא מוטעמת–לא מוטעמת–מוטעמת) ו<em>דקטיל</em> (dactyl: מוטעמת–לא מוטעמת–לא מוטעמת).</p>",
+      "source_text": "צירוף של שתיים או שלוש הברות, בדרך כלל הברה מוטעמת אחת והברה אחת או שתיים לא מוטעמות. רגליים נפוצות הן יאמב (iamb: לא מוטעמת–מוטעמת), טרוכאי (trochee: מוטעמת–לא מוטעמת), ספונדי (spondee: שתי מוטעמות ברצף), אנפסט (anapest: לא מוטעמת–לא מוטעמת–מוטעמת) ודקטיל (dactyl: מוטעמת–לא מוטעמת–לא מוטעמת).",
+      "spoken": "צירוף של שתיים או שלוש הברות, בדרך כלל הברה מוטעמת אחת והברה אחת או שתיים לא מוטעמות. רגליים נפוצות הן יאמב (iamb: לא מוטעמת–מוטעמת), טרוכאי (trochee: מוטעמת–לא מוטעמת), ספונדי (spondee: שתי מוטעמות ברצף), אנפסט (anapest: לא מוטעמת–לא מוטעמת–מוטעמת) ודקטיל (dactyl: מוטעמת–לא מוטעמת–לא מוטעמת)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: המקור מגדיר כאן בטעות את האנפסט כמוטעמת–מוטעמת–לא מוטעמת, ההגדרה תוקנה במפורש על סמך <a href=\"https://poetry.harvard.edu/guide-prosody\">מדריך הפרוזודיה של אוניברסיטת Harvard</a> ו<a href=\"https://poets.org/glossary/anapest\">מילון Academy of American Poets</a>, המגדירים שתי הברות לא מוטעמות ואחריהן מוטעמת. אין שינוי בדקטיל.</p>",
+      "source_text": "הערת תרגום: המקור מגדיר כאן בטעות את האנפסט כמוטעמת–מוטעמת–לא מוטעמת, ההגדרה תוקנה במפורש על סמך מדריך הפרוזודיה של אוניברסיטת Harvard ומילון Academy of American Poets, המגדירים שתי הברות לא מוטעמות ואחריהן מוטעמת. אין שינוי בדקטיל.",
+      "spoken": "הערת תרגום: המקור מגדיר כאן בטעות את האנפסט כמוטעמת–מוטעמת–לא מוטעמת, ההגדרה תוקנה במפורש על סמך מדריך הפרוזודיה של אוניברסיטת Harvard ומילון Academy of American Poets, המגדירים שתי הברות לא מוטעמות ואחריהן מוטעמת. אין שינוי בדקטיל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>שורה {#line}</h3>",
+      "source_text": "שורה {#line}",
+      "spoken": "שורה {#line}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קבוצת רגליים הפועלת כיחידה אחת. כל שורה פיוטית מקבלת שורה משלה בטקסט המודפס או הכתוב. בשירה מחורזת ההברה או הרגל האחרונה משתתפת בחריזה עם שורה אחרת. תיתכן גם חריזה פנימית.</p>",
+      "source_text": "קבוצת רגליים הפועלת כיחידה אחת. כל שורה פיוטית מקבלת שורה משלה בטקסט המודפס או הכתוב. בשירה מחורזת ההברה או הרגל האחרונה משתתפת בחריזה עם שורה אחרת. תיתכן גם חריזה פנימית.",
+      "spoken": "קבוצת רגליים הפועלת כיחידה אחת. כל שורה פיוטית מקבלת שורה משלה בטקסט המודפס או הכתוב. בשירה מחורזת ההברה או הרגל האחרונה משתתפת בחריזה עם שורה אחרת. תיתכן גם חריזה פנימית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>צמד שורות {#couplet}</h3>",
+      "source_text": "צמד שורות {#couplet}",
+      "spoken": "צמד שורות {#couplet}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>זוג שורות. בשירה מחורזת שתי השורות בדרך כלל חורזות זו עם זו. הן עשויות להשתתף גם בדגם חריזה רחב יותר; ראו רביעיית שורות להלן.</p>",
+      "source_text": "זוג שורות. בשירה מחורזת שתי השורות בדרך כלל חורזות זו עם זו. הן עשויות להשתתף גם בדגם חריזה רחב יותר; ראו רביעיית שורות להלן.",
+      "spoken": "זוג שורות. בשירה מחורזת שתי השורות בדרך כלל חורזות זו עם זו. הן עשויות להשתתף גם בדגם חריזה רחב יותר; ראו רביעיית שורות להלן."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>רביעיית שורות {#quatrain}</h3>",
+      "source_text": "רביעיית שורות {#quatrain}",
+      "spoken": "רביעיית שורות {#quatrain}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שני צמדי שורות, כלומר ארבע שורות. דגמי חריזה נפוצים הם <em>aabb</em>, ‏<em>abab</em> ו־<em>abcb</em>.</p>",
+      "source_text": "שני צמדי שורות, כלומר ארבע שורות. דגמי חריזה נפוצים הם aabb, abab ו־abcb.",
+      "spoken": "שני צמדי שורות, כלומר ארבע שורות. דגמי חריזה נפוצים הם aabb, abab ו־abcb."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>בית שירי {#stanza}</h3>",
+      "source_text": "בית שירי {#stanza}",
+      "spoken": "בית שירי {#stanza}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קבוצת שורות הפועלת כיחידה סיפורית אחת. בדרך כלל היא כוללת רביעיית שורות אחת או יותר, כלומר מספר השורות הכולל הוא כפולה של ארבע. כאן ״בית שירי״ מציין stanza של הטקסט, להבדיל ממודול verse מוזיקלי.</p>",
+      "source_text": "קבוצת שורות הפועלת כיחידה סיפורית אחת. בדרך כלל היא כוללת רביעיית שורות אחת או יותר, כלומר מספר השורות הכולל הוא כפולה של ארבע. כאן ״בית שירי״ מציין stanza של הטקסט, להבדיל ממודול verse מוזיקלי.",
+      "spoken": "קבוצת שורות הפועלת כיחידה סיפורית אחת. בדרך כלל היא כוללת רביעיית שורות אחת או יותר, כלומר מספר השורות הכולל הוא כפולה של ארבע. כאן ״בית שירי״ מציין stanza של הטקסט, להבדיל ממודול verse מוזיקלי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>דוגמה {#example}</h3>",
+      "source_text": "דוגמה {#example}",
+      "spoken": "דוגמה {#example}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המקור מביא בית מתוך ״Pride (In the Name of Love)״ של U2. הבית הוא רביעיית שורות. בשורה הראשונה ובשלישית ארבע רגליים — ארבע הברות מוטעמות — במקצב לא סדיר; בשנייה וברביעית שלוש רגליים במקצב לא סדיר, והן חורזות זו עם זו. תחילת הבית:</p>",
+      "source_text": "המקור מביא בית מתוך ״Pride (In the Name of Love)״ של U2. הבית הוא רביעיית שורות. בשורה הראשונה ובשלישית ארבע רגליים — ארבע הברות מוטעמות — במקצב לא סדיר; בשנייה וברביעית שלוש רגליים במקצב לא סדיר, והן חורזות זו עם זו. תחילת הבית:",
+      "spoken": "המקור מביא בית מתוך ״Pride (In the Name of Love)״ של U2. הבית הוא רביעיית שורות. בשורה הראשונה ובשלישית ארבע רגליים — ארבע הברות מוטעמות — במקצב לא סדיר; בשנייה וברביעית שלוש רגליים במקצב לא סדיר, והן חורזות זו עם זו. תחילת הבית:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>One man come in the name of love.</p>",
+      "source_text": "One man come in the name of love.",
+      "spoken": "One man come in the name of love."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>במהדורה העברית מובא רק קטע קצר ממילות השיר. לניתוח ארבע השורות יש להיעזר בטקסט השיר או בהקלטה; יתר המילים אינן משוחזרות כאן.</em></p>",
+      "source_text": "במהדורה העברית מובא רק קטע קצר ממילות השיר. לניתוח ארבע השורות יש להיעזר בטקסט השיר או בהקלטה; יתר המילים אינן משוחזרות כאן.",
+      "spoken": "במהדורה העברית מובא רק קטע קצר ממילות השיר. לניתוח ארבע השורות יש להיעזר בטקסט השיר או בהקלטה; יתר המילים אינן משוחזרות כאן."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מבנים נוספים {#other-structures}</h3>",
+      "source_text": "מבנים נוספים {#other-structures}",
+      "spoken": "מבנים נוספים {#other-structures}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>למבנים ולמונחים נוספים בשירה, ראו את משאב Vanier College, ‏<a href=\"http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf\">Poetry’s Structure and Form</a>.</p>",
+      "source_text": "למבנים ולמונחים נוספים בשירה, ראו את משאב Vanier College, Poetry’s Structure and Form.",
+      "spoken": "למבנים ולמונחים נוספים בשירה, ראו את משאב Vanier College, Poetry’s Structure and Form."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מאפיינים ואמצעים רטוריים {#descriptors-rhetorical-devices}</h2>",
+      "source_text": "מאפיינים ואמצעים רטוריים {#descriptors-rhetorical-devices}",
+      "spoken": "מאפיינים ואמצעים רטוריים {#descriptors-rhetorical-devices}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מילים משתנות {#lyric-variant}</h3>",
+      "source_text": "מילים משתנות {#lyric-variant}",
+      "spoken": "מילים משתנות {#lyric-variant}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודול או פסוקית הם בעלי מילים משתנות (lyric-variant) כאשר בכל הופעה הם מציגים בעיקר מילים אחרות.</p>",
+      "source_text": "מודול או פסוקית הם בעלי מילים משתנות (lyric-variant) כאשר בכל הופעה הם מציגים בעיקר מילים אחרות.",
+      "spoken": "מודול או פסוקית הם בעלי מילים משתנות (lyric-variant) כאשר בכל הופעה הם מציגים בעיקר מילים אחרות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מילים קבועות {#lyric-invariant}</h2>",
+      "source_text": "מילים קבועות {#lyric-invariant}",
+      "spoken": "מילים קבועות {#lyric-invariant}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודול או פסוקית הם בעלי מילים קבועות (lyric-invariant) כאשר בכל הופעה הם מציגים בעיקר אותן מילים. קביעות המילים נוטה להופיע בנקודות סגירה צורנית: שורות חוזרות בסופי סטרופות ופזמונים בסוף המחזור הצורני של שיר בית–פזמון.</p>",
+      "source_text": "מודול או פסוקית הם בעלי מילים קבועות (lyric-invariant) כאשר בכל הופעה הם מציגים בעיקר אותן מילים. קביעות המילים נוטה להופיע בנקודות סגירה צורנית: שורות חוזרות בסופי סטרופות ופזמונים בסוף המחזור הצורני של שיר בית–פזמון.",
+      "spoken": "מודול או פסוקית הם בעלי מילים קבועות (lyric-invariant) כאשר בכל הופעה הם מציגים בעיקר אותן מילים. קביעות המילים נוטה להופיע בנקודות סגירה צורנית: שורות חוזרות בסופי סטרופות ופזמונים בסוף המחזור הצורני של שיר בית–פזמון."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מוזיקה משתנה {#music-variant}</h3>",
+      "source_text": "מוזיקה משתנה {#music-variant}",
+      "spoken": "מוזיקה משתנה {#music-variant}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודול או פסוקית הם בעלי מוזיקה משתנה (music-variant) כאשר בכל הופעה הם מציגים בעיקר מוזיקה אחרת.</p>",
+      "source_text": "מודול או פסוקית הם בעלי מוזיקה משתנה (music-variant) כאשר בכל הופעה הם מציגים בעיקר מוזיקה אחרת.",
+      "spoken": "מודול או פסוקית הם בעלי מוזיקה משתנה (music-variant) כאשר בכל הופעה הם מציגים בעיקר מוזיקה אחרת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מוזיקה קבועה {#music-invariant}</h3>",
+      "source_text": "מוזיקה קבועה {#music-invariant}",
+      "spoken": "מוזיקה קבועה {#music-invariant}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודול או פסוקית הם בעלי מוזיקה קבועה (music-invariant) כאשר בכל הופעה הם מציגים בעיקר אותה מוזיקה.</p>",
+      "source_text": "מודול או פסוקית הם בעלי מוזיקה קבועה (music-invariant) כאשר בכל הופעה הם מציגים בעיקר אותה מוזיקה.",
+      "spoken": "מודול או פסוקית הם בעלי מוזיקה קבועה (music-invariant) כאשר בכל הופעה הם מציגים בעיקר אותה מוזיקה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>הצטמצמות אל הפזמון {#chorusification}</h3>",
+      "source_text": "הצטמצמות אל הפזמון {#chorusification}",
+      "spoken": "הצטמצמות אל הפזמון {#chorusification}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>Jay Summach משתמש במונח ״chorusification״ (עמ׳ 321) לתיאור תהליך שבו מודולים מושמטים מן המחזור הצורני עד שנותר רק הפזמון (C). למשל, שיר המתחיל במחזור {VPC} יכול להופיע לקראת סופו ללא הבית, {PC}, ובהמשך ללא קדם־הפזמון, {C}. זהו חלק מתהליך מכוון אל סיום השיר, המעניק לפזמון הדגשה מיוחדת.</p>",
+      "source_text": "Jay Summach משתמש במונח ״chorusification״ (עמ׳ 321) לתיאור תהליך שבו מודולים מושמטים מן המחזור הצורני עד שנותר רק הפזמון (C). למשל, שיר המתחיל במחזור {VPC} יכול להופיע לקראת סופו ללא הבית, {PC}, ובהמשך ללא קדם־הפזמון, {C}. זהו חלק מתהליך מכוון אל סיום השיר, המעניק לפזמון הדגשה מיוחדת.",
+      "spoken": "Jay Summach משתמש במונח ״chorusification״ (עמ׳ 321) לתיאור תהליך שבו מודולים מושמטים מן המחזור הצורני עד שנותר רק הפזמון (C). למשל, שיר המתחיל במחזור {VPC} יכול להופיע לקראת סופו ללא הבית, {PC}, ובהמשך ללא קדם־הפזמון, {C}. זהו חלק מתהליך מכוון אל סיום השיר, המעניק לפזמון הדגשה מיוחדת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Livin’ on a Prayer״ של Bon Jovi מדגים זאת היטב. שני המחזורים הראשונים דומים באורכם ובתוכנם. השלישי, המתחיל ב־2:58, מחליף את הבית בפזמון כלי, כך שבמחזור השלישי שני פזמונים. לאחר סגירתו הפזמון חוזר ויוצר קטע סיום המבוסס עליו.</p>",
+      "source_text": "״Livin’ on a Prayer״ של Bon Jovi מדגים זאת היטב. שני המחזורים הראשונים דומים באורכם ובתוכנם. השלישי, המתחיל ב־2:58, מחליף את הבית בפזמון כלי, כך שבמחזור השלישי שני פזמונים. לאחר סגירתו הפזמון חוזר ויוצר קטע סיום המבוסס עליו.",
+      "spoken": "״Livin’ on a Prayer״ של Bon Jovi מדגים זאת היטב. שני המחזורים הראשונים דומים באורכם ובתוכנם. השלישי, המתחיל ב־2:58, מחליף את הבית בפזמון כלי, כך שבמחזור השלישי שני פזמונים. לאחר סגירתו הפזמון חוזר ויוצר קטע סיום המבוסס עליו."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — מונחים ומושגי יסוד\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — מונחים ומושגי יסוד. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z\">https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:0J6mQxEZnlRt9ymzFntA6z\">spotify:track:0J6mQxEZnlRt9ymzFntA6z</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z מזהה Spotify URI: spotify:track:0J6mQxEZnlRt9ymzFntA6z",
+      "spoken": "קישור HTML: https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z מזהה Spotify URI: spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>היבטים הרמוניים של הצורה {#harmonic-aspects-of-form}</h2>",
+      "source_text": "היבטים הרמוניים של הצורה {#harmonic-aspects-of-form}",
+      "spoken": "היבטים הרמוניים של הצורה {#harmonic-aspects-of-form}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>פתיחה בטוניקה {#on-tonic}</h3>",
+      "source_text": "פתיחה בטוניקה {#on-tonic}",
+      "spoken": "פתיחה בטוניקה {#on-tonic}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פסוקית או מודול הם on-tonic כאשר הם מתחילים בהרמוניית טוניקה — I במצב יסודי.</p>",
+      "source_text": "פסוקית או מודול הם on-tonic כאשר הם מתחילים בהרמוניית טוניקה — I במצב יסודי.",
+      "spoken": "פסוקית או מודול הם on-tonic כאשר הם מתחילים בהרמוניית טוניקה — I במצב יסודי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>פתיחה מחוץ לטוניקה {#off-tonic}</h3>",
+      "source_text": "פתיחה מחוץ לטוניקה {#off-tonic}",
+      "spoken": "פתיחה מחוץ לטוניקה {#off-tonic}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פסוקית או מודול הם off-tonic כאשר הם מתחילים בהרמוניה שאינה טוניקה.</p>",
+      "source_text": "פסוקית או מודול הם off-tonic כאשר הם מתחילים בהרמוניה שאינה טוניקה.",
+      "spoken": "פסוקית או מודול הם off-tonic כאשר הם מתחילים בהרמוניה שאינה טוניקה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>סגירות הרמונית {#harmonically-closed}</h3>",
+      "source_text": "סגירות הרמונית {#harmonically-closed}",
+      "spoken": "סגירות הרמונית {#harmonically-closed}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פסוקית או מודול סגורים הרמונית כאשר הם מסתיימים בהרמוניית טוניקה — I במצב יסודי.</p>",
+      "source_text": "פסוקית או מודול סגורים הרמונית כאשר הם מסתיימים בהרמוניית טוניקה — I במצב יסודי.",
+      "spoken": "פסוקית או מודול סגורים הרמונית כאשר הם מסתיימים בהרמוניית טוניקה — I במצב יסודי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>פתיחות הרמונית {#harmonically-open}</h3>",
+      "source_text": "פתיחות הרמונית {#harmonically-open}",
+      "spoken": "פתיחות הרמונית {#harmonically-open}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פסוקית או מודול פתוחים הרמונית כאשר הם מסתיימים בהרמוניה שאינה טוניקה.</p>",
+      "source_text": "פסוקית או מודול פתוחים הרמונית כאשר הם מסתיימים בהרמוניה שאינה טוניקה.",
+      "spoken": "פסוקית או מודול פתוחים הרמונית כאשר הם מסתיימים בהרמוניה שאינה טוניקה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>טרנאראונד {#turnaround}</h3>",
+      "source_text": "טרנאראונד {#turnaround}",
+      "spoken": "טרנאראונד {#turnaround}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שימוש באקורד שאינו טוניקה, בדרך כלל דומיננטה, בסוף יחידה סגורה הרמונית, לצורך מעבר לפתיחת היחידה הבאה המתחילה בטוניקה. זהו turnaround, מהלך המוביל לחזרה.</p>",
+      "source_text": "שימוש באקורד שאינו טוניקה, בדרך כלל דומיננטה, בסוף יחידה סגורה הרמונית, לצורך מעבר לפתיחת היחידה הבאה המתחילה בטוניקה. זהו turnaround, מהלך המוביל לחזרה.",
+      "spoken": "שימוש באקורד שאינו טוניקה, בדרך כלל דומיננטה, בסוף יחידה סגורה הרמונית, לצורך מעבר לפתיחת היחידה הבאה המתחילה בטוניקה. זהו turnaround, מהלך המוביל לחזרה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Wooly Bully״ של Sam the Sham and the Pharoahs כולל turnaround בסוף רבות מהסטרופות שלו. אחד מופיע ב־0:54: אקורד V<sup>7</sup> פשוט המכין את חזרת I בפתיחת הסטרופה הבאה.</p>",
+      "source_text": "״Wooly Bully״ של Sam the Sham and the Pharoahs כולל turnaround בסוף רבות מהסטרופות שלו. אחד מופיע ב־0:54: אקורד V7 פשוט המכין את חזרת I בפתיחת הסטרופה הבאה.",
+      "spoken": "״Wooly Bully״ של Sam the Sham and the Pharoahs כולל turnaround בסוף רבות מהסטרופות שלו. אחד מופיע ב־0:54: אקורד V7 פשוט המכין את חזרת I בפתיחת הסטרופה הבאה."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — מונחים ומושגי יסוד\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — מונחים ומושגי יסוד. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z\">https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:2XkuSbp5say8nZW8g6156Z\">spotify:track:2XkuSbp5say8nZW8g6156Z</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z מזהה Spotify URI: spotify:track:2XkuSbp5say8nZW8g6156Z",
+      "spoken": "קישור HTML: https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z מזהה Spotify URI: spotify:track:2XkuSbp5say8nZW8g6156Z"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>מעניין שבשיר זה הגיטריסט אינו זוכר תמיד את ה־turnaround. ב־0:28 הבס וסקסופון הבריטון מנגנים את הדומיננטה, אך הגיטריסט נשאר בטוניקה. ב־1:18 הזמר קורא קריאות אזהרה, כאילו מזכיר לגיטריסט לא להחמיץ את המעבר בתיבה הבאה. הוא עושה זאת שוב ב־2:08. כאשר הגיטריסט מבצע את המעבר עם יתר הלהקה, הזמר קורא קריאות שבח, כאילו מברך אותו. פרשנות זו מובאת מדברי מחברי המקור.</em></p>",
+      "source_text": "מעניין שבשיר זה הגיטריסט אינו זוכר תמיד את ה־turnaround. ב־0:28 הבס וסקסופון הבריטון מנגנים את הדומיננטה, אך הגיטריסט נשאר בטוניקה. ב־1:18 הזמר קורא קריאות אזהרה, כאילו מזכיר לגיטריסט לא להחמיץ את המעבר בתיבה הבאה. הוא עושה זאת שוב ב־2:08. כאשר הגיטריסט מבצע את המעבר עם יתר הלהקה, הזמר קורא קריאות שבח, כאילו מברך אותו. פרשנות זו מובאת מדברי מחברי המקור.",
+      "spoken": "מעניין שבשיר זה הגיטריסט אינו זוכר תמיד את ה־turnaround. ב־0:28 הבס וסקסופון הבריטון מנגנים את הדומיננטה, אך הגיטריסט נשאר בטוניקה. ב־1:18 הזמר קורא קריאות אזהרה, כאילו מזכיר לגיטריסט לא להחמיץ את המעבר בתיבה הבאה. הוא עושה זאת שוב ב־2:08. כאשר הגיטריסט מבצע את המעבר עם יתר הלהקה, הזמר קורא קריאות שבח, כאילו מברך אותו. פרשנות זו מובאת מדברי מחברי המקור."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockForm.html\"><em>חזרה לסקירת הצורה בפופ וברוק.</em></a></p>",
+      "source_text": "חזרה לסקירת הצורה בפופ וברוק.",
+      "spoken": "חזרה לסקירת הצורה בפופ וברוק."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A2XkuSbp5say8nZW8g6156Z"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מדריך הפרוזודיה של אוניברסיטת Harvard",
+        "target": "https://poetry.harvard.edu/guide-prosody"
+      },
+      {
+        "label": "מילון Academy of American Poets",
+        "target": "https://poets.org/glossary/anapest"
+      },
+      {
+        "label": "Poetry’s Structure and Form",
+        "target": "http://www.vaniercollege.qc.ca/tlc//tipsheets/reading-and-analyzing/poem-form-and-structure.pdf"
+      },
+      {
+        "label": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z",
+        "target": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
+      },
+      {
+        "label": "spotify:track:0J6mQxEZnlRt9ymzFntA6z",
+        "target": "spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+      },
+      {
+        "label": "https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z",
+        "target": "https://open.spotify.com/track/2XkuSbp5say8nZW8g6156Z"
+      },
+      {
+        "label": "spotify:track:2XkuSbp5say8nZW8g6156Z",
+        "target": "spotify:track:2XkuSbp5say8nZW8g6156Z"
+      },
+      {
+        "label": "חזרה לסקירת הצורה בפופ וברוק.",
+        "target": "popRockForm.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

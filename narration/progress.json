@@ -1,59 +1,1478 @@
 {
-  "prepared_chapters": 6,
+  "prepared_chapters": 126,
   "total_chapters": 126,
-  "audio_production_enabled": false,
+  "audio_production_enabled": true,
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "opening_asset": "approved:00-introduction.mp3",
   "chapters": [
     {
       "chapter": 1,
       "source": "hebrew-introduction.md",
       "blocks": 8,
-      "visual_explanations": 0,
-      "status": "text-reviewed-awaiting-pronunciation-choice"
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "visual_explanations": 0
     },
     {
       "chapter": 2,
       "source": "fixed-and-movable-do.md",
       "blocks": 24,
-      "visual_explanations": 2,
-      "status": "text-reviewed-awaiting-pronunciation-choice"
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "visual_explanations": 2
     },
     {
       "chapter": 3,
       "source": "about.md",
       "blocks": 24,
-      "visual_explanations": 0,
-      "status": "text-reviewed-awaiting-pronunciation-choice"
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "visual_explanations": 0
     },
     {
       "chapter": 4,
       "source": "basicNotation.md",
       "blocks": 19,
-      "visual_explanations": 4,
-      "status": "text-reviewed-awaiting-pronunciation-choice"
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "visual_explanations": 4
     },
     {
       "chapter": 5,
       "source": "meter.md",
       "blocks": 42,
-      "media_explanations": 20,
-      "status": "text-reviewed-awaiting-pronunciation-choice"
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "visual_explanations": 0
     },
     {
       "chapter": 6,
       "source": "protonotation.md",
       "blocks": 37,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "visual_explanations": 12
+    },
+    {
+      "chapter": 7,
+      "source": "rhythmicValues.md",
+      "blocks": 12,
+      "visual_explanations": 4,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 8,
+      "source": "beams.md",
+      "blocks": 12,
+      "visual_explanations": 4,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 9,
+      "source": "pitches.md",
+      "blocks": 18,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 10,
+      "source": "scales.md",
+      "blocks": 25,
+      "visual_explanations": 7,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 11,
+      "source": "keySignatures.md",
+      "blocks": 27,
       "visual_explanations": 12,
-      "status": "text-reviewed-awaiting-pronunciation-choice"
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 12,
+      "source": "intervals.md",
+      "blocks": 65,
+      "visual_explanations": 4,
+      "tables": 1,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 13,
+      "source": "triads.md",
+      "blocks": 91,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 14,
+      "source": "motionTypes.md",
+      "blocks": 11,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 15,
+      "source": "speciesIntro.md",
+      "blocks": 16,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 16,
+      "source": "cantusFirmus.md",
+      "blocks": 35,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 2,
+      "status": "prepared-awaiting-media-review",
+      "pending": 2
+    },
+    {
+      "chapter": 17,
+      "source": "firstSpecies.md",
+      "blocks": 35,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "prepared-awaiting-media-review",
+      "pending": 2
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "blocks": 54,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 10,
+      "status": "prepared-awaiting-media-review",
+      "pending": 9
+    },
+    {
+      "chapter": 19,
+      "source": "thirdSpecies.md",
+      "blocks": 39,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 20,
+      "source": "fourthSpecies.md",
+      "blocks": 35,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "prepared-awaiting-media-review",
+      "pending": 1
+    },
+    {
+      "chapter": 21,
+      "source": "thoroughbassFigures.md",
+      "blocks": 48,
+      "visual_explanations": 4,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 22,
+      "source": "bassoContinuo-history.md",
+      "blocks": 9,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 23,
+      "source": "RNfromFB.md",
+      "blocks": 18,
+      "visual_explanations": 7,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 24,
+      "source": "bassoContinuo.md",
+      "blocks": 18,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 25,
+      "source": "tendency.md",
+      "blocks": 7,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 26,
+      "source": "tendencyTonesFunctionalDissonances.md",
+      "blocks": 22,
+      "visual_explanations": 0,
+      "tables": 1,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 27,
+      "source": "TBDemo.md",
+      "blocks": 4,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 28,
+      "source": "melodicKeyboardStyle.md",
+      "blocks": 9,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 29,
+      "source": "KBVLschemata.md",
+      "blocks": 39,
+      "visual_explanations": 13,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 30,
+      "source": "melodicKB.md",
+      "blocks": 2,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 31,
+      "source": "unfiguredBass.md",
+      "blocks": 6,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 32,
+      "source": "embellishingTones.md",
+      "blocks": 30,
+      "visual_explanations": 10,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 33,
+      "source": "functions.md",
+      "blocks": 4,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 34,
+      "source": "harmonicFunctions.md",
+      "blocks": 40,
+      "visual_explanations": 6,
+      "tables": 2,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 35,
+      "source": "harmonicSyntax1.md",
+      "blocks": 29,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "blocks": 59,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 11,
+      "status": "prepared-awaiting-media-review",
+      "pending": 11
+    },
+    {
+      "chapter": 37,
+      "source": "harmonicAnalysis.md",
+      "blocks": 18,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 38,
+      "source": "cadenceTypes.md",
+      "blocks": 24,
+      "visual_explanations": 6,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 39,
+      "source": "alteredSubdominants.md",
+      "blocks": 39,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 4,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 40,
+      "source": "appliedChords.md",
+      "blocks": 34,
+      "visual_explanations": 0,
+      "tables": 1,
+      "media": 3,
+      "status": "prepared-awaiting-media-review",
+      "pending": 3
+    },
+    {
+      "chapter": 41,
+      "source": "modalMixture.md",
+      "blocks": 9,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 42,
+      "source": "Modulation.md",
+      "blocks": 22,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 2,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 43,
+      "source": "sentence.md",
+      "blocks": 31,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 44,
+      "source": "period.md",
+      "blocks": 22,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 45,
+      "source": "hybridThemes.md",
+      "blocks": 34,
+      "visual_explanations": 8,
+      "tables": 0,
+      "media": 4,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 46,
+      "source": "compoundPeriod.md",
+      "blocks": 23,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 2,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 47,
+      "source": "compoundSentence.md",
+      "blocks": 10,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 48,
+      "source": "smallTernary.md",
+      "blocks": 15,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 49,
+      "source": "smallBinary.md",
+      "blocks": 12,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 50,
+      "source": "classicalThemes.md",
+      "blocks": 26,
+      "visual_explanations": 12,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 51,
+      "source": "themeFunctions.md",
+      "blocks": 25,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 52,
+      "source": "externalExpansions.md",
+      "blocks": 21,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 53,
+      "source": "internalExpansions.md",
+      "blocks": 26,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 4,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 54,
+      "source": "SonataTheory-intro.md",
+      "blocks": 55,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 55,
+      "source": "SonataTheory-exposition.md",
+      "blocks": 43,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 56,
+      "source": "sonataStructuralPointsOfArrival.md",
+      "blocks": 21,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 57,
+      "source": "sonataThematicModules.md",
+      "blocks": 30,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 58,
+      "source": "sonataRecap.md",
+      "blocks": 24,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 59,
+      "source": "sonataDevelopment.md",
+      "blocks": 18,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 60,
+      "source": "sonataFramingModules.md",
+      "blocks": 21,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 4,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 61,
+      "source": "rondo.md",
+      "blocks": 3,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 62,
+      "source": "thematicFunctionInRondo.md",
+      "blocks": 26,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 63,
+      "source": "fivePartRondo.md",
+      "blocks": 3,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 64,
+      "source": "sonataRondo.md",
+      "blocks": 6,
+      "visual_explanations": 0,
+      "tables": 1,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 65,
+      "source": "minuet.md",
+      "blocks": 23,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 66,
+      "source": "schemataOpensAndCloses.md",
+      "blocks": 20,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 67,
+      "source": "schemataContinuationPatterns.md",
+      "blocks": 21,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 68,
+      "source": "schemataSummary.md",
+      "blocks": 56,
+      "visual_explanations": 0,
+      "tables": 21,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 69,
+      "source": "schemata-improv.md",
+      "blocks": 57,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 7,
+      "status": "prepared-awaiting-media-review",
+      "pending": 5
+    },
+    {
+      "chapter": 70,
+      "source": "pitch(Class).md",
+      "blocks": 19,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 71,
+      "source": "interval(Class).md",
+      "blocks": 24,
+      "visual_explanations": 4,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 72,
+      "source": "mod12.md",
+      "blocks": 14,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 73,
+      "source": "scales2.md",
+      "blocks": 42,
+      "visual_explanations": 11,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 74,
+      "source": "symmetryAndCentricity.md",
+      "blocks": 15,
+      "visual_explanations": 6,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 75,
+      "source": "normalOrder.md",
+      "blocks": 13,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 76,
+      "source": "transposition.md",
+      "blocks": 9,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 77,
+      "source": "inversion.md",
+      "blocks": 11,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 78,
+      "source": "setClassAndPrimeForm1.md",
+      "blocks": 12,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 79,
+      "source": "setClassAndPrimeForm2.md",
+      "blocks": 8,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 80,
+      "source": "complements.md",
+      "blocks": 6,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 81,
+      "source": "commonTonesUnderTransposition.md",
+      "blocks": 10,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 82,
+      "source": "twelveToneBasics.md",
+      "blocks": 14,
+      "visual_explanations": 3,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 83,
+      "source": "twelveToneOperations.md",
+      "blocks": 8,
+      "visual_explanations": 2,
+      "tables": 0,
+      "media": 0,
+      "status": "prepared-awaiting-media-review",
+      "pending": 1
+    },
+    {
+      "chapter": 84,
+      "source": "twelveToneIntervallicStructure.md",
+      "blocks": 7,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 85,
+      "source": "twelveToneMusicDerivation.md",
+      "blocks": 4,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 86,
+      "source": "twelveToneMusicInvariance.md",
+      "blocks": 12,
+      "visual_explanations": 1,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 87,
+      "source": "postTonalAnalysis.md",
+      "blocks": 18,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 88,
+      "source": "atonal.md",
+      "blocks": 55,
+      "visual_explanations": 20,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 89,
+      "source": "twelveTone.md",
+      "blocks": 26,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 90,
+      "source": "atonalGlossary.md",
+      "blocks": 19,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 91,
+      "source": "syncopation.md",
+      "blocks": 31,
+      "visual_explanations": 5,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 92,
+      "source": "popRockHarmony.md",
+      "blocks": 33,
+      "visual_explanations": 0,
+      "tables": 1,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 93,
+      "source": "popRockHarmony-dooWop.md",
+      "blocks": 9,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 4,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 94,
+      "source": "popRockHarmony-sscp.md",
+      "blocks": 15,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 6,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 95,
+      "source": "popRockHarmony-puff.md",
+      "blocks": 4,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 2,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 96,
+      "source": "popRockHarmony-blues.md",
+      "blocks": 13,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 97,
+      "source": "popRockHarmony-lament.md",
+      "blocks": 4,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 98,
+      "source": "popRockHarmony-fifths.md",
+      "blocks": 9,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 99,
+      "source": "popRockHarmony-plagal.md",
+      "blocks": 14,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 5,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 100,
+      "source": "popRockForm.md",
+      "blocks": 50,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 101,
+      "source": "popRockForm-terms.md",
+      "blocks": 49,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 2,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 102,
+      "source": "popRockForm-containers.md",
+      "blocks": 52,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 103,
+      "source": "popRockForm-functions.md",
+      "blocks": 70,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 7,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 104,
+      "source": "popRockForm-notation.md",
+      "blocks": 13,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 105,
+      "source": "analyzingPoetry.md",
+      "blocks": 23,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 106,
+      "source": "trinket.md",
+      "blocks": 28,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 2,
+      "status": "prepared-awaiting-media-review",
+      "pending": 2
+    },
+    {
+      "chapter": 107,
+      "source": "popRockHarmony-EverettSystem3.md",
+      "blocks": 5,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 2,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 108,
+      "source": "popRockHarmony-minor.md",
+      "blocks": 7,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 109,
+      "source": "thematicStructureInTheClassicalStyle.md",
+      "blocks": 4,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 110,
+      "source": "melodicDictationDemo.md",
+      "blocks": 11,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 111,
+      "source": "melodicSequentials.md",
+      "blocks": 25,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 112,
+      "source": "popRockHarmony-EverettSystem4.md",
+      "blocks": 4,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 113,
+      "source": "sightSinging.md",
+      "blocks": 10,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 114,
+      "source": "addCC.md",
+      "blocks": 3,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 115,
+      "source": "SonataTheory-modules.md",
+      "blocks": 58,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 116,
+      "source": "whiteKeyMethod.md",
+      "blocks": 13,
+      "visual_explanations": 4,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 117,
+      "source": "GDrive.md",
+      "blocks": 5,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 118,
+      "source": "popRockHarmony-pachelbel.md",
+      "blocks": 11,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 119,
+      "source": "chromaticSolfege.md",
+      "blocks": 41,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 120,
+      "source": "popRockHarmony-EverettSystem5.md",
+      "blocks": 7,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 3,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 121,
+      "source": "popRockHarmony-EverettSystem2.md",
+      "blocks": 16,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 4,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 122,
+      "source": "createGraphic.md",
+      "blocks": 5,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 123,
+      "source": "VAT.md",
+      "blocks": 5,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 124,
+      "source": "MinuetForm.md",
+      "blocks": 24,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 0,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 125,
+      "source": "linkToTwitter.md",
+      "blocks": 3,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 1,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    },
+    {
+      "chapter": 126,
+      "source": "typesettingKBStyle.md",
+      "blocks": 7,
+      "visual_explanations": 0,
+      "tables": 0,
+      "media": 2,
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
+    }
+  ],
+  "review_complete_chapters": 117,
+  "pending": [
+    {
+      "chapter": 16,
+      "source": "cantusFirmus.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/da93d4d902"
+    },
+    {
+      "chapter": 16,
+      "source": "cantusFirmus.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/2df65adf8b"
+    },
+    {
+      "chapter": 17,
+      "source": "firstSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/a089e987ca"
+    },
+    {
+      "chapter": 17,
+      "source": "firstSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/585810f762"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/bd3da422f4"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/ef1cff1ee3"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/de54f539bb"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/f258be56b6"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/24c7f0ee8e"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/a79b68de03"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/827ad0b4a2"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/5764fe4a4b"
+    },
+    {
+      "chapter": 18,
+      "source": "secondSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/043d342ffa"
+    },
+    {
+      "chapter": 20,
+      "source": "fourthSpecies.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/22aa934458"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/026277e656"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/e02e8af4b3"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/51a20e2c7a"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/e12906a55e"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/519c9f039d"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/6a403a3d21"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/a23ec68873"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/69e6b9acb9"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/480c1acf9b"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/1e440d4768"
+    },
+    {
+      "chapter": 36,
+      "source": "harmonicSyntax2.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/3b6de8a510"
+    },
+    {
+      "chapter": 40,
+      "source": "appliedChords.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/c6b5004279"
+    },
+    {
+      "chapter": 40,
+      "source": "appliedChords.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/45c20d9624"
+    },
+    {
+      "chapter": 40,
+      "source": "appliedChords.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/9a8ff25f3c"
+    },
+    {
+      "chapter": 69,
+      "source": "schemata-improv.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/4ea073d8f1"
+    },
+    {
+      "chapter": 69,
+      "source": "schemata-improv.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/ee80a49382"
+    },
+    {
+      "chapter": 69,
+      "source": "schemata-improv.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/bcc2fe55de"
+    },
+    {
+      "chapter": 69,
+      "source": "schemata-improv.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/dcdfbf0994"
+    },
+    {
+      "chapter": 69,
+      "source": "schemata-improv.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/a63f2a06bc"
+    },
+    {
+      "chapter": 83,
+      "source": "twelveToneOperations.md",
+      "kind": "missing-image",
+      "asset": "Graphics/postTonal/abstractedRowClass.png"
+    },
+    {
+      "chapter": 106,
+      "source": "trinket.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/a089e987ca"
+    },
+    {
+      "chapter": 106,
+      "source": "trinket.md",
+      "kind": "external-score-unreviewed",
+      "target": "https://trinket.io/embed/music/91c673df7c"
     }
   ],
   "notes": [
-    "ניקוד תָּו זמני עד לבחירת דוגמת ההגייה.",
-    "הוסר סימון עיצוב בלבד; טקסט קישורים נשמר ומטרותיהם נמצאות בתיעוד המקור.",
-    "דוגמאות הקריינות אינן אישור להפקת הספר.",
-    "פרק 004: ארבעת האיורים נבדקו חזותית, כולל המעבר למפתח סול ביד שמאל בדוגמת קווי העזר.",
-    "פרק 005: נגני Vimeo ו־Spotify תוארו כקישורים; הכיתובים נשמרו בדיוק. לא נטען שתוכנם נצפה או הוקלט מחדש.",
-    "סיכום ההעברה טען שבאיור quadruple-F.png מודפס 4/4. בדיקה מחודשת והגדלה מראות בבירור 4/1, בהתאם לפסקת המקור. אין לתקן את המקור בשל ממצא הבדיקה הקודם.",
-    "מלל המקור נשמר לאחר הסרת עיצוב וקישורים בלבד. בפרק זה אין ניקוד ניסויי; ההגייה הכוללת עדיין ממתינה לבחירה."
-  ],
-  "opening_asset": "approved:00-introduction.mp3"
+    "Every singular musical תו, including prefixes, is pointed תָּו in spoken text.",
+    "116 chapters approved for generation; 10 excluded until unresolved media/source review is complete.",
+    "Generated audio still requires listening review.",
+    "Chapter 10 image rechecked: natural sign correctly printed; ready for next batch, excluded from the unchanged approved 116."
+  ]
 }

@@ -1,0 +1,138 @@
+{
+  "chapter": 121,
+  "source": "popRockHarmony-EverettSystem2.md",
+  "title": "121 — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים",
+  "source_sha256": "eb66d24ce6afb072374ed50ed0eb3504be787b2b2bcd5f1cd439ad73b018261b",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מוזיקת פופ ורוק רבה אינה נשענת רק על מערכת המז׳ור והמינור הקלאסית, אלא גם על מודוסים דיאטוניים. אלה אינם המודוסים כפי ששימשו בכנסייה הנוצרית בימי הביניים, אלא המודוסים הדיאטוניים הנפוצים במוזיקה עממית מערבית, בייחוד אנגלית וקלטית.</p>",
+      "source_text": "מוזיקת פופ ורוק רבה אינה נשענת רק על מערכת המז׳ור והמינור הקלאסית, אלא גם על מודוסים דיאטוניים. אלה אינם המודוסים כפי ששימשו בכנסייה הנוצרית בימי הביניים, אלא המודוסים הדיאטוניים הנפוצים במוזיקה עממית מערבית, בייחוד אנגלית וקלטית.",
+      "spoken": "מוזיקת פופ ורוק רבה אינה נשענת רק על מערכת המז׳ור והמינור הקלאסית, אלא גם על מודוסים דיאטוניים. אלה אינם המודוסים כפי ששימשו בכנסייה הנוצרית בימי הביניים, אלא המודוסים הדיאטוניים הנפוצים במוזיקה עממית מערבית, בייחוד אנגלית וקלטית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המודוסים הנפוצים ביותר ב״מערכת טונלית״ זו של פופ ורוק הם:</p>",
+      "source_text": "המודוסים הנפוצים ביותר ב״מערכת טונלית״ זו של פופ ורוק הם:",
+      "spoken": "המודוסים הנפוצים ביותר ב״מערכת טונלית״ זו של פופ ורוק הם:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><strong>דורי:</strong> <em>do re me fa sol la te do</em></li>",
+      "source_text": "דורי: do re me fa sol la te do",
+      "spoken": "דורי: do re me fa sol la te do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><strong>מיקסולידי:</strong> <em>do re mi fa sol la te do</em></li>",
+      "source_text": "מיקסולידי: do re mi fa sol la te do",
+      "spoken": "מיקסולידי: do re mi fa sol la te do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><strong>אאולי:</strong> <em>do re me fa sol le te do</em></li>",
+      "source_text": "אאולי: do re me fa sol le te do",
+      "spoken": "אאולי: do re me fa sol le te do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>גם לידי אפשרי, אך נדיר. לוקרי נדיר עוד יותר, בשל דרגת הסולם החמישית המונמכת שלו. פריגי נפוץ, אך בדרך כלל כחלק מ<a href=\"popRockHarmony-EverettSystem5.html\">״מערכת 5״ של Everett</a>. ההברות הן בדו יחסי.</em></p>",
+      "source_text": "גם לידי אפשרי, אך נדיר. לוקרי נדיר עוד יותר, בשל דרגת הסולם החמישית המונמכת שלו. פריגי נפוץ, אך בדרך כלל כחלק מ״מערכת 5״ של Everett. ההברות הן בדו יחסי.",
+      "spoken": "גם לידי אפשרי, אך נדיר. לוקרי נדיר עוד יותר, בשל דרגת הסולם החמישית המונמכת שלו. פריגי נפוץ, אך בדרך כלל כחלק מ״מערכת 5״ של Everett. ההברות הן בדו יחסי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ההרמוניות האופייניות לפופ ולרוק מודאליים מדגישות מאוד את <strong>flat-VII</strong> כאקורד ״דומיננטה״ ראשי במקום <strong>V</strong> ואפילו <strong>v</strong>, שכן ארבעת המודוסים הנפוצים האמורים מכילים <em>te</em>, לפי ניסוח המקור. גם <strong>flat-VI</strong> נפוץ באאולי, ו־<strong>flat-III</strong> בדורי ובאאולי.</p>",
+      "source_text": "ההרמוניות האופייניות לפופ ולרוק מודאליים מדגישות מאוד את flat-VII כאקורד ״דומיננטה״ ראשי במקום V ואפילו v, שכן ארבעת המודוסים הנפוצים האמורים מכילים te, לפי ניסוח המקור. גם flat-VI נפוץ באאולי, ו־flat-III בדורי ובאאולי.",
+      "spoken": "ההרמוניות האופייניות לפופ ולרוק מודאליים מדגישות מאוד את flat-VII כאקורד ״דומיננטה״ ראשי במקום V ואפילו v, שכן ארבעת המודוסים הנפוצים האמורים מכילים te, לפי ניסוח המקור. גם flat-VI נפוץ באאולי, ו־flat-III בדורי ובאאולי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>דוגמה ברורה היא ״Scarborough Fair״ של Simon &amp; Garfunkel. השיר מבוסס על מלודיה עממית דורית, וההרמוניה משקפת את המקור העממי ומדגישה <strong>i</strong>, ‏<strong>III</strong> ו־<strong>flat-VII</strong>.</p>",
+      "source_text": "דוגמה ברורה היא ״Scarborough Fair״ של Simon & Garfunkel. השיר מבוסס על מלודיה עממית דורית, וההרמוניה משקפת את המקור העממי ומדגישה i, III ו־flat-VII.",
+      "spoken": "דוגמה ברורה היא ״Scarborough Fair״ של Simon & Garfunkel. השיר מבוסס על מלודיה עממית דורית, וההרמוניה משקפת את המקור העממי ומדגישה i, III ו־flat-VII."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:53uzBMME2GSfpUVtOtiLvA\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:53uzBMME2GSfpUVtOtiLvA",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>השפה ההרמונית הזאת נמצאת גם ביצירות מקוריות שלהם, כגון ״The Sound of Silence״, המבוסס על אאולי.</p>",
+      "source_text": "השפה ההרמונית הזאת נמצאת גם ביצירות מקוריות שלהם, כגון ״The Sound of Silence״, המבוסס על אאולי.",
+      "spoken": "השפה ההרמונית הזאת נמצאת גם ביצירות מקוריות שלהם, כגון ״The Sound of Silence״, המבוסס על אאולי."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:7eQUgarLukHLkZaO1mxtab\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:7eQUgarLukHLkZaO1mxtab",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>U2, הלהקה האירית, משתמשת לעיתים קרובות בטונליות מודאלית. למשל, המבוא והבית של ״In God’s Country״ בנויים על חילופים בין <strong>I</strong> ל־<strong>v</strong>, במיקסולידי. הפזמון עולה בצעד לסולם אחר ועובר לאאולי או לדורי: אין בו <em>la</em> או <em>le</em> שיאפשרו להבחין ביניהם.</p>",
+      "source_text": "U2, הלהקה האירית, משתמשת לעיתים קרובות בטונליות מודאלית. למשל, המבוא והבית של ״In God’s Country״ בנויים על חילופים בין I ל־v, במיקסולידי. הפזמון עולה בצעד לסולם אחר ועובר לאאולי או לדורי: אין בו la או le שיאפשרו להבחין ביניהם.",
+      "spoken": "U2, הלהקה האירית, משתמשת לעיתים קרובות בטונליות מודאלית. למשל, המבוא והבית של ״In God’s Country״ בנויים על חילופים בין I ל־v, במיקסולידי. הפזמון עולה בצעד לסולם אחר ועובר לאאולי או לדורי: אין בו la או le שיאפשרו להבחין ביניהם."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:7GJg0Pvbb4nqWTwGmkXF1S\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:7GJg0Pvbb4nqWTwGmkXF1S",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Sunday, Bloody Sunday״ הוא דוגמה מובהקת נוספת של U2 המבוססת על אאולי, בהרמוניה של <strong>i</strong>, ‏<strong>III</strong> ו־<strong>flat-VI</strong>. שימו לב לסיומת המזדמנת במז׳ור המקביל, המבוססת על המהלך ״הפלגלי הכפול״ <strong>flat-VII IV I</strong>.</p>",
+      "source_text": "״Sunday, Bloody Sunday״ הוא דוגמה מובהקת נוספת של U2 המבוססת על אאולי, בהרמוניה של i, III ו־flat-VI. שימו לב לסיומת המזדמנת במז׳ור המקביל, המבוססת על המהלך ״הפלגלי הכפול״ flat-VII IV I.",
+      "spoken": "״Sunday, Bloody Sunday״ הוא דוגמה מובהקת נוספת של U2 המבוססת על אאולי, בהרמוניה של i, III ו־flat-VI. שימו לב לסיומת המזדמנת במז׳ור המקביל, המבוססת על המהלך ״הפלגלי הכפול״ flat-VII IV I."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" class=\"spotify\" frameborder=\"0\" src=\"https://embed.spotify.com/?uri=spotify:track:6C4LXC9UFH1IKiHYOp0BiJ\" title=\"דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:6C4LXC9UFH1IKiHYOp0BiJ",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — טונליות בפופ וברוק השואבת ממודוסים דיאטוניים. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערת תרגום: המקור אומר ״ארבעת המודוסים הנפוצים״ לאחר רשימה של שלושה. פריגי מוזכר בסוגריים ומכיל te, אך לידי אינו מכיל te. אין להסיק את הטענה על כל המודוסים שהוזכרו; ניסוח המנייה נשמר כטענת מקור והסוגיה מתועדת.</p>",
+      "source_text": "הערת תרגום: המקור אומר ״ארבעת המודוסים הנפוצים״ לאחר רשימה של שלושה. פריגי מוזכר בסוגריים ומכיל te, אך לידי אינו מכיל te. אין להסיק את הטענה על כל המודוסים שהוזכרו; ניסוח המנייה נשמר כטענת מקור והסוגיה מתועדת.",
+      "spoken": "הערת תרגום: המקור אומר ״ארבעת המודוסים הנפוצים״ לאחר רשימה של שלושה. פריגי מוזכר בסוגריים ומכיל te, אך לידי אינו מכיל te. אין להסיק את הטענה על כל המודוסים שהוזכרו; ניסוח המנייה נשמר כטענת מקור והסוגיה מתועדת."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:53uzBMME2GSfpUVtOtiLvA",
+      "https://embed.spotify.com/?uri=spotify:track:7eQUgarLukHLkZaO1mxtab",
+      "https://embed.spotify.com/?uri=spotify:track:7GJg0Pvbb4nqWTwGmkXF1S",
+      "https://embed.spotify.com/?uri=spotify:track:6C4LXC9UFH1IKiHYOp0BiJ"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "״מערכת 5״ של Everett",
+        "target": "popRockHarmony-EverettSystem5.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

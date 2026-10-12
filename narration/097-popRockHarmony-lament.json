@@ -1,0 +1,60 @@
+{
+  "chapter": 97,
+  "source": "popRockHarmony-lament.md",
+  "title": "097 — מהלך הקינה",
+  "source_sha256": "a1cee002e6a8814ef2ce97a38f9c7b5455b62e69ba453d55a38f539f67ff1e21",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>||: I – VII – VI – V :||</strong></p>",
+      "source_text": "||: I – VII – VI – V :||",
+      "spoken": "||: I – VII – VI – V :||"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מהלך זה אינו חייב להופיע במחזור, אך לעיתים הוא מחזורי. הוא נקרא ״מהלך הקינה״ (lament progression) מפני שבמוזיקה קלאסית מוקדמת שימש מהלך האקורדים הזה, כמעט תמיד במינור, כ<em>בס חוזר</em> (ground bass) בשירי קינה: דגם בס חוזר המשמש בסיס לסדרת וריאציות, בדומה למהלכים המחזוריים של שירי פופ ורוק. דוגמאות הן ״קינת דידו״ של Henry Purcell מתוך האופרה <em>דידו ואניאס</em>, ו־״Crucifixus״ של J.S. Bach מתוך המיסה ב־B מינור.</p>",
+      "source_text": "מהלך זה אינו חייב להופיע במחזור, אך לעיתים הוא מחזורי. הוא נקרא ״מהלך הקינה״ (lament progression) מפני שבמוזיקה קלאסית מוקדמת שימש מהלך האקורדים הזה, כמעט תמיד במינור, כבס חוזר (ground bass) בשירי קינה: דגם בס חוזר המשמש בסיס לסדרת וריאציות, בדומה למהלכים המחזוריים של שירי פופ ורוק. דוגמאות הן ״קינת דידו״ של Henry Purcell מתוך האופרה דידו ואניאס, ו־״Crucifixus״ של J.S. Bach מתוך המיסה ב־B מינור.",
+      "spoken": "מהלך זה אינו חייב להופיע במחזור, אך לעיתים הוא מחזורי. הוא נקרא ״מהלך הקינה״ (lament progression) מפני שבמוזיקה קלאסית מוקדמת שימש מהלך האקורדים הזה, כמעט תמיד במינור, כבס חוזר (ground bass) בשירי קינה: דגם בס חוזר המשמש בסיס לסדרת וריאציות, בדומה למהלכים המחזוריים של שירי פופ ורוק. דוגמאות הן ״קינת דידו״ של Henry Purcell מתוך האופרה דידו ואניאס, ו־״Crucifixus״ של J.S. Bach מתוך המיסה ב־B מינור."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פתיחת הבית ב־״Thoughts of a Dying Atheist״ של Muse היא דוגמה בולטת ממוזיקת הפופ והרוק שהייתה חדשה בעת כתיבת המקור. אחריה מופיע <a href=\"popRockHarmony-fifths.html\">מהלך מעגל הקווינטות</a>.</p>",
+      "source_text": "פתיחת הבית ב־״Thoughts of a Dying Atheist״ של Muse היא דוגמה בולטת ממוזיקת הפופ והרוק שהייתה חדשה בעת כתיבת המקור. אחריה מופיע מהלך מעגל הקווינטות.",
+      "spoken": "פתיחת הבית ב־״Thoughts of a Dying Atheist״ של Muse היא דוגמה בולטת ממוזיקת הפופ והרוק שהייתה חדשה בעת כתיבת המקור. אחריה מופיע מהלך מעגל הקווינטות."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw\" title=\"דוגמה מוזיקלית להאזנה — מהלך הקינה\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — מהלך הקינה. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:7LB6xhGZ0jCbP3PfUDA7yw"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מהלך מעגל הקווינטות",
+        "target": "popRockHarmony-fifths.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

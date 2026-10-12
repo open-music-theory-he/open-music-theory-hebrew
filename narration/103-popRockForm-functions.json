@@ -1,0 +1,528 @@
+{
+  "chapter": 103,
+  "source": "popRockForm-functions.md",
+  "title": "103 — צורה בפופ וברוק — פונקציות צורניות",
+  "source_sha256": "bb884177c773a288f85f46bcda4b4fdea0972c5cde0c425756f26f96e79c0e10",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>פונקציות למודולים ראשיים {#functions-for-primary-modules}</h2>",
+      "source_text": "פונקציות למודולים ראשיים {#functions-for-primary-modules}",
+      "spoken": "פונקציות למודולים ראשיים {#functions-for-primary-modules}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>סטרופה — A {#strophe-a}</h3>",
+      "source_text": "סטרופה — A {#strophe-a}",
+      "spoken": "סטרופה — A {#strophe-a}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הפונקציה הראשית של מודול סטרופה (strophe) היא ״להציג את התוכן המילולי והמוזיקלי הראשי ולספק נקודה שבה השיר עשוי להסתיים באופן מספק״ (Summach, עמ׳ 58).</p>",
+      "source_text": "הפונקציה הראשית של מודול סטרופה (strophe) היא ״להציג את התוכן המילולי והמוזיקלי הראשי ולספק נקודה שבה השיר עשוי להסתיים באופן מספק״ (Summach, עמ׳ 58).",
+      "spoken": "הפונקציה הראשית של מודול סטרופה (strophe) היא ״להציג את התוכן המילולי והמוזיקלי הראשי ולספק נקודה שבה השיר עשוי להסתיים באופן מספק״ (Summach, עמ׳ 58)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בצורה סטרופית, AAA, הסטרופות הן מודולי הליבה היחידים, ולכן אינן משתתפות במהלך פונקציונלי. מהלך כזה מתרחש ברמת הפסוקית בתוך הסטרופה. כל מודול סטרופה נוטה להלחין בית שירי במוזיקה העומדת בפני עצמה וסגורה הרמונית.</p>",
+      "source_text": "בצורה סטרופית, AAA, הסטרופות הן מודולי הליבה היחידים, ולכן אינן משתתפות במהלך פונקציונלי. מהלך כזה מתרחש ברמת הפסוקית בתוך הסטרופה. כל מודול סטרופה נוטה להלחין בית שירי במוזיקה העומדת בפני עצמה וסגורה הרמונית.",
+      "spoken": "בצורה סטרופית, AAA, הסטרופות הן מודולי הליבה היחידים, ולכן אינן משתתפות במהלך פונקציונלי. מהלך כזה מתרחש ברמת הפסוקית בתוך הסטרופה. כל מודול סטרופה נוטה להלחין בית שירי במוזיקה העומדת בפני עצמה וסגורה הרמונית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לדוגמאות לסטרופה ראו ״Blue Suede Shoes״ של Carl Perkins.</p>",
+      "source_text": "לדוגמאות לסטרופה ראו ״Blue Suede Shoes״ של Carl Perkins.",
+      "spoken": "לדוגמאות לסטרופה ראו ״Blue Suede Shoes״ של Carl Perkins."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h\">https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:7bglJCaprPQTfDfovdJS2h\">spotify:track:7bglJCaprPQTfDfovdJS2h</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h מזהה Spotify URI: spotify:track:7bglJCaprPQTfDfovdJS2h",
+      "spoken": "קישור HTML: https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h מזהה Spotify URI: spotify:track:7bglJCaprPQTfDfovdJS2h"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:00 — סטרופה 1</li>",
+      "source_text": "0:00 — סטרופה 1",
+      "spoken": "0:00 — סטרופה 1"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:19 — סטרופה 2</li>",
+      "source_text": "0:19 — סטרופה 2",
+      "spoken": "0:19 — סטרופה 2"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:41 — סטרופה כלית</li>",
+      "source_text": "0:41 — סטרופה כלית",
+      "spoken": "0:41 — סטרופה כלית"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>0:58 — סטרופה 3</li>",
+      "source_text": "0:58 — סטרופה 3",
+      "spoken": "0:58 — סטרופה 3"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:21 — סטרופה כלית</li>",
+      "source_text": "1:21 — סטרופה כלית",
+      "spoken": "1:21 — סטרופה כלית"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:37 — סטרופה 1, חזרה בשינוי קל</li>",
+      "source_text": "1:37 — סטרופה 1, חזרה בשינוי קל",
+      "spoken": "1:37 — סטרופה 1, חזרה בשינוי קל"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>1:54 — סטרופה 4</li>",
+      "source_text": "1:54 — סטרופה 4",
+      "spoken": "1:54 — סטרופה 4"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בצורת 32 תיבות, AABA, הניגוד לגשר מבליט את תפקידי הסטרופה: נשיאת הטקסט והמוזיקה <em>הראשיים</em> ונקודת מוצא וחזרה יציבה. בשירי AABA פונקציית הסטרופה כרוכה לעיתים קרובות בהארכת הרמוניית הטוניקה. סטרופות נוטות להיות ארוכות יותר בשירים סטרופיים מאשר ב־AABA. בשתי הצורות <em>srdc</em> הוא הדגם הפנימי הנפוץ ביותר בפער ניכר. בסטרופות בעלות שלושה חלקים, מהלך בלוז בן 12 תיבות הוא הדגם הנפוץ ביותר.</p>",
+      "source_text": "בצורת 32 תיבות, AABA, הניגוד לגשר מבליט את תפקידי הסטרופה: נשיאת הטקסט והמוזיקה הראשיים ונקודת מוצא וחזרה יציבה. בשירי AABA פונקציית הסטרופה כרוכה לעיתים קרובות בהארכת הרמוניית הטוניקה. סטרופות נוטות להיות ארוכות יותר בשירים סטרופיים מאשר ב־AABA. בשתי הצורות srdc הוא הדגם הפנימי הנפוץ ביותר בפער ניכר. בסטרופות בעלות שלושה חלקים, מהלך בלוז בן 12 תיבות הוא הדגם הנפוץ ביותר.",
+      "spoken": "בצורת 32 תיבות, AABA, הניגוד לגשר מבליט את תפקידי הסטרופה: נשיאת הטקסט והמוזיקה הראשיים ונקודת מוצא וחזרה יציבה. בשירי AABA פונקציית הסטרופה כרוכה לעיתים קרובות בהארכת הרמוניית הטוניקה. סטרופות נוטות להיות ארוכות יותר בשירים סטרופיים מאשר ב־AABA. בשתי הצורות srdc הוא הדגם הפנימי הנפוץ ביותר בפער ניכר. בסטרופות בעלות שלושה חלקים, מהלך בלוז בן 12 תיבות הוא הדגם הנפוץ ביותר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Strangers in the Night״ של Frank Sinatra בצורת AABA. שתי הסטרופות הראשונות מתחילות ב־0:10 וב־0:31.</p>",
+      "source_text": "״Strangers in the Night״ של Frank Sinatra בצורת AABA. שתי הסטרופות הראשונות מתחילות ב־0:10 וב־0:31.",
+      "spoken": "״Strangers in the Night״ של Frank Sinatra בצורת AABA. שתי הסטרופות הראשונות מתחילות ב־0:10 וב־0:31."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A3O8s4pon1omITzB07t6oNx\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A3O8s4pon1omITzB07t6oNx",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx\">https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:3O8s4pon1omITzB07t6oNx\">spotify:track:3O8s4pon1omITzB07t6oNx</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx מזהה Spotify URI: spotify:track:3O8s4pon1omITzB07t6oNx",
+      "spoken": "קישור HTML: https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx מזהה Spotify URI: spotify:track:3O8s4pon1omITzB07t6oNx"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>פזמון — C {#chorus-c}</h3>",
+      "source_text": "פזמון — C {#chorus-c}",
+      "spoken": "פזמון — C {#chorus-c}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודולי פזמון (chorus) הם בעלי מילים קבועות ומכילים את החומר המילולי הראשי של השיר. פונקציית הפזמון מתאפיינת גם בעצימות מוזיקלית מוגברת ביחס לבית: למשל, ״מרקם כלי צפוף או פעיל יותר; קולות רקע בולטים; ו/או מלודיה ברגיסטר גבוה יותר״ (Summach, עמ׳ 106). פזמונים מתחילים לרוב, אך לא תמיד, בטוניקה.</p>",
+      "source_text": "מודולי פזמון (chorus) הם בעלי מילים קבועות ומכילים את החומר המילולי הראשי של השיר. פונקציית הפזמון מתאפיינת גם בעצימות מוזיקלית מוגברת ביחס לבית: למשל, ״מרקם כלי צפוף או פעיל יותר; קולות רקע בולטים; ו/או מלודיה ברגיסטר גבוה יותר״ (Summach, עמ׳ 106). פזמונים מתחילים לרוב, אך לא תמיד, בטוניקה.",
+      "spoken": "מודולי פזמון (chorus) הם בעלי מילים קבועות ומכילים את החומר המילולי הראשי של השיר. פונקציית הפזמון מתאפיינת גם בעצימות מוזיקלית מוגברת ביחס לבית: למשל, ״מרקם כלי צפוף או פעיל יותר; קולות רקע בולטים; ו/או מלודיה ברגיסטר גבוה יותר״ (Summach, עמ׳ 106). פזמונים מתחילים לרוב, אך לא תמיד, בטוניקה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פזמונים נבדלים משורות חוזרות (refrains) בעיקר בכך שהם מודולים בפני עצמם, ואילו שורות חוזרות נמצאות בתוך מודול.</p>",
+      "source_text": "פזמונים נבדלים משורות חוזרות (refrains) בעיקר בכך שהם מודולים בפני עצמם, ואילו שורות חוזרות נמצאות בתוך מודול.",
+      "spoken": "פזמונים נבדלים משורות חוזרות (refrains) בעיקר בכך שהם מודולים בפני עצמם, ואילו שורות חוזרות נמצאות בתוך מודול."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>דוגמה לפזמון מופיעה ב־1:34 ב־״Livin’ on a Prayer״ של Bon Jovi.</p>",
+      "source_text": "דוגמה לפזמון מופיעה ב־1:34 ב־״Livin’ on a Prayer״ של Bon Jovi.",
+      "spoken": "דוגמה לפזמון מופיעה ב־1:34 ב־״Livin’ on a Prayer״ של Bon Jovi."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z\">https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:0J6mQxEZnlRt9ymzFntA6z\">spotify:track:0J6mQxEZnlRt9ymzFntA6z</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z מזהה Spotify URI: spotify:track:0J6mQxEZnlRt9ymzFntA6z",
+      "spoken": "קישור HTML: https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z מזהה Spotify URI: spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>פונקציות למודולים משניים {#functions-for-secondary-modules}</h2>",
+      "source_text": "פונקציות למודולים משניים {#functions-for-secondary-modules}",
+      "spoken": "פונקציות למודולים משניים {#functions-for-secondary-modules}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>גשר — B {#bridge-b}</h3>",
+      "source_text": "גשר — B {#bridge-b}",
+      "spoken": "גשר — B {#bridge-b}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פונקציית הגשר (bridge) חולקת תכונות רבות עם <a href=\"themeFunctions.html\">פונקציית ההמשך</a> בצורה קלאסית. מודולי גשר נוטים לשמש מעבר במחזור הצורני — לא נקודת מוצא ולא נקודת הגעה — וליצור ציפייה חזקה לחזרת המודול הראשי, A או C, באמצעות ניגוד אליו ועיכובו הזמני. ״עליו להיות מלווה לאחריו [במודול הראשי] כדי שתפקידו יתממש״ (Summach, עמ׳ 79), אם כי בצורת VC גשר יכול להוביל לבית אחרון ואף למבוא באמצע השיר; ראו ״Pride (In the Name of Love)״ של U2. גשרים נוטים להדגיש הרמוניות שאינן טוניקה ולרוב מסתיימים בדומיננטה.</p>",
+      "source_text": "פונקציית הגשר (bridge) חולקת תכונות רבות עם פונקציית ההמשך בצורה קלאסית. מודולי גשר נוטים לשמש מעבר במחזור הצורני — לא נקודת מוצא ולא נקודת הגעה — וליצור ציפייה חזקה לחזרת המודול הראשי, A או C, באמצעות ניגוד אליו ועיכובו הזמני. ״עליו להיות מלווה לאחריו [במודול הראשי] כדי שתפקידו יתממש״ (Summach, עמ׳ 79), אם כי בצורת VC גשר יכול להוביל לבית אחרון ואף למבוא באמצע השיר; ראו ״Pride (In the Name of Love)״ של U2. גשרים נוטים להדגיש הרמוניות שאינן טוניקה ולרוב מסתיימים בדומיננטה.",
+      "spoken": "פונקציית הגשר (bridge) חולקת תכונות רבות עם פונקציית ההמשך בצורה קלאסית. מודולי גשר נוטים לשמש מעבר במחזור הצורני — לא נקודת מוצא ולא נקודת הגעה — וליצור ציפייה חזקה לחזרת המודול הראשי, A או C, באמצעות ניגוד אליו ועיכובו הזמני. ״עליו להיות מלווה לאחריו [במודול הראשי] כדי שתפקידו יתממש״ (Summach, עמ׳ 79), אם כי בצורת VC גשר יכול להוביל לבית אחרון ואף למבוא באמצע השיר; ראו ״Pride (In the Name of Love)״ של U2. גשרים נוטים להדגיש הרמוניות שאינן טוניקה ולרוב מסתיימים בדומיננטה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בשירי VC הגשר חופשי יותר ליצור ניגוד לבית ולפזמון ללא צורך חזק לבנות ציפייה לחזרת הפזמון, בהשוואה ל־AABA. ב־AABA בניית הציפייה לחזרת הסטרופה והגעה לדומיננטה כהכנה לחזרה חיוניות לפונקציית הגשר.</p>",
+      "source_text": "בשירי VC הגשר חופשי יותר ליצור ניגוד לבית ולפזמון ללא צורך חזק לבנות ציפייה לחזרת הפזמון, בהשוואה ל־AABA. ב־AABA בניית הציפייה לחזרת הסטרופה והגעה לדומיננטה כהכנה לחזרה חיוניות לפונקציית הגשר.",
+      "spoken": "בשירי VC הגשר חופשי יותר ליצור ניגוד לבית ולפזמון ללא צורך חזק לבנות ציפייה לחזרת הפזמון, בהשוואה ל־AABA. ב־AABA בניית הציפייה לחזרת הסטרופה והגעה לדומיננטה כהכנה לחזרה חיוניות לפונקציית הגשר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לדוגמאות לגשרים ב־AABA ראו ״Strangers in the Night״, בהקלטה שלעיל, או ״I Want to Hold Your Hand״ של The Beatles.</p>",
+      "source_text": "לדוגמאות לגשרים ב־AABA ראו ״Strangers in the Night״, בהקלטה שלעיל, או ״I Want to Hold Your Hand״ של The Beatles.",
+      "spoken": "לדוגמאות לגשרים ב־AABA ראו ״Strangers in the Night״, בהקלטה שלעיל, או ״I Want to Hold Your Hand״ של The Beatles."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Come On Eileen״ של Dexy’s Midnight Runners כולל גשר בשיר בית–פזמון ב־2:55. הוא מסתיים ב<em>טיפוס</em> (climb) השאול מהבתים, שהמקור מציין אף אותו ב־2:55, ומכין הגעה לפזמון ב־3:34.</p>",
+      "source_text": "״Come On Eileen״ של Dexy’s Midnight Runners כולל גשר בשיר בית–פזמון ב־2:55. הוא מסתיים בטיפוס (climb) השאול מהבתים, שהמקור מציין אף אותו ב־2:55, ומכין הגעה לפזמון ב־3:34.",
+      "spoken": "״Come On Eileen״ של Dexy’s Midnight Runners כולל גשר בשיר בית–פזמון ב־2:55. הוא מסתיים בטיפוס (climb) השאול מהבתים, שהמקור מציין אף אותו ב־2:55, ומכין הגעה לפזמון ב־3:34."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A0EMmVUYs9ZZRHtlADB88uz\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A0EMmVUYs9ZZRHtlADB88uz",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz\">https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:0EMmVUYs9ZZRHtlADB88uz\">spotify:track:0EMmVUYs9ZZRHtlADB88uz</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz מזהה Spotify URI: spotify:track:0EMmVUYs9ZZRHtlADB88uz",
+      "spoken": "קישור HTML: https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz מזהה Spotify URI: spotify:track:0EMmVUYs9ZZRHtlADB88uz"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>בית — V {#verse-v}</h3>",
+      "source_text": "בית — V {#verse-v}",
+      "spoken": "בית — V {#verse-v}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודולי בית (verse) הם בעלי מילים משתנות, ולעיתים קרובות מילותיהם מקדמות את הסיפור. עד שנות השישים הם נטו להיות סגורים הרמונית. משנות השישים גדלה הנטייה לפתיחות הרמונית (Summach, עמ׳ 114). בתים, כמו סטרופות, נוטים להתחיל בטוניקה.</p>",
+      "source_text": "מודולי בית (verse) הם בעלי מילים משתנות, ולעיתים קרובות מילותיהם מקדמות את הסיפור. עד שנות השישים הם נטו להיות סגורים הרמונית. משנות השישים גדלה הנטייה לפתיחות הרמונית (Summach, עמ׳ 114). בתים, כמו סטרופות, נוטים להתחיל בטוניקה.",
+      "spoken": "מודולי בית (verse) הם בעלי מילים משתנות, ולעיתים קרובות מילותיהם מקדמות את הסיפור. עד שנות השישים הם נטו להיות סגורים הרמונית. משנות השישים גדלה הנטייה לפתיחות הרמונית (Summach, עמ׳ 114). בתים, כמו סטרופות, נוטים להתחיל בטוניקה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הבית הראשון והשני ב־״Livin’ on a Prayer״, בהקלטה שלעיל, מתחילים ב־0:44 וב־1:52, בהתאמה.</p>",
+      "source_text": "הבית הראשון והשני ב־״Livin’ on a Prayer״, בהקלטה שלעיל, מתחילים ב־0:44 וב־1:52, בהתאמה.",
+      "spoken": "הבית הראשון והשני ב־״Livin’ on a Prayer״, בהקלטה שלעיל, מתחילים ב־0:44 וב־1:52, בהתאמה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>קדם־פזמון — P {#prechorus-p}</h3>",
+      "source_text": "קדם־פזמון — P {#prechorus-p}",
+      "spoken": "קדם־פזמון — P {#prechorus-p}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פונקציית קדם־הפזמון (prechorus) מתאפיינת בעיקר בעלייה באנרגיה. מקורם ההיסטורי של מודולים אלה הוא חלק <em>d</em>, ההתרחקות, בדגם <em>srdc</em>. דמיינו סטרופת <em>srdc</em> המתארכת עד ש־<em>sr</em> נעשה מודול בית עצמאי בעל שני חלקים, או שני מודולי בית רצופים; <em>d</em> נעשה קדם־פזמון עצמאי; ו־<em>c</em> נעשה פזמון עצמאי. לכן קדם־פזמונים נושאים רבות מתכונות <em>d</em>: פירוק למקטעים, האצת הקצב ההרמוני והתרחקות מהטוניקה, לצד פתיחות הרמונית.</p>",
+      "source_text": "פונקציית קדם־הפזמון (prechorus) מתאפיינת בעיקר בעלייה באנרגיה. מקורם ההיסטורי של מודולים אלה הוא חלק d, ההתרחקות, בדגם srdc. דמיינו סטרופת srdc המתארכת עד ש־sr נעשה מודול בית עצמאי בעל שני חלקים, או שני מודולי בית רצופים; d נעשה קדם־פזמון עצמאי; ו־c נעשה פזמון עצמאי. לכן קדם־פזמונים נושאים רבות מתכונות d: פירוק למקטעים, האצת הקצב ההרמוני והתרחקות מהטוניקה, לצד פתיחות הרמונית.",
+      "spoken": "פונקציית קדם־הפזמון (prechorus) מתאפיינת בעיקר בעלייה באנרגיה. מקורם ההיסטורי של מודולים אלה הוא חלק d, ההתרחקות, בדגם srdc. דמיינו סטרופת srdc המתארכת עד ש־sr נעשה מודול בית עצמאי בעל שני חלקים, או שני מודולי בית רצופים; d נעשה קדם־פזמון עצמאי; ו־c נעשה פזמון עצמאי. לכן קדם־פזמונים נושאים רבות מתכונות d: פירוק למקטעים, האצת הקצב ההרמוני והתרחקות מהטוניקה, לצד פתיחות הרמונית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קדם־הפזמון הראשון ב־״Livin’ on a Prayer״ מתחיל ב־1:15.</p>",
+      "source_text": "קדם־הפזמון הראשון ב־״Livin’ on a Prayer״ מתחיל ב־1:15.",
+      "spoken": "קדם־הפזמון הראשון ב־״Livin’ on a Prayer״ מתחיל ב־1:15."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>אחר־פזמון — Z {#postchorus-z}</h3>",
+      "source_text": "אחר־פזמון — Z {#postchorus-z}",
+      "spoken": "אחר־פזמון — Z {#postchorus-z}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מודול קצר הבא אחרי פזמון ומשרת רק את סגירת המחזור — ולא את הצגת תחילת המחזור הבא או את המעבר אליה — ממלא פונקציית אחר־פזמון (postchorus); ראו Mark Spicer, ‏2011, פסקה 9.</p>",
+      "source_text": "מודול קצר הבא אחרי פזמון ומשרת רק את סגירת המחזור — ולא את הצגת תחילת המחזור הבא או את המעבר אליה — ממלא פונקציית אחר־פזמון (postchorus); ראו Mark Spicer, 2011, פסקה 9.",
+      "spoken": "מודול קצר הבא אחרי פזמון ומשרת רק את סגירת המחזור — ולא את הצגת תחילת המחזור הבא או את המעבר אליה — ממלא פונקציית אחר־פזמון (postchorus); ראו Mark Spicer, 2011, פסקה 9."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המחזור השני ב־״Livin’ on a Prayer״ מסתיים באחר־פזמון קצר בן שתי תיבות ב־2:54.</p>",
+      "source_text": "המחזור השני ב־״Livin’ on a Prayer״ מסתיים באחר־פזמון קצר בן שתי תיבות ב־2:54.",
+      "spoken": "המחזור השני ב־״Livin’ on a Prayer״ מסתיים באחר־פזמון קצר בן שתי תיבות ב־2:54."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>פונקציות למודולי עזר {#functions-for-auxiliary-modules}</h2>",
+      "source_text": "פונקציות למודולי עזר {#functions-for-auxiliary-modules}",
+      "spoken": "פונקציות למודולי עזר {#functions-for-auxiliary-modules}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מבוא ומבוא באמצע השיר — I {#introduction-mid-song-introduction-i}</h3>",
+      "source_text": "מבוא ומבוא באמצע השיר — I {#introduction-mid-song-introduction-i}",
+      "spoken": "מבוא ומבוא באמצע השיר — I {#introduction-mid-song-introduction-i}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מבואות נוטים להיות קצרים וללא מילים, כלומר כליים, ולהציג חומר מוזיקלי מתוך מודול ליבה אחד או יותר שיופיעו בהמשך. הם מעבירים מן השקט חסר המשקל שלפני השיר אל הפעילות המוזיקלית של מודול הליבה הראשון. הדבר נעשה לעיתים קרובות באמצעות הכנסת שכבות מוזיקליות — למשל כלי אחד בכל פעם — או בנייה כללית יותר של אנרגיה. לעיתים מבוא כולל חומר שאינו חומר ליבה. מבוא כזה מתאים לעיתים קרובות לקטע סיום המבוסס על אותו חומר, ויחד הם יוצרים אפקט של ״מסגרות קצה״ (bookend).</p>",
+      "source_text": "מבואות נוטים להיות קצרים וללא מילים, כלומר כליים, ולהציג חומר מוזיקלי מתוך מודול ליבה אחד או יותר שיופיעו בהמשך. הם מעבירים מן השקט חסר המשקל שלפני השיר אל הפעילות המוזיקלית של מודול הליבה הראשון. הדבר נעשה לעיתים קרובות באמצעות הכנסת שכבות מוזיקליות — למשל כלי אחד בכל פעם — או בנייה כללית יותר של אנרגיה. לעיתים מבוא כולל חומר שאינו חומר ליבה. מבוא כזה מתאים לעיתים קרובות לקטע סיום המבוסס על אותו חומר, ויחד הם יוצרים אפקט של ״מסגרות קצה״ (bookend).",
+      "spoken": "מבואות נוטים להיות קצרים וללא מילים, כלומר כליים, ולהציג חומר מוזיקלי מתוך מודול ליבה אחד או יותר שיופיעו בהמשך. הם מעבירים מן השקט חסר המשקל שלפני השיר אל הפעילות המוזיקלית של מודול הליבה הראשון. הדבר נעשה לעיתים קרובות באמצעות הכנסת שכבות מוזיקליות — למשל כלי אחד בכל פעם — או בנייה כללית יותר של אנרגיה. לעיתים מבוא כולל חומר שאינו חומר ליבה. מבוא כזה מתאים לעיתים קרובות לקטע סיום המבוסס על אותו חומר, ויחד הם יוצרים אפקט של ״מסגרות קצה״ (bookend)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ייתכנו גם כמה מבואות ברצף, כל אחד על מוזיקה אחרת. רצף כזה יסומן I1, ‏I2 וכן הלאה. ״Come On Eileen״ של Dexy’s Midnight Runners, בהקלטה שלעיל, כולל כמה מודולי מבוא שונים בעלי תוכן מוזיקלי שונה.</p>",
+      "source_text": "ייתכנו גם כמה מבואות ברצף, כל אחד על מוזיקה אחרת. רצף כזה יסומן I1, I2 וכן הלאה. ״Come On Eileen״ של Dexy’s Midnight Runners, בהקלטה שלעיל, כולל כמה מודולי מבוא שונים בעלי תוכן מוזיקלי שונה.",
+      "spoken": "ייתכנו גם כמה מבואות ברצף, כל אחד על מוזיקה אחרת. רצף כזה יסומן I1, I2 וכן הלאה. ״Come On Eileen״ של Dexy’s Midnight Runners, בהקלטה שלעיל, כולל כמה מודולי מבוא שונים בעלי תוכן מוזיקלי שונה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מבואות באמצע השיר מתפקדים באופן דומה. בדרך כלל הם מציגים את המודול הראשון במחזור הצורני. ל־״Livin’ on a Prayer״ מבוא קצר באמצע השיר ב־1:48 המכין את הגעת המחזור השני, המתחיל בבית 2. מבוא מורחב יותר באמצע השיר מופיע ב־1:57 ב־״Pride (In the Name of Love)״ של U2 ומכין את הבית הפותח את המחזור האחרון.</p>",
+      "source_text": "מבואות באמצע השיר מתפקדים באופן דומה. בדרך כלל הם מציגים את המודול הראשון במחזור הצורני. ל־״Livin’ on a Prayer״ מבוא קצר באמצע השיר ב־1:48 המכין את הגעת המחזור השני, המתחיל בבית 2. מבוא מורחב יותר באמצע השיר מופיע ב־1:57 ב־״Pride (In the Name of Love)״ של U2 ומכין את הבית הפותח את המחזור האחרון.",
+      "spoken": "מבואות באמצע השיר מתפקדים באופן דומה. בדרך כלל הם מציגים את המודול הראשון במחזור הצורני. ל־״Livin’ on a Prayer״ מבוא קצר באמצע השיר ב־1:48 המכין את הגעת המחזור השני, המתחיל בבית 2. מבוא מורחב יותר באמצע השיר מופיע ב־1:57 ב־״Pride (In the Name of Love)״ של U2 ומכין את הבית הפותח את המחזור האחרון."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d\">https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:3dh2LlmeMqKJbzn2WUgt3d\">spotify:track:3dh2LlmeMqKJbzn2WUgt3d</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d מזהה Spotify URI: spotify:track:3dh2LlmeMqKJbzn2WUgt3d",
+      "spoken": "קישור HTML: https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d מזהה Spotify URI: spotify:track:3dh2LlmeMqKJbzn2WUgt3d"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>קטע סיום — O {#outro-o}</h3>",
+      "source_text": "קטע סיום — O {#outro-o}",
+      "spoken": "קטע סיום — O {#outro-o}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קטעי סיום (outros) מעבירים מן השיר בחזרה לשקט ולכן מפחיתים אנרגיה. לעיתים קרובות הדבר נעשה באולפן באמצעות דעיכה הדרגתית, fadeout. כשיש מודול סיום, כמעט תמיד הוא מבוסס על חומר ממודול הליבה האחרון שקדם לו. קטעי סיום שאינם מבוססי ליבה נוטים להשתמש בחומר ממבוא שאינו מבוסס ליבה, ויוצרים את אפקט מסגרות הקצה. ״שירי רוק מסתיימים כמעט תמיד בחומר שכבר נשמע בשיר: מודול ליבה, מודול עזר המבוסס על הליבה או חזרה על המבוא״ (Summach, עמ׳ 47). קטעי סיום משתמשים ברטוריקה של סיום; ראו להלן.</p>",
+      "source_text": "קטעי סיום (outros) מעבירים מן השיר בחזרה לשקט ולכן מפחיתים אנרגיה. לעיתים קרובות הדבר נעשה באולפן באמצעות דעיכה הדרגתית, fadeout. כשיש מודול סיום, כמעט תמיד הוא מבוסס על חומר ממודול הליבה האחרון שקדם לו. קטעי סיום שאינם מבוססי ליבה נוטים להשתמש בחומר ממבוא שאינו מבוסס ליבה, ויוצרים את אפקט מסגרות הקצה. ״שירי רוק מסתיימים כמעט תמיד בחומר שכבר נשמע בשיר: מודול ליבה, מודול עזר המבוסס על הליבה או חזרה על המבוא״ (Summach, עמ׳ 47). קטעי סיום משתמשים ברטוריקה של סיום; ראו להלן.",
+      "spoken": "קטעי סיום (outros) מעבירים מן השיר בחזרה לשקט ולכן מפחיתים אנרגיה. לעיתים קרובות הדבר נעשה באולפן באמצעות דעיכה הדרגתית, fadeout. כשיש מודול סיום, כמעט תמיד הוא מבוסס על חומר ממודול הליבה האחרון שקדם לו. קטעי סיום שאינם מבוססי ליבה נוטים להשתמש בחומר ממבוא שאינו מבוסס ליבה, ויוצרים את אפקט מסגרות הקצה. ״שירי רוק מסתיימים כמעט תמיד בחומר שכבר נשמע בשיר: מודול ליבה, מודול עזר המבוסס על הליבה או חזרה על המבוא״ (Summach, עמ׳ 47). קטעי סיום משתמשים ברטוריקה של סיום; ראו להלן."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>דוגמה מובאת להלן.</p>",
+      "source_text": "דוגמה מובאת להלן.",
+      "spoken": "דוגמה מובאת להלן."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>קודה — X {#coda-x}</h3>",
+      "source_text": "קודה — X {#coda-x}",
+      "spoken": "קודה — X {#coda-x}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קודה (coda) היא ״מודול המסיים את השיר ומציג חומר חדש״ (Summach, עמ׳ 47): כלומר קטע סיום שאינו מבוסס על מוזיקה שנשמעה קודם. כמו קטעי סיום, גם קודות משתמשות ברטוריקה של סיום.</p>",
+      "source_text": "קודה (coda) היא ״מודול המסיים את השיר ומציג חומר חדש״ (Summach, עמ׳ 47): כלומר קטע סיום שאינו מבוסס על מוזיקה שנשמעה קודם. כמו קטעי סיום, גם קודות משתמשות ברטוריקה של סיום.",
+      "spoken": "קודה (coda) היא ״מודול המסיים את השיר ומציג חומר חדש״ (Summach, עמ׳ 47): כלומר קטע סיום שאינו מבוסס על מוזיקה שנשמעה קודם. כמו קטעי סיום, גם קודות משתמשות ברטוריקה של סיום."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Resistance״ של Muse כולל קודה וגם קטע סיום. הקודה, ובה חומר מוזיקלי וסיפורי חדש, מתחילה ב־4:05 לאחר הפזמון האחרון. המודול מביא מעין סיום לסיפור, אף שסיום פתוח, ומפנה את מקומו לקטע סיום ב־4:54. מלבד השינוי הברור בתוכן ובמרקם ב־4:54, חזרת חומר המבוא מבהירה את המעבר מקודה לקטע סיום ויוצרת את אפקט מסגרות הקצה הנפוץ בשילוב מבוא וקטע סיום.</p>",
+      "source_text": "״Resistance״ של Muse כולל קודה וגם קטע סיום. הקודה, ובה חומר מוזיקלי וסיפורי חדש, מתחילה ב־4:05 לאחר הפזמון האחרון. המודול מביא מעין סיום לסיפור, אף שסיום פתוח, ומפנה את מקומו לקטע סיום ב־4:54. מלבד השינוי הברור בתוכן ובמרקם ב־4:54, חזרת חומר המבוא מבהירה את המעבר מקודה לקטע סיום ויוצרת את אפקט מסגרות הקצה הנפוץ בשילוב מבוא וקטע סיום.",
+      "spoken": "״Resistance״ של Muse כולל קודה וגם קטע סיום. הקודה, ובה חומר מוזיקלי וסיפורי חדש, מתחילה ב־4:05 לאחר הפזמון האחרון. המודול מביא מעין סיום לסיפור, אף שסיום פתוח, ומפנה את מקומו לקטע סיום ב־4:54. מלבד השינוי הברור בתוכן ובמרקם ב־4:54, חזרת חומר המבוא מבהירה את המעבר מקודה לקטע סיום ויוצרת את אפקט מסגרות הקצה הנפוץ בשילוב מבוא וקטע סיום."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A1C2QJNTmsTxCDBuIgai8QV\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A1C2QJNTmsTxCDBuIgai8QV",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV\">https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:1C2QJNTmsTxCDBuIgai8QV\">spotify:track:1C2QJNTmsTxCDBuIgai8QV</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV מזהה Spotify URI: spotify:track:1C2QJNTmsTxCDBuIgai8QV",
+      "spoken": "קישור HTML: https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV מזהה Spotify URI: spotify:track:1C2QJNTmsTxCDBuIgai8QV"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>רטוריקה של סיום {#closing-rhetoric}</h3>",
+      "source_text": "רטוריקה של סיום {#closing-rhetoric}",
+      "spoken": "רטוריקה של סיום {#closing-rhetoric}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>רטוריקה של סיום (closing rhetoric) כוללת דגמים וטכניקות נפוצים המרמזים שסוף השיר מתקרב. דוגמאות: חזרה מיידית על מודול ליבה, למעט הראשון, או על חלקו; דילול המרקם; הגברת העצימות לקראת הסוף; דעיכה הדרגתית; והבאת מודול שהיה פתוח הרמונית לסגירות הרמונית. היא נמצאת בדרך כלל בקטעי סיום, בקודות ובמודול הליבה האחרון, A או C.</p>",
+      "source_text": "רטוריקה של סיום (closing rhetoric) כוללת דגמים וטכניקות נפוצים המרמזים שסוף השיר מתקרב. דוגמאות: חזרה מיידית על מודול ליבה, למעט הראשון, או על חלקו; דילול המרקם; הגברת העצימות לקראת הסוף; דעיכה הדרגתית; והבאת מודול שהיה פתוח הרמונית לסגירות הרמונית. היא נמצאת בדרך כלל בקטעי סיום, בקודות ובמודול הליבה האחרון, A או C.",
+      "spoken": "רטוריקה של סיום (closing rhetoric) כוללת דגמים וטכניקות נפוצים המרמזים שסוף השיר מתקרב. דוגמאות: חזרה מיידית על מודול ליבה, למעט הראשון, או על חלקו; דילול המרקם; הגברת העצימות לקראת הסוף; דעיכה הדרגתית; והבאת מודול שהיה פתוח הרמונית לסגירות הרמונית. היא נמצאת בדרך כלל בקטעי סיום, בקודות ובמודול הליבה האחרון, A או C."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>פונקציות לקטעים בולטים בתוך מודולים {#functions-for-standout-passages-within-modules}</h2>",
+      "source_text": "פונקציות לקטעים בולטים בתוך מודולים {#functions-for-standout-passages-within-modules}",
+      "spoken": "פונקציות לקטעים בולטים בתוך מודולים {#functions-for-standout-passages-within-modules}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>שורה או קטע חוזרים — refrain {#refrain}</h3>",
+      "source_text": "שורה או קטע חוזרים — refrain {#refrain}",
+      "spoken": "שורה או קטע חוזרים — refrain {#refrain}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״קטע בעל מילים קבועות בתוך מודול שמילותיו האחרות משתנות״ (Summach, עמ׳ 322). כמו טיפוס להלן, refrain קצר מכדי להיות מודול עצמאי — בדרך כלל פסוקית אחת או פחות. לרוב הוא מופיע בשורה האחרונה בקירוב של טקסט המודול, <em>חזרה בסוף</em> (tail refrain), ולעיתים בתחילת הטקסט, <em>חזרה בפתיחה</em> (head refrain). המונח ״שורה חוזרת״ כאן אינו מציין בהכרח שורה יחידה.</p>",
+      "source_text": "״קטע בעל מילים קבועות בתוך מודול שמילותיו האחרות משתנות״ (Summach, עמ׳ 322). כמו טיפוס להלן, refrain קצר מכדי להיות מודול עצמאי — בדרך כלל פסוקית אחת או פחות. לרוב הוא מופיע בשורה האחרונה בקירוב של טקסט המודול, חזרה בסוף (tail refrain), ולעיתים בתחילת הטקסט, חזרה בפתיחה (head refrain). המונח ״שורה חוזרת״ כאן אינו מציין בהכרח שורה יחידה.",
+      "spoken": "״קטע בעל מילים קבועות בתוך מודול שמילותיו האחרות משתנות״ (Summach, עמ׳ 322). כמו טיפוס להלן, refrain קצר מכדי להיות מודול עצמאי — בדרך כלל פסוקית אחת או פחות. לרוב הוא מופיע בשורה האחרונה בקירוב של טקסט המודול, חזרה בסוף (tail refrain), ולעיתים בתחילת הטקסט, חזרה בפתיחה (head refrain). המונח ״שורה חוזרת״ כאן אינו מציין בהכרח שורה יחידה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Cathedrals״ של Jump Little Children כולל חזרה בפתיחה: כל סטרופה מתחילה באותה שורה המתארת צללים של בניינים גבוהים.</p>",
+      "source_text": "״Cathedrals״ של Jump Little Children כולל חזרה בפתיחה: כל סטרופה מתחילה באותה שורה המתארת צללים של בניינים גבוהים.",
+      "spoken": "״Cathedrals״ של Jump Little Children כולל חזרה בפתיחה: כל סטרופה מתחילה באותה שורה המתארת צללים של בניינים גבוהים."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A2wd52lU3agY0P3x2hxPYhm\" title=\"דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2wd52lU3agY0P3x2hxPYhm",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: דוגמה מוזיקלית להאזנה — צורה בפופ וברוק — פונקציות צורניות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>קישור HTML: <a href=\"https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm\">https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm</a><br/>\nמזהה Spotify URI: <a href=\"spotify:track:2wd52lU3agY0P3x2hxPYhm\">spotify:track:2wd52lU3agY0P3x2hxPYhm</a></p>",
+      "source_text": "קישור HTML: https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm מזהה Spotify URI: spotify:track:2wd52lU3agY0P3x2hxPYhm",
+      "spoken": "קישור HTML: https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm מזהה Spotify URI: spotify:track:2wd52lU3agY0P3x2hxPYhm"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Blue Suede Shoes״, בהקלטה שלעיל, ו־״I Want to Hold Your Hand״ כוללים חזרות בסופי הסטרופות המדגישות את מילות הכותרת.</p>",
+      "source_text": "״Blue Suede Shoes״, בהקלטה שלעיל, ו־״I Want to Hold Your Hand״ כוללים חזרות בסופי הסטרופות המדגישות את מילות הכותרת.",
+      "spoken": "״Blue Suede Shoes״, בהקלטה שלעיל, ו־״I Want to Hold Your Hand״ כוללים חזרות בסופי הסטרופות המדגישות את מילות הכותרת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>טיפוס {#climb}</h3>",
+      "source_text": "טיפוס {#climb}",
+      "spoken": "טיפוס {#climb}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״פסוקית בעלת פונקציית קדם־פזמון, אך קצרה מכדי להתנתק מן הבית ולהיות מודול עצמאי״ (Summach, עמ׳ 321). היא תמיד הפסוקית האחרונה של מודול בית, לפי ההגדרה במקור.</p>",
+      "source_text": "״פסוקית בעלת פונקציית קדם־פזמון, אך קצרה מכדי להתנתק מן הבית ולהיות מודול עצמאי״ (Summach, עמ׳ 321). היא תמיד הפסוקית האחרונה של מודול בית, לפי ההגדרה במקור.",
+      "spoken": "״פסוקית בעלת פונקציית קדם־פזמון, אך קצרה מכדי להתנתק מן הבית ולהיות מודול עצמאי״ (Summach, עמ׳ 321). היא תמיד הפסוקית האחרונה של מודול בית, לפי ההגדרה במקור."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>״Come On Eileen״, בהקלטה שלעיל, כולל טיפוס בן פסוקית אחת בסוף הבתים והגשר.</p>",
+      "source_text": "״Come On Eileen״, בהקלטה שלעיל, כולל טיפוס בן פסוקית אחת בסוף הבתים והגשר.",
+      "spoken": "״Come On Eileen״, בהקלטה שלעיל, כולל טיפוס בן פסוקית אחת בסוף הבתים והגשר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"popRockForm.html\"><em>חזרה לסקירת הצורה בפופ וברוק.</em></a></p>",
+      "source_text": "חזרה לסקירת הצורה בפופ וברוק.",
+      "spoken": "חזרה לסקירת הצורה בפופ וברוק."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הערות תרגום: זמני הכניסה שונים בחלקם מאלה שבפרק הסקירה ונשמרו כנתוני מקור, ללא אישור התאמה להקלטה. הגדרת הטיפוס אומרת ״תמיד״ בסוף בית, אך הדוגמה כוללת גם גשר; שני הניסוחים נשמרו והסתירה מתועדת. הגדרות הקודה וקטע הסיום הן בהקשר הפופ והרוק של פרק זה, ולא כלל לכל קודה במוזיקה.</p>",
+      "source_text": "הערות תרגום: זמני הכניסה שונים בחלקם מאלה שבפרק הסקירה ונשמרו כנתוני מקור, ללא אישור התאמה להקלטה. הגדרת הטיפוס אומרת ״תמיד״ בסוף בית, אך הדוגמה כוללת גם גשר; שני הניסוחים נשמרו והסתירה מתועדת. הגדרות הקודה וקטע הסיום הן בהקשר הפופ והרוק של פרק זה, ולא כלל לכל קודה במוזיקה.",
+      "spoken": "הערות תרגום: זמני הכניסה שונים בחלקם מאלה שבפרק הסקירה ונשמרו כנתוני מקור, ללא אישור התאמה להקלטה. הגדרת הטיפוס אומרת ״תמיד״ בסוף בית, אך הדוגמה כוללת גם גשר; שני הניסוחים נשמרו והסתירה מתועדת. הגדרות הקודה וקטע הסיום הן בהקשר הפופ והרוק של פרק זה, ולא כלל לכל קודה במוזיקה."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A7bglJCaprPQTfDfovdJS2h",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A3O8s4pon1omITzB07t6oNx",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A0J6mQxEZnlRt9ymzFntA6z",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A0EMmVUYs9ZZRHtlADB88uz",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A3dh2LlmeMqKJbzn2WUgt3d",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A1C2QJNTmsTxCDBuIgai8QV",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A2wd52lU3agY0P3x2hxPYhm"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h",
+        "target": "https://open.spotify.com/track/7bglJCaprPQTfDfovdJS2h"
+      },
+      {
+        "label": "spotify:track:7bglJCaprPQTfDfovdJS2h",
+        "target": "spotify:track:7bglJCaprPQTfDfovdJS2h"
+      },
+      {
+        "label": "https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx",
+        "target": "https://open.spotify.com/track/3O8s4pon1omITzB07t6oNx"
+      },
+      {
+        "label": "spotify:track:3O8s4pon1omITzB07t6oNx",
+        "target": "spotify:track:3O8s4pon1omITzB07t6oNx"
+      },
+      {
+        "label": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z",
+        "target": "https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z"
+      },
+      {
+        "label": "spotify:track:0J6mQxEZnlRt9ymzFntA6z",
+        "target": "spotify:track:0J6mQxEZnlRt9ymzFntA6z"
+      },
+      {
+        "label": "פונקציית ההמשך",
+        "target": "themeFunctions.html"
+      },
+      {
+        "label": "https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz",
+        "target": "https://open.spotify.com/track/0EMmVUYs9ZZRHtlADB88uz"
+      },
+      {
+        "label": "spotify:track:0EMmVUYs9ZZRHtlADB88uz",
+        "target": "spotify:track:0EMmVUYs9ZZRHtlADB88uz"
+      },
+      {
+        "label": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d",
+        "target": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
+      },
+      {
+        "label": "spotify:track:3dh2LlmeMqKJbzn2WUgt3d",
+        "target": "spotify:track:3dh2LlmeMqKJbzn2WUgt3d"
+      },
+      {
+        "label": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV",
+        "target": "https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV"
+      },
+      {
+        "label": "spotify:track:1C2QJNTmsTxCDBuIgai8QV",
+        "target": "spotify:track:1C2QJNTmsTxCDBuIgai8QV"
+      },
+      {
+        "label": "https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm",
+        "target": "https://open.spotify.com/track/2wd52lU3agY0P3x2hxPYhm"
+      },
+      {
+        "label": "spotify:track:2wd52lU3agY0P3x2hxPYhm",
+        "target": "spotify:track:2wd52lU3agY0P3x2hxPYhm"
+      },
+      {
+        "label": "חזרה לסקירת הצורה בפופ וברוק.",
+        "target": "popRockForm.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

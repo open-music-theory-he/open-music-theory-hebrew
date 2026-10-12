@@ -1,0 +1,178 @@
+{
+  "chapter": 111,
+  "source": "melodicSequentials.md",
+  "title": "111 — תרגילי סקוונצה מלודיים",
+  "source_sha256": "f25a6d56de433ca0a223f085a995da33b82a5d2fd4af4228d576fa098610a7da",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>התרגילים הבאים נקראים <em>תרגילי סקוונצה</em> (sequentials). מבצעים אותם בשירת אותו דגם בטרנספוזיציה לכל דרגת סולם לפי הסדר. למשל, הראשון, <em>do re mi</em>, מבוצע כך:</p>",
+      "source_text": "התרגילים הבאים נקראים תרגילי סקוונצה (sequentials). מבצעים אותם בשירת אותו דגם בטרנספוזיציה לכל דרגת סולם לפי הסדר. למשל, הראשון, do re mi, מבוצע כך:",
+      "spoken": "התרגילים הבאים נקראים תרגילי סקוונצה (sequentials). מבצעים אותם בשירת אותו דגם בטרנספוזיציה לכל דרגת סולם לפי הסדר. למשל, הראשון, do re mi, מבוצע כך:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>do re mi | re mi fa | mi fa sol | וכן הלאה.</p>",
+      "source_text": "do re mi | re mi fa | mi fa sol | וכן הלאה.",
+      "spoken": "do re mi | re mi fa | mi fa sol | וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>התרגילים מועילים מאוד לפיתוח שטף בהברות הסולפז׳ ולזיהוי דגמים רגילים במלודיה. תרגלו בעלייה ובירידה.</p>",
+      "source_text": "התרגילים מועילים מאוד לפיתוח שטף בהברות הסולפז׳ ולזיהוי דגמים רגילים במלודיה. תרגלו בעלייה ובירידה.",
+      "spoken": "התרגילים מועילים מאוד לפיתוח שטף בהברות הסולפז׳ ולזיהוי דגמים רגילים במלודיה. תרגלו בעלייה ובירידה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>התרגילים שלהלן במז׳ור. במינור טבעי החליפו <em>mi</em> ב־<em>me</em>, ‏<em>la</em> ב־<em>le</em> ו־<em>ti</em> ב־<em>te</em>. במינור הרמוני שירו כמו במינור טבעי, אך עם <em>ti</em> במקום <em>te</em>. תרגילים 6 ו־7 יישמעו לא נוחים במינור הרמוני בשל הקווינטה המוגדלת <em>me</em>–<em>ti</em>. אפשר לדלג עליהם, מפני שמרווח זה נדיר ברפרטואר הקלאסי. כל ההברות מציינות דרגות בדו יחסי.</p>",
+      "source_text": "התרגילים שלהלן במז׳ור. במינור טבעי החליפו mi ב־me, la ב־le ו־ti ב־te. במינור הרמוני שירו כמו במינור טבעי, אך עם ti במקום te. תרגילים 6 ו־7 יישמעו לא נוחים במינור הרמוני בשל הקווינטה המוגדלת me–ti. אפשר לדלג עליהם, מפני שמרווח זה נדיר ברפרטואר הקלאסי. כל ההברות מציינות דרגות בדו יחסי.",
+      "spoken": "התרגילים שלהלן במז׳ור. במינור טבעי החליפו mi ב־me, la ב־le ו־ti ב־te. במינור הרמוני שירו כמו במינור טבעי, אך עם ti במקום te. תרגילים 6 ו־7 יישמעו לא נוחים במינור הרמוני בשל הקווינטה המוגדלת me–ti. אפשר לדלג עליהם, מפני שמרווח זה נדיר ברפרטואר הקלאסי. כל ההברות מציינות דרגות בדו יחסי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>1) Do re mi {#1-do-re-mi}</h2>",
+      "source_text": "1) Do re mi {#1-do-re-mi}",
+      "spoken": "1) Do re mi {#1-do-re-mi}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo re mi | re mi fa | mi fa sol | . . . | ti do re | do</p>",
+      "source_text": "בעלייה: do re mi | re mi fa | mi fa sol | . . . | ti do re | do",
+      "spoken": "בעלייה: do re mi | re mi fa | mi fa sol | . . . | ti do re | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo ti la | ti la sol | la sol fa | . . . | re do ti | do</p>",
+      "source_text": "בירידה: do ti la | ti la sol | la sol fa | . . . | re do ti | do",
+      "spoken": "בירידה: do ti la | ti la sol | la sol fa | . . . | re do ti | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>2) Do re mi do {#2-do-re-mi-do}</h2>",
+      "source_text": "2) Do re mi do {#2-do-re-mi-do}",
+      "spoken": "2) Do re mi do {#2-do-re-mi-do}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo re mi do | re mi fa re | mi fa sol mi | . . . | ti do re ti | do</p>",
+      "source_text": "בעלייה: do re mi do | re mi fa re | mi fa sol mi | . . . | ti do re ti | do",
+      "spoken": "בעלייה: do re mi do | re mi fa re | mi fa sol mi | . . . | ti do re ti | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo ti la do | ti la sol ti | la sol fa la | . . . | re do ti re | do</p>",
+      "source_text": "בירידה: do ti la do | ti la sol ti | la sol fa la | . . . | re do ti re | do",
+      "spoken": "בירידה: do ti la do | ti la sol ti | la sol fa la | . . . | re do ti re | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>3) Do mi re do {#3-do-mi-re-do}</h2>",
+      "source_text": "3) Do mi re do {#3-do-mi-re-do}",
+      "spoken": "3) Do mi re do {#3-do-mi-re-do}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo mi re do | re fa mi re | mi sol fa mi | . . . | ti re do ti | do</p>",
+      "source_text": "בעלייה: do mi re do | re fa mi re | mi sol fa mi | . . . | ti re do ti | do",
+      "spoken": "בעלייה: do mi re do | re fa mi re | mi sol fa mi | . . . | ti re do ti | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo la ti do | ti sol la ti | la fa sol la | . . . | re ti do re | do</p>",
+      "source_text": "בירידה: do la ti do | ti sol la ti | la fa sol la | . . . | re ti do re | do",
+      "spoken": "בירידה: do la ti do | ti sol la ti | la fa sol la | . . . | re ti do re | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>4) Do mi {#4-do-mi}</h2>",
+      "source_text": "4) Do mi {#4-do-mi}",
+      "spoken": "4) Do mi {#4-do-mi}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo mi | re fa | mi sol | . . . | ti re | do</p>",
+      "source_text": "בעלייה: do mi | re fa | mi sol | . . . | ti re | do",
+      "spoken": "בעלייה: do mi | re fa | mi sol | . . . | ti re | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo la | ti sol | la fa | . . . | re ti | do</p>",
+      "source_text": "בירידה: do la | ti sol | la fa | . . . | re ti | do",
+      "spoken": "בירידה: do la | ti sol | la fa | . . . | re ti | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>5) Do re mi fa sol {#5-do-re-mi-fa-sol}</h2>",
+      "source_text": "5) Do re mi fa sol {#5-do-re-mi-fa-sol}",
+      "spoken": "5) Do re mi fa sol {#5-do-re-mi-fa-sol}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo re mi fa sol | re mi fa sol la | . . . | ti do re mi fa | do</p>",
+      "source_text": "בעלייה: do re mi fa sol | re mi fa sol la | . . . | ti do re mi fa | do",
+      "spoken": "בעלייה: do re mi fa sol | re mi fa sol la | . . . | ti do re mi fa | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo ti la sol fa | ti la sol fa mi | . . . | re do ti la sol | do</p>",
+      "source_text": "בירידה: do ti la sol fa | ti la sol fa mi | . . . | re do ti la sol | do",
+      "spoken": "בירידה: do ti la sol fa | ti la sol fa mi | . . . | re do ti la sol | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>6) Do sol {#6-do-sol}</h2>",
+      "source_text": "6) Do sol {#6-do-sol}",
+      "spoken": "6) Do sol {#6-do-sol}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo sol | re la | mi ti | . . . | ti fa | do</p>",
+      "source_text": "בעלייה: do sol | re la | mi ti | . . . | ti fa | do",
+      "spoken": "בעלייה: do sol | re la | mi ti | . . . | ti fa | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo fa | ti mi | la re | . . . | re sol | do</p>",
+      "source_text": "בירידה: do fa | ti mi | la re | . . . | re sol | do",
+      "spoken": "בירידה: do fa | ti mi | la re | . . . | re sol | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>7) Do mi sol {#7-do-mi-sol}</h2>",
+      "source_text": "7) Do mi sol {#7-do-mi-sol}",
+      "spoken": "7) Do mi sol {#7-do-mi-sol}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בעלייה:</strong><br/>\ndo mi sol | re fa la | mi sol ti | . . . | ti re fa | do</p>",
+      "source_text": "בעלייה: do mi sol | re fa la | mi sol ti | . . . | ti re fa | do",
+      "spoken": "בעלייה: do mi sol | re fa la | mi sol ti | . . . | ti re fa | do"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>בירידה:</strong><br/>\ndo la fa | ti sol mi | la fa re | . . . | re ti sol | do</p>",
+      "source_text": "בירידה: do la fa | ti sol mi | la fa re | . . . | re ti sol | do",
+      "spoken": "בירידה: do la fa | ti sol mi | la fa re | . . . | re ti sol | do"
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [],
+    "singular_tav_pointed": true
+  }
+}
