@@ -54,7 +54,7 @@ def key(p):
     return 'file-' + hashlib.sha256(p.relative_to(ROOT).as_posix().encode()).hexdigest()[:16]
 
 def ordered_documents(files):
-    docs = {p for p in files if p.suffix.lower() == '.md'}
+    docs = {p for p in files if p.suffix.lower() == '.md' and p.name != 'trinket.md'}
     first = [ROOT/'README.md', ROOT/'hebrew-introduction.md', ROOT/'fixed-and-movable-do.md', ROOT/'contents.md']
     toc = (ROOT/'contents.md').read_text()
     # Parse Markdown, including paths such as pitch(Class).html.

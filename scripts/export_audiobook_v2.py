@@ -117,7 +117,7 @@ def approved_plan():
         assert ''.join(chunks)==text
         identity={'model':MODEL,'voice':selection['voice'],'style':selection['style'],'chunks':chunks,'opening_sha256':selection['opening_mp3_sha256'],'builder_version':2}
         d.update(transcript=text,chunks=chunks,id=f'{number:03d}-'+digest(json.dumps(identity,ensure_ascii=False,sort_keys=True).encode())[:16]);chapters.append(d)
-    if len(chapters)!=116:raise RuntimeError('The approved first batch must contain exactly 116 chapters.')
+    if len(chapters)!=len(selection['approved_chapters']):raise RuntimeError('Approved chapter plan is incomplete.')
     return chapters,selection
 
 def checkpoint(state,event):
@@ -159,7 +159,7 @@ def main():
     opening=ROOT/'dist/audition-source/00-introduction.mp3';opening_json=ROOT/'dist/audition-source/00-introduction.json'
     if digest(opening.read_bytes())!=selection['opening_mp3_sha256']:raise RuntimeError('Approved opening MP3 checksum mismatch.')
     opening_text=json.loads(opening_json.read_text())['text'];begin=time.monotonic();pool=KeyPool(keys,begin+19800)
-    report={'status':'running','chapters_total':116,'segments_total':sum(len(c['chunks']) for c in chapters),'new_segments':0,'completed_chapters':0,'voice':selection['voice'],'model':MODEL,'chapters':[]};fatal=None;reason=None
+    report={'status':'running','chapters_total':len(chapters),'segments_total':sum(len(c['chunks']) for c in chapters),'new_segments':0,'completed_chapters':0,'voice':selection['voice'],'model':MODEL,'chapters':[]};fatal=None;reason=None
     def save_progress():
         report.update(requests=pool.attempts,successes=pool.successes,elapsed_seconds=round(time.monotonic()-begin,2))
         report['chapters']=[]
@@ -193,14 +193,14 @@ def main():
             ffmpeg(['-f','concat','-safe','0','-i',str(listing),'-ac','1','-ar','24000','-c:a','libmp3lame','-b:a','96k',str(tmp)])
             tag_chapter(tmp,c,selection,opening_text+'\n\n'+c['transcript']);ffmpeg(['-i',str(tmp),'-f','null','-']);tmp.replace(dest);listing.unlink()
             save_json(complete,{'chapter':c['chapter'],'title':c['title'],'sha256':digest(dest.read_bytes()),'opening_sha256':selection['opening_mp3_sha256'],'source_sha256':c['source_sha256'],'review_status':'generated-needs-listening-review'})
-            save_progress();checkpoint(state,f'Complete v2 chapter {c["chapter"]:03d}');log('chapter-complete',chapter=c['chapter'],title=c['title'],completed=report['completed_chapters'],total=116)
+            save_progress();checkpoint(state,f'Complete v2 chapter {c["chapter"]:03d}');log('chapter-complete',chapter=c['chapter'],title=c['title'],completed=report['completed_chapters'],total=len(chapters))
     except RunDone as e:reason=str(e)
     except Exception as e:fatal='generation_error_'+type(e).__name__;log('fatal',error=fatal)
     finally:
         report['status']='error' if fatal else 'paused' if reason else 'complete';report['reason']=fatal or reason or 'all_approved_chapters_completed';save_progress();checkpoint(state,'Save v2 progress '+report['status']);log('run-final',status=report['status'],reason=report['reason'],completed_chapters=report['completed_chapters'],new_segments=report['new_segments'],requests=pool.attempts)
         summary=os.environ.get('GITHUB_STEP_SUMMARY')
         if summary:
-            with open(summary,'a') as s:s.write(f'V2: {report["completed_chapters"]}/116 chapters; {report["status"]}; {pool.attempts} requests.\n\nReason: {report["reason"]}\n')
+            with open(summary,'a') as s:s.write(f'V2: {report["completed_chapters"]}/{len(chapters)} chapters; {report["status"]}; {pool.attempts} requests.\n\nReason: {report["reason"]}\n')
     if fatal:raise SystemExit(1)
 
 if __name__=='__main__':main()
