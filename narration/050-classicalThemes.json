@@ -1,0 +1,250 @@
+{
+  "chapter": 50,
+  "source": "classicalThemes.md",
+  "title": "050 — טיפוסי נושא קלאסיים — דף עזר",
+  "source_sha256": "7999962c48cb296df3c161cb58ac5ed16851a927818706563b3c19b7493ca41c",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>התרשימים שלהלן מציגים את המאפיינים הפנימיים המרכזיים ואת התפקיד המבני של טיפוסי הנושא השונים המוצגים בספרו של ויליאם קפלין, <a href=\"https://openlibrary.org/works/OL2689355W/Classical_form\"><em>Classical Form</em></a>. הקישורים מובילים להסברים נוספים ולדוגמאות.</p>",
+      "source_text": "התרשימים שלהלן מציגים את המאפיינים הפנימיים המרכזיים ואת התפקיד המבני של טיפוסי הנושא השונים המוצגים בספרו של ויליאם קפלין, Classical Form. הקישורים מובילים להסברים נוספים ולדוגמאות.",
+      "spoken": "התרשימים שלהלן מציגים את המאפיינים הפנימיים המרכזיים ואת התפקיד המבני של טיפוסי הנושא השונים המוצגים בספרו של ויליאם קפלין, Classical Form. הקישורים מובילים להסברים נוספים ולדוגמאות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ראו גם <a href=\"themeFunctions.html\">תפקידים נושאיים במוזיקה הקלאסית</a>.</p>",
+      "source_text": "ראו גם תפקידים נושאיים במוזיקה הקלאסית.",
+      "spoken": "ראו גם תפקידים נושאיים במוזיקה הקלאסית."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>משפט מוזיקלי {#sentence}</h2>",
+      "source_text": "משפט מוזיקלי {#sentence}",
+      "spoken": "משפט מוזיקלי {#sentence}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לפרטים נוספים, ראו <a href=\"sentence.html\">משפט מוזיקלי</a>.</p>",
+      "source_text": "לפרטים נוספים, ראו משפט מוזיקלי.",
+      "spoken": "לפרטים נוספים, ראו משפט מוזיקלי."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים משפט מוזיקלי — sentence\" onerror=\"this.src='Graphics/ClassicalThemes/sentence.png'\" src=\"Graphics/ClassicalThemes/sentence.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/sentence.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של משפט מוזיקלי. החצי הראשון, Presentation, כולל רעיון בסיסי BI וחזרתו ונשאר בהארכת טוניקה ללא קדנצה. החצי השני, Continuation, משלב המשך וקדנצה ויכול להסתיים ב־HC, IAC או PAC; החלוקה הגרפית מפרידה את התפקידים גם כאשר אורכם דומה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>פריודה {#period}</h2>",
+      "source_text": "פריודה {#period}",
+      "spoken": "פריודה {#period}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לפרטים נוספים, ראו <a href=\"period.html\">פריודה</a>.</p>",
+      "source_text": "לפרטים נוספים, ראו פריודה.",
+      "spoken": "לפרטים נוספים, ראו פריודה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים פריודה — period\" onerror=\"this.src='Graphics/ClassicalThemes/period.png'\" src=\"Graphics/ClassicalThemes/period.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/period.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של פריודה המחולקת לשאלה ותשובה, Antecedent ו־Consequent. בכל חצי רעיון בסיסי BI ורעיון מנוגד CI. השאלה מסתיימת ב־HC או IAC והתשובה ב־PAC, ולכן קדנציית התשובה חזקה יותר מזו של השאלה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>נושאים היברידיים {#hybrid-themes}</h2>",
+      "source_text": "נושאים היברידיים {#hybrid-themes}",
+      "spoken": "נושאים היברידיים {#hybrid-themes}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לפרטים נוספים, ראו <a href=\"hybridThemes.html\">נושאים היברידיים</a>.</p>",
+      "source_text": "לפרטים נוספים, ראו נושאים היברידיים.",
+      "spoken": "לפרטים נוספים, ראו נושאים היברידיים."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים היברידיים — hybrid1\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid1.png'\" src=\"Graphics/ClassicalThemes/hybrid1.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid1.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 1: שאלה ואחריה המשך. השאלה מכילה BI ו־CI ומסתיימת ב־HC או IAC; היחידה השנייה היא continuation + cadential ומסיימת ב־HC, IAC או PAC. המודל משלב פתיחת פריודה עם סיום של משפט.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים היברידיים — hybrid2\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid2.png'\" src=\"Graphics/ClassicalThemes/hybrid2.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid2.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 2: שאלה ואחריה מהלך קדנציאלי. השאלה כוללת BI ו־CI ומסתיימת ב־HC או IAC. במקום יחידת המשך שלמה, החצי השני מסומן Cadential Progression ומוביל ל־HC, IAC או PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים היברידיים — hybrid3\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid3.png'\" src=\"Graphics/ClassicalThemes/hybrid3.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid3.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 3: רעיון בסיסי מורכב והמשך. הרעיון המורכב כולל BI ו־CI בהארכת טוניקה וללא קדנצה. החצי השני משלב המשך וקדנצה ויכול להסתיים ב־HC, IAC או PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים היברידיים — hybrid4\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid4.png'\" src=\"Graphics/ClassicalThemes/hybrid4.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid4.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 4: רעיון בסיסי מורכב ותשובה. היחידה הראשונה כוללת BI ו־CI בהארכת טוניקה ללא קדנצה. היחידה השנייה חוזרת למבנה BI ו־CI אך מסתיימת ב־PAC, ולכן מתפקדת כתשובת פריודה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>נושאים מורכבים {#compound-themes}</h2>",
+      "source_text": "נושאים מורכבים {#compound-themes}",
+      "spoken": "נושאים מורכבים {#compound-themes}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לפרטים נוספים, ראו <a href=\"compoundPeriod.html\">פריודות מורכבות</a> ו<a href=\"compoundSentence.html\">משפטים מוזיקליים מורכבים</a>.</p>",
+      "source_text": "לפרטים נוספים, ראו פריודות מורכבות ומשפטים מוזיקליים מורכבים.",
+      "spoken": "לפרטים נוספים, ראו פריודות מורכבות ומשפטים מוזיקליים מורכבים."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים מורכבים — 16period-sent\" onerror=\"this.src='Graphics/ClassicalThemes/16period-sent.png'\" src=\"Graphics/ClassicalThemes/16period-sent.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/16period-sent.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של פריודה בת שש־עשרה תיבות ששני חצאיה הם משפטים מוזיקליים. כל חצי כולל הצגה של BI וחזרתו ולאחריה המשך קדנציאלי. השאלה מסתיימת ב־HC או IAC; התשובה מגיעה ל־PAC, ושתי יחידות ההצגה מסומנות כהארכת טוניקה ללא קדנצה.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים מורכבים — 16period-hybrid1\" onerror=\"this.src='Graphics/ClassicalThemes/16period-hybrid1.png'\" src=\"Graphics/ClassicalThemes/16period-hybrid1.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/16period-hybrid1.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של פריודה בת שש־עשרה תיבות ששני חצאיה הם נושאים היברידיים מסוג 1. בכל חצי שאלה של BI ו־CI ואחריה המשך. הקדנצה בחצי הראשון היא HC או IAC, ובסיום הפריודה PAC; התרשים מראה שני רבדי חלוקה צורנית.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים מורכבים — 16period-hybrid3\" onerror=\"this.src='Graphics/ClassicalThemes/16period-hybrid3.png'\" src=\"Graphics/ClassicalThemes/16period-hybrid3.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/16period-hybrid3.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים פריודה בת שש־עשרה תיבות המבוססת על נושא היברידי מסוג 3. בכל חצי מופיעים רעיון בסיסי מורכב והמשך. ההצגות נשארות בטוניקה ללא קדנצה; החצי הראשון מסתיים ב־HC או IAC והשני ב־PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים נושאים מורכבים — 16sentence\" onerror=\"this.src='Graphics/ClassicalThemes/16sentence.png'\" src=\"Graphics/ClassicalThemes/16sentence.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/16sentence.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של משפט מוזיקלי בן שש־עשרה תיבות. שמונה תיבות ההצגה כוללות רעיון בסיסי מורכב וחזרתו, כל אחד BI ו־CI, בהארכת טוניקה ללא קדנצה. שמונה תיבות ההמשך כוללות continuation + cadential ומסתיימות ב־PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורה תלת־חלקית קטנה {#small-ternary}</h2>",
+      "source_text": "צורה תלת־חלקית קטנה {#small-ternary}",
+      "spoken": "צורה תלת־חלקית קטנה {#small-ternary}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לפרטים נוספים, ראו <a href=\"smallTernary.html\">צורה תלת־חלקית קטנה</a>.</p>",
+      "source_text": "לפרטים נוספים, ראו צורה תלת־חלקית קטנה.",
+      "spoken": "לפרטים נוספים, ראו צורה תלת־חלקית קטנה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים צורה תלת־חלקית קטנה — smallTernary\" onerror=\"this.src='Graphics/ClassicalThemes/smallTernary.png'\" src=\"Graphics/ClassicalThemes/smallTernary.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/smallTernary.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נוסף של צורה תלת־חלקית קטנה. התצוגה יכולה להסתיים ב־I:HC, I:PAC או בקדנצה בטונליות משנית; האמצע המנוגד מסתיים ב־I:HC או V:PAC; הרפריזה ב־I:PAC. סוגי הקדנצות והסימנים הגרפיים מראים כיצד החלקים נבדלים בתפקידם.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>צורה דו־חלקית קטנה {#small-binary}</h2>",
+      "source_text": "צורה דו־חלקית קטנה {#small-binary}",
+      "spoken": "צורה דו־חלקית קטנה {#small-binary}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לפרטים נוספים, ראו <a href=\"smallBinary.html\">צורה דו־חלקית קטנה</a>.</p>",
+      "source_text": "לפרטים נוספים, ראו צורה דו־חלקית קטנה.",
+      "spoken": "לפרטים נוספים, ראו צורה דו־חלקית קטנה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים צורה דו־חלקית קטנה — smallBinary\" onerror=\"this.src='Graphics/ClassicalThemes/smallBinary.png'\" src=\"Graphics/ClassicalThemes/smallBinary.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/smallBinary.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נוסף של צורה דו־חלקית קטנה. החלק הראשון נפרד בסימן חזרה ומאפשר כמה יעדים טונליים, והחלק השני אינו מחויב לרפריזה. הכיתובים Contrasting Middle?, Consequent, Continuation, Cadential? מציגים אפשרויות שונות לארגונו, לפני I:PAC בסיום.",
+      "reviewed": true
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/ClassicalThemes/sentence.svg",
+      "Graphics/ClassicalThemes/period.svg",
+      "Graphics/ClassicalThemes/hybrid1.svg",
+      "Graphics/ClassicalThemes/hybrid2.svg",
+      "Graphics/ClassicalThemes/hybrid3.svg",
+      "Graphics/ClassicalThemes/hybrid4.svg",
+      "Graphics/ClassicalThemes/16period-sent.svg",
+      "Graphics/ClassicalThemes/16period-hybrid1.svg",
+      "Graphics/ClassicalThemes/16period-hybrid3.svg",
+      "Graphics/ClassicalThemes/16sentence.svg",
+      "Graphics/ClassicalThemes/smallTernary.svg",
+      "Graphics/ClassicalThemes/smallBinary.svg"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "Classical Form",
+        "target": "https://openlibrary.org/works/OL2689355W/Classical_form"
+      },
+      {
+        "label": "תפקידים נושאיים במוזיקה הקלאסית",
+        "target": "themeFunctions.html"
+      },
+      {
+        "label": "משפט מוזיקלי",
+        "target": "sentence.html"
+      },
+      {
+        "label": "",
+        "target": "sentence.html"
+      },
+      {
+        "label": "פריודה",
+        "target": "period.html"
+      },
+      {
+        "label": "נושאים היברידיים",
+        "target": "hybridThemes.html"
+      },
+      {
+        "label": "פריודות מורכבות",
+        "target": "compoundPeriod.html"
+      },
+      {
+        "label": "משפטים מוזיקליים מורכבים",
+        "target": "compoundSentence.html"
+      },
+      {
+        "label": "צורה תלת־חלקית קטנה",
+        "target": "smallTernary.html"
+      },
+      {
+        "label": "צורה דו־חלקית קטנה",
+        "target": "smallBinary.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

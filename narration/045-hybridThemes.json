@@ -1,0 +1,303 @@
+{
+  "chapter": 45,
+  "source": "hybridThemes.md",
+  "title": "045 — נושאים היברידיים",
+  "source_sha256": "b9edc3c37e99a8669ebf2e62b1f26e37224a47956bfbcdd873ca39636fdead05",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>נושאים היברידיים</em> (hybrid themes) משלבים את <a href=\"themeFunctions.html\">המאפיינים התפקודיים</a> של <a href=\"sentence.html\">משפטים מוזיקליים</a> ושל <a href=\"period.html\">פריודות</a>. William Caplin זיהה ארבעה טיפוסים עיקריים:</p>",
+      "source_text": "נושאים היברידיים (hybrid themes) משלבים את המאפיינים התפקודיים של משפטים מוזיקליים ושל פריודות. William Caplin זיהה ארבעה טיפוסים עיקריים:",
+      "spoken": "נושאים היברידיים (hybrid themes) משלבים את המאפיינים התפקודיים של משפטים מוזיקליים ושל פריודות. William Caplin זיהה ארבעה טיפוסים עיקריים:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>טיפוס היברידי 1</h2>",
+      "source_text": "טיפוס היברידי 1",
+      "spoken": "טיפוס היברידי 1"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>טיפוס היברידי 1 משלב <a href=\"themeFunctions.html#antecedent\">פראזה פותחת</a> עם <a href=\"themeFunctions.html#continuation\">פראזת המשך</a>.</p>",
+      "source_text": "טיפוס היברידי 1 משלב פראזה פותחת עם פראזת המשך.",
+      "spoken": "טיפוס היברידי 1 משלב פראזה פותחת עם פראזת המשך."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"טיפוס היברידי 1: פראזה פותחת ופראזת המשך\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid1.png'\" src=\"Graphics/ClassicalThemes/hybrid1.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid1.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 1: שאלה ואחריה המשך. השאלה מכילה BI ו־CI ומסתיימת ב־HC או IAC; היחידה השנייה היא continuation + cadential ומסיימת ב־HC, IAC או PAC. המודל משלב פתיחת פריודה עם סיום של משפט.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"מוצרט, סונטה לפסנתר ב־C מז׳ור, K. 330, פרק שני, תיבות 1–8: פראזה פותחת והמשך\" src=\"/Graphics/form/k330-ii.png\"/>",
+      "asset": "Graphics/form/k330-ii.png",
+      "spoken": "בגירסה הכתובה מופיע כאן נושא לפסנתר בהוראת Andante cantabile, הנפרש על שמונה תיבות ושתי מערכות. בחצי הראשון קשתות ויחידות קצרות מציגות שאלה; בחצי השני התנועה נעשית רציפה יותר ומגיעה לסיום. האצבועים ושינויי הדינמיקה נשמרים בתיווי הכתוב.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "פראזה פותחת והמשך: מוצרט, סונטה לפסנתר ב־C מז׳ור, K. 330, פרק שני, תיבות 1–8",
+      "spoken": "פראזה פותחת והמשך: מוצרט, סונטה לפסנתר ב־C מז׳ור, K. 330, פרק שני, תיבות 1–8"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd\" title=\"הקלטת מוצרט, K. 330, פרק שני: טיפוס היברידי 1\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת מוצרט, K. 330, פרק שני: טיפוס היברידי 1. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>דוגמה טיפוסית מופיעה בשמונה התיבות הראשונות של הפרק השני בסונטה לפסנתר ב־C מז׳ור מאת מוצרט. הפראזה הפותחת מכילה רעיון בסיסי המתאפיין בתווים החוזרים היוצרים את הקדמה שלו. אחריו מופיע רעיון מנוגד הבנוי מעלייה בסולם, המובילה לחצי־קדנצה של הפראזה בתיבה 4. אחרי הפראזה הפותחת המוזיקה מתחילה לבטא תפקיד המשך, בעיקר באמצעות פיצול ליחידות קצרות יותר והאצת מקצב פני השטח. באמצע תיבה 6, המוטיבים המלודיים האופייניים מתפרקים לתבניות סולמיות מוסכמיות המובילות ל־<strong>V:PAC</strong>.</p>",
+      "source_text": "דוגמה טיפוסית מופיעה בשמונה התיבות הראשונות של הפרק השני בסונטה לפסנתר ב־C מז׳ור מאת מוצרט. הפראזה הפותחת מכילה רעיון בסיסי המתאפיין בתווים החוזרים היוצרים את הקדמה שלו. אחריו מופיע רעיון מנוגד הבנוי מעלייה בסולם, המובילה לחצי־קדנצה של הפראזה בתיבה 4. אחרי הפראזה הפותחת המוזיקה מתחילה לבטא תפקיד המשך, בעיקר באמצעות פיצול ליחידות קצרות יותר והאצת מקצב פני השטח. באמצע תיבה 6, המוטיבים המלודיים האופייניים מתפרקים לתבניות סולמיות מוסכמיות המובילות ל־V:PAC.",
+      "spoken": "דוגמה טיפוסית מופיעה בשמונה התיבות הראשונות של הפרק השני בסונטה לפסנתר ב־C מז׳ור מאת מוצרט. הפראזה הפותחת מכילה רעיון בסיסי המתאפיין בתווים החוזרים היוצרים את הקדמה שלו. אחריו מופיע רעיון מנוגד הבנוי מעלייה בסולם, המובילה לחצי־קדנצה של הפראזה בתיבה 4. אחרי הפראזה הפותחת המוזיקה מתחילה לבטא תפקיד המשך, בעיקר באמצעות פיצול ליחידות קצרות יותר והאצת מקצב פני השטח. באמצע תיבה 6, המוטיבים המלודיים האופייניים מתפרקים לתבניות סולמיות מוסכמיות המובילות ל־V:PAC."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>טיפוס היברידי 2</h2>",
+      "source_text": "טיפוס היברידי 2",
+      "spoken": "טיפוס היברידי 2"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>טיפוס היברידי 2 משלב פראזה פותחת עם מהלך קדנציאלי בן ארבע תיבות.</p>",
+      "source_text": "טיפוס היברידי 2 משלב פראזה פותחת עם מהלך קדנציאלי בן ארבע תיבות.",
+      "spoken": "טיפוס היברידי 2 משלב פראזה פותחת עם מהלך קדנציאלי בן ארבע תיבות."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"טיפוס היברידי 2: פראזה פותחת ומהלך קדנציאלי\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid2.png'\" src=\"Graphics/ClassicalThemes/hybrid2.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid2.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 2: שאלה ואחריה מהלך קדנציאלי. השאלה כוללת BI ו־CI ומסתיימת ב־HC או IAC. במקום יחידת המשך שלמה, החצי השני מסומן Cadential Progression ומוביל ל־HC, IAC או PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"היידן, רביעיית מיתרים ב־G מז׳ור, Hob. III:66, פרק שני, תיבות 1–8: פראזה פותחת ופראזה קדנציאלית\" src=\"/Graphics/form/haydn-III-66-ii.png\"/>",
+      "asset": "Graphics/form/haydn-III-66-ii.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמה לפסנתר במשקל 3/4 ובה שתי יחידות בעלות אופי שונה. בחצי הראשון המלודיה מקוטעת במנוחות ובקשתות קצרות; בחצי השני מופיע מהלך הרמוני ממוקד לקדנצה. שתי המערכות מדגימות את מבנה השאלה והמהלך הקדנציאלי.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "פראזה פותחת ופראזה קדנציאלית: היידן, רביעיית מיתרים ב־G מז׳ור, Hob. III:66, פרק שני, תיבות 1–8",
+      "spoken": "פראזה פותחת ופראזה קדנציאלית: היידן, רביעיית מיתרים ב־G מז׳ור, Hob. III:66, פרק שני, תיבות 1–8"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj\" title=\"הקלטת היידן, Hob. III:66, פרק שני: טיפוס היברידי 2\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת היידן, Hob. III:66, פרק שני: טיפוס היברידי 2. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כאן ארבע התיבות שאחרי הפראזה הפותחת תומכות במהלך קדנציאלי יחיד:</p>",
+      "source_text": "כאן ארבע התיבות שאחרי הפראזה הפותחת תומכות במהלך קדנציאלי יחיד:",
+      "spoken": "כאן ארבע התיבות שאחרי הפראזה הפותחת תומכות במהלך קדנציאלי יחיד:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>I6 ii6/5 V I</strong></p>",
+      "source_text": "I6 ii6/5 V I",
+      "spoken": "I6 ii6/5 V I"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שימו לב שפראזה זו, בת ארבע התיבות, אינה מציגה שום סימן של <a href=\"themeFunctions.html#continuation\">תפקיד המשך</a>.</p>",
+      "source_text": "שימו לב שפראזה זו, בת ארבע התיבות, אינה מציגה שום סימן של תפקיד המשך.",
+      "spoken": "שימו לב שפראזה זו, בת ארבע התיבות, אינה מציגה שום סימן של תפקיד המשך."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>הרעיון הבסיסי המורכב</h2>",
+      "source_text": "הרעיון הבסיסי המורכב",
+      "spoken": "הרעיון הבסיסי המורכב"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כשם שמלחינים משלבים לעיתים מאפיינים שונים של שני טיפוסי הנושא העיקריים, כך נפוצים גם שילובים של טיפוסי פראזה שונים. <em>הרעיון הבסיסי המורכב</em> (compound basic idea, או CBI) משלב את המאפיינים המלודיים של <a href=\"themeFunctions.html#antecedent\">התפקיד הפותח</a> עם המאפיינים ההרמוניים של <a href=\"themeFunctions.html#presentation\">תפקיד ההצגה</a>. כמו פראזה פותחת, הוא מציג רעיון בסיסי ואחריו רעיון מנוגד. אולם כמו פראזת הצגה, הרעיון הבסיסי המורכב פשוט מאריך טוניקה, בלי להסתיים בקדנצה.</p>",
+      "source_text": "כשם שמלחינים משלבים לעיתים מאפיינים שונים של שני טיפוסי הנושא העיקריים, כך נפוצים גם שילובים של טיפוסי פראזה שונים. הרעיון הבסיסי המורכב (compound basic idea, או CBI) משלב את המאפיינים המלודיים של התפקיד הפותח עם המאפיינים ההרמוניים של תפקיד ההצגה. כמו פראזה פותחת, הוא מציג רעיון בסיסי ואחריו רעיון מנוגד. אולם כמו פראזת הצגה, הרעיון הבסיסי המורכב פשוט מאריך טוניקה, בלי להסתיים בקדנצה.",
+      "spoken": "כשם שמלחינים משלבים לעיתים מאפיינים שונים של שני טיפוסי הנושא העיקריים, כך נפוצים גם שילובים של טיפוסי פראזה שונים. הרעיון הבסיסי המורכב (compound basic idea, או CBI) משלב את המאפיינים המלודיים של התפקיד הפותח עם המאפיינים ההרמוניים של תפקיד ההצגה. כמו פראזה פותחת, הוא מציג רעיון בסיסי ואחריו רעיון מנוגד. אולם כמו פראזת הצגה, הרעיון הבסיסי המורכב פשוט מאריך טוניקה, בלי להסתיים בקדנצה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>טיפוס היברידי 3</h2>",
+      "source_text": "טיפוס היברידי 3",
+      "spoken": "טיפוס היברידי 3"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הטיפוס ההיברידי השלישי דומה מאוד ל<a href=\"hybridThemes.html#hybrid-1\">טיפוס הראשון</a>. אולם במקום להתחיל בפראזה פותחת, הפראזה הראשונה שלו היא <a href=\"hybridThemes.html#the-compound-basic-idea\">רעיון בסיסי מורכב</a>. אחרי הרעיון הבסיסי המורכב, טיפוס היברידי 3 מסתיים בפראזת המשך הנחתמת בקדנצה.</p>",
+      "source_text": "הטיפוס ההיברידי השלישי דומה מאוד לטיפוס הראשון. אולם במקום להתחיל בפראזה פותחת, הפראזה הראשונה שלו היא רעיון בסיסי מורכב. אחרי הרעיון הבסיסי המורכב, טיפוס היברידי 3 מסתיים בפראזת המשך הנחתמת בקדנצה.",
+      "spoken": "הטיפוס ההיברידי השלישי דומה מאוד לטיפוס הראשון. אולם במקום להתחיל בפראזה פותחת, הפראזה הראשונה שלו היא רעיון בסיסי מורכב. אחרי הרעיון הבסיסי המורכב, טיפוס היברידי 3 מסתיים בפראזת המשך הנחתמת בקדנצה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"טיפוס היברידי 3: רעיון בסיסי מורכב ופראזת המשך\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid3.png'\" src=\"Graphics/ClassicalThemes/hybrid3.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid3.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 3: רעיון בסיסי מורכב והמשך. הרעיון המורכב כולל BI ו־CI בהארכת טוניקה וללא קדנצה. החצי השני משלב המשך וקדנצה ויכול להסתיים ב־HC, IAC או PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"בטהובן, סונטה לכינור, אופוס 30 מס׳ 2, פרק שלישי, תיבות 1–8: רעיון בסיסי מורכב והמשך\" src=\"/Graphics/form/beethoven_op30.png\"/>",
+      "asset": "Graphics/form/beethoven_op30.png",
+      "spoken": "בגירסה הכתובה מופיע כאן נושא לפסנתר במשקל 2/4 ובהוראת Allegro. ארבע התיבות הראשונות מציגות יחידות קצרות מעל בס ואקורדים; ארבע הבאות מעבות את התנועה ומובילות לקדנצה. סימני sforzando וקשתות תוחמים את הרעיונות ואת ההמשך.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "רעיון בסיסי מורכב והמשך: בטהובן, סונטה לכינור, אופוס 30 מס׳ 2, פרק שלישי, תיבות 1–8",
+      "spoken": "רעיון בסיסי מורכב והמשך: בטהובן, סונטה לכינור, אופוס 30 מס׳ 2, פרק שלישי, תיבות 1–8"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT\" title=\"הקלטת בטהובן, אופוס 30 מס׳ 2, פרק שלישי: טיפוס היברידי 3\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת בטהובן, אופוס 30 מס׳ 2, פרק שלישי: טיפוס היברידי 3. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בדוגמה זו, מן הסונטה לכינור אופוס 30 של בטהובן, המבנה המלודי של הפראזה הראשונה מכיל שני רעיונות מנוגדים, שכל אחד מהם מתחיל באותה תבנית מנוקדת. עם זאת, בניגוד לפראזה פותחת טיפוסית, הפראזה רק מאריכה טוניקה: <strong>V6</strong> בפעימה האחרונה של תיבה 3 מעטר את הטוניקה באמצעות תנועת שכן תחתון, במקום ליצור חיתוך קדנציאלי. לכן נכון יותר להבין את הפראזה כ<a href=\"hybridThemes.html#the-compound-basic-idea\">״רעיון בסיסי מורכב״</a>.</p>",
+      "source_text": "בדוגמה זו, מן הסונטה לכינור אופוס 30 של בטהובן, המבנה המלודי של הפראזה הראשונה מכיל שני רעיונות מנוגדים, שכל אחד מהם מתחיל באותה תבנית מנוקדת. עם זאת, בניגוד לפראזה פותחת טיפוסית, הפראזה רק מאריכה טוניקה: V6 בפעימה האחרונה של תיבה 3 מעטר את הטוניקה באמצעות תנועת שכן תחתון, במקום ליצור חיתוך קדנציאלי. לכן נכון יותר להבין את הפראזה כ״רעיון בסיסי מורכב״.",
+      "spoken": "בדוגמה זו, מן הסונטה לכינור אופוס 30 של בטהובן, המבנה המלודי של הפראזה הראשונה מכיל שני רעיונות מנוגדים, שכל אחד מהם מתחיל באותה תבנית מנוקדת. עם זאת, בניגוד לפראזה פותחת טיפוסית, הפראזה רק מאריכה טוניקה: V6 בפעימה האחרונה של תיבה 3 מעטר את הטוניקה באמצעות תנועת שכן תחתון, במקום ליצור חיתוך קדנציאלי. לכן נכון יותר להבין את הפראזה כ״רעיון בסיסי מורכב״."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הפראזה המסיימת היא פראזת המשך טיפוסית, המתבטאת בפיצול ליחידות קצרות יותר, בסקוונצה מלודית ובהאצת המקצב ההרמוני.</p>",
+      "source_text": "הפראזה המסיימת היא פראזת המשך טיפוסית, המתבטאת בפיצול ליחידות קצרות יותר, בסקוונצה מלודית ובהאצת המקצב ההרמוני.",
+      "spoken": "הפראזה המסיימת היא פראזת המשך טיפוסית, המתבטאת בפיצול ליחידות קצרות יותר, בסקוונצה מלודית ובהאצת המקצב ההרמוני."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>טיפוס היברידי 4</h2>",
+      "source_text": "טיפוס היברידי 4",
+      "spoken": "טיפוס היברידי 4"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>טיפוס היברידי 4 דומה לפריודה, אלא שהפראזה הראשונה היא ״רעיון בסיסי מורכב״ ולא פראזה פותחת. אחרי <a href=\"hybridThemes.html#the-compound-basic-idea\">הרעיון הבסיסי המורכב</a>, הפראזה המסיימת מבטאת את תפקידה של פראזה עונה. בדרך כלל היא משנה את החזרה של הרעיון המנוגד, כך שהנושא מסתיים בקדנצה חזקה.</p>",
+      "source_text": "טיפוס היברידי 4 דומה לפריודה, אלא שהפראזה הראשונה היא ״רעיון בסיסי מורכב״ ולא פראזה פותחת. אחרי הרעיון הבסיסי המורכב, הפראזה המסיימת מבטאת את תפקידה של פראזה עונה. בדרך כלל היא משנה את החזרה של הרעיון המנוגד, כך שהנושא מסתיים בקדנצה חזקה.",
+      "spoken": "טיפוס היברידי 4 דומה לפריודה, אלא שהפראזה הראשונה היא ״רעיון בסיסי מורכב״ ולא פראזה פותחת. אחרי הרעיון הבסיסי המורכב, הפראזה המסיימת מבטאת את תפקידה של פראזה עונה. בדרך כלל היא משנה את החזרה של הרעיון המנוגד, כך שהנושא מסתיים בקדנצה חזקה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"טיפוס היברידי 4: רעיון בסיסי מורכב ופראזה עונה\" onerror=\"this.src='Graphics/ClassicalThemes/hybrid4.png'\" src=\"Graphics/ClassicalThemes/hybrid4.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/hybrid4.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים נושא היברידי מסוג 4: רעיון בסיסי מורכב ותשובה. היחידה הראשונה כוללת BI ו־CI בהארכת טוניקה ללא קדנצה. היחידה השנייה חוזרת למבנה BI ו־CI אך מסתיימת ב־PAC, ולכן מתפקדת כתשובת פריודה.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"בטהובן, רביעיית מיתרים ב־G מז׳ור, אופוס 18 מס׳ 2, פרק רביעי, תיבות 1–8: רעיון בסיסי מורכב ופראזה עונה\" src=\"/Graphics/form/beethoven_18_2.png\"/>",
+      "asset": "Graphics/form/beethoven_18_2.png",
+      "spoken": "בגירסה הכתובה מופיע כאן פתיחת נושא לארבעה כלי קשת ובהוראת Allegro molto quasi Presto. בתחילה הצ׳לו לבדו מציג תנועה חוזרת בעוד שלושת הקולות האחרים בהפסקות; בהמשך כולם מצטרפים ברעיונות קצרים וקשתות. כניסות הקולות וסימני הדינמיקה מבליטים את ארגון הנושא.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "רעיון בסיסי מורכב ופראזה עונה: בטהובן, רביעיית מיתרים ב־G מז׳ור, אופוס 18 מס׳ 2, פרק רביעי, תיבות 1–8",
+      "spoken": "רעיון בסיסי מורכב ופראזה עונה: בטהובן, רביעיית מיתרים ב־G מז׳ור, אופוס 18 מס׳ 2, פרק רביעי, תיבות 1–8"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N\" title=\"הקלטת בטהובן, אופוס 18 מס׳ 2, פרק רביעי: טיפוס היברידי 4\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת בטהובן, אופוס 18 מס׳ 2, פרק רביעי: טיפוס היברידי 4. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הצגת הפראזה הראשונה בצ׳לו מכילה שני רעיונות מלודיים מובחנים. אולם סיום הפראזה על C4 בתיבה 4 אינו מספיק ליצירת סגירה קדנציאלית. כששאר כלי המיתר מצטרפים בתיבה 5, הם מעבדים את אותם רעיונות בסיסיים ומנוגדים, אך יכולים ליצור <strong>I:PAC</strong> לסיום הפראזה העונה.</p>",
+      "source_text": "הצגת הפראזה הראשונה בצ׳לו מכילה שני רעיונות מלודיים מובחנים. אולם סיום הפראזה על C4 בתיבה 4 אינו מספיק ליצירת סגירה קדנציאלית. כששאר כלי המיתר מצטרפים בתיבה 5, הם מעבדים את אותם רעיונות בסיסיים ומנוגדים, אך יכולים ליצור I:PAC לסיום הפראזה העונה.",
+      "spoken": "הצגת הפראזה הראשונה בצ׳לו מכילה שני רעיונות מלודיים מובחנים. אולם סיום הפראזה על C4 בתיבה 4 אינו מספיק ליצירת סגירה קדנציאלית. כששאר כלי המיתר מצטרפים בתיבה 5, הם מעבדים את אותם רעיונות בסיסיים ומנוגדים, אך יכולים ליצור I:PAC לסיום הפראזה העונה."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/ClassicalThemes/hybrid1.svg",
+      "Graphics/form/k330-ii.png",
+      "Graphics/ClassicalThemes/hybrid2.svg",
+      "Graphics/form/haydn-III-66-ii.png",
+      "Graphics/ClassicalThemes/hybrid3.svg",
+      "Graphics/form/beethoven_op30.png",
+      "Graphics/ClassicalThemes/hybrid4.svg",
+      "Graphics/form/beethoven_18_2.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A2l74mmkDhW5DxN7LNnkeSd",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A2Dyh8LMXHEv4Hxchepyubj",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A2MeFF0iyjMts1juRwgDXAT",
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A5AevVo3SRuHLJIZpz0WT6N"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "המאפיינים התפקודיים",
+        "target": "themeFunctions.html"
+      },
+      {
+        "label": "משפטים מוזיקליים",
+        "target": "sentence.html"
+      },
+      {
+        "label": "פריודות",
+        "target": "period.html"
+      },
+      {
+        "label": "פראזה פותחת",
+        "target": "themeFunctions.html#antecedent"
+      },
+      {
+        "label": "פראזת המשך",
+        "target": "themeFunctions.html#continuation"
+      },
+      {
+        "label": "תפקיד המשך",
+        "target": "themeFunctions.html#continuation"
+      },
+      {
+        "label": "התפקיד הפותח",
+        "target": "themeFunctions.html#antecedent"
+      },
+      {
+        "label": "תפקיד ההצגה",
+        "target": "themeFunctions.html#presentation"
+      },
+      {
+        "label": "טיפוס הראשון",
+        "target": "hybridThemes.html#hybrid-1"
+      },
+      {
+        "label": "רעיון בסיסי מורכב",
+        "target": "hybridThemes.html#the-compound-basic-idea"
+      },
+      {
+        "label": "״רעיון בסיסי מורכב״",
+        "target": "hybridThemes.html#the-compound-basic-idea"
+      },
+      {
+        "label": "הרעיון הבסיסי המורכב",
+        "target": "hybridThemes.html#the-compound-basic-idea"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

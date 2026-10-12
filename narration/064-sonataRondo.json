@@ -1,0 +1,90 @@
+{
+  "chapter": 64,
+  "source": "sonataRondo.md",
+  "title": "064 — סונטה־רונדו",
+  "source_sha256": "d835ef5e03b6f865eac921c0f26be350c472fb7082f703f1bc390609ba40d744",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>סונטה־רונדו (sonata rondo), שתבניתה <bdi dir=\"ltr\">ABACABA</bdi>, מציגה אותם חילופים בין חטיבה חוזרת (refrain) לאפיזודה (episode) המצויים ברונדו בן חמישה חלקים, אך היבטים מסוימים של צורת הסונטה חודרים לחילופים אלה.</p>",
+      "source_text": "סונטה־רונדו (sonata rondo), שתבניתה ABACABA, מציגה אותם חילופים בין חטיבה חוזרת (refrain) לאפיזודה (episode) המצויים ברונדו בן חמישה חלקים, אך היבטים מסוימים של צורת הסונטה חודרים לחילופים אלה.",
+      "spoken": "סונטה־רונדו (sonata rondo), שתבניתה ABACABA, מציגה אותם חילופים בין חטיבה חוזרת (refrain) לאפיזודה (episode) המצויים ברונדו בן חמישה חלקים, אך היבטים מסוימים של צורת הסונטה חודרים לחילופים אלה."
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th>תפקיד צורני</th>\n<th>החטיבות לפי סדר הופעתן</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>תצוגה</td>\n<td>חטיבה חוזרת 1; אפיזודה 1</td>\n</tr>\n<tr>\n<td>חזרת החטיבה החוזרת</td>\n<td>חטיבה חוזרת 2</td>\n</tr>\n<tr>\n<td>פיתוח או נושא פנימי</td>\n<td>אפיזודה 2</td>\n</tr>\n<tr>\n<td>רפריזה</td>\n<td>חטיבה חוזרת 3; אפיזודה 3</td>\n</tr>\n<tr>\n<td>חזרה מסיימת</td>\n<td>חטיבה חוזרת 4</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "תפקיד צורני",
+          "החטיבות לפי סדר הופעתן"
+        ],
+        [
+          "תצוגה",
+          "חטיבה חוזרת 1; אפיזודה 1"
+        ],
+        [
+          "חזרת החטיבה החוזרת",
+          "חטיבה חוזרת 2"
+        ],
+        [
+          "פיתוח או נושא פנימי",
+          "אפיזודה 2"
+        ],
+        [
+          "רפריזה",
+          "חטיבה חוזרת 3; אפיזודה 3"
+        ],
+        [
+          "חזרה מסיימת",
+          "חטיבה חוזרת 4"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלה הקושרת בין חטיבות הרונדו לתפקידי צורת הסונטה. בתצוגה חטיבה חוזרת 1 ואפיזודה 1; אחריה חטיבה חוזרת 2. אפיזודה 2 מתפקדת כפיתוח או כנושא פנימי. ברפריזה חטיבה חוזרת 3 ואפיזודה 3, ובסיום חטיבה חוזרת 4. המספור מאפשר לזהות גם חזרות וגם תפקידים צורניים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת מהדורה:</strong> התרשים המיושר באמצעות רווחים במקור הוסב לטבלה. סדר שבע החטיבות והקיבוץ המוסבר בשלושת הסעיפים שלהלן נשמרו. ראו N109.</p>",
+      "source_text": "הערת מהדורה: התרשים המיושר באמצעות רווחים במקור הוסב לטבלה. סדר שבע החטיבות והקיבוץ המוסבר בשלושת הסעיפים שלהלן נשמרו. ראו N109.",
+      "spoken": "הערת מהדורה: התרשים המיושר באמצעות רווחים במקור הוסב לטבלה. סדר שבע החטיבות והקיבוץ המוסבר בשלושת הסעיפים שלהלן נשמרו. ראו N109."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>חטיבה חוזרת 1 ואפיזודה 1 יוצרות תצוגת סונטה, החוזרת כרפריזה בחטיבה חוזרת 3 ובאפיזודה 3. כמו בצורת סונטה, הרפריזה מכילה ״התאמה טונלית״, כך שתסתיים בטונליות הטוניקה. כלומר, אפיזודות 1 ו־3 זהות מבחינה נושאית, אך אפיזודה 3 תהיה בטונליות הטוניקה.</li>",
+      "source_text": "חטיבה חוזרת 1 ואפיזודה 1 יוצרות תצוגת סונטה, החוזרת כרפריזה בחטיבה חוזרת 3 ובאפיזודה 3. כמו בצורת סונטה, הרפריזה מכילה ״התאמה טונלית״, כך שתסתיים בטונליות הטוניקה. כלומר, אפיזודות 1 ו־3 זהות מבחינה נושאית, אך אפיזודה 3 תהיה בטונליות הטוניקה.",
+      "spoken": "חטיבה חוזרת 1 ואפיזודה 1 יוצרות תצוגת סונטה, החוזרת כרפריזה בחטיבה חוזרת 3 ובאפיזודה 3. כמו בצורת סונטה, הרפריזה מכילה ״התאמה טונלית״, כך שתסתיים בטונליות הטוניקה. כלומר, אפיזודות 1 ו־3 זהות מבחינה נושאית, אך אפיזודה 3 תהיה בטונליות הטוניקה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>בשל הדמיון לצורת סונטה, האפיזודות הראשונה והשלישית בנויות תמיד כ״מכלולי נושא שני״ (second-theme complexes).</li>",
+      "source_text": "בשל הדמיון לצורת סונטה, האפיזודות הראשונה והשלישית בנויות תמיד כ״מכלולי נושא שני״ (second-theme complexes).",
+      "spoken": "בשל הדמיון לצורת סונטה, האפיזודות הראשונה והשלישית בנויות תמיד כ״מכלולי נושא שני״ (second-theme complexes)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>אפיזודה 2, המסומנת C בתרשים המקוצר לעיל, עשויה להיות פיתוח — אולי עם אזור הכנה (prep-zone), אזור הפעולה המרכזית (CAZ) ומעבר חוזר — או נושא פנימי פשוט יותר.</li>",
+      "source_text": "אפיזודה 2, המסומנת C בתרשים המקוצר לעיל, עשויה להיות פיתוח — אולי עם אזור הכנה (prep-zone), אזור הפעולה המרכזית (CAZ) ומעבר חוזר — או נושא פנימי פשוט יותר.",
+      "spoken": "אפיזודה 2, המסומנת C בתרשים המקוצר לעיל, עשויה להיות פיתוח — אולי עם אזור הכנה (prep-zone), אזור הפעולה המרכזית (CAZ) ומעבר חוזר — או נושא פנימי פשוט יותר."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 1,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [],
+    "singular_tav_pointed": true
+  }
+}

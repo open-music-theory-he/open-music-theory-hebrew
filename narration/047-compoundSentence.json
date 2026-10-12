@@ -1,0 +1,112 @@
+{
+  "chapter": 47,
+  "source": "compoundSentence.md",
+  "title": "047 — משפט מוזיקלי מורכב",
+  "source_sha256": "a6e2f65c6e23d28e36440d9c1643026b6291b20339e4e93be6717be5f9860ac4",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המשפט המוזיקלי המורכב (compound sentence), המכונה גם משפט בן 16 תיבות, מרחיב הן את פראזת ההצגה והן את פראזת ההמשך של <a href=\"sentence.html\">משפט מוזיקלי</a> רגיל לשמונה תיבות כל אחת.</p>",
+      "source_text": "המשפט המוזיקלי המורכב (compound sentence), המכונה גם משפט בן 16 תיבות, מרחיב הן את פראזת ההצגה והן את פראזת ההמשך של משפט מוזיקלי רגיל לשמונה תיבות כל אחת.",
+      "spoken": "המשפט המוזיקלי המורכב (compound sentence), המכונה גם משפט בן 16 תיבות, מרחיב הן את פראזת ההצגה והן את פראזת ההמשך של משפט מוזיקלי רגיל לשמונה תיבות כל אחת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בהצגה המורחבת, כל רעיון בסיסי בן שתי תיבות מוחלף ב<a href=\"hybridThemes.html#the-compound-basic-idea\">רעיון בסיסי מורכב</a> בן ארבע תיבות.</p>",
+      "source_text": "בהצגה המורחבת, כל רעיון בסיסי בן שתי תיבות מוחלף ברעיון בסיסי מורכב בן ארבע תיבות.",
+      "spoken": "בהצגה המורחבת, כל רעיון בסיסי בן שתי תיבות מוחלף ברעיון בסיסי מורכב בן ארבע תיבות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המשך ״טיפוסי״ יכלול כארבע תיבות בתפקיד המשך ואחריהן ארבע תיבות בתפקיד קדנציאלי, אך במשפט מורכב יש בכך שונות רבה. לעיתים קרובות ההמשך מתקצר או <a href=\"internalExpansions.html\">מתרחב</a>.</p>",
+      "source_text": "המשך ״טיפוסי״ יכלול כארבע תיבות בתפקיד המשך ואחריהן ארבע תיבות בתפקיד קדנציאלי, אך במשפט מורכב יש בכך שונות רבה. לעיתים קרובות ההמשך מתקצר או מתרחב.",
+      "spoken": "המשך ״טיפוסי״ יכלול כארבע תיבות בתפקיד המשך ואחריהן ארבע תיבות בתפקיד קדנציאלי, אך במשפט מורכב יש בכך שונות רבה. לעיתים קרובות ההמשך מתקצר או מתרחב."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים משפט מוזיקלי מורכב: הצגה והמשך מורחבים\" onerror=\"this.src='Graphics/ClassicalThemes/16sentence.png'\" src=\"Graphics/ClassicalThemes/16sentence.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/16sentence.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של משפט מוזיקלי בן שש־עשרה תיבות. שמונה תיבות ההצגה כוללות רעיון בסיסי מורכב וחזרתו, כל אחד BI ו־CI, בהארכת טוניקה ללא קדנצה. שמונה תיבות ההמשך כוללות continuation + cadential ומסתיימות ב־PAC.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שמונה התיבות המרכיבות את ההצגה של הנושא הראשי שלהלן בנויות משני רעיונות בסיסיים מורכבים. הראשון מתחיל בטוניקה ועובר לדומיננטה (תיבות 1–4), והשני מתחיל בהרמוניה של דומיננטה וחוזר לטוניקה (תיבות 5–8).</p>",
+      "source_text": "שמונה התיבות המרכיבות את ההצגה של הנושא הראשי שלהלן בנויות משני רעיונות בסיסיים מורכבים. הראשון מתחיל בטוניקה ועובר לדומיננטה (תיבות 1–4), והשני מתחיל בהרמוניה של דומיננטה וחוזר לטוניקה (תיבות 5–8).",
+      "spoken": "שמונה התיבות המרכיבות את ההצגה של הנושא הראשי שלהלן בנויות משני רעיונות בסיסיים מורכבים. הראשון מתחיל בטוניקה ועובר לדומיננטה (תיבות 1–4), והשני מתחיל בהרמוניה של דומיננטה וחוזר לטוניקה (תיבות 5–8)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת המהדורה העברית:</strong> במקור נכתב כאן continuation (המשך). תיאור שתי היחידות בתיבות 1–8 תואם את ההצגה, לפי ההגדרה והתרשים שבאותו פרק; ההמשך מתואר בפסקה הבאה, החל בתיבה 9. תוקנה המילה בלבד, והתיקון תועד ביומן ההערות.</p>",
+      "source_text": "הערת המהדורה העברית: במקור נכתב כאן continuation (המשך). תיאור שתי היחידות בתיבות 1–8 תואם את ההצגה, לפי ההגדרה והתרשים שבאותו פרק; ההמשך מתואר בפסקה הבאה, החל בתיבה 9. תוקנה המילה בלבד, והתיקון תועד ביומן ההערות.",
+      "spoken": "הערת המהדורה העברית: במקור נכתב כאן continuation (המשך). תיאור שתי היחידות בתיבות 1–8 תואם את ההצגה, לפי ההגדרה והתרשים שבאותו פרק; ההמשך מתואר בפסקה הבאה, החל בתיבה 9. תוקנה המילה בלבד, והתיקון תועד ביומן ההערות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בתחילה נדמה שההמשך יסתיים לאחר ארבע תיבות בלבד, בתיבה 12. אך הקלרינט אינו מנגן בפעמה הראשונה של תיבה 12, ובמקום זאת מתחיל חוליית קישור אל <a href=\"internalExpansions.html#phrase-expansion\">חזרה בת ארבע תיבות</a>. בחזרה זו (תיבות 13–16), הפסנתר מנגן את מנגינת הקלרינט מתיבות 9–12 ומגיע בבירור לקדנצה אותנטית מושלמת (PAC) בפעמה הראשונה של תיבה 16.</p>",
+      "source_text": "בתחילה נדמה שההמשך יסתיים לאחר ארבע תיבות בלבד, בתיבה 12. אך הקלרינט אינו מנגן בפעמה הראשונה של תיבה 12, ובמקום זאת מתחיל חוליית קישור אל חזרה בת ארבע תיבות. בחזרה זו (תיבות 13–16), הפסנתר מנגן את מנגינת הקלרינט מתיבות 9–12 ומגיע בבירור לקדנצה אותנטית מושלמת (PAC) בפעמה הראשונה של תיבה 16.",
+      "spoken": "בתחילה נדמה שההמשך יסתיים לאחר ארבע תיבות בלבד, בתיבה 12. אך הקלרינט אינו מנגן בפעמה הראשונה של תיבה 12, ובמקום זאת מתחיל חוליית קישור אל חזרה בת ארבע תיבות. בחזרה זו (תיבות 13–16), הפסנתר מנגן את מנגינת הקלרינט מתיבות 9–12 ומגיע בבירור לקדנצה אותנטית מושלמת (PAC) בפעמה הראשונה של תיבה 16."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תווים לדוגמת המשפט המורכב בטריו של מוצרט, קכל 498\" src=\"/Graphics/form/k498.png\"/>",
+      "asset": "Graphics/form/k498.png",
+      "spoken": "בגירסה הכתובה מופיע כאן קטע לשלישיית כלים: שתי חמשות לכלי מנגינה ומערכת לפסנתר, בהוראת Andante. בתחילה כלי אחד בהפסקות והמלודיה עוברת בין השותפים בהמשך. שלוש המערכות מדגימות חזרת רעיונות, שינויי מרקם והתקדמות אל קדנצה במשפט מורכב.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "משפט מוזיקלי מורכב: מוצרט, טריו במי במול מז׳ור לקלרינט, ויולה ופסנתר, קכל 498, פרק ראשון, תיבות 1–16",
+      "spoken": "משפט מוזיקלי מורכב: מוצרט, טריו במי במול מז׳ור לקלרינט, ויולה ופסנתר, קכל 498, פרק ראשון, תיבות 1–16"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify%3Atrack%3A2i04xcBOAjx413oclWSzxx\" title=\"הקלטת הטריו של מוצרט, קכל 498, ב־Spotify\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify%3Atrack%3A2i04xcBOAjx413oclWSzxx",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת הטריו של מוצרט, קכל 498, ב־Spotify. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/ClassicalThemes/16sentence.svg",
+      "Graphics/form/k498.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify%3Atrack%3A2i04xcBOAjx413oclWSzxx"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "משפט מוזיקלי",
+        "target": "sentence.html"
+      },
+      {
+        "label": "רעיון בסיסי מורכב",
+        "target": "hybridThemes.html#the-compound-basic-idea"
+      },
+      {
+        "label": "מתרחב",
+        "target": "internalExpansions.html"
+      },
+      {
+        "label": "חזרה בת ארבע תיבות",
+        "target": "internalExpansions.html#phrase-expansion"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

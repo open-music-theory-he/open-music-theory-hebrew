@@ -1,0 +1,99 @@
+{
+  "chapter": 83,
+  "source": "twelveToneOperations.md",
+  "title": "083 — מוזיקת שנים־עשר טונים — פעולות",
+  "source_sha256": "afb3762a7eecea326b313a2e4703537f2f90f97992459cc37052ae23922d9541",
+  "status": "prepared-awaiting-media-review",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כמו קבוצות מחלקות גובה צליל, שורות שנים־עשר טונים יכולות לעבור טרנספוזיציה (<em>Tn</em>), היפוך (<em>I</em>), או טרנספוזיציה והיפוך (<em>TnI</em>). כמו ב<a href=\"transposition.html\">טרנספוזיציה של קבוצה</a>, מעתיקים שורה באמצעות <em>הוספת</em> ערך קבוע לכל מחלקות גובה הצליל שלה, <em>תוך שמירה על הסדר</em>. בדוגמה להלן הועתקה <strong>P11</strong> באמצעות <em>T11</em>, בהוספת 11 לכל מחלקה, במודולו 12. השורה החדשה מכונה <strong>P10</strong>, משום שהיא מתחילה במחלקה 10.</p>",
+      "source_text": "כמו קבוצות מחלקות גובה צליל, שורות שנים־עשר טונים יכולות לעבור טרנספוזיציה (Tn), היפוך (I), או טרנספוזיציה והיפוך (TnI). כמו בטרנספוזיציה של קבוצה, מעתיקים שורה באמצעות הוספת ערך קבוע לכל מחלקות גובה הצליל שלה, תוך שמירה על הסדר. בדוגמה להלן הועתקה P11 באמצעות T11, בהוספת 11 לכל מחלקה, במודולו 12. השורה החדשה מכונה P10, משום שהיא מתחילה במחלקה 10.",
+      "spoken": "כמו קבוצות מחלקות גובה צליל, שורות שנים־עשר טונים יכולות לעבור טרנספוזיציה (Tn), היפוך (I), או טרנספוזיציה והיפוך (TnI). כמו בטרנספוזיציה של קבוצה, מעתיקים שורה באמצעות הוספת ערך קבוע לכל מחלקות גובה הצליל שלה, תוך שמירה על הסדר. בדוגמה להלן הועתקה P11 באמצעות T11, בהוספת 11 לכל מחלקה, במודולו 12. השורה החדשה מכונה P10, משום שהיא מתחילה במחלקה 10."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>היפוך מתבצע כאשר <em>מחסירים</em> כל מחלקת גובה צליל בשורה מערך קבוע. בדוגמה להלן, <em>T10I</em> של <strong>P11</strong> מתבצע באמצעות חיסור כל מחלקה של <strong>P11</strong> מ־10, וכך מתקבל היפוך של <strong>P11</strong>.</p>",
+      "source_text": "היפוך מתבצע כאשר מחסירים כל מחלקת גובה צליל בשורה מערך קבוע. בדוגמה להלן, T10I של P11 מתבצע באמצעות חיסור כל מחלקה של P11 מ־10, וכך מתקבל היפוך של P11.",
+      "spoken": "היפוך מתבצע כאשר מחסירים כל מחלקת גובה צליל בשורה מערך קבוע. בדוגמה להלן, T10I של P11 מתבצע באמצעות חיסור כל מחלקה של P11 מ־10, וכך מתקבל היפוך של P11."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שורות שנים־עשר טונים יכולות לעבור גם <em>הילוך לאחור</em> (retrograde), המסומן <em>R</em>: קוראים את השורה בסדר הפוך. קריאת <strong>P11</strong> לאחור נותנת את צורת השורה המוצגת מתחת ל־<strong>P11</strong> בדוגמה, <strong>R11</strong>. זכרו ששורות לאחור מסומנות לפי מחלקת גובה הצליל <em>האחרונה</em>. קריאת <strong>I0</strong> לאחור נותנת <strong>RI0</strong>, המופיעה מיד מתחתיה.</p>",
+      "source_text": "שורות שנים־עשר טונים יכולות לעבור גם הילוך לאחור (retrograde), המסומן R: קוראים את השורה בסדר הפוך. קריאת P11 לאחור נותנת את צורת השורה המוצגת מתחת ל־P11 בדוגמה, R11. זכרו ששורות לאחור מסומנות לפי מחלקת גובה הצליל האחרונה. קריאת I0 לאחור נותנת RI0, המופיעה מיד מתחתיה.",
+      "spoken": "שורות שנים־עשר טונים יכולות לעבור גם הילוך לאחור (retrograde), המסומן R: קוראים את השורה בסדר הפוך. קריאת P11 לאחור נותנת את צורת השורה המוצגת מתחת ל־P11 בדוגמה, R11. זכרו ששורות לאחור מסומנות לפי מחלקת גובה הצליל האחרונה. קריאת I0 לאחור נותנת RI0, המופיעה מיד מתחתיה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"טרנספוזיציה, היפוך והילוך לאחור של שורת שנים־עשר טונים\" src=\"/Graphics/postTonal/operations.png\"/>",
+      "asset": "Graphics/postTonal/operations.png",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של פעולות על שורת שנים־עשר טונים. P11 מופיעה בתווים ובמספרים, וממנה חצים ל־P10 ול־I0 באמצעות טרנספוזיציה והיפוך. חצי R מובילים לקריאות לאחור R10 ו־RI0, ומתחת לרצפים רשומים המרווחים המסודרים בין הצלילים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>חשוב להבחין בין <em>פעולות</em> לבין צורות שורה, מפני שסימוניהן לעיתים דומים. בחומרי עזר אלה, <em>פעולות</em> כגון טרנספוזיציה והיפוך יודגשו תמיד בכתב נטוי, ואילו <strong>צורות שורה</strong> בכתב מודגש.</p>",
+      "source_text": "חשוב להבחין בין פעולות לבין צורות שורה, מפני שסימוניהן לעיתים דומים. בחומרי עזר אלה, פעולות כגון טרנספוזיציה והיפוך יודגשו תמיד בכתב נטוי, ואילו צורות שורה בכתב מודגש.",
+      "spoken": "חשוב להבחין בין פעולות לבין צורות שורה, מפני שסימוניהן לעיתים דומים. בחומרי עזר אלה, פעולות כגון טרנספוזיציה והיפוך יודגשו תמיד בכתב נטוי, ואילו צורות שורה בכתב מודגש."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>עליכם לשנן את השפעת הטרנספוזיציה, ההיפוך וההילוך לאחור על כל סוג שורה: לדעת איזו <strong>צורת שורה</strong> מתקבלת כאשר מבצעים עליה <em>פעולה</em>. למשל, אם מבצעים <em>טרנספוזיציה</em> לצורת <strong>P</strong>, איזה סוג מתקבל? ומה מתקבל כשמנגנים צורת <strong>RI</strong> לאחור? תרשים הזרימה להלן יסייע:</p>",
+      "source_text": "עליכם לשנן את השפעת הטרנספוזיציה, ההיפוך וההילוך לאחור על כל סוג שורה: לדעת איזו צורת שורה מתקבלת כאשר מבצעים עליה פעולה. למשל, אם מבצעים טרנספוזיציה לצורת P, איזה סוג מתקבל? ומה מתקבל כשמנגנים צורת RI לאחור? תרשים הזרימה להלן יסייע:",
+      "spoken": "עליכם לשנן את השפעת הטרנספוזיציה, ההיפוך וההילוך לאחור על כל סוג שורה: לדעת איזו צורת שורה מתקבלת כאשר מבצעים עליה פעולה. למשל, אם מבצעים טרנספוזיציה לצורת P, איזה סוג מתקבל? ומה מתקבל כשמנגנים צורת RI לאחור? תרשים הזרימה להלן יסייע:"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים השפעת הפעולות על סוגי צורות השורה\" src=\"/Graphics/postTonal/abstractedRowClass.png\"/>",
+      "asset": "Graphics/postTonal/abstractedRowClass.png",
+      "spoken": "בגירסה הכתובה מופיע כאן איור שמקורו אינו זמין בקובצי הספר. אין עדיין תיאור מאומת לאיור זה; יש להשלים את בדיקתו לפני ההקלטה.",
+      "reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת מהדורה:</strong> הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123.</p>",
+      "source_text": "הערת מהדורה: הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123.",
+      "spoken": "הערת מהדורה: הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": false,
+    "visual_assets": [
+      "Graphics/postTonal/operations.png",
+      "Graphics/postTonal/abstractedRowClass.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [
+      {
+        "kind": "missing-image",
+        "asset": "Graphics/postTonal/abstractedRowClass.png"
+      }
+    ],
+    "omissions": [],
+    "links": [
+      {
+        "label": "טרנספוזיציה של קבוצה",
+        "target": "transposition.html"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/operations.png"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/abstractedRowClass.png"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

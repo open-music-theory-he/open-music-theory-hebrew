@@ -1,0 +1,1347 @@
+{
+  "chapter": 68,
+  "source": "schemataSummary.md",
+  "title": "068 — סכמות בסגנון הגלנט — סיכום",
+  "source_sha256": "0ad43f3f48d575e7611050bb626f66c969a4afec0734680818e9e8e8696c4455",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת המהדורה העברית:</strong> הברות הסולפז׳ בטבלאות נשמרות בלטינית כדרגות יחסיות. סדר השלבים הוא משמאל לימין. האותיות הרומיות הגדולות הן סימוני המקור ואינן קובעות שכל האקורדים מז׳וריים. Cad. מסמן את האקורד הקדנציאלי; T, Tx, S ו־D נשמרים בשיטת התפקידים של הספר.</p>",
+      "source_text": "הערת המהדורה העברית: הברות הסולפז׳ בטבלאות נשמרות בלטינית כדרגות יחסיות. סדר השלבים הוא משמאל לימין. האותיות הרומיות הגדולות הן סימוני המקור ואינן קובעות שכל האקורדים מז׳וריים. Cad. מסמן את האקורד הקדנציאלי; T, Tx, S ו־D נשמרים בשיטת התפקידים של הספר.",
+      "spoken": "הערת המהדורה העברית: הברות הסולפז׳ בטבלאות נשמרות בלטינית כדרגות יחסיות. סדר השלבים הוא משמאל לימין. האותיות הרומיות הגדולות הן סימוני המקור ואינן קובעות שכל האקורדים מז׳וריים. Cad. מסמן את האקורד הקדנציאלי; T, Tx, S ו־D נשמרים בשיטת התפקידים של הספר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h1>פתיחות — פראזות הצגה</h1>",
+      "source_text": "פתיחות — פראזות הצגה",
+      "spoken": "פתיחות — פראזות הצגה"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הסכמות שלהלן נוטות להופיע בתחילת נושאים, לעיתים קרובות כשלד לפראזת הצגה במשפט מוזיקלי (<a href=\"sentence.html\">sentence</a>).</p>",
+      "source_text": "הסכמות שלהלן נוטות להופיע בתחילת נושאים, לעיתים קרובות כשלד לפראזת הצגה במשפט מוזיקלי (sentence).",
+      "spoken": "הסכמות שלהלן נוטות להופיע בתחילת נושאים, לעיתים קרובות כשלד לפראזת הצגה במשפט מוזיקלי (sentence)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>הערה: אף שסכמות אלה מוצגות במז׳ור, את רובן אפשר להעביר ישירות למינור.</em></p>",
+      "source_text": "הערה: אף שסכמות אלה מוצגות במז׳ור, את רובן אפשר להעביר ישירות למינור.",
+      "spoken": "הערה: אף שסכמות אלה מוצגות במז׳ור, את רובן אפשר להעביר ישירות למינור."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Meyer</h2>",
+      "source_text": "Meyer",
+      "spoken": "Meyer"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">4/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "do",
+          "ti",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "re",
+          "ti",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "4/3",
+          "6/5",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: do, ti, fa, mi. בס: do, re, ti, do. : , , , . בס ממוספר: 5/3, 4/3, 6/5, 5/3. מספרים רומיים: I, V, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Jupiter</h2>",
+      "source_text": "Jupiter",
+      "spoken": "Jupiter"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "do",
+          "re",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "ti",
+          "ti",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/5",
+          "6/5",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: do, re, fa, mi. בס: do, ti, ti, do. : , , , . בס ממוספר: 5/3, 6/5, 6/5, 5/3. מספרים רומיים: I, V, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>או</p>",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "do",
+          "re",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "sol",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "7",
+          "7",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: do, re, fa, mi. בס: do, sol, sol, do. : , , , . בס ממוספר: 5/3, 7, 7, 5/3. מספרים רומיים: I, V, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Aprile</h2>",
+      "source_text": "Aprile",
+      "spoken": "Aprile"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">4/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "do",
+          "ti",
+          "re",
+          "do"
+        ],
+        [
+          "בס:",
+          "do",
+          "re",
+          "ti",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "4/3",
+          "6/5",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: do, ti, re, do. בס: do, re, ti, do. : , , , . בס ממוספר: 5/3, 4/3, 6/5, 5/3. מספרים רומיים: I, V, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Pastorella</h2>",
+      "source_text": "Pastorella",
+      "spoken": "Pastorella"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "mi",
+          "re",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "sol",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "7",
+          "7",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: mi, re, fa, mi. בס: do, sol, sol, do. : , , , . בס ממוספר: 5/3, 7, 7, 5/3. מספרים רומיים: I, V, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Do–Re–Mi</h2>",
+      "source_text": "Do–Re–Mi",
+      "spoken": "Do–Re–Mi"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אף שהגרסה בת שלושת השלבים נפוצה, גרסה זו בת ארבעת השלבים אופיינית יותר לשימוש בפראזת הצגה.</p>",
+      "source_text": "אף שהגרסה בת שלושת השלבים נפוצה, גרסה זו בת ארבעת השלבים אופיינית יותר לשימוש בפראזת הצגה.",
+      "spoken": "אף שהגרסה בת שלושת השלבים נפוצה, גרסה זו בת ארבעת השלבים אופיינית יותר לשימוש בפראזת הצגה."
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "do",
+          "re",
+          "re",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "ti",
+          "ti",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/5",
+          "6/5",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: do, re, re, mi. בס: do, ti, ti, do. : , , , . בס ממוספר: 5/3, 6/5, 6/5, 5/3. מספרים רומיים: I, V, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>(אפשר להשתמש גם באקורדי דומיננטה במצב יסודי.)</p>",
+      "source_text": "(אפשר להשתמש גם באקורדי דומיננטה במצב יסודי.)",
+      "spoken": "(אפשר להשתמש גם באקורדי דומיננטה במצב יסודי.)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Sol–Fa–Mi</h2>",
+      "source_text": "Sol–Fa–Mi",
+      "spoken": "Sol–Fa–Mi"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">II</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">S</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "sol",
+          "fa",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "re",
+          "ti",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "5/3",
+          "6/5",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "II",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "S",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: sol, fa, fa, mi. בס: do, re, ti, do. : , , , . בס ממוספר: 5/3, 5/3, 6/5, 5/3. מספרים רומיים: I, II, V, I. תפקידים: T, S, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>או</p>",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">VII</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "sol",
+          "fa",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "do",
+          "re",
+          "ti",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3",
+          "6/5",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "VII",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: sol, fa, fa, mi. בס: do, re, ti, do. : , , , . בס ממוספר: 5/3, 6/3, 6/5, 5/3. מספרים רומיים: I, VII, V, I. תפקידים: T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Romanesca</h2>",
+      "source_text": "Romanesca",
+      "spoken": "Romanesca"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>la</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">VI</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">Tx</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "sol",
+          "sol",
+          "do",
+          "sol"
+        ],
+        [
+          "בס:",
+          "do",
+          "ti",
+          "la",
+          "mi"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3",
+          "5/3",
+          "6/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "VI",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "T",
+          "D",
+          "Tx",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: sol, sol, do, sol. בס: do, ti, la, mi. : , , , . בס ממוספר: 5/3, 6/3, 5/3, 6/3. מספרים רומיים: I, V, VI, I. תפקידים: T, D, Tx, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המלודיה של סכמה זו גמישה למדי. הבס וההרמוניה הם הרכיבים המגדירים יותר. שימו לב גם שסכמה זו נפוצה הרבה יותר בפרקים איטיים, בהשוואה לסכמות ההצגה האחרות.</p>",
+      "source_text": "המלודיה של סכמה זו גמישה למדי. הבס וההרמוניה הם הרכיבים המגדירים יותר. שימו לב גם שסכמה זו נפוצה הרבה יותר בפרקים איטיים, בהשוואה לסכמות ההצגה האחרות.",
+      "spoken": "המלודיה של סכמה זו גמישה למדי. הבס וההרמוניה הם הרכיבים המגדירים יותר. שימו לב גם שסכמה זו נפוצה הרבה יותר בפרקים איטיים, בהשוואה לסכמות ההצגה האחרות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h1>סכמות המשך</h1>",
+      "source_text": "סכמות המשך",
+      "spoken": "סכמות המשך"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Prinner</h2>",
+      "source_text": "Prinner",
+      "spoken": "Prinner"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>la</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">7–6/3</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">IV</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">VII</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">S</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "la",
+          "sol",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "fa",
+          "mi",
+          "re",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3",
+          "7–6/3",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "IV",
+          "I",
+          "VII",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "S",
+          "T",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: la, sol, fa, mi. בס: fa, mi, re, do. : , , , . בס ממוספר: 5/3, 6/3, 7–6/3, 5/3. מספרים רומיים: IV, I, VII, I. תפקידים: S, T, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>או</p>",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n<th style=\"text-align: center;\">5</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>la</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">7–6/3</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">IV</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">VII</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">S</td>\n<td style=\"text-align: center;\">T</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "מלודיה:",
+          "la",
+          "sol",
+          "fa",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "fa",
+          "mi",
+          "re",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3",
+          "7–6/3",
+          "7",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "IV",
+          "I",
+          "VII",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "S",
+          "T",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 5 שלבים לפי סדרם משמאל לימין. מלודיה: la, sol, fa, fa, mi. בס: fa, mi, re, sol, do. : , , , , . בס ממוספר: 5/3, 6/3, 7–6/3, 7, 5/3. מספרים רומיים: IV, I, VII, V, I. תפקידים: S, T, D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Prinner מודולטורית</h2>",
+      "source_text": "Prinner מודולטורית",
+      "spoken": "Prinner מודולטורית"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>סכמה זו יוצרת מודולציה מהטוניקה אל הדומיננטה. היא פראזת המשך נפוצה במשפט מודולטורי. היא גם שלד נפוץ לקטע <em>טוטי</em> (tutti), שבו מנגן ההרכב כולו, בתחילת יחידת המעבר בפרק סונטה או סימפוניה.</p>",
+      "source_text": "סכמה זו יוצרת מודולציה מהטוניקה אל הדומיננטה. היא פראזת המשך נפוצה במשפט מודולטורי. היא גם שלד נפוץ לקטע טוטי (tutti), שבו מנגן ההרכב כולו, בתחילת יחידת המעבר בפרק סונטה או סימפוניה.",
+      "spoken": "סכמה זו יוצרת מודולציה מהטוניקה אל הדומיננטה. היא פראזת המשך נפוצה במשפט מודולטורי. היא גם שלד נפוץ לקטע טוטי (tutti), שבו מנגן ההרכב כולו, בתחילת יחידת המעבר בפרק סונטה או סימפוניה."
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>la</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">7–#6/3</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">VII/V</td>\n<td style=\"text-align: center;\">V</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        [
+          "מלודיה:",
+          "mi",
+          "re",
+          "do",
+          "ti"
+        ],
+        [
+          "בס:",
+          "do",
+          "ti",
+          "la",
+          "sol"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3",
+          "7–#6/3",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "VII/V",
+          "V"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 4 שלבים לפי סדרם משמאל לימין. מלודיה: mi, re, do, ti. בס: do, ti, la, sol. : , , , . בס ממוספר: 5/3, 6/3, 7–#6/3, 5/3. מספרים רומיים: I, V, VII/V, V. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>או</p>",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n<th style=\"text-align: center;\">4</th>\n<th style=\"text-align: center;\">5</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n<td style=\"text-align: center;\"><em>la</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">7–#6/3</td>\n<td style=\"text-align: center;\">7/#</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">VII/V</td>\n<td style=\"text-align: center;\">V/V</td>\n<td style=\"text-align: center;\">V</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        [
+          "מלודיה:",
+          "mi",
+          "re",
+          "do",
+          "do",
+          "ti"
+        ],
+        [
+          "בס:",
+          "do",
+          "ti",
+          "la",
+          "re",
+          "sol"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3",
+          "7–#6/3",
+          "7/#",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V",
+          "VII/V",
+          "V/V",
+          "V"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 5 שלבים לפי סדרם משמאל לימין. מלודיה: mi, re, do, do, ti. בס: do, ti, la, re, sol. : , , , , . בס ממוספר: 5/3, 6/3, 7–#6/3, 7/#, 5/3. מספרים רומיים: I, V, VII/V, V/V, V. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>Passo Indietro</h2>",
+      "source_text": "Passo Indietro",
+      "spoken": "Passo Indietro"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>la</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">IV</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">S</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2"
+        ],
+        [
+          "מלודיה:",
+          "la",
+          "sol"
+        ],
+        [
+          "בס:",
+          "fa",
+          "mi"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "IV",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "S",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 2 שלבים לפי סדרם משמאל לימין. מלודיה: la, sol. בס: fa, mi. : , . בס ממוספר: 5/3, 6/3. מספרים רומיים: IV, I. תפקידים: S, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אלה למעשה שני השלבים הראשונים של Prinner. לעיתים קרובות מושמטים שני השלבים האחרונים כדי לפנות מקום לתבנית קדנצה.</p>",
+      "source_text": "אלה למעשה שני השלבים הראשונים של Prinner. לעיתים קרובות מושמטים שני השלבים האחרונים כדי לפנות מקום לתבנית קדנצה.",
+      "spoken": "אלה למעשה שני השלבים הראשונים של Prinner. לעיתים קרובות מושמטים שני השלבים האחרונים כדי לפנות מקום לתבנית קדנצה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כמו Prinner, גם ל־Passo Indietro יש ״גרסה מודולטורית״: שני השלבים הראשונים של Prinner המודולטורית.</p>",
+      "source_text": "כמו Prinner, גם ל־Passo Indietro יש ״גרסה מודולטורית״: שני השלבים הראשונים של Prinner המודולטורית.",
+      "spoken": "כמו Prinner, גם ל־Passo Indietro יש ״גרסה מודולטורית״: שני השלבים הראשונים של Prinner המודולטורית."
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">5/3</td>\n<td style=\"text-align: center;\">6/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">I</td>\n<td style=\"text-align: center;\">V</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2"
+        ],
+        [
+          "מלודיה:",
+          "mi",
+          "re"
+        ],
+        [
+          "בס:",
+          "do",
+          "ti"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "5/3",
+          "6/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "I",
+          "V"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 2 שלבים לפי סדרם משמאל לימין. מלודיה: mi, re. בס: do, ti. : , . בס ממוספר: 5/3, 6/3. מספרים רומיים: I, V. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h1>קדנצות</h1>",
+      "source_text": "קדנצות",
+      "spoken": "קדנצות"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>קדנצה אותנטית מושלמת פשוטה (PAC)</h2>",
+      "source_text": "קדנצה אותנטית מושלמת פשוטה (PAC)",
+      "spoken": "קדנצה אותנטית מושלמת פשוטה (PAC)"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">(7)</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2"
+        ],
+        [
+          "מלודיה:",
+          "re",
+          "do"
+        ],
+        [
+          "בס:",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "(7)",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 2 שלבים לפי סדרם משמאל לימין. מלודיה: re, do. בס: sol, do. : , . בס ממוספר: (7), 5/3. מספרים רומיים: V, I. תפקידים: D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>קדנצה אותנטית בלתי מושלמת פשוטה (IAC)</h2>",
+      "source_text": "קדנצה אותנטית בלתי מושלמת פשוטה (IAC)",
+      "spoken": "קדנצה אותנטית בלתי מושלמת פשוטה (IAC)"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2"
+        ],
+        [
+          "מלודיה:",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "7",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 2 שלבים לפי סדרם משמאל לימין. מלודיה: fa, mi. בס: sol, do. : , . בס ממוספר: 7, 5/3. מספרים רומיים: V, I. תפקידים: D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>חצי קדנצה עם fa–fi–sol בבס (HC)</h2>",
+      "source_text": "חצי קדנצה עם fa–fi–sol בבס (HC)",
+      "spoken": "חצי קדנצה עם fa–fi–sol בבס (HC)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>זו דרך נפוצה להגיע לחצי קדנצה, במיוחד בסוף יחידת המעבר (TR) בפרק בצורת סונטה. הרכיב המגדיר הוא קו הבס: <em>fa</em>–<em>fi</em>–<em>sol</em>. המלודיה <em>re</em>–<em>do</em>–<em>ti</em> נפוצה, והיא הפעילה ביותר מבין האפשרויות המתאימות להרמוניות. לדוגמאות ראו מוצרט K. 545, פרק ראשון, תיבות 10–11; וכן K. 333, פרק ראשון, תיבות 17–18.</p>",
+      "source_text": "זו דרך נפוצה להגיע לחצי קדנצה, במיוחד בסוף יחידת המעבר (TR) בפרק בצורת סונטה. הרכיב המגדיר הוא קו הבס: fa–fi–sol. המלודיה re–do–ti נפוצה, והיא הפעילה ביותר מבין האפשרויות המתאימות להרמוניות. לדוגמאות ראו מוצרט K. 545, פרק ראשון, תיבות 10–11; וכן K. 333, פרק ראשון, תיבות 17–18.",
+      "spoken": "זו דרך נפוצה להגיע לחצי קדנצה, במיוחד בסוף יחידת המעבר (TR) בפרק בצורת סונטה. הרכיב המגדיר הוא קו הבס: fa–fi–sol. המלודיה re–do–ti נפוצה, והיא הפעילה ביותר מבין האפשרויות המתאימות להרמוניות. לדוגמאות ראו מוצרט K. 545, פרק ראשון, תיבות 10–11; וכן K. 333, פרק ראשון, תיבות 17–18."
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n<td style=\"text-align: center;\"><em>ti</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>fi</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">6/3</td>\n<td style=\"text-align: center;\">6/5</td>\n<td style=\"text-align: center;\">(7)</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">II</td>\n<td style=\"text-align: center;\">V/V</td>\n<td style=\"text-align: center;\">V</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">S</td>\n<td style=\"text-align: center;\">S</td>\n<td style=\"text-align: center;\">D</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "מלודיה:",
+          "re",
+          "do",
+          "ti"
+        ],
+        [
+          "בס:",
+          "fa",
+          "fi",
+          "sol"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "6/3",
+          "6/5",
+          "(7)"
+        ],
+        [
+          "מספרים רומיים:",
+          "II",
+          "V/V",
+          "V"
+        ],
+        [
+          "תפקידים:",
+          "S",
+          "S",
+          "D"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 3 שלבים לפי סדרם משמאל לימין. מלודיה: re, do, ti. בס: fa, fi, sol. : , , . בס ממוספר: 6/3, 6/5, (7). מספרים רומיים: II, V/V, V. תפקידים: S, S, D. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>קדנצה אותנטית מושלמת מורכבת (PAC)</h2>",
+      "source_text": "קדנצה אותנטית מושלמת מורכבת (PAC)",
+      "spoken": "קדנצה אותנטית מושלמת מורכבת (PAC)"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">(8)/6/4</td>\n<td style=\"text-align: center;\">(7)</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">Cad.</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "מלודיה:",
+          "mi",
+          "re",
+          "do"
+        ],
+        [
+          "בס:",
+          "sol",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "(8)/6/4",
+          "(7)",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "Cad.",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 3 שלבים לפי סדרם משמאל לימין. מלודיה: mi, re, do. בס: sol, sol, do. : , , . בס ממוספר: (8)/6/4, (7), 5/3. מספרים רומיים: Cad., V, I. תפקידים: D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>קדנצה אותנטית בלתי מושלמת מורכבת (IAC)</h2>",
+      "source_text": "קדנצה אותנטית בלתי מושלמת מורכבת (IAC)",
+      "spoken": "קדנצה אותנטית בלתי מושלמת מורכבת (IAC)"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n<th style=\"text-align: center;\">3</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>fa</em></td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>do</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">8/6/4</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">Cad.</td>\n<td style=\"text-align: center;\">V</td>\n<td style=\"text-align: center;\">I</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">T</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "מלודיה:",
+          "sol",
+          "fa",
+          "mi"
+        ],
+        [
+          "בס:",
+          "sol",
+          "sol",
+          "do"
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "8/6/4",
+          "7",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "Cad.",
+          "V",
+          "I"
+        ],
+        [
+          "תפקידים:",
+          "D",
+          "D",
+          "T"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 3 שלבים לפי סדרם משמאל לימין. מלודיה: sol, fa, mi. בס: sol, sol, do. : , , . בס ממוספר: 8/6/4, 7, 5/3. מספרים רומיים: Cad., V, I. תפקידים: D, D, T. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>חצי קדנצה מורכבת (HC)</h2>",
+      "source_text": "חצי קדנצה מורכבת (HC)",
+      "spoken": "חצי קדנצה מורכבת (HC)"
+    },
+    {
+      "kind": "table-explanation",
+      "source": "<table>\n<thead>\n<tr>\n<th style=\"text-align: right;\">שלב:</th>\n<th style=\"text-align: center;\">1</th>\n<th style=\"text-align: center;\">2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: right;\">מלודיה:</td>\n<td style=\"text-align: center;\"><em>mi</em></td>\n<td style=\"text-align: center;\"><em>re</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס:</td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n<td style=\"text-align: center;\"><em>sol</em></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">בס ממוספר:</td>\n<td style=\"text-align: center;\">6/4</td>\n<td style=\"text-align: center;\">5/3</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">מספרים רומיים:</td>\n<td style=\"text-align: center;\">Cad.</td>\n<td style=\"text-align: center;\">V</td>\n</tr>\n<tr>\n<td style=\"text-align: right;\">תפקידים:</td>\n<td style=\"text-align: center;\">D</td>\n<td style=\"text-align: center;\">D</td>\n</tr>\n</tbody>\n</table>",
+      "rows": [
+        [
+          "שלב:",
+          "1",
+          "2"
+        ],
+        [
+          "מלודיה:",
+          "mi",
+          "re"
+        ],
+        [
+          "בס:",
+          "sol",
+          "sol"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "בס ממוספר:",
+          "6/4",
+          "5/3"
+        ],
+        [
+          "מספרים רומיים:",
+          "Cad.",
+          "V"
+        ],
+        [
+          "תפקידים:",
+          "D",
+          "D"
+        ]
+      ],
+      "spoken": "בגירסה הכתובה מופיעה כאן טבלת שלבים של הסכמה, המשווה בין הקו המלודי, קו הבס והניתוח ההרמוני. יש 2 שלבים לפי סדרם משמאל לימין. מלודיה: mi, re. בס: sol, sol. : , . בס ממוספר: 6/4, 5/3. מספרים רומיים: Cad., V. תפקידים: D, D. ההשוואה בין הקווים מראה כיצד אותם שלבים מקבלים גם תיאור של צלילים וגם ניתוח של האקורדים והתפקידים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>(אפשר להגיע לחצי הקדנצה המורכבת מכל אקורד <strong>S</strong>, ואף מסיומו של אזור הארכת הטוניקה.)</p>",
+      "source_text": "(אפשר להגיע לחצי הקדנצה המורכבת מכל אקורד S, ואף מסיומו של אזור הארכת הטוניקה.)",
+      "spoken": "(אפשר להגיע לחצי הקדנצה המורכבת מכל אקורד S, ואף מסיומו של אזור הארכת הטוניקה.)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כמובן, קיימות תבניות קדנצה נוספות, אך אלה הישירות ביותר לבניית שלד לאלתור או לחיבור מודל פשוט. לפרטים נוספים על תבניות קדנצה מקובלות ראו <a href=\"cadenceTypes.html\">סוגי קדנצות קלאסיות</a>.</p>",
+      "source_text": "כמובן, קיימות תבניות קדנצה נוספות, אך אלה הישירות ביותר לבניית שלד לאלתור או לחיבור מודל פשוט. לפרטים נוספים על תבניות קדנצה מקובלות ראו סוגי קדנצות קלאסיות.",
+      "spoken": "כמובן, קיימות תבניות קדנצה נוספות, אך אלה הישירות ביותר לבניית שלד לאלתור או לחיבור מודל פשוט. לפרטים נוספים על תבניות קדנצה מקובלות ראו סוגי קדנצות קלאסיות."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 21,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "sentence",
+        "target": "sentence.html"
+      },
+      {
+        "label": "סוגי קדנצות קלאסיות",
+        "target": "cadenceTypes.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

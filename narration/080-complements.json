@@ -1,0 +1,78 @@
+{
+  "chapter": 80,
+  "source": "complements.md",
+  "title": "080 — קבוצות משלימות",
+  "source_sha256": "2011fbf7135db6980d555c439c3c635190ee9ba60156a2f25704ddef5f35a443",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>המשלים הממשי</em> (literal complement) של קבוצת מחלקות גובה צליל מכיל כל צליל שאינו כלול בקבוצה. למשל, המשלים של סולם C מז׳ור בן שבעת הצלילים הוא סולם פנטטוני בן חמישה צלילים: F♯, G♯, A♯, C♯ ו־D♯.</p>",
+      "source_text": "המשלים הממשי (literal complement) של קבוצת מחלקות גובה צליל מכיל כל צליל שאינו כלול בקבוצה. למשל, המשלים של סולם C מז׳ור בן שבעת הצלילים הוא סולם פנטטוני בן חמישה צלילים: F♯, G♯, A♯, C♯ ו־D♯.",
+      "spoken": "המשלים הממשי (literal complement) של קבוצת מחלקות גובה צליל מכיל כל צליל שאינו כלול בקבוצה. למשל, המשלים של סולם C מז׳ור בן שבעת הצלילים הוא סולם פנטטוני בן חמישה צלילים: F♯, G♯, A♯, C♯ ו־D♯."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המשלים של כל קבוצה בת <em>n</em> צלילים (n-chord) הוא תמיד קבוצה בת <bdi dir=\"ltr\">12-n</bdi> צלילים. לפיכך המשלים של קבוצה בת שלושה צלילים (trichord) הוא קבוצה בת תשעה (nonachord), של קבוצה בת ארבעה (tetrachord) — קבוצה בת שמונה (octachord), וכן הלאה.</p>",
+      "source_text": "המשלים של כל קבוצה בת n צלילים (n-chord) הוא תמיד קבוצה בת 12-n צלילים. לפיכך המשלים של קבוצה בת שלושה צלילים (trichord) הוא קבוצה בת תשעה (nonachord), של קבוצה בת ארבעה (tetrachord) — קבוצה בת שמונה (octachord), וכן הלאה.",
+      "spoken": "המשלים של כל קבוצה בת n צלילים (n-chord) הוא תמיד קבוצה בת 12-n צלילים. לפיכך המשלים של קבוצה בת שלושה צלילים (trichord) הוא קבוצה בת תשעה (nonachord), של קבוצה בת ארבעה (tetrachord) — קבוצה בת שמונה (octachord), וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן הקבוצה בת שלושה צלילים <bdi dir=\"ltr\">[0,1,2]</bdi>. המשלים הממשי שלה הוא כל הצלילים שאינם בה: <bdi dir=\"ltr\">[3,4,5,6,7,8,9,T,E]</bdi>. כאשר מציגים את שתי הקבוצות בצורה ראשונית, הן מכונות <em>משלימים מופשטים</em> (abstract complements):</p>",
+      "source_text": "להלן הקבוצה בת שלושה צלילים [0,1,2]. המשלים הממשי שלה הוא כל הצלילים שאינם בה: [3,4,5,6,7,8,9,T,E]. כאשר מציגים את שתי הקבוצות בצורה ראשונית, הן מכונות משלימים מופשטים (abstract complements):",
+      "spoken": "להלן הקבוצה בת שלושה צלילים [0,1,2]. המשלים הממשי שלה הוא כל הצלילים שאינם בה: [3,4,5,6,7,8,9,T,E]. כאשר מציגים את שתי הקבוצות בצורה ראשונית, הן מכונות משלימים מופשטים (abstract complements):"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"קבוצת שלושה צלילים והמשלים שלה, בממשות ובצורה ראשונית\" src=\"/Graphics/postTonal/complements.png\"/>",
+      "asset": "Graphics/postTonal/complements.png",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים המבדיל בין משלים ממשי למשלים מופשט. בשורת Normal Form מופיעות הקבוצות [0,1,2] ו־[3,4,5,6,7,8,9,T,E]; בשורת Prime Form הצורות (012) ו־(012345678). שני המושגים נבדלים מפני שהצורה הראשונית מתירה טרנספוזיציה והיפוך.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ברשימת מחלקות הקבוצה המשלימים המופשטים מופיעים זה לצד זה. ביניהם יחס מרווחי מעניין מאוד, הניכר בהשוואת וקטורי מחלקות המרווח שלהם. במחלקות קבוצה משלימות יש ״התפלגות״ דומה של מרווחים. להלן תראו שבקבוצה <bdi dir=\"ltr\">(012345678)</bdi> יש בדיוק שישה מרווחים נוספים מכל מחלקת מרווח לעומת המשלים שלה, <bdi dir=\"ltr\">(012)</bdi>, פרט לטריטון: ממנו יש רק שלושה נוספים.</p>",
+      "source_text": "ברשימת מחלקות הקבוצה המשלימים המופשטים מופיעים זה לצד זה. ביניהם יחס מרווחי מעניין מאוד, הניכר בהשוואת וקטורי מחלקות המרווח שלהם. במחלקות קבוצה משלימות יש ״התפלגות״ דומה של מרווחים. להלן תראו שבקבוצה (012345678) יש בדיוק שישה מרווחים נוספים מכל מחלקת מרווח לעומת המשלים שלה, (012), פרט לטריטון: ממנו יש רק שלושה נוספים.",
+      "spoken": "ברשימת מחלקות הקבוצה המשלימים המופשטים מופיעים זה לצד זה. ביניהם יחס מרווחי מעניין מאוד, הניכר בהשוואת וקטורי מחלקות המרווח שלהם. במחלקות קבוצה משלימות יש ״התפלגות״ דומה של מרווחים. להלן תראו שבקבוצה (012345678) יש בדיוק שישה מרווחים נוספים מכל מחלקת מרווח לעומת המשלים שלה, (012), פרט לטריטון: ממנו יש רק שלושה נוספים."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"וקטורי מחלקות המרווח של קבוצות משלימות וההפרשים ביניהם\" src=\"/Graphics/postTonal/complementAndItsVector.png\"/>",
+      "asset": "Graphics/postTonal/complementAndItsVector.png",
+      "spoken": "בגירסה הכתובה מופיע כאן השוואת וקטורי מרווח של קבוצה ומשלים. לשלישייה (012) הווקטור ‎<210000>, ולמשלים בן תשעה צלילים ‎<876663>. החץ והסימון +6 מראים שבכל רכיב בווקטור המשלים נוספו שישה מרווחים.",
+      "reviewed": true
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/postTonal/complements.png",
+      "Graphics/postTonal/complementAndItsVector.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/complements.png"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/complementAndItsVector.png"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

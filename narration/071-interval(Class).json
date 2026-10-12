@@ -1,0 +1,198 @@
+{
+  "chapter": 71,
+  "source": "interval(Class).md",
+  "title": "071 — מרווח ומחלקת מרווח",
+  "source_sha256": "c08a44655c4a9c16fc81f4d2dc1325c8a740d5a5176ca8369b1fd95c757dc4aa",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מכיוון שמרווחים תלויים בגבהי הצליל המרכיבים אותם, הקונסוננס והדיסוננס של מרווחים במוזיקה טונלית נקבעים בידי הטונליות עצמה. דמיינו את המרווח G–B♭, טרצה קטנה: בהקשר של G מינור זהו מרווח קונסוננטי. באיות G–A♯ נוצרת סקונדה מוגדלת דיסוננטית. מנקודת מבט טונלית שני המרווחים שונים, אף שבמנותק מן ההקשר הם זהים.</p>",
+      "source_text": "מכיוון שמרווחים תלויים בגבהי הצליל המרכיבים אותם, הקונסוננס והדיסוננס של מרווחים במוזיקה טונלית נקבעים בידי הטונליות עצמה. דמיינו את המרווח G–B♭, טרצה קטנה: בהקשר של G מינור זהו מרווח קונסוננטי. באיות G–A♯ נוצרת סקונדה מוגדלת דיסוננטית. מנקודת מבט טונלית שני המרווחים שונים, אף שבמנותק מן ההקשר הם זהים.",
+      "spoken": "מכיוון שמרווחים תלויים בגבהי הצליל המרכיבים אותם, הקונסוננס והדיסוננס של מרווחים במוזיקה טונלית נקבעים בידי הטונליות עצמה. דמיינו את המרווח G–B♭, טרצה קטנה: בהקשר של G מינור זהו מרווח קונסוננטי. באיות G–A♯ נוצרת סקונדה מוגדלת דיסוננטית. מנקודת מבט טונלית שני המרווחים שונים, אף שבמנותק מן ההקשר הם זהים."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מרווח בין גבהי צליל {#pitch-interval}</h2>",
+      "source_text": "מרווח בין גבהי צליל {#pitch-interval}",
+      "spoken": "מרווח בין גבהי צליל {#pitch-interval}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בניתוח מוזיקה פוסט־טונלית נרצה לעיתים קרובות להדגיש את הדמיון הזה, במיוחד כאשר מניחים שקילות אנהרמונית של גבהי הצליל. לצורכינו, המרווחים G–B♭ ו־G–A♯ <em>הם</em> אותו מרווח.</p>",
+      "source_text": "בניתוח מוזיקה פוסט־טונלית נרצה לעיתים קרובות להדגיש את הדמיון הזה, במיוחד כאשר מניחים שקילות אנהרמונית של גבהי הצליל. לצורכינו, המרווחים G–B♭ ו־G–A♯ הם אותו מרווח.",
+      "spoken": "בניתוח מוזיקה פוסט־טונלית נרצה לעיתים קרובות להדגיש את הדמיון הזה, במיוחד כאשר מניחים שקילות אנהרמונית של גבהי הצליל. לצורכינו, המרווחים G–B♭ ו־G–A♯ הם אותו מרווח."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>מרווח בין גבהי צליל</em> (pitch interval) הוא המרחק בין גבהי צליל, הנמדד בחצאי טונים. לפיכך המרווח מ־G4 ל־A♯5 הוא <bdi dir=\"ltr\">+15</bdi>. חשבו כך: אם אתם ב־G4, כמה חצאי טונים צריך לעבור כדי להגיע ל־A♯5? צריך לעלות 15 חצאי טונים.</p>",
+      "source_text": "מרווח בין גבהי צליל (pitch interval) הוא המרחק בין גבהי צליל, הנמדד בחצאי טונים. לפיכך המרווח מ־G4 ל־A♯5 הוא +15. חשבו כך: אם אתם ב־G4, כמה חצאי טונים צריך לעבור כדי להגיע ל־A♯5? צריך לעלות 15 חצאי טונים.",
+      "spoken": "מרווח בין גבהי צליל (pitch interval) הוא המרחק בין גבהי צליל, הנמדד בחצאי טונים. לפיכך המרווח מ־G4 ל־A♯5 הוא +15. חשבו כך: אם אתם ב־G4, כמה חצאי טונים צריך לעבור כדי להגיע ל־A♯5? צריך לעלות 15 חצאי טונים."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מרווחים בין מחלקות גובה צליל {#pitch-class-intervals}</h2>",
+      "source_text": "מרווחים בין מחלקות גובה צליל {#pitch-class-intervals}",
+      "spoken": "מרווחים בין מחלקות גובה צליל {#pitch-class-intervals}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>מרווחים בין מחלקות גובה צליל</em> (pitch-class intervals) הם המרחק בין מחלקות גובה צליל, הנמדד בחצאי טונים. נחזור למרווח G4–A♯5: כעת מעניינות אותנו רק המחלקות G ו־A♯. כדי לעבור מ־G ל־A♯ במונחי מחלקות גובה צליל, די לעלות 3 חצאי טונים.</p>",
+      "source_text": "מרווחים בין מחלקות גובה צליל (pitch-class intervals) הם המרחק בין מחלקות גובה צליל, הנמדד בחצאי טונים. נחזור למרווח G4–A♯5: כעת מעניינות אותנו רק המחלקות G ו־A♯. כדי לעבור מ־G ל־A♯ במונחי מחלקות גובה צליל, די לעלות 3 חצאי טונים.",
+      "spoken": "מרווחים בין מחלקות גובה צליל (pitch-class intervals) הם המרחק בין מחלקות גובה צליל, הנמדד בחצאי טונים. נחזור למרווח G4–A♯5: כעת מעניינות אותנו רק המחלקות G ו־A♯. כדי לעבור מ־G ל־A♯ במונחי מחלקות גובה צליל, די לעלות 3 חצאי טונים."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מרווחים מסודרים {#ordered-intervals}</h2>",
+      "source_text": "מרווחים מסודרים {#ordered-intervals}",
+      "spoken": "מרווחים מסודרים {#ordered-intervals}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אפשר לחשב מרווחים אלה תוך התחשבות ב<em>סדר</em> הצלילים — G4 ל־A♯5 אינו זהה ל־A♯5 ל־G4 — או בלי להתחשב בסדר, ואז G4 ל־A♯5 זהה ל־A♯5 ל־G4.</p>",
+      "source_text": "אפשר לחשב מרווחים אלה תוך התחשבות בסדר הצלילים — G4 ל־A♯5 אינו זהה ל־A♯5 ל־G4 — או בלי להתחשב בסדר, ואז G4 ל־A♯5 זהה ל־A♯5 ל־G4.",
+      "spoken": "אפשר לחשב מרווחים אלה תוך התחשבות בסדר הצלילים — G4 ל־A♯5 אינו זהה ל־A♯5 ל־G4 — או בלי להתחשב בסדר, ואז G4 ל־A♯5 זהה ל־A♯5 ל־G4."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>מרווח מסודר בין גבהי צליל (ordered pitch interval)</strong></p>",
+      "source_text": "מרווח מסודר בין גבהי צליל (ordered pitch interval)",
+      "spoken": "מרווח מסודר בין גבהי צליל (ordered pitch interval)"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים מרווחים מסודרים בין גבהי צליל, עם כיוון התנועה\" src=\"/Graphics/postTonal/Ordered-Pitch-Interval.jpg\"/>",
+      "asset": "Graphics/postTonal/Ordered-Pitch-Interval.jpg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים מרווח מסודר בין גבהי צליל על קו. חצים בכיוונים מנוגדים מחברים את אותם קצוות ומסומנים בערכים שווי גודל אך מנוגדי סימן. המדידה כוללת גם את גודל המרווח וגם את כיוון התנועה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>למרווח מסודר בין גבהי צליל יש לצרף תמיד סימן ״+״ או ״−״, המציין את כיוון התנועה. המרווח המסודר מ־G4 ל־B♭5 הוא <bdi dir=\"ltr\">+15</bdi>, אך מ־A♯5 ל־G4 הוא <bdi dir=\"ltr\">-15</bdi>.</p>",
+      "source_text": "למרווח מסודר בין גבהי צליל יש לצרף תמיד סימן ״+״ או ״−״, המציין את כיוון התנועה. המרווח המסודר מ־G4 ל־B♭5 הוא +15, אך מ־A♯5 ל־G4 הוא -15.",
+      "spoken": "למרווח מסודר בין גבהי צליל יש לצרף תמיד סימן ״+״ או ״−״, המציין את כיוון התנועה. המרווח המסודר מ־G4 ל־B♭5 הוא +15, אך מ־A♯5 ל־G4 הוא -15."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>מרווח מסודר בין מחלקות גובה צליל (ordered pitch-class interval)</strong></p>",
+      "source_text": "מרווח מסודר בין מחלקות גובה צליל (ordered pitch-class interval)",
+      "spoken": "מרווח מסודר בין מחלקות גובה צליל (ordered pitch-class interval)"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"מרווח בין מחלקות גובה צליל הנמדד בכיוון השעון\" src=\"/Graphics/postTonal/Pitch-Class-Interval.jpg\"/>",
+      "asset": "Graphics/postTonal/Pitch-Class-Interval.jpg",
+      "spoken": "בגירסה הכתובה מופיע כאן לוח שעון המדגים מרווח מסודר בין מחלקות גובה צליל. חץ מתקדם בכיוון השעון בין שתי נקודות והכיתוב מציין ordered pitch-class interval. הספירה במעגל נעשית מודולו 12 ואינה תלויה ברגיסטר.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מרווחים מסודרים בין מחלקות גובה צליל נמדדים סביב ה״שעון״ בכיוון השעון. לפיכך מ־G ל־A♯ המרווח הוא 3, ומ־A♯ ל־G הוא 9.</p>",
+      "source_text": "מרווחים מסודרים בין מחלקות גובה צליל נמדדים סביב ה״שעון״ בכיוון השעון. לפיכך מ־G ל־A♯ המרווח הוא 3, ומ־A♯ ל־G הוא 9.",
+      "spoken": "מרווחים מסודרים בין מחלקות גובה צליל נמדדים סביב ה״שעון״ בכיוון השעון. לפיכך מ־G ל־A♯ המרווח הוא 3, ומ־A♯ ל־G הוא 9."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>מרווחים בלתי מסודרים {#unordered-intervals}</h2>",
+      "source_text": "מרווחים בלתי מסודרים {#unordered-intervals}",
+      "spoken": "מרווחים בלתי מסודרים {#unordered-intervals}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מרווחים בלתי מסודרים (unordered intervals) מייצגים את <em>המרחק הקצר ביותר</em> בין שני גבהי צליל או שתי מחלקות גובה צליל, ללא התייחסות לסדרם. לקביעת המרווח הבלתי מסודר, מצאו פשוט את המרחק הקצר ביותר בין שני גבהי הצליל.</p>",
+      "source_text": "מרווחים בלתי מסודרים (unordered intervals) מייצגים את המרחק הקצר ביותר בין שני גבהי צליל או שתי מחלקות גובה צליל, ללא התייחסות לסדרם. לקביעת המרווח הבלתי מסודר, מצאו פשוט את המרחק הקצר ביותר בין שני גבהי הצליל.",
+      "spoken": "מרווחים בלתי מסודרים (unordered intervals) מייצגים את המרחק הקצר ביותר בין שני גבהי צליל או שתי מחלקות גובה צליל, ללא התייחסות לסדרם. לקביעת המרווח הבלתי מסודר, מצאו פשוט את המרחק הקצר ביותר בין שני גבהי הצליל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>מרווח בלתי מסודר בין גבהי צליל</strong></p>",
+      "source_text": "מרווח בלתי מסודר בין גבהי צליל",
+      "spoken": "מרווח בלתי מסודר בין גבהי צליל"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים מרווח בלתי מסודר בין גבהי צליל\" src=\"/Graphics/postTonal/Unordered-Pitch-Interval.jpg\"/>",
+      "asset": "Graphics/postTonal/Unordered-Pitch-Interval.jpg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים מרווח בלתי מסודר בין גבהי צליל על קו. חצים הפוכים מחברים את אותם קצוות, אך הערכים מסומנים כחיוביים בשני הכיוונים. מדידה זו מתייחסת לגודל המרווח ומוותרת על כיוון התנועה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המרווח הבלתי מסודר מ־G4 ל־A♯5 הוא 15.</p>",
+      "source_text": "המרווח הבלתי מסודר מ־G4 ל־A♯5 הוא 15.",
+      "spoken": "המרווח הבלתי מסודר מ־G4 ל־A♯5 הוא 15."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>מרווח בלתי מסודר בין מחלקות גובה צליל — מחלקת מרווח (interval class)</strong></p>",
+      "source_text": "מרווח בלתי מסודר בין מחלקות גובה צליל — מחלקת מרווח (interval class)",
+      "spoken": "מרווח בלתי מסודר בין מחלקות גובה צליל — מחלקת מרווח (interval class)"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים מחלקת מרווח כמרחק הקצר על מעגל מחלקות גובה הצליל\" src=\"/Graphics/postTonal/unorderedPitchClassInt.jpg\"/>",
+      "asset": "Graphics/postTonal/unorderedPitchClassInt.jpg",
+      "spoken": "בגירסה הכתובה מופיע כאן שני מעגלי מחלקות גובה צליל עם אותם קצוות, המדגימים שני מסלולים מנוגדים ביניהם. אחד המסלולים קצר יותר, והכיתוב unordered pitch-class interval מצביע על המרחק הקצר. התוצאה היא מחלקת מרווח שערכה בין 0 ל־6.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המרווח הבלתי מסודר מ־G ל־A♯ הוא 3.</p>",
+      "source_text": "המרווח הבלתי מסודר מ־G ל־A♯ הוא 3.",
+      "spoken": "המרווח הבלתי מסודר מ־G ל־A♯ הוא 3."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>סיכום {#summary}</h2>",
+      "source_text": "סיכום {#summary}",
+      "spoken": "סיכום {#summary}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שילובים שונים של מרווח בין גבהי צליל, מרווח בין מחלקות גובה צליל, מסודר ובלתי מסודר, יוצרים ארבע תפיסות שונות של מרווח. כדי להבין אותן ואת שימושיהן בניתוח, חשבו עליהן כרצף מן המוחשי ביותר — המרווח המסודר בין גבהי צליל — אל המופשט ביותר: המרווח הבלתי מסודר בין מחלקות גובה צליל.</p>",
+      "source_text": "שילובים שונים של מרווח בין גבהי צליל, מרווח בין מחלקות גובה צליל, מסודר ובלתי מסודר, יוצרים ארבע תפיסות שונות של מרווח. כדי להבין אותן ואת שימושיהן בניתוח, חשבו עליהן כרצף מן המוחשי ביותר — המרווח המסודר בין גבהי צליל — אל המופשט ביותר: המרווח הבלתי מסודר בין מחלקות גובה צליל.",
+      "spoken": "שילובים שונים של מרווח בין גבהי צליל, מרווח בין מחלקות גובה צליל, מסודר ובלתי מסודר, יוצרים ארבע תפיסות שונות של מרווח. כדי להבין אותן ואת שימושיהן בניתוח, חשבו עליהן כרצף מן המוחשי ביותר — המרווח המסודר בין גבהי צליל — אל המופשט ביותר: המרווח הבלתי מסודר בין מחלקות גובה צליל."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/postTonal/Ordered-Pitch-Interval.jpg",
+      "Graphics/postTonal/Pitch-Class-Interval.jpg",
+      "Graphics/postTonal/Unordered-Pitch-Interval.jpg",
+      "Graphics/postTonal/unorderedPitchClassInt.jpg"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/Ordered-Pitch-Interval.jpg"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/Pitch-Class-Interval.jpg"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/Unordered-Pitch-Interval.jpg"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/unorderedPitchClassInt.jpg"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

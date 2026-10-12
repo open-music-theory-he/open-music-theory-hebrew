@@ -1,0 +1,194 @@
+{
+  "chapter": 52,
+  "source": "externalExpansions.md",
+  "title": "052 — הרחבות חיצוניות",
+  "source_sha256": "c657a1a04b1d93749c53fed69fff0c627ae0d83fb36280f8caf4003bb070fd6d",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לעיתים קרובות נושא מלווה בחומר המופיע לפני גבולותיו הרגילים או אחריהם, אך תלוי בו בבירור. חומר זה הוא <em>חיצוני</em> לנושא עצמו — ״לפני ההתחלה״ או ״אחרי הסיום״, במונחיו של ויליאם קפלין.</p>",
+      "source_text": "לעיתים קרובות נושא מלווה בחומר המופיע לפני גבולותיו הרגילים או אחריהם, אך תלוי בו בבירור. חומר זה הוא חיצוני לנושא עצמו — ״לפני ההתחלה״ או ״אחרי הסיום״, במונחיו של ויליאם קפלין.",
+      "spoken": "לעיתים קרובות נושא מלווה בחומר המופיע לפני גבולותיו הרגילים או אחריהם, אך תלוי בו בבירור. חומר זה הוא חיצוני לנושא עצמו — ״לפני ההתחלה״ או ״אחרי הסיום״, במונחיו של ויליאם קפלין."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>קידומת {#prefix}</h2>",
+      "source_text": "קידומת {#prefix}",
+      "spoken": "קידומת {#prefix}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>קידומת</em> (prefix) היא קטע קצר או <a href=\"sonataFramingModules.html#introduction\">ארוך</a> <em>הקודם</em> לנושא. קידומות קצרות חסרות חומר מוטיבי מובחן ו/או מהלך הרמוני. הן קשורות לנושא הבא אחריהן, אך הסרתן אינה פוגעת בהיגיון של הפראזה עצמה.</p>",
+      "source_text": "קידומת (prefix) היא קטע קצר או ארוך הקודם לנושא. קידומות קצרות חסרות חומר מוטיבי מובחן ו/או מהלך הרמוני. הן קשורות לנושא הבא אחריהן, אך הסרתן אינה פוגעת בהיגיון של הפראזה עצמה.",
+      "spoken": "קידומת (prefix) היא קטע קצר או ארוך הקודם לנושא. קידומות קצרות חסרות חומר מוטיבי מובחן ו/או מהלך הרמוני. הן קשורות לנושא הבא אחריהן, אך הסרתן אינה פוגעת בהיגיון של הפראזה עצמה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תווים לקידומת ליווי בסימפוניה מספר 101 של היידן\" src=\"/Graphics/form/sym101.png\"/>",
+      "asset": "Graphics/form/sym101.png",
+      "spoken": "בגירסה הכתובה מופיע כאן קטע לפסנתר בהוראת Andante ובמשקל 2/4. תיבת ליווי מקדימה את כניסת המלודיה, ולאחריה תווים מנוקדים, חלוקות קצרות וקישוט. הליווי שומר תבנית קבועה עד לתנועת הבס ולמנוחה בסיום היחידה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "קידומת: היידן, סימפוניה מספר 101, ״השעון״",
+      "spoken": "קידומת: היידן, סימפוניה מספר 101, ״השעון״"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ\" title=\"הקלטת סימפוניית השעון של היידן ב־Spotify\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת סימפוניית השעון של היידן ב־Spotify. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כאן קידומת ליווי בת תיבה אחת מכינה פראזה פותחת בת ארבע תיבות, המתחילה בתיבה 2. בקידומת אין מנגינה אופיינית וגם אין מהלך הרמוני.</p>",
+      "source_text": "כאן קידומת ליווי בת תיבה אחת מכינה פראזה פותחת בת ארבע תיבות, המתחילה בתיבה 2. בקידומת אין מנגינה אופיינית וגם אין מהלך הרמוני.",
+      "spoken": "כאן קידומת ליווי בת תיבה אחת מכינה פראזה פותחת בת ארבע תיבות, המתחילה בתיבה 2. בקידומת אין מנגינה אופיינית וגם אין מהלך הרמוני."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>סיומת {#suffix}</h2>",
+      "source_text": "סיומת {#suffix}",
+      "spoken": "סיומת {#suffix}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>סיומת</em> (suffix) מאריכה את ההרמוניה שסיימה את הנושא. סיומות מתוארות ומקבלות שמות שונים בהתאם לסוג הקדנצה — קדנצה אותנטית מושלמת (PAC) או חצי קדנצה (HC) — המסיימת את הנושא שאליו הן מצטרפות.</p>",
+      "source_text": "סיומת (suffix) מאריכה את ההרמוניה שסיימה את הנושא. סיומות מתוארות ומקבלות שמות שונים בהתאם לסוג הקדנצה — קדנצה אותנטית מושלמת (PAC) או חצי קדנצה (HC) — המסיימת את הנושא שאליו הן מצטרפות.",
+      "spoken": "סיומת (suffix) מאריכה את ההרמוניה שסיימה את הנושא. סיומות מתוארות ומקבלות שמות שונים בהתאם לסוג הקדנצה — קדנצה אותנטית מושלמת (PAC) או חצי קדנצה (HC) — המסיימת את הנושא שאליו הן מצטרפות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>חטיבות סיום {#closing-sections}</h3>",
+      "source_text": "חטיבות סיום {#closing-sections}",
+      "spoken": "חטיבות סיום {#closing-sections}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>חטיבות סיום</em> (closing sections), המכונות לעיתים גם <em>קודטות</em> (codettas), באות אחרי נושאים המסתיימים ב־PAC.</p>",
+      "source_text": "חטיבות סיום (closing sections), המכונות לעיתים גם קודטות (codettas), באות אחרי נושאים המסתיימים ב־PAC.",
+      "spoken": "חטיבות סיום (closing sections), המכונות לעיתים גם קודטות (codettas), באות אחרי נושאים המסתיימים ב־PAC."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תווים לחטיבת סיום בסונטה של מוצרט, קכל 330\" src=\"/Graphics/form/k330.png\"/>",
+      "asset": "Graphics/form/k330.png",
+      "spoken": "בגירסה הכתובה מופיע כאן קטע לפסנתר מתוך מוצרט K. 330 בהוראת Allegretto. ארבע מערכות מתחילות במחוות שמיניות עם קשתות ובס קצבי, ובהמשך התנועה מתרחבת וכוללת טריולות. השינויים באורך היחידות, במרקם ובקדנצות מאפשרים לזהות הרחבות של הנושא.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "חטיבת סיום: מוצרט, סונטה לפסנתר בדו מז׳ור, קכל 330",
+      "spoken": "חטיבת סיום: מוצרט, סונטה לפסנתר בדו מז׳ור, קכל 330"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll\" title=\"הקלטת הסונטה של מוצרט, קכל 330, ב־Spotify\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת הסונטה של מוצרט, קכל 330, ב־Spotify. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"compoundPeriod.html\">הפריודה המורכבת</a> בדוגמה מסתיימת ב־PAC בתיבה 16. אחרי הקדנצה באה <em>חטיבת סיום</em> בת חמש תיבות, המאשרת אותה. שימו לב שהמנגינה מתמקדת בדרגה 1 — מאפיין נפוץ של קטעים כאלה. מבחינה הרמונית, המהלך הקדנציאלי ii–V-I שסיים את הנושא (ראו תיבות 15 ו־16) פשוט חוזר.</p>",
+      "source_text": "הפריודה המורכבת בדוגמה מסתיימת ב־PAC בתיבה 16. אחרי הקדנצה באה חטיבת סיום בת חמש תיבות, המאשרת אותה. שימו לב שהמנגינה מתמקדת בדרגה 1 — מאפיין נפוץ של קטעים כאלה. מבחינה הרמונית, המהלך הקדנציאלי ii–V-I שסיים את הנושא (ראו תיבות 15 ו־16) פשוט חוזר.",
+      "spoken": "הפריודה המורכבת בדוגמה מסתיימת ב־PAC בתיבה 16. אחרי הקדנצה באה חטיבת סיום בת חמש תיבות, המאשרת אותה. שימו לב שהמנגינה מתמקדת בדרגה 1 — מאפיין נפוץ של קטעים כאלה. מבחינה הרמונית, המהלך הקדנציאלי ii–V-I שסיים את הנושא (ראו תיבות 15 ו־16) פשוט חוזר."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>שהייה על הדומיננטה {#standing-on-the-dominant}</h3>",
+      "source_text": "שהייה על הדומיננטה {#standing-on-the-dominant}",
+      "spoken": "שהייה על הדומיננטה {#standing-on-the-dominant}"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כאשר <em>סיומת</em> באה אחרי חצי קדנצה, מכנים אותה <em>שהייה על הדומיננטה</em> (standing on the dominant). קטעים כאלה מסמנים לעיתים קרובות כניסה של נושא, למשל <a href=\"sonataThematicModules.html#subordinate-theme-module-s\">הנושא השני</a> בפרק בצורת סונטה, או חזרה של נושא, למשל הרפריזה ב<a href=\"smallTernary.html#three-thematic-functions\">צורה תלת־חלקית קטנה</a>.</p>",
+      "source_text": "כאשר סיומת באה אחרי חצי קדנצה, מכנים אותה שהייה על הדומיננטה (standing on the dominant). קטעים כאלה מסמנים לעיתים קרובות כניסה של נושא, למשל הנושא השני בפרק בצורת סונטה, או חזרה של נושא, למשל הרפריזה בצורה תלת־חלקית קטנה.",
+      "spoken": "כאשר סיומת באה אחרי חצי קדנצה, מכנים אותה שהייה על הדומיננטה (standing on the dominant). קטעים כאלה מסמנים לעיתים קרובות כניסה של נושא, למשל הנושא השני בפרק בצורת סונטה, או חזרה של נושא, למשל הרפריזה בצורה תלת־חלקית קטנה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תווים לשהייה על הדומיננטה בסימפוניה מספר 40 של מוצרט\" src=\"/Graphics/form/sym40.png\"/>",
+      "asset": "Graphics/form/sym40.png",
+      "spoken": "בגירסה הכתובה מופיע כאן קטע לפסנתר מתוך הסימפוניה מספר 40, בהוראת Allegro molto. המנגינה החוזרת מעל ליווי רציף מפנה מקום לחזרות צפופות יותר ולעלייה במתח ההרמוני. המערכות האחרונות מאריכות את הסיום באקורדים ממושכים ובקשתות מאריכות.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "שהייה על הדומיננטה: מוצרט, סימפוניה מספר 40, קכל 550, פרק ראשון",
+      "spoken": "שהייה על הדומיננטה: מוצרט, סימפוניה מספר 40, קכל 550, פרק ראשון"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u\" title=\"הקלטת הסימפוניה מספר 40 של מוצרט ב־Spotify\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת הסימפוניה מספר 40 של מוצרט ב־Spotify. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>דוגמה מפורסמת זו מתחילה ב<a href=\"externalExpansions.html#prefix\">קידומת</a> בת תיבה אחת, ואחריה <a href=\"compoundSentence.html\">משפט מוזיקלי מורכב</a>. המשפט המורכב מסתיים בחצי קדנצה בתיבה 16. שימו לב ל<a href=\"alteredSubdominants.html#augmented-sixth-chords\">אקורד הסקסטה המוגדלת</a> הקודם לה. התיבות שלאחר מכן <em>שוהות על הדומיננטה</em>: הן מאריכות את הקדנצה בהדגשת הרמוניה של דומיננטה ובעיטור מלודי של דרגה 5.</p>",
+      "source_text": "דוגמה מפורסמת זו מתחילה בקידומת בת תיבה אחת, ואחריה משפט מוזיקלי מורכב. המשפט המורכב מסתיים בחצי קדנצה בתיבה 16. שימו לב לאקורד הסקסטה המוגדלת הקודם לה. התיבות שלאחר מכן שוהות על הדומיננטה: הן מאריכות את הקדנצה בהדגשת הרמוניה של דומיננטה ובעיטור מלודי של דרגה 5.",
+      "spoken": "דוגמה מפורסמת זו מתחילה בקידומת בת תיבה אחת, ואחריה משפט מוזיקלי מורכב. המשפט המורכב מסתיים בחצי קדנצה בתיבה 16. שימו לב לאקורד הסקסטה המוגדלת הקודם לה. התיבות שלאחר מכן שוהות על הדומיננטה: הן מאריכות את הקדנצה בהדגשת הרמוניה של דומיננטה ובעיטור מלודי של דרגה 5."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/form/sym101.png",
+      "Graphics/form/k330.png",
+      "Graphics/form/sym40.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:3JlbelZisTTwEh6e13uRyQ",
+      "https://embed.spotify.com/?uri=spotify:track:3ZlIXdp94i6qpfox8Su6Ll",
+      "https://embed.spotify.com/?uri=spotify:track:04zau0E0VspgiqNvTqCO7u"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "ארוך",
+        "target": "sonataFramingModules.html#introduction"
+      },
+      {
+        "label": "הפריודה המורכבת",
+        "target": "compoundPeriod.html"
+      },
+      {
+        "label": "הנושא השני",
+        "target": "sonataThematicModules.html#subordinate-theme-module-s"
+      },
+      {
+        "label": "צורה תלת־חלקית קטנה",
+        "target": "smallTernary.html#three-thematic-functions"
+      },
+      {
+        "label": "קידומת",
+        "target": "externalExpansions.html#prefix"
+      },
+      {
+        "label": "משפט מוזיקלי מורכב",
+        "target": "compoundSentence.html"
+      },
+      {
+        "label": "אקורד הסקסטה המוגדלת",
+        "target": "alteredSubdominants.html#augmented-sixth-chords"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

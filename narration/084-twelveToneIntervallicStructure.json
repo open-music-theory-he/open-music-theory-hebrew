@@ -1,0 +1,79 @@
+{
+  "chapter": 84,
+  "source": "twelveToneIntervallicStructure.md",
+  "title": "084 — מוזיקת שנים־עשר טונים — מבנה מרווחי",
+  "source_sha256": "2ab069aea0d580bcff3b6f702cbf84e80883488947fa15d0b9c92646916c36ce",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>סדר מחלקות גובה הצליל אינו הדבר היחיד שמסודר בשורת שנים־עשר טונים. מאחר שמחלקות גובה הצליל נמצאות תמיד ביחסים זו עם זו, השורה היא גם אוסף מסודר של <em>מרווחים</em>. הבנת המבנה המרווחי של מחלקת שורה היא הדרך הטובה ביותר לקבל מושג על הצליל שלה.</p>",
+      "source_text": "סדר מחלקות גובה הצליל אינו הדבר היחיד שמסודר בשורת שנים־עשר טונים. מאחר שמחלקות גובה הצליל נמצאות תמיד ביחסים זו עם זו, השורה היא גם אוסף מסודר של מרווחים. הבנת המבנה המרווחי של מחלקת שורה היא הדרך הטובה ביותר לקבל מושג על הצליל שלה.",
+      "spoken": "סדר מחלקות גובה הצליל אינו הדבר היחיד שמסודר בשורת שנים־עשר טונים. מאחר שמחלקות גובה הצליל נמצאות תמיד ביחסים זו עם זו, השורה היא גם אוסף מסודר של מרווחים. הבנת המבנה המרווחי של מחלקת שורה היא הדרך הטובה ביותר לקבל מושג על הצליל שלה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המקור מפנה כאן לתרשים שבפרק <a href=\"twelveToneOperations.html\">הפעולות</a>, ומתאר סדרות של <a href=\"interval(Class).html\">מרווחים מסודרים בין מחלקות גובה צליל</a> מתחת לכל אחת מצורות השורה בדוגמה.</p>",
+      "source_text": "המקור מפנה כאן לתרשים שבפרק הפעולות, ומתאר סדרות של מרווחים מסודרים בין מחלקות גובה צליל מתחת לכל אחת מצורות השורה בדוגמה.",
+      "spoken": "המקור מפנה כאן לתרשים שבפרק הפעולות, ומתאר סדרות של מרווחים מסודרים בין מחלקות גובה צליל מתחת לכל אחת מצורות השורה בדוגמה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת מהדורה:</strong> בקובץ המקור אין בפועל הטמעה של התרשים המתואר כמצוי ״להלן״. נשמרו שתי ההפניות הקיימות; החוסר נרשם ב־N117.</p>",
+      "source_text": "הערת מהדורה: בקובץ המקור אין בפועל הטמעה של התרשים המתואר כמצוי ״להלן״. נשמרו שתי ההפניות הקיימות; החוסר נרשם ב־N117.",
+      "spoken": "הערת מהדורה: בקובץ המקור אין בפועל הטמעה של התרשים המתואר כמצוי ״להלן״. נשמרו שתי ההפניות הקיימות; החוסר נרשם ב־N117."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לשורות <strong>הקשורות בטרנספוזיציה</strong>, כמו <strong>P11</strong> ו־<strong>P10</strong>, יש <em>אותה</em> סדרה של מרווחים מסודרים בין מחלקות גובה צליל.</p>",
+      "source_text": "לשורות הקשורות בטרנספוזיציה, כמו P11 ו־P10, יש אותה סדרה של מרווחים מסודרים בין מחלקות גובה צליל.",
+      "spoken": "לשורות הקשורות בטרנספוזיציה, כמו P11 ו־P10, יש אותה סדרה של מרווחים מסודרים בין מחלקות גובה צליל."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לשורות <strong>הקשורות בהיפוך</strong>, כמו <strong>P10</strong> ו־<strong>I0</strong>, יש מרווחים מסודרים <em>משלימים</em>: מרווחים במקומות מקבילים בצורות השורה מסתכמים ב־12.</p>",
+      "source_text": "לשורות הקשורות בהיפוך, כמו P10 ו־I0, יש מרווחים מסודרים משלימים: מרווחים במקומות מקבילים בצורות השורה מסתכמים ב־12.",
+      "spoken": "לשורות הקשורות בהיפוך, כמו P10 ו־I0, יש מרווחים מסודרים משלימים: מרווחים במקומות מקבילים בצורות השורה מסתכמים ב־12."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לשורות <strong>הקשורות בהילוך לאחור</strong> יש מרווחים מסודרים שהם <em>משלימים בסדר הפוך</em>. השוו <strong>P10</strong> ו־<strong>R10</strong>. בקריאת <strong>R10</strong> לאחור, שלושת המרווחים <em>האחרונים</em>, למשל, הם <bdi dir=\"ltr\">4 1 8</bdi>. אלה המשלימים של שלושת המרווחים <em>הראשונים</em> ב־<strong>P10</strong>: <bdi dir=\"ltr\">8 11 4</bdi>.</p>",
+      "source_text": "לשורות הקשורות בהילוך לאחור יש מרווחים מסודרים שהם משלימים בסדר הפוך. השוו P10 ו־R10. בקריאת R10 לאחור, שלושת המרווחים האחרונים, למשל, הם 4 1 8. אלה המשלימים של שלושת המרווחים הראשונים ב־P10: 8 11 4.",
+      "spoken": "לשורות הקשורות בהילוך לאחור יש מרווחים מסודרים שהם משלימים בסדר הפוך. השוו P10 ו־R10. בקריאת R10 לאחור, שלושת המרווחים האחרונים, למשל, הם 4 1 8. אלה המשלימים של שלושת המרווחים הראשונים ב־P10: 8 11 4."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לשורות <strong>הקשורות בהיפוך ובהילוך לאחור</strong> יש מרווחים מסודרים שהם <em>היפוך של סדר הרצף</em> זה של זה. השוו <strong>P10</strong> ו־<strong>RI0</strong>: בקריאת מרווחי <strong>RI0</strong> לאחור, הם <em>זהים</em> למרווחי <strong>P10</strong> הנקראים לפנים.</p>",
+      "source_text": "לשורות הקשורות בהיפוך ובהילוך לאחור יש מרווחים מסודרים שהם היפוך של סדר הרצף זה של זה. השוו P10 ו־RI0: בקריאת מרווחי RI0 לאחור, הם זהים למרווחי P10 הנקראים לפנים.",
+      "spoken": "לשורות הקשורות בהיפוך ובהילוך לאחור יש מרווחים מסודרים שהם היפוך של סדר הרצף זה של זה. השוו P10 ו־RI0: בקריאת מרווחי RI0 לאחור, הם זהים למרווחי P10 הנקראים לפנים."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "הפעולות",
+        "target": "twelveToneOperations.html"
+      },
+      {
+        "label": "מרווחים מסודרים בין מחלקות גובה צליל",
+        "target": "interval(Class).html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

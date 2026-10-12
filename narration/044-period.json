@@ -1,0 +1,177 @@
+{
+  "chapter": 44,
+  "source": "period.md",
+  "title": "044 — הפריודה",
+  "source_sha256": "ee8a88281d6071bbdd6daed03e3b1cc72fda1d6437e0b561438c49e64a955a45",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>פריודה</em> (period) היא טיפוס של נושא, בדומה ל<a href=\"sentence.html\">משפט המוזיקלי</a>, הנפוץ בסגנון הקלאסי.</p>",
+      "source_text": "פריודה (period) היא טיפוס של נושא, בדומה למשפט המוזיקלי, הנפוץ בסגנון הקלאסי.",
+      "spoken": "פריודה (period) היא טיפוס של נושא, בדומה למשפט המוזיקלי, הנפוץ בסגנון הקלאסי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הפריודה היא בדרך כלל בת שמונה תיבות, ומכילה שתי פראזות בנות ארבע תיבות, הנקראות <em>פראזה פותחת</em> (antecedent) ו<em>פראזה עונה</em> (consequent).</p>",
+      "source_text": "הפריודה היא בדרך כלל בת שמונה תיבות, ומכילה שתי פראזות בנות ארבע תיבות, הנקראות פראזה פותחת (antecedent) ופראזה עונה (consequent).",
+      "spoken": "הפריודה היא בדרך כלל בת שמונה תיבות, ומכילה שתי פראזות בנות ארבע תיבות, הנקראות פראזה פותחת (antecedent) ופראזה עונה (consequent)."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים הפריודה: פראזה פותחת ופראזה עונה\" onerror=\"this.src='Graphics/ClassicalThemes/period.png'\" src=\"Graphics/ClassicalThemes/period.svg\"/>",
+      "asset": "Graphics/ClassicalThemes/period.svg",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של פריודה המחולקת לשאלה ותשובה, Antecedent ו־Consequent. בכל חצי רעיון בסיסי BI ורעיון מנוגד CI. השאלה מסתיימת ב־HC או IAC והתשובה ב־PAC, ולכן קדנציית התשובה חזקה יותר מזו של השאלה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הפריודה מתאפיינת באיזון ובסימטריה. הפראזה הפותחת שלה מתחילה ב<em>רעיון בסיסי</em> (basic idea, או BI) החוזר בתחילת הפראזה העונה. בניגוד למשפט המוזיקלי, שבו יש קדנצה אחת, הפריודה מכילה <em>שתי קדנצות</em>: קדנצה חלשה המסיימת את <em>הפראזה הפותחת</em>, וקדנצה חזקה המסיימת את <em>הפראזה העונה</em>.</p>",
+      "source_text": "הפריודה מתאפיינת באיזון ובסימטריה. הפראזה הפותחת שלה מתחילה ברעיון בסיסי (basic idea, או BI) החוזר בתחילת הפראזה העונה. בניגוד למשפט המוזיקלי, שבו יש קדנצה אחת, הפריודה מכילה שתי קדנצות: קדנצה חלשה המסיימת את הפראזה הפותחת, וקדנצה חזקה המסיימת את הפראזה העונה.",
+      "spoken": "הפריודה מתאפיינת באיזון ובסימטריה. הפראזה הפותחת שלה מתחילה ברעיון בסיסי (basic idea, או BI) החוזר בתחילת הפראזה העונה. בניגוד למשפט המוזיקלי, שבו יש קדנצה אחת, הפריודה מכילה שתי קדנצות: קדנצה חלשה המסיימת את הפראזה הפותחת, וקדנצה חזקה המסיימת את הפראזה העונה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>הפראזה הפותחת — תיבות 1–4</h2>",
+      "source_text": "הפראזה הפותחת — תיבות 1–4",
+      "spoken": "הפראזה הפותחת — תיבות 1–4"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בניגוד למשפט המוזיקלי, שבו רעיון בסיסי מלווה בחזרה עליו, הרעיון הבסיסי בן שתי התיבות הפותח את הפראזה הפותחת בפריודה מלווה תמיד ב<em>רעיון מנוגד</em> (contrasting idea, או CI) בן שתי תיבות. הרעיון המנוגד תומך במהלך קדנציאלי המסיים את הפראזה הפותחת בקדנצה חלשה: HC או IAC.</p>",
+      "source_text": "בניגוד למשפט המוזיקלי, שבו רעיון בסיסי מלווה בחזרה עליו, הרעיון הבסיסי בן שתי התיבות הפותח את הפראזה הפותחת בפריודה מלווה תמיד ברעיון מנוגד (contrasting idea, או CI) בן שתי תיבות. הרעיון המנוגד תומך במהלך קדנציאלי המסיים את הפראזה הפותחת בקדנצה חלשה: HC או IAC.",
+      "spoken": "בניגוד למשפט המוזיקלי, שבו רעיון בסיסי מלווה בחזרה עליו, הרעיון הבסיסי בן שתי התיבות הפותח את הפראזה הפותחת בפריודה מלווה תמיד ברעיון מנוגד (contrasting idea, או CI) בן שתי תיבות. הרעיון המנוגד תומך במהלך קדנציאלי המסיים את הפראזה הפותחת בקדנצה חלשה: HC או IAC."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–4: פראזה פותחת\" src=\"/Graphics/form/antecedent.png\"/>",
+      "asset": "Graphics/form/antecedent.png",
+      "spoken": "בגירסה הכתובה מופיע כאן שאלת פריודה לפסנתר בהוראת Presto. רעיון קצר וחזרותיו בקול העליון נתמכים באקורדים קצרים ביד שמאל. ארבע התיבות נבדלות באמצעות כיוון המלודיה וקשתות, ובסופן אין את אותה תחושת סיום חזקה של התשובה המלאה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "פראזה פותחת: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–4",
+      "spoken": "פראזה פותחת: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–4"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g\" title=\"הקלטת היידן, Hob. XV:27: דוגמה לפריודה\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת היידן, Hob. XV:27: דוגמה לפריודה. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>שימו לב לניגוד בין הרעיון הבסיסי לרעיון המנוגד. הרעיון הבסיסי עולה ומתווה את משולש הטוניקה בקפיצות אל כל אחד מצליליו, ואילו הרעיון המנוגד יורד בצעדים ומוביל ל־<strong>I:HC</strong> חלשה. הדגשת הטוניקה במלודיה של הרעיון הבסיסי מלווה בהארכת טוניקה בהרמוניה — גרסה של סכמת <a href=\"schemataOpensAndCloses.html\"><em>רומנסקה</em></a>:</p>",
+      "source_text": "שימו לב לניגוד בין הרעיון הבסיסי לרעיון המנוגד. הרעיון הבסיסי עולה ומתווה את משולש הטוניקה בקפיצות אל כל אחד מצליליו, ואילו הרעיון המנוגד יורד בצעדים ומוביל ל־I:HC חלשה. הדגשת הטוניקה במלודיה של הרעיון הבסיסי מלווה בהארכת טוניקה בהרמוניה — גרסה של סכמת רומנסקה:",
+      "spoken": "שימו לב לניגוד בין הרעיון הבסיסי לרעיון המנוגד. הרעיון הבסיסי עולה ומתווה את משולש הטוניקה בקפיצות אל כל אחד מצליליו, ואילו הרעיון המנוגד יורד בצעדים ומוביל ל־I:HC חלשה. הדגשת הטוניקה במלודיה של הרעיון הבסיסי מלווה בהארכת טוניקה בהרמוניה — גרסה של סכמת רומנסקה:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>I V6 VI III</strong></p>",
+      "source_text": "I V6 VI III",
+      "spoken": "I V6 VI III"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>או</p>",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>T(1 D7p x6 3)</strong></p>",
+      "source_text": "T(1 D7p x6 3)",
+      "spoken": "T(1 D7p x6 3)"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ברעיון המנוגד תומך מהלך קדנציאלי מורחב:</p>",
+      "source_text": "ברעיון המנוגד תומך מהלך קדנציאלי מורחב:",
+      "spoken": "ברעיון המנוגד תומך מהלך קדנציאלי מורחב:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>III IV V<sup>6/5</sup>/V V</strong></p>",
+      "source_text": "III IV V6/5/V V",
+      "spoken": "III IV V6/5/V V"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>או</p>",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>T3 S(4 [+]) D5</strong></p>",
+      "source_text": "T3 S(4 [+]) D5",
+      "spoken": "T3 S(4 [+]) D5"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>הפראזה העונה — תיבות 5–8</h2>",
+      "source_text": "הפראזה העונה — תיבות 5–8",
+      "spoken": "הפראזה העונה — תיבות 5–8"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>פראזות עונות מתחילות תמיד בהצגה חוזרת של הרעיון הבסיסי, לעיתים בצורה מגוונת, ומסתיימות ברעיון מנוגד. הרעיון המנוגד של הפראזה העונה דומה לעיתים קרובות לזה של הפראזה הפותחת, אך משתנה מעט כדי לאפשר קדנצה חזקה יותר. נפוץ גם שהרעיון המנוגד של הפראזה העונה חדש לחלוטין. בעוד שמשפט מוזיקלי יכול להסתיים בכמה סוגי קדנצות, הפראזה העונה של הפריודה מסתיימת תמיד ב־PAC:</p>",
+      "source_text": "פראזות עונות מתחילות תמיד בהצגה חוזרת של הרעיון הבסיסי, לעיתים בצורה מגוונת, ומסתיימות ברעיון מנוגד. הרעיון המנוגד של הפראזה העונה דומה לעיתים קרובות לזה של הפראזה הפותחת, אך משתנה מעט כדי לאפשר קדנצה חזקה יותר. נפוץ גם שהרעיון המנוגד של הפראזה העונה חדש לחלוטין. בעוד שמשפט מוזיקלי יכול להסתיים בכמה סוגי קדנצות, הפראזה העונה של הפריודה מסתיימת תמיד ב־PAC:",
+      "spoken": "פראזות עונות מתחילות תמיד בהצגה חוזרת של הרעיון הבסיסי, לעיתים בצורה מגוונת, ומסתיימות ברעיון מנוגד. הרעיון המנוגד של הפראזה העונה דומה לעיתים קרובות לזה של הפראזה הפותחת, אך משתנה מעט כדי לאפשר קדנצה חזקה יותר. נפוץ גם שהרעיון המנוגד של הפראזה העונה חדש לחלוטין. בעוד שמשפט מוזיקלי יכול להסתיים בכמה סוגי קדנצות, הפראזה העונה של הפריודה מסתיימת תמיד ב־PAC:"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"היידן, Hob. XV:27, פרק שלישי, תיבות 1–8: הפראזה הפותחת והפראזה העונה\" src=\"/Graphics/form/xv27.png\"/>",
+      "asset": "Graphics/form/xv27.png",
+      "spoken": "בגירסה הכתובה מופיע כאן פריודה שלמה בשתי מערכות במשקל 2/4. ארבע התיבות הראשונות מציגות את השאלה, וארבע הבאות חוזרות לפתיחה דומה אך משנות את ההמשך ואת הסיום. הדמיון בראשית שתי היחידות וההבדל בקדנציות ממחישים את יחס השאלה והתשובה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "פראזה פותחת ופראזה עונה: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–8",
+      "spoken": "פראזה פותחת ופראזה עונה: היידן, שלישיית פסנתר ב־C מז׳ור, Hob. XV:27, פרק שלישי, תיבות 1–8"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בדוגמה זו הרעיון הבסיסי חוזר בדיוק בתחילת הפראזה העונה. הרעיון המנוגד המסיים הוא שינוי קל של סיום הפראזה הפותחת, שהותאם כאן ליצירת PAC.</p>",
+      "source_text": "בדוגמה זו הרעיון הבסיסי חוזר בדיוק בתחילת הפראזה העונה. הרעיון המנוגד המסיים הוא שינוי קל של סיום הפראזה הפותחת, שהותאם כאן ליצירת PAC.",
+      "spoken": "בדוגמה זו הרעיון הבסיסי חוזר בדיוק בתחילת הפראזה העונה. הרעיון המנוגד המסיים הוא שינוי קל של סיום הפראזה הפותחת, שהותאם כאן ליצירת PAC."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/ClassicalThemes/period.svg",
+      "Graphics/form/antecedent.png",
+      "Graphics/form/xv27.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "משפט המוזיקלי",
+        "target": "sentence.html"
+      },
+      {
+        "label": "רומנסקה",
+        "target": "schemataOpensAndCloses.html"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

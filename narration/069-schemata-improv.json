@@ -1,0 +1,507 @@
+{
+  "chapter": 69,
+  "source": "schemata-improv.md",
+  "title": "069 — אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט",
+  "source_sha256": "d7ba6ab6d1bdb32cf6d874ee66e77bcd1e5645cb7266359e415625031b065260",
+  "status": "prepared-awaiting-media-review",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>המשפט המוזיקלי הקלאסי (<a href=\"sentence.html\">classical sentence</a>) מתאים היטב לסכמות בסגנון <em>הגלנט</em> (galant schemata). אכן, רבות מן הסכמות ב<a href=\"schemataSummary.html\">עמוד הסיכום</a> מסווגות כסכמות ״הצגה״ או ״המשך״. סכמות רבות בנות ארבעה שלבים נוטות להופיע בתצורה המלודית האופיינית לפראזת הצגה: רעיון בסיסי וחזרה עליו בשינוי.</p>",
+      "source_text": "המשפט המוזיקלי הקלאסי (classical sentence) מתאים היטב לסכמות בסגנון הגלנט (galant schemata). אכן, רבות מן הסכמות בעמוד הסיכום מסווגות כסכמות ״הצגה״ או ״המשך״. סכמות רבות בנות ארבעה שלבים נוטות להופיע בתצורה המלודית האופיינית לפראזת הצגה: רעיון בסיסי וחזרה עליו בשינוי.",
+      "spoken": "המשפט המוזיקלי הקלאסי (classical sentence) מתאים היטב לסכמות בסגנון הגלנט (galant schemata). אכן, רבות מן הסכמות בעמוד הסיכום מסווגות כסכמות ״הצגה״ או ״המשך״. סכמות רבות בנות ארבעה שלבים נוטות להופיע בתצורה המלודית האופיינית לפראזת הצגה: רעיון בסיסי וחזרה עליו בשינוי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>התבוננו בנושא הפותח את הפרק השלישי של סונטת הפסנתר של היידן ב־G מז׳ור, Hob. XVI:27.</p>",
+      "source_text": "התבוננו בנושא הפותח את הפרק השלישי של סונטת הפסנתר של היידן ב־G מז׳ור, Hob. XVI:27.",
+      "spoken": "התבוננו בנושא הפותח את הפרק השלישי של סונטת הפסנתר של היידן ב־G מז׳ור, Hob. XVI:27."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"הנושא הפותח בפרק השלישי של סונטת היידן Hob. XVI:27\" src=\"/Graphics/HaydnXVI27.png\"/>",
+      "asset": "Graphics/HaydnXVI27.png",
+      "spoken": "בגירסה הכתובה מופיע כאן פתיחת פרק Finale מתוך היידן, בהוראת Presto. המערכת לפסנתר במשקל 3/4 משלבת מחוות קצרות, ליווי נע, קשתות ואצבועים. הדוגמה מספקת תווים לנושא שהסכמות שבו נידונות בפרק, ולא תחליף להאזנה לביצוע.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "קטע תווים בנחלת הכלל, מתוך",
+      "spoken": "קטע תווים בנחלת הכלל, מתוך"
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "IMSLP",
+      "spoken": "IMSLP"
+    },
+    {
+      "kind": "verbatim",
+      "source_text": ". לחצו על התמונה להגדלה.",
+      "spoken": ". לחצו על התמונה להגדלה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בתיבות 1–4, פראזת ההצגה, מופיע עיטור של סכמת Meyer. שימו לב לרעיון הבסיסי בן שתי התיבות, החוזר בתיבות 3–4 בטרנספוזיציה של דרגה אחת כלפי מעלה, ברובו.</p>",
+      "source_text": "בתיבות 1–4, פראזת ההצגה, מופיע עיטור של סכמת Meyer. שימו לב לרעיון הבסיסי בן שתי התיבות, החוזר בתיבות 3–4 בטרנספוזיציה של דרגה אחת כלפי מעלה, ברובו.",
+      "spoken": "בתיבות 1–4, פראזת ההצגה, מופיע עיטור של סכמת Meyer. שימו לב לרעיון הבסיסי בן שתי התיבות, החוזר בתיבות 3–4 בטרנספוזיציה של דרגה אחת כלפי מעלה, ברובו."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בתיבות 5–6, תחילת פראזת ההמשך, מופיע עיטור של סכמת Passo Indietro המודולטורית. אחריו באה קדנצה <strong>II<sup>6</sup> V<sup>7</sup> I</strong> בטונליות הדומיננטה. כמובן, המהלך מהיר כל כך שהוא עשוי להישמע בקלות כחצי קדנצה בטונליות הראשית.</p>",
+      "source_text": "בתיבות 5–6, תחילת פראזת ההמשך, מופיע עיטור של סכמת Passo Indietro המודולטורית. אחריו באה קדנצה II6 V7 I בטונליות הדומיננטה. כמובן, המהלך מהיר כל כך שהוא עשוי להישמע בקלות כחצי קדנצה בטונליות הראשית.",
+      "spoken": "בתיבות 5–6, תחילת פראזת ההמשך, מופיע עיטור של סכמת Passo Indietro המודולטורית. אחריו באה קדנצה II6 V7 I בטונליות הדומיננטה. כמובן, המהלך מהיר כל כך שהוא עשוי להישמע בקלות כחצי קדנצה בטונליות הראשית."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowtransparency=\"true\" frameborder=\"0\" height=\"80\" src=\"https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD\" title=\"הקלטת היידן בספוטיפיי\" width=\"300\"></iframe>",
+      "target": "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Spotify לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הקלטת היידן בספוטיפיי. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>האלתורים הראשונים שלנו לא יהיו מורכבים כמעט כמו יצירתו של היידן, אך כדאי לחקות כמה ממאפייניה:</p>",
+      "source_text": "האלתורים הראשונים שלנו לא יהיו מורכבים כמעט כמו יצירתו של היידן, אך כדאי לחקות כמה ממאפייניה:",
+      "spoken": "האלתורים הראשונים שלנו לא יהיו מורכבים כמעט כמו יצירתו של היידן, אך כדאי לחקות כמה ממאפייניה:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>צלילי המלודיה האופייניים ל־Meyer מופיעים בפעימה הראשונה של כל תיבה: שלב 1 בתיבה 1, וכן הלאה.</li>",
+      "source_text": "צלילי המלודיה האופייניים ל־Meyer מופיעים בפעימה הראשונה של כל תיבה: שלב 1 בתיבה 1, וכן הלאה.",
+      "spoken": "צלילי המלודיה האופייניים ל־Meyer מופיעים בפעימה הראשונה של כל תיבה: שלב 1 בתיבה 1, וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>צלילי המלודיה האופייניים לשלבים 1 ו־3 של Meyer מופיעים גם בסוף התיבה, מיד לפני הצלילים המקבילים להם בתיבות 2 ו־4.</li>",
+      "source_text": "צלילי המלודיה האופייניים לשלבים 1 ו־3 של Meyer מופיעים גם בסוף התיבה, מיד לפני הצלילים המקבילים להם בתיבות 2 ו־4.",
+      "spoken": "צלילי המלודיה האופייניים לשלבים 1 ו־3 של Meyer מופיעים גם בסוף התיבה, מיד לפני הצלילים המקבילים להם בתיבות 2 ו־4."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>אף שקצב חילופי האקורדים נשאר זהה, המעבר מסכמת הצגה לסכמת המשך מלווה במעבר מיחידות מלודיות בנות שתי תיבות ליחידות בנות תיבה אחת. זהו <em>הפיצול ליחידות קצרות יותר</em> (fragmentation), הנפוץ בפראזות המשך.</li>",
+      "source_text": "אף שקצב חילופי האקורדים נשאר זהה, המעבר מסכמת הצגה לסכמת המשך מלווה במעבר מיחידות מלודיות בנות שתי תיבות ליחידות בנות תיבה אחת. זהו הפיצול ליחידות קצרות יותר (fragmentation), הנפוץ בפראזות המשך.",
+      "spoken": "אף שקצב חילופי האקורדים נשאר זהה, המעבר מסכמת הצגה לסכמת המשך מלווה במעבר מיחידות מלודיות בנות שתי תיבות ליחידות בנות תיבה אחת. זהו הפיצול ליחידות קצרות יותר (fragmentation), הנפוץ בפראזות המשך."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>פראזת ההמשך נובעת היטב מפראזת ההצגה מבחינה מקצבית והרמונית, אך אין קשר מוטיבי מובהק בין שתי הפראזות.</li>",
+      "source_text": "פראזת ההמשך נובעת היטב מפראזת ההצגה מבחינה מקצבית והרמונית, אך אין קשר מוטיבי מובהק בין שתי הפראזות.",
+      "spoken": "פראזת ההמשך נובעת היטב מפראזת ההצגה מבחינה מקצבית והרמונית, אך אין קשר מוטיבי מובהק בין שתי הפראזות."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li>הקדנצה מבוססת למדי על נוסחה מקובלת.</li>",
+      "source_text": "הקדנצה מבוססת למדי על נוסחה מקובלת.",
+      "spoken": "הקדנצה מבוססת למדי על נוסחה מקובלת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מבחינות אלה הנושא הוא דגם מתאים לאלתורים הפשוטים שלנו: הדגישו את צלילי המלודיה האופייניים לסכמה בפעימות הראשונות ו/או משני עברי קו התיבה שבין תיבות 1 ו־2 ובין תיבות 3 ו־4; השתמשו ברעיון מלודי מקורי יותר בתחילה, והסתמכו יותר על נוסחאות ככל שאתם מתקרבים לקדנצה האחרונה; וכן הלאה.</p>",
+      "source_text": "מבחינות אלה הנושא הוא דגם מתאים לאלתורים הפשוטים שלנו: הדגישו את צלילי המלודיה האופייניים לסכמה בפעימות הראשונות ו/או משני עברי קו התיבה שבין תיבות 1 ו־2 ובין תיבות 3 ו־4; השתמשו ברעיון מלודי מקורי יותר בתחילה, והסתמכו יותר על נוסחאות ככל שאתם מתקרבים לקדנצה האחרונה; וכן הלאה.",
+      "spoken": "מבחינות אלה הנושא הוא דגם מתאים לאלתורים הפשוטים שלנו: הדגישו את צלילי המלודיה האופייניים לסכמה בפעימות הראשונות ו/או משני עברי קו התיבה שבין תיבות 1 ו־2 ובין תיבות 3 ו־4; השתמשו ברעיון מלודי מקורי יותר בתחילה, והסתמכו יותר על נוסחאות ככל שאתם מתקרבים לקדנצה האחרונה; וכן הלאה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הסרטון שלהלן מפרט מצבים מאתגרים וטכניקות מסוימות העשויים להופיע כשמשתמשים בסכמות אלה לאלתור משפט מוזיקלי. הוא מתמקד בפראזת ההצגה, עם סכמות כגון Meyer או Jupiter.</p>",
+      "source_text": "הסרטון שלהלן מפרט מצבים מאתגרים וטכניקות מסוימות העשויים להופיע כשמשתמשים בסכמות אלה לאלתור משפט מוזיקלי. הוא מתמקד בפראזת ההצגה, עם סכמות כגון Meyer או Jupiter.",
+      "spoken": "הסרטון שלהלן מפרט מצבים מאתגרים וטכניקות מסוימות העשויים להופיע כשמשתמשים בסכמות אלה לאלתור משפט מוזיקלי. הוא מתמקד בפראזת ההצגה, עם סכמות כגון Meyer או Jupiter."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"281\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/109188050\" title=\"אלתור פראזת הצגה\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/109188050",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: אלתור פראזת הצגה. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://vimeo.com/109188050\">אלתור פראזת הצגה</a> ב־<a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "source_text": "אלתור פראזת הצגה ב־Vimeo.",
+      "spoken": "אלתור פראזת הצגה ב־Vimeo."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>חיבור המרכיבים</h2>",
+      "source_text": "חיבור המרכיבים",
+      "spoken": "חיבור המרכיבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הדרך הפשוטה ביותר לבנות משפט שלם היא להתחיל באחת מסכמות ההצגה בנות ארבעת השלבים שלעיל, ואחריה להשתמש ב־Prinner בת חמישה שלבים, המסתיימת בקדנצה אותנטית בלתי מושלמת (IAC), או בצירוף כלשהו של המשך וקדנצה. להלן כמה דוגמאות. אפשר להשתמש בהן כשלדים לאלתור, או לעטר את הדוגמאות האינטראקטיביות כדי להתנסות בחיבור משפט פשוט. לפרטים ראו <a href=\"trinket.html\">שימוש ב־Trinket</a>.</p>",
+      "source_text": "הדרך הפשוטה ביותר לבנות משפט שלם היא להתחיל באחת מסכמות ההצגה בנות ארבעת השלבים שלעיל, ואחריה להשתמש ב־Prinner בת חמישה שלבים, המסתיימת בקדנצה אותנטית בלתי מושלמת (IAC), או בצירוף כלשהו של המשך וקדנצה. להלן כמה דוגמאות. אפשר להשתמש בהן כשלדים לאלתור, או לעטר את הדוגמאות האינטראקטיביות כדי להתנסות בחיבור משפט פשוט. לפרטים ראו שימוש ב־Trinket.",
+      "spoken": "הדרך הפשוטה ביותר לבנות משפט שלם היא להתחיל באחת מסכמות ההצגה בנות ארבעת השלבים שלעיל, ואחריה להשתמש ב־Prinner בת חמישה שלבים, המסתיימת בקדנצה אותנטית בלתי מושלמת (IAC), או בצירוף כלשהו של המשך וקדנצה. להלן כמה דוגמאות. אפשר להשתמש בהן כשלדים לאלתור, או לעטר את הדוגמאות האינטראקטיביות כדי להתנסות בחיבור משפט פשוט. לפרטים ראו שימוש ב־Trinket."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>הצגה — Prinner בת חמישה שלבים</h3>",
+      "source_text": "הצגה — Prinner בת חמישה שלבים",
+      "spoken": "הצגה — Prinner בת חמישה שלבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>השלד הבא מתחיל ב־Meyer וממשיך ב־Prinner בת חמישה שלבים. שימו לב ששלבים 3 ו־4 של Prinner נדחסים לתיבה אחת כדי להתאים לאורך הנפוץ של משפט בן שמונה תיבות. אפשר גם להחליף את Meyer בכל סכמת הצגה אחרת.</p>",
+      "source_text": "השלד הבא מתחיל ב־Meyer וממשיך ב־Prinner בת חמישה שלבים. שימו לב ששלבים 3 ו־4 של Prinner נדחסים לתיבה אחת כדי להתאים לאורך הנפוץ של משפט בן שמונה תיבות. אפשר גם להחליף את Meyer בכל סכמת הצגה אחרת.",
+      "spoken": "השלד הבא מתחיל ב־Meyer וממשיך ב־Prinner בת חמישה שלבים. שימו לב ששלבים 3 ו־4 של Prinner נדחסים לתיבה אחת כדי להתאים לאורך הנפוץ של משפט בן שמונה תיבות. אפשר גם להחליף את Meyer בכל סכמת הצגה אחרת."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/4ea073d8f1\" title=\"Meyer ואחריה Prinner בת חמישה שלבים\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/4ea073d8f1",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Meyer ואחריה Prinner בת חמישה שלבים. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>הצגה — Passo Indietro — קדנצה</h3>",
+      "source_text": "הצגה — Passo Indietro — קדנצה",
+      "spoken": "הצגה — Passo Indietro — קדנצה"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>מלחינים קלאסיים התחילו לעיתים קרובות Prinner, ואז קיצרו אותה כדי לפנות מקום לקדנצה האחרונה. כך נעשה בדוגמה הבאה: היא מתחילה ב־Jupiter, ממשיכה ב־Passo Indietro — מחצית Prinner — ומגיעה לחצי קדנצה מורכבת (Compound HC).</p>",
+      "source_text": "מלחינים קלאסיים התחילו לעיתים קרובות Prinner, ואז קיצרו אותה כדי לפנות מקום לקדנצה האחרונה. כך נעשה בדוגמה הבאה: היא מתחילה ב־Jupiter, ממשיכה ב־Passo Indietro — מחצית Prinner — ומגיעה לחצי קדנצה מורכבת (Compound HC).",
+      "spoken": "מלחינים קלאסיים התחילו לעיתים קרובות Prinner, ואז קיצרו אותה כדי לפנות מקום לקדנצה האחרונה. כך נעשה בדוגמה הבאה: היא מתחילה ב־Jupiter, ממשיכה ב־Passo Indietro — מחצית Prinner — ומגיעה לחצי קדנצה מורכבת (Compound HC)."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/ee80a49382\" title=\"Jupiter, Passo Indietro וחצי קדנצה מורכבת\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/ee80a49382",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Jupiter, Passo Indietro וחצי קדנצה מורכבת. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>באמצעות דחיסת שתי התיבות האחרונות לתיבה אחת אפשר להפוך זאת למשפט המסתיים בקדנצה אותנטית מושלמת (PAC). יחד, שתי הגרסאות יכולות ליצור נושא מורכב בן שש־עשרה תיבות.</p>",
+      "source_text": "באמצעות דחיסת שתי התיבות האחרונות לתיבה אחת אפשר להפוך זאת למשפט המסתיים בקדנצה אותנטית מושלמת (PAC). יחד, שתי הגרסאות יכולות ליצור נושא מורכב בן שש־עשרה תיבות.",
+      "spoken": "באמצעות דחיסת שתי התיבות האחרונות לתיבה אחת אפשר להפוך זאת למשפט המסתיים בקדנצה אותנטית מושלמת (PAC). יחד, שתי הגרסאות יכולות ליצור נושא מורכב בן שש־עשרה תיבות."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/bcc2fe55de\" title=\"גרסה המסתיימת בקדנצה אותנטית מושלמת\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/bcc2fe55de",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: גרסה המסתיימת בקדנצה אותנטית מושלמת. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>הצגה — Prinner מהירה — קדנצה</h3>",
+      "source_text": "הצגה — Prinner מהירה — קדנצה",
+      "spoken": "הצגה — Prinner מהירה — קדנצה"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>במקום Passo Indietro, שהיא מחצית Prinner, אפשר להשתמש ב־Prinner שלמה בקצב מהיר פי שניים. כך המלודיה יכולה לנוע יותר במחצית השנייה של המשפט, וליצור את הפיצול ואת האצת המקצב המלודי וקצב חילופי האקורדים האופייניים לפראזות המשך.</p>",
+      "source_text": "במקום Passo Indietro, שהיא מחצית Prinner, אפשר להשתמש ב־Prinner שלמה בקצב מהיר פי שניים. כך המלודיה יכולה לנוע יותר במחצית השנייה של המשפט, וליצור את הפיצול ואת האצת המקצב המלודי וקצב חילופי האקורדים האופייניים לפראזות המשך.",
+      "spoken": "במקום Passo Indietro, שהיא מחצית Prinner, אפשר להשתמש ב־Prinner שלמה בקצב מהיר פי שניים. כך המלודיה יכולה לנוע יותר במחצית השנייה של המשפט, וליצור את הפיצול ואת האצת המקצב המלודי וקצב חילופי האקורדים האופייניים לפראזות המשך."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן משפט המורכב מ־Sol-Fa-Mi, מ־Prinner ומחצי קדנצה Fa-Fi-Sol HC.</p>",
+      "source_text": "להלן משפט המורכב מ־Sol-Fa-Mi, מ־Prinner ומחצי קדנצה Fa-Fi-Sol HC.",
+      "spoken": "להלן משפט המורכב מ־Sol-Fa-Mi, מ־Prinner ומחצי קדנצה Fa-Fi-Sol HC."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/dcdfbf0994\" title=\"Sol-Fa-Mi, Prinner וחצי קדנצה Fa-Fi-Sol\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/dcdfbf0994",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Sol-Fa-Mi, Prinner וחצי קדנצה Fa-Fi-Sol. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ואותה תבנית, אך עם קדנצה אותנטית מושלמת פשוטה בסיום:</p>",
+      "source_text": "ואותה תבנית, אך עם קדנצה אותנטית מושלמת פשוטה בסיום:",
+      "spoken": "ואותה תבנית, אך עם קדנצה אותנטית מושלמת פשוטה בסיום:"
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/a63f2a06bc\" title=\"Sol-Fa-Mi ו־Prinner עם קדנצה אותנטית מושלמת\" width=\"100%\"></iframe>",
+      "target": "https://trinket.io/embed/music/a63f2a06bc",
+      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Sol-Fa-Mi ו־Prinner עם קדנצה אותנטית מושלמת. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h2>תרגול</h2>",
+      "source_text": "תרגול",
+      "spoken": "תרגול"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כדי לתרגל אלתור באמצעות הסכמות אפשר לנגן עם קובצי השמע בפורמט mp3 שלהלן, שיצר Mark Arnett. כל הקלטה היא ב־C מז׳ור ובמשקל פשוט ארבע־פעימתי; יד שמאל מנגנת בס אלברטי (Alberti bass) ויד ימין מנגנת את השלד המלודי.</p>",
+      "source_text": "כדי לתרגל אלתור באמצעות הסכמות אפשר לנגן עם קובצי השמע בפורמט mp3 שלהלן, שיצר Mark Arnett. כל הקלטה היא ב־C מז׳ור ובמשקל פשוט ארבע־פעימתי; יד שמאל מנגנת בס אלברטי (Alberti bass) ויד ימין מנגנת את השלד המלודי.",
+      "spoken": "כדי לתרגל אלתור באמצעות הסכמות אפשר לנגן עם קובצי השמע בפורמט mp3 שלהלן, שיצר Mark Arnett. כל הקלטה היא ב־C מז׳ור ובמשקל פשוט ארבע־פעימתי; יד שמאל מנגנת בס אלברטי (Alberti bass) ויד ימין מנגנת את השלד המלודי."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>סכמות יחידות</h3>",
+      "source_text": "סכמות יחידות",
+      "spoken": "סכמות יחידות"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/aprile.mp3\">Aprile</a></li>",
+      "source_text": "Aprile",
+      "spoken": "Aprile"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/do-re-mi.mp3\">Do–Re–Mi</a></li>",
+      "source_text": "Do–Re–Mi",
+      "spoken": "Do–Re–Mi"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/fonte.mp3\">Fonte</a></li>",
+      "source_text": "Fonte",
+      "spoken": "Fonte"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/jupiterB.mp3\">Jupiter — דומיננטה במצב יסודי</a></li>",
+      "source_text": "Jupiter — דומיננטה במצב יסודי",
+      "spoken": "Jupiter — דומיננטה במצב יסודי"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/jupiterA.mp3\">Jupiter — דומיננטה בהיפוך</a></li>",
+      "source_text": "Jupiter — דומיננטה בהיפוך",
+      "spoken": "Jupiter — דומיננטה בהיפוך"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/meyer.mp3\">Meyer</a></li>",
+      "source_text": "Meyer",
+      "spoken": "Meyer"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/monte.mp3\">Monte</a></li>",
+      "source_text": "Monte",
+      "spoken": "Monte"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/pastorella.mp3\">Pastorella</a></li>",
+      "source_text": "Pastorella",
+      "spoken": "Pastorella"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/prinner4.mp3\">Prinner בת ארבעה שלבים</a></li>",
+      "source_text": "Prinner בת ארבעה שלבים",
+      "spoken": "Prinner בת ארבעה שלבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/prinner5.mp3\">Prinner בת חמישה שלבים</a></li>",
+      "source_text": "Prinner בת חמישה שלבים",
+      "spoken": "Prinner בת חמישה שלבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/modulatingPrinner4.mp3\">Prinner מודולטורית בת ארבעה שלבים</a></li>",
+      "source_text": "Prinner מודולטורית בת ארבעה שלבים",
+      "spoken": "Prinner מודולטורית בת ארבעה שלבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/modulatingPrinner5.mp3\">Prinner מודולטורית בת חמישה שלבים</a></li>",
+      "source_text": "Prinner מודולטורית בת חמישה שלבים",
+      "spoken": "Prinner מודולטורית בת חמישה שלבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/sol-fa-miA.mp3\">Sol–Fa–Mi — אקורד II בשלב השני</a></li>",
+      "source_text": "Sol–Fa–Mi — אקורד II בשלב השני",
+      "spoken": "Sol–Fa–Mi — אקורד II בשלב השני"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/sol-fa-miB.mp3\">Sol–Fa–Mi — אקורד VII בשלב השני</a></li>",
+      "source_text": "Sol–Fa–Mi — אקורד VII בשלב השני",
+      "spoken": "Sol–Fa–Mi — אקורד VII בשלב השני"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>שרשראות סכמות ליצירת משפט</h3>",
+      "source_text": "שרשראות סכמות ליצירת משפט",
+      "spoken": "שרשראות סכמות ליצירת משפט"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/Jup-PI-ComHC.mp3\">Jupiter — Passo Indietro — חצי קדנצה מורכבת</a></li>",
+      "source_text": "Jupiter — Passo Indietro — חצי קדנצה מורכבת",
+      "spoken": "Jupiter — Passo Indietro — חצי קדנצה מורכבת"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/Jup-PI-ComPAC.mp3\">Jupiter — Passo Indietro — קדנצה אותנטית מושלמת מורכבת</a></li>",
+      "source_text": "Jupiter — Passo Indietro — קדנצה אותנטית מושלמת מורכבת",
+      "spoken": "Jupiter — Passo Indietro — קדנצה אותנטית מושלמת מורכבת"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/Meyer-PrinnerB.mp3\">Meyer — Prinner בת חמישה שלבים</a></li>",
+      "source_text": "Meyer — Prinner בת חמישה שלבים",
+      "spoken": "Meyer — Prinner בת חמישה שלבים"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<li><a href=\"/media/schemata/SFM-Prinner-FFSHC.mp3\">Sol–Fa–Mi — Prinner בשתי תיבות — חצי קדנצה Fa–Fi–Sol</a></li>",
+      "source_text": "Sol–Fa–Mi — Prinner בשתי תיבות — חצי קדנצה Fa–Fi–Sol",
+      "spoken": "Sol–Fa–Mi — Prinner בשתי תיבות — חצי קדנצה Fa–Fi–Sol"
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/HaydnXVI27.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "https://embed.spotify.com/?uri=spotify:track:5kTdWFxPcUOt9Y45UgGotD",
+      "http://player.vimeo.com/video/109188050",
+      "https://trinket.io/embed/music/4ea073d8f1",
+      "https://trinket.io/embed/music/ee80a49382",
+      "https://trinket.io/embed/music/bcc2fe55de",
+      "https://trinket.io/embed/music/dcdfbf0994",
+      "https://trinket.io/embed/music/a63f2a06bc"
+    ],
+    "pronunciation_pending": true,
+    "pending": [
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/4ea073d8f1"
+      },
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/ee80a49382"
+      },
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/bcc2fe55de"
+      },
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/dcdfbf0994"
+      },
+      {
+        "kind": "external-score-unreviewed",
+        "target": "https://trinket.io/embed/music/a63f2a06bc"
+      }
+    ],
+    "omissions": [],
+    "links": [
+      {
+        "label": "classical sentence",
+        "target": "sentence.html"
+      },
+      {
+        "label": "עמוד הסיכום",
+        "target": "schemataSummary.html"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/HaydnXVI27.png"
+      },
+      {
+        "label": "IMSLP",
+        "target": "http://www.imslp.org"
+      },
+      {
+        "label": "אלתור פראזת הצגה",
+        "target": "http://vimeo.com/109188050"
+      },
+      {
+        "label": "Vimeo",
+        "target": "https://vimeo.com"
+      },
+      {
+        "label": "שימוש ב־Trinket",
+        "target": "trinket.html"
+      },
+      {
+        "label": "Aprile",
+        "target": "/media/schemata/aprile.mp3"
+      },
+      {
+        "label": "Do–Re–Mi",
+        "target": "/media/schemata/do-re-mi.mp3"
+      },
+      {
+        "label": "Fonte",
+        "target": "/media/schemata/fonte.mp3"
+      },
+      {
+        "label": "Jupiter — דומיננטה במצב יסודי",
+        "target": "/media/schemata/jupiterB.mp3"
+      },
+      {
+        "label": "Jupiter — דומיננטה בהיפוך",
+        "target": "/media/schemata/jupiterA.mp3"
+      },
+      {
+        "label": "Meyer",
+        "target": "/media/schemata/meyer.mp3"
+      },
+      {
+        "label": "Monte",
+        "target": "/media/schemata/monte.mp3"
+      },
+      {
+        "label": "Pastorella",
+        "target": "/media/schemata/pastorella.mp3"
+      },
+      {
+        "label": "Prinner בת ארבעה שלבים",
+        "target": "/media/schemata/prinner4.mp3"
+      },
+      {
+        "label": "Prinner בת חמישה שלבים",
+        "target": "/media/schemata/prinner5.mp3"
+      },
+      {
+        "label": "Prinner מודולטורית בת ארבעה שלבים",
+        "target": "/media/schemata/modulatingPrinner4.mp3"
+      },
+      {
+        "label": "Prinner מודולטורית בת חמישה שלבים",
+        "target": "/media/schemata/modulatingPrinner5.mp3"
+      },
+      {
+        "label": "Sol–Fa–Mi — אקורד II בשלב השני",
+        "target": "/media/schemata/sol-fa-miA.mp3"
+      },
+      {
+        "label": "Sol–Fa–Mi — אקורד VII בשלב השני",
+        "target": "/media/schemata/sol-fa-miB.mp3"
+      },
+      {
+        "label": "Jupiter — Passo Indietro — חצי קדנצה מורכבת",
+        "target": "/media/schemata/Jup-PI-ComHC.mp3"
+      },
+      {
+        "label": "Jupiter — Passo Indietro — קדנצה אותנטית מושלמת מורכבת",
+        "target": "/media/schemata/Jup-PI-ComPAC.mp3"
+      },
+      {
+        "label": "Meyer — Prinner בת חמישה שלבים",
+        "target": "/media/schemata/Meyer-PrinnerB.mp3"
+      },
+      {
+        "label": "Sol–Fa–Mi — Prinner בשתי תיבות — חצי קדנצה Fa–Fi–Sol",
+        "target": "/media/schemata/SFM-Prinner-FFSHC.mp3"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

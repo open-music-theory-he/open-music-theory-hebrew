@@ -1,0 +1,130 @@
+{
+  "chapter": 77,
+  "source": "inversion.md",
+  "title": "077 — היפוך במוזיקה פוסט־טונלית",
+  "source_sha256": "869bf64bef5fb978a9e0b01b5c53bc23b760b47f3fb2389fdd9d9413cbc8f5c8",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>היפוך</em> (inversion), כמו טרנספוזיציה, קשור לעיתים קרובות לתנועה המחברת עצמים דומים. עליכם לדעת (1) להפוך אוסף גבהי צליל, ו־(2) לקבוע את יחס ההיפוך בין שני אוספים.</p>",
+      "source_text": "היפוך (inversion), כמו טרנספוזיציה, קשור לעיתים קרובות לתנועה המחברת עצמים דומים. עליכם לדעת (1) להפוך אוסף גבהי צליל, ו־(2) לקבוע את יחס ההיפוך בין שני אוספים.",
+      "spoken": "היפוך (inversion), כמו טרנספוזיציה, קשור לעיתים קרובות לתנועה המחברת עצמים דומים. עליכם לדעת (1) להפוך אוסף גבהי צליל, ו־(2) לקבוע את יחס ההיפוך בין שני אוספים."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דוגמת היפוך מתוך הקתדרלה השקועה מאת דביסי\" src=\"/Graphics/postTonal/inversion.png\"/>",
+      "asset": "Graphics/postTonal/inversion.png",
+      "spoken": "בגירסה הכתובה מופיע כאן קטע לפסנתר המראה יחס היפוך בין שני צירופי צלילים. מעל הקטע הראשון C, D, G והקבוצה {0,2,7}; מעל השני A, D, E והקבוצה {9,2,4}. חץ T4I מקשר בין שני הצירופים, כאשר כיוון המרווחים מתהפך.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הקטע לעיל מתוך ״הקתדרלה השקועה״ של דביסי הוא דוגמה לכך. כמו ב<a href=\"transposition.html\">קטעים הקשורים בטרנספוזיציה</a>, לשתי המחוות אותו תוכן מרווחי, ולכן אוזנינו מזהות ביניהן דמיון רב. דביסי מדגיש את הדמיון באמצעות אותו דפוס קצבי בשתיהן. אולם, בניגוד לטרנספוזיציה, התוכן המרווחי בשתי המחוות אינו <em>מסודר</em> באותה דרך.</p>",
+      "source_text": "הקטע לעיל מתוך ״הקתדרלה השקועה״ של דביסי הוא דוגמה לכך. כמו בקטעים הקשורים בטרנספוזיציה, לשתי המחוות אותו תוכן מרווחי, ולכן אוזנינו מזהות ביניהן דמיון רב. דביסי מדגיש את הדמיון באמצעות אותו דפוס קצבי בשתיהן. אולם, בניגוד לטרנספוזיציה, התוכן המרווחי בשתי המחוות אינו מסודר באותה דרך.",
+      "spoken": "הקטע לעיל מתוך ״הקתדרלה השקועה״ של דביסי הוא דוגמה לכך. כמו בקטעים הקשורים בטרנספוזיציה, לשתי המחוות אותו תוכן מרווחי, ולכן אוזנינו מזהות ביניהן דמיון רב. דביסי מדגיש את הדמיון באמצעות אותו דפוס קצבי בשתיהן. אולם, בניגוד לטרנספוזיציה, התוכן המרווחי בשתי המחוות אינו מסודר באותה דרך."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"שתי מחוות בעלות אותו תוכן מרווחי המסודר בהיפוך\" src=\"/Graphics/postTonal/inversionallyRelated.png\"/>",
+      "asset": "Graphics/postTonal/inversionallyRelated.png",
+      "spoken": "בגירסה הכתובה מופיע כאן שתי מחוות המסודרות בהיפוך של מרווחים. משמאל C–D–G עם מרווחים +2 ו־+5; מימין E–D–A עם מרווחים +2 ו־+5 בכיוון הפוך של הקריאה המוזיקלית. הקשת האנכית של המרווח הכולל מסומנת +7 בשני המקרים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בשתיהן אותם מרווחים, אך באוסף <bdi dir=\"ltr\">{A,D,E}</bdi> המרווח <bdi dir=\"ltr\">+5</bdi> נמצא למטה במקום למעלה.</p>",
+      "source_text": "בשתיהן אותם מרווחים, אך באוסף {A,D,E} המרווח +5 נמצא למטה במקום למעלה.",
+      "spoken": "בשתיהן אותם מרווחים, אך באוסף {A,D,E} המרווח +5 נמצא למטה במקום למעלה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>היפוך הוא תהליך בשני שלבים, המתבצעים <em>בסדר זה</em>: (1) שיקוף מחלקות גובה הצליל סביב ציר הסימטריה 0–6; ואז (2) טרנספוזיציה. תחילה נמחיש זאת בשעון, ואחר כך נציג דרך קלה יותר:</p>",
+      "source_text": "היפוך הוא תהליך בשני שלבים, המתבצעים בסדר זה: (1) שיקוף מחלקות גובה הצליל סביב ציר הסימטריה 0–6; ואז (2) טרנספוזיציה. תחילה נמחיש זאת בשעון, ואחר כך נציג דרך קלה יותר:",
+      "spoken": "היפוך הוא תהליך בשני שלבים, המתבצעים בסדר זה: (1) שיקוף מחלקות גובה הצליל סביב ציר הסימטריה 0–6; ואז (2) טרנספוזיציה. תחילה נמחיש זאת בשעון, ואחר כך נציג דרך קלה יותר:"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"שיקוף סביב ציר 0–6 ולאחריו טרנספוזיציה במעגל מחלקות גובה הצליל\" src=\"/Graphics/postTonal/invertingWithAClock.png\"/>",
+      "asset": "Graphics/postTonal/invertingWithAClock.png",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של היפוך באמצעות לוח שעון בשני שלבים. תחילה משקפים את הקבוצה {0,2,7} סביב ציר 0–6 ומקבלים {0,5,10}; לאחר מכן מוסיפים 4 ומקבלים {2,4,9}. זהו מימוש גאומטרי של T4I.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>לשמחתנו, יש דרך מהירה הרבה יותר להפוך גובה צליל או אוסף גבהי צליל. בהינתן אוסף מחלקות גובה צליל ו־<em>TnI</em>, פשוט מחסירים את מחלקות גובה הצליל מ־<em>n</em>:</p>",
+      "source_text": "לשמחתנו, יש דרך מהירה הרבה יותר להפוך גובה צליל או אוסף גבהי צליל. בהינתן אוסף מחלקות גובה צליל ו־TnI, פשוט מחסירים את מחלקות גובה הצליל מ־n:",
+      "spoken": "לשמחתנו, יש דרך מהירה הרבה יותר להפוך גובה צליל או אוסף גבהי צליל. בהינתן אוסף מחלקות גובה צליל ו־TnI, פשוט מחסירים את מחלקות גובה הצליל מ־n:"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"חישוב היפוך באמצעות חיסור מחלקת גובה הצליל מן המספר n\" src=\"/Graphics/postTonal/differences.png\"/>",
+      "asset": "Graphics/postTonal/differences.png",
+      "spoken": "בגירסה הכתובה מופיע כאן חישוב היפוך T4I באמצעות חיסור ממספר קבוע. בשורה העליונה 4, 4, 4; מחסרים 0, 2, 7 ומקבלים 4, 2, 9 במודולו 12. הקבוצה מוצגת לאחר מכן בסדר {4,2,9}.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ולהפך: כדי לקבוע את <em>TnI</em> המקשרת בין שני אוספים, מצאו ערך משותף שאליו מסתכמים כל זוגות המחלקות המתאימים. זהו ה־<em>n</em> ב־<em>TnI</em>:</p>",
+      "source_text": "ולהפך: כדי לקבוע את TnI המקשרת בין שני אוספים, מצאו ערך משותף שאליו מסתכמים כל זוגות המחלקות המתאימים. זהו ה־n ב־TnI:",
+      "spoken": "ולהפך: כדי לקבוע את TnI המקשרת בין שני אוספים, מצאו ערך משותף שאליו מסתכמים כל זוגות המחלקות המתאימים. זהו ה־n ב־TnI:"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"קביעת יחס ההיפוך באמצעות סכומי זוגות המחלקות המתאימים\" src=\"/Graphics/postTonal/sums.png\"/>",
+      "asset": "Graphics/postTonal/sums.png",
+      "spoken": "בגירסה הכתובה מופיע כאן קביעת יחס ההיפוך באמצעות סכומי מחלקות גובה תואמות. מחברים 0, 2, 7 אל 4, 2, 9 ומקבלים 4 בכל זוג במודולו 12. הכיתוב מזהה את הקשר בין {0,2,7} ל־{2,4,9} כ־T4I.",
+      "reviewed": true
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/postTonal/inversion.png",
+      "Graphics/postTonal/inversionallyRelated.png",
+      "Graphics/postTonal/invertingWithAClock.png",
+      "Graphics/postTonal/differences.png",
+      "Graphics/postTonal/sums.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/inversion.png"
+      },
+      {
+        "label": "קטעים הקשורים בטרנספוזיציה",
+        "target": "transposition.html"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/inversionallyRelated.png"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/invertingWithAClock.png"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/differences.png"
+      },
+      {
+        "label": "",
+        "target": "/Graphics/postTonal/sums.png"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}
