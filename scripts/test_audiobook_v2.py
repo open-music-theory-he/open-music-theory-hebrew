@@ -1,7 +1,7 @@
 import contextlib,io,json,unittest,tempfile,subprocess
 from pathlib import Path
 from urllib.error import HTTPError
-from export_audiobook_v2 import KeyPool,RunDone,point_tav,approved_plan,scrub,tag_chapter
+from export_audiobook_v2 import KeyPool,RunDone,point_tav,approved_plan,scrub,tag_chapter,safe_http_error
 class Response:
  status=200
  def __enter__(self):return self
@@ -47,4 +47,14 @@ class Tests(unittest.TestCase):
    tag_chapter(path,chapters[0],sel,'פתיח קבוע\n\nמלל הפרק')
    tags=ID3(path);self.assertEqual(str(tags['TIT2']),chapters[0]['title']);self.assertEqual(str(tags['TRCK']),'1/126');self.assertIn('פתיח קבוע',tags.getall('USLT')[0].text)
  def test_secret_scrub(self):self.assertNotIn('secret',scrub('key secret token=foo',['secret']))
+ def test_escaped_header_secret(self):
+  key='AQ.'+'x'*48
+  error="Invalid header value "+repr((key+'\n').encode())
+  self.assertNotIn(key,scrub(error,[key+'\n']))
+  self.assertNotIn(key,scrub(error,[]))
+ def test_provider_errors_allowlist(self):
+  key='AQ.'+'x'*48
+  raw=json.dumps({'error':{'code':429,'status':'RESOURCE_EXHAUSTED','message':key,'details':[key]}}).encode()
+  self.assertEqual(safe_http_error(raw),{'code':429,'status':'RESOURCE_EXHAUSTED'})
+  self.assertNotIn(key,str(safe_http_error(key.encode())))
 if __name__=='__main__':unittest.main()
