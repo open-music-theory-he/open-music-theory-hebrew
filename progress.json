@@ -3,7 +3,7 @@
   "chapters_total": 116,
   "segments_total": 408,
   "new_segments": 27,
-  "completed_chapters": 9,
+  "completed_chapters": 10,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -75,7 +75,7 @@
       "title": "011 — סימני הסולם",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 12,
@@ -822,5 +822,5 @@
   ],
   "requests": 134,
   "successes": 27,
-  "elapsed_seconds": 15041.77
+  "elapsed_seconds": 15050.18
 }
