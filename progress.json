@@ -3,7 +3,7 @@
   "chapters_total": 116,
   "segments_total": 408,
   "new_segments": 23,
-  "completed_chapters": 8,
+  "completed_chapters": 9,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -68,7 +68,7 @@
       "title": "009 — גבהי צליל וסימון אוקטבות",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 11,
@@ -822,5 +822,5 @@
   ],
   "requests": 79,
   "successes": 23,
-  "elapsed_seconds": 3316.97
+  "elapsed_seconds": 3320.47
 }
