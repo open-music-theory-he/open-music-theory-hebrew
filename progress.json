@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "completed": 9,
+  "completed": 10,
   "total": 10,
   "samples": [
     {
@@ -88,8 +88,10 @@
       "label": "קול Iapetus — זורם",
       "voice": "Iapetus",
       "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+      "sha256": "114eb180294110a6c48b78e96594d131a99f19399c87e28aa8dae0e32b08aaa7",
+      "seconds": 22.28
     }
   ],
-  "requests": 8
+  "requests": 9
 }
