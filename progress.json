@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 35,
+  "new_segments": 36,
   "completed_chapters": 11,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -87,7 +87,7 @@
     {
       "chapter": 13,
       "title": "013 — אקורדים משולשים ואקורדי ספטימה",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 8,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 192,
-  "successes": 35,
-  "elapsed_seconds": 17933.85
+  "requests": 197,
+  "successes": 36,
+  "elapsed_seconds": 17988.41
 }
