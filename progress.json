@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 11,
+  "new_segments": 12,
   "completed_chapters": 2,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -24,7 +24,7 @@
     {
       "chapter": 3,
       "title": "003 — על תאוריית המוזיקה הפתוחה",
-      "segments_ready": 4,
+      "segments_ready": 5,
       "segments_total": 5,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 13,
-  "successes": 11,
-  "elapsed_seconds": 325.43
+  "requests": 14,
+  "successes": 12,
+  "elapsed_seconds": 360.21
 }
