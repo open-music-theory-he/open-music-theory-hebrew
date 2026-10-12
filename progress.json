@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 19,
+  "new_segments": 20,
   "completed_chapters": 7,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -59,7 +59,7 @@
     {
       "chapter": 8,
       "title": "008 — קורות וחלוקות קצב שאולות",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 30,
-  "successes": 19,
-  "elapsed_seconds": 583.8
+  "requests": 39,
+  "successes": 20,
+  "elapsed_seconds": 635.29
 }
