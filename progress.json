@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "completed": 4,
+  "completed": 5,
   "total": 10,
   "samples": [
     {
@@ -43,7 +43,9 @@
       "label": "קול Charon — מדוד",
       "voice": "Charon",
       "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting."
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.",
+      "sha256": "c6c690b2a6642fc2ecd7a15782a40b5062422cd5f6fb846ed7fe4394621324bd",
+      "seconds": 25.6
     },
     {
       "id": "05-Charon-fluent",
@@ -81,5 +83,5 @@
       "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
     }
   ],
-  "requests": 3
+  "requests": 4
 }
