@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "completed": 2,
+  "completed": 3,
   "total": 10,
   "samples": [
     {
@@ -25,7 +25,9 @@
       "label": "בדיקת הגייה ניטרלית 2 — עם ניקוד",
       "voice": "Charon",
       "text": "על הדף הודפס תָּו אחד, ומתחתיו נכתב מספר.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects."
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects.",
+      "sha256": "9d74afd2cbf03e96910142fb752645de4d81232fc0ca69db267654541e914541",
+      "seconds": 5.36
     },
     {
       "id": "03-neutral-pronunciation",
@@ -77,5 +79,5 @@
       "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
     }
   ],
-  "requests": 1
+  "requests": 2
 }
