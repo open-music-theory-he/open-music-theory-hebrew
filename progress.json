@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 1,
+  "new_segments": 2,
   "completed_chapters": 0,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -10,7 +10,7 @@
     {
       "chapter": 1,
       "title": "001 — הקדמה למהדורה העברית",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 2,
-  "successes": 1,
-  "elapsed_seconds": 26.46
+  "requests": 3,
+  "successes": 2,
+  "elapsed_seconds": 49.59
 }
