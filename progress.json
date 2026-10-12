@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 31,
+  "new_segments": 32,
   "completed_chapters": 10,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -80,7 +80,7 @@
     {
       "chapter": 12,
       "title": "012 — מרווחים וצמדי צלילים",
-      "segments_ready": 4,
+      "segments_ready": 5,
       "segments_total": 8,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 150,
-  "successes": 31,
-  "elapsed_seconds": 15216.77
+  "requests": 155,
+  "successes": 32,
+  "elapsed_seconds": 15259.16
 }
