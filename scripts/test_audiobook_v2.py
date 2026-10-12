@@ -20,6 +20,13 @@ class Tests(unittest.TestCase):
   self.assertEqual(keys[:6],['one','two','three']*2);self.assertEqual(waits[:4],[10,20,40,80]);self.assertEqual(max(waits),1800);self.assertEqual(waits[-1],10)
   pool.deadline=clock[0]
   with self.assertRaises(RunDone):pool.request({},{})
+ def test_secret_trailing_whitespace(self):
+  headers=[]
+  def open(req,timeout):headers.append(req.get_header('X-goog-api-key'));return Response()
+  p=KeyPool(['one\n',' two\r\n','three '],100,clock=lambda:0,opener=open)
+  with contextlib.redirect_stdout(io.StringIO()):p.request({},{})
+  self.assertEqual(p.keys,['one','two','three']);self.assertEqual(headers,['one'])
+  with self.assertRaises(RuntimeError):KeyPool(['one','t\nwo','three'],100)
  def test_finish_current_call(self):
   clock=[0]
   def open(req,timeout):clock[0]=200;return Response()

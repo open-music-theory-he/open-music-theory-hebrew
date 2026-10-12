@@ -33,7 +33,9 @@ def log(event,**fields):
 class RunDone(Exception): pass
 class KeyPool:
     def __init__(self,keys,deadline,clock=time.monotonic,sleeper=time.sleep,opener=urlopen):
-        self.keys=keys;self.deadline=deadline;self.clock=clock;self.sleep=sleeper;self.opener=opener
+        self.keys=[key.strip() for key in keys]
+        if len(self.keys)!=3 or any(not key or any(ch.isspace() for ch in key) for key in self.keys):raise RuntimeError('Three non-empty API keys without internal whitespace are required.')
+        self.deadline=deadline;self.clock=clock;self.sleep=sleeper;self.opener=opener
         self.index=0;self.delay=10;self.limited=set();self.disabled=set();self.attempts=0;self.successes=0
     def request(self,payload,context):
         while True:
@@ -136,7 +138,7 @@ def main():
     for c in chapters:atomic(state/'transcripts'/f'{c["chapter"]:03d}.txt',c['transcript'].encode())
     log('plan',eligible_chapters=len(chapters),skipped_chapters=selection['excluded_chapters'],segments_total=sum(len(c['chunks']) for c in chapters),voice=selection['voice'],model=MODEL)
     if a.prepare_only:return
-    keys=[os.environ.get(f'GEMINI_API_KEY_{i}','') for i in range(1,4)]
+    keys=[os.environ.get(f'GEMINI_API_KEY_{i}','').strip() for i in range(1,4)]
     if not all(keys):raise RuntimeError('Exactly three numbered repository secrets are required.')
     opening=ROOT/'dist/audition-source/00-introduction.mp3';opening_json=ROOT/'dist/audition-source/00-introduction.json'
     if digest(opening.read_bytes())!=selection['opening_mp3_sha256']:raise RuntimeError('Approved opening MP3 checksum mismatch.')
