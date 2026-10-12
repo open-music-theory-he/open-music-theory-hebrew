@@ -1,5 +1,5 @@
 {
-  "status": "paused",
+  "status": "running",
   "completed": 2,
   "total": 10,
   "samples": [
@@ -12,27 +12,27 @@
       "sha256": "7506342a5d04d771b7b3be764e8c3bac0356e382a62c13289b3ff92e0935dff5"
     },
     {
-      "id": "01-pronunciation",
-      "label": "בדיקת הגייה 1 — ללא ניקוד",
+      "id": "01-neutral-pronunciation",
+      "label": "בדיקת הגייה ניטרלית 1 — ללא ניקוד",
       "voice": "Charon",
-      "text": "כשהוא כתוב על חמשה, תו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects.",
-      "sha256": "4a25663163d34800c48a79c2c35fee80a0e8522bd4ad2bac97ee27989c5f9925"
+      "text": "על הדף הודפס תו אחד, ומתחתיו נכתב מספר.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects.",
+      "sha256": "3bf4d39e1ab50599e4a04cc06d6bf5c1de7b230888d462f25f097e1741308c63",
+      "seconds": 4.24
     },
     {
-      "id": "02-pronunciation",
-      "label": "בדיקת הגייה 2 — עם ניקוד",
+      "id": "02-neutral-pronunciation",
+      "label": "בדיקת הגייה ניטרלית 2 — עם ניקוד",
       "voice": "Charon",
-      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects.",
-      "sha256": "31da353c9cc9e21c5193486f9f807d1d2914d196adf743cc2b84b2bc077bebd4"
+      "text": "על הדף הודפס תָּו אחד, ומתחתיו נכתב מספר.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects."
     },
     {
-      "id": "03-pronunciation",
-      "label": "בדיקת הגייה 3 — ניקוד והוראת הגייה",
+      "id": "03-neutral-pronunciation",
+      "label": "בדיקת הגייה ניטרלית 3 — ניקוד והוראת הגייה",
       "voice": "Charon",
-      "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Pronounce the musical Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content."
+      "text": "על הדף הודפס תָּו אחד, ומתחתיו נכתב מספר.",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects. Pronounce the Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content."
     },
     {
       "id": "04-Charon-measured",
@@ -77,6 +77,5 @@
       "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
     }
   ],
-  "requests": 1,
-  "reason": "quota_or_rate_limit_429"
+  "requests": 1
 }
