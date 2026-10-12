@@ -1,8 +1,8 @@
 {
-  "status": "error",
+  "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 0,
+  "new_segments": 1,
   "completed_chapters": 0,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -10,7 +10,7 @@
     {
       "chapter": 1,
       "title": "001 — הקדמה למהדורה העברית",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -820,8 +820,7 @@
       "complete": false
     }
   ],
-  "reason": "Invalid header value b'AQ.Ab8RN6IPQzvbvIdFcZvoPtPy4RD2_kPWk8FfpeFt1vZmO-ttJw\\n'",
-  "requests": 1,
-  "successes": 0,
-  "elapsed_seconds": 0.01
+  "requests": 2,
+  "successes": 1,
+  "elapsed_seconds": 26.46
 }
