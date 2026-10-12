@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "completed": 3,
+  "completed": 4,
   "total": 10,
   "samples": [
     {
@@ -34,7 +34,9 @@
       "label": "בדיקת הגייה ניטרלית 3 — ניקוד והוראת הגייה",
       "voice": "Charon",
       "text": "על הדף הודפס תָּו אחד, ומתחתיו נכתב מספר.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects. Pronounce the Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content."
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects. Pronounce the Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content.",
+      "sha256": "dcf7ba62bf2c62b4ab3becf19f68c6b5c90d1466b682d9be24a232383bb76e41",
+      "seconds": 4.16
     },
     {
       "id": "04-Charon-measured",
@@ -79,5 +81,5 @@
       "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
     }
   ],
-  "requests": 2
+  "requests": 3
 }
