@@ -3,7 +3,7 @@
   "chapters_total": 116,
   "segments_total": 408,
   "new_segments": 1,
-  "completed_chapters": 3,
+  "completed_chapters": 4,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -33,7 +33,7 @@
       "title": "004 — יסודות התיווי",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 5,
@@ -822,5 +822,5 @@
   ],
   "requests": 1,
   "successes": 1,
-  "elapsed_seconds": 9.96
+  "elapsed_seconds": 13.99
 }
