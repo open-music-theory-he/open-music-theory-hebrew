@@ -1,4 +1,4 @@
-name: Hebrew audiobook v2 — 116 approved chapters
+name: Hebrew audiobook v2 — approved chapters
 on:
   workflow_dispatch:
     inputs:
