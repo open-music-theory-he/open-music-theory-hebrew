@@ -1,5 +1,5 @@
 {
-  "prepared_chapters": 5,
+  "prepared_chapters": 6,
   "total_chapters": 126,
   "audio_production_enabled": false,
   "chapters": [
@@ -37,6 +37,13 @@
       "blocks": 42,
       "media_explanations": 20,
       "status": "text-reviewed-awaiting-pronunciation-choice"
+    },
+    {
+      "chapter": 6,
+      "source": "protonotation.md",
+      "blocks": 37,
+      "visual_explanations": 12,
+      "status": "text-reviewed-awaiting-pronunciation-choice"
     }
   ],
   "notes": [
@@ -44,6 +51,9 @@
     "הוסר סימון עיצוב בלבד; טקסט קישורים נשמר ומטרותיהם נמצאות בתיעוד המקור.",
     "דוגמאות הקריינות אינן אישור להפקת הספר.",
     "פרק 004: ארבעת האיורים נבדקו חזותית, כולל המעבר למפתח סול ביד שמאל בדוגמת קווי העזר.",
-    "פרק 005: נגני Vimeo ו־Spotify תוארו כקישורים; הכיתובים נשמרו בדיוק. לא נטען שתוכנם נצפה או הוקלט מחדש."
-  ]
+    "פרק 005: נגני Vimeo ו־Spotify תוארו כקישורים; הכיתובים נשמרו בדיוק. לא נטען שתוכנם נצפה או הוקלט מחדש.",
+    "סיכום ההעברה טען שבאיור quadruple-F.png מודפס 4/4. בדיקה מחודשת והגדלה מראות בבירור 4/1, בהתאם לפסקת המקור. אין לתקן את המקור בשל ממצא הבדיקה הקודם.",
+    "מלל המקור נשמר לאחר הסרת עיצוב וקישורים בלבד. בפרק זה אין ניקוד ניסויי; ההגייה הכוללת עדיין ממתינה לבחירה."
+  ],
+  "opening_asset": "approved:00-introduction.mp3"
 }
