@@ -20,8 +20,10 @@ def sample_plan():
     pointed = point_tav(text)
     samples = [{'id':'00-introduction','label':'פתיח קבוע — מהיר וברור','voice':'Charon','text':DISCLAIMER,
                 'style':BASE_STYLE+' Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.'}]
-    for number, variant, style in [(1,text,BASE_STYLE),(2,pointed,BASE_STYLE),(3,pointed,BASE_STYLE+' Pronounce the musical Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content.')]:
-        samples.append({'id':f'0{number}-pronunciation','label':f'בדיקת הגייה {number} — '+['ללא ניקוד','עם ניקוד','ניקוד והוראת הגייה'][number-1], 'voice':'Charon','text':variant,'style':style})
+    neutral = 'על הדף הודפס תו אחד, ומתחתיו נכתב מספר.'
+    neutral_style = 'Read the exact transcript verbatim in clear natural Israeli Hebrew. Do not translate, summarize, add words, or read instructions. No music or sound effects.'
+    for number, variant, style in [(1,neutral,neutral_style),(2,point_tav(neutral),neutral_style),(3,point_tav(neutral),neutral_style+' Pronounce the Hebrew word תָּו as tav, with an a vowel, never tov or tu. This is a pronunciation instruction, not spoken content.')]:
+        samples.append({'id':f'0{number}-neutral-pronunciation','label':f'בדיקת הגייה ניטרלית {number} — '+['ללא ניקוד','עם ניקוד','ניקוד והוראת הגייה'][number-1], 'voice':'Charon','text':variant,'style':style})
     number=4
     for voice in ('Charon','Orus','Iapetus'):
         for name, direction in [('measured','Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.'),('fluent','Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.')]:
