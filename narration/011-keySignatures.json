@@ -1,0 +1,264 @@
+{
+  "chapter": 11,
+  "source": "keySignatures.md",
+  "title": "011 — סימני הסולם",
+  "source_sha256": "4498cf841495baf6dbf5a62d248cb92332862233ad936528b51f1892cd2bf157",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כאשר כותבים באותה טונליות לאורך זמן, כתיבת סימני ההיתק שוב ושוב נעשית מסורבלת.</p>",
+      "source_text": "כאשר כותבים באותה טונליות לאורך זמן, כתיבת סימני ההיתק שוב ושוב נעשית מסורבלת.",
+      "spoken": "כאשר כותבים באותה טונליות לאורך זמן, כתיבת סימני ההיתק שוב ושוב נעשית מסורבלת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן מנגינה פשוטה ב־D מז׳ור, בלי סימני סולם בתחילת החמשה.</p>",
+      "source_text": "להלן מנגינה פשוטה ב־D מז׳ור, בלי סימני סולם בתחילת החמשה.",
+      "spoken": "להלן מנגינה פשוטה ב־D מז׳ור, בלי סימני סולם בתחילת החמשה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"מנגינה ב־D מז׳ור ללא סימני סולם\" src=\"Graphics/melodyWithoutKS.png\"/>",
+      "asset": "Graphics/melodyWithoutKS.png",
+      "spoken": "בגירסה הכתובה מופיע כאן מנגינה במשקל 4/4 במפתח סול, ללא סימני סולם בתחילת החמשה. הדיאזים של F ושל C נכתבים שוב לפני התווים הנדרשים במקומות שונים. התיווי מדגים את העומס שנוצר מסימון מקומי חוזר.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כדי להימנע מחזרה זו, מלחינים השתמשו ב<em>סימני הסולם (key signatures)</em> בתחילת כל חמשה, כתזכורת למבצעים אילו מחלקות גובה צליל מסומנות בבמול או בדיאז.</p>",
+      "source_text": "כדי להימנע מחזרה זו, מלחינים השתמשו בסימני הסולם (key signatures) בתחילת כל חמשה, כתזכורת למבצעים אילו מחלקות גובה צליל מסומנות בבמול או בדיאז.",
+      "spoken": "כדי להימנע מחזרה זו, מלחינים השתמשו בסימני הסולם (key signatures) בתחילת כל חמשה, כתזכורת למבצעים אילו מחלקות גובה צליל מסומנות בבמול או בדיאז."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן אותה מנגינה עם סימני הסולם בתחילת החמשה, המזכירים למבצע ש־F ו־C צריכים להיות מוגבהים בדיאז.</p>",
+      "source_text": "להלן אותה מנגינה עם סימני הסולם בתחילת החמשה, המזכירים למבצע ש־F ו־C צריכים להיות מוגבהים בדיאז.",
+      "spoken": "להלן אותה מנגינה עם סימני הסולם בתחילת החמשה, המזכירים למבצע ש־F ו־C צריכים להיות מוגבהים בדיאז."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"אותה מנגינה עם סימני הסולם של D מז׳ור\" src=\"Graphics/melodyWithKS.png\"/>",
+      "asset": "Graphics/melodyWithKS.png",
+      "spoken": "בגירסה הכתובה מופיע כאן אותה מנגינה במפתח סול ובמשקל 4/4, עם שני דיאזים בתחילת החמשה. סימני הסולם חלים על F ועל C, ולכן רוב סימני ההיתק המקומיים שבדוגמה הקודמת אינם נדרשים. המקצב והמלודיה נשארים זהים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>מעגל הקווינטות</h3>",
+      "source_text": "מעגל הקווינטות",
+      "spoken": "מעגל הקווינטות"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>מעגל הקווינטות (circle of fifths)</em> הוא תרשים המשמש בהוראת תאוריית המוזיקה כבר מאות שנים. הוא מסכם בנוחות את סימני הסולם הנדרשים לכל טונליות בעלת עד שבעה במולים או דיאזים.</p>",
+      "source_text": "מעגל הקווינטות (circle of fifths) הוא תרשים המשמש בהוראת תאוריית המוזיקה כבר מאות שנים. הוא מסכם בנוחות את סימני הסולם הנדרשים לכל טונליות בעלת עד שבעה במולים או דיאזים.",
+      "spoken": "מעגל הקווינטות (circle of fifths) הוא תרשים המשמש בהוראת תאוריית המוזיקה כבר מאות שנים. הוא מסכם בנוחות את סימני הסולם הנדרשים לכל טונליות בעלת עד שבעה במולים או דיאזים."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"מעגל הקווינטות של סולמות המז׳ור\" src=\"Graphics/circleOfFifths.png\" width=\"65%\"/>",
+      "asset": "Graphics/circleOfFifths.png",
+      "spoken": "בגירסה הכתובה מופיע כאן מעגל קווינטות לסולמות מז׳ור, עם מספר סימני הסולם. C נמצא בראש ללא סימנים; בכיוון השעון מופיעים G, D, A, E, B, F דיאז ו־C דיאז, ובכיוון הנגדי F, B במול, E במול, A במול, D במול, G במול ו־C במול. בחלק התחתון מופיעים זוגות אנהרמוניים והספירות המתאימות של דיאזים ובמולים.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אבל <em>אילו</em> תווים מסומנים בבמול או בדיאז בכל סולם? כדי להיעזר במעגל הקווינטות לקביעת סימני הסולם, צריך לזכור גם את משפט הזיכרון הבא, המציין את סדר הדיאזים והבמולים:</p>",
+      "source_text": "אבל אילו תווים מסומנים בבמול או בדיאז בכל סולם? כדי להיעזר במעגל הקווינטות לקביעת סימני הסולם, צריך לזכור גם את משפט הזיכרון הבא, המציין את סדר הדיאזים והבמולים:",
+      "spoken": "אבל אילו תווים מסומנים בבמול או בדיאז בכל סולם? כדי להיעזר במעגל הקווינטות לקביעת סימני הסולם, צריך לזכור גם את משפט הזיכרון הבא, המציין את סדר הדיאזים והבמולים:"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>F</strong>ather <strong>C</strong>harles <strong>G</strong>oes <strong>D</strong>own <strong>A</strong>nd <strong>E</strong>nds <strong>B</strong>attle.</p>",
+      "source_text": "Father Charles Goes Down And Ends Battle.",
+      "spoken": "Father Charles Goes Down And Ends Battle."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בסולמות עם דיאזים, בכיוון השעון במעגל, קוראים את המשפט קדימה. למשל, מעגל הקווינטות מראה שב־A מז׳ור יש שלושה דיאזים. אילו תווים מוגבהים? שלוש האותיות הראשונות במשפט: F(ather), C(harles), G(oes).</p>",
+      "source_text": "בסולמות עם דיאזים, בכיוון השעון במעגל, קוראים את המשפט קדימה. למשל, מעגל הקווינטות מראה שב־A מז׳ור יש שלושה דיאזים. אילו תווים מוגבהים? שלוש האותיות הראשונות במשפט: F(ather), C(harles), G(oes).",
+      "spoken": "בסולמות עם דיאזים, בכיוון השעון במעגל, קוראים את המשפט קדימה. למשל, מעגל הקווינטות מראה שב־A מז׳ור יש שלושה דיאזים. אילו תווים מוגבהים? שלוש האותיות הראשונות במשפט: F(ather), C(harles), G(oes)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בסולמות עם במולים, נגד כיוון השעון במעגל, קוראים את המשפט לאחור. למשל, ב־A במול מז׳ור יש ארבעה במולים. בקריאה לאחור מתקבל: B(attle), E(nds), A(nd), D(own).</p>",
+      "source_text": "בסולמות עם במולים, נגד כיוון השעון במעגל, קוראים את המשפט לאחור. למשל, ב־A במול מז׳ור יש ארבעה במולים. בקריאה לאחור מתקבל: B(attle), E(nds), A(nd), D(own).",
+      "spoken": "בסולמות עם במולים, נגד כיוון השעון במעגל, קוראים את המשפט לאחור. למשל, ב־A במול מז׳ור יש ארבעה במולים. בקריאה לאחור מתקבל: B(attle), E(nds), A(nd), D(own)."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת המהדורה העברית:</strong> המשפט האנגלי נשמר משום שראשי המילים שלו הם שמות התווים. אפשר לזכור ישירות את הסדר: דיאזים <strong><bdi dir=\"ltr\">F–C–G–D–A–E–B</bdi></strong>, ובמולים <strong><bdi dir=\"ltr\">B–E–A–D–G–C–F</bdi></strong>.</p>",
+      "source_text": "הערת המהדורה העברית: המשפט האנגלי נשמר משום שראשי המילים שלו הם שמות התווים. אפשר לזכור ישירות את הסדר: דיאזים F–C–G–D–A–E–B, ובמולים B–E–A–D–G–C–F.",
+      "spoken": "הערת המהדורה העברית: המשפט האנגלי נשמר משום שראשי המילים שלו הם שמות התווים. אפשר לזכור ישירות את הסדר: דיאזים F–C–G–D–A–E–B, ובמולים B–E–A–D–G–C–F."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>סימני סולם במינור</h3>",
+      "source_text": "סימני סולם במינור",
+      "spoken": "סימני סולם במינור"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>גם בסולמות מינור משתמשים בסימני סולם. לכל מערכת סימני סולם של מז׳ור יש סולם מינור תואם בעל אותם סימנים. מז׳ור ומינור בעלי אותם סימני סולם נקראים <em>סולמות יחסיים (relative keys)</em>. למשל, ב־C מז׳ור וב־A מינור אין דיאזים או במולים בסימני הסולם. A מינור הוא המינור היחסי של C מז׳ור, ו־C מז׳ור הוא המז׳ור היחסי של A מינור. השוו את מעגל הקווינטות למינור שלהלן למעגל המז׳ור שלמעלה כדי למצוא את יתר הזוגות היחסיים.</p>",
+      "source_text": "גם בסולמות מינור משתמשים בסימני סולם. לכל מערכת סימני סולם של מז׳ור יש סולם מינור תואם בעל אותם סימנים. מז׳ור ומינור בעלי אותם סימני סולם נקראים סולמות יחסיים (relative keys). למשל, ב־C מז׳ור וב־A מינור אין דיאזים או במולים בסימני הסולם. A מינור הוא המינור היחסי של C מז׳ור, ו־C מז׳ור הוא המז׳ור היחסי של A מינור. השוו את מעגל הקווינטות למינור שלהלן למעגל המז׳ור שלמעלה כדי למצוא את יתר הזוגות היחסיים.",
+      "spoken": "גם בסולמות מינור משתמשים בסימני סולם. לכל מערכת סימני סולם של מז׳ור יש סולם מינור תואם בעל אותם סימנים. מז׳ור ומינור בעלי אותם סימני סולם נקראים סולמות יחסיים (relative keys). למשל, ב־C מז׳ור וב־A מינור אין דיאזים או במולים בסימני הסולם. A מינור הוא המינור היחסי של C מז׳ור, ו־C מז׳ור הוא המז׳ור היחסי של A מינור. השוו את מעגל הקווינטות למינור שלהלן למעגל המז׳ור שלמעלה כדי למצוא את יתר הזוגות היחסיים."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"מעגל הקווינטות של סולמות המינור\" src=\"Graphics/circleOfFifths-minor.png\" width=\"65%\"/>",
+      "asset": "Graphics/circleOfFifths-minor.png",
+      "spoken": "בגירסה הכתובה מופיע כאן מעגל קווינטות לסולמות מינור. A מינור בראש ללא סימנים; בכיוון הדיאזים E, B, F דיאז, C דיאז, G דיאז, D דיאז ו־A דיאז, ובכיוון הבמולים D, G, C, F, B במול, E במול ו־A במול. המספרים בתוך המעגל מציינים את מספר סימני הסולם.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>כתיבת סימני הסולם</h3>",
+      "source_text": "כתיבת סימני הסולם",
+      "spoken": "כתיבת סימני הסולם"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>להלן תרשימי עזר המציגים את כתיבת כל סימני הסולם במפתחות סול, דו של אלט, דו של טנור ופה.</p>",
+      "source_text": "להלן תרשימי עזר המציגים את כתיבת כל סימני הסולם במפתחות סול, דו של אלט, דו של טנור ופה.",
+      "spoken": "להלן תרשימי עזר המציגים את כתיבת כל סימני הסולם במפתחות סול, דו של אלט, דו של טנור ופה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דיאזים במפתח סול\" src=\"Graphics/sharpsTreble.png\"/>",
+      "asset": "Graphics/sharpsTreble.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח סול, מדיאז אחד עד שבעה. בכל קבוצה מתווסף סימן לפי הסדר F, C, G, D, A, E, B. המיקום האנכי מותאם למפתח סול, והסימנים הקודמים נשמרים בכל שלב.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דיאזים במפתח דו של אלט\" src=\"Graphics/sharpsAlto.png\"/>",
+      "asset": "Graphics/sharpsAlto.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח דו של אלט, מדיאז אחד עד שבעה. סדר הוספת הדיאזים הוא F, C, G, D, A, E, B. המיקומים על הקווים וברווחים שונים ממפתח סול כדי לציין אותם שמות צלילים.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דיאזים במפתח דו של טנור\" src=\"Graphics/sharpsTenor.png\"/>",
+      "asset": "Graphics/sharpsTenor.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח דו של טנור, מדיאז אחד עד שבעה. הסדר F, C, G, D, A, E, B נשמר, אך הצבת הסימנים מותאמת למפתח הטנור. כך אפשר להשוות בין מספר הסימנים לבין מיקומם התקני.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דיאזים במפתח פה\" src=\"Graphics/sharpsBass.png\"/>",
+      "asset": "Graphics/sharpsBass.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח פה, מדיאז אחד עד שבעה. הדיאזים מתווספים בסדר F, C, G, D, A, E, B. כל סימן מתייחס לאותה מחלקת גובה בכל האוקטבות, גם אם הוא מוצג ברגיסטר מסוים.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"במולים במפתח סול\" src=\"Graphics/flatsTreble.png\"/>",
+      "asset": "Graphics/flatsTreble.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח סול, מבמול אחד עד שבעה. הבמולים מתווספים בסדר B, E, A, D, G, C, F. כל קבוצה מוסיפה במול אחד לקודמתה וממחישה את צורת הסימון על החמשה.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"במולים במפתח דו של אלט\" src=\"Graphics/flatsAlto.png\"/>",
+      "asset": "Graphics/flatsAlto.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח דו של אלט, מבמול אחד עד שבעה. סדר הבמולים B, E, A, D, G, C, F נשמר. המיקום האנכי מותאם למפתח אלט ואינו משנה את שמות הצלילים.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"במולים במפתח דו של טנור\" src=\"Graphics/flatsTenor.png\"/>",
+      "asset": "Graphics/flatsTenor.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח דו של טנור, מבמול אחד עד שבעה. הסימנים מתווספים בסדר B, E, A, D, G, C, F. הצבתם משקפת את מיקום C במפתח טנור.",
+      "reviewed": true
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"במולים במפתח פה\" src=\"Graphics/flatsBass.png\"/>",
+      "asset": "Graphics/flatsBass.png",
+      "spoken": "בגירסה הכתובה מופיע כאן סדרה של סימני סולם במפתח פה, מבמול אחד עד שבעה. הסדר B, E, A, D, G, C, F נשמר גם במפתח זה. שבע הקבוצות מדגימות את המיקומים התקניים של כל מספר במולים.",
+      "reviewed": true
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/melodyWithoutKS.png",
+      "Graphics/melodyWithKS.png",
+      "Graphics/circleOfFifths.png",
+      "Graphics/circleOfFifths-minor.png",
+      "Graphics/sharpsTreble.png",
+      "Graphics/sharpsAlto.png",
+      "Graphics/sharpsTenor.png",
+      "Graphics/sharpsBass.png",
+      "Graphics/flatsTreble.png",
+      "Graphics/flatsAlto.png",
+      "Graphics/flatsTenor.png",
+      "Graphics/flatsBass.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "",
+        "target": "Graphics/melodyWithoutKS.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/melodyWithKS.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/circleOfFifths.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/circleOfFifths-minor.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/sharpsTreble.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/sharpsAlto.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/sharpsTenor.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/sharpsBass.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/flatsTreble.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/flatsAlto.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/flatsTenor.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/flatsBass.png"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

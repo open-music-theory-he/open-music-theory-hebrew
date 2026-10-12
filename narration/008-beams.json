@@ -1,0 +1,126 @@
+{
+  "chapter": 8,
+  "source": "beams.md",
+  "title": "008 — קורות וחלוקות קצב שאולות",
+  "source_sha256": "ddb75614ac407575754158791bf73f4817a0cbdf1fb5ed334ba409a830344609",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>קורות</h3>",
+      "source_text": "קורות",
+      "spoken": "קורות"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>חשוב לזכור שהתיווי מיועד לקריאה בידי המבצעים. יש לשאוף תמיד לתיווי שקל ככל האפשר לפענח. לשם כך, בין השאר, מקבצים את המקצבים באופן שמבהיר את יחידת הפעימה ואת חלוקתה. <em>קורות (beams)</em> מחברות לקבוצות תווים באורך חלוקת הפעימה או קצרים יותר, הנמצאים בתוך אותה פעימה.</p>",
+      "source_text": "חשוב לזכור שהתיווי מיועד לקריאה בידי המבצעים. יש לשאוף תמיד לתיווי שקל ככל האפשר לפענח. לשם כך, בין השאר, מקבצים את המקצבים באופן שמבהיר את יחידת הפעימה ואת חלוקתה. קורות (beams) מחברות לקבוצות תווים באורך חלוקת הפעימה או קצרים יותר, הנמצאים בתוך אותה פעימה.",
+      "spoken": "חשוב לזכור שהתיווי מיועד לקריאה בידי המבצעים. יש לשאוף תמיד לתיווי שקל ככל האפשר לפענח. לשם כך, בין השאר, מקבצים את המקצבים באופן שמבהיר את יחידת הפעימה ואת חלוקתה. קורות (beams) מחברות לקבוצות תווים באורך חלוקת הפעימה או קצרים יותר, הנמצאים בתוך אותה פעימה."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בדוגמה זו, השמיניות אינן מחוברות בקורות, ולכן קשה לזהות את המשקל התלת־פעימתי.</p>",
+      "source_text": "בדוגמה זו, השמיניות אינן מחוברות בקורות, ולכן קשה לזהות את המשקל התלת־פעימתי.",
+      "spoken": "בדוגמה זו, השמיניות אינן מחוברות בקורות, ולכן קשה לזהות את המשקל התלת־פעימתי."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"שמיניות ללא קורות במשקל תלת־פעימתי\" src=\"Graphics/withoutbeams.png\" width=\"70%\"/>",
+      "asset": "Graphics/withoutbeams.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמת מקצב במשקל 3/4 שהשמיניות והשש־עשריות שבה כתובות עם דגלים נפרדים. בתיבה הראשונה רבע וארבע שמיניות; בתיבה השנייה זוג שמיניות, ארבע שש־עשריות ורבע. ללא קורות קשה יותר לראות את שלוש הפעימות.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>אם נכתוב מחדש את אותה דוגמה ונחבר בקורה את התווים הנמצאים באותה פעימה, יהיה קל הרבה יותר לקרוא את המוזיקה.</p>",
+      "source_text": "אם נכתוב מחדש את אותה דוגמה ונחבר בקורה את התווים הנמצאים באותה פעימה, יהיה קל הרבה יותר לקרוא את המוזיקה.",
+      "spoken": "אם נכתוב מחדש את אותה דוגמה ונחבר בקורה את התווים הנמצאים באותה פעימה, יהיה קל הרבה יותר לקרוא את המוזיקה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"אותן שמיניות מקובצות לפי הפעימות\" src=\"Graphics/beams.png\" width=\"70%\"/>",
+      "asset": "Graphics/beams.png",
+      "spoken": "בגירסה הכתובה מופיע כאן אותה דוגמת מקצב במשקל 3/4, הפעם עם קורות המבהירות את הפעימות. השמיניות מקובצות בזוגות, ובתיבה השנייה ארבע השש־עשריות מחוברות בקורה ובקורות משנה. המשכים נשמרו מן הדוגמה הקודמת.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<h3>חלוקות קצב שאולות</h3>",
+      "source_text": "חלוקות קצב שאולות",
+      "spoken": "חלוקות קצב שאולות"
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>בדרך כלל, משקל מתאפיין בחלוקה עקבית של הפעימה: לשניים במשקל פשוט ולשלושה במשקל מורכב. לעיתים מלחינים משתמשים בחלוקה לשלושה בתוך משקל פשוט, או בחלוקה לשניים בתוך משקל מורכב.</p>",
+      "source_text": "בדרך כלל, משקל מתאפיין בחלוקה עקבית של הפעימה: לשניים במשקל פשוט ולשלושה במשקל מורכב. לעיתים מלחינים משתמשים בחלוקה לשלושה בתוך משקל פשוט, או בחלוקה לשניים בתוך משקל מורכב.",
+      "spoken": "בדרך כלל, משקל מתאפיין בחלוקה עקבית של הפעימה: לשניים במשקל פשוט ולשלושה במשקל מורכב. לעיתים מלחינים משתמשים בחלוקה לשלושה בתוך משקל פשוט, או בחלוקה לשניים בתוך משקל מורכב."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><em>טריולות (triplets)</em> שואלות את החלוקה מן המשקל המורכב, ויכולות להופיע גם ברמת חלוקת הפעימה וגם ברמת חלוקת המשנה, כפי שמודגם להלן.</p>",
+      "source_text": "טריולות (triplets) שואלות את החלוקה מן המשקל המורכב, ויכולות להופיע גם ברמת חלוקת הפעימה וגם ברמת חלוקת המשנה, כפי שמודגם להלן.",
+      "spoken": "טריולות (triplets) שואלות את החלוקה מן המשקל המורכב, ויכולות להופיע גם ברמת חלוקת הפעימה וגם ברמת חלוקת המשנה, כפי שמודגם להלן."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דוגמאות לטריולות\" src=\"Graphics/triplets.png\" width=\"70%\"/>",
+      "asset": "Graphics/triplets.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמת טריולות במשקל 3/4. המספר 3 מעל קבוצה של שלוש שמיניות מציין שהן נכנסות בזמן של שתי שמיניות רגילות. בתיבה השנייה מופיעה גם טריולה ברמת שש־עשריות, לצד חלוקות רגילות.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>באותו אופן, אפשר לשאול מן המשקל הפשוט <em>דואולות (duplets)</em> — חלוקה לשניים במקום לשלושה — ולהשתמש בהן במשקל מורכב.</p>",
+      "source_text": "באותו אופן, אפשר לשאול מן המשקל הפשוט דואולות (duplets) — חלוקה לשניים במקום לשלושה — ולהשתמש בהן במשקל מורכב.",
+      "spoken": "באותו אופן, אפשר לשאול מן המשקל הפשוט דואולות (duplets) — חלוקה לשניים במקום לשלושה — ולהשתמש בהן במשקל מורכב."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"דוגמאות לדואולות\" src=\"Graphics/duplets.png\" width=\"70%\"/>",
+      "asset": "Graphics/duplets.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמת דואולות במשקל 6/8. מעל זוגות שמיניות מופיע המספר 2: שתי שמיניות ממלאות פעימה שבדרך כלל מכילה שלוש. לצד הדואולות מוצגים גם שלוש שמיניות רגילות, רבעים מנוקדים וחלוקות משנה.",
+      "reviewed": true
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/withoutbeams.png",
+      "Graphics/beams.png",
+      "Graphics/triplets.png",
+      "Graphics/duplets.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "",
+        "target": "Graphics/withoutbeams.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/beams.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/triplets.png"
+      },
+      {
+        "label": "",
+        "target": "Graphics/duplets.png"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

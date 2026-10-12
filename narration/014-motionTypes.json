@@ -1,0 +1,104 @@
+{
+  "chapter": 14,
+  "source": "motionTypes.md",
+  "title": "014 — סוגי תנועה קונטרפונקטית",
+  "source_sha256": "61a4f26c5dafec8d301a1818c4bdaa26871fbf738d9d30f67da763bec5ea783f",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>יש ארבעה סוגי תנועה קונטרפונקטית בין שני קווים מוזיקליים. ההבחנה ביניהם חיונית להולכת קולות טובה, קפדנית וחופשית כאחת.</p>",
+      "source_text": "יש ארבעה סוגי תנועה קונטרפונקטית בין שני קווים מוזיקליים. ההבחנה ביניהם חיונית להולכת קולות טובה, קפדנית וחופשית כאחת.",
+      "spoken": "יש ארבעה סוגי תנועה קונטרפונקטית בין שני קווים מוזיקליים. ההבחנה ביניהם חיונית להולכת קולות טובה, קפדנית וחופשית כאחת."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב<em>תנועה מקבילה (parallel motion)</em>, שני הקולות נעים באותו כיוון ובאותו מרווח לפי מספרו הדיאטוני. למשל, שני הקולות בדוגמה הבאה עולים בצעד. שימו לב שגם שני צמדי הצלילים יוצרים אותו מרווח לפי מספרו, סקסטה. הדבר מתקיים תמיד כאשר שני קולות נעים בתנועה מקבילה.</p>",
+      "source_text": "בתנועה מקבילה (parallel motion), שני הקולות נעים באותו כיוון ובאותו מרווח לפי מספרו הדיאטוני. למשל, שני הקולות בדוגמה הבאה עולים בצעד. שימו לב שגם שני צמדי הצלילים יוצרים אותו מרווח לפי מספרו, סקסטה. הדבר מתקיים תמיד כאשר שני קולות נעים בתנועה מקבילה.",
+      "spoken": "בתנועה מקבילה (parallel motion), שני הקולות נעים באותו כיוון ובאותו מרווח לפי מספרו הדיאטוני. למשל, שני הקולות בדוגמה הבאה עולים בצעד. שימו לב שגם שני צמדי הצלילים יוצרים אותו מרווח לפי מספרו, סקסטה. הדבר מתקיים תמיד כאשר שני קולות נעים בתנועה מקבילה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תנועה מקבילה: C–A אל D–B.\" src=\"/Graphics/intervals/parallel.png\"/>",
+      "asset": "Graphics/intervals/parallel.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמה לתנועה מקבילה בשני קולות, במפתחות סול ואלט. הקול התחתון עולה מ־C ל־D והעליון מ־A ל־B. שני הקולות עולים והמרווח הדיאטוני ביניהם נשאר סקסטה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב<em>תנועה דומה (similar motion)</em>, הנקראת גם <em>תנועה ישירה (direct motion)</em>, שני קולות נעים באותו כיוון אך במרווחים שונים. בדוגמה הבאה שני הקולות יורדים, אך העליון מתקדם בצעד והתחתון בקפיצה. שימו לב שגם המרווח בין הקולות משתנה לפי מספרו הדיאטוני. כך הדבר בתנועה דומה או ישירה, לפי ההבחנה שבפרק זה.</p>",
+      "source_text": "בתנועה דומה (similar motion), הנקראת גם תנועה ישירה (direct motion), שני קולות נעים באותו כיוון אך במרווחים שונים. בדוגמה הבאה שני הקולות יורדים, אך העליון מתקדם בצעד והתחתון בקפיצה. שימו לב שגם המרווח בין הקולות משתנה לפי מספרו הדיאטוני. כך הדבר בתנועה דומה או ישירה, לפי ההבחנה שבפרק זה.",
+      "spoken": "בתנועה דומה (similar motion), הנקראת גם תנועה ישירה (direct motion), שני קולות נעים באותו כיוון אך במרווחים שונים. בדוגמה הבאה שני הקולות יורדים, אך העליון מתקדם בצעד והתחתון בקפיצה. שימו לב שגם המרווח בין הקולות משתנה לפי מספרו הדיאטוני. כך הדבר בתנועה דומה או ישירה, לפי ההבחנה שבפרק זה."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תנועה דומה: C–G אל A–F.\" src=\"/Graphics/intervals/similar.png\"/>",
+      "asset": "Graphics/intervals/similar.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמה לתנועה דומה בשני קולות. הקול התחתון יורד מ־C ל־A והעליון יורד מ־G ל־F. שניהם נעים לאותו כיוון אך במרחקים שונים, ולכן המרווח ביניהם משתנה.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב<em>תנועה מנוגדת (contrary motion)</em>, שני הקולות נעים בכיוונים מנוגדים: אחד עולה והשני יורד.</p>",
+      "source_text": "בתנועה מנוגדת (contrary motion), שני הקולות נעים בכיוונים מנוגדים: אחד עולה והשני יורד.",
+      "spoken": "בתנועה מנוגדת (contrary motion), שני הקולות נעים בכיוונים מנוגדים: אחד עולה והשני יורד."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תנועה מנוגדת: C–E אל A–F.\" src=\"/Graphics/intervals/contrary.png\"/>",
+      "asset": "Graphics/intervals/contrary.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמה לתנועה מנוגדת. הקול התחתון יורד מ־C ל־A והעליון עולה מ־E ל־F. שני הקולות נעים בכיוונים הפוכים והמרווח ביניהם מתרחב.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>ב<em>תנועה אלכסונית (oblique motion)</em>, קול אחד נשאר בגובה קבוע ואילו הקול השני נע, בעלייה או בירידה. אפשר לנגן מחדש את הצליל הקבוע, אך אין הכרח לעשות זאת.</p>",
+      "source_text": "בתנועה אלכסונית (oblique motion), קול אחד נשאר בגובה קבוע ואילו הקול השני נע, בעלייה או בירידה. אפשר לנגן מחדש את הצליל הקבוע, אך אין הכרח לעשות זאת.",
+      "spoken": "בתנועה אלכסונית (oblique motion), קול אחד נשאר בגובה קבוע ואילו הקול השני נע, בעלייה או בירידה. אפשר לנגן מחדש את הצליל הקבוע, אך אין הכרח לעשות זאת."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תנועה אלכסונית: C–G אל B–G.\" src=\"/Graphics/intervals/oblique1.png\"/>",
+      "asset": "Graphics/intervals/oblique1.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמה לתנועה אלכסונית בשני קולות. הצליל G בקול העליון נשאר במקומו, והקול התחתון יורד מ־C ל־B. מרווח הקולות משתנה משום שרק קול אחד נע.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "או",
+      "spoken": "או"
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תנועה אלכסונית: C–G אל B–G.\" src=\"/Graphics/intervals/oblique2.png\"/>",
+      "asset": "Graphics/intervals/oblique2.png",
+      "spoken": "בגירסה הכתובה מופיע כאן דוגמה נוספת לתנועה אלכסונית, הפעם עם קשת מאריכה בקול העליון. G נשמר מעבר לקו התיבה, בעוד הקול התחתון יורד מ־C ל־B. החזקת הצליל וקפיצת הזמן בין שני האקורדים אינן משנות את סוג התנועה.",
+      "reviewed": true
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/intervals/parallel.png",
+      "Graphics/intervals/similar.png",
+      "Graphics/intervals/contrary.png",
+      "Graphics/intervals/oblique1.png",
+      "Graphics/intervals/oblique2.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [],
+    "singular_tav_pointed": true
+  }
+}

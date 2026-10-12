@@ -3,9 +3,9 @@
   "source": "basicNotation.md",
   "title": "004 — יסודות התיווי",
   "source_sha256": "5ace222f1dbb7e066d072e46718f95c82ec74ec2313fece0fc2a3f834f61e037",
-  "status": "text-reviewed-awaiting-pronunciation-choice",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
-  "voice": "pending-user-selection",
+  "voice": "Iapetus",
   "blocks": [
     {
       "kind": "verbatim",
@@ -113,6 +113,9 @@
       "Graphics/ledgerLines.png",
       "Graphics/accidentals.png"
     ],
-    "pronunciation_pending": true
-  }
+    "pronunciation_pending": true,
+    "singular_tav_pointed": true
+  },
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent"
 }

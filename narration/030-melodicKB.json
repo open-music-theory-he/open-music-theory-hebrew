@@ -1,0 +1,56 @@
+{
+  "chapter": 30,
+  "source": "melodicKB.md",
+  "title": "030 — מימוש בס ממוספר בסגנון מלודי לכלי מקלדת",
+  "source_sha256": "21d47e67345a544eea61be714f1f4721271467713e516cef228e6cdebe5c25ce",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"281\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/60863823\" title=\"סרטון מימוש בס ממוספר בסגנון מלודי לכלי מקלדת\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/60863823",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: סרטון מימוש בס ממוספר בסגנון מלודי לכלי מקלדת. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://vimeo.com/60863823\">מימוש בס ממוספר בסגנון מלודי לכלי מקלדת</a> מאת <a href=\"http://vimeo.com/user11692346\">Kris Shaffer</a> ב־<a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "source_text": "מימוש בס ממוספר בסגנון מלודי לכלי מקלדת מאת Kris Shaffer ב־Vimeo.",
+      "spoken": "מימוש בס ממוספר בסגנון מלודי לכלי מקלדת מאת Kris Shaffer ב־Vimeo."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "http://player.vimeo.com/video/60863823"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מימוש בס ממוספר בסגנון מלודי לכלי מקלדת",
+        "target": "http://vimeo.com/60863823"
+      },
+      {
+        "label": "Kris Shaffer",
+        "target": "http://vimeo.com/user11692346"
+      },
+      {
+        "label": "Vimeo",
+        "target": "http://vimeo.com"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

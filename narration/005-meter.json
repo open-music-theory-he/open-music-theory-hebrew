@@ -3,9 +3,9 @@
   "source": "meter.md",
   "title": "005 — המשקל וסימניו",
   "source_sha256": "14d92bc6aee220c4226db19cbdca374c134365dcc201fe37db8124ad1845b20b",
-  "status": "text-reviewed-awaiting-pronunciation-choice",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
-  "voice": "pending-user-selection",
+  "voice": "Iapetus",
   "blocks": [
     {
       "kind": "verbatim",
@@ -224,6 +224,9 @@
     "visuals_reviewed": true,
     "media_captions_preserved": true,
     "external_media_content_reviewed": false,
-    "pronunciation_pending": true
-  }
+    "pronunciation_pending": true,
+    "singular_tav_pointed": true
+  },
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent"
 }

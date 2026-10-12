@@ -1,0 +1,64 @@
+{
+  "chapter": 27,
+  "source": "TBDemo.md",
+  "title": "027 — מימוש בס ממוספר בסגנון בס רציף קפדני",
+  "source_sha256": "5160c7b8cbc1de05fccee0e60fb302345f6eb0f32361c7da0abe3083cdd6005d",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>הסרטון הבא מדגים מימוש של קו בס ממוספר בסגנון בס רציף (<em>basso continuo</em>) קפדני.</p>",
+      "source_text": "הסרטון הבא מדגים מימוש של קו בס ממוספר בסגנון בס רציף (basso continuo) קפדני.",
+      "spoken": "הסרטון הבא מדגים מימוש של קו בס ממוספר בסגנון בס רציף (basso continuo) קפדני."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"281\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/60340315\" title=\"הדגמת מימוש בס ממוספר בסגנון בס רציף קפדני\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/60340315",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: הדגמת מימוש בס ממוספר בסגנון בס רציף קפדני. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><a href=\"http://vimeo.com/60340315\">מימוש בס רציף בסגנון קפדני</a>, ב־<a href=\"http://vimeo.com\">Vimeo</a>.</p>",
+      "source_text": "מימוש בס רציף בסגנון קפדני, ב־Vimeo.",
+      "spoken": "מימוש בס רציף בסגנון קפדני, ב־Vimeo."
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p><strong>הערת המהדורה העברית:</strong> הסרטון המקורי נשמר בשפתו ובכתובת ההטמעה המקורית. טרם אומתו הניגון ותוכן ההדגמה; אין כאן תמלול או כתוביות בעברית.</p>",
+      "source_text": "הערת המהדורה העברית: הסרטון המקורי נשמר בשפתו ובכתובת ההטמעה המקורית. טרם אומתו הניגון ותוכן ההדגמה; אין כאן תמלול או כתוביות בעברית.",
+      "spoken": "הערת המהדורה העברית: הסרטון המקורי נשמר בשפתו ובכתובת ההטמעה המקורית. טרם אומתו הניגון ותוכן ההדגמה; אין כאן תמלול או כתוביות בעברית."
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "http://player.vimeo.com/video/60340315"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "מימוש בס רציף בסגנון קפדני",
+        "target": "http://vimeo.com/60340315"
+      },
+      {
+        "label": "Vimeo",
+        "target": "http://vimeo.com"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}

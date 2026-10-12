@@ -3,9 +3,9 @@
   "source": "fixed-and-movable-do.md",
   "title": "002 — דו קבוע ודו נייד — מדריך לקורא העברי",
   "source_sha256": "8c16bf30fcf5bd32715a83398198bc2656c06d20c37fb8919bdbac2c9e8acd69",
-  "status": "text-reviewed-awaiting-pronunciation-choice",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
-  "voice": "pending-user-selection",
+  "voice": "Iapetus",
   "blocks": [
     {
       "kind": "verbatim",
@@ -133,6 +133,9 @@
     "prose_preserved": true,
     "no_transliteration": true,
     "visuals_reviewed": true,
-    "pronunciation_pending": true
-  }
+    "pronunciation_pending": true,
+    "singular_tav_pointed": true
+  },
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent"
 }

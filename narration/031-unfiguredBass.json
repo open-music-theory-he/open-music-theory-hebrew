@@ -1,0 +1,73 @@
+{
+  "chapter": 31,
+  "source": "unfiguredBass.md",
+  "title": "031 — מימוש קו בס ללא ספרות",
+  "source_sha256": "49d7791e13aa6ad7935d8541f5f2e816e777a3255da447cea346858e6716ad41",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+  "opening_asset": "approved:00-introduction.mp3",
+  "voice": "Iapetus",
+  "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+  "voice_selection": "approved:09-Iapetus-fluent",
+  "blocks": [
+    {
+      "kind": "verbatim",
+      "source_html": "<p>כדי לממש בס ללא ספרות (unfigured bass), קבעו תחילה את התפקידים ההרמוניים שמבטא רצף דרגות הסולם בבס. לאחר מכן בחרו לכל צליל בס ספרות המתאימות לתפקידים אלה. לבסוף ממשו את הבס הממוספר שהתקבל לפי ההליכים הרגילים.</p>",
+      "source_text": "כדי לממש בס ללא ספרות (unfigured bass), קבעו תחילה את התפקידים ההרמוניים שמבטא רצף דרגות הסולם בבס. לאחר מכן בחרו לכל צליל בס ספרות המתאימות לתפקידים אלה. לבסוף ממשו את הבס הממוספר שהתקבל לפי ההליכים הרגילים.",
+      "spoken": "כדי לממש בס ללא ספרות (unfigured bass), קבעו תחילה את התפקידים ההרמוניים שמבטא רצף דרגות הסולם בבס. לאחר מכן בחרו לכל צליל בס ספרות המתאימות לתפקידים אלה. לבסוף ממשו את הבס הממוספר שהתקבל לפי ההליכים הרגילים."
+    },
+    {
+      "kind": "media-explanation",
+      "source": "<iframe allowfullscreen=\"\" class=\"aligncenter\" frameborder=\"0\" height=\"375\" mozallowfullscreen=\"\" src=\"http://player.vimeo.com/video/48673007\" title=\"סרטון מימוש קו בס ללא ספרות\" webkitallowfullscreen=\"\" width=\"500\"></iframe>",
+      "target": "http://player.vimeo.com/video/48673007",
+      "spoken": "בגירסה הכתובה מופיע כאן נגן Vimeo לצפייה או להאזנה למדיה המקושרת. כותרת הנגן: סרטון מימוש קו בס ללא ספרות. הנגן והקישור אינם מושמעים בקריינות; הכיתוב המלווה נשמר בטקסט, ולא נטען שתוכן ההקלטה נבדק בהאזנה.",
+      "external_content_reviewed": false
+    },
+    {
+      "kind": "verbatim",
+      "source_html": "<p>התרשים הבא מציג את התפקידים השכיחים ביותר לכל דרגת סולם דיאטונית ואת הספרות השכיחות ביותר לכל סוג בס פונקציונלי. זכרו: אחרי קביעת רצף התפקידים, אפשר לשנות את הספרות המסוימות כדי להחליק את הולכת הקולות במימוש הסופי.</p>",
+      "source_text": "התרשים הבא מציג את התפקידים השכיחים ביותר לכל דרגת סולם דיאטונית ואת הספרות השכיחות ביותר לכל סוג בס פונקציונלי. זכרו: אחרי קביעת רצף התפקידים, אפשר לשנות את הספרות המסוימות כדי להחליק את הולכת הקולות במימוש הסופי.",
+      "spoken": "התרשים הבא מציג את התפקידים השכיחים ביותר לכל דרגת סולם דיאטונית ואת הספרות השכיחות ביותר לכל סוג בס פונקציונלי. זכרו: אחרי קביעת רצף התפקידים, אפשר לשנות את הספרות המסוימות כדי להחליק את הולכת הקולות במימוש הסופי."
+    },
+    {
+      "kind": "visual-explanation",
+      "source": "<img alt=\"תרשים תפקידים הרמוניים וספרות שכיחות לפי דרגת הבס\" src=\"/Graphics/defaultFigures.png\"/>",
+      "asset": "Graphics/defaultFigures.png",
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים של ספרות בס ותפקידים הרמוניים אפשריים מעל דרגות הבס. משמאל לימין מסומנים T1, S1, D2(p), S2, T3, S4, D4, D5, T5(p), Tx6, S6, D7. מעליהם מופיעים צירופים כגון 5/3, 4/2, 6/4, 4/3, 6, 6/5 ו־7, לעיתים כמה חלופות מעל אותו צליל.",
+      "reviewed": true
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "[הצגת התרשים בגודל מלא]",
+      "spoken": "[הצגת התרשים בגודל מלא]"
+    },
+    {
+      "kind": "verbatim",
+      "source_text": "figs",
+      "spoken": "figs"
+    }
+  ],
+  "review": {
+    "prose_preserved": true,
+    "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
+    "no_transliteration": true,
+    "visuals_reviewed": true,
+    "visual_assets": [
+      "Graphics/defaultFigures.png"
+    ],
+    "tables_reviewed": 0,
+    "external_media_reviewed": false,
+    "external_media": [
+      "http://player.vimeo.com/video/48673007"
+    ],
+    "pronunciation_pending": true,
+    "pending": [],
+    "omissions": [],
+    "links": [
+      {
+        "label": "figs",
+        "target": "/Graphics/defaultFigures.png"
+      }
+    ],
+    "singular_tav_pointed": true
+  }
+}
