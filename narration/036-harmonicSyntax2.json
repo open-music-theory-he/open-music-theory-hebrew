@@ -2,8 +2,8 @@
   "chapter": 36,
   "source": "harmonicSyntax2.md",
   "title": "036 — תחביר הרמוני — הארכה",
-  "source_sha256": "83b962454e83db65213504651df00a63c3e65ad699fc435d672c07cdc91a2862",
-  "status": "prepared-awaiting-media-review",
+  "source_sha256": "fafd597fc4fa44f389dd6a2d0ab281caa7c0ab80f1fc90ece565c6ef38487c8e",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -79,8 +79,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/026277e656\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 1\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/026277e656",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 1. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -92,8 +94,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/e02e8af4b3\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 2\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/e02e8af4b3",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 2. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -123,8 +127,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/51a20e2c7a\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 3\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/51a20e2c7a",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 3. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -172,8 +178,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/e12906a55e\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 4\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/e12906a55e",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 4. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -185,8 +193,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/519c9f039d\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 5\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/519c9f039d",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 5. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -234,8 +244,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/6a403a3d21\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 6\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/6a403a3d21",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 6. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -253,8 +265,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/a23ec68873\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 7\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/a23ec68873",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 7. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -290,8 +304,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/69e6b9acb9\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 8\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/69e6b9acb9",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 8. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -334,8 +350,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/480c1acf9b\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 9\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/480c1acf9b",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 9. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -347,8 +365,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/1e440d4768\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 10\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/1e440d4768",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 10. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -372,8 +392,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/3b6de8a510\" title=\"דוגמה אינטראקטיבית להארכה הרמונית 11\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/3b6de8a510",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: דוגמה אינטראקטיבית להארכה הרמונית 11. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     }
   ],
   "review": {
@@ -400,52 +422,7 @@
       "https://trinket.io/embed/music/3b6de8a510"
     ],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/026277e656"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/e02e8af4b3"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/51a20e2c7a"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/e12906a55e"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/519c9f039d"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/6a403a3d21"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/a23ec68873"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/69e6b9acb9"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/480c1acf9b"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/1e440d4768"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/3b6de8a510"
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -457,6 +434,8 @@
         "target": "/Graphics/harmony/subsidiaryProgression.png"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "unavailable_examples_policy": "User approved omission of unavailable interactive scores; no musical description is claimed.",
+    "written_only_notices_excluded_from_audio": true
   }
 }

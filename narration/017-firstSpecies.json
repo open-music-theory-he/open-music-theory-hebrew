@@ -2,8 +2,8 @@
   "chapter": 17,
   "source": "firstSpecies.md",
   "title": "017 — כתיבת קונטרפונקט מן הסוג הראשון",
-  "source_sha256": "3d19970d41307df2032f42c16d992e20a6a4a5a812349ec30f80b43e40c0bef6",
-  "status": "prepared-awaiting-media-review",
+  "source_sha256": "a2f3090ee6b4e57fda4bd211672f2f6dbc6952379dbca5ddf3b1c9b0360eda23",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -200,8 +200,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" class=\"trinket\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/a089e987ca\" title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/a089e987ca",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -213,8 +215,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" class=\"trinket\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/585810f762\" title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/585810f762",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: הדגמה או תרגיל בקונטרפונקט מן הסוג הראשון. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -237,16 +241,7 @@
       "https://trinket.io/embed/music/585810f762"
     ],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/a089e987ca"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/585810f762"
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -258,6 +253,8 @@
         "target": "fixed-and-movable-do.html"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "unavailable_examples_policy": "User approved omission of unavailable interactive scores; no musical description is claimed.",
+    "written_only_notices_excluded_from_audio": true
   }
 }

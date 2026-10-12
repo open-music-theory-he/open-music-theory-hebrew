@@ -2,8 +2,8 @@
   "chapter": 69,
   "source": "schemata-improv.md",
   "title": "069 — אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט",
-  "source_sha256": "d7ba6ab6d1bdb32cf6d874ee66e77bcd1e5645cb7266359e415625031b065260",
-  "status": "prepared-awaiting-media-review",
+  "source_sha256": "9c8518df73b5bb645a7a1b564b4085efa837fb784434736baa6b19c69b47a0c3",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -151,8 +151,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/4ea073d8f1\" title=\"Meyer ואחריה Prinner בת חמישה שלבים\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/4ea073d8f1",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Meyer ואחריה Prinner בת חמישה שלבים. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -170,8 +172,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/ee80a49382\" title=\"Jupiter, Passo Indietro וחצי קדנצה מורכבת\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/ee80a49382",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Jupiter, Passo Indietro וחצי קדנצה מורכבת. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -183,8 +187,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/bcc2fe55de\" title=\"גרסה המסתיימת בקדנצה אותנטית מושלמת\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/bcc2fe55de",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: גרסה המסתיימת בקדנצה אותנטית מושלמת. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -208,8 +214,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/dcdfbf0994\" title=\"Sol-Fa-Mi, Prinner וחצי קדנצה Fa-Fi-Sol\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/dcdfbf0994",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Sol-Fa-Mi, Prinner וחצי קדנצה Fa-Fi-Sol. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -221,8 +229,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/a63f2a06bc\" title=\"Sol-Fa-Mi ו־Prinner עם קדנצה אותנטית מושלמת\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/a63f2a06bc",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: Sol-Fa-Mi ו־Prinner עם קדנצה אותנטית מושלמת. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -377,28 +387,7 @@
       "https://trinket.io/embed/music/a63f2a06bc"
     ],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/4ea073d8f1"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/ee80a49382"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/bcc2fe55de"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/dcdfbf0994"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/a63f2a06bc"
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -502,6 +491,8 @@
         "target": "/media/schemata/SFM-Prinner-FFSHC.mp3"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "unavailable_examples_policy": "User approved omission of unavailable interactive scores; no musical description is claimed.",
+    "written_only_notices_excluded_from_audio": true
   }
 }

@@ -2,8 +2,8 @@
   "chapter": 20,
   "source": "fourthSpecies.md",
   "title": "020 — כתיבת קונטרפונקט מן הסוג הרביעי",
-  "source_sha256": "d7130b563bb28f7dba5adc8798154e52e5e4911aeddf19aa54748b86ec107c63",
-  "status": "prepared-awaiting-media-review",
+  "source_sha256": "66013193712bdc181712bf56e0240d258bb3d5fc74304ed4f35703605350e927",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -213,8 +213,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"300\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/22aa934458\" title=\"הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/22aa934458",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: הדגמה או תרגיל בקונטרפונקט מן הסוג הרביעי. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -237,12 +239,7 @@
       "https://trinket.io/embed/music/22aa934458"
     ],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/22aa934458"
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -278,6 +275,8 @@
         "target": "docs/translation-notes.md#n032-research"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "unavailable_examples_policy": "User approved omission of unavailable interactive scores; no musical description is claimed.",
+    "written_only_notices_excluded_from_audio": true
   }
 }

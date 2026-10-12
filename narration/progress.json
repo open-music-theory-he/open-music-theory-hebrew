@@ -146,8 +146,8 @@
       "visual_explanations": 0,
       "tables": 0,
       "media": 2,
-      "status": "prepared-awaiting-media-review",
-      "pending": 2
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 17,
@@ -156,8 +156,8 @@
       "visual_explanations": 0,
       "tables": 0,
       "media": 3,
-      "status": "prepared-awaiting-media-review",
-      "pending": 2
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 18,
@@ -166,8 +166,8 @@
       "visual_explanations": 0,
       "tables": 0,
       "media": 10,
-      "status": "prepared-awaiting-media-review",
-      "pending": 9
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 19,
@@ -186,8 +186,8 @@
       "visual_explanations": 0,
       "tables": 0,
       "media": 3,
-      "status": "prepared-awaiting-media-review",
-      "pending": 1
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 21,
@@ -346,8 +346,8 @@
       "visual_explanations": 1,
       "tables": 0,
       "media": 11,
-      "status": "prepared-awaiting-media-review",
-      "pending": 11
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 37,
@@ -386,8 +386,8 @@
       "visual_explanations": 0,
       "tables": 1,
       "media": 3,
-      "status": "prepared-awaiting-media-review",
-      "pending": 3
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 41,
@@ -676,8 +676,8 @@
       "visual_explanations": 1,
       "tables": 0,
       "media": 7,
-      "status": "prepared-awaiting-media-review",
-      "pending": 5
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 70,
@@ -1046,8 +1046,8 @@
       "visual_explanations": 0,
       "tables": 0,
       "media": 2,
-      "status": "prepared-awaiting-media-review",
-      "pending": 2
+      "status": "retired",
+      "pending": 0
     },
     {
       "chapter": 107,
@@ -1250,229 +1250,23 @@
       "pending": 0
     }
   ],
-  "review_complete_chapters": 117,
+  "review_complete_chapters": 124,
   "pending": [
-    {
-      "chapter": 16,
-      "source": "cantusFirmus.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/da93d4d902"
-    },
-    {
-      "chapter": 16,
-      "source": "cantusFirmus.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/2df65adf8b"
-    },
-    {
-      "chapter": 17,
-      "source": "firstSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/a089e987ca"
-    },
-    {
-      "chapter": 17,
-      "source": "firstSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/585810f762"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/bd3da422f4"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/ef1cff1ee3"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/de54f539bb"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/f258be56b6"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/24c7f0ee8e"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/a79b68de03"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/827ad0b4a2"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/5764fe4a4b"
-    },
-    {
-      "chapter": 18,
-      "source": "secondSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/043d342ffa"
-    },
-    {
-      "chapter": 20,
-      "source": "fourthSpecies.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/22aa934458"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/026277e656"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/e02e8af4b3"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/51a20e2c7a"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/e12906a55e"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/519c9f039d"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/6a403a3d21"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/a23ec68873"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/69e6b9acb9"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/480c1acf9b"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/1e440d4768"
-    },
-    {
-      "chapter": 36,
-      "source": "harmonicSyntax2.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/3b6de8a510"
-    },
-    {
-      "chapter": 40,
-      "source": "appliedChords.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/c6b5004279"
-    },
-    {
-      "chapter": 40,
-      "source": "appliedChords.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/45c20d9624"
-    },
-    {
-      "chapter": 40,
-      "source": "appliedChords.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/9a8ff25f3c"
-    },
-    {
-      "chapter": 69,
-      "source": "schemata-improv.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/4ea073d8f1"
-    },
-    {
-      "chapter": 69,
-      "source": "schemata-improv.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/ee80a49382"
-    },
-    {
-      "chapter": 69,
-      "source": "schemata-improv.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/bcc2fe55de"
-    },
-    {
-      "chapter": 69,
-      "source": "schemata-improv.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/dcdfbf0994"
-    },
-    {
-      "chapter": 69,
-      "source": "schemata-improv.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/a63f2a06bc"
-    },
     {
       "chapter": 83,
       "source": "twelveToneOperations.md",
       "kind": "missing-image",
       "asset": "Graphics/postTonal/abstractedRowClass.png"
-    },
-    {
-      "chapter": 106,
-      "source": "trinket.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/a089e987ca"
-    },
-    {
-      "chapter": 106,
-      "source": "trinket.md",
-      "kind": "external-score-unreviewed",
-      "target": "https://trinket.io/embed/music/91c673df7c"
     }
   ],
   "notes": [
     "Every singular musical תו, including prefixes, is pointed תָּו in spoken text.",
-    "116 chapters approved for generation; 10 excluded until unresolved media/source review is complete.",
     "Generated audio still requires listening review.",
-    "Chapter 10 image rechecked: natural sign correctly printed; ready for next batch, excluded from the unchanged approved 116."
+    "Chapter 10 image rechecked: natural sign correctly printed; ready for next batch, excluded from the unchanged approved 116.",
+    "124 approved active chapters; 083 missing image remains blocked; 106 retired; original chapter numbers preserved."
+  ],
+  "active_chapters": 125,
+  "retired_chapters": [
+    106
   ]
 }

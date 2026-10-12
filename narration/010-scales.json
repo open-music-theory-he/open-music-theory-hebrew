@@ -222,6 +222,8 @@
       }
     ],
     "singular_tav_pointed": true,
-    "source_image_recheck": "B4 has a natural sign, not a flat; D ascending melodic minor is correct."
+    "source_image_recheck": "B4 has a natural sign, not a flat; D ascending melodic minor is correct.",
+    "unavailable_examples_policy": "User approved omission of unavailable interactive scores; no musical description is claimed.",
+    "written_only_notices_excluded_from_audio": true
   }
 }

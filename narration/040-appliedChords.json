@@ -2,8 +2,8 @@
   "chapter": 40,
   "source": "appliedChords.md",
   "title": "040 — אקורדים שניוניים",
-  "source_sha256": "46625fb3fba4f0a0a0871d5445d6859b9a9c3bf3515785fa1ac1b3814226bcc1",
-  "status": "prepared-awaiting-media-review",
+  "source_sha256": "8a65f97a34a179729df316669c6826433f2f95630138a5f0c347fc003c39932c",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -49,8 +49,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"400\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/c6b5004279\" title=\"תרגיל: הפיכת אקורד סובדומיננטה לאקורד שניוני\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/c6b5004279",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: תרגיל: הפיכת אקורד סובדומיננטה לאקורד שניוני. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -144,8 +146,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"400\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/45c20d9624\" title=\"קטע בסגנון כלי מקלדת: שני אקורדים שניוניים במספרים רומיים\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/45c20d9624",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: קטע בסגנון כלי מקלדת: שני אקורדים שניוניים במספרים רומיים. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -175,8 +179,10 @@
       "kind": "media-explanation",
       "source": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"400\" marginheight=\"0\" marginwidth=\"0\" src=\"https://trinket.io/embed/music/9a8ff25f3c\" title=\"תרגיל: הוספת שכבה שנייה לניתוח הבס הפונקציונלי\" width=\"100%\"></iframe>",
       "target": "https://trinket.io/embed/music/9a8ff25f3c",
-      "spoken": "בגירסה הכתובה מופיע כאן רכיב אינטראקטיבי של Trinket, המאפשר להציג ולבצע דוגמה מוזיקלית. כותרת הרכיב: תרגיל: הוספת שכבה שנייה לניתוח הבס הפונקציונלי. תוכן התווים שבתוך הרכיב החיצוני טרם נבדק, ולכן אין כאן תיאור מוזיקלי מאומת שלו.",
-      "external_content_reviewed": false
+      "spoken": "הדוגמה האינטראקטיבית שהופיעה כאן אינה זמינה עוד.",
+      "external_content_reviewed": false,
+      "availability": "service-retired",
+      "omission_authorized": "2026-10-12: user approved unavailable-example notice instead of score description"
     },
     {
       "kind": "verbatim",
@@ -253,20 +259,7 @@
       "https://trinket.io/embed/music/9a8ff25f3c"
     ],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/c6b5004279"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/45c20d9624"
-      },
-      {
-        "kind": "external-score-unreviewed",
-        "target": "https://trinket.io/embed/music/9a8ff25f3c"
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -278,6 +271,8 @@
         "target": "https://trinket.io/music/406c96fec0"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "unavailable_examples_policy": "User approved omission of unavailable interactive scores; no musical description is claimed.",
+    "written_only_notices_excluded_from_audio": true
   }
 }
