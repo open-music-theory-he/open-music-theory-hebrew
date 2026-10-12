@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 116,
   "segments_total": 408,
-  "new_segments": 3,
+  "new_segments": 4,
   "completed_chapters": 4,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -38,7 +38,7 @@
     {
       "chapter": 5,
       "title": "005 — המשקל וסימניו",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 7,
       "complete": false
     },
@@ -820,7 +820,7 @@
       "complete": false
     }
   ],
-  "requests": 3,
-  "successes": 3,
-  "elapsed_seconds": 76.12
+  "requests": 4,
+  "successes": 4,
+  "elapsed_seconds": 105.54
 }
