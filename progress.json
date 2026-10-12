@@ -1,6 +1,6 @@
 {
   "status": "running",
-  "completed": 5,
+  "completed": 6,
   "total": 10,
   "samples": [
     {
@@ -52,7 +52,9 @@
       "label": "קול Charon — זורם",
       "voice": "Charon",
       "text": "כשהוא כתוב על חמשה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nלהלן התָּו C4 במפתחות סול, פה, דו של אלט ודו של טנור.",
-      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
+      "sha256": "43f7d5074d34b8d48b1e40f759cb1d88eb18cd8cf3eb826d39d85174277ef610",
+      "seconds": 17.84
     },
     {
       "id": "06-Orus-measured",
@@ -83,5 +85,5 @@
       "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting."
     }
   ],
-  "requests": 4
+  "requests": 5
 }
