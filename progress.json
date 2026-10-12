@@ -3,7 +3,7 @@
   "chapters_total": 116,
   "segments_total": 408,
   "new_segments": 18,
-  "completed_chapters": 6,
+  "completed_chapters": 7,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -54,7 +54,7 @@
       "title": "007 — ערכים קצביים",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 8,
@@ -822,5 +822,5 @@
   ],
   "requests": 23,
   "successes": 18,
-  "elapsed_seconds": 517.04
+  "elapsed_seconds": 520.16
 }
