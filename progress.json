@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 53,
-  "completed_chapters": 27,
+  "completed_chapters": 28,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -201,7 +201,7 @@
       "title": "028 — הולכת קולות מלודית בסגנון כלי מקלדת",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 29,
@@ -885,5 +885,5 @@
   ],
   "requests": 220,
   "successes": 53,
-  "elapsed_seconds": 16242.23
+  "elapsed_seconds": 16244.85
 }
