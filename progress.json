@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 23,
+  "new_segments": 24,
   "completed_chapters": 33,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -241,7 +241,7 @@
     {
       "chapter": 34,
       "title": "034 — תפקידים הרמוניים",
-      "segments_ready": 7,
+      "segments_ready": 8,
       "segments_total": 9,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 105,
-  "successes": 23,
-  "elapsed_seconds": 10913.38
+  "requests": 117,
+  "successes": 24,
+  "elapsed_seconds": 11014.53
 }
