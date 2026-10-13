@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 8,
-  "completed_chapters": 16,
+  "completed_chapters": 17,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -124,7 +124,7 @@
       "title": "017 — כתיבת קונטרפונקט מן הסוג הראשון",
       "segments_ready": 6,
       "segments_total": 6,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 18,
@@ -885,5 +885,5 @@
   ],
   "requests": 8,
   "successes": 8,
-  "elapsed_seconds": 205.37
+  "elapsed_seconds": 210.85
 }
