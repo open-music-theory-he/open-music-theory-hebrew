@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 31,
+  "new_segments": 32,
   "completed_chapters": 20,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -150,7 +150,7 @@
     {
       "chapter": 21,
       "title": "021 — מבוא לבס ממוספר",
-      "segments_ready": 3,
+      "segments_ready": 4,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 34,
-  "successes": 31,
-  "elapsed_seconds": 874.03
+  "requests": 36,
+  "successes": 32,
+  "elapsed_seconds": 911.52
 }
