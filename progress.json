@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 7,
+  "new_segments": 8,
   "completed_chapters": 30,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -220,7 +220,7 @@
     {
       "chapter": 31,
       "title": "031 — מימוש קו בס ללא ספרות",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 1,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 15,
-  "successes": 7,
-  "elapsed_seconds": 498.31
+  "requests": 16,
+  "successes": 8,
+  "elapsed_seconds": 530.57
 }
