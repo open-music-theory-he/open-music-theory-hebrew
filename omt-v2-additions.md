@@ -10,18 +10,18 @@ audio_eligible: false
 הרחבה למהדורה העברית הקיימת, לפי סדר הנושאים במקור. הפרקים כאן אינם נכללים בהקלטת ספר השמע הנוכחית. בדיקת המלל נפרדת מבדיקת הניגון של מדיה חיצונית.
 
 
-## I. Fundamentals
+## יסודות
 
-- [היבטים נוספים של התיווי](omt-v2-007-other-aspects-of-notation.html)
-- [מרקם מוזיקלי](omt-v2-008-texture.html)
+- [היבטים נוספים של התיווי](omt-v2-007-other-aspects-of-notation.md)
+- [מרקם מוזיקלי](omt-v2-008-texture.md)
 
-## II. Counterpoint and Galant Schemas
+## קונטרפונקט וסכמות בסגנון הגלנט
 
-- [קונטרפונקט מן הסוג החמישי](omt-v2-029-fifth-species-counterpoint.html)
-- [תרגילי Gradus ad Parnassum](omt-v2-030-gradus-ad-parnassum-exercises.html)
-- [הסגנון הקונטרפונקטי של המאה השש־עשרה](omt-v2-031-16th-century-contrapuntal-style.html)
-- [תצוגת פוגה בבארוק הבשל](omt-v2-032-high-baroque-fugal-exposition.html)
-- [בס חוזר](omt-v2-033-ground-bass.html)
+- [קונטרפונקט מן הסוג החמישי](omt-v2-029-fifth-species-counterpoint.md)
+- [תרגילי Gradus ad Parnassum](omt-v2-030-gradus-ad-parnassum-exercises.md)
+- [הסגנון הקונטרפונקטי של המאה השש־עשרה](omt-v2-031-16th-century-contrapuntal-style.md)
+- [תצוגת פוגה בבארוק הבשל](omt-v2-032-high-baroque-fugal-exposition.md)
+- [בס חוזר](omt-v2-033-ground-bass.md)
 
 ## מקור ורישיון
 

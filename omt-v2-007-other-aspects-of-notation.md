@@ -9,14 +9,14 @@ translation_status: text-reviewed-media-pending
 ---
 
 <section class="standard post-4083 chapter type-chapter status-publish hentry contributor-hamm contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
-<header>
+<div class="chapter-section-header">
 
 <p data-type="author">Mark Gotham and Chelsey Hamm</p>
-</header>
+</div>
 <div class="textbox textbox--key-takeaways">
-<header class="textbox__header">
+<div class="textbox__header chapter-section-header">
 <p class="textbox__title" dir="rtl" lang="he">עיקרי הדברים</p>
-</header>
+</div>
 <div class="textbox__content">
 <ul>
 <li dir="rtl" lang="he">דינמיקה (Dynamics) מציינת את עוצמת הצליל במוזיקה. בתיווי מוזיקלי מערבי משתמשים במגוון מילים באיטלקית לציון רמות העוצמה.</li>
@@ -47,10 +47,10 @@ translation_status: text-reviewed-media-pending
 <p dir="rtl" lang="he">יש מלחינים המוסיפים עוד סיומות ‎-issimo, אך הדבר נדיר. ובכל זאת, ייתכן שיום אחד תיתקלו ב־pppppp או ב־ffffff במוזיקה שתנגנו או תשירו!</p>
 <p dir="rtl" lang="he">בתרגיל הבא אפשר לתרגל סידור של רמות העוצמה מהחלשה ביותר לחזקה ביותר:</p>
 <div class="textbox textbox--exercises">
-<header class="textbox__header">
+<div class="textbox__header chapter-section-header">
 <p class="textbox__title" dir="rtl" lang="he"><a id="practice"></a>תרגול</p>
 <p> </p>
-</header>
+</div>
 <div class="textbox__content">
 <div id="h5p-67">
 <div class="h5p-iframe-wrapper"><p class="interactive-unavailable">התרגיל האינטראקטיבי אינו זמין בעותק זה. אפשר לעיין בגרסת המקור; זמינותו שם לא נבדקה.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/"> פתיחת פרק המקור</a></p></div>
@@ -118,10 +118,10 @@ translation_status: text-reviewed-media-pending
 <figure aria-describedby="caption-attachment-4618" class="wp-caption aligncenter" id="attachment_4618"><img alt="הוראות טמפו מהאיטית למהירה: Grave, Lento, Largo, Adagio, Andante, Moderato, Allegretto, Allegro, Vivace, Presto." class="wp-image-4618" height="79" src="/Graphics/omt-v2/007-08-2f1c32d99a.png" style="max-width:100%;height:auto" width="878"/><figcaption class="wp-caption-text" dir="rtl" id="caption-attachment-4618" lang="he">דוגמה 8. הוראות הטמפו מסודרות מהאיטית ביותר למהירה ביותר.</figcaption></figure>
 <p dir="rtl" lang="he">בתרגיל הבא אפשר לתרגל סידור של הוראות הטמפו מהאיטית ביותר למהירה ביותר:</p>
 <div class="textbox textbox--exercises">
-<header class="textbox__header">
+<div class="textbox__header chapter-section-header">
 <p class="textbox__title" dir="rtl" lang="he"><a id="practice"></a>תרגול</p>
 <p> </p>
-</header>
+</div>
 <div class="textbox__content">
 <div id="h5p-68">
 <div class="h5p-iframe-wrapper"><p class="interactive-unavailable">התרגיל האינטראקטיבי אינו זמין בעותק זה. אפשר לעיין בגרסת המקור; זמינותו שם לא נבדקה.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/"> פתיחת פרק המקור</a></p></div>

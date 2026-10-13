@@ -9,14 +9,14 @@ translation_status: text-reviewed-media-pending
 ---
 
 <section class="standard post-1031 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
-<header>
+<div class="chapter-section-header">
 
 <p data-type="author">Mark Gotham</p>
-</header>
+</div>
 <div class="textbox textbox--key-takeaways">
-<header class="textbox__header">
+<div class="textbox__header chapter-section-header">
 <p class="textbox__title" dir="rtl" lang="he">עיקרי הדברים</p>
-</header>
+</div>
 <div class="textbox__content">יצירות על בס חוזר כוללות קו בס החוזר ברציפות.</div>
 <div class="textbox__content">פרק זה עוסק בשימוש בבס חוזר בהקשר בארוקי, כגון סונטות טריו. המגוון נוצר בשינויי מרקם והרמוניה בקולות שמעל הבס, ובייחוד באמצעות:</div>
 <ul>

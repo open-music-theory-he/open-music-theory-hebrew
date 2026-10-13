@@ -9,10 +9,10 @@ translation_status: text-reviewed-media-pending
 ---
 
 <section class="standard post-913 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/gradus-ad-parnassum-exercises/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
-<header>
+<div class="chapter-section-header">
 
 <p data-type="author">Mark Gotham</p>
-</header>
+</div>
 <p dir="rtl" lang="he">הפרקים הקודמים הציגו קונטרפונקט לסוגיו ואת החיבור הפדגוגי הידוע על הלחנה עם קנטוס פירמוס, Gradus ad Parnassum מאת יוהאן יוזף פוקס (1725). בעמוד זה מופיעים כל תרגילי הקנטוס פירמוס שבחיבור, כדי שתוכלו להתנסות בקונטרפונקט לסוגיו בנוסח פוקס.</p>
 <p dir="rtl" lang="he">Gradus ad Parnassum מחולק לשלושה חלקים:</p>
 <ol>
