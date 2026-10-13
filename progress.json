@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 22,
+  "new_segments": 23,
   "completed_chapters": 19,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -143,7 +143,7 @@
     {
       "chapter": 20,
       "title": "020 — כתיבת קונטרפונקט מן הסוג הרביעי",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 24,
-  "successes": 22,
-  "elapsed_seconds": 609.34
+  "requests": 25,
+  "successes": 23,
+  "elapsed_seconds": 642.87
 }
