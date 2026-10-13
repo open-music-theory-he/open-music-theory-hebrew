@@ -5,7 +5,7 @@ lang: he
 omt_edition: 2
 audio_eligible: false
 source_url: https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/
-translation_status: text-reviewed-media-pending
+translation_status: beta-text-reviewed
 ---
 
 <section class="standard post-4083 chapter type-chapter status-publish hentry contributor-hamm contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
