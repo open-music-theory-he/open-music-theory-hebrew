@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 10,
+  "new_segments": 11,
   "completed_chapters": 31,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -227,7 +227,7 @@
     {
       "chapter": 32,
       "title": "032 — צלילי קישוט",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 18,
-  "successes": 10,
-  "elapsed_seconds": 593.72
+  "requests": 21,
+  "successes": 11,
+  "elapsed_seconds": 628.16
 }
