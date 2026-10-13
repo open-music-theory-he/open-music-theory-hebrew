@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 40,
-  "completed_chapters": 22,
+  "completed_chapters": 23,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -166,7 +166,7 @@
       "title": "023 — ניתוח בס ממוספר באמצעות ספרות רומיות",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 24,
@@ -885,5 +885,5 @@
   ],
   "requests": 57,
   "successes": 40,
-  "elapsed_seconds": 1183.82
+  "elapsed_seconds": 1190.13
 }
