@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 51,
-  "completed_chapters": 26,
+  "completed_chapters": 27,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -194,7 +194,7 @@
       "title": "027 — מימוש בס ממוספר בסגנון בס רציף קפדני",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 28,
@@ -885,5 +885,5 @@
   ],
   "requests": 210,
   "successes": 51,
-  "elapsed_seconds": 16160.08
+  "elapsed_seconds": 16162.1
 }
