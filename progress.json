@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 6,
+  "new_segments": 7,
   "completed_chapters": 29,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -213,7 +213,7 @@
     {
       "chapter": 30,
       "title": "030 — מימוש בס ממוספר בסגנון מלודי לכלי מקלדת",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 1,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 11,
-  "successes": 6,
-  "elapsed_seconds": 473.63
+  "requests": 15,
+  "successes": 7,
+  "elapsed_seconds": 496.77
 }
