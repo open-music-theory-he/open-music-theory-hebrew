@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 42,
+  "new_segments": 43,
   "completed_chapters": 23,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -171,7 +171,7 @@
     {
       "chapter": 24,
       "title": "024 — הלחנה בסגנון בס רציף",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 3,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 76,
-  "successes": 42,
-  "elapsed_seconds": 1354.5
+  "requests": 81,
+  "successes": 43,
+  "elapsed_seconds": 1398.2
 }
