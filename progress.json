@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 124,
   "segments_total": 456,
-  "new_segments": 10,
+  "new_segments": 11,
   "completed_chapters": 13,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -101,7 +101,7 @@
     {
       "chapter": 14,
       "title": "014 — סוגי תנועה קונטרפונקטית",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -876,7 +876,7 @@
       "complete": false
     }
   ],
-  "requests": 79,
-  "successes": 10,
-  "elapsed_seconds": 8964.5
+  "requests": 86,
+  "successes": 11,
+  "elapsed_seconds": 9015.33
 }
