@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 124,
   "segments_total": 456,
-  "new_segments": 12,
+  "new_segments": 13,
   "completed_chapters": 14,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -108,7 +108,7 @@
     {
       "chapter": 15,
       "title": "015 — מבוא להולכת קולות קפדנית",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 4,
       "complete": false
     },
@@ -876,7 +876,7 @@
       "complete": false
     }
   ],
-  "requests": 90,
-  "successes": 12,
-  "elapsed_seconds": 9059.89
+  "requests": 122,
+  "successes": 13,
+  "elapsed_seconds": 15246.32
 }
