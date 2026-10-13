@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 124,
   "segments_total": 456,
-  "new_segments": 15,
+  "new_segments": 16,
   "completed_chapters": 15,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -115,7 +115,7 @@
     {
       "chapter": 16,
       "title": "016 — כתיבת קנטוס פירמוס",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 4,
       "complete": false
     },
@@ -876,7 +876,7 @@
       "complete": false
     }
   ],
-  "requests": 131,
-  "successes": 15,
-  "elapsed_seconds": 15302.83
+  "requests": 136,
+  "successes": 16,
+  "elapsed_seconds": 15343.72
 }
