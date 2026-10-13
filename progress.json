@@ -3,7 +3,7 @@
   "chapters_total": 124,
   "segments_total": 456,
   "new_segments": 4,
-  "completed_chapters": 11,
+  "completed_chapters": 12,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -75,7 +75,7 @@
       "title": "010 — סולמות ודרגות הסולם",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 11,
@@ -878,5 +878,5 @@
   ],
   "requests": 14,
   "successes": 4,
-  "elapsed_seconds": 161.29
+  "elapsed_seconds": 166.25
 }
