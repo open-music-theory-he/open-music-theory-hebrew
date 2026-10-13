@@ -1,8 +1,8 @@
 {
-  "status": "paused",
-  "chapters_total": 124,
-  "segments_total": 456,
-  "new_segments": 17,
+  "status": "running",
+  "chapters_total": 125,
+  "segments_total": 459,
+  "new_segments": 1,
   "completed_chapters": 15,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -115,7 +115,7 @@
     {
       "chapter": 16,
       "title": "016 — כתיבת קנטוס פירמוס",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 4,
       "complete": false
     },
@@ -582,6 +582,13 @@
       "complete": false
     },
     {
+      "chapter": 83,
+      "title": "083 — מוזיקת שנים־עשר טונים — פעולות",
+      "segments_ready": 0,
+      "segments_total": 3,
+      "complete": false
+    },
+    {
       "chapter": 84,
       "title": "084 — מוזיקת שנים־עשר טונים — מבנה מרווחי",
       "segments_ready": 0,
@@ -876,8 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 186,
-  "successes": 17,
-  "elapsed_seconds": 19800.0,
-  "reason": "5.5_hour_budget_reached"
+  "requests": 1,
+  "successes": 1,
+  "elapsed_seconds": 27.09
 }
