@@ -8,7 +8,7 @@ source_url: https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass/
 translation_status: text-reviewed-media-pending
 ---
 
-<section class="standard post-1031 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. פרק זה אינו נכלל ברשימת הקריינות המאושרת הנוכחית.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
+<section class="standard post-1031 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
 <header>
 
 <p data-type="author">Mark Gotham</p>
