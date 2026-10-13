@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 43,
+  "new_segments": 44,
   "completed_chapters": 24,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -178,7 +178,7 @@
     {
       "chapter": 25,
       "title": "025 — סגנון ונטייה",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 3,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 81,
-  "successes": 43,
-  "elapsed_seconds": 1402.38
+  "requests": 109,
+  "successes": 44,
+  "elapsed_seconds": 5785.75
 }
