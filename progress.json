@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 9,
+  "new_segments": 10,
   "completed_chapters": 17,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -129,7 +129,7 @@
     {
       "chapter": 18,
       "title": "018 — כתיבת קונטרפונקט מן הסוג השני",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 8,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 9,
-  "successes": 9,
-  "elapsed_seconds": 242.16
+  "requests": 11,
+  "successes": 10,
+  "elapsed_seconds": 269.9
 }
