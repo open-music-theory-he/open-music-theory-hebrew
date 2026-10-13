@@ -816,8 +816,8 @@
       "visual_explanations": 2,
       "tables": 0,
       "media": 0,
-      "status": "prepared-awaiting-media-review",
-      "pending": 1
+      "status": "text-reviewed-awaiting-in-context-pronunciation-check",
+      "pending": 0
     },
     {
       "chapter": 84,
@@ -1250,20 +1250,13 @@
       "pending": 0
     }
   ],
-  "review_complete_chapters": 124,
-  "pending": [
-    {
-      "chapter": 83,
-      "source": "twelveToneOperations.md",
-      "kind": "missing-image",
-      "asset": "Graphics/postTonal/abstractedRowClass.png"
-    }
-  ],
+  "review_complete_chapters": 125,
+  "pending": [],
   "notes": [
     "Every singular musical תו, including prefixes, is pointed תָּו in spoken text.",
     "Generated audio still requires listening review.",
     "Chapter 10 image rechecked: natural sign correctly printed; ready for next batch, excluded from the unchanged approved 116.",
-    "124 approved active chapters; 083 missing image remains blocked; 106 retired; original chapter numbers preserved."
+    "125 approved active chapters; 106 retired. All missing-media decisions completed."
   ],
   "active_chapters": 125,
   "retired_chapters": [

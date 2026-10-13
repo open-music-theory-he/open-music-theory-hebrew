@@ -2,8 +2,8 @@
   "chapter": 83,
   "source": "twelveToneOperations.md",
   "title": "083 — מוזיקת שנים־עשר טונים — פעולות",
-  "source_sha256": "afb3762a7eecea326b313a2e4703537f2f90f97992459cc37052ae23922d9541",
-  "status": "prepared-awaiting-media-review",
+  "source_sha256": "eaf76bf77f50e20edd7bc6d726d30a412b6c5292f4e47f64d757fd2c29602a03",
+  "status": "text-reviewed-awaiting-in-context-pronunciation-check",
   "opening_asset": "approved:00-introduction.mp3",
   "voice": "Iapetus",
   "voice_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.",
@@ -50,21 +50,21 @@
       "kind": "visual-explanation",
       "source": "<img alt=\"תרשים השפעת הפעולות על סוגי צורות השורה\" src=\"/Graphics/postTonal/abstractedRowClass.png\"/>",
       "asset": "Graphics/postTonal/abstractedRowClass.png",
-      "spoken": "בגירסה הכתובה מופיע כאן איור שמקורו אינו זמין בקובצי הספר. אין עדיין תיאור מאומת לאיור זה; יש להשלים את בדיקתו לפני ההקלטה.",
-      "reviewed": false
+      "spoken": "בגירסה הכתובה מופיע כאן תרשים חלופי שנוסף במהדורה העברית. הוא מסכם כיצד פעולות משנות את סוג צורת השורה, ללא המספרים התחתיים. טרנספוזיציה שומרת על הסוג: P נשאר P, I נשאר I, R נשאר R, ו־RI נשאר RI. היפוך מחליף בין P ל־I ובין R ל־RI. הילוך לאחור מחליף בין P ל־R ובין I ל־RI. בתרשים ארבע תיבות: P ו־I בשורה העליונה, R ו־RI בשורה התחתונה. חצים אופקיים מציינים היפוך, וחצים אנכיים מציינים הילוך לאחור. המספרים התחתיים עשויים להשתנות בטרנספוזיציה ובהיפוך.",
+      "reviewed": true
     },
     {
       "kind": "verbatim",
-      "source_html": "<p><strong>הערת מהדורה:</strong> הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123.</p>",
-      "source_text": "הערת מהדורה: הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123.",
-      "spoken": "הערת מהדורה: הקובץ abstractedRowClass.png אינו נמצא במאגר המקור, ולכן התרשים האחרון חסר. ההפניה נשמרה כדי לתעד את החוסר, N123."
+      "source_html": "<p>הערת מהדורה: תרשים חלופי זה נוסף במהדורה העברית, משום שהתמונה המקורית אינה קיימת במאגר. הוא מציג את סוגי צורות השורה בלבד, ללא המספרים התחתיים. טרנספוזיציה שומרת על הסוג; היפוך מחליף בין P ל־I ובין R ל־RI; הילוך לאחור מחליף בין P ל־R ובין I ל־RI. המספרים התחתיים עשויים להשתנות בטרנספוזיציה ובהיפוך. בשורות בעלות סימטריה, צורות מסוגים שונים עשויות להיות זהות.</p>",
+      "source_text": "הערת מהדורה: תרשים חלופי זה נוסף במהדורה העברית, משום שהתמונה המקורית אינה קיימת במאגר. הוא מציג את סוגי צורות השורה בלבד, ללא המספרים התחתיים. טרנספוזיציה שומרת על הסוג; היפוך מחליף בין P ל־I ובין R ל־RI; הילוך לאחור מחליף בין P ל־R ובין I ל־RI. המספרים התחתיים עשויים להשתנות בטרנספוזיציה ובהיפוך. בשורות בעלות סימטריה, צורות מסוגים שונים עשויות להיות זהות.",
+      "spoken": "הערת מהדורה: תרשים חלופי זה נוסף במהדורה העברית, משום שהתמונה המקורית אינה קיימת במאגר. הוא מציג את סוגי צורות השורה בלבד, ללא המספרים התחתיים. טרנספוזיציה שומרת על הסוג; היפוך מחליף בין P ל־I ובין R ל־RI; הילוך לאחור מחליף בין P ל־R ובין I ל־RI. המספרים התחתיים עשויים להשתנות בטרנספוזיציה ובהיפוך. בשורות בעלות סימטריה, צורות מסוגים שונים עשויות להיות זהות."
     }
   ],
   "review": {
     "prose_preserved": true,
     "comparison": "non-whitespace character sequence of rendered source equals verbatim blocks; inline wording preserved",
     "no_transliteration": true,
-    "visuals_reviewed": false,
+    "visuals_reviewed": true,
     "visual_assets": [
       "Graphics/postTonal/operations.png",
       "Graphics/postTonal/abstractedRowClass.png"
@@ -73,12 +73,7 @@
     "external_media_reviewed": false,
     "external_media": [],
     "pronunciation_pending": true,
-    "pending": [
-      {
-        "kind": "missing-image",
-        "asset": "Graphics/postTonal/abstractedRowClass.png"
-      }
-    ],
+    "pending": [],
     "omissions": [],
     "links": [
       {
@@ -94,6 +89,7 @@
         "target": "/Graphics/postTonal/abstractedRowClass.png"
       }
     ],
-    "singular_tav_pointed": true
+    "singular_tav_pointed": true,
+    "replacement_diagram_verified": true
   }
 }
