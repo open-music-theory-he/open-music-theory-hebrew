@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 46,
+  "new_segments": 47,
   "completed_chapters": 25,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -185,7 +185,7 @@
     {
       "chapter": 26,
       "title": "026 — צלילי נטייה ודיסוננסים הרמוניים פונקציונליים",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 4,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 152,
-  "successes": 46,
-  "elapsed_seconds": 7740.5
+  "requests": 186,
+  "successes": 47,
+  "elapsed_seconds": 15729.68
 }
