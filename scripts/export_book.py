@@ -20,7 +20,7 @@ section.chapter, section.asset { break-before: page; } img { max-width: 100%; he
 table { border-collapse: collapse; width: 100%; font-size: 9pt; margin: 8pt 0; }
 th,td { border: .5pt solid #bcc9d5; padding: 4pt; vertical-align: top; } th { background: #edf3f8; }
 table.wide { table-layout: fixed; font-size: 7.5pt; } table.wide th,table.wide td { padding: 2pt; overflow-wrap: anywhere; } table.wide th:first-child,table.wide td:first-child { width: 28%; }
-thead { display: table-header-group; } tr,figure { break-inside: avoid; } figure { margin: 8pt 0; }
+.annex-list li { break-inside: avoid; margin-bottom: 5pt; } thead { display: table-header-group; } tr,figure { break-inside: avoid; } figure { margin: 8pt 0; }
 pre { white-space: pre-wrap; overflow-wrap: anywhere; direction: ltr; text-align: left; font-size: 8pt; }
 code,bdi { direction: ltr; unicode-bidi: isolate; } blockquote { border-inline-start: 3pt solid #9db6cd; padding-inline-start: 8pt; margin-inline: 0; }
 .media,.notice { border: .5pt solid #ccd8e3; background: #f3f6fa; padding: 7pt; font-size: 9pt; }
@@ -54,8 +54,10 @@ def key(p):
     return 'file-' + hashlib.sha256(p.relative_to(ROOT).as_posix().encode()).hexdigest()[:16]
 
 def ordered_documents(files):
-    docs = {p for p in files if p.suffix.lower() == '.md' and p.name != 'trinket.md'}
-    first = [ROOT/'README.md', ROOT/'hebrew-introduction.md', ROOT/'fixed-and-movable-do.md', ROOT/'contents.md']
+    policy=json.loads((ROOT/'scripts/reader-export-policy.json').read_text())
+    excluded=set(policy['excluded_documents'])|{'trinket.md'}
+    docs = {p for p in files if p.suffix.lower() == '.md' and p.relative_to(ROOT).as_posix() not in excluded}
+    first = [ROOT/'hebrew-introduction.md', ROOT/'fixed-and-movable-do.md', ROOT/'contents.md']
     toc = (ROOT/'contents.md').read_text()
     # Parse Markdown, including paths such as pitch(Class).html.
     parsed = BeautifulSoup(markdown.markdown(toc, extensions=['tables']), 'html.parser')
@@ -83,20 +85,32 @@ def main():
     args = parser.parse_args()
     out = args.output.resolve(); out.mkdir(parents=True, exist_ok=True)
     files = inventory(); documents = ordered_documents(files)
-    images = [p for p in files if p.suffix.lower() in IMAGES]
+    images = [p for p in files if p.suffix.lower() in IMAGES and p.relative_to(ROOT).parts[0]=='Graphics' and '.pages' not in p.as_posix()]
     pdfs = [p for p in files if p.suffix.lower() == '.pdf']
     used_images = set(); external = set(); missing_links = []; rendered = []
     pdf_refs = []; failures = []; known_missing_images=[]; related = {}; titles = {}
+    policy=json.loads((ROOT/'scripts/reader-export-policy.json').read_text())
+    supplemental={ROOT/k:[ROOT/c for c in v] for k,v in policy['annex_chapters'].items()}
+    image_numbers={p:i for i,p in enumerate(sorted(images),1)}
+    image_titles={}
     explicit_names=json.loads((ROOT/'scripts/export-file-names.json').read_text())
     aliases={}
     for i,p in enumerate(files,1):
         rel=p.relative_to(ROOT).as_posix()
         category='איור מוזיקלי' if p.suffix.lower() in IMAGES else 'הקלטה' if p.suffix.lower()=='.mp3' else 'מסמך מצורף' if p.suffix.lower()=='.pdf' else 'קובץ מקור'
-        aliases[p]=explicit_names.get(rel,f'{category} {i:04d}{p.suffix}')
+        aliases[p]=f'איור מוזיקלי {image_numbers[p]:03d}{p.suffix}' if p in image_numbers else explicit_names.get(rel,f'{category} {i:04d}{p.suffix}')
         if '/' in aliases[p] or '\\' in aliases[p] or not re.search('[א-ת]',aliases[p]): raise RuntimeError('Invalid Hebrew name: '+rel)
     if len(set(aliases.values()))!=len(aliases): raise RuntimeError('Duplicate Hebrew filenames')
     for p in documents:
         meta, body = metadata(p)
+        if p.relative_to(ROOT).as_posix()=='docs/translation-policy-and-glossary.md':
+            notation=body.split('## 2. תווים, סימנים וסולפז׳',1)[1].split('## 3.',1)[0]
+            glossary=body.split('## 5. מילון מונחים — הצעת עריכה',1)[1].split('## 6.',1)[0]
+            additions=body.split('## השלמות מינוח במקבץ הראשון',1)[1]
+            additions='\n\n'.join(str(t) for t in BeautifulSoup(markdown.markdown(additions,extensions=['tables']),'html.parser').find_all('table'))
+            body='# מילון מונחים וכללי סימון\n\n## תווים, סימנים וסולפז׳'+notation+'\n## מילון מונחים'+glossary+'\n## מונחים נוספים'+additions
+            meta={'title':'מילון מונחים וכללי סימון','translation_status':'reader-glossary'}
+        if p.name=='contents.md': body=re.sub(r'(?m)^\*\*מצב העבודה:\*\*.*$', '', body)
         related[p]=[]
         # Liquid site references become local paths; never load the live website.
         body = re.sub(r'\{\{\s*page\.title\s*\}\}\s*\n[=]+\s*\n', '', body)
@@ -126,6 +140,11 @@ def main():
                 else: failures.append(f'{p.relative_to(ROOT)}: missing/nonlocal image {t.get("src")}')
                 continue
             used_images.add(target); t['src']=target.as_uri()
+            if target in image_numbers:
+                image_titles.setdefault(target,t.get('alt') or target.stem)
+                caption=soup.new_tag('p',attrs={'class':'media','dir':'rtl'})
+                caption.string=f'ראה איור מוזיקלי {image_numbers[target]:03d} — {image_titles[target]}'
+                t.insert_after(caption)
         for a in soup.find_all('a',href=True):
             u=a['href']; target=local_target(u,p)
             if u.startswith('#'): a['href']='#'+key(p)+'-'+u[1:]; continue
@@ -133,14 +152,18 @@ def main():
                 if urlsplit(u).scheme in ('http','https'): external.add(u)
                 continue
             if target.suffix=='.html': target=target.with_suffix('.md')
+            if target.relative_to(ROOT).as_posix() in policy['excluded_documents'] and p.name=='contents.md':
+                sibling=a.next_sibling
+                if getattr(sibling,'name',None)=='br': sibling.decompose()
+                a.decompose(); continue
             if target in documents:
                 fragment=urlsplit(u).fragment
                 a['href']='#'+key(target)+('-'+fragment if fragment else '')
             elif target.is_file() and target.is_relative_to(ROOT):
                 if target.suffix.lower()=='.pdf':
                     pdf_refs.append(target); related[p].append(target)
-                    a['href']='export-document:'+key(p)+'-'+key(target)
-                    a.clear(); a.string=aliases[target]
+                    a['href']='export-document:'+key(target)
+                    a.clear(); a.string='ראה נספח: '+aliases[target].removesuffix('.pdf')
                 else:
                     # Local files are readable Hebrew filenames, not online links.
                     label=soup.new_tag('span',dir='rtl')
@@ -149,7 +172,12 @@ def main():
                         a.unwrap()
                     else:
                         a.replace_with(label)
+            elif target in files and target.suffix=='.md':
+                a['href']='https://openmusictools.github.io/open-music-theory-hebrew/'+target.relative_to(ROOT).as_posix().removesuffix('.md')+'.html'
             else: missing_links.append({'document':p.relative_to(ROOT).as_posix(),'target':u})
+        if p.name=='contents.md':
+            for h in soup.find_all(['h2','h3']):
+                if h.get_text().strip()=='טכנולוגיה': h.decompose()
         # Latin music expressions retain their reading direction inside Hebrew prose.
         for t in soup.find_all(['strong','em','code']):
             if not re.search('[א-ת]', t.get_text()): t['dir']='ltr'; t['style']='unicode-bidi: isolate'
@@ -157,19 +185,33 @@ def main():
             if not re.search('[א-ת]',t.get_text()): t['dir']='ltr'
         if p.name=='schemataSummary.md':
             for t in soup.find_all('table'): t['dir']='ltr'
+        for target,chapters in supplemental.items():
+            if p in chapters:
+                related[p].append(target)
+                note=soup.new_tag('p',attrs={'class':'media','dir':'rtl'})
+                a=soup.new_tag('a',href='export-document:'+key(target)); a.string='ראה נספח: '+aliases[target].removesuffix('.pdf')
+                note.append(a); note.append(' — חומר עזר משלים שנוסף להפניות במהדורה העברית.'); soup.append(note)
         heading=soup.find('h1')
         title=str(meta.get('title') or (heading.get_text() if heading else p.stem)); titles[p]=title
         language='he' if meta.get('translation_status') or re.search('[א-ת]',title) else 'en'
         if not meta.get('title') and heading: heading.decompose()
-        rendered.append(f'<section class="chapter" id="{key(p)}" lang="{language}" dir="{"rtl" if language=="he" else "ltr"}"><h1>{html.escape(title)}</h1><p class="path">{html.escape(aliases[p])}</p>{soup}</section>')
+        rendered.append(f'<section class="chapter" id="{key(p)}" lang="{language}" dir="{"rtl" if language=="he" else "ltr"}"><h1>{html.escape(title)}</h1>{soup}</section>')
     if failures: raise RuntimeError('\n'.join(failures))
     # Unreferenced images are also static material: include them in an image appendix.
-    orphan_images = sorted(set(images)-used_images)
+    # Alternate SVG/raster versions of an inline figure are source material, not extra reader figures.
+    duplicate_images={p for p in images if p not in used_images and any(p.with_suffix('')==q.with_suffix('') for q in used_images)}
+    orphan_images = sorted(set(images)-used_images-duplicate_images)
     for p in orphan_images:
-        rendered.append(f'<section class="asset" id="{key(p)}"><h2 dir="rtl">נספח תמונות</h2><p class="path">{html.escape(aliases[p])}</p><img src="{p.as_uri()}" alt="{html.escape(p.name)}"></section>')
+        rendered.append(f'<section class="asset" id="{key(p)}"><h2 dir="rtl">איור מוזיקלי {image_numbers[p]:03d} — חומר עזר כללי</h2><p dir="rtl">לא נמצאה הפניה מפורשת לאיור זה בפרקי המקור; הוא נשמר כחומר עזר כללי.</p><p class="path">{html.escape(aliases[p])}</p><img src="{p.as_uri()}" alt="{html.escape(p.name)}"></section>')
     commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     toc=''.join(f'<li><a href="#{key(p)}">{html.escape(titles[p])}</a></li>' for p in documents)
-    cover=f'''<div class="cover" dir="rtl"><h1>תאוריית המוזיקה הפתוחה</h1><h2>יצוא סטטי מלא של המאגר</h2><p>היצוא כולל את פרקי הטקסט שתורגמו לעברית ואת תיעוד הפרויקט. הגהה מקצועית עצמאית עדיין נדרשת; נכסי המדיה והמסמכים המקוריים נשמרים בשפת המקור.</p><p>תמונות משולבות בפרקים; תמונות נוספות ומסמכי PDF מצורפים מיד אחרי הפרקים המקושרים אליהם. מסמכים ללא הפניה מצורפים בסוף. וידאו ותרגילים מקוונים מופיעים כהפניות בלבד. אין הורדה של תוכן משירותי צד שלישי.</p><p>מקור: Open Music Theory. תרגום בסיוע AI. קרדיטים ורישיונות המקור נשמרים במאגר המצורף; טקסט הספר CC BY-SA 4.0.</p><p class="path">Commit: {commit}</p></div><section class="toc" dir="rtl"><h1>תוכן עניינים</h1><ol>{toc}</ol></section>'''
+    cover=f'''<div class="cover" dir="rtl"><h1>תאוריית המוזיקה הפתוחה</h1><h2>מהדורה לקורא</h2><p>הספר כולל את פרקי הלימוד, מילון המונחים וחומרי העזר המוזיקליים. הגהה מקצועית עצמאית עדיין נדרשת; נכסי המדיה והמסמכים המקוריים נשמרים בשפת המקור.</p><p>תמונות משולבות בפרקים; איורים נוספים נשמרים כחומר עזר כללי. מסמכי PDF מצורפים פעם אחת בסוף הספר; הפניות מתוך הפרקים ורשימת הנספחים מובילות אליהם. וידאו ותרגילים מקוונים מופיעים כהפניות בלבד. אין הורדה של תוכן משירותי צד שלישי.</p><p>מקור: Open Music Theory. תרגום בסיוע AI. קרדיטים ורישיונות המקור נשמרים במאגר המצורף; טקסט הספר CC BY-SA 4.0.</p></div><section class="toc" dir="rtl"><h1>תוכן עניינים</h1><ol>{toc}</ol></section>'''
+    catalog=[]
+    for target in pdfs:
+        chapters=[p for p in documents if target in related[p]]
+        back=' · '.join(f'<a href="#{key(p)}">{html.escape(titles[p])}</a>' for p in chapters) or 'חומר עזר כללי; אין שיוך ודאי לפרק מסוים'
+        catalog.append(f'<li><a href="export-document:{key(target)}">ראה נספח: {html.escape(aliases[target].removesuffix(".pdf"))}</a><br>{back}</li>')
+    rendered.append('<section class="asset" dir="rtl"><h1>רשימת נספחים מוזיקליים</h1><ul class="annex-list">'+''.join(catalog)+'</ul></section>')
     rendered.append('<section class="asset" id="export-end"><h1 dir="rtl">סיום החומר הסטטי</h1></section>')
     document=f'<!doctype html><html lang="he"><meta charset="utf-8"><style>{CSS}</style><body>{cover}{"".join(rendered)}</body></html>'
     # Old English heading fragments may no longer exist after translation.
@@ -206,13 +248,8 @@ def main():
     if fetch_errors: raise RuntimeError('\n'.join(fetch_errors))
     writer=PdfWriter(); writer.append(PdfReader(io.BytesIO(book_bytes)),import_outline=True)
     annex=[]; insertions=[]
-    for index,p in enumerate(documents):
-        following = documents[index+1] if index+1<len(documents) else (orphan_images[0] if orphan_images else None)
-        position=anchor_pages[key(following)] if following else anchor_pages['export-end']
-        for target in dict.fromkeys(related[p]):
-            insertions.append((position,target,p))
-    unlinked=sorted(set(pdfs)-set(pdf_refs))
-    for target in unlinked: insertions.append((len(layout.pages),target,None))
+    # Every PDF appendix is included once, with a shared destination for all referring chapters.
+    for target in sorted(pdfs): insertions.append((len(layout.pages),target,None))
     # Insert in forward order, retaining page objects so existing internal links/bookmarks remain valid.
     offset=0
     for position,target,chapter in sorted(insertions,key=lambda x:x[0]):
@@ -241,7 +278,7 @@ def main():
     final=PdfReader(pdf_out)
     expected=len(PdfReader(io.BytesIO(book_bytes)).pages)+sum(a['pages'] for a in annex)
     assert len(final.pages)==expected
-    manifest={'commit':commit,'markdown_documents':len(documents),'images':len(images),'unreferenced_images_appended':len(orphan_images),'pdf_annexes':annex,'internal_document_links':links_rewritten,'final_pdf_pages':len(final.pages),'missing_local_links':missing_links,'heading_links_redirected_to_chapter':fragment_fallbacks,'known_missing_images':known_missing_images,'external_references':sorted(external),'files':[]}
+    manifest={'commit':commit,'markdown_documents':len(documents),'images':len(images),'unreferenced_images_appended':len(orphan_images),'reader_media':[p.relative_to(ROOT).as_posix() for p in sorted(set(images)-duplicate_images)]+[p.relative_to(ROOT).as_posix() for p in pdfs]+[p.relative_to(ROOT).as_posix() for p in files if p.suffix.lower()=='.mp3'],'excluded_reader_documents':policy['excluded_documents'],'annex_chapter_map':{p.relative_to(ROOT).as_posix():[c.relative_to(ROOT).as_posix() for c in documents if p in related[c]] for p in pdfs},'pdf_annexes':annex,'internal_document_links':links_rewritten,'final_pdf_pages':len(final.pages),'missing_local_links':missing_links,'heading_links_redirected_to_chapter':fragment_fallbacks,'known_missing_images':known_missing_images,'external_references':sorted(external),'files':[]}
     for p in files:
         manifest['files'].append({'path':p.relative_to(ROOT).as_posix(),'bytes':p.stat().st_size,'hebrew_filename':aliases[p],'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
     manifest_bytes=(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n').encode()

@@ -1,0 +1,131 @@
+{
+  "excluded_documents": [
+    "README.md",
+    "404.md",
+    "contents-hidden.md",
+    "index.md",
+    "addCC.md",
+    "GDrive.md",
+    "createGraphic.md",
+    "VAT.md",
+    "linkToTwitter.md",
+    "typesettingKBStyle.md",
+    "Graphics/Handouts/HarmoniesByBassScaleDegree.md",
+    "docs/audiobook-guide.md",
+    "docs/export-guide.md",
+    "docs/narration-approvals.md",
+    "docs/narration-policy-v2.md",
+    "docs/narration-review-v2.md",
+    "docs/narration-run-policy-v2.md",
+    "docs/pdf-validation.md",
+    "docs/translation-notes.md",
+    "docs/translation-progress.md",
+    "docs/translation-quality-checklist.md",
+    "docs/translation-questions-final.md",
+    "docs/translation-review-batch10.md",
+    "docs/translation-review-batch11.md",
+    "docs/translation-review-batch12.md",
+    "docs/translation-review-batch13.md",
+    "docs/translation-review-batch14.md",
+    "docs/translation-review-batch15.md",
+    "docs/translation-review-batch16.md",
+    "docs/translation-review-batch2.md",
+    "docs/translation-review-batch3.md",
+    "docs/translation-review-batch4.md",
+    "docs/translation-review-batch5.md",
+    "docs/translation-review-batch6.md",
+    "docs/translation-review-batch7.md",
+    "docs/translation-review-batch8.md",
+    "docs/translation-review-batch9.md"
+  ],
+  "annex_chapters": {
+    "Graphics/Handouts/funcBassChart.pdf": [
+      "harmonicFunctions.md",
+      "harmonicAnalysis.md"
+    ],
+    "Graphics/alteredSBassLines-inClass.pdf": [
+      "alteredSubdominants.md"
+    ],
+    "Graphics/alteredSChords.pdf": [
+      "alteredSubdominants.md"
+    ],
+    "Graphics/appliedChordBassLine.pdf": [
+      "appliedChords.md"
+    ],
+    "Graphics/cadences/Cadences.pdf": [
+      "cadenceTypes.md"
+    ],
+    "Graphics/defaultFigures.pdf": [
+      "thoroughbassFigures.md"
+    ],
+    "Graphics/functions.pdf": [
+      "functions.md",
+      "harmonicFunctions.md"
+    ],
+    "Graphics/harmonicSequential.pdf": [
+      "melodicSequentials.md"
+    ],
+    "Graphics/harmony/figuresBasic.pdf": [
+      "thoroughbassFigures.md"
+    ],
+    "Graphics/harmony/keyboardExercises.pdf": [
+      "bassoContinuo.md"
+    ],
+    "Graphics/harmony/modulationExample.pdf": [
+      "Modulation.md"
+    ],
+    "Graphics/intervals/motionTypes.pdf": [
+      "motionTypes.md"
+    ],
+    "Graphics/inversions.pdf": [
+      "triads.md",
+      "thoroughbassFigures.md"
+    ],
+    "Graphics/octaveDesignations.pdf": [
+      "pitches.md"
+    ],
+    "Graphics/postTonal/clockFace-diatonic.pdf": [
+      "scales2.md"
+    ],
+    "Graphics/postTonal/clockFace-tetraChord.pdf": [
+      "pitch(Class).md"
+    ],
+    "Graphics/postTonal/clockFace-tetraChordInverted.pdf": [
+      "inversion.md"
+    ],
+    "Graphics/postTonal/clockFace.pdf": [
+      "pitch(Class).md"
+    ],
+    "Graphics/postTonal/postTonalCollections.pdf": [
+      "scales2.md"
+    ],
+    "Graphics/protonotation/protoMelodies.pdf": [
+      "protonotation.md"
+    ],
+    "Graphics/syncopation/eighthToSixteenth.pdf": [
+      "syncopation.md"
+    ],
+    "Graphics/syncopation/halfToQuarter.pdf": [
+      "syncopation.md"
+    ],
+    "Graphics/syncopation/quarterToEighth.pdf": [
+      "syncopation.md"
+    ],
+    "Graphics/syncopation/syncopationGraphics.pdf": [
+      "syncopation.md"
+    ],
+    "Graphics/triadsSeventhChords/triadsPractice.pdf": [
+      "triads.md"
+    ],
+    "Graphics/unfiguredBass1.pdf": [
+      "unfiguredBass.md"
+    ],
+    "Graphics/unfiguredBass2.pdf": [
+      "unfiguredBass.md"
+    ]
+  },
+  "general_annexes": [
+    "Graphics/harmony/k331-reduction.pdf"
+  ],
+  "notes": "Editorial supplementary references, checked against document contents and chapter subject. No changes to narration."
+}
