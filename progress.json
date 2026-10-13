@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 31,
-  "completed_chapters": 34,
+  "completed_chapters": 35,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -250,7 +250,7 @@
       "title": "035 — תחביר הרמוני — הפראזה האידאלית",
       "segments_ready": 6,
       "segments_total": 6,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 36,
@@ -885,5 +885,5 @@
   ],
   "requests": 171,
   "successes": 31,
-  "elapsed_seconds": 17440.69
+  "elapsed_seconds": 17444.36
 }
