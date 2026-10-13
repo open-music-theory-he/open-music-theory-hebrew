@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 21,
+  "new_segments": 22,
   "completed_chapters": 18,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -136,7 +136,7 @@
     {
       "chapter": 19,
       "title": "019 — כתיבת קונטרפונקט מן הסוג השלישי",
-      "segments_ready": 5,
+      "segments_ready": 6,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 22,
-  "successes": 21,
-  "elapsed_seconds": 593.76
+  "requests": 24,
+  "successes": 22,
+  "elapsed_seconds": 604.02
 }
