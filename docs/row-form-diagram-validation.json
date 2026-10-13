@@ -1,0 +1,8 @@
+{
+  "rows_tested": 200,
+  "axes_per_row": 12,
+  "exact_checks": 28800,
+  "source": "https://openmusictheory.github.io/twelveToneOperations.html",
+  "license": "CC BY-SA 4.0",
+  "status": "replacement, not reconstruction"
+}
