@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 37,
-  "completed_chapters": 21,
+  "completed_chapters": 22,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -159,7 +159,7 @@
       "title": "022 — היסטוריה קצרה של הבס הרציף והולכת קולות בכלי מקלדת",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 23,
@@ -885,5 +885,5 @@
   ],
   "requests": 45,
   "successes": 37,
-  "elapsed_seconds": 1052.63
+  "elapsed_seconds": 1056.39
 }
