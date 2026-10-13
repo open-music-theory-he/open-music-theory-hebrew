@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 15,
+  "new_segments": 16,
   "completed_chapters": 32,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -234,7 +234,7 @@
     {
       "chapter": 33,
       "title": "033 — מבוא לתפקידים מוזיקליים",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 74,
-  "successes": 15,
-  "elapsed_seconds": 10629.88
+  "requests": 77,
+  "successes": 16,
+  "elapsed_seconds": 10648.79
 }
