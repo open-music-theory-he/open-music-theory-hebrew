@@ -36,7 +36,7 @@ class Tests(unittest.TestCase):
  def test_nikud(self):
   self.assertEqual(point_tav('תו התו לתו בתו ותו תווים תָּו'),'תָּו התָּו לתָּו בתָּו ותָּו תווים תָּו')
  def test_plan(self):
-  chapters,sel=approved_plan();self.assertEqual(len(chapters),124);self.assertEqual(sel['voice'],'Iapetus');self.assertEqual(len(sel['excluded_chapters']),2)
+  chapters,sel=approved_plan();self.assertEqual(len(chapters),125);self.assertEqual(sel['voice'],'Iapetus');self.assertEqual(len(sel['excluded_chapters']),1)
   for c in chapters:self.assertTrue(c['title'].startswith(f'{c["chapter"]:03d} —'));self.assertEqual(point_tav(c['transcript']),c['transcript'])
  def test_numbered_id3(self):
   from mutagen.id3 import ID3
