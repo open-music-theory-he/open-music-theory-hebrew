@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 14,
-  "completed_chapters": 42,
+  "completed_chapters": 43,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -306,7 +306,7 @@
       "title": "043 — המשפט המוזיקלי",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 44,
@@ -885,5 +885,5 @@
   ],
   "requests": 69,
   "successes": 14,
-  "elapsed_seconds": 4258.77
+  "elapsed_seconds": 4262.81
 }
