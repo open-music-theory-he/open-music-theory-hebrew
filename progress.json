@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 37,
-  "completed_chapters": 48,
+  "completed_chapters": 49,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -348,7 +348,7 @@
       "title": "049 — צורה דו־חלקית קטנה",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 50,
@@ -885,5 +885,5 @@
   ],
   "requests": 94,
   "successes": 37,
-  "elapsed_seconds": 4886.87
+  "elapsed_seconds": 4889.98
 }
