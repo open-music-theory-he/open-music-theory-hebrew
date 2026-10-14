@@ -10,8 +10,7 @@ translation_status: beta-text-reviewed
 
 <section class="standard post-3877 chapter type-chapter status-publish hentry contributor-hamm contributor-brady" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/texture/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
 <div class="chapter-section-header">
-
-<p data-type="author">Samuel Brady and Chelsey Hamm</p>
+<p data-type="author" dir="ltr">Samuel Brady and Chelsey Hamm</p>
 </div>
 <div class="textbox textbox--key-takeaways">
 <div class="textbox__header chapter-section-header">

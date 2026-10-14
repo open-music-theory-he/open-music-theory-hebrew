@@ -10,8 +10,7 @@ translation_status: beta-text-reviewed
 
 <section class="standard post-919 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/high-baroque-fugal-exposition/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
 <div class="chapter-section-header">
-
-<p data-type="author">Mark Gotham</p>
+<p data-type="author" dir="ltr">Mark Gotham</p>
 </div>
 <div class="textbox textbox--key-takeaways">
 <div class="textbox__header chapter-section-header">
@@ -129,12 +128,11 @@ translation_status: beta-text-reviewed
 <p dir="rtl" lang="he">מלבד שיקולי הפוגה המסוימים, רבים מעקרונות הכתיבה הכלליים של מוזיקה טונלית חלים גם כאן. זכרו במיוחד:</p>
 <ul>
 <li dir="rtl" lang="he">לשלוט בזרימה הקצבית: אם נוצרה תנועה רציפה ברמה מטרית מסוימת, כגון רבעים, שמיניות או חלקי שש־עשרה, שקלו היטב אם ומתי ראוי להפסיקה.</li>
-<li dir="rtl" lang="he">לדרג את העוצמה היחסית של הקדנצות, למשל באמצעות שליטה בדרגות הסולם בקול העליון והתחתון.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-harmony/">[1]</a> </small></li>
+<li dir="rtl" lang="he">לדרג את העוצמה היחסית של הקדנצות, למשל באמצעות שליטה בדרגות הסולם בקול העליון והתחתון.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-harmony/" title="פרק המקור באנגלית; טרם קיימת כאן הפניה מאומתת לתרגום מלא">[1]</a> </small></li>
 <li dir="rtl" lang="he">לכתוב באופן המתאים לכלי או לכלים. זכרו מגבלות מעשיות כגון מִפתח היד, מנעד הכלי וכדומה.</li>
 </ul>
 <h2 class="section-header" dir="rtl" id="chapter-919-section-9" lang="he"><a id="example"></a>דוגמה</h2>
 <p dir="rtl" lang="he">כדי לראות את הדברים בפעולה, נבחן את דוגמה 2: הפוגה בדו מינור מן הספר הראשון של הפסנתר המושווה מאת באך, BWV 847.</p>
-
 <p dir="rtl" lang="he" style="text-align: center">דוגמה 2. תצוגת הפוגה בדו מינור (BWV 847), מאת יוהאן סבסטיאן באך.</p>
 <p dir="rtl" lang="he">שימו לב:</p>
 <ul>

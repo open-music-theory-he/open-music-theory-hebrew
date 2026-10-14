@@ -10,8 +10,7 @@ translation_status: beta-text-reviewed
 
 <section class="standard post-4083 chapter type-chapter status-publish hentry contributor-hamm contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
 <div class="chapter-section-header">
-
-<p data-type="author">Mark Gotham and Chelsey Hamm</p>
+<p data-type="author" dir="ltr">Mark Gotham and Chelsey Hamm</p>
 </div>
 <div class="textbox textbox--key-takeaways">
 <div class="textbox__header chapter-section-header">
@@ -35,14 +34,14 @@ translation_status: beta-text-reviewed
 <figure aria-describedby="caption-attachment-4620" class="wp-caption aligncenter" id="attachment_4620"><a href="/Graphics/omt-v2/007-01-f26cab4af8.png"><img alt="שמונה רמות עוצמה, מהחלשה לחזקה: ppp, pp, p, mp, mf, f, ff, fff." class="wp-image-4620" height="98" src="/Graphics/omt-v2/007-01-f26cab4af8.png" style="max-width:100%;height:auto" width="777"/></a><figcaption class="wp-caption-text" dir="rtl" id="caption-attachment-4620" lang="he">דוגמה 1. רמות העוצמה מסודרות מהחלשה ביותר לחזקה ביותר.</figcaption></figure>
 <p dir="rtl" lang="he">בתיווי מוזיקלי מערבי מציינים את רמות העוצמה לעיתים קרובות בקיצורים הבאים.</p>
 <ul>
-<li><em>fff = fortississimo</em></li>
-<li><em>ff = fortissimo</em></li>
-<li><em>f = forte</em></li>
-<li><em>mf = mezzo forte</em></li>
-<li><em>mp = mezzo piano</em></li>
-<li><em>p = piano</em></li>
-<li><em>pp = pianissimo</em></li>
-<li><em>ppp = pianississimo</em></li>
+<li dir="ltr"><em>fff = fortississimo</em></li>
+<li dir="ltr"><em>ff = fortissimo</em></li>
+<li dir="ltr"><em>f = forte</em></li>
+<li dir="ltr"><em>mf = mezzo forte</em></li>
+<li dir="ltr"><em>mp = mezzo piano</em></li>
+<li dir="ltr"><em>p = piano</em></li>
+<li dir="ltr"><em>pp = pianissimo</em></li>
+<li dir="ltr"><em>ppp = pianississimo</em></li>
 </ul>
 <p dir="rtl" lang="he">יש מלחינים המוסיפים עוד סיומות ‎-issimo, אך הדבר נדיר. ובכל זאת, ייתכן שיום אחד תיתקלו ב־pppppp או ב־ffffff במוזיקה שתנגנו או תשירו!</p>
 <p dir="rtl" lang="he">בתרגיל הבא אפשר לתרגל סידור של רמות העוצמה מהחלשה ביותר לחזקה ביותר:</p>
@@ -66,7 +65,6 @@ translation_status: beta-text-reviewed
 <p dir="rtl" lang="he">דוגמה 5: סטקטו (staccato) פירושו לנגן או לשיר תווים מופרדים יותר, עם רווח ביניהם. בדרך כלל מציינים אותו בנקודה מעל התו או מתחתיו.</p>
 <p dir="rtl" lang="he">דוגמה 6: סימן הדגשה (accent), שצורתו V הפונה הצידה, אומר לנגן או לשיר את התו בהדגשה נוספת.</p>
 <p dir="rtl" lang="he">דוגמה 7: סימן מרקטו (marcato), שצורתו V הפוך, אומר לנגן או לשיר את התו בהדגשה נמרצת יותר.</p>
-
 <div class="gallery galleryid-4083 gallery-columns-1 gallery-size-medium" id="gallery-1">
 <dl class="gallery-item">
 <dt class="gallery-icon landscape">
@@ -140,7 +138,6 @@ translation_status: beta-text-reviewed
 <li dir="rtl" lang="he">דוגמה 11: צזורה (caesura) מציינת הפסקה או עצירה מוזיקלית.</li>
 <li dir="rtl" lang="he">דוגמה 12: סימן נשימה (breath mark) מציין נשימה לנגן בכלי נשיפה או לזמר. לנגני כלי הקשה, מקלדת או מיתר הוא מציין הפסקה שמשכה דומה למשך נשימה.</li>
 </ul>
-
 <div class="gallery galleryid-4083 gallery-columns-3 gallery-size-full" id="gallery-2">
 <dl class="gallery-item">
 <dt class="gallery-icon landscape">
@@ -191,14 +188,14 @@ translation_status: beta-text-reviewed
 <figure aria-describedby="caption-attachment-4622" class="wp-caption aligncenter" id="attachment_4622"><img alt="ציר זמן לתקופות ימי הביניים, הרנסנס, הבארוק, הקלאסית, הרומנטית והפוסט־טונלית." class="wp-image-4622" height="83" src="/Graphics/omt-v2/007-18-8fa09cdf91.png" style="max-width:100%;height:auto" width="732"/><figcaption class="wp-caption-text" dir="rtl" id="caption-attachment-4622" lang="he">דוגמה 20. ציר זמן המציג שנים מקובלות לתקופות סגנוניות במוזיקה.</figcaption></figure>
 <div class="textbox shaded"><a id="further-reading"></a>לקריאה נוספת</div>
 <ul>
-<li>Brown, Clive. 2001. “Articulation Marks.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.40671">https://doi.org/10.1093/gmo/9781561592630.article.40671</a>.</li>
-<li>Gerou, Tom and Linda Lusk. 1996. <em>Essential Dictionary of Music Notation</em>. Los Angeles: Alfred.</li>
-<li>London, Justin. 2001. “Tempo (i).” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.27649">https://doi.org/10.1093/gmo/9781561592630.article.27649</a>.</li>
-<li>McGrain, Mark. 1986. <em>Music Notation</em>. Boston: Berklee Press.</li>
-<li>Roemer, Clinton. 1985. <em>The Art of Music Copying: The Preparation of Music for Performance</em>, 2nd edition. Sherman Oaks: Roerick Music Company.</li>
-<li>Thiemel, Matthias. 2001. “Dynamics.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.08458">https://doi.org/10.1093/gmo/9781561592630.article.08458</a>.</li>
-<li>Tilmouth, Michael. 2001. “Repeat.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.23214">https://doi.org/10.1093/gmo/9781561592630.article.23214</a>.</li>
-<li>Westrup, Jack. 2001. “Da capo.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.07043">https://doi.org/10.1093/gmo/9781561592630.article.07043</a>.</li>
+<li dir="ltr">Brown, Clive. 2001. “Articulation Marks.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.40671">https://doi.org/10.1093/gmo/9781561592630.article.40671</a>.</li>
+<li dir="ltr">Gerou, Tom and Linda Lusk. 1996. <em>Essential Dictionary of Music Notation</em>. Los Angeles: Alfred.</li>
+<li dir="ltr">London, Justin. 2001. “Tempo (i).” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.27649">https://doi.org/10.1093/gmo/9781561592630.article.27649</a>.</li>
+<li dir="ltr">McGrain, Mark. 1986. <em>Music Notation</em>. Boston: Berklee Press.</li>
+<li dir="ltr">Roemer, Clinton. 1985. <em>The Art of Music Copying: The Preparation of Music for Performance</em>, 2nd edition. Sherman Oaks: Roerick Music Company.</li>
+<li dir="ltr">Thiemel, Matthias. 2001. “Dynamics.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.08458">https://doi.org/10.1093/gmo/9781561592630.article.08458</a>.</li>
+<li dir="ltr">Tilmouth, Michael. 2001. “Repeat.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.23214">https://doi.org/10.1093/gmo/9781561592630.article.23214</a>.</li>
+<li dir="ltr">Westrup, Jack. 2001. “Da capo.” <i>Grove Music Online</i>.  <a href="https://doi.org/10.1093/gmo/9781561592630.article.07043">https://doi.org/10.1093/gmo/9781561592630.article.07043</a>.</li>
 </ul>
 <div class="textbox shaded"><a id="online-resources"></a>מקורות מקוונים</div>
 <ul>

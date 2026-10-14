@@ -10,8 +10,7 @@ translation_status: beta-text-reviewed
 
 <section class="standard post-1031 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
 <div class="chapter-section-header">
-
-<p data-type="author">Mark Gotham</p>
+<p data-type="author" dir="ltr">Mark Gotham</p>
 </div>
 <div class="textbox textbox--key-takeaways">
 <div class="textbox__header chapter-section-header">
@@ -26,7 +25,7 @@ translation_status: beta-text-reviewed
 <p> </p>
 </div>
 <p dir="rtl" lang="he">יצירות המבוססות על בס חוזר (ground bass) נשענות על קו בס החוזר לאורך היצירה, בדרך כלל במדויק או כמעט במדויק. מוזיקאים רבים מצאו בכך מגבלה הלחנתית מועילה, השומרת אותם ״על הקרקע״!</p>
-<p dir="rtl" lang="he">כמה מוזיקאים? נוהג זה היה נפוץ מאוד בבארוק — פרסל היה נלהב ומיומן במיוחד בו — והוא נפוץ עוד יותר בשירים פופולריים מהשנים האחרונות, כפי שנראה בפרקי הסכמות ההרמוניות בפופ. יש גם דוגמאות רבות מן התקופה שבין השניים. זוהי צורה נפוצה מאוד לאורך זמן.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/pop-rock-schemata/">[1]</a> </small></p>
+<p dir="rtl" lang="he">כמה מוזיקאים? נוהג זה היה נפוץ מאוד בבארוק — פרסל היה נלהב ומיומן במיוחד בו — והוא נפוץ עוד יותר בשירים פופולריים מהשנים האחרונות, כפי שנראה בפרקי הסכמות ההרמוניות בפופ. יש גם דוגמאות רבות מן התקופה שבין השניים. זוהי צורה נפוצה מאוד לאורך זמן.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/pop-rock-schemata/" title="פרק המקור באנגלית; טרם קיימת כאן הפניה מאומתת לתרגום מלא">[1]</a> </small></p>
 <p dir="rtl" lang="he">קל לבלבל ״בס חוזר״ עם מונחים אחרים. מן הכללי אל המסוים, חשוב להבחין בין:</p>
 <ul>
 <li dir="rtl" lang="he">אוסטינטו (ostinato): כל דגם החוזר בקול אחד לאורך חטיבה ארוכה או יצירה שלמה, כגון מקצב תוף הצד בבולרו של ראוול.</li>
@@ -61,7 +60,7 @@ translation_status: beta-text-reviewed
 <p dir="rtl" lang="he">באופן רחב יותר, שימו לב לשימוש הנרחב של פרסל בצעדי 5–6 בקולות המלודיים ולעמימות ההרמונית הנוצרת, למשל בתיבות 1 ו־12. האם 5 הוא צליל האקורד, או 6, או אולי שניהם? האם הדבר עקבי או משתנה? כל אלה מקשים לקבוע בדיוק מהי ההרמוניה והיכן היא מתחלפת, ומוסיפים שכבות עניין. הם גם מסייעים בהכנת סקוונצות של השהיות 7–6, כגון זו המתחילה בתיבה 71.</p>
 <h2 dir="rtl" lang="he">חיקוי</h2>
 <p dir="rtl" lang="he">החיקוי נפוץ לאורך היצירה. החיקויים המלודיים מסומנים בפרטיטורה D ו־C, קיצורים של dux — המוביל — ו־comes — העוקב. למשל, הכינור הראשון מתחיל קו מלודי בתיבה 1, פעימה 1, והכינור השני מחקה אותו בכניסתו בתיבה 3, פעימה 1.</p>
-<p dir="rtl" lang="he">שימו לב כמה פעמים מתחילים החיקויים באותו מקום בתיבה. הדבר תואם את הדיון במסורות החיקוי של המאות השש־עשרה והשמונה־עשרה. כניסה בפעימות מקבילות יוצרת מרווחי זמן של שלוש או שש פעימות בין הכניסות, המסומנים בטבלה כמרווחי פעימות. עם זאת, פרסל משתמש לעיתים בחיקוי צפוף יותר, בתיבות 36, 41, 56, 63, 71, 133, 171, 178, 181 ו־182.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/16th-century-contrapuntal-style/">[1]</a> <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/high-baroque-fugal-exposition/">[2]</a> </small></p>
+<p dir="rtl" lang="he">שימו לב כמה פעמים מתחילים החיקויים באותו מקום בתיבה. הדבר תואם את הדיון במסורות החיקוי של המאות השש־עשרה והשמונה־עשרה. כניסה בפעימות מקבילות יוצרת מרווחי זמן של שלוש או שש פעימות בין הכניסות, המסומנים בטבלה כמרווחי פעימות. עם זאת, פרסל משתמש לעיתים בחיקוי צפוף יותר, בתיבות 36, 41, 56, 63, 71, 133, 171, 178, 181 ו־182.<small class="source-references"> הפניות: <a dir="ltr" href="omt-v2-031-16th-century-contrapuntal-style.md" title="פרק במהדורה העברית">[1]</a> <a dir="ltr" href="omt-v2-032-high-baroque-fugal-exposition.md" title="פרק במהדורה העברית">[2]</a> </small></p>
 <p dir="rtl" lang="he">כפי שמראה הפרטיטורה, היצירה עשירה מאוד בחיקוי: כמעט כל מחזור של הבס מלווה ביחס חיקוי חדש בין הקולות העליונים. החריגים מפורטים בטבלה השנייה במקור. שני המקרים המיוחדים והמעניינים ביותר הם אולי:</p>
 <ol>
 <li dir="rtl" lang="he">החיקוי הכפול המתחיל בתיבה 196, ומופיע בחילוף קולות בתיבה 201.</li>

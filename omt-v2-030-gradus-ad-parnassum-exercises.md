@@ -1,6 +1,6 @@
 ---
 layout: default
-title: תרגילי Gradus ad Parnassum
+title: תרגילי ⁦Gradus ad Parnassum⁩
 lang: he
 omt_edition: 2
 audio_eligible: false
@@ -10,8 +10,7 @@ translation_status: beta-text-reviewed
 
 <section class="standard post-913 chapter type-chapter status-publish hentry contributor-markgotham" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/gradus-ad-parnassum-exercises/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
 <div class="chapter-section-header">
-
-<p data-type="author">Mark Gotham</p>
+<p data-type="author" dir="ltr">Mark Gotham</p>
 </div>
 <p dir="rtl" lang="he">הפרקים הקודמים הציגו קונטרפונקט לסוגיו ואת החיבור הפדגוגי הידוע על הלחנה עם קנטוס פירמוס, Gradus ad Parnassum מאת יוהאן יוזף פוקס (1725). בעמוד זה מופיעים כל תרגילי הקנטוס פירמוס שבחיבור, כדי שתוכלו להתנסות בקונטרפונקט לסוגיו בנוסח פוקס.</p>
 <p dir="rtl" lang="he">Gradus ad Parnassum מחולק לשלושה חלקים:</p>
@@ -31,7 +30,7 @@ translation_status: beta-text-reviewed
 <ul>
 <li data-line-end="1" data-line-start="0" dir="rtl" lang="he">‎.mxl: אפשר לפתוח בכל תוכנת תיווי, כגון MuseScore, Sibelius או Finale.</li>
 <li data-line-end="1" data-line-start="0" dir="rtl" lang="he">‎.mscz: מיועד ל־MuseScore ושומר על כל העיצוב המקורי.</li>
-<li data-line-end="1" data-line-start="0">.pdf</li>
+<li data-line-end="1" data-line-start="0" dir="ltr">.pdf</li>
 </ul>
 <h2 class="section-header downloads" dir="rtl" id="chapter-913-section-1" lang="he"><a id="downloads"></a>צפייה מקוונת והורדה</h2>
 <p dir="rtl" lang="he">אפשר לצפות בקבצים ב־MuseScore.com, ובעלי חשבון יכולים להוריד אותם בכמה פורמטים:</p>
@@ -997,6 +996,6 @@ translation_status: beta-text-reviewed
 </table>
 <div class="textbox shaded">לקריאה נוספת</div>
 <ul>
-<li>Fux, Johann Joseph. (1725) 1965. <em>Gradus ad Parnassum. </em>Translated and edited by Alfred Mann. New York: W. W. Norton.</li>
+<li dir="ltr">Fux, Johann Joseph. (1725) 1965. <em>Gradus ad Parnassum. </em>Translated and edited by Alfred Mann. New York: W. W. Norton.</li>
 </ul>
 </section>
