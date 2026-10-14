@@ -1,8 +1,8 @@
 {
-  "status": "paused",
+  "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 24,
+  "new_segments": 1,
   "completed_chapters": 39,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -283,7 +283,7 @@
     {
       "chapter": 40,
       "title": "040 — אקורדים שניוניים",
-      "segments_ready": 4,
+      "segments_ready": 5,
       "segments_total": 8,
       "complete": false
     },
@@ -883,8 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 222,
-  "successes": 24,
-  "elapsed_seconds": 19800.0,
-  "reason": "5.5_hour_budget_reached"
+  "requests": 1,
+  "successes": 1,
+  "elapsed_seconds": 30.0
 }
