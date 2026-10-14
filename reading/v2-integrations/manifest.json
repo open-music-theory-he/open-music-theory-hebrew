@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "chapters": [
+    {
+      "target": "basicNotation.md",
+      "addition": "basicNotation.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "5ace222f1dbb7e066d072e46718f95c82ec74ec2313fece0fc2a3f834f61e037"
+    },
+    {
+      "target": "pitches.md",
+      "addition": "pitches.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "6889341cb8bc492421535708bf4c474b63060d0d495fdf7aca5b8b6e40560dc1"
+    },
+    {
+      "target": "meter.md",
+      "addition": "meter.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "14d92bc6aee220c4226db19cbdca374c134365dcc201fe37db8124ad1845b20b"
+    },
+    {
+      "target": "beams.md",
+      "addition": "beams.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "ddb75614ac407575754158791bf73f4817a0cbdf1fb5ed334ba409a830344609"
+    },
+    {
+      "target": "syncopation.md",
+      "addition": "syncopation.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "0eb93f6bc618aa31ff991c91239a2afbd1af06b9dc0921016cd2da38ad21332e"
+    }
+  ]
+}
