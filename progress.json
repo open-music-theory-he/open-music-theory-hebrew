@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 34,
-  "completed_chapters": 47,
+  "completed_chapters": 48,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -341,7 +341,7 @@
       "title": "048 — צורה תלת־חלקית קטנה",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 49,
@@ -885,5 +885,5 @@
   ],
   "requests": 91,
   "successes": 34,
-  "elapsed_seconds": 4816.59
+  "elapsed_seconds": 4820.82
 }
