@@ -7,6 +7,7 @@ import markdown, yaml
 from bs4 import BeautifulSoup
 from pypdf import PdfReader, PdfWriter
 from weasyprint import HTML, default_url_fetcher
+from reader_integrations import integrated_body, is_integration
 
 ROOT = Path(__file__).resolve().parents[1]
 IMAGES = {'.png', '.jpg', '.jpeg', '.svg', '.gif', '.webp'}
@@ -56,7 +57,7 @@ def key(p):
 def ordered_documents(files):
     policy=json.loads((ROOT/'scripts/reader-export-policy.json').read_text())
     excluded=set(policy['excluded_documents'])|{'trinket.md'}
-    docs = {p for p in files if p.suffix.lower() == '.md' and p.relative_to(ROOT).as_posix() not in excluded}
+    docs = {p for p in files if p.suffix.lower() == '.md' and p.relative_to(ROOT).as_posix() not in excluded and not is_integration(p, ROOT)}
     first = [ROOT/'hebrew-introduction.md', ROOT/'fixed-and-movable-do.md', ROOT/'contents.md']
     toc = (ROOT/'contents.md').read_text()
     # Parse Markdown, including paths such as pitch(Class).html.
@@ -103,6 +104,7 @@ def main():
     if len(set(aliases.values()))!=len(aliases): raise RuntimeError('Duplicate Hebrew filenames')
     for p in documents:
         meta, body = metadata(p)
+        body = integrated_body(ROOT, p, body)
         if p.relative_to(ROOT).as_posix()=='docs/translation-policy-and-glossary.md':
             notation=body.split('## 2. תווים, סימנים וסולפז׳',1)[1].split('## 3.',1)[0]
             glossary=body.split('## 5. מילון מונחים — הצעת עריכה',1)[1].split('## 6.',1)[0]
