@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 3,
-  "completed_chapters": 51,
+  "completed_chapters": 52,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -369,7 +369,7 @@
       "title": "052 — הרחבות חיצוניות",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 53,
@@ -885,5 +885,5 @@
   ],
   "requests": 4,
   "successes": 3,
-  "elapsed_seconds": 84.87
+  "elapsed_seconds": 87.74
 }
