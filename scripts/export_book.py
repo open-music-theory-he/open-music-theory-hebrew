@@ -17,7 +17,7 @@ CSS = '''
 body { font-family: "Noto Sans Hebrew", "DejaVu Sans", sans-serif; font-size: 10.5pt; line-height: 1.55; color: #162536; }
 h1 { font-size: 23pt; color: #153e64; } h2 { font-size: 17pt; } h3 { font-size: 13pt; }
 h1,h2,h3,h4 { break-after: avoid; } a { color: #235f90; overflow-wrap: anywhere; }
-section.chapter, section.asset { break-before: page; } img { max-width: 100%; height: auto; max-height: 235mm; object-fit: contain; }
+body > section.chapter, section.asset { break-before: page; } img { max-width: 100%; height: auto; max-height: 235mm; object-fit: contain; }
 .conducting-pattern img { width: 240px; }
 table { border-collapse: collapse; width: 100%; font-size: 9pt; margin: 8pt 0; }
 th,td { border: .5pt solid #bcc9d5; padding: 4pt; vertical-align: top; } th { background: #edf3f8; }
