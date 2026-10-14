@@ -1,5 +1,5 @@
 {
-  "status": "running",
+  "status": "paused",
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 24,
@@ -883,7 +883,8 @@
       "complete": false
     }
   ],
-  "requests": 201,
+  "requests": 222,
   "successes": 24,
-  "elapsed_seconds": 18773.77
+  "elapsed_seconds": 19800.0,
+  "reason": "5.5_hour_budget_reached"
 }
