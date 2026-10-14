@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 9,
-  "completed_chapters": 56,
+  "completed_chapters": 57,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -404,7 +404,7 @@
       "title": "057 — צורת סונטה — יחידות נושאיות",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 58,
@@ -885,5 +885,5 @@
   ],
   "requests": 53,
   "successes": 9,
-  "elapsed_seconds": 6477.95
+  "elapsed_seconds": 6483.28
 }
