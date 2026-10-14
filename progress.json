@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 6,
-  "completed_chapters": 35,
+  "completed_chapters": 36,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -257,7 +257,7 @@
       "title": "036 — תחביר הרמוני — הארכה",
       "segments_ready": 7,
       "segments_total": 7,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 37,
@@ -885,5 +885,5 @@
   ],
   "requests": 8,
   "successes": 6,
-  "elapsed_seconds": 182.92
+  "elapsed_seconds": 189.92
 }
