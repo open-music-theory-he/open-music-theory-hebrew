@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 19,
+  "new_segments": 20,
   "completed_chapters": 38,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -276,7 +276,7 @@
     {
       "chapter": 39,
       "title": "039 — אקורדי סובדומיננטה משתנים כרומטית",
-      "segments_ready": 5,
+      "segments_ready": 6,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 148,
-  "successes": 19,
-  "elapsed_seconds": 15899.09
+  "requests": 151,
+  "successes": 20,
+  "elapsed_seconds": 15915.47
 }
