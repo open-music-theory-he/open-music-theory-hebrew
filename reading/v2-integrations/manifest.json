@@ -30,6 +30,12 @@
       "addition": "syncopation.md",
       "review_status": "beta-text-reviewed",
       "base_sha256": "0eb93f6bc618aa31ff991c91239a2afbd1af06b9dc0921016cd2da38ad21332e"
+    },
+    {
+      "target": "intervals.md",
+      "addition": "intervals.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "7447b5b2314771f9d92a71ea027cbd90f670f9b88d09be03a7383ed7e88e7876"
     }
   ]
 }
