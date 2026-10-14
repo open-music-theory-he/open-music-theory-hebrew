@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 14,
-  "completed_chapters": 37,
+  "completed_chapters": 38,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -271,7 +271,7 @@
       "title": "038 — סוגי קדנצות קלאסיות",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 39,
@@ -885,5 +885,5 @@
   ],
   "requests": 73,
   "successes": 14,
-  "elapsed_seconds": 6924.34
+  "elapsed_seconds": 6931.68
 }
