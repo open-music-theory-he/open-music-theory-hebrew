@@ -1,0 +1,94 @@
+---
+layout: default
+title: החלפות אקורדים בג׳אז
+lang: he
+omt_edition: 2
+audio_eligible: false
+source_url: https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/
+translation_status: beta-text-reviewed
+---
+
+<section class="standard post-2633 chapter type-chapter status-publish hentry contributor-meganlavengood" data-type="chapter" dir="rtl" lang="he"><p class="edition-attribution">תרגום לעברית בסיוע בינה מלאכותית מתוך Open Music Theory, גרסה 2. המלל ברישיון CC BY-SA 4.0; הקרדיטים הפרטניים לנכסים נשמרים. לפרק זה טרם הופקה קריינות.<a href="https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/"> פרק המקור</a><a href="https://creativecommons.org/licenses/by-sa/4.0/"> הרישיון</a></p>
+<div class="chapter-section-header">
+<p data-type="author" dir="ltr">Megan Lavengood</p>
+</div>
+<div class="textbox textbox--key-takeaways">
+<div class="textbox__header chapter-section-header">
+<p class="textbox__title" dir="rtl" lang="he">עיקרי הדברים</p>
+</div>
+<div class="textbox__content">
+<p dir="rtl" lang="he">הפרק עוסק בדרכים לשנות מהלכי אקורדים באמצעות החלפת אקורד באחר.</p>
+<ul>
+<li dir="rtl" lang="he">במהלך ששורשיו נעים בקווינטה אפשר להחליף את האקורד הראשון באקורד דומיננטי בעל אותו שורש. כך הוא הופך לאקורד שניוני של האקורד הבא.</li>
+<li><span dir="rtl" lang="he">שאילה מודאלית היא שימוש, ביצירה במז׳ור, באקורדים השאולים מן המינור המקביל, או להפך, אף שהכיוון ההפוך נפוץ פחות.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/modal-mixture/" title="פרק המקור באנגלית; טרם קיימת כאן הפניה מאומתת לתרגום מלא">[1]</a> </small></span><ul>
+<li dir="rtl" lang="he">בג׳אז, החלפות נפוצות באמצעות שאילה מודאלית הן החלפת <bdi dir="ltr">ii⁷</bdi> ב־<bdi dir="ltr">iiø⁷</bdi> והוספת ♭<bdi dir="ltr">9</bdi> ל־<bdi dir="ltr">V⁷</bdi>.</li>
+<li dir="rtl" lang="he">אקורדי שאילה נפוצים, ובהם <bdi dir="ltr">iiø⁷</bdi> ו־<bdi dir="ltr">V⁷♭9</bdi>, מחליפים <bdi dir="ltr">la</bdi> ב־<bdi dir="ltr">le</bdi>, כלומר דרגה <bdi dir="ltr">6</bdi> טבעית בדרגה <bdi dir="ltr">♭6</bdi>.</li>
+</ul></li>
+<li dir="rtl" lang="he">החלפת טריטון מחליפה אקורד דומיננטי באקורד דומיננטי אחר ששורשו במרחק טריטון. השם מתייחס הן למרווח בין השורשים והן לטריטון המשותף לשני האקורדים.</li>
+</ul>
+</div>
+</div>
+<p dir="rtl" lang="he">פרשנויות חדשות למנגינות מוכרות הן מאבני היסוד של הג׳אז, ולכן החלפות אקורדים חשובות בו מאוד. הן מאפשרות למבצעים ולמעבדים להעניק אופי חדש למהלכים מוכרים. הפרק משתמש במהלך החזרה כבסיס לשינויים, אך אפשר ליישם אותם בכל מקום במהלך הרמוני.</p>
+<h2 class="section-header" dir="rtl" id="chapter-2633-section-1" lang="he"><a id="applied-chords-as-substitutions"></a>אקורדים שניוניים כתחליפים</h2>
+<p dir="rtl" lang="he">כפי שנדון בפרק הטוניקיזציה, מועיל לקשור אקורד שניוני לאקורד הדיאטוני בעל אותו שורש.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/openmusictheory/chapter/tonicization/" title="פרק המקור באנגלית; טרם קיימת כאן הפניה מאומתת לתרגום מלא">[1]</a> </small></p>
+<p dir="rtl" lang="he">תנועת שורשים בקווינטות נפוצה מאוד בג׳אז, ולכן למבצעים יש הזדמנויות רבות להחליף את האקורד הראשון בזוג כזה בספטאקורד דומיננטי בעל אותו שורש. הדבר נפוץ במיוחד במהלך החזרה: כל אקורד קשור לבא אחריו בקווינטה, ולכן שרשרת של <bdi dir="ltr">V⁷</bdi> שניוניים היא גרסה מקובלת; ראו דוגמה <bdi dir="ltr">1</bdi>.</p>
+<p> </p>
+<p dir="rtl" lang="he" style="text-align: center">דוגמה <bdi dir="ltr">1</bdi>. בתנועת שורשים בקווינטה, שינוי איכות האקורד הראשון לספטאקורד דומיננטי הופך אותו ל־<bdi dir="ltr">V⁷</bdi> שניוני.<iframe frameborder="0" height="450" loading="lazy" src="https://musescore.com/user/32728834/scores/5719601/embed" title="דוגמת האזנה או צפייה מן המקור" width="100%"></iframe><p class="media-availability">אם הנגן או הדוגמה אינם זמינים, אפשר להשתמש בקישור למקור. זמינות המדיה תלויה בשירות החיצוני ולא אושרה בבדיקת ניגון.<a href="https://musescore.com/user/32728834/scores/5719601/embed"> פתיחת המדיה</a></p></p>
+<h2 class="section-header" dir="rtl" id="chapter-2633-section-2" lang="he"><a id="mode-mixture"></a>שאילה מודאלית</h2>
+<p dir="rtl" lang="he">ב־״<bdi dir="ltr">All of You</bdi>״ של <bdi dir="ltr">Cole Porter</bdi> השאילה המודאלית מובנית ביצירה. האזינו להקלטת <bdi dir="ltr">Ella Fitzgerald</bdi>, המתועתקת בדוגמה <bdi dir="ltr">2</bdi> ב־<bdi dir="ltr">C</bdi> מז׳ור, ושימו לב לחילוף בין <bdi dir="ltr">A♮</bdi>, כלומר <bdi dir="ltr">la</bdi> או דרגה <bdi dir="ltr">6</bdi>, לבין <bdi dir="ltr">A♭</bdi>, כלומר <bdi dir="ltr">le</bdi> או דרגה <bdi dir="ltr">♭6</bdi>. החילוף מושך את האוזן ומעניק לשיר אופי סנטימנטלי. <bdi dir="ltr">A♭</bdi> מתפרש כשאול מן המינור המקביל, <bdi dir="ltr">C</bdi> מינור; זהו נוהג השאילה המודאלית.<small class="source-references"> הפניות: <a dir="ltr" href="https://open.spotify.com/track/2Vx3uCREbdahLc37GRXe77?si=-P1U14AuTKy04rhw9-Jkdw">[1]</a> </small></p>
+<p style="text-align: center"><iframe frameborder="0" height="450" loading="lazy" src="https://musescore.com/user/32728834/scores/5719610/embed" title="דוגמת האזנה או צפייה מן המקור" width="100%"></iframe><p class="media-availability">אם הנגן או הדוגמה אינם זמינים, אפשר להשתמש בקישור למקור. זמינות המדיה תלויה בשירות החיצוני ולא אושרה בבדיקת ניגון.<a href="https://musescore.com/user/32728834/scores/5719610/embed"> פתיחת המדיה</a></p></p>
+<p dir="rtl" lang="he" style="text-align: center">דוגמה <bdi dir="ltr">2</bdi>. ״<bdi dir="ltr">All of You</bdi>״ משתמש ב־<bdi dir="ltr">iv</bdi> מינורי, <bdi dir="ltr">Fmi</bdi>, וב־<bdi dir="ltr">ii</bdi> חצי־מוקטן, <bdi dir="ltr">Dø⁷</bdi>, אף שהטוניקה מז׳ורית.</p>
+<p dir="rtl" lang="he">בשירים רבים, כמו ״<bdi dir="ltr">All of You</bdi>״, השאילה מובנית במהלך האקורדים. אך אקורדי שאילה יכולים לשמש גם כהחלפות מאולתרות: מחליפים אקורד דיאטוני בגרסתו מן המינור כדי לשנות את צבעו בלי לשנות את תפקידו הכולל. החלפה כזאת מתאימה במיוחד כשהדרגה המשתנה היא <bdi dir="ltr">la</bdi>, דרגה <bdi dir="ltr">6</bdi>, ההופכת ל־<bdi dir="ltr">le</bdi>, דרגה <bdi dir="ltr">♭6</bdi>. במהלך החזרה בדוגמה <bdi dir="ltr">3</bdi> אפשר לשלב <bdi dir="ltr">le</bdi> במקום הגרסה הדיאטונית כדי ליצור הרמוניות צבעוניות יותר. החלפת <bdi dir="ltr">ii⁷</bdi> ב־<bdi dir="ltr">iiø⁷</bdi> ו־<bdi dir="ltr">G⁷</bdi> ב־<bdi dir="ltr">G⁷♭9</bdi> הן שימושים נפוצים במיוחד בשאילה מודאלית בג׳אז.</p>
+<p style="text-align: center"><iframe frameborder="0" height="394" loading="lazy" src="https://musescore.com/user/32728834/scores/5721622/embed" title="דוגמת האזנה או צפייה מן המקור" width="100%"></iframe><p class="media-availability">אם הנגן או הדוגמה אינם זמינים, אפשר להשתמש בקישור למקור. זמינות המדיה תלויה בשירות החיצוני ולא אושרה בבדיקת ניגון.<a href="https://musescore.com/user/32728834/scores/5721622/embed"> פתיחת המדיה</a></p></p>
+<p dir="rtl" lang="he" style="text-align: center">דוגמה <bdi dir="ltr">3</bdi>. אקורדי שאילה יעילים במיוחד כשהם כוללים <bdi dir="ltr">♭6</bdi>. לגרסה הדיאטונית ולגרסה השאולה של אותו אקורד יש אותו תפקיד.</p>
+<h2 class="section-header" dir="rtl" id="chapter-2633-section-3" lang="he"><a id="tritone-substitutions"></a>החלפות טריטון</h2>
+<figure aria-describedby="caption-attachment-3025" class="wp-caption alignright" id="attachment_3025"><a href="/Graphics/omt-v2/083-01-23a4ff0bbb.jpg"><img alt="דוגמה 4 . מיפוי האוסף הכרומטי בן שנים־עשר הצלילים במעגל ממחיש את הסימטריה של הטריטון." class="wp-image-3025 size-thumbnail" height="150" src="/Graphics/omt-v2/083-01-23a4ff0bbb.jpg" style="max-width:100%;height:auto" width="150"/></a><figcaption class="wp-caption-text" dir="rtl" id="caption-attachment-3025" lang="he">דוגמה <bdi dir="ltr">4</bdi>. מיפוי האוסף הכרומטי בן שנים־עשר הצלילים במעגל ממחיש את הסימטריה של הטריטון.</figcaption></figure>
+<p dir="rtl" lang="he">דרכי ההחלפה הקודמות נפוצות גם בפופ ובמוזיקה קלאסית. המקור מתאר את החלפת הטריטון, <bdi dir="ltr">tritone sub</bdi>, כייחודית לג׳אז. היא מחליפה אקורדי <bdi dir="ltr">V⁷</bdi> דיאטוניים או שניוניים. הטריטון ממלא שני תפקידים חשובים בהחלפה:</p>
+<ol>
+<li dir="rtl" lang="he">שורש האקורד החלופי נמצא במרחק טריטון משורש האקורד המוחלף.</li>
+<li dir="rtl" lang="he">האקורדים קשורים מפני שהם חולקים אותו טריטון.</li>
+</ol>
+<p dir="rtl" lang="he">דוגמה <bdi dir="ltr">4</bdi> ממחישה זאת: הטריטון מחלק את אוסף שנים־עשר הצלילים לשניים באופן שווה, ולכן העתקה בטריטון ממפה אותו אל עצמו.</p>
+<p dir="rtl" lang="he">מבחינה מעשית אפשר להחליף ספטאקורד דומיננטי בספטאקורד דומיננטי ששורשו במרחק טריטון, והמהלך עדיין מתפקד באותו אופן. עם זאת, לא כדאי להחליף כך כל <bdi dir="ltr">V7</bdi>: הדבר נשמע מתאים במיוחד כשהוא נפתר ל־<bdi dir="ltr">I</bdi> ולא מתקדם לאקורד אחר. החלפת טריטון ב־<bdi dir="ltr">V7–I</bdi> יוצרת קו בס כרומטי המקשר לאקורדים הסמוכים. הדרך הבטוחה ביותר לזהותה בשיר היא הפתרון הכרומטי כלפי מטה בסקונדה קטנה.</p>
+<p dir="rtl" lang="he">דוגמה <bdi dir="ltr">5</bdi> מציגה שימושים נפוצים בהחלפות טריטון במהלך החזרה.</p>
+<ul>
+<li dir="rtl" lang="he">כפי שנדון לעיל, נהוג להחליף אקורדים דיאטוניים באקורדים שניוניים בעלי אותו שורש, וכך ליצור מהלך שכולו אקורדי <bdi dir="ltr">V⁷</bdi>. הדבר מוצג בהרמוניזציה הימנית בשורה העליונה.<small class="source-references"> הפניות: <a dir="ltr" href="#applied-chords-as-substitutions">[1]</a> </small></li>
+<li dir="rtl" lang="he">לאחר מכן אפשר להשתמש בהחלפת טריטון לכל אחד מאקורדי <bdi dir="ltr">V⁷</bdi>.</li>
+<li dir="rtl" lang="he">לרוב מחליפים כל אקורד שני, וכך יוצרים קו בס כרומטי והולכת קולות חלקה, כמו בשורת ההרמוניזציות התחתונה.</li>
+</ul>
+<p dir="rtl" lang="he" style="text-align: center">דוגמה <bdi dir="ltr">5</bdi>. החלפות טריטון יכולות להחליף כל דומיננטה שניונית. במהלכי קווינטות כגון מהלך החזרה אפשר לחשוב תחילה על החלפת האקורדים בגרסאות שניוניות, ואז להחליפם בטריטון כדי ליצור קו בס כרומטי.</p>
+<figure aria-describedby="caption-attachment-3039" class="wp-caption alignright" id="attachment_3039"><a href="/Graphics/omt-v2/083-02-2cb841dfa0.png"><img alt="דוגמה 6 . מרחב החלפות הטריטון מקביל למרחב הדיאטוני." class="size-thumbnail wp-image-3039" height="150" src="/Graphics/omt-v2/083-02-2cb841dfa0.png" style="max-width:100%;height:auto" width="150"/></a><figcaption class="wp-caption-text" dir="rtl" id="caption-attachment-3039" lang="he">דוגמה <bdi dir="ltr">6</bdi>. מרחב החלפות הטריטון מקביל למרחב הדיאטוני.</figcaption></figure>
+<p dir="rtl" lang="he">הפרק על <bdi dir="ltr">ii–V–I</bdi> הציג את הסכמה במרחב הולכת קולות של <bdi dir="ltr">Michael McClimon</bdi> ‏(<bdi dir="ltr">2017</bdi>). הוא מציג גם את החלפות הטריטון כמעין מרחב צל מאחורי מרחב <bdi dir="ltr">ii–V</bdi> הרגיל; ראו דוגמה <bdi dir="ltr">6</bdi>. בקישור אפשר לצפות בהנפשה של ״<bdi dir="ltr">Blues for Alice</bdi>״ ובתנועתה במרחב עם החלפות טריטון. שימו לב שלפני <bdi dir="ltr">V⁷</bdi> החלופי מופיע <bdi dir="ltr">ii⁷</bdi> שלו; שניהם במרחב הירוק הממוקם מאחורי מרחב <bdi dir="ltr">ii–V</bdi> שבחזית.<small class="source-references"> הפניות: <a dir="ltr" href="omt-v2-081-ii-v-i.md" title="פרק במהדורה העברית">[1]</a> <a dir="ltr" href="http://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html">[2]</a> <a dir="ltr" href="http://mtosmt.org/issues/mto.17.23.1/mcclimon_examples.php?id=18&amp;nonav=true">[3]</a> </small></p>
+<h2 class="section-header" dir="rtl" id="chapter-2633-section-4" lang="he"><a id="substitutions-in-a-lead-sheet"></a>החלפות אקורדים בדף מנגינה</h2>
+<p dir="rtl" lang="he">כמו אקורדי קישוט, גם החלפות אינן מיוצגות תמיד באותה דרך בדף מנגינה.<small class="source-references"> הפניות: <a dir="ltr" href="omt-v2-082-jazz-embellishing-chords.md#embellishing-chords-in-a-lead-sheet" title="פרק במהדורה העברית">[1]</a> </small></p>
+<ul>
+<li dir="rtl" lang="he">ייתכן שההחלפה אינה כתובה כלל, והמבצעים מאלתרים אותה בנגינה.</li>
+<li dir="rtl" lang="he">ייתכן שההחלפה מובנית במהלך ומופיעה בסימוני האקורדים.</li>
+<li dir="rtl" lang="he">ייתכן שההחלפה מסומנת כהרמוניזציה חלופית באמצעות סוגריים סביב האקורד החלופי.</li>
+</ul>
+<p dir="rtl" lang="he">דוגמה <bdi dir="ltr">7</bdi> מציגה דרכים שונות לכתיבת <bdi dir="ltr">iiø⁷</bdi> משאילה מודאלית ב־״<bdi dir="ltr">Satin Doll</bdi>״ של <bdi dir="ltr">Duke Ellington</bdi>.</p>
+<figure aria-describedby="caption-attachment-12962" class="wp-caption aligncenter" id="attachment_12962"><a href="/Graphics/omt-v2/083-03-24bd862cdd.png"><img alt="דוגמה 7 . החלפות יכולות להיות: א. מאולתרות ולא כתובות כלל; ב. כתובות ישירות בסימוני האקורדים; ג. כתובות בסוגריים כדי לציין שהן אפשריות לבחירה." class="wp-image-12962 size-large" height="651" src="/Graphics/omt-v2/083-03-24bd862cdd.png" style="max-width:100%;height:auto" width="1024"/></a><figcaption class="wp-caption-text" dir="rtl" id="caption-attachment-12962" lang="he">דוגמה <bdi dir="ltr">7</bdi>. החלפות יכולות להיות: א. מאולתרות ולא כתובות כלל; ב. כתובות ישירות בסימוני האקורדים; ג. כתובות בסוגריים כדי לציין שהן אפשריות לבחירה.</figcaption></figure>
+<p> </p>
+<div class="textbox shaded"><a id="further-reading"></a>לקריאה נוספת</div>
+<div>
+<ul>
+<li dir="ltr">Levine, Mark. 1995. <em>The Jazz Theory Book</em>. Petaluma, CA: Sher Music.</li>
+<li dir="ltr">McClimon, Michael. 2017. “Transformations in Tonal Jazz: ii–V Space.” <em>Music Theory Online</em> 23 (1). <a href="http://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html">http://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html</a>.</li>
+</ul>
+</div>
+<div class="textbox shaded"><a id="assignments"></a>מטלות</div>
+<ol>
+<li><span dir="rtl" lang="he">הלחנת ביבופ: שימוש בידע על מקצבי סווינג, <bdi dir="ltr">ii–V–I</bdi>, אקורדי קישוט והחלפות אקורדים ליצירת יצירה בסגנון ביבופ.<small class="source-references"> הפניות: <a dir="ltr" href="omt-v2-078-swing-rhythms.md" title="פרק במהדורה העברית">[1]</a> <a dir="ltr" href="omt-v2-081-ii-v-i.md" title="פרק במהדורה העברית">[2]</a> <a dir="ltr" href="omt-v2-082-jazz-embellishing-chords.md" title="פרק במהדורה העברית">[3]</a> </small></span><ul>
+<li dir="rtl" lang="he">.<bdi dir="ltr">pdf</bdi>: הוראות מלאות ותבנית.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.pdf">[1]</a> </small></li>
+<li dir="rtl" lang="he">.<bdi dir="ltr">mscz</bdi>: תבנית לדף מנגינה ותבנית לפריסות אקורדים.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.mscz">[1]</a> <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop-part-2.mscz">[2]</a> </small></li>
+<li dir="rtl" lang="he">.<bdi dir="ltr">docx</bdi>: הוראות בלבד.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-bebop.docx">[1]</a> </small></li>
+</ul></li>
+<li><span dir="rtl" lang="he">הלחנת ביבופ, אפשרות שמע: שימוש בידע על מקצבי סווינג, <bdi dir="ltr">ii–V–I</bdi>, אקורדי קישוט והחלפות אקורדים ליצירת יצירה בסגנון ביבופ.<small class="source-references"> הפניות: <a dir="ltr" href="omt-v2-078-swing-rhythms.md" title="פרק במהדורה העברית">[1]</a> <a dir="ltr" href="omt-v2-081-ii-v-i.md" title="פרק במהדורה העברית">[2]</a> <a dir="ltr" href="omt-v2-082-jazz-embellishing-chords.md" title="פרק במהדורה העברית">[3]</a> </small></span><ul>
+<li dir="rtl" lang="he">.<bdi dir="ltr">pdf</bdi>: הוראות מלאות ותבנית.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2025/02/COMP-bebop-audio-option.pdf">[1]</a> </small></li>
+<li dir="rtl" lang="he">.<bdi dir="ltr">mscz</bdi>: תבנית לדף אקורדים.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2025/02/COMP-bebop-part-2-audio-option.mscz">[1]</a> </small></li>
+<li dir="rtl" lang="he">.<bdi dir="ltr">docx</bdi>: הוראות בלבד.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2025/02/COMP-bebop-audio-option.docx">[1]</a> </small></li>
+</ul></li>
+<li dir="rtl" lang="he">החלפות אקורדים (.<bdi dir="ltr">pdf</bdi>, .<bdi dir="ltr">mscz</bdi>). החלפת אקורדים במהלכי <bdi dir="ltr">ii–V–I</bdi> ובפראזה מן השיר ״<bdi dir="ltr">Let’s Do It</bdi>״ של <bdi dir="ltr">Cole Porter</bdi>. קישור לרשימת האזנה של דף העבודה.<small class="source-references"> הפניות: <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2024/01/substitutions.pdf">[1]</a> <a dir="ltr" href="https://viva.pressbooks.pub/app/uploads/sites/12/2024/01/substitutions.mscz">[2]</a> <a dir="ltr" href="https://open.spotify.com/playlist/18agWVDue3Rii0KPuTzfnX?si=OkVtAHQTTL-SCL96AfFpig&amp;pi=u-Tyl1asK6TVuv">[3]</a> </small></li>
+</ol>
+<div class="media-attributions clear" prefix:cc="http://creativecommons.org/ns#" prefix:dc="http://purl.org/dc/terms/"><h2 dir="rtl" lang="he">קרדיטים למדיה</h2><ul><li dir="rtl" lang="he">המחשה באמצעות לוח שעון © <bdi dir="ltr">Megan Lavengood</bdi>, ברישיון <bdi dir="ltr">CC BY-SA</bdi>, ייחוס ושיתוף זהה.<small class="source-references"> הפניות: <a dir="ltr" href="https://creativecommons.org/licenses/by-sa/4.0/">[1]</a> </small></li><li dir="rtl" lang="he">איור <bdi dir="ltr">10</bdi> של <bdi dir="ltr">McClimon</bdi> © <bdi dir="ltr">Michael McClimon</bdi>, ברישיון <bdi dir="ltr">CC BY-SA</bdi>, ייחוס ושיתוף זהה.<small class="source-references"> הפניות: <a dir="ltr" href="http://mtosmt.org/issues/mto.17.23.1/mto.17.23.1.mcclimon.html">[1]</a> <a dir="ltr" href="https://creativecommons.org/licenses/by-sa/4.0/">[2]</a> </small></li><li dir="rtl" lang="he">סוגריים © <bdi dir="ltr">Megan Lavengood</bdi>, ברישיון <bdi dir="ltr">CC BY-NC-SA</bdi>: ייחוס, שימוש לא מסחרי ושיתוף זהה. רישיון זה חל על הנכס המסוים, בנפרד מרישיון מלל הפרק.<small class="source-references"> הפניות: <a dir="ltr" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">[1]</a> </small></li></ul></div><section class="translated-glossary" dir="rtl" lang="he"><h2>הגדרות המונחים בפרק</h2><details id="term_2633_1870"><summary dir="rtl">החלפת אקורד (chord substitution)</summary><p>החלפת אקורד רגיל, למשל בתוך סכמה הרמונית, באקורד אחר. לרוב לאקורד החלופי אותו תפקיד הרמוני, ולעיתים קרובות הוא חולק לפחות שני צלילים עם האקורד המקורי.</p></details><details id="term_2633_11224"><summary dir="rtl">טריטון (tritone)</summary><p>קוורטה מוגדלת או קווינטה מוקטנת. השם מציין שהצלילים מרוחקים בשלושה טונים שלמים.</p></details><details id="term_2633_974"><summary dir="rtl">מהלך חזרה (turnaround)</summary><p>שימוש באקורד שאינו טוניקה, בדרך כלל דומיננטה, בסוף יחידה סגורה הרמונית, כדי לעבור לתחילת היחידה הבאה המתחילה בטוניקה. בג׳אז המונח turnaround מציין לעיתים קרובות vi–ii–V–I. איכויות האקורדים משתנות מאוד, ולעיתים אחד או יותר מוחלפים באקורד אחר הקשור אליהם.</p></details><details id="term_2633_1883"><summary dir="rtl">תנועת שורשים (root motion)</summary><p>המרחק בין שורשי אקורדים סמוכים. למשל, תנועת שורשים בצעד מתארת אקורדים ששורשיהם במרחק צעד אחד, כגון I ו־ii או IV ו־V. השורש אינו תמיד בבס, ולכן זהו מושג נפרד מתנועת הבס.</p></details><details id="term_2633_2992"><summary dir="rtl">שאילה מודאלית (mode mixture)</summary><p>שילוב הגרסאות המז׳וריות והמינוריות של דרגות 3, 6 או 7 בתוך יצירה.</p></details></section>
+</section>
