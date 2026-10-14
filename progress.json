@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 17,
-  "completed_chapters": 53,
+  "completed_chapters": 54,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -383,7 +383,7 @@
       "title": "054 — מבוא לתאוריית הסונטה",
       "segments_ready": 8,
       "segments_total": 8,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 55,
@@ -885,5 +885,5 @@
   ],
   "requests": 141,
   "successes": 17,
-  "elapsed_seconds": 11157.73
+  "elapsed_seconds": 11162.99
 }
