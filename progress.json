@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 4,
+  "new_segments": 5,
   "completed_chapters": 40,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -290,7 +290,7 @@
     {
       "chapter": 41,
       "title": "041 — עירוב מודאלי",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 6,
-  "successes": 4,
-  "elapsed_seconds": 116.43
+  "requests": 14,
+  "successes": 5,
+  "elapsed_seconds": 179.31
 }
