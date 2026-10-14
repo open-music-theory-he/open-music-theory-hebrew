@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 9,
-  "completed_chapters": 36,
+  "completed_chapters": 37,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -264,7 +264,7 @@
       "title": "037 — ביצוע ניתוח הרמוני",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 38,
@@ -885,5 +885,5 @@
   ],
   "requests": 17,
   "successes": 9,
-  "elapsed_seconds": 290.01
+  "elapsed_seconds": 293.9
 }
