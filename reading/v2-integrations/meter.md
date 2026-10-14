@@ -8,11 +8,11 @@
 
 שלוש התבניות הנפוצות ביותר מתוות משקל דו־פעימתי, תלת־פעימתי וארבע־פעימתי. במשקל דו־פעימתי מנצחים בתנועה כלפי מטה והחוצה בפעימה 1, ולאחריה תנועה כלפי מעלה בפעימה 2. במשקל תלת־פעימתי מנצחים מטה בפעימה 1, החוצה בפעימה 2 ומעלה בפעימה 3. במשקל ארבע־פעימתי מנצחים מטה בפעימה 1, פנימה בפעימה 2, החוצה בפעימה 3 ומעלה בפעימה 4.
 
-<figure><img src="Graphics/omt-v2-integrations/010-example-05.png" width="240" alt="דוגמה 5 מן המקור על משקל פשוט: תבנית ניצוח דו־פעימתית"><figcaption>דוגמה 5 מן המקור על משקל פשוט: תבנית ניצוח דו־פעימתית</figcaption></figure>
+<figure class="conducting-pattern"><img src="Graphics/omt-v2-integrations/010-example-05.png" width="240" alt="דוגמה 5 מן המקור על משקל פשוט: תבנית ניצוח דו־פעימתית"><figcaption>דוגמה 5 מן המקור על משקל פשוט: תבנית ניצוח דו־פעימתית</figcaption></figure>
 
-<figure><img src="Graphics/omt-v2-integrations/010-example-06.png" width="240" alt="דוגמה 6 מן המקור על משקל פשוט: תבנית ניצוח תלת־פעימתית"><figcaption>דוגמה 6 מן המקור על משקל פשוט: תבנית ניצוח תלת־פעימתית</figcaption></figure>
+<figure class="conducting-pattern"><img src="Graphics/omt-v2-integrations/010-example-06.png" width="240" alt="דוגמה 6 מן המקור על משקל פשוט: תבנית ניצוח תלת־פעימתית"><figcaption>דוגמה 6 מן המקור על משקל פשוט: תבנית ניצוח תלת־פעימתית</figcaption></figure>
 
-<figure><img src="Graphics/omt-v2-integrations/010-example-07.png" width="240" alt="דוגמה 7 מן המקור על משקל פשוט: תבנית ניצוח ארבע־פעימתית"><figcaption>דוגמה 7 מן המקור על משקל פשוט: תבנית ניצוח ארבע־פעימתית</figcaption></figure>
+<figure class="conducting-pattern"><img src="Graphics/omt-v2-integrations/010-example-07.png" width="240" alt="דוגמה 7 מן המקור על משקל פשוט: תבנית ניצוח ארבע־פעימתית"><figcaption>דוגמה 7 מן המקור על משקל פשוט: תבנית ניצוח ארבע־פעימתית</figcaption></figure>
 
 הפעימה הראשונה בכל תיבה היא *הפעימה הראשונה המוטעמת (downbeat)*. מנצחים עליה בתנועה כלפי מטה; אפשר לשמוע ולהרגיש בה יותר ״משקל״ או ״כובד״ מבפעימות האחרות. *הפעימה העולה (upbeat)* היא הפעימה האחרונה בתיבה. מנצחים עליה בתנועה כלפי מעלה, ואפשר לשמוע ולהרגיש שיש בה ציפייה לקראת מה שיבוא.
 
