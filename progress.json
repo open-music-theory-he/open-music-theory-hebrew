@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 27,
-  "completed_chapters": 45,
+  "completed_chapters": 46,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -327,7 +327,7 @@
       "title": "046 — פריודה מורכבת",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 47,
@@ -885,5 +885,5 @@
   ],
   "requests": 83,
   "successes": 27,
-  "elapsed_seconds": 4631.98
+  "elapsed_seconds": 4636.2
 }
