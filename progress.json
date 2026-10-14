@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 40,
-  "completed_chapters": 49,
+  "completed_chapters": 50,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -355,7 +355,7 @@
       "title": "050 — טיפוסי נושא קלאסיים — דף עזר",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 51,
@@ -885,5 +885,5 @@
   ],
   "requests": 101,
   "successes": 40,
-  "elapsed_seconds": 4987.25
+  "elapsed_seconds": 4991.14
 }
