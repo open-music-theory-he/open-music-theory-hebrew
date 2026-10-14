@@ -1,8 +1,8 @@
 {
-  "status": "paused",
+  "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 21,
+  "new_segments": 1,
   "completed_chapters": 55,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -395,7 +395,7 @@
     {
       "chapter": 56,
       "title": "056 — צורת סונטה — נקודות הגעה מבניות",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 4,
       "complete": false
     },
@@ -883,8 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 217,
-  "successes": 21,
-  "elapsed_seconds": 19800.0,
-  "reason": "5.5_hour_budget_reached"
+  "requests": 1,
+  "successes": 1,
+  "elapsed_seconds": 32.26
 }
