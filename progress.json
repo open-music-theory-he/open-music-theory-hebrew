@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 27,
+  "new_segments": 28,
   "completed_chapters": 46,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -332,7 +332,7 @@
     {
       "chapter": 47,
       "title": "047 — משפט מוזיקלי מורכב",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 83,
-  "successes": 27,
-  "elapsed_seconds": 4636.2
+  "requests": 85,
+  "successes": 28,
+  "elapsed_seconds": 4666.98
 }
