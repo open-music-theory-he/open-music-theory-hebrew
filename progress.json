@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 41,
+  "new_segments": 42,
   "completed_chapters": 50,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -360,7 +360,7 @@
     {
       "chapter": 51,
       "title": "051 — תפקידים נושאיים",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 3,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 109,
-  "successes": 41,
-  "elapsed_seconds": 5052.39
+  "requests": 140,
+  "successes": 42,
+  "elapsed_seconds": 11240.43
 }
