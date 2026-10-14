@@ -1,0 +1,57 @@
+{
+  "batch": 3,
+  "source_v2_ids": [
+    9
+  ],
+  "reading_targets": [
+    "rhythmicValues.md"
+  ],
+  "scope": "Selected overlapping prose: American/British names and performing ties; complete instructions for two native worksheets. Full source chapter is not replaced.",
+  "checks": {
+    "Q01": "passed-against-selected-source-sections-and-both-original-PDFs",
+    "Q02": "passed-all-worksheet-instructions-parts-and-numbering; original musical equations retained",
+    "Q03": "passed-ai-self-review",
+    "Q04": "passed-existing-glossary",
+    "Q05": "passed-original-scores-byte-identical; English terms isolated LTR",
+    "Q06": "not-applicable",
+    "Q07": "passed-1/2+1/4=3/4 and subdivision relationships; not all unanswered worksheet questions solved",
+    "Q08": "passed-site-build-and-manifest-hash-validation",
+    "Q09": "passed-local-files-and-anchors; original-download-HTTP200; playback-not-applicable",
+    "Q10": "four original pages rendered and reviewed; original PDF bytes unchanged; English headings identified",
+    "Q11": "five-page-Hebrew-PDF-preview-reviewed; live-mobile-check-pending",
+    "Q12": "passed-visible-credits-license-AI-notice-and-source-duplication-note"
+  },
+  "source_issues": [
+    {
+      "file": "009-1.pdf",
+      "questions": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "issue": "Questions 8 and 9 duplicate 6 and 7 in source. Preserved with visible editorial note."
+    }
+  ],
+  "sources": [
+    {
+      "file": "009-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-note-and-rest-values.pdf",
+      "bytes": 210063,
+      "sha256": "da7f757aa69981d2c76219addccd8cb0de3e0b8cb03843802decba3697ff48e9"
+    },
+    {
+      "file": "009-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Notating-Rhythm-–-Dots-and-Ties.pdf",
+      "bytes": 198643,
+      "sha256": "f6dd1da202c1d13d56049550ab76caf513fcdd9d46505c532f26c38d414c9178"
+    }
+  ],
+  "audio": {
+    "protected_files": 390,
+    "changed": 0,
+    "tests": 9,
+    "new_transcripts": 0
+  },
+  "review_type": "AI self-review, not independent human proofreading"
+}
