@@ -1,8 +1,8 @@
 {
-  "status": "paused",
+  "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 43,
+  "new_segments": 1,
   "completed_chapters": 51,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -367,7 +367,7 @@
     {
       "chapter": 52,
       "title": "052 — הרחבות חיצוניות",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 3,
       "complete": false
     },
@@ -883,8 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 187,
-  "successes": 43,
-  "elapsed_seconds": 19800.0,
-  "reason": "5.5_hour_budget_reached"
+  "requests": 1,
+  "successes": 1,
+  "elapsed_seconds": 29.29
 }
