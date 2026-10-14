@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 17,
-  "completed_chapters": 43,
+  "completed_chapters": 44,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -313,7 +313,7 @@
       "title": "044 — הפריודה",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 45,
@@ -885,5 +885,5 @@
   ],
   "requests": 72,
   "successes": 17,
-  "elapsed_seconds": 4346.22
+  "elapsed_seconds": 4349.83
 }
