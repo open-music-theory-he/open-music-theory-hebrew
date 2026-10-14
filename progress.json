@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 12,
+  "new_segments": 13,
   "completed_chapters": 58,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -416,7 +416,7 @@
     {
       "chapter": 59,
       "title": "059 — צורת סונטה — הפיתוח",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 3,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 78,
-  "successes": 12,
-  "elapsed_seconds": 7221.7
+  "requests": 98,
+  "successes": 13,
+  "elapsed_seconds": 7884.97
 }
