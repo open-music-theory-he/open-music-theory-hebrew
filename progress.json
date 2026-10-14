@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 7,
+  "new_segments": 8,
   "completed_chapters": 41,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -297,7 +297,7 @@
     {
       "chapter": 42,
       "title": "042 — מודולציה",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 4,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 62,
-  "successes": 7,
-  "elapsed_seconds": 4062.17
+  "requests": 63,
+  "successes": 8,
+  "elapsed_seconds": 4090.38
 }
