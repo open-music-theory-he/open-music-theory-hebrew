@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 18,
+  "new_segments": 19,
   "completed_chapters": 54,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -388,7 +388,7 @@
     {
       "chapter": 55,
       "title": "055 — צורת סונטה — טיפוסי תצוגה",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 4,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 169,
-  "successes": 18,
-  "elapsed_seconds": 15551.47
+  "requests": 178,
+  "successes": 19,
+  "elapsed_seconds": 15617.37
 }
