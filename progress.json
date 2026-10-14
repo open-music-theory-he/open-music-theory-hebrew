@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 23,
-  "completed_chapters": 44,
+  "completed_chapters": 45,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -320,7 +320,7 @@
       "title": "045 — נושאים היברידיים",
       "segments_ready": 6,
       "segments_total": 6,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 46,
@@ -885,5 +885,5 @@
   ],
   "requests": 79,
   "successes": 23,
-  "elapsed_seconds": 4506.93
+  "elapsed_seconds": 4512.11
 }
