@@ -36,6 +36,12 @@
       "addition": "intervals.md",
       "review_status": "beta-text-reviewed",
       "base_sha256": "7447b5b2314771f9d92a71ea027cbd90f670f9b88d09be03a7383ed7e88e7876"
+    },
+    {
+      "target": "rhythmicValues.md",
+      "addition": "rhythmicValues.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "7a131bbffdbd4262d76732362325114db6d0527e20dc46b7044e8e384bd54202"
     }
   ]
 }
