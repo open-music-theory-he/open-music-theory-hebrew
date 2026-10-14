@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 4,
-  "completed_chapters": 39,
+  "completed_chapters": 40,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -285,7 +285,7 @@
       "title": "040 — אקורדים שניוניים",
       "segments_ready": 8,
       "segments_total": 8,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 41,
@@ -885,5 +885,5 @@
   ],
   "requests": 6,
   "successes": 4,
-  "elapsed_seconds": 109.71
+  "elapsed_seconds": 116.43
 }
