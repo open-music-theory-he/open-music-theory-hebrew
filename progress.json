@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 4,
+  "new_segments": 5,
   "completed_chapters": 61,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -437,7 +437,7 @@
     {
       "chapter": 62,
       "title": "062 — תפקידים נושאיים בצורת רונדו",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 4,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 6,
-  "successes": 4,
-  "elapsed_seconds": 93.41
+  "requests": 7,
+  "successes": 5,
+  "elapsed_seconds": 116.69
 }
