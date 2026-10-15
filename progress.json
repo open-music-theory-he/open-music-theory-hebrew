@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 11,
-  "completed_chapters": 73,
+  "completed_chapters": 74,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -523,7 +523,7 @@
       "title": "074 — סימטריה ומרכזיות",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 75,
@@ -885,5 +885,5 @@
   ],
   "requests": 85,
   "successes": 11,
-  "elapsed_seconds": 19111.63
+  "elapsed_seconds": 19116.02
 }
