@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 14,
+  "new_segments": 15,
   "completed_chapters": 65,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -465,7 +465,7 @@
     {
       "chapter": 66,
       "title": "066 — סכמות בסגנון הגלנט — פתיחות וסיומים",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 5,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 57,
-  "successes": 14,
-  "elapsed_seconds": 10114.93
+  "requests": 58,
+  "successes": 15,
+  "elapsed_seconds": 10140.67
 }
