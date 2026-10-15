@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 8,
-  "completed_chapters": 72,
+  "completed_chapters": 73,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -516,7 +516,7 @@
       "title": "073 — אוספים וסולמות",
       "segments_ready": 7,
       "segments_total": 7,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 74,
@@ -885,5 +885,5 @@
   ],
   "requests": 70,
   "successes": 8,
-  "elapsed_seconds": 18993.04
+  "elapsed_seconds": 18999.53
 }
