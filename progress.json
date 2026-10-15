@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 11,
+  "new_segments": 12,
   "completed_chapters": 80,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -570,7 +570,7 @@
     {
       "chapter": 81,
       "title": "081 — צלילים משותפים תחת טרנספוזיציה",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 18,
-  "successes": 11,
-  "elapsed_seconds": 257.59
+  "requests": 42,
+  "successes": 12,
+  "elapsed_seconds": 1560.32
 }
