@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 2,
-  "completed_chapters": 75,
+  "completed_chapters": 76,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -537,7 +537,7 @@
       "title": "076 — טרנספוזיציה",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 77,
@@ -885,5 +885,5 @@
   ],
   "requests": 2,
   "successes": 2,
-  "elapsed_seconds": 46.32
+  "elapsed_seconds": 48.63
 }
