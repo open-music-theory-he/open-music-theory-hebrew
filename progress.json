@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 15,
-  "completed_chapters": 58,
+  "completed_chapters": 59,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -418,7 +418,7 @@
       "title": "059 — צורת סונטה — הפיתוח",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 60,
@@ -885,5 +885,5 @@
   ],
   "requests": 140,
   "successes": 15,
-  "elapsed_seconds": 17692.63
+  "elapsed_seconds": 17696.01
 }
