@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 1,
-  "completed_chapters": 71,
+  "completed_chapters": 72,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -509,7 +509,7 @@
       "title": "072 — חשבון מודולרי",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 73,
@@ -885,5 +885,5 @@
   ],
   "requests": 1,
   "successes": 1,
-  "elapsed_seconds": 23.12
+  "elapsed_seconds": 26.89
 }
