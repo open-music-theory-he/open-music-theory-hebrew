@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 42,
-  "completed_chapters": 70,
+  "completed_chapters": 71,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -502,7 +502,7 @@
       "title": "071 — מרווח ומחלקת מרווח",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 72,
@@ -885,5 +885,5 @@
   ],
   "requests": 93,
   "successes": 42,
-  "elapsed_seconds": 10883.67
+  "elapsed_seconds": 10887.59
 }
