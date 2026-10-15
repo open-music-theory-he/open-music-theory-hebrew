@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 25,
+  "new_segments": 26,
   "completed_chapters": 67,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -479,7 +479,7 @@
     {
       "chapter": 68,
       "title": "068 — סכמות בסגנון הגלנט — סיכום",
-      "segments_ready": 3,
+      "segments_ready": 4,
       "segments_total": 9,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 69,
-  "successes": 25,
-  "elapsed_seconds": 10388.21
+  "requests": 70,
+  "successes": 26,
+  "elapsed_seconds": 10416.75
 }
