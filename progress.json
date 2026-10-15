@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 36,
-  "completed_chapters": 68,
+  "completed_chapters": 69,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -488,7 +488,7 @@
       "title": "069 — אלתור משפט מוזיקלי באמצעות סכמות בסגנון הגלנט",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 70,
@@ -885,5 +885,5 @@
   ],
   "requests": 81,
   "successes": 36,
-  "elapsed_seconds": 10695.08
+  "elapsed_seconds": 10699.82
 }
