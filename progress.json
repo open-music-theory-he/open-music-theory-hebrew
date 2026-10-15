@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 4,
+  "new_segments": 5,
   "completed_chapters": 77,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -549,7 +549,7 @@
     {
       "chapter": 78,
       "title": "078 — מחלקת קבוצה וצורה ראשונית — חלק 1",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 3,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 5,
-  "successes": 4,
-  "elapsed_seconds": 99.72
+  "requests": 6,
+  "successes": 5,
+  "elapsed_seconds": 126.47
 }
