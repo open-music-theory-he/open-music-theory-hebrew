@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 11,
+  "new_segments": 12,
   "completed_chapters": 74,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -528,7 +528,7 @@
     {
       "chapter": 75,
       "title": "075 — סדר נורמלי",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 85,
-  "successes": 11,
-  "elapsed_seconds": 19116.02
+  "requests": 86,
+  "successes": 12,
+  "elapsed_seconds": 19143.88
 }
