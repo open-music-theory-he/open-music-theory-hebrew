@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 22,
-  "completed_chapters": 66,
+  "completed_chapters": 67,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -474,7 +474,7 @@
       "title": "067 — סכמות בסגנון הגלנט — תבניות המשך",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 68,
@@ -885,5 +885,5 @@
   ],
   "requests": 66,
   "successes": 22,
-  "elapsed_seconds": 10299.55
+  "elapsed_seconds": 10304.01
 }
