@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 8,
-  "completed_chapters": 62,
+  "completed_chapters": 63,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -446,7 +446,7 @@
       "title": "063 — צורת רונדו בת חמישה חלקים",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 64,
@@ -885,5 +885,5 @@
   ],
   "requests": 51,
   "successes": 8,
-  "elapsed_seconds": 9953.63
+  "elapsed_seconds": 9955.67
 }
