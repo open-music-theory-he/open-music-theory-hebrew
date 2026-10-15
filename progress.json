@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 11,
-  "completed_chapters": 79,
+  "completed_chapters": 80,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -565,7 +565,7 @@
       "title": "080 — קבוצות משלימות",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 81,
@@ -885,5 +885,5 @@
   ],
   "requests": 18,
   "successes": 11,
-  "elapsed_seconds": 255.6
+  "elapsed_seconds": 257.59
 }
