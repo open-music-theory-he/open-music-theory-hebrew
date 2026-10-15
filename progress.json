@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 4,
-  "completed_chapters": 76,
+  "completed_chapters": 77,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -544,7 +544,7 @@
       "title": "077 — היפוך במוזיקה פוסט־טונלית",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 78,
@@ -885,5 +885,5 @@
   ],
   "requests": 5,
   "successes": 4,
-  "elapsed_seconds": 97.49
+  "elapsed_seconds": 99.72
 }
