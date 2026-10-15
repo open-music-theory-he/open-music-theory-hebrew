@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 16,
+  "new_segments": 17,
   "completed_chapters": 59,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -423,7 +423,7 @@
     {
       "chapter": 60,
       "title": "060 — צורת סונטה — יחידות מסגרת (מבוא וקודה)",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 144,
-  "successes": 16,
-  "elapsed_seconds": 17723.66
+  "requests": 150,
+  "successes": 17,
+  "elapsed_seconds": 17762.68
 }
