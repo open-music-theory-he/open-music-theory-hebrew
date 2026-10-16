@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 31,
-  "completed_chapters": 92,
+  "completed_chapters": 93,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -656,7 +656,7 @@
       "title": "093 — מהלך הדו־וופ של שנות החמישים",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 94,
@@ -885,5 +885,5 @@
   ],
   "requests": 33,
   "successes": 31,
-  "elapsed_seconds": 788.8
+  "elapsed_seconds": 790.95
 }
