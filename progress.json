@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 29,
-  "completed_chapters": 91,
+  "completed_chapters": 92,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -649,7 +649,7 @@
       "title": "092 — הרמוניה במוזיקת פופ ורוק",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 93,
@@ -885,5 +885,5 @@
   ],
   "requests": 31,
   "successes": 29,
-  "elapsed_seconds": 750.2
+  "elapsed_seconds": 754.06
 }
