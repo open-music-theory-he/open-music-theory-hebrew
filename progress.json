@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 35,
-  "completed_chapters": 94,
+  "completed_chapters": 95,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -670,7 +670,7 @@
       "title": "095 — מהלך ״Puff״",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 96,
@@ -885,5 +885,5 @@
   ],
   "requests": 37,
   "successes": 35,
-  "elapsed_seconds": 877.84
+  "elapsed_seconds": 879.86
 }
