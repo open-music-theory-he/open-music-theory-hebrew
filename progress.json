@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 36,
+  "new_segments": 37,
   "completed_chapters": 95,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -675,7 +675,7 @@
     {
       "chapter": 96,
       "title": "096 — מהלך הבלוז",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 39,
-  "successes": 36,
-  "elapsed_seconds": 908.99
+  "requests": 42,
+  "successes": 37,
+  "elapsed_seconds": 932.21
 }
