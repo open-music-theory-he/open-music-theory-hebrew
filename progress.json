@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 25,
-  "completed_chapters": 90,
+  "completed_chapters": 91,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -642,7 +642,7 @@
       "title": "091 — סינקופה במוזיקת פופ ורוק",
       "segments_ready": 6,
       "segments_total": 6,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 92,
@@ -885,5 +885,5 @@
   ],
   "requests": 27,
   "successes": 25,
-  "elapsed_seconds": 637.57
+  "elapsed_seconds": 641.99
 }
