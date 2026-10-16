@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 19,
-  "completed_chapters": 82,
+  "completed_chapters": 83,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -586,7 +586,7 @@
       "title": "083 — מוזיקת שנים־עשר טונים — פעולות",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 84,
@@ -885,5 +885,5 @@
   ],
   "requests": 109,
   "successes": 19,
-  "elapsed_seconds": 8535.12
+  "elapsed_seconds": 8537.42
 }
