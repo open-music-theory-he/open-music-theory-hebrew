@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 38,
-  "completed_chapters": 96,
+  "completed_chapters": 97,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -684,7 +684,7 @@
       "title": "097 — מהלך הקינה",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 98,
@@ -885,5 +885,5 @@
   ],
   "requests": 48,
   "successes": 38,
-  "elapsed_seconds": 964.97
+  "elapsed_seconds": 966.75
 }
