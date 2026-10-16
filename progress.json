@@ -1,8 +1,8 @@
 {
-  "status": "paused",
+  "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 9,
+  "new_segments": 1,
   "completed_chapters": 101,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -717,7 +717,7 @@
     {
       "chapter": 102,
       "title": "102 — צורה בפופ וברוק — יחידות מבנה ומבני מודולים",
-      "segments_ready": 5,
+      "segments_ready": 6,
       "segments_total": 6,
       "complete": false
     },
@@ -883,8 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 116,
-  "successes": 9,
-  "elapsed_seconds": 19800.0,
-  "reason": "5.5_hour_budget_reached"
+  "requests": 3,
+  "successes": 1,
+  "elapsed_seconds": 17.92
 }
