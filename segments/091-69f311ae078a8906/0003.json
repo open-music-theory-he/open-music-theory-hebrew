@@ -1,0 +1,7 @@
+{
+  "text_sha256": "d296572d40853a9d10997f516edb9d22aaae3defcef2e14ae78d0f023c699123",
+  "sha256": "f18e3864e1b4ddc3342e10b223ecc9c45055a299a4fa94dccecd1fe51a5893cb",
+  "seconds": 87.68,
+  "voice": "Iapetus",
+  "model": "gemini-3.8-flash-tts"
+}
