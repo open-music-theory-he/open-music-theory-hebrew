@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 5,
+  "new_segments": 6,
   "completed_chapters": 102,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -724,7 +724,7 @@
     {
       "chapter": 103,
       "title": "103 — צורה בפופ וברוק — פונקציות צורניות",
-      "segments_ready": 4,
+      "segments_ready": 5,
       "segments_total": 9,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 11,
-  "successes": 5,
-  "elapsed_seconds": 138.81
+  "requests": 16,
+  "successes": 6,
+  "elapsed_seconds": 168.47
 }
