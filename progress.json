@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 16,
-  "completed_chapters": 81,
+  "completed_chapters": 82,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -579,7 +579,7 @@
       "title": "082 — תאוריית שנים־עשר טונים — יסודות",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 83,
@@ -885,5 +885,5 @@
   ],
   "requests": 96,
   "successes": 16,
-  "elapsed_seconds": 8442.93
+  "elapsed_seconds": 8445.54
 }
