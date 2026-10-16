@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 15,
-  "completed_chapters": 88,
+  "completed_chapters": 89,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -628,7 +628,7 @@
       "title": "089 — ניתוח מוזיקת שנים־עשר טונים",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 90,
@@ -885,5 +885,5 @@
   ],
   "requests": 16,
   "successes": 15,
-  "elapsed_seconds": 380.65
+  "elapsed_seconds": 384.29
 }
