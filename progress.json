@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 11,
-  "completed_chapters": 87,
+  "completed_chapters": 88,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -621,7 +621,7 @@
       "title": "088 — ניתוח מוזיקה אטונלית",
       "segments_ready": 8,
       "segments_total": 8,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 89,
@@ -885,5 +885,5 @@
   ],
   "requests": 11,
   "successes": 11,
-  "elapsed_seconds": 272.7
+  "elapsed_seconds": 278.93
 }
