@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 48,
+  "new_segments": 49,
   "completed_chapters": 99,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -703,7 +703,7 @@
     {
       "chapter": 100,
       "title": "100 — צורה בפופ וברוק — סקירה",
-      "segments_ready": 5,
+      "segments_ready": 6,
       "segments_total": 6,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 176,
-  "successes": 48,
-  "elapsed_seconds": 11347.36
+  "requests": 205,
+  "successes": 49,
+  "elapsed_seconds": 15733.77
 }
