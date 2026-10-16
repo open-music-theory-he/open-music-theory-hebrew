@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 32,
+  "new_segments": 33,
   "completed_chapters": 93,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -661,7 +661,7 @@
     {
       "chapter": 94,
       "title": "094 — מהלך האקורדים של הזמרים־היוצרים",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 3,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 34,
-  "successes": 32,
-  "elapsed_seconds": 813.21
+  "requests": 35,
+  "successes": 33,
+  "elapsed_seconds": 835.63
 }
