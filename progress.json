@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 43,
-  "completed_chapters": 98,
+  "completed_chapters": 99,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -698,7 +698,7 @@
       "title": "099 — מהלכים פלגליים",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 100,
@@ -885,5 +885,5 @@
   ],
   "requests": 105,
   "successes": 43,
-  "elapsed_seconds": 7330.59
+  "elapsed_seconds": 7333.76
 }
