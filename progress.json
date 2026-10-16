@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 4,
-  "completed_chapters": 100,
+  "completed_chapters": 101,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -712,7 +712,7 @@
       "title": "101 — צורה בפופ וברוק — מונחים ומושגי יסוד",
       "segments_ready": 5,
       "segments_total": 5,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 102,
@@ -885,5 +885,5 @@
   ],
   "requests": 7,
   "successes": 4,
-  "elapsed_seconds": 109.75
+  "elapsed_seconds": 113.86
 }
