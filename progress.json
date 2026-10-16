@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 3,
-  "completed_chapters": 86,
+  "completed_chapters": 87,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -614,7 +614,7 @@
       "title": "087 — ניתוח יצירה פוסט־טונלית מן ההתחלה",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 88,
@@ -885,5 +885,5 @@
   ],
   "requests": 3,
   "successes": 3,
-  "elapsed_seconds": 52.75
+  "elapsed_seconds": 55.89
 }
