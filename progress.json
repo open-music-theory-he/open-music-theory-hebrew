@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 19,
-  "completed_chapters": 89,
+  "completed_chapters": 90,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -635,7 +635,7 @@
       "title": "090 — מילון מונחים למוזיקה אטונלית",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 91,
@@ -885,5 +885,5 @@
   ],
   "requests": 20,
   "successes": 19,
-  "elapsed_seconds": 480.46
+  "elapsed_seconds": 484.13
 }
