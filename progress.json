@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 20,
-  "completed_chapters": 83,
+  "completed_chapters": 84,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -593,7 +593,7 @@
       "title": "084 — מוזיקת שנים־עשר טונים — מבנה מרווחי",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 85,
@@ -885,5 +885,5 @@
   ],
   "requests": 140,
   "successes": 20,
-  "elapsed_seconds": 14720.53
+  "elapsed_seconds": 14722.78
 }
