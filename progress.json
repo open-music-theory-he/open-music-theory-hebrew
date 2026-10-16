@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 22,
-  "completed_chapters": 84,
+  "completed_chapters": 85,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -600,7 +600,7 @@
       "title": "085 — מוזיקת שנים־עשר טונים — שורות נגזרות",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 86,
@@ -885,5 +885,5 @@
   ],
   "requests": 146,
   "successes": 22,
-  "elapsed_seconds": 14763.8
+  "elapsed_seconds": 14765.53
 }
