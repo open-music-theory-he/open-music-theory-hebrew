@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 16,
+  "new_segments": 17,
   "completed_chapters": 89,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -633,7 +633,7 @@
     {
       "chapter": 90,
       "title": "090 — מילון מונחים למוזיקה אטונלית",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 4,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 17,
-  "successes": 16,
-  "elapsed_seconds": 412.52
+  "requests": 18,
+  "successes": 17,
+  "elapsed_seconds": 441.09
 }
