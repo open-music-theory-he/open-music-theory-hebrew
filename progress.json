@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 22,
+  "new_segments": 23,
   "completed_chapters": 85,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -605,7 +605,7 @@
     {
       "chapter": 86,
       "title": "086 — מוזיקת שנים־עשר טונים — אינווריאנטיות",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 146,
-  "successes": 22,
-  "elapsed_seconds": 14765.53
+  "requests": 149,
+  "successes": 23,
+  "elapsed_seconds": 14788.33
 }
