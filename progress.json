@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 26,
-  "completed_chapters": 120,
+  "completed_chapters": 121,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -852,7 +852,7 @@
       "title": "122 — יצירת תמונה מוזיקלית והכנסתה למסמך טקסט",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 123,
@@ -885,5 +885,5 @@
   ],
   "requests": 28,
   "successes": 26,
-  "elapsed_seconds": 591.68
+  "elapsed_seconds": 593.45
 }
