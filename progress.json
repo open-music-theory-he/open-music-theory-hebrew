@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 18,
+  "new_segments": 19,
   "completed_chapters": 107,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -759,7 +759,7 @@
     {
       "chapter": 109,
       "title": "109 — מבנה נושאי בסגנון הקלאסי",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 100,
-  "successes": 18,
-  "elapsed_seconds": 6860.05
+  "requests": 107,
+  "successes": 19,
+  "elapsed_seconds": 6916.22
 }
