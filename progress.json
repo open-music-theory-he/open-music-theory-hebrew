@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 6,
+  "new_segments": 7,
   "completed_chapters": 113,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -801,7 +801,7 @@
     {
       "chapter": 115,
       "title": "115 — צורת סונטה — מודולים וקדנצות בתצוגה, עמוד עזר חלופי",
-      "segments_ready": 2,
+      "segments_ready": 3,
       "segments_total": 7,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 6,
-  "successes": 6,
-  "elapsed_seconds": 124.66
+  "requests": 7,
+  "successes": 7,
+  "elapsed_seconds": 150.44
 }
