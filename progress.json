@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 15,
+  "new_segments": 16,
   "completed_chapters": 116,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -822,7 +822,7 @@
     {
       "chapter": 118,
       "title": "118 — מהלך פכלבל",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 16,
-  "successes": 15,
-  "elapsed_seconds": 328.13
+  "requests": 17,
+  "successes": 16,
+  "elapsed_seconds": 344.8
 }
