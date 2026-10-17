@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 12,
+  "new_segments": 13,
   "completed_chapters": 114,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -808,7 +808,7 @@
     {
       "chapter": 116,
       "title": "116 — חישוב מרווחים: שיטת הקלידים הלבנים",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 13,
-  "successes": 12,
-  "elapsed_seconds": 271.91
+  "requests": 14,
+  "successes": 13,
+  "elapsed_seconds": 287.37
 }
