@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 16,
-  "completed_chapters": 105,
+  "completed_chapters": 106,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -747,7 +747,7 @@
       "title": "107 — טונליות בפופ וברוק עם שאילה מודאלית",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 108,
@@ -885,5 +885,5 @@
   ],
   "requests": 91,
   "successes": 16,
-  "elapsed_seconds": 6781.48
+  "elapsed_seconds": 6783.68
 }
