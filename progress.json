@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 17,
+  "new_segments": 18,
   "completed_chapters": 106,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -752,7 +752,7 @@
     {
       "chapter": 108,
       "title": "108 — פונקציות הרמוניות במינור בפופ וברוק",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 99,
-  "successes": 17,
-  "elapsed_seconds": 6844.74
+  "requests": 100,
+  "successes": 18,
+  "elapsed_seconds": 6857.29
 }
