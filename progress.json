@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 3,
-  "completed_chapters": 111,
+  "completed_chapters": 112,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -789,7 +789,7 @@
       "title": "113 — הנחיות לשירה מן הדף",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 114,
@@ -885,5 +885,5 @@
   ],
   "requests": 3,
   "successes": 3,
-  "elapsed_seconds": 58.1
+  "elapsed_seconds": 60.48
 }
