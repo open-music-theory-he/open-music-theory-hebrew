@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 15,
-  "completed_chapters": 104,
+  "completed_chapters": 105,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -740,7 +740,7 @@
       "title": "105 — ניתוח שירה",
       "segments_ready": 3,
       "segments_total": 3,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 107,
@@ -885,5 +885,5 @@
   ],
   "requests": 76,
   "successes": 15,
-  "elapsed_seconds": 6600.27
+  "elapsed_seconds": 6603.45
 }
