@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 1,
-  "completed_chapters": 110,
+  "completed_chapters": 111,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -782,7 +782,7 @@
       "title": "112 — טונליות בפופ וברוק המבוססת על בלוז",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 113,
@@ -885,5 +885,5 @@
   ],
   "requests": 1,
   "successes": 1,
-  "elapsed_seconds": 16.61
+  "elapsed_seconds": 18.92
 }
