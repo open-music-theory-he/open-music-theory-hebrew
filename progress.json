@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 33,
-  "completed_chapters": 124,
+  "completed_chapters": 125,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -880,10 +880,10 @@
       "title": "126 — תיווי תרגיל הולכת קולות בסגנון כלי מקלדת",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     }
   ],
   "requests": 38,
   "successes": 33,
-  "elapsed_seconds": 747.74
+  "elapsed_seconds": 749.81
 }
