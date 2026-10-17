@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 27,
-  "completed_chapters": 121,
+  "completed_chapters": 122,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -859,7 +859,7 @@
       "title": "123 — שימוש ב־Variations Audio Timeliner",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 124,
@@ -885,5 +885,5 @@
   ],
   "requests": 29,
   "successes": 27,
-  "elapsed_seconds": 610.45
+  "elapsed_seconds": 612.25
 }
