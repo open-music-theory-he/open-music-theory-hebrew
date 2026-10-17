@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 32,
-  "completed_chapters": 123,
+  "completed_chapters": 124,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -873,7 +873,7 @@
       "title": "125 — פרסום קישור לבלוג בטוויטר",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 126,
@@ -885,5 +885,5 @@
   ],
   "requests": 37,
   "successes": 32,
-  "elapsed_seconds": 724.35
+  "elapsed_seconds": 725.85
 }
