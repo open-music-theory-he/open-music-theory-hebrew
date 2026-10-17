@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 23,
-  "completed_chapters": 109,
+  "completed_chapters": 110,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -775,7 +775,7 @@
       "title": "111 — תרגילי סקוונצה מלודיים",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 112,
@@ -885,5 +885,5 @@
   ],
   "requests": 148,
   "successes": 23,
-  "elapsed_seconds": 13173.47
+  "elapsed_seconds": 13176.81
 }
