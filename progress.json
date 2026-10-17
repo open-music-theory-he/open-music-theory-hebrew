@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 20,
-  "completed_chapters": 117,
+  "completed_chapters": 118,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -831,7 +831,7 @@
       "title": "119 — הברות סולפז׳ כרומטיות ותרגילי סקוונצה",
       "segments_ready": 4,
       "segments_total": 4,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 120,
@@ -885,5 +885,5 @@
   ],
   "requests": 21,
   "successes": 20,
-  "elapsed_seconds": 460.49
+  "elapsed_seconds": 465.1
 }
