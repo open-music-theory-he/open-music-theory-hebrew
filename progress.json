@@ -2,7 +2,7 @@
   "status": "complete",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 33,
+  "new_segments": 0,
   "completed_chapters": 125,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -883,8 +883,8 @@
       "complete": true
     }
   ],
-  "requests": 38,
-  "successes": 33,
-  "elapsed_seconds": 751.16,
-  "reason": "all_approved_chapters_completed"
+  "reason": "all_approved_chapters_completed",
+  "requests": 0,
+  "successes": 0,
+  "elapsed_seconds": 0.32
 }
