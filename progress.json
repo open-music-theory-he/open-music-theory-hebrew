@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 20,
+  "new_segments": 21,
   "completed_chapters": 118,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -836,7 +836,7 @@
     {
       "chapter": 120,
       "title": "120 — טונליות בפופ וברוק המבוססת על פנטטוניקה מינורית",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 2,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 21,
-  "successes": 20,
-  "elapsed_seconds": 465.1
+  "requests": 22,
+  "successes": 21,
+  "elapsed_seconds": 491.62
 }
