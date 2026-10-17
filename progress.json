@@ -1,5 +1,5 @@
 {
-  "status": "running",
+  "status": "complete",
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 33,
@@ -885,5 +885,6 @@
   ],
   "requests": 38,
   "successes": 33,
-  "elapsed_seconds": 749.81
+  "elapsed_seconds": 751.16,
+  "reason": "all_approved_chapters_completed"
 }
