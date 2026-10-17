@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 14,
-  "completed_chapters": 115,
+  "completed_chapters": 116,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -817,7 +817,7 @@
       "title": "117 — העלאת קובץ ושיתופו באמצעות Google Drive",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 118,
@@ -885,5 +885,5 @@
   ],
   "requests": 15,
   "successes": 14,
-  "elapsed_seconds": 302.4
+  "elapsed_seconds": 303.98
 }
