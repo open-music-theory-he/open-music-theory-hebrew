@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 20,
+  "new_segments": 21,
   "completed_chapters": 108,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -766,7 +766,7 @@
     {
       "chapter": 110,
       "title": "110 — הדגמת הכתבה מלודית",
-      "segments_ready": 0,
+      "segments_ready": 1,
       "segments_total": 1,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 138,
-  "successes": 20,
-  "elapsed_seconds": 13079.55
+  "requests": 140,
+  "successes": 21,
+  "elapsed_seconds": 13099.47
 }
