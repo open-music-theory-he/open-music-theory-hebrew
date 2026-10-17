@@ -1,0 +1,40 @@
+{
+  "map_id": 41,
+  "reading_targets": [
+    "cadenceTypes.md"
+  ],
+  "scope": "Full selected labeling/spelling/voice-leading units and complete worksheet instructions; no replacement of root chapter or reproduction of every source musical illustration",
+  "sources": [
+    {
+      "name": "041-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-Cadential-64.pdf",
+      "sha256": "a7b54faa5917ecaf6b6e3b93a2c665df667c701c97b39a2440b05011ba259893",
+      "bytes": 266522
+    }
+  ],
+  "source_html_sha256": "6a17cd92a1a716a5c0120a4a4c9378572fceabefe514bbb04da3d41f0a6fe1da",
+  "rights_source": "https://imslp.org/wiki/2_Ges%C3%A4nge_(Mayer,_Emilie)",
+  "source_pdf_pages_visually_reviewed": 2,
+  "published": false,
+  "status": "private translated and locally preview/site/PDF checked; source errors and external/live/mobile limitations remain",
+  "checks": {
+    "Q01": "Read full source chapter and complete two-page worksheet; source qualifiers retained",
+    "Q02": "Selected entire explanatory units and all worksheet instructions including blank non-ending tasks and MIDI note",
+    "Q03": "Hebrew self review only",
+    "Q04": "Cad64 versus I64/V64 explained as distinct analytical labeling, not silently replacing old framework",
+    "Q05": "6-5,4-3,8-7 and source ABC unchanged; bass doubled in stated style",
+    "Q06": "Relative solfege, no fixed-do conversion",
+    "Q07": "Resolution intervals preserved and verified; not complete answer key",
+    "Q08": "Latest local site191pages156content and full895pagePDF passed; companionZIP CRC passed; no missing local links. This is not proof of musical fidelity.",
+    "Q09": "Local PDF exists; MuseScore/recording not playback verified",
+    "Q10": "Two original pages rendered and visually inspected; byte copy retained",
+    "Q11": "Two-page cadential64 Hebrew preview visually inspected; live/mobile pending",
+    "Q12": "John Peterson, Brian Jarvis, Kyle Gullings exact per-page credits; historical composer and Vogl author; source claim about no recording attributed historically"
+  },
+  "audio": {
+    "new_narration": 0,
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9
+  }
+}

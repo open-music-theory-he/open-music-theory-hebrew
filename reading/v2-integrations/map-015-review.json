@@ -1,0 +1,86 @@
+{
+  "map_id": 15,
+  "status": "beta source/text/localPDF/site checked; external playback/live/mobile limitations disclosed",
+  "scope": "Selected overlapping prose units and complete instructions for all listed original worksheets; not a whole-source-chapter replacement.",
+  "reading_targets": [
+    "scales.md",
+    "scales2.md"
+  ],
+  "original_pdf_pages_reviewed": 12,
+  "local_pdfs": 8,
+  "sources": [
+    {
+      "name": "015-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A.pdf",
+      "sha256": "6bee2e3b30614072063b4f9a947277360bb66edf4c4cf793ba3b3f2e91ae539e",
+      "bytes": 41105
+    },
+    {
+      "name": "015-1-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A-TB.pdf",
+      "sha256": "ff341ce857ecc0f5c535aac2f64a56904f79dca69a1a19f38876bae02bcbbe97",
+      "bytes": 46130
+    },
+    {
+      "name": "015-2-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-B.pdf",
+      "sha256": "f10a091a82b7e4f2ec379e53b72cb94dfe72ec657012b22f218da2328a41fa84",
+      "bytes": 41178
+    },
+    {
+      "name": "015-2-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-B-TB.pdf",
+      "sha256": "addcea6e81ae6c68ff63edf3ebe832f0e093e9cd6f5114b38b134e22fc0e3bcd",
+      "bytes": 46161
+    },
+    {
+      "name": "015-3-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-A.pdf",
+      "sha256": "469a769eacaa46e27d7eb05e22ff8ea7782220873b08e344a9b7488a5dd811a1",
+      "bytes": 37896
+    },
+    {
+      "name": "015-3-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-A-TB.pdf",
+      "sha256": "6c035594b0b084ac5ba6edd858e7e36f884acee3b2f64a335aff8dfc075335ef",
+      "bytes": 42911
+    },
+    {
+      "name": "015-4-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-B.pdf",
+      "sha256": "27e3d0ecd7a8843ddb8ce2aa0bd1dd60e36a106986d9dc6234cf575c92e6d189",
+      "bytes": 38040
+    },
+    {
+      "name": "015-4-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-B-TB.pdf",
+      "sha256": "356b5fc50249e233b8854d1fb2c1875e75d0162c2429efa06a43873e8c904715",
+      "bytes": 42997
+    }
+  ],
+  "checks": {
+    "Q01": "Selected units compared formeaning, qualifications and scope",
+    "Q02": "All worksheetinstructionparts translated; notationretained; excludedassets explicit",
+    "Q03": "AI self-review, not independent human proofreading",
+    "Q04": "Approved glossary; newterms Englishatfirstdefinition",
+    "Q05": "NativePDFbytes retained; ABC and accidentals preserved",
+    "Q06": "Do-basedmovable solfege preserved; chromatic si not mappedtoB",
+    "Q07": "Spelledexamples and patterns computed; solvedexamples visuallychecked; unansweredquestions not exhaustively solved",
+    "Q08": "Combined local site191pages156content validated; complete907pagePDFexport passed2026-10-17",
+    "Q09": "Local links verified by site builder; external playback remains unverified as disclosed",
+    "Q10": "All12originalPDFpages rendered andvisuallyreviewed; internalEnglishheadings retained",
+    "Q11": "19page focused Hebrew preview across scales,keysignatures,modes,intervals,triads rendered and all19pages visually inspected2026-10-17;live/mobile pending",
+    "Q12": "Source/authors/license/AI and editorialnotes included"
+  },
+  "source_notes": [
+    "Pentatonic sourcecaption describesmajor/minor instead ofblackkeys/D example; selectedprose used, no new image copied",
+    "Chromatic sourcecaption says2 examples while bodymentions3; selectedprose doesnot importnumberedfigures"
+  ],
+  "audio_protection": {
+    "count": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "published": false
+}

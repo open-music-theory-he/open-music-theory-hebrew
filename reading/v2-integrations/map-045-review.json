@@ -1,0 +1,39 @@
+{
+  "map_id": 45,
+  "reading_targets": [
+    "harmonicSyntax2.md"
+  ],
+  "scope": "All prose writing instructions and summary table, all6worksheetparts; score/media linked only",
+  "published": false,
+  "local_pdf_included": false,
+  "source_html_sha256": "22326f3e9e8d30bd7c949c9ae3387cf697244a3b1d71700e1a8b9e727c0d2024",
+  "sources": [
+    {
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-64-Chords-as-Forms-of-Prolongation.pdf",
+      "sha256": "6efebf23e63b4468673c026373e874d3acfd6dd0b56c19f48f962085bb76eb85",
+      "bytes": 598198
+    }
+  ],
+  "source_pdf_pages_visually_reviewed": 4,
+  "checks": {
+    "Q01": "Compared full prose: passing same function vs neighbor same chord; arpeggiating exception retained",
+    "Q02": "Both four-step writing procedures,3summaryrows,all6worksheetparts and conditions retained",
+    "Q03": "Hebrew self-review; no independent human proofreading",
+    "Q04": "Neighbor/passing/pedal terminology checked against glossary; pedal point corrected to nekudat ugav",
+    "Q05": "6/4 and other inversion labels, K398/K216, mm1-16 retained; stacked figures represented as explicit rows",
+    "Q06": "Relative do/sol remain; no absolute solfa conversion",
+    "Q07": "Cmajor passing bass C-D-E harmonized CEG/DGB/CEG:6/4 aboveD isG/B; neighbor Cbass F/A are4/6 vsE/G3/5; arpeggiatingGbass C/E4/6 retainsCEGchord. Exercises not fully solved",
+    "Q08": "Full local export passed:904pages; companionZIP CRC passed;191sitepages156content validated. No missing local link errors.",
+    "Q09": "Exact assignment/Spotify URLs retained; source concatenated Label the key separated with editorial note; playback pending",
+    "Q10": "All4sourcepages visually checked; score scans editions unidentified, externalonly",
+    "Q11": "All3Hebrewpreviewpages visually reviewed; table kept together; live/mobile pending",
+    "Q12": "JohnPeterson2021CCBYSAtext credits; straysourcebackticks and gluedinstruction documented; no license claim for unidentifiedscaneditions"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "status": "private source/text/focusedPDF/full-export/site checked; live/mobile/playback and individualscanrights remain"
+}

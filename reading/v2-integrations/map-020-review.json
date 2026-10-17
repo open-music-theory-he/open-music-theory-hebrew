@@ -1,0 +1,62 @@
+{
+  "map_id": 20,
+  "status": "translated-source-compared; local PDF/site built; live/mobile/media limits remain",
+  "scope": "Full worksheet instructions and selected overlapping prose units; SATB six-rule units with original images only in map23. Existing root chapters unchanged.",
+  "reading_targets": [
+    "RNfromFB.md"
+  ],
+  "original_pdf_pages_reviewed": 4,
+  "local_pdfs": 4,
+  "sources": [
+    {
+      "name": "020-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Triad-Inversion-A.pdf",
+      "sha256": "a328595df336fcc389b1124e94818a2fb62f41e6cd961446b9aebae2dc1f58b6",
+      "bytes": 49502
+    },
+    {
+      "name": "020-2-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Triad-Inversion-B.pdf",
+      "sha256": "a7460d53a9eb1331bf415c5a9d152520f6715dbe4f94dcf55d2591b0e1249aaa",
+      "bytes": 49259
+    },
+    {
+      "name": "020-3-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Seventh-Chord-Inversion-A.pdf",
+      "sha256": "fb6b1f4913d076fe910d297d8085e91ede960a34bec5e8392705c36a09b6762a",
+      "bytes": 53244
+    },
+    {
+      "name": "020-4-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Seventh-Chord-Inversion-B.pdf",
+      "sha256": "c966434e63a63b7a7a2eb94cb41163f877e99fa5f0755213d41c1812eabe2141",
+      "bytes": 52992
+    }
+  ],
+  "source_notes": [
+    "SourceAbmi/C typo correctedvisiblytoAbmi/Cb",
+    "Worksheetq18Ao/Gb lacks7; unresolvedsourceambiguity visible",
+    "PDFfooter2026 preserved despiteURL2025"
+  ],
+  "checks": {
+    "Q01": "Sourcecompared selectedunits; modalities/qualifiers retained",
+    "Q02": "All worksheetinstructionparts translated; excludedmodernthirdpartyassetsexplicit",
+    "Q03": "AIselfreview, not independenthumanproofreading",
+    "Q04": "Glossary andnewEnglishterms checked",
+    "Q05": "Originalassetbytes andnotation retained",
+    "Q06": "No solfege conversion; roman cases preserved",
+    "Q07": "Spelledexamples independentlycomputed; not everyunansweredexercise solved",
+    "Q08": "191-page site and 857-page full PDF build passed through map28; no missing local links/images. Later map34/36 additions require new build.",
+    "Q09": "Finalanchor/localtargetcheckpending; sourcePDFs fetched; externalplaybacknotverified",
+    "Q10": "4originalPDFpages visuallyreviewed; SATB7originalimages reviewedwhereapplicable",
+    "Q11": "Combined 30-page Hebrew preview rendered; final Roman-numeral footer and five counterpoint pages visually checked. Live/mobile still pending.",
+    "Q12": "Authors,licenseexceptions,AI andsourcecorrections visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "published": false
+}

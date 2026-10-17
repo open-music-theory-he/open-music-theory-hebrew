@@ -1,0 +1,40 @@
+{
+  "map_id": 43,
+  "reading_targets": [
+    "harmonicAnalysis.md"
+  ],
+  "scope": "Full prose strategy and phrase-labeling units plus complete worksheet instructions; external video linked, not translated",
+  "sources": [
+    {
+      "name": "043-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Performing-Harmonic-Analysis-Using-the-Phrase-Model.pdf",
+      "sha256": "d8ea75314d27a52113f325662ba12f40de86094e8ec5524a119140686004eb71",
+      "bytes": 438070
+    }
+  ],
+  "source_html_sha256": "3501820d27c104dfb23466a3fc00f1ca73132ab40cc7b84f0e776c32fba2d017",
+  "source_pdf_pages_visually_reviewed": 3,
+  "published": false,
+  "local_pdf_included": false,
+  "status": "private translated/source/PDF-preview/site/export checked; external scans/playback/live/mobile limitations remain",
+  "checks": {
+    "Q01": "Full source prose and worksheet compared to root chapter; phrase vs chord labels distinguished",
+    "Q02": "All4analysis steps,3labeling steps and5worksheet instructions with all3excerpts retained; video linked only",
+    "Q03": "Hebrew self review only",
+    "Q04": "Tb,Te versus Tx distinctions explicit; source title typo marked as printed",
+    "Q05": "Roman case, K598, measure numbers and timestamps retained",
+    "Q06": "Relative solfa and bass degrees retained",
+    "Q07": "Cadence patterns HC/AC and root/inversion reasoning checked; not every musical example solved",
+    "Q08": "Latest full build through43 passed:899pagePDF,191sitepages156content,no missing local links;companionZIP CRC passed",
+    "Q09": "External source and score URLs preserved; no playback claim",
+    "Q10": "Three original worksheet pages rendered and visually reviewed; source editions unidentified, no local PDF import",
+    "Q11": "Latest four-page combined Hebrew PDF rendered and visually checked; nested Schubert subquestions corrected to stay under question6; live/mobile pending",
+    "Q12": "JohnPeterson2021 CC BY-SA text; no claim of permission to copy unidentified scan editions"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  }
+}

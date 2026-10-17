@@ -1,0 +1,95 @@
+{
+  "map_id": 13,
+  "status": "translated-reviewed-unpublished",
+  "scope": "Eight PDF versions across four assignment types; selected scale-degree and key-signature prose. Not a complete replacement translation of the whole v2 source chapter.",
+  "reading_targets": [
+    "scales.md",
+    "keySignatures.md"
+  ],
+  "worksheet_pages": 16,
+  "sources": [
+    {
+      "name": "013-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-A.pdf",
+      "sha256": "244335b64b1102bbab89e6b30b57a7c43bf7a95e461919637ce8806fa03f42cd",
+      "bytes": 57378
+    },
+    {
+      "name": "013-1-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-A-TB.pdf",
+      "sha256": "f42eeb3ad87778eb127d266047098dfa594e63c343f87c3552361efc191d3c20",
+      "bytes": 57367
+    },
+    {
+      "name": "013-2-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-B.pdf",
+      "sha256": "59fd0ae7644ea58ad46c57ddcf00600d0abe5c0299ad49e533f8e779da077436",
+      "bytes": 57498
+    },
+    {
+      "name": "013-2-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-B-TB.pdf",
+      "sha256": "6946a32749508b61253207d826814be72d6bf7ba09bcca42b350dfcf19b20661",
+      "bytes": 57227
+    },
+    {
+      "name": "013-3-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-A.pdf",
+      "sha256": "bbea0928fd37aa83ca59b44d8d51fcafc37d1e6dee55e89be1dff75fe4b31e43",
+      "bytes": 47580
+    },
+    {
+      "name": "013-3-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-A-TB.pdf",
+      "sha256": "a5579e76be6c27312023a372c87ddd29fa12848b0b4afe0ac1cac8f14e3910a9",
+      "bytes": 47832
+    },
+    {
+      "name": "013-4-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-B.pdf",
+      "sha256": "126442e9a6b1465d0d8de89e0bea8791434b2dc89ec6cb1ce5f0d660506a6920",
+      "bytes": 47799
+    },
+    {
+      "name": "013-4-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-B-TB.pdf",
+      "sha256": "7bd295b714730f8d020973ffbc0e95f95bdfe96e9c70584ce61367c7f1d3ed2a",
+      "bytes": 47887
+    }
+  ],
+  "checks": {
+    "Q01": "Selected prose and all worksheet instructions compared against source",
+    "Q02": "All four parts of all8PDFs covered; original notation retained",
+    "Q03": "Passed AI self-review, not independent human proofreading",
+    "Q04": "Passed approved terminology; English terms at first introduction",
+    "Q05": "All8PDFs byte-identical; ABC and accidental spellings retained",
+    "Q06": "Movable-do correspondence retained; fixed-do distinguished",
+    "Q07": "Three last-sharp rules, F-flat major pattern and B/C-flat equivalence calculated; original solved examples checked visually; not every unanswered question solved",
+    "Q08": "191-page site build passed; final complete750-page PDF export passed; companion ZIP CRC valid; no missing local links/images in export manifest. Full-book visual review not claimed.",
+    "Q09": "Local targets and anchors passed; all8PDF source downloads200; external playback not tested",
+    "Q10": "16 original pages rendered and reviewed; worksheet English headings identified",
+    "Q11": "Ten-page combined Hebrew preview rendered and visually reviewed; original worksheet pages reviewed. Live/mobile verification pending; local font fallback checked, production fallback pending.",
+    "Q12": "License, authors,AI disclosure and missing24 note included"
+  },
+  "source_notes": [
+    {
+      "issue": "Major Scales A/B all versions omit24 in last part (22,23,25,26)",
+      "handling": "Preserved numbering with visible note"
+    },
+    {
+      "issue": "Source Major Scales B editable .mscz URL points to key-signature file name",
+      "handling": "Only PDFs used; editable-source link not copied"
+    },
+    {
+      "issue": "Source calls numeric scale degrees solmization syllables and associates do with1 in fixed-do sentence",
+      "handling": "Selected integration describes numbers as numbers; retains already approved fixed/movable-do distinction; full problematic source sentence not imported"
+    }
+  ],
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "tests": 9,
+    "new_transcripts": 0
+  },
+  "publication": "None"
+}

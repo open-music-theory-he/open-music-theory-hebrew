@@ -1,0 +1,92 @@
+{
+  "map_id": 17,
+  "status": "beta source/text/localPDF/site checked; external playback/live/mobile limitations disclosed",
+  "scope": "Selected overlapping prose units and complete instructions for all listed original worksheets; not a whole-source-chapter replacement.",
+  "reading_targets": [
+    "intervals.md"
+  ],
+  "original_pdf_pages_reviewed": 20,
+  "local_pdfs": 7,
+  "sources": [
+    {
+      "name": "017-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-A.pdf",
+      "sha256": "91b9a32904e6c5ddc9fab43b1c8b76e03bf5df20edc4a5dc56cf5faacdf0ae35",
+      "bytes": 44375
+    },
+    {
+      "name": "017-2-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-B.pdf",
+      "sha256": "17d545dc43b0455d0743b1105136b7561135b3adda437a5810000b0b3c3abc6b",
+      "bytes": 44851
+    },
+    {
+      "name": "017-3-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-C.pdf",
+      "sha256": "62bcc17e2cd98a3c99fc90965f824c0b85148b8cbcbc1607535eb62877fcd481",
+      "bytes": 44749
+    },
+    {
+      "name": "017-4-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-D.pdf",
+      "sha256": "8127e633619774f4e369accf64fd14d9b5cb01c8b4b16c4fbd96cbf30bc9c25e",
+      "bytes": 162692
+    },
+    {
+      "name": "017-5-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-E.pdf",
+      "sha256": "218b108b34794fe07f1cc02376ec85b98fa2e1e0191579ea41fe081c3a0c2bbb",
+      "bytes": 159879
+    },
+    {
+      "name": "017-6-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Ma-Mi-P-Intervals-A.pdf",
+      "sha256": "f8875ef0967e3a05d690a78f211a43d0556bffa980033ce507f376e9c322002e",
+      "bytes": 44983
+    },
+    {
+      "name": "017-7-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Ma-Mi-P-Intervals-B.pdf",
+      "sha256": "180e8df7904ea817211fb7d59c7992101e60451e52fb470a5d4f4063ada33e90",
+      "bytes": 45330
+    },
+    {
+      "name": "017-8-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Dim-and-Aug-Intervals-A.pdf",
+      "sha256": "5bf3783e1d9d252762680de2e1f78dfae103e966626708c474b7065f04eac593",
+      "bytes": 45191
+    },
+    {
+      "name": "017-9-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Dim-and-Aug-Intervals-B.pdf",
+      "sha256": "b0b1da73594df27fa12437e20481f90333f9105893a47c7e4d07e0dce2be6d56",
+      "bytes": 45679
+    }
+  ],
+  "checks": {
+    "Q01": "Selected units compared formeaning, qualifications and scope",
+    "Q02": "All worksheetinstructionparts translated; notationretained; excludedassets explicit",
+    "Q03": "AI self-review, not independent human proofreading",
+    "Q04": "Approved glossary; newterms Englishatfirstdefinition",
+    "Q05": "NativePDFbytes retained; ABC and accidentals preserved",
+    "Q06": "No solfege conversion",
+    "Q07": "Spelledexamples and patterns computed; solvedexamples visuallychecked; unansweredquestions not exhaustively solved",
+    "Q08": "Combined local site191pages156content validated; complete907pagePDFexport passed2026-10-17",
+    "Q09": "Local links verified by site builder; external playback remains unverified as disclosed",
+    "Q10": "All20originalPDFpages rendered andvisuallyreviewed; internalEnglishheadings retained",
+    "Q11": "19page focused Hebrew preview across scales,keysignatures,modes,intervals,triads rendered and all19pages visually inspected2026-10-17;live/mobile pending",
+    "Q12": "Source/authors/license/AI and editorialnotes included"
+  },
+  "source_notes": [
+    "Major/minor/perfect worksheets identificationinstructionwrongly saysd/A",
+    "Major/minor/perfectB q28 saysma4 undefined; visible unresolvednote",
+    "D/E excerpts thirdpartyrights unverified; external linksonly"
+  ],
+  "audio_protection": {
+    "count": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "published": false
+}

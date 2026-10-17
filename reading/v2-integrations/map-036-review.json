@@ -1,0 +1,31 @@
+{
+  "map_id": 36,
+  "scope": "Complete explanatory and assignment prose units, with external musical files linked only; score/media verification remains pending",
+  "status": "private translated draft; source musical files unverified",
+  "source_cache": "context/pages/toc-chapter-858.html",
+  "source_sha256": "be033377c164c681b6cce7556d87a5902ceb8fb58a195fdc238e89246d655b0e",
+  "reading_targets": [
+    "unfiguredBass.md"
+  ],
+  "published": false,
+  "checks": {
+    "Q01": "Source prose compared; distinctions ascending/descending, bass/right-hand position retained",
+    "Q02": "Complete selected prose unit; external scores not locally included or verified; map34 tables separately pending",
+    "Q03": "Hebrew self review completed, ambiguous blank scale flagged instead of guessed",
+    "Q04": "Rule of octave, partimento, sequence, suspension glossary terms compared",
+    "Q05": "Figures and numeric patterns retained within LTR elements; no note spelling changed",
+    "Q06": "No new solfege in these additions; no conversion of source system",
+    "Q07": "Descending fifth + ascending fourth checked as seven diatonic positions down/up net one step below; suspension patterns preserved, not independently score verified",
+    "Q08": "Markdown parsed for five-page preview; final whole-book build pending these additions",
+    "Q09": "Source links retained; external HTTP/availability unverified and disclosed",
+    "Q10": "External notation files not copied, licensed, transformed, or claimed rendered; legacy assets remain untouched",
+    "Q11": "Five-page Hebrew PDF rendered and visually inspected; screen-width/live-site checks pending",
+    "Q12": "Author and CC BY-SA text license, separate external-file rights and editorial notes visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  }
+}

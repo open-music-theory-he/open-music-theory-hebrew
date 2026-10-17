@@ -1,0 +1,41 @@
+{
+  "map_id": 39,
+  "reading_targets": [
+    "harmonicSyntax1.md"
+  ],
+  "scope": "Complete selected prose units and full worksheet instructions; linked source notation retained externally only",
+  "published": false,
+  "status": "private translated and locally preview/site/PDF checked; source errors and external/live/mobile limitations remain",
+  "source_html_sha256": "a68bc11ebda6492c0b2a0ddc9b2b44cc7e8e91d76b74eec69cf246ffb8a550bb",
+  "source_pdf_pages_reviewed": 5,
+  "sources": [
+    {
+      "name": "039-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-Strong-Predominants.pdf",
+      "sha256": "d452277b0c7fa64494f17690c3a2f903bdfef53fa7ab2eac3ff82a256e9dcced",
+      "bytes": 328160
+    }
+  ],
+  "local_pdf_included": false,
+  "rights_limit": "38 old scan editions not individually identified;39 Hamilton modern notation/lyrics not imported",
+  "checks": {
+    "Q01": "Read full source context and compared existing root; stylistic scope retained",
+    "Q02": "All three V7 resolution workflows/qualifiers in38; all strong-PD writing units and complete worksheet questions in39",
+    "Q03": "Hebrew self review, not independent human proofread",
+    "Q04": "PD/S model distinctions and leading-tone terminology explicit",
+    "Q05": "I/i,V7,ii6,IV case and inversion retained; no notation transformation",
+    "Q06": "do-based relative syllables preserved; no absolute-D misreading of F-S-D",
+    "Q07": "V7 pitch resolutions verified conceptually; no full analysis or answer key of historical/modern excerpts",
+    "Q08": "Latest local site191pages156content and full895pagePDF passed; companionZIP CRC passed; no missing local links. This is not proof of musical fidelity.",
+    "Q09": "Worksheet/playlist URLs retained; external playback not verified",
+    "Q10": "5 source PDF pages rendered and visually reviewed; not copied due individual rights check pending",
+    "Q11": "Five-page V7/strong-PD preview inspected; advanced Hamilton discussion kept with caveats on final page after orphan-footer correction; live/mobile pending",
+    "Q12": "Author/book text license, source attribution and precise third-party exclusions visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "new_narration": 0,
+    "audio_tests_passed": 9
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "map_id": 5,
+  "status": "translated-reviewed-unpublished; external-assets-partial",
+  "reading_target": "pitches.md",
+  "scope": "Selected overlapping prose and complete instructions for six worksheet types. Missing four-clef enharmonic PDF was not recreated.",
+  "checks": {
+    "Q01": "Selected prose and available worksheet instructions compared with source",
+    "Q02": "Instructions for seven available versions reviewed; eighth version returns404, not claimed translated in full",
+    "Q03": "AI self-review passed; not independent human proofreading",
+    "Q04": "Approved glossary, ABC names retained",
+    "Q05": "Six source images and five local PDFs retained byte-identical",
+    "Q06": "Not applicable",
+    "Q07": "13 enharmonic equalities and6 step examples checked; not every unanswered worksheet solution verified",
+    "Q08": "191-page site build passed; final complete750-page PDF export passed; companion ZIP CRC valid; no missing local links/images in export manifest. Full-book visual review not claimed.",
+    "Q09": "Seven new anchors and local links checked; external-media verification partial",
+    "Q10": "24 original PDF pages and6 image examples visually reviewed; third-party musical excerpt retained only through external source links",
+    "Q11": "Ten-page combined Hebrew preview rendered and visually reviewed; original worksheet pages reviewed. Live/mobile verification pending; local font fallback checked, production fallback pending.",
+    "Q12": "Visible source/license/AI credits, unavailable version and third-party excerpt limitations recorded"
+  },
+  "protected_inputs": {
+    "count": 390,
+    "changed": [],
+    "audio_unit_tests": 9,
+    "new_transcripts": 0
+  },
+  "limits": [
+    {
+      "file": "WK-enharmonic-equivalence.pdf",
+      "result": "404 on source URL; source page still contains same URL; no reconstruction attempted"
+    },
+    {
+      "files": [
+        "005-5-1.pdf",
+        "005-5-2.pdf"
+      ],
+      "result": "Chicago/Razzle Dazzle excerpt rights not individually verified; files not copied into reading repository; full instructions translated and source links supplied"
+    },
+    {
+      "item": "Font",
+      "result": "Local PDF embeds official Noto Music for U+1D12A/B. Check production fallback before final publication."
+    }
+  ],
+  "next_map_id": 14,
+  "publication": "No push, PR, merge, release or dispatch performed"
+}

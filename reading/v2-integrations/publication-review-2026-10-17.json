@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-17",
+  "scope": "Publish reviewed reading additions through map47 as beta; map48 draft excluded",
+  "baseline": "29bb2efd215ebfe25334c5717aa1be6d8470de77",
+  "protected_inputs_unchanged": 390,
+  "audio_unit_tests_passed": 9,
+  "site_pages": 191,
+  "content_chapters": 156,
+  "full_pdf_pages": 907,
+  "focused_layout_review": "19pages all visually inspected for scales,keysignatures,modes,intervals,triads; latest44/45/47previews preserved in private checkpoint",
+  "limitations": [
+    "No independent human proofreading",
+    "External score/media/playback and live/mobile limitations as marked per chapter",
+    "Other mapped v2 work still incomplete"
+  ],
+  "audio_state_readonly": {
+    "completed_chapters": 125,
+    "approved_chapters": 125,
+    "artifact_upload_failure": "colon in chapter116filename;productionstate remains persisted"
+  },
+  "narration_changes": 0,
+  "publication_authorization": {
+    "latest_user_instruction": "פרסם את כל התוכן המוכן, במקביל בדוק מה מצב יצירת ספרי השמע הנוכחית",
+    "date": "2026-10-17",
+    "interpretation": "New explicit instruction authorizes publication of the checked subset now, superseding the earlier wait-for-all gate. Unreviewed map48 is not included."
+  }
+}

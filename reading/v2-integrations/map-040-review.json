@@ -1,0 +1,44 @@
+{
+  "map_id": 40,
+  "scope": "Complete worksheet instructions; no source chapter replacement",
+  "status": "private translated and locally preview/site/PDF checked; source errors and external/live/mobile limitations remain",
+  "published": false,
+  "reading_targets": [
+    "embellishingTones.md"
+  ],
+  "sources": [
+    {
+      "name": "040-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Embellishing-Tones.pdf",
+      "sha256": "ddba48f3d15e0bc71903a88fa2e9f5ec7af1f1c67a58d3acc4dfa6abfd7245dc",
+      "bytes": 364045
+    }
+  ],
+  "source_html_sha256": "a4964d52cf199ba8a6b188feed129fd0318cb3363330af60a0d5e9927c27b389",
+  "checks": {
+    "Q01": "Read original complete chapter context and selected unit, compared existing root chapter; no root edits",
+    "Q02": "Selected source unit fully translated, source differences explicitly retained",
+    "Q03": "Hebrew self review; no claim of independent human review",
+    "Q04": "Approved glossary terms retained; new labels translated with original English when helpful",
+    "Q05": "Original ABC, roman case and score bytes unchanged; source I/i error in37 clarified visibly",
+    "Q06": "Source relative syllables retained; no fixed-do substitution",
+    "Q07": "Source-cell compare for35 all35tables; source anomalies visible; no full answer-key claim for37/40",
+    "Q08": "Latest local site191pages156content and full895pagePDF passed; companionZIP CRC passed; no missing local links. This is not proof of musical fidelity.",
+    "Q09": "All local PDFs exist; source/playback/external links not comprehensively verified",
+    "Q10": "37 seven original pages and40 two pages rendered and visually checked;35 no copied notation assets; external playback pending",
+    "Q11": "Three-page combined cadence/embellishing Hebrew preview visually inspected; live/mobile pending",
+    "Q12": "Authors and individual worksheet CC BY-SA4.0 credits present; source corrections and external-media limits visible"
+  },
+  "rights_provenance": [
+    "https://librarycompany.org/a-collection-of-new-cotillions/",
+    "https://blogs.loc.gov/nls-music-notes/2022/02/hidden-gems-of-the-nls-collection-francis-frank-johnson/"
+  ],
+  "audio": {
+    "protected_input_count": 390,
+    "new_narration": 0,
+    "verification": "Repeat protected hash comparison before saving",
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "source": "https://viva.pressbooks.pub/openmusictheory/chapter/chords-in-satb-style/",
+  "collection_note": "Unmodified independent images retain individualCCBYNC-SA4.0. Text license doesnot replace assetlicenses.",
+  "assets": [
+    {
+      "path": "Graphics/omt-v2-integrations/023-01.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/stemming.png",
+      "sha256": "25774d399aa395623a4970bab2499623d75613d7cbc85b32bd120e513fa859e2",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-02.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/wrong-notes.png",
+      "sha256": "0b8dd5bad6110d9a3be44cc03fcbe9bfebe1d8abf2ebc2feb6f708a5a07a4d95",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-03.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/range.png",
+      "sha256": "14eae8d6ea1ac6278cd3f269d5f633010870ee2dcff56e3324fc4ad4c28f5c13",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-04.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/too-high.png",
+      "sha256": "a07343d5e01777064394c3a107ff4d3e2883d0d6fad6683fe4c20d301e2041c9",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-05.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/spacing.png",
+      "sha256": "7e10ef0847f9061d4c2686b0af3ff7ee5ca2ef3f35bf1b7468e207dd13c44a76",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-06.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/voice-crossing.png",
+      "sha256": "301bfd858f8a7b87d439f8ad11a0b99df32c4189732f03405f1d5b9f12a13e03",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-07.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/doubled_lt.png",
+      "sha256": "f01cfb49b5033f284bf30244e0b61812771f3424c442491647d2207622ca1689",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    }
+  ]
+}

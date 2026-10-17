@@ -1,0 +1,108 @@
+{
+  "map_id": 23,
+  "status": "translated-source-compared; local PDF/site built; live/mobile/media limits remain",
+  "scope": "Full worksheet instructions and selected overlapping prose units; SATB six-rule units with original images only in map23. Existing root chapters unchanged.",
+  "reading_targets": [
+    "bassoContinuo.md"
+  ],
+  "original_pdf_pages_reviewed": 0,
+  "local_pdfs": 0,
+  "sources": [
+    {
+      "path": "Graphics/omt-v2-integrations/023-01.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/stemming.png",
+      "sha256": "25774d399aa395623a4970bab2499623d75613d7cbc85b32bd120e513fa859e2",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-02.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/wrong-notes.png",
+      "sha256": "0b8dd5bad6110d9a3be44cc03fcbe9bfebe1d8abf2ebc2feb6f708a5a07a4d95",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-03.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/range.png",
+      "sha256": "14eae8d6ea1ac6278cd3f269d5f633010870ee2dcff56e3324fc4ad4c28f5c13",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-04.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/too-high.png",
+      "sha256": "a07343d5e01777064394c3a107ff4d3e2883d0d6fad6683fe4c20d301e2041c9",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-05.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/spacing.png",
+      "sha256": "7e10ef0847f9061d4c2686b0af3ff7ee5ca2ef3f35bf1b7468e207dd13c44a76",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-06.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/voice-crossing.png",
+      "sha256": "301bfd858f8a7b87d439f8ad11a0b99df32c4189732f03405f1d5b9f12a13e03",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    },
+    {
+      "path": "Graphics/omt-v2-integrations/023-07.png",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/doubled_lt.png",
+      "sha256": "f01cfb49b5033f284bf30244e0b61812771f3424c442491647d2207622ca1689",
+      "author": "Megan Lavengood",
+      "license": "CC BY-NC-SA4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "modifications": "None; original bytes; Hebrew caption outsideimage",
+      "scope": "Asset-specific license exception; not relicensed under textCCBYSA"
+    }
+  ],
+  "source_notes": [
+    "SeparateSATBvocalframework versusv1keyboard",
+    "Originalsourcecaption15numbering preservedwithnote",
+    "Sevenunchangedoriginalimages withindividualCCBYNC-SA4.0 exceptions; noimage relicensing"
+  ],
+  "checks": {
+    "Q01": "Sourcecompared selectedunits; modalities/qualifiers retained",
+    "Q02": "All worksheetinstructionparts translated; excludedmodernthirdpartyassetsexplicit",
+    "Q03": "AIselfreview, not independenthumanproofreading",
+    "Q04": "Glossary andnewEnglishterms checked",
+    "Q05": "Originalassetbytes andnotation retained",
+    "Q06": "No solfege conversion; roman cases preserved",
+    "Q07": "Spelledexamples independentlycomputed; not everyunansweredexercise solved",
+    "Q08": "191-page site and 857-page full PDF build passed through map28; no missing local links/images. Later map34/36 additions require new build.",
+    "Q09": "Finalanchor/localtargetcheckpending; sourcePDFs fetched; externalplaybacknotverified",
+    "Q10": "0originalPDFpages visuallyreviewed; SATB7originalimages reviewedwhereapplicable",
+    "Q11": "Combined 30-page Hebrew preview rendered; final Roman-numeral footer and five counterpoint pages visually checked. Live/mobile still pending.",
+    "Q12": "Authors,licenseexceptions,AI andsourcecorrections visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "published": false
+}

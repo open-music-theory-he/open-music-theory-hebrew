@@ -1,0 +1,43 @@
+{
+  "map_id": 26,
+  "status": "translated-source-compared; local PDF/site built; live/mobile/media limits remain",
+  "scope": "Full worksheet instructions and selected overlapping prose units; SATB six-rule units with original images only in map23. Existing root chapters unchanged.",
+  "reading_target": "secondSpecies.md",
+  "original_pdf_pages_reviewed": 2,
+  "local_pdfs": 2,
+  "sources": [
+    {
+      "name": "026-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/07/WK-Second-species-Counterpoint-A.pdf",
+      "sha256": "5322fb3f2747e7a608b08bff4220546ab7cb62e05cb7f1daac25900aa129ae7d",
+      "bytes": 43003
+    },
+    {
+      "name": "026-2-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/07/WK-Second-species-Counterpoint-B.pdf",
+      "sha256": "1c21efdaeb4b4bf5d8a8df26071b23cdfe2218037ca819eaf18a7afcd19a5286",
+      "bytes": 42301
+    }
+  ],
+  "checks": {
+    "Q01": "All instructionlines compared",
+    "Q02": "Errorcritique count, voice/measure/beat references, genericintervals,above/below and compositionconstraints retained",
+    "Q03": "AIselfreview, not independenthumanreview",
+    "Q04": "Approvedcantus, species, embellishingtone terms",
+    "Q05": "OriginalPDFbytes preserved",
+    "Q06": "Do-basedsolfege unchanged; map24 v1/v2 guideline difference visible",
+    "Q07": "Whole-note lengths and error/embellishmentcounts checked; intentionalerrors not silentlyfixed; no answerkey claimed",
+    "Q08": "191-page site and 857-page full PDF build passed through map28; no missing local links/images. Later map34/36 additions require new build.",
+    "Q09": "Localtargets exist; finalanchorspending; sourcePDFs downloaded",
+    "Q10": "Bothoriginalpages rendered andvisuallyreviewed",
+    "Q11": "Combined 30-page Hebrew preview rendered; final Roman-numeral footer and five counterpoint pages visually checked. Live/mobile still pending.",
+    "Q12": "KyleGullings2026,CCBYSA4.0,AI noted"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "published": false
+}

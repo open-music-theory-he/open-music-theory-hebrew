@@ -1,0 +1,40 @@
+{
+  "map_id": 34,
+  "scope": "Complete assignment unit plus full Meyer/Prinner/modulatingPrinner table units; existing prose retained",
+  "source": "https://viva.pressbooks.pub/openmusictheory/chapter/galant-schemas/",
+  "cached_source": "context/pages/toc-chapter-310.html",
+  "target": "schemata-improv.md",
+  "source_sha256": "7d1aeee93f880a4b6e71118a3377d0ae3a987ce5dd7134a7edf1eb2e430e5ec0",
+  "checks": {
+    "Q01": "Source prose compared; distinctions ascending/descending, bass/right-hand position retained",
+    "Q02": "All assignment instructions, 3fullschema tables and explanations translated; duplicate sub-tables represented by explicit stage descriptions",
+    "Q03": "Hebrew self review completed, ambiguous blank scale flagged instead of guessed",
+    "Q04": "Rule of octave, partimento, sequence, suspension glossary terms compared",
+    "Q05": "Figures and numeric patterns retained within LTR elements; no note spelling changed",
+    "Q06": "No new solfege in these additions; no conversion of source system",
+    "Q07": "Descending fifth + ascending fourth checked as seven diatonic positions down/up net one step below; suspension patterns preserved, not independently score verified",
+    "Q08": "Markdown parsed for five-page preview; final whole-book build pending these additions",
+    "Q09": "Source links retained; external HTTP/availability unverified and disclosed",
+    "Q10": "External notation files not copied, licensed, transformed, or claimed rendered; legacy assets remain untouched",
+    "Q11": "Five-page practice/rule preview and two-page tables preview visually checked; mobile/live pending",
+    "Q12": "Author and CC BY-SA text license, separate external-file rights and editorial notes visible"
+  },
+  "limitations": [
+    "External files/license and playback unverified",
+    "Map34 prose-table update still pending",
+    "Other mapped work incomplete"
+  ],
+  "status": "private translated draft; source musical files unverified",
+  "source_cache": "context/pages/toc-chapter-310.html",
+  "reading_targets": [
+    "schemata-improv.md",
+    "schemataOpensAndCloses.md"
+  ],
+  "published": false,
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  }
+}

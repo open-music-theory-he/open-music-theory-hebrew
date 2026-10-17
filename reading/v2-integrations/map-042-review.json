@@ -1,0 +1,46 @@
+{
+  "map_id": 42,
+  "reading_targets": [
+    "harmonicSyntax2.md"
+  ],
+  "scope": "Complete selected writing/prolongation units, bass summary and full worksheet instructions; overview ice-cream analogy and source score illustrations not imported",
+  "sources": [
+    {
+      "name": "042-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Prolonging-Tonic-at-Phrase-Beginnings-Using-V6-and-Inverted-V7.pdf",
+      "sha256": "7c7e2f636f3e3304e119bd1881c38ed7de8b574708f56db413fd16c53dd71249",
+      "bytes": 416461
+    },
+    {
+      "name": "042-1-2.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Schubert_Three_Piano_946_I-II.pdf",
+      "sha256": "d9fd1737119aed0a5e3abd9a0c2a860700ead1bfeb11e10f4b912ce59380bccd",
+      "bytes": 895574
+    }
+  ],
+  "source_html_sha256": "e6ad834d438c3220af80dc9558e536dcf4e01a287b5e77e38205c0b902d235e3",
+  "source_pdf_pages_visually_reviewed": 3,
+  "published": false,
+  "local_pdf_included": false,
+  "status": "private translated/source/PDF-preview/site/export checked; external scans/playback/live/mobile limitations remain",
+  "checks": {
+    "Q01": "Read original full context and root chapter, preserved common/uncommon options and seventh-resolution exception",
+    "Q02": "Writing units+summary+all6guided worksheet questions and subquestions retained, page references to external score explicit",
+    "Q03": "Hebrew self review only",
+    "Q04": "Prolongation, chord inversions and keyboard-style glossary terms retained",
+    "Q05": "V6/5,V4/2,V4/3 and I/I6 exact; no scan changed",
+    "Q06": "Relative do/ti/re/mi/fa/sol retained, no ABC conversion of relative syllables",
+    "Q07": "Four bass patterns manually checked; special seventh-up exception scoped to parallel tenths; no worksheet answer-key claim",
+    "Q08": "Latest full build through43 passed:899pagePDF,191sitepages156content,no missing local links;companionZIP CRC passed",
+    "Q09": "External source and score URLs preserved; no playback claim",
+    "Q10": "3original worksheet pages rendered and visually reviewed; full score reading/edition rights pending, no local import",
+    "Q11": "Latest four-page combined Hebrew PDF rendered and visually checked; nested Schubert subquestions corrected to stay under question6; live/mobile pending",
+    "Q12": "JohnPeterson2021CCBYSA4.0; external-scan/media limitations visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  }
+}

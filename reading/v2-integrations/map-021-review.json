@@ -1,0 +1,62 @@
+{
+  "map_id": 21,
+  "status": "translated-source-compared; local PDF/site built; live/mobile/media limits remain",
+  "scope": "Full worksheet instructions and selected overlapping prose units; SATB six-rule units with original images only in map23. Existing root chapters unchanged.",
+  "reading_targets": [
+    "RNfromFB.md"
+  ],
+  "original_pdf_pages_reviewed": 7,
+  "local_pdfs": 3,
+  "sources": [
+    {
+      "name": "021-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-1.pdf",
+      "sha256": "92ef5a1386ab13e843a4b9d319d52cd99291ac0cf52abacf1520c70892ac63fd",
+      "bytes": 61148
+    },
+    {
+      "name": "021-2-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-2.pdf",
+      "sha256": "2cc575f4cccd214a098a5cac856d8fb46d2869eb7ef1d9e4662f36602f45b7e7",
+      "bytes": 40927
+    },
+    {
+      "name": "021-3-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-3.pdf",
+      "sha256": "bebd265d3aa07970d8f0a4bc5ab05f47fe2d4a33b639159177f775160211b044",
+      "bytes": 64260
+    },
+    {
+      "name": "021-4-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-Roman-numerals.pdf",
+      "sha256": "82c2e6581793c0af49bbcaabf314caaba7cf117a2b795e47e93a8b1a9bc367b1",
+      "bytes": 107731
+    }
+  ],
+  "source_notes": [
+    "Combinedworksheet modernthirdparty excerpts externalonly, notcopied",
+    "Historicalchoralemetadata retainedassourceclaims; not independently catalogverified",
+    "ThreeexistingmusicalMP3linked, not copiedorcreated"
+  ],
+  "checks": {
+    "Q01": "Sourcecompared selectedunits; modalities/qualifiers retained",
+    "Q02": "All worksheetinstructionparts translated; excludedmodernthirdpartyassetsexplicit",
+    "Q03": "AIselfreview, not independenthumanproofreading",
+    "Q04": "Glossary andnewEnglishterms checked",
+    "Q05": "Originalassetbytes andnotation retained",
+    "Q06": "No solfege conversion; roman cases preserved",
+    "Q07": "Spelledexamples independentlycomputed; not everyunansweredexercise solved",
+    "Q08": "191-page site and 857-page full PDF build passed through map28; no missing local links/images. Later map34/36 additions require new build.",
+    "Q09": "Finalanchor/localtargetcheckpending; sourcePDFs fetched; externalplaybacknotverified",
+    "Q10": "7originalPDFpages visuallyreviewed; SATB7originalimages reviewedwhereapplicable",
+    "Q11": "Combined 30-page Hebrew preview rendered; final Roman-numeral footer and five counterpoint pages visually checked. Live/mobile still pending.",
+    "Q12": "Authors,licenseexceptions,AI andsourcecorrections visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "published": false
+}

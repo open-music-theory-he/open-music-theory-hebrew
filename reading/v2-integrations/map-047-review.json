@@ -1,0 +1,39 @@
+{
+  "map_id": 47,
+  "reading_targets": [
+    "harmonicSyntax2.md"
+  ],
+  "scope": "All selected prose units and full six-part worksheet instructions; original score examples external only",
+  "published": false,
+  "local_pdf_included": false,
+  "source_html_sha256": "7503886697f32940c3f9e5b47d53575e8d95851b9ba0f18d505929f763a42f8e",
+  "sources": [
+    {
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-La-in-the-bass.pdf",
+      "sha256": "e1d236485cc4fb553e816aefac97a7cb456ead93d33107bfb5b6133f64520431",
+      "bytes": 844778
+    }
+  ],
+  "source_pdf_pages_visually_reviewed": 7,
+  "checks": {
+    "Q01": "Phrase-position differences, tendency strength and minor exceptions compared to source",
+    "Q02": "Both beginnings, two middle usages, two endings, all6worksheetparts/subquestions retained; source examples linked only",
+    "Q03": "Hebrew selfreview; no independent human proofread",
+    "Q04": "Deceptive motion vs cadence explicitly contextualized as author preference",
+    "Q05": "Roman case and inversions, Dmajor vs signature Gmajor/Eminor, Dbmajor shift retained",
+    "Q06": "Relative la/le,ti,me retained; minor sixth raised only in specified rare progression",
+    "Q07": "AminorF-G# augmentedsecond3semitones vsF#-G#majorsecond2;PHCF-E1semitone;dottedhalf6eighths matches6/8. Allvoicesdown/tiup source contradiction annotated. No complete score solution",
+    "Q08": "Full local export907pages;191sitepages156content validated;zero missinglegacy links;companionZIP CRCpassed",
+    "Q09": "Exact source/YouTube URLs/timestamps retained; playback unverified",
+    "Q10": "All7originalpages visually checked; individual score edition identification pending, externalonly",
+    "Q11": "Final three-page HebrewPDF rerender visually inspected; part4 instruction block kept together; live/mobile pending",
+    "Q12": "JohnPeterson2021CCBYSA instructions; source-contradiction note visible; no unidentifiedscanlicense claim"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "status": "private source/text/focusedPDF/fullPDF/site checked; live/mobile/playback and individualscanedition rights remain"
+}

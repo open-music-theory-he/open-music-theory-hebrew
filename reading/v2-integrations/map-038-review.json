@@ -1,0 +1,41 @@
+{
+  "map_id": 38,
+  "reading_targets": [
+    "tendencyTonesFunctionalDissonances.md"
+  ],
+  "scope": "Complete selected prose units and full worksheet instructions; linked source notation retained externally only",
+  "published": false,
+  "status": "private translated and locally preview/site/PDF checked; source errors and external/live/mobile limitations remain",
+  "source_html_sha256": "4c57505e74b1977f149aa320b6c894ebd7e6675cb2f21b2c38d9a7d33fa5cd49",
+  "source_pdf_pages_reviewed": 4,
+  "sources": [
+    {
+      "name": "038-1-1.pdf",
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-V7.pdf",
+      "sha256": "9b6cc5528720c3e0e0263d6e2482d057f8addd7aec43f41e9161f32029fe565b",
+      "bytes": 1238647
+    }
+  ],
+  "local_pdf_included": false,
+  "rights_limit": "38 old scan editions not individually identified;39 Hamilton modern notation/lyrics not imported",
+  "checks": {
+    "Q01": "Read full source context and compared existing root; stylistic scope retained",
+    "Q02": "All three V7 resolution workflows/qualifiers in38; all strong-PD writing units and complete worksheet questions in39",
+    "Q03": "Hebrew self review, not independent human proofread",
+    "Q04": "PD/S model distinctions and leading-tone terminology explicit",
+    "Q05": "I/i,V7,ii6,IV case and inversion retained; no notation transformation",
+    "Q06": "do-based relative syllables preserved; no absolute-D misreading of F-S-D",
+    "Q07": "V7 pitch resolutions verified conceptually; no full analysis or answer key of historical/modern excerpts",
+    "Q08": "Latest local site191pages156content and full895pagePDF passed; companionZIP CRC passed; no missing local links. This is not proof of musical fidelity.",
+    "Q09": "Worksheet/playlist URLs retained; external playback not verified",
+    "Q10": "4 source PDF pages rendered and visually reviewed; not copied due individual rights check pending",
+    "Q11": "Five-page V7/strong-PD preview visually inspected; live/mobile pending",
+    "Q12": "Author/book text license, source attribution and precise third-party exclusions visible"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "new_narration": 0,
+    "audio_tests_passed": 9
+  }
+}

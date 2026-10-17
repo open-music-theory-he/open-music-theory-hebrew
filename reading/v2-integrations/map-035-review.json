@@ -1,0 +1,34 @@
+{
+  "map_id": 35,
+  "scope": "Complete prose, summary table and34 detailed tables; original data preserved with visible source discrepancies",
+  "status": "private translated and locally preview/site/PDF checked; source errors and external/live/mobile limitations remain",
+  "published": false,
+  "reading_targets": [
+    "schemataSummary.md"
+  ],
+  "sources": [],
+  "source_html_sha256": "e3865fd0dc6a774e6a0c8d5ff305943d1f2a20a0fb42a60448277893ccce02d5",
+  "checks": {
+    "Q01": "Read original complete chapter context and selected unit, compared existing root chapter; no root edits",
+    "Q02": "Selected source unit fully translated, source differences explicitly retained",
+    "Q03": "Hebrew self review; no claim of independent human review",
+    "Q04": "Approved glossary terms retained; new labels translated with original English when helpful",
+    "Q05": "Original ABC, roman case and score bytes unchanged; source I/i error in37 clarified visibly",
+    "Q06": "Source relative syllables retained; no fixed-do substitution",
+    "Q07": "Source-cell compare for35 all35tables; source anomalies visible; no full answer-key claim for37/40",
+    "Q08": "Latest local site191pages156content and full895pagePDF passed; companionZIP CRC passed; no missing local links. This is not proof of musical fidelity.",
+    "Q09": "All local PDFs exist; source/playback/external links not comprehensively verified",
+    "Q10": "37 seven original pages and40 two pages rendered and visually checked;35 no copied notation assets; external playback pending",
+    "Q11": "Twelve-page schema preview inspected after preserving short tables; summary headers repeat; live/mobile pending",
+    "Q12": "Authors and individual worksheet CC BY-SA4.0 credits present; source corrections and external-media limits visible"
+  },
+  "rights_provenance": [],
+  "audio": {
+    "protected_input_count": 390,
+    "new_narration": 0,
+    "verification": "Repeat protected hash comparison before saving",
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9
+  }
+}

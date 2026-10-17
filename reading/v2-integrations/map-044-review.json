@@ -1,0 +1,32 @@
+{
+  "map_id": 44,
+  "reading_targets": [
+    "harmonicSyntax2.md"
+  ],
+  "scope": "Complete selected prose units, two tables, all four worksheet parts; score/audio examples linked only",
+  "published": false,
+  "local_pdf_included": false,
+  "source_html_sha256": "49c865ee03a6a7458f6089b4cdae19a470110ec123a0f9c57fa67731c734a560",
+  "source_pdf_pages_visually_reviewed": 3,
+  "checks": {
+    "Q01": "Compared all translated prose to cached source; recommendations and rare usage preserved",
+    "Q02": "Three preliminary points, inversion pairs, four tendency rows, diminished/half-diminished distinctions and all worksheet instructions retained; external media not translated",
+    "Q03": "Hebrew self review; not independent human proofreading",
+    "Q04": "Terms compared; tonal scope explicit",
+    "Q05": "B-D-F-A versus B-D-F-Ab; Roman inversion spelling retained",
+    "Q06": "ti/te, la/le retained; source mi vs minor me annotated",
+    "Q07": "B-D-F-Ab semitones0,3,6,9; B-D-F-A0,3,6,10; D-A perfect fifth7 vs D-Ab6; inversion bass pairs verified; not every score solved",
+    "Q08": "Full local export passed:904pages; companionZIP CRC passed;191sitepages156content validated. No missing local link errors.",
+    "Q09": "Exact cached source worksheet/Spotify URLs retained; no playback verification",
+    "Q10": "All three original worksheet pages visually reviewed; unidentified scan editions linked only",
+    "Q11": "Three focused Hebrew PDF pages visually reviewed after table/line-break/HTML fixes; live/mobile pending",
+    "Q12": "John Peterson2021 CC BY-SA4.0 instructions; source Endings URL mismatch explicitly documented"
+  },
+  "audio": {
+    "protected_inputs": 390,
+    "changed": [],
+    "audio_tests_passed": 9,
+    "new_narration": 0
+  },
+  "status": "private source/text/focusedPDF/full-export/site checked; live/mobile/playback and individualscanrights remain"
+}

@@ -42,6 +42,138 @@
       "addition": "rhythmicValues.md",
       "review_status": "beta-text-reviewed",
       "base_sha256": "7a131bbffdbd4262d76732362325114db6d0527e20dc46b7044e8e384bd54202"
+    },
+    {
+      "target": "scales.md",
+      "addition": "scales.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "adf9c682e115737f5685a79b04d77d1194838bd2bcf72c005fd5b9e6315c3475"
+    },
+    {
+      "target": "keySignatures.md",
+      "addition": "keySignatures.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "4498cf841495baf6dbf5a62d248cb92332862233ad936528b51f1892cd2bf157"
+    },
+    {
+      "target": "scales2.md",
+      "addition": "scales2.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "479ab15f14416781aeaa1f6deca4f78a69146de9c627e69dbab9240c62f60e9e"
+    },
+    {
+      "target": "triads.md",
+      "addition": "triads.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "48aa3fc0cf1d4dadd31e584e31cb921e74894f96fd9ecfdd8b40a3a7954748da"
+    },
+    {
+      "target": "RNfromFB.md",
+      "addition": "RNfromFB.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "5a81e1539edda60806000c79d8cd903375c20f214f1c5562777a0f796e7de2dd"
+    },
+    {
+      "target": "thoroughbassFigures.md",
+      "addition": "thoroughbassFigures.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "826d4394fc6157240a94d3dd10f2228a2a23cbb0710a1401b8d79a350ae01772"
+    },
+    {
+      "target": "bassoContinuo.md",
+      "addition": "bassoContinuo.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "eeb4272e59c486337f154744eaff4cfda0b1b32c03bd938b042f6a2ef8c3f17c"
+    },
+    {
+      "target": "fourthSpecies.md",
+      "addition": "fourthSpecies.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "66013193712bdc181712bf56e0240d258bb3d5fc74304ed4f35703605350e927"
+    },
+    {
+      "target": "thirdSpecies.md",
+      "addition": "thirdSpecies.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "f983482f6a1b0e652d7930dc0520a0691b4a715bdb085afbbede272c7e5a1e41"
+    },
+    {
+      "target": "cantusFirmus.md",
+      "addition": "cantusFirmus.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "ac670126c1e00bd2fb2d0610d8d5118d37fb3205a9107abe7b6f5c086c585e2b"
+    },
+    {
+      "target": "firstSpecies.md",
+      "addition": "firstSpecies.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "a2f3090ee6b4e57fda4bd211672f2f6dbc6952379dbca5ddf3b1c9b0360eda23"
+    },
+    {
+      "target": "secondSpecies.md",
+      "addition": "secondSpecies.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "d926848f67ce63e348dd270788b502e8e4e1615a173945a274df5adadfc8d379"
+    },
+    {
+      "target": "schemata-improv.md",
+      "addition": "schemata-improv.md",
+      "review_status": "beta-text-reviewed",
+      "base_sha256": "9c8518df73b5bb645a7a1b564b4085efa837fb784434736baa6b19c69b47a0c3"
+    },
+    {
+      "target": "unfiguredBass.md",
+      "addition": "unfiguredBass.md",
+      "base_sha256": "49d7791e13aa6ad7935d8541f5f2e816e777a3255da447cea346858e6716ad41",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "schemataOpensAndCloses.md",
+      "addition": "schemataOpensAndCloses.md",
+      "base_sha256": "b93f784b020adb18d7d1e061a63f531a28a08323b19c92f46b606f2048efd0b0",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "schemataSummary.md",
+      "addition": "schemataSummary.md",
+      "base_sha256": "0ad43f3f48d575e7611050bb626f66c969a4afec0734680818e9e8e8696c4455",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "cadenceTypes.md",
+      "addition": "cadenceTypes.md",
+      "base_sha256": "a69c4b4bb997bf0ffe8b31cf04096a69429b664c3af009813c291bf10f65df9a",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "embellishingTones.md",
+      "addition": "embellishingTones.md",
+      "base_sha256": "61d4b417c9b4d6f397ac811eac7766e01783f8ab43b3898f64a6d0f35bf6a573",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "tendencyTonesFunctionalDissonances.md",
+      "addition": "tendencyTonesFunctionalDissonances.md",
+      "base_sha256": "6a9d9418f5c179ae24ffeebaac6b81e5a8188464bc2dee81c07c7dcf9378c50c",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "harmonicSyntax1.md",
+      "addition": "harmonicSyntax1.md",
+      "base_sha256": "e602a39697928cb601dee23faa4fae2f0eaf15358ac577736f8d34130ddadd2f",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "harmonicSyntax2.md",
+      "addition": "harmonicSyntax2.md",
+      "base_sha256": "fafd597fc4fa44f389dd6a2d0ab281caa7c0ab80f1fc90ece565c6ef38487c8e",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "harmonicAnalysis.md",
+      "addition": "harmonicAnalysis.md",
+      "base_sha256": "0e763a346d11b47a5eaac875797e31e1b53b1679b924078295c81ba9cdfc3bf9",
+      "review_status": "beta-text-reviewed"
     }
   ]
 }
