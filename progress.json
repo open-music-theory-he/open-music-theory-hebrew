@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 12,
-  "completed_chapters": 103,
+  "completed_chapters": 104,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -733,7 +733,7 @@
       "title": "104 — צורה בפופ וברוק — סימון לניתוח",
       "segments_ready": 2,
       "segments_total": 2,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 105,
@@ -885,5 +885,5 @@
   ],
   "requests": 66,
   "successes": 12,
-  "elapsed_seconds": 6523.33
+  "elapsed_seconds": 6525.69
 }
