@@ -3,7 +3,7 @@
   "chapters_total": 125,
   "segments_total": 459,
   "new_segments": 4,
-  "completed_chapters": 112,
+  "completed_chapters": 113,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
   "chapters": [
@@ -796,7 +796,7 @@
       "title": "114 — הוספת רישיון Creative Commons לרשומת בלוג",
       "segments_ready": 1,
       "segments_total": 1,
-      "complete": false
+      "complete": true
     },
     {
       "chapter": 115,
@@ -885,5 +885,5 @@
   ],
   "requests": 4,
   "successes": 4,
-  "elapsed_seconds": 71.06
+  "elapsed_seconds": 72.67
 }
