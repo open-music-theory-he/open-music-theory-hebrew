@@ -2,7 +2,7 @@
   "status": "running",
   "chapters_total": 125,
   "segments_total": 459,
-  "new_segments": 28,
+  "new_segments": 29,
   "completed_chapters": 122,
   "voice": "Iapetus",
   "model": "gemini-3.8-flash-tts",
@@ -864,7 +864,7 @@
     {
       "chapter": 124,
       "title": "124 — צורת מינואט — עמוד עזר חלופי מן המקור",
-      "segments_ready": 1,
+      "segments_ready": 2,
       "segments_total": 4,
       "complete": false
     },
@@ -883,7 +883,7 @@
       "complete": false
     }
   ],
-  "requests": 30,
-  "successes": 28,
-  "elapsed_seconds": 638.23
+  "requests": 31,
+  "successes": 29,
+  "elapsed_seconds": 665.18
 }
