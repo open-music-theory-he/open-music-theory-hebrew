@@ -1,0 +1,32 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Charon",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "29c69e98d11286c55e9ff721396dd92fd0891ec05adf6189e87fa53dee560b3a",
+  "text_sha256": "af7ba6043eac044d9b051530dc7133d46c092daa8d53fdcd8026e6a7769a068c",
+  "raw_wav_sha256": "d3f7bd0fa384b8803185a71f4c0d1481811b47ffe48ab254b112a62a6e1addc1",
+  "mp3_sha256": "86841c9a0814fd8db3d8255a1a14c99ba3ec55fe71f85e5bf6a673f3457aefb8",
+  "seconds": 17.88,
+  "format": {
+    "channels": 1,
+    "sample_rate": 24000,
+    "sample_width": 2,
+    "frames": 429120
+  },
+  "recorded_utc": "2026-10-19T21:41:38.490498+00:00",
+  "status": "recorded-awaiting-user-listening",
+  "opening_source": null,
+  "provider_request_config": {
+    "model": "gemini-3.8-flash-tts",
+    "response_format": {
+      "type": "audio",
+      "mime_type": "audio/wav"
+    },
+    "voice": "Charon",
+    "speech_metadata_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.",
+    "store": false
+  }
+}
