@@ -6,7 +6,7 @@
   "batch": "39329352033",
   "generation_run_id": "39329956921",
   "source_commit": "89021b7d9e93b82924d3ab5a7b2ef01b1be94542",
-  "status": "running",
+  "status": "completed-awaiting-choice",
   "completed": [
     "01-Charon-measured",
     "02-Charon-fluent",
