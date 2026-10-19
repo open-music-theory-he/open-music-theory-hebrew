@@ -1,0 +1,61 @@
+name: Audiobook v3 auditions ONLY — no chapter production
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: audiobook-auditions
+  cancel-in-progress: false
+jobs:
+  auditions-only:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install sample tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install -r scripts/requirements-audiobook.txt
+      - name: Validate six auditions and zero book chapters
+        run: python scripts/audiobook_v3_auditions.py --prepare-only
+      - name: Restore existing auditions without replacing them
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          mkdir -p dist
+          git fetch --no-tags origin audiobook-auditions
+          git worktree add --detach dist/audiobook-auditions FETCH_HEAD
+      - name: Generate samples only and preserve raw WAV plus metadata
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KAYS: ${{ secrets.GEMINI_API_KAYS }}
+          AUDITION_V3_CHECKPOINT: 'true'
+        run: python -u scripts/audiobook_v3_auditions.py
+      - name: Preserve this sample batch on failure
+        if: always()
+        run: |
+          if [ -d "dist/audiobook-auditions/v3/$GITHUB_RUN_ID" ]; then
+            git -C dist/audiobook-auditions add -- v3
+            if ! git -C dist/audiobook-auditions diff --cached --quiet; then
+              git -C dist/audiobook-auditions commit -m 'Preserve interrupted v3 auditions'
+            fi
+            git -C dist/audiobook-auditions fetch --no-tags origin audiobook-auditions
+            git -C dist/audiobook-auditions rebase FETCH_HEAD
+            git -C dist/audiobook-auditions push origin HEAD:audiobook-auditions
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: audiobook-v3-auditions-raw-and-metadata
+          path: dist/audiobook-v3-auditions.zip
+          if-no-files-found: warn
+          retention-days: 30
