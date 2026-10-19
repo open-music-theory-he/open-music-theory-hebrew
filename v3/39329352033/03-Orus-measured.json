@@ -1,0 +1,19 @@
+{
+  "number": 3,
+  "id": "03-Orus-measured",
+  "voice": "Orus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.",
+  "label": "Orus — מדוד",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+  "model": "gemini-3.8-flash-tts",
+  "combined_sha256": "044b6ee44eec5c1f1da1a1b91fd098ef7d98144ac9c8dcb015460c383488a3f8",
+  "opening_segment": "segments/opening-Orus",
+  "narration_segment": "segments/03-Orus-measured",
+  "opening_identity_sha256": "f5914498dd7bf9a023a71fc6db75c60410d664596d53daa3d00401168ee4882d",
+  "narration_identity_sha256": "2cc6a91fa57169dc24ae6ce9cc9d99d14fbfc215be8a0ad483532be82130cad3",
+  "opening_text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
+  "opening_text_sha256": "122ea37cc5104b2f61e4010f8104b3b126ce2bce32bb5fdc49663dda36cb9178",
+  "status": "audition-awaiting-choice",
+  "production_enabled": false
+}
