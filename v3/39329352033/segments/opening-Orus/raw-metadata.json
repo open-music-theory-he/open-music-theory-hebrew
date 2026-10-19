@@ -1,0 +1,12 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Orus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+  "text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "f5914498dd7bf9a023a71fc6db75c60410d664596d53daa3d00401168ee4882d",
+  "raw_wav_sha256": "f102be5d10bcc2507e0bff9a749ee710a0b0c03823fd10d6b8247a37e7c01217",
+  "seconds": 14.0,
+  "status": "raw-preserved-before-encoding"
+}
