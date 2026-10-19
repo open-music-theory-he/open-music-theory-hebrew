@@ -12,7 +12,8 @@
     "02-Charon-fluent",
     "03-Orus-measured",
     "04-Orus-fluent",
-    "05-Iapetus-measured"
+    "05-Iapetus-measured",
+    "06-Iapetus-fluent"
   ],
   "opening_text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
   "opening_source": "audiobook-auditions/00-introduction.json",
