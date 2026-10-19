@@ -1,0 +1,32 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+  "text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "f306d59c3bbb4e5d2a90cce53fe46e4799afe72936fb7b96223d6ddbbe05f0b8",
+  "text_sha256": "122ea37cc5104b2f61e4010f8104b3b126ce2bce32bb5fdc49663dda36cb9178",
+  "raw_wav_sha256": "4a77865f554ba512feb84b5536877af821ccbb55f7a7ab313f71d9f5247aa27e",
+  "mp3_sha256": "88c8d6be2c9cefe3578c293e15935e6906befd51335a7510cf4c17835167f17a",
+  "seconds": 14.68,
+  "format": {
+    "channels": 1,
+    "sample_rate": 24000,
+    "sample_width": 2,
+    "frames": 352320
+  },
+  "recorded_utc": "2026-10-19T21:46:44.593107+00:00",
+  "status": "recorded-awaiting-user-listening",
+  "opening_source": "audiobook-auditions/00-introduction.json",
+  "provider_request_config": {
+    "model": "gemini-3.8-flash-tts",
+    "response_format": {
+      "type": "audio",
+      "mime_type": "audio/wav"
+    },
+    "voice": "Iapetus",
+    "speech_metadata_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+    "store": false
+  }
+}
