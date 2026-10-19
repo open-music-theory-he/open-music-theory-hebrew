@@ -1,0 +1,19 @@
+{
+  "number": 1,
+  "id": "01-Charon-measured",
+  "voice": "Charon",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.",
+  "label": "Charon — מדוד",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+  "model": "gemini-3.8-flash-tts",
+  "combined_sha256": "aac7a593d63f114a1242e6259ef75a1883a36128f624251a90cca9ea52e4759c",
+  "opening_segment": "segments/opening-Charon",
+  "narration_segment": "segments/01-Charon-measured",
+  "opening_identity_sha256": "38f934a8560cc1386b0bd3975594f559a3c9ed62c74ad4861039ebd78d1b6811",
+  "narration_identity_sha256": "29c69e98d11286c55e9ff721396dd92fd0891ec05adf6189e87fa53dee560b3a",
+  "opening_text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
+  "opening_text_sha256": "122ea37cc5104b2f61e4010f8104b3b126ce2bce32bb5fdc49663dda36cb9178",
+  "status": "audition-awaiting-choice",
+  "production_enabled": false
+}
