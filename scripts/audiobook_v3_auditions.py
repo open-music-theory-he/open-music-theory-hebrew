@@ -6,6 +6,7 @@ from pathlib import Path
 from export_audiobook import ROOT, atomic, save_json, synthesize, ffmpeg, Paused
 
 MODEL = 'gemini-3.8-flash-tts'
+RUN_DEADLINE = time.monotonic() + 2100
 OPENING = 'קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.'
 OPENING_SOURCE = 'audiobook-auditions/00-introduction.json'
 BASE = 'Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects.'
@@ -14,6 +15,21 @@ STYLES = [('measured','מדוד','Measured educational audiobook narration, calm
 
 def sha(b): return hashlib.sha256(b).hexdigest()
 def canonical(j): return json.dumps(j,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()
+
+def request_sample(text,config,key):
+    for attempt in range(6):
+        try:
+            return synthesize(text,config,key)
+        except Paused as pause:
+            reason=str(pause)
+            safe_reason=reason if re.fullmatch(r'(?:daily_quota_exhausted|quota_or_rate_limit_429|network_or_timeout|service_temporarily_unavailable_(?:500|502|503|504))',reason) else 'provider_pause'
+            if safe_reason in ('daily_quota_exhausted','provider_pause') or attempt==5:
+                raise
+            delay=max(pause.retry_after or 0, min(300,70*2**attempt) if safe_reason=='quota_or_rate_limit_429' else min(120,10*2**attempt))
+            if time.monotonic()+delay+config['request_timeout_seconds']>=RUN_DEADLINE:
+                raise Paused('audition_time_budget_reached') from None
+            print(f'Sample request paused: {safe_reason}; retry in {delay:.0f}s; no key rotation',flush=True)
+            time.sleep(delay)
 
 def sample_text():
     # Exact existing paragraph, with only formatting removal and policy-approved niqqud.
@@ -56,7 +72,7 @@ def record(folder,text,voice,style,key):
         if saved['identity_sha256']!=identity_sha or saved['raw_wav_sha256']!=sha(raw): raise RuntimeError('Unverified saved raw WAV; preserved for recovery')
         seconds=saved['seconds']
     else:
-        raw,seconds=synthesize(text,config,key)
+        raw,seconds=request_sample(text,config,key)
         atomic(wav,raw)  # Never overwrite an existing original provider result.
         save_json(raw_receipt,{**identity,'identity_sha256':identity_sha,'raw_wav_sha256':sha(raw),'seconds':seconds,'status':'raw-preserved-before-encoding'})
     ffmpeg(['-i',str(wav),'-c:a','libmp3lame','-q:a','2',str(mp3)])
@@ -71,7 +87,7 @@ def main():
     samples=plan()
     if args.prepare_only:
         print(json.dumps({'samples':len(samples),'raw_segments':9,'book_chapters':0,'opening_text_sha256':sha(OPENING.encode())}));return
-    batch=os.environ.get('GITHUB_RUN_ID','')
+    batch=os.environ.get('AUDITION_RESUME_BATCH','').strip() or os.environ.get('GITHUB_RUN_ID','')
     if not re.fullmatch(r'[0-9]+',batch): raise RuntimeError('A GitHub audition run ID is required')
     key=os.environ.get('GEMINI_API_KEY','').strip()
     if not key:
@@ -79,7 +95,7 @@ def main():
     if not key: key=next((k.strip() for k in os.environ.get('GEMINI_API_KAYS','').splitlines() if k.strip()),'')
     if not key or any(c.isspace() for c in key): raise RuntimeError('A valid runtime audition secret is missing')
     state=ROOT/'dist/audiobook-auditions';out=state/'v3'/batch;out.mkdir(parents=True,exist_ok=True)
-    report={'edition':3,'purpose':'auditions-only','production_enabled':False,'book_chapters_recorded':0,'batch':batch,'status':'running','completed':[],'opening_text':OPENING,'opening_source':OPENING_SOURCE,'opening_text_sha256':sha(OPENING.encode()),'samples':samples}
+    report={'edition':3,'purpose':'auditions-only','production_enabled':False,'book_chapters_recorded':0,'batch':batch,'generation_run_id':os.environ.get('GITHUB_RUN_ID'),'source_commit':os.environ.get('GITHUB_SHA'),'status':'running','completed':[],'opening_text':OPENING,'opening_source':OPENING_SOURCE,'opening_text_sha256':sha(OPENING.encode()),'samples':samples}
     try:
         for sample in samples:
             voice=sample['voice'];opening=out/'segments'/('opening-'+voice);narration=out/'segments'/sample['id']
@@ -93,8 +109,10 @@ def main():
             report['completed'].append(sample['id']);save_json(out/'progress.json',report);checkpoint(state)
             print(f'Audition {sample["number"]}/6 preserved',flush=True)
         report['status']='completed-awaiting-choice'
-    except Paused:
+    except Paused as pause:
         report['status']='paused-provider-quota-or-network'
+        reason=str(pause)
+        report['pause_reason']=reason if re.fullmatch(r'(?:daily_quota_exhausted|quota_or_rate_limit_429|network_or_timeout|service_temporarily_unavailable_(?:500|502|503|504)|audition_time_budget_reached)',reason) else 'provider_pause'
     finally:
         save_json(out/'progress.json',report)
         cards=''.join('<section><h2>'+str(s['number'])+' — '+html.escape(s['label'])+'</h2><audio controls src="'+s['id']+'.mp3"></audio><p><a href="'+s['id']+'.mp3" download>MP3</a></p></section>' for s in samples if s['id'] in report['completed'])
