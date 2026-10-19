@@ -1,0 +1,12 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "569d0b30bb290004bc4d3c6a47bfc08ec85f63de4a69be231be891deebb458e3",
+  "raw_wav_sha256": "328989ca1bfdea90796425b3847692170b92c23132bce34131ef756a4a06a9d3",
+  "seconds": 17.56,
+  "status": "raw-preserved-before-encoding"
+}
