@@ -1,6 +1,11 @@
 name: Audiobook v3 auditions ONLY — no chapter production
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      resume_batch:
+        description: Optional previous audition run ID; reuse only checksum-matching original segments
+        type: string
+        default: ''
 permissions:
   contents: write
 concurrency:
@@ -10,6 +15,8 @@ jobs:
   auditions-only:
     runs-on: ubuntu-24.04
     timeout-minutes: 40
+    env:
+      AUDITION_RESUME_BATCH: ${{ inputs.resume_batch }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -43,7 +50,8 @@ jobs:
       - name: Preserve this sample batch on failure
         if: always()
         run: |
-          if [ -d "dist/audiobook-auditions/v3/$GITHUB_RUN_ID" ]; then
+          batch_id="${AUDITION_RESUME_BATCH:-$GITHUB_RUN_ID}"
+          if [ -d "dist/audiobook-auditions/v3/$batch_id" ]; then
             git -C dist/audiobook-auditions add -- v3
             if ! git -C dist/audiobook-auditions diff --cached --quiet; then
               git -C dist/audiobook-auditions commit -m 'Preserve interrupted v3 auditions'
