@@ -174,6 +174,78 @@
       "addition": "harmonicAnalysis.md",
       "base_sha256": "0e763a346d11b47a5eaac875797e31e1b53b1679b924078295c81ba9cdfc3bf9",
       "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "Modulation.md",
+      "addition": "Modulation.md",
+      "base_sha256": "53d7d28370588a252f50326d9e6c85fd2e37d0740812d421ef9ff8c97f38a69b",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "appliedChords.md",
+      "addition": "appliedChords.md",
+      "base_sha256": "8a65f97a34a179729df316669c6826433f2f95630138a5f0c347fc003c39932c",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "themeFunctions.md",
+      "addition": "themeFunctions.md",
+      "base_sha256": "2b299cefd39bf5924f9ff46084fe17c54d6db0ddf2f21f3a26cc29c51773101e",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "classicalThemes.md",
+      "addition": "classicalThemes.md",
+      "base_sha256": "7999962c48cb296df3c161cb58ac5ed16851a927818706563b3c19b7493ca41c",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "sentence.md",
+      "addition": "sentence.md",
+      "base_sha256": "5f04661ee269aeb6daa0d5ac6b7a713379669f8daf42a2b75e98135ce6226cfc",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "period.md",
+      "addition": "period.md",
+      "base_sha256": "ee8a88281d6071bbdd6daed03e3b1cc72fda1d6437e0b561438c49e64a955a45",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "compoundSentence.md",
+      "addition": "compoundSentence.md",
+      "base_sha256": "a6e2f65c6e23d28e36440d9c1643026b6291b20339e4e93be6717be5f9860ac4",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "compoundPeriod.md",
+      "addition": "compoundPeriod.md",
+      "base_sha256": "f0b45706192335c77a25092f624ed5e3561b8a2f716b03897f0f3a214958aad5",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "hybridThemes.md",
+      "addition": "hybridThemes.md",
+      "base_sha256": "b9edc3c37e99a8669ebf2e62b1f26e37224a47956bfbcdd873ca39636fdead05",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "internalExpansions.md",
+      "addition": "internalExpansions.md",
+      "base_sha256": "88fd914b0f676ebe803e8970e1c885314abc2f76c2eaf81abf95af7d821b0667",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "externalExpansions.md",
+      "addition": "externalExpansions.md",
+      "base_sha256": "c657a1a04b1d93749c53fed69fff0c627ae0d83fb36280f8caf4003bb070fd6d",
+      "review_status": "beta-text-reviewed"
+    },
+    {
+      "target": "modalMixture.md",
+      "addition": "modalMixture.md",
+      "base_sha256": "72705159f36d02b546554168e8a02cb3e26dcfac80d9cc18832c3594dbe0e211",
+      "review_status": "beta-text-reviewed"
     }
   ]
 }

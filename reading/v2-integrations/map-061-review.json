@@ -1,0 +1,56 @@
+{
+  "map_id": 61,
+  "title": "Rondo",
+  "reading_targets": [
+    "rondo.md",
+    "fivePartRondo.md",
+    "thematicFunctionInRondo.md",
+    "sonataRondo.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/rondo/",
+  "target_base_sha256": {
+    "rondo.md": "caf49dd3a3f4df97840d8f60d690f6aa32c89a44de2cef00c26a22cd50de4a97",
+    "fivePartRondo.md": "d2666d0e81fd5c6abe6d5740fcabeb570443660f97574a86d2439303dc5efe38",
+    "thematicFunctionInRondo.md": "152ff8ba306b0dfa1dfe308e68e08d7dbfad44e1c77dae6488d08fbad139734f",
+    "sonataRondo.md": "d835ef5e03b6f865eac921c0f26be350c472fb7082f703f1bc390609ba40d744"
+  },
+  "scope": "Two key takeaways; accessible formal diagram; refrains, episodes and auxiliary sections; analytical becoming distinctions; complete Park and Beethoven examples; complete one-page Bologne worksheet; and ten glossary definitions",
+  "worksheet": {
+    "name": "Rondo Form - Analysis: Joseph Bologne",
+    "pages": 1,
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/rondo-form-assignment-1-analysis-Bologne_06-17-2020.pdf",
+    "score_url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/Bologne_String_Quartet_Op_1_No_4_ii_Rondeau-measures_numbered.pdf",
+    "content_review": "All 11 prompts and the five-row form table represented; provider text extraction reviewed",
+    "visual_review": "Passed: the page was rendered from the official Pressbooks Nebraska mirror and inspected for title, table, numbering, prompt order and answer spaces",
+    "visual_evidence_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/rondo-form-assignment-1-analysis-Bologne_06-17-2020.pdf",
+    "visual_review_pages": [1],
+    "visual_review_date": "2026-10-24"
+  },
+  "checks": {
+    "Q01": "Passed: all theoretical claims, alternatives, exceptions and analytical ambiguities preserved",
+    "Q02": "Passed: all prose sections, two takeaways, diagram, Park and Beethoven analyses, worksheet prompts and definitions retained",
+    "Q03": "Passed Hebrew self-review; no human proofread claimed",
+    "Q04": "Passed: refrain, episode, transition, retransition, suffix, coda and becoming distinguished",
+    "Q05": "Passed: ABACA/ABACABA, A/B/C, keys, Roman numerals, cadence labels, opus numbers and measure numbers preserved in LTR contexts",
+    "Q06": "Not applicable: source contains no solfege",
+    "Q07": "Partial: formal and harmonic labels checked against source text; no listening or note-by-note score verification",
+    "Q08": "Passed: temporary-manifest integration, 390/390 protected inputs and 27/27 automated tests passed; four current-reading updates (119 blocks) and the expanded chapter 65 update (43 blocks) were reviewed separately; the 22-chapter preparation gate passed with 74 segments, 26 expected production blockers and 0 API calls",
+    "Q09": "Partial: chapter, worksheet, DOCX, score and audio links retained; the worksheet and all eight score pages were visually checked, while audio and DOCX contents were not independently verified",
+    "Q10": "Passed: formal diagram converted to accessible text; the worksheet page and all eight pages of the linked score were rendered and visually checked",
+    "Q11": "Passed: local site rendered 191 pages with 156 content pages and zero missing local links; WeasyPrint 66 full PDF built at 960 pages; map61 pages 322-331 visually passed",
+    "Q12": "Passed: CC BY-SA 4.0 attribution, CC0 diagram note, external-asset qualifications and AI-assisted self-review disclosure retained"
+  },
+  "source_issues": [
+    {
+      "issue": "The worksheet repeats the letter b in Part 1 and contains eleven prompts despite the duplicated lettering",
+      "action": "Renumbered the translated prompts sequentially without omitting or duplicating content"
+    },
+    {
+      "issue": "The VIVA file endpoint is unsuitable for direct screenshot rendering",
+      "action": "Used the official Pressbooks Nebraska mirror of the same worksheet and score; the worksheet page was rendered and inspected"
+    }
+  ],
+  "status": "private reading integration and narration reconciliation verified; production remains disabled",
+  "next_map_id_after_completion": 62,
+  "next_note": "Advance to coverage map 62. Preserve the separately reviewed map61/expanded-chapter-65 v3 bundle; do not enable production or synthesize audio."
+}

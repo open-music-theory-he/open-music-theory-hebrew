@@ -1,0 +1,99 @@
+{
+  "map_id": 49,
+  "reading_targets": [
+    "tendencyTonesFunctionalDissonances.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/predominant-seventh-chords/",
+  "source_html_sha256": "ecacb6c57ccd90022bd88f59b5e1a9a3f9d68a27cf8582646bbf697e96fca928",
+  "base_sha256": "6a9d9418f5c179ae24ffeebaac6b81e5a8188464bc2dee81c07c7dcf9378c50c",
+  "addition_sha256": "1be0988a45d6af9a7dd6cb0c525eea457b9118de157bc941cd4adaa806ecd9dd",
+  "scope": "Full prose/summary/caption meanings; fourrowinversiontable;3glossarytemplates; all20worksheetinstructions andnestedCanvasrecordingnotice",
+  "source_units_reviewed": 39,
+  "worksheet": {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Predominant-Sevenths.pdf",
+    "sha256": "96ccc92115bf626ab9eaf3d309adf13e1d9db758e2c5ed4b1720574fbc8e2cae",
+    "bytes": 406400,
+    "pages_visually_reviewed": 3,
+    "copying": "externalonly unidentifiededitions; no assets copied"
+  },
+  "checks": {
+    "Q01": "Passed prose: typically/usually/commonality/bestto conditions preserved; vi7onlylinking/notdeceptivemotion preservedandstylecontextexplicit",
+    "Q02": "Passed selectedfullprose,4rowtable6scorecaptions+links,3hiddenglossarytemplates,4worksheetparts4+4+6+6. Thirdpartyscoretextnottranslated/copied",
+    "Q03": "Passed Hebrewselfreviewafterbreak; contextualanalysis distinctfromRomananalysis; noindependenthumanreview",
+    "Q04": "Passed: predominant,chordalseventh,contextualanalysisEnglishatfirstintro; rootvsbass/soprano/keyboardvsvoicestylespreserved",
+    "Q05": "Passed Romanexactcaseii7/IV7/vi7/iii7; all4inversionsandI–ii4/2–V6/5–Iretained; C,G–B–D–Funchanged",
+    "Q06": "Notapplicable:newsourceunitdoesnotusesolfege",
+    "Q07": "Partial: GBD Fseventh,ii7DFA Croot/third/fifth/seventhpositions,inversionrankingandexpectedC–BdescentinI–ii4/2–V6/5–Ichecked. Noall-noteMusescoretranscriptionorworksheetfullsolutions",
+    "Q08": "Passed focusedMarkdown/HTMLand4pageWeasyPrintPDF; parentfullsite/PDFpending; manifestbasehashverified",
+    "Q09": "Partial: official3pagePDFdownloadverified; exactall6scores+YouTube+DOCX+sourcecrossreferencepreserved;Canvasprivateunavailable andexplained; playbacknotverified",
+    "Q10": "Partial:all3originalpagesvisuallyread; historicalscaneditionrightsnotidentified; noassetscopied;scoreplaybacknotverified",
+    "Q11": "Focused4pageHebrewPDFvisuallyinspected; part4kepttogetherafterrerender; fullsite/mobile/livepending",
+    "Q12": "Passed:JohnPeterson2021CCBYSAexceptasnoted;sourceincorrectnextpagereferenceannotated;scopeofstyleexplicit;AIselfreviewnot human"
+  },
+  "source_issues": [
+    {
+      "issue": "Chopinheader says onnextpage; its scoreis onpage2samepage",
+      "action": "Actualpage2explainedinvisibleeditorialnote; taskunchanged"
+    },
+    {
+      "issue": "Canvasrecording course-specificnoURL",
+      "action": "Originalinstructionretainedandlimitationexplained; noimaginedpubliclink"
+    },
+    {
+      "issue": "Assignmentschapterdescription mentionsfiguredbassonly butworksheetpart1isunfigured",
+      "action": "Bothactualpart1andpart2fullinstructionsretained"
+    }
+  ],
+  "musical_checks": {
+    "C_V7": [
+      "G",
+      "B",
+      "D",
+      "F"
+    ],
+    "C_ii7": [
+      "D",
+      "F",
+      "A",
+      "C"
+    ],
+    "C_ii65_bass": "F",
+    "C_ii42_bass": "C",
+    "C_ii43_bass": "A",
+    "C_V65_bass": "B",
+    "ii42_chordal7_resolution": "C down to B in V6/5",
+    "inversion_ranking": [
+      "ii6/5",
+      "ii7",
+      "ii4/2",
+      "ii4/3"
+    ]
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "tests_passed": 9,
+    "synthesis": false
+  },
+  "status": "private beta-text-reviewed prose/instructions/focusedPDF; fullsite/PDFpendingparent;media/mobile/individualeditionrights remain",
+  "published": false,
+  "next_map_id": 50,
+  "final_combined_verification": {
+    "full_pdf_pages": 912,
+    "site_pages": 191,
+    "site_content_chapters": 156,
+    "missing_local_links": 0,
+    "companion_crc_passed": true,
+    "new_section_pages_visually_reviewed": [
+      151,
+      152,
+      153,
+      154
+    ],
+    "renderer": "WeasyPrint66 plus Poppler",
+    "all912pages_visually_reviewed": false,
+    "live_site_mobile_external_playback": "pending; previous beta limitations retained",
+    "published": false
+  }
+}
+

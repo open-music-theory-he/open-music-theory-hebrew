@@ -1,0 +1,35 @@
+{
+  "map_id": 64,
+  "title": "Verse-Chorus Form [crosslist]",
+  "type": "crosslist-alias",
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form-crosslist/",
+  "canonical_target": {
+    "map_id": 92,
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form/",
+    "reading_targets": [
+      "popRockForm.md",
+      "popRockForm-functions.md"
+    ]
+  },
+  "target_base_sha256": {
+    "popRockForm.md": "c47f4f6ec173721285495949f78bad9ecf379072158cfa354b352e16df44e394",
+    "popRockForm-functions.md": "bb884177c773a288f85f46bcda4b4fdea0972c5cde0c425756f26f96e79c0e10"
+  },
+  "decision": "No duplicate Hebrew translation added. The official crosslist page contains only the heading and a Go to chapter link; its substantive target is map 92.",
+  "checks": {
+    "Q01": "Passed for alias identity: no theoretical prose exists on the crosslist page to translate",
+    "Q02": "Passed: heading, alias nature and canonical destination recorded; no content omitted from the alias page",
+    "Q03": "Passed Hebrew metadata self-review; no human proofread claimed",
+    "Q04": "Not applicable to an alias-only page",
+    "Q05": "Not applicable to an alias-only page",
+    "Q06": "Not applicable to an alias-only page",
+    "Q07": "Not applicable to an alias-only page",
+    "Q08": "Passed for this audit batch: 390/390 protected inputs unchanged and 27/27 v2+v3 tests passed; no reader-facing content changed",
+    "Q09": "Passed: official alias and canonical target URLs recorded",
+    "Q10": "Not applicable: no figures or media on the alias page",
+    "Q11": "Not applicable: no rendered page changed; the verified through61 site/PDF artifacts remain byte-independent of this metadata-only review",
+    "Q12": "Passed: no third-party material copied and no duplicate licensed text created"
+  },
+  "status": "alias verified; closed without duplicate translation",
+  "next_map_id_after_completion": 65
+}

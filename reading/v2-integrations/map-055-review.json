@@ -1,0 +1,106 @@
+{
+  "map_id": 55,
+  "title": "Hybrid Phrase-Level Forms",
+  "reading_targets": [
+    "hybridThemes.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/hybrid-phrase-level-forms/",
+  "source_html_sha256": "ff4db4408d0f679b80d93254300a40f8a19685863432bcd20b443044dca87aa6",
+  "target_base_sha256": {
+    "hybridThemes.md": "b9edc3c37e99a8669ebf2e62b1f26e37224a47956bfbcdd873ca39636fdead05"
+  },
+  "addition_sha256": {
+    "hybridThemes.md": "3d87bd26c85c3fc44acce5ed69fe00060934404597b65368a2446ae149c9c615"
+  },
+  "scope": "Complete web prose, key takeaways, all thirteen examples/captions, three comparison tables, three footnotes, eighteen glossary definitions, further reading, assignments and media attributions; complete instructions and excerpt metadata from three worksheet PDFs totaling seventeen pages; score notation remains in official external files",
+  "units_reviewed": [
+    "Key Takeaways and chapter playlist",
+    "What's a hybrid form and Example 1",
+    "Beginnings: compound basic idea, Examples 2-3 and beginning-types table",
+    "Endings: cadential, Examples 4-5 and ending-types table",
+    "Hybrid possibilities, Examples 6-12 and commonality table",
+    "Listening strategy and Example 13",
+    "Three source footnotes",
+    "Eighteen glossary definitions",
+    "Further reading, assignments and media attribution list",
+    "Worksheet 1: Analyzing Hybrid Forms, seven pages, six excerpts",
+    "Worksheet 2: Multiple Interpretive Possibilities, seven pages, four excerpts in two parts",
+    "Worksheet 3: Composing Phrase-Level Forms, three pages, five-item idea bank and four composition tasks"
+  ],
+  "worksheets": [
+    {
+      "name": "Analyzing Hybrid Forms",
+      "sha256": "24a4d5455c19133c41b447bb9681a452d96e6b8534b059c3d1bcf99d7447d826",
+      "bytes": 713891,
+      "pages": 7,
+      "parts": "general analysis instructions and six excerpts with specified harmonic-analysis requirements"
+    },
+    {
+      "name": "Analyzing Forms with Multiple Interpretive Possibilities",
+      "sha256": "b1a805a147bdebe3e0a8bda095ab8a7f3a73e2a4cdaff0f62e9935852cb653d5",
+      "bytes": 330712,
+      "pages": 7,
+      "parts": "preferred versus alternative interpretations for two classical excerpts; two concert-band segmentation/form-evaluation excerpts"
+    },
+    {
+      "name": "Composing Phrase-Level Forms",
+      "sha256": "5b6aa690e38b018ca3a6fcf31c1b2b913498c0c0b18cbd6de2c9cc136fb4f51d",
+      "bytes": 163893,
+      "pages": 3,
+      "parts": "five-item basic-idea bank and four eight-measure piano-theme composition tasks"
+    }
+  ],
+  "checks": {
+    "Q01": "Passed: hybrid form, three beginning types, three ending types, commonality levels and the distinction between cadential idea and cadential ending preserved",
+    "Q02": "Passed: all headings, prose units, lists, thirteen examples/captions, three tables, three footnotes, eighteen glossary definitions, further reading, assignments, media attributions and all worksheet instructions retained",
+    "Q03": "Passed Hebrew self-review; no independent human proofread claimed",
+    "Q04": "Passed: antecedent, presentation, compound basic idea, consequent, continuation and cadential ending kept distinct with English at first definition",
+    "Q05": "Passed: work titles, composer names, opus/catalog numbers, timestamps, measure ranges, b.i./c.i./c.b.i./cad., cadence labels, Roman numerals and 1+1+2/2+2 retained with LTR isolation where needed",
+    "Q06": "Passed: mi-fa-sol-do, fi and minor me-fa-sol-do preserved without conversion to absolute ABC names",
+    "Q07": "Partial: all seventeen worksheet pages and visible score layouts inspected; excerpt identities, measures, timestamps and task constraints checked; no answer key or note-by-note verification",
+    "Q08": "Passed pre-export checks: integration manifest includes hybridThemes.md with exact base SHA256; protected inputs 390/390 unchanged; 9 v2 tests and 18 v3 tests passed; v3 preparation-only produced 22 chapters/65 segments/26 blockers/0 API calls",
+    "Q09": "Partial: official page, PDF, DOCX, Spotify and YouTube URLs retained; external playback and DOCX contents not verified",
+    "Q10": "Partial: all seventeen source PDF pages visually reviewed; page attribution retained; score-edition and item-level media rights beyond the explicit source list were not independently verified, so assets remain external links",
+    "Q11": "Pending final combined PDF/static-site render and visual inspection for map55",
+    "Q12": "Passed: John Peterson/Open Music Theory/CC BY-SA 4.0, worksheet authors and media-attribution qualifications retained; AI-assisted self-review and third-party media limits explicit"
+  },
+  "source_issues": [
+    {
+      "issue": "Example 12's visible caption identifies Haydn Symphony 97, while the image alt text says Symphony 87",
+      "action": "Used the visible chapter caption, Symphony 97, and documented the conflict; source files were not modified"
+    },
+    {
+      "issue": "The worksheet PDFs use custom fonts that corrupt many digits and punctuation in text extraction",
+      "action": "Rendered and visually reviewed all seventeen pages; opus numbers, measures, timestamps and instruction numbering were read from the visible pages"
+    },
+    {
+      "issue": "The source media list explicitly licenses Examples 1, 2, 4 and 13 but does not provide an item-level statement there for every linked score image",
+      "action": "Kept score images as official-source links only and made no additional rights claim"
+    }
+  ],
+  "media": {
+    "numbered_examples": 13,
+    "comparison_tables": 3,
+    "worksheet_pdfs": 3,
+    "worksheet_pages_visually_reviewed": 17,
+    "external_playback_verified": false,
+    "note_by_note_verified": false
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "audiobook_v2_tests_passed": 9,
+    "audiobook_v3_tests_passed": 18,
+    "v3_prepare_only": {
+      "chapters": 22,
+      "text_checked": 22,
+      "segments": 65,
+      "production_blockers": 26,
+      "api_calls": 0
+    },
+    "synthesis": false
+  },
+  "status": "private beta-text-reviewed prose/instructions/source PDFs; final combined PDF/site checks pending",
+  "published": false,
+  "next_map_id": 56
+}

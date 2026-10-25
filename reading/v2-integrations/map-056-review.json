@@ -1,0 +1,53 @@
+{
+  "map_id": 56,
+  "title": "Expansion and Contraction at the Phrase Level",
+  "reading_targets": ["internalExpansions.md", "externalExpansions.md"],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/expansion-and-contraction/",
+  "source_html_sha256": "7f067fef58168bd2d1844f68b6093cc1bbf3305e33e9a5421528964fd783469b",
+  "target_base_sha256": {
+    "internalExpansions.md": "88fd914b0f676ebe803e8970e1c885314abc2f76c2eaf81abf95af7d821b0667",
+    "externalExpansions.md": "c657a1a04b1d93749c53fed69fff0c627ae0d83fb36280f8caf4003bb070fd6d"
+  },
+  "addition_sha256": {
+    "internalExpansions.md": "6cee8cd7fc97c6c7aa6a242214e89f2e51cd2f2cb469e7f2aa784fd03d3a7864",
+    "externalExpansions.md": "bfac7ec1c425e9f1c2dc7ff1705f4bc25131bd6e0c84bb168bd1d73d06430f00"
+  },
+  "scope": "Complete prose, key takeaways, twelve numbered examples, suffix comparison table, one footnote, thirty-three source glossary definitions, further reading, assignments, media qualifications and all instructions/excerpt metadata from three worksheet PDFs totaling twenty pages",
+  "worksheets": [
+    {"name":"Analyzing Expansion Techniques","pages":10,"bytes":554538,"sha256":"001c58ea5304ce9fd9ef21646c9c3dbc8604cb0b0f8246513d76a1d63a397de1"},
+    {"name":"Analyzing Multiple Phrase Expansion Techniques","pages":3,"bytes":185353,"sha256":"05eef3072f9d1cc1a30b11ea89ac9792c144e2d105089e1832627ae2b1723f6d"},
+    {"name":"Recomposing to Remove Expansions","pages":7,"bytes":399978,"sha256":"1f99f1f601b029e33e5d29d967371ebaf58297d5cccf11eed7c3c761d42c86d6"}
+  ],
+  "checks": {
+    "Q01":"Passed: expansion, contraction, internal/external boundaries and expected-length criteria preserved",
+    "Q02":"Passed: all prose, twelve examples, table, footnote, thirty-three glossary definitions, further reading, assignments and worksheet instructions retained",
+    "Q03":"Passed Hebrew self-review; no human proofread claimed",
+    "Q04":"Passed: repetition, stretching, one-more-time, detour/reroute, prefix/suffix, p.c.e., codetta and coda kept distinct",
+    "Q05":"Passed: work titles, catalogue/opus numbers, measure ranges, timestamps, abbreviations and Roman numerals preserved with LTR isolation",
+    "Q06":"Passed: mi-fa-sol-do, di-re-sol-do and fi-sol-do preserved without conversion to ABC names",
+    "Q07":"Partial: all twenty worksheet pages and score layouts inspected; identities and task constraints checked; no answer key or note-by-note verification",
+    "Q08":"Passed: exact base hashes recorded; protected inputs 390/390 unchanged; 9 v2 and 18 v3 tests passed",
+    "Q09":"Partial: official links retained; external playback and DOCX contents not verified",
+    "Q10":"Partial: source PDFs visually reviewed; explicit attribution qualifications retained; score assets remain external links",
+    "Q11":"Passed: site 191 pages/156 content/0 missing local links; combined PDF 945 pages; relevant pages 283-284 and 288-293 rendered at 144 dpi and visually inspected without clipping or overlap",
+    "Q12":"Passed: CC BY-SA 4.0, worksheet authors, media qualifications and AI-assisted self-review disclosure retained"
+  },
+  "source_issues": [
+    {"issue":"The source says 'phrase beginningg' in Example 7","action":"Corrected the obvious typo in translation and documented it"},
+    {"issue":"Example 3 media attribution contains the caption text for Example 2","action":"Documented the mismatch; made no expanded rights claim"},
+    {"issue":"The contraction image filename says Example_013 while the chapter labels it Example 12","action":"Retained the chapter numbering and documented the filename mismatch"},
+    {"issue":"A cadential-idea glossary link resolves to a definition of cadential ending","action":"Preserved the visible term and explicitly documented what the linked definition describes"}
+  ],
+  "verification": {
+    "protected_inputs":"390/390 unchanged",
+    "audiobook_v2_tests":"9/9 passed",
+    "audiobook_v3_tests":"18/18 passed",
+    "static_site":"191 pages, 156 content, 0 missing local links",
+    "combined_pdf":{"pages":945,"bytes":36011454,"sha256":"fdfae584ca349f54f724aa844d44a4456206e50631a674264b13bda80c134876","reviewed_pages":[283,284,288,289,290,291,292,293]},
+    "companion_zip":{"bytes":112021758,"sha256":"9479dc520f0e23894911b5e7060363264c67b45f24443b9739c96cc05013700e","crc":"passed"}
+  },
+  "published": false,
+  "status": "private beta-text-reviewed; combined PDF/static-site verification passed",
+  "next_map_id": 58,
+  "next_note": "map57 is already covered"
+}

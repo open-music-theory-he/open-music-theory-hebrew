@@ -1,0 +1,106 @@
+{
+  "map_id": 53,
+  "title": "Foundational Concepts for Phrase-Level Forms",
+  "reading_targets": [
+    "themeFunctions.md",
+    "classicalThemes.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/foundational-concepts/",
+  "source_html_sha256": "8682543ff870e6b81d0c472ff78b1557fe04293dc9342032fa0de61b79aee819",
+  "target_base_sha256": {
+    "themeFunctions.md": "2b299cefd39bf5924f9ff46084fe17c54d6db0ddf2f21f3a26cc29c51773101e",
+    "classicalThemes.md": "7999962c48cb296df3c161cb58ac5ed16851a927818706563b3c19b7493ca41c"
+  },
+  "addition_sha256": {
+    "themeFunctions.md": "ab8341749b75065bbdfe521b2ec4dc3bd3e7b27116bf72a8266efc92eda46e2e",
+    "classicalThemes.md": "33441a0ab27283dc7e73ff8b2e0866727c432ef16580403439786626987a7e51"
+  },
+  "scope": "Complete web prose, key takeaways, seven numbered examples and captions, transformations, practice prompt, phrase/idea/segmentation hierarchy, all 13 glossary definitions, assignment, media attributions, and all three worksheet parts; notation and recordings remain in official external sources",
+  "units_reviewed": [
+    "Key Takeaways and introduction",
+    "Motives and criteria for motivic identity",
+    "Repetition, embellishment, transposition, liquidation, augmentation, diminution, fragmentation and extension",
+    "Examples 1-7 and their captions",
+    "Practice 1 motivic analysis",
+    "Idea level, phrase level and segmentation analysis",
+    "Thirteen glossary definitions",
+    "Assignment and media attributions",
+    "Worksheet Part 1: Hedwig's Theme",
+    "Worksheet Part 2: A Mother of a Revolution!",
+    "Worksheet Part 3: Szymanowska E-minor Polonaise trio"
+  ],
+  "worksheet": {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-Foundational-Concepts-for-Phrase-level-Forms.pdf",
+    "sha256": "084f0959f0c2c71a6fdaa3e8482b4e8dfca0f1e9a0418d50a091d57f3e519fa9",
+    "bytes": 327844,
+    "docx_sha256": "9f7a5d604d36caf0eb1e6cf8439fd4f3d27eef27c21e76f1dd8048aa2093ba15",
+    "pages_visually_reviewed": 4,
+    "parts": "Part1 Williams/Hedwig's Theme motivic labels and phrase diagram; Part2 Thomas/A Mother of a Revolution! brass motive and percussion foreshadowing; Part3 Szymanowska polonaise trio mm.1-8 motivic segmentation",
+    "copying": "All instructions translated; music notation remains in the official external PDF and is not copied"
+  },
+  "checks": {
+    "Q01": "Passed: distinctions among motive, idea and phrase; perceptual judgment; hierarchy; and all stated qualifications preserved",
+    "Q02": "Passed: all web prose, seven numbered examples/captions, practice prompt, thirteen glossary definitions, assignment, attributions and all three worksheet parts retained across two integration targets",
+    "Q03": "Passed Hebrew self-review; no independent human proofread claimed",
+    "Q04": "Passed: motive, basic idea, contrasting idea, phrase, segmentation analysis and transformation terminology defined with English at first use",
+    "Q05": "Passed: work titles, timestamps, measure references, motive labels X/Y, pitches and musical abbreviations retained with appropriate directionality",
+    "Q06": "Passed: source solfege is unchanged; no solfege sequence required normalization",
+    "Q07": "Partial: worksheet timing, labels, segmentation tasks and rendered notation inspected; no answer key or note-by-note score verification",
+    "Q08": "Passed: integration manifest has both targets and exact base SHA256; WeasyPrint66 export 925 pages/153 Markdown/367 images; companion ZIP CRC passed; static site 191 pages/156 content and zero missing local links",
+    "Q09": "Partial: exact official page, PDF, DOCX, playlist, YouTube and Spotify URLs retained; external playback not tested",
+    "Q10": "Partial: all four worksheet pages visually reviewed; official Form Hierarchy image and source media attributions retained; Not_a_Motive-1 image has no clear item-level license and is linked only",
+    "Q11": "Partial: full-PDF pages 258-265 rendered and visually inspected, including corrected nested list numbering on page 259; generated target site pages contain map53 and local-link scan passes; live/mobile remains pending",
+    "Q12": "Passed: Open Music Theory/CC BY-SA 4.0, page contributors, Omar Thomas permission note and AI-assisted self-review disclosures retained; third-party media limits explicit"
+  },
+  "source_issues": [
+    {
+      "issue": "PDF text extraction obscures layout and some numeric/music details",
+      "action": "Read all four rendered worksheet pages visually and translated from the visible pages; source PDF left unchanged"
+    },
+    {
+      "issue": "The source media list does not provide a clear item-level license for Not_a_Motive-1.png",
+      "action": "Linked the official source asset and attribution context without copying it or asserting additional rights"
+    }
+  ],
+  "media": {
+    "numbered_examples": 7,
+    "worksheet_parts": 3,
+    "worksheet_pages": 4,
+    "external_playback_verified": false,
+    "note_by_note_verified": false
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "audiobook_v2_tests_passed": 9,
+    "audiobook_v3_tests_passed": 18,
+    "v3_prepare_only": {
+      "chapters": 22,
+      "text_checked": 22,
+      "segments": 65,
+      "production_blockers": 26,
+      "api_calls": 0
+    },
+    "synthesis": false
+  },
+  "final_combined_verification": {
+    "full_pdf_pages": 925,
+    "full_pdf_sha256": "cb711d8b76f00d321ce5c40d036c075610b68a018607c4d657f5f808af3b9bf6",
+    "companion_zip_sha256": "9ee58bbfab306b634d67da1d3307848b9b3a5cdf402894baa79d568f30ad0360",
+    "companion_crc_passed": true,
+    "markdown_documents": 153,
+    "images": 367,
+    "site_pages": 191,
+    "site_content_chapters": 156,
+    "missing_local_links": 0,
+    "new_section_pages_visually_reviewed": [258, 259, 260, 261, 262, 263, 264, 265],
+    "renderer": "WeasyPrint66 plus Poppler",
+    "all925pages_visually_reviewed": false,
+    "legacy_annex_parser_warnings": "pypdf emitted pre-existing annotation/object warnings while merging legacy appendices; final PDF reopened at 925 pages and pages 258-265 rendered correctly",
+    "live_site_mobile_external_playback": "pending",
+    "published": false
+  },
+  "status": "private beta-text-reviewed prose/instructions/fullPDF/site; live/mobile/playback/note-by-note and item-level image rights remain",
+  "published": false,
+  "next_map_id": 54
+}

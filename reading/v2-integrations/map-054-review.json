@@ -1,0 +1,141 @@
+{
+  "map_id": 54,
+  "title": "The Phrase, Archetypes, and Unique Forms",
+  "reading_targets": [
+    "sentence.md",
+    "period.md",
+    "compoundSentence.md",
+    "compoundPeriod.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/phrase-archetypes-unique-forms/",
+  "source_html_sha256": "35eaa8424e14d0bb3a1008bc95430ba4f67bea7fd2037cd4b7860ba63aa65485",
+  "target_base_sha256": {
+    "sentence.md": "5f04661ee269aeb6daa0d5ac6b7a713379669f8daf42a2b75e98135ce6226cfc",
+    "period.md": "ee8a88281d6071bbdd6daed03e3b1cc72fda1d6437e0b561438c49e64a955a45",
+    "compoundSentence.md": "a6e2f65c6e23d28e36440d9c1643026b6291b20339e4e93be6717be5f9860ac4",
+    "compoundPeriod.md": "f0b45706192335c77a25092f624ed5e3561b8a2f716b03897f0f3a214958aad5"
+  },
+  "addition_sha256": {
+    "sentence.md": "d7996c0ea7881c25e4ec5d181dc2d88fe82dfa4269141f4f244922821ba64f8a",
+    "period.md": "daf0aa497287c9e8d5426702f73a4c0bee22f0573552ffd15f36cfb296da11cb",
+    "compoundSentence.md": "4d62859d2b4710303567ca27b485aec01f608e13dd0a27e0422d964dcc315ffe",
+    "compoundPeriod.md": "84b02761de96a2c2bc36a2868c6758d30bba0f74997e6d03beee95e74b10cf2d"
+  },
+  "scope": "Complete web prose, key takeaways, all fourteen examples/captions, three footnotes, all twenty-one glossary definitions, assignments and media attributions; complete instructions and excerpt metadata from four worksheet PDFs totaling twenty-three pages; score notation remains in official external files",
+  "units_reviewed": [
+    "Key Takeaways",
+    "The Phrase and Examples 1-4",
+    "Archetypes versus Unique Forms and Example 5",
+    "Sentence basics, presentation, continuation, summary and Examples 6-10",
+    "Period basics, antecedent, consequent and Example 11",
+    "Repeated Phrase and Example 12",
+    "Compound Phrase-Level Forms and Example 13",
+    "Unique Phrase-Level Forms and Example 14",
+    "Three source footnotes",
+    "Twenty-one glossary definitions",
+    "Assignments and media attribution list",
+    "Worksheet 1: Analyzing Sentences, eleven pages and four parts",
+    "Worksheet 2: Analyzing Archetypes and Unique Forms, eight pages and five excerpts",
+    "Worksheet 3: Composing Brief Melody-only Sentences, one page",
+    "Worksheet 4: Composing Fully-realized Sentences, three pages and ten steps"
+  ],
+  "worksheets": [
+    {
+      "name": "Analyzing Sentences",
+      "sha256": "26feb3620a11ed84a9329f7ef4df99d30686bb3117c4c517033e7d86c04c78c2",
+      "bytes": 987345,
+      "pages": 11,
+      "parts": "continuum ratings; explanations; formal diagrams; harmonic analysis and excerpt bank"
+    },
+    {
+      "name": "Analyzing Archetypes and Unique Forms",
+      "sha256": "ecd94266d81361bb4a3aec9ad058bed23edfa5f9cecb02916e7891034bb9d7d3",
+      "bytes": 468518,
+      "pages": 8,
+      "parts": "cadences, segmentation, conditional form diagrams and requested harmonic analyses for five excerpts"
+    },
+    {
+      "name": "Composing Brief Melody-only Sentences",
+      "sha256": "ce4c4978c97631cde733697489bd671e60fc7c353891d7e0a18f8e6ac51a5f04",
+      "bytes": 52836,
+      "pages": 1,
+      "parts": "three four-measure mini-sentences in 1+1+2, implied harmony and cadence"
+    },
+    {
+      "name": "Composing Fully-realized Sentences",
+      "sha256": "c40a7db456c2d5029ee4978427e9a375b29168c72d4c25141445f019dcc64698",
+      "bytes": 104268,
+      "pages": 3,
+      "parts": "ten-step melody, accompaniment, expression and analysis task with three opening motives"
+    }
+  ],
+  "checks": {
+    "Q01": "Passed: distinctions among phrase, subphrase, idea, sentence, period, repeated phrase, compound form, archetype and unique form preserved, including probabilistic language and continuum model",
+    "Q02": "Passed: all headings, prose units, lists, fourteen examples/captions, three footnotes, twenty-one glossary definitions, four assignments, media attributions and all worksheet instructions retained across four targets",
+    "Q03": "Passed Hebrew self-review; no independent human proofread claimed",
+    "Q04": "Passed: all formal terms defined with English at first use and kept distinct; sentence is one phrase while period is two phrases",
+    "Q05": "Passed: work titles, composer names, timestamps, measure ranges, b.i./c.i./u., cadence labels, Roman numerals, 1+1+2 and P/N labels retained with LTR isolation where needed",
+    "Q06": "Passed: source do and scale-degree 1 in cadence definitions preserved; no solfege normalization",
+    "Q07": "Partial: all twenty-three worksheet pages and visible score layouts inspected, with excerpt identities and task constraints checked; no answer key or note-by-note verification of the score excerpts",
+    "Q08": "Passed: integration manifest includes all four targets with exact base SHA256; WeasyPrint66 export 932 pages/153 Markdown/367 images; companion ZIP CRC passed; static site 191 pages/156 content and zero missing local links",
+    "Q09": "Partial: official page, four PDFs, DOCX/MuseScore, Spotify and YouTube URLs retained; external playback and downloadable DOCX/MuseScore contents not verified",
+    "Q10": "Partial: all twenty-three source PDF pages visually reviewed; source diagram attribution/licensing preserved and ambiguous Hensel/Example_004 assets remain link-only; third-party score edition rights not independently verified",
+    "Q11": "Partial: full-PDF pages 233-237, 240-241, 251-252 and 255 rendered and visually inspected; all four generated site pages contain map54 source content and local-link scan passes; live/mobile remains pending",
+    "Q12": "Passed: John Peterson/Open Music Theory/CC BY-SA 4.0, worksheet authors and media-attribution qualifications retained; AI-assisted self-review and third-party media limits explicit"
+  },
+  "source_issues": [
+    {
+      "issue": "Worksheet PDFs use custom fonts that corrupt digits and punctuation in text extraction",
+      "action": "Rendered and visually reviewed all twenty-three pages; measure numbers, work identifiers, timestamps and instruction numbering were read from the visible pages"
+    },
+    {
+      "issue": "Obvious source typos include compond, exxactly and Wite",
+      "action": "Translated the intended words as compound, exactly and Write and documented the corrections here; source files were not modified"
+    },
+    {
+      "issue": "The source media list does not state a clear item-level license for the Hensel diagram and Example_004",
+      "action": "Kept those diagrams as official-source links only and made no additional rights claim"
+    }
+  ],
+  "media": {
+    "numbered_examples": 14,
+    "worksheet_pdfs": 4,
+    "worksheet_pages_visually_reviewed": 23,
+    "external_playback_verified": false,
+    "note_by_note_verified": false
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "audiobook_v2_tests_passed": 9,
+    "audiobook_v3_tests_passed": 18,
+    "v3_prepare_only": {
+      "chapters": 22,
+      "text_checked": 22,
+      "segments": 65,
+      "production_blockers": 26,
+      "api_calls": 0
+    },
+    "synthesis": false
+  },
+  "final_combined_verification": {
+    "full_pdf_pages": 932,
+    "full_pdf_sha256": "2d65aad5ba9cab9ad20dc1d71bd23011101d7077a936ed2e8141a246447be138",
+    "companion_zip_sha256": "435e65c0a6e9924ce8d3b87f10ca98ece31010941db020c311fb0750ec7276e6",
+    "companion_crc_passed": true,
+    "markdown_documents": 153,
+    "images": 367,
+    "site_pages": 191,
+    "site_content_chapters": 156,
+    "missing_local_links": 0,
+    "new_section_pages_visually_reviewed": [233, 234, 235, 236, 237, 240, 241, 251, 252, 255],
+    "renderer": "WeasyPrint66 plus Poppler",
+    "all932pages_visually_reviewed": false,
+    "legacy_annex_parser_warnings": "pypdf emitted pre-existing annotation/object warnings while merging legacy appendices; final PDF reopened at 932 pages and all listed map54 pages rendered correctly",
+    "live_site_mobile_external_playback": "pending",
+    "published": false
+  },
+  "status": "private beta-text-reviewed prose/instructions/fullPDF/site; live/mobile/playback/note-by-note and some item-level media rights remain",
+  "published": false,
+  "next_map_id": 55
+}

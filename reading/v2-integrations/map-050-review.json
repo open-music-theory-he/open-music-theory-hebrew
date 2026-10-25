@@ -1,0 +1,105 @@
+{
+  "map_id": 50,
+  "title": "Diatonic Sequences in Middles",
+  "reading_targets": [
+    "unfiguredBass.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-sequences/",
+  "source_html_sha256": "24161416b2389bb28c857d188fd60ff29248470f17b2835d518960d83d44171e",
+  "target_base_sha256": "49d7791e13aa6ad7935d8541f5f2e816e777a3255da447cea346858e6716ad41",
+  "integration_layer_base_sha256": "b0240168d874d7e14e61c41ee1129d9e58f133a62c777476bc4b968b2614a96a",
+  "addition_sha256": "5783ff22ceadf9e687a56ee6ffed49b2dbb693248062894da39b3e78e09301f6",
+  "scope": "All 24 selected web prose/key-takeaway/caption/assignment units; all worksheet directions, nested notes and six feature labels from both parts; score images and third-party recordings remain external",
+  "source_units_reviewed": 24,
+  "worksheet": {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/WK-Diatonic-Sequences-in-Middles.pdf",
+    "sha256": "62c6df908c36ff45a3a6cc57756edc2e84d62e6b012bf25f8d1001feae388ee4",
+    "bytes": 902835,
+    "pages_visually_reviewed": 4,
+    "parts": "Part1 two excerpts with3tasks+copy-count note; Part2 three excerpts with listening/model/copies/type/Roman-analysis/cadence/feature instructions and all nested notes",
+    "copying": "Instructions translated; historical score scans and notation not copied"
+  },
+  "source_illustration": {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Diatonic_Sequences_Patterns_Illustration.png",
+    "sha256": "eaf28e329d0172cc7ea6f8d1e2939dd2ebaea7b1d6dbe351a3bd717ff26e29e9",
+    "bytes": 18372,
+    "review": "Circles-only ambiguity and circle-square model checked visually; described in prose and linked, not copied"
+  },
+  "checks": {
+    "Q01": "Passed: model/copy distinction, usually/two-chord tendencies, non-exhaustive naming caveats, optional Roman-label interpretation and minor leading-tone condition preserved",
+    "Q02": "Passed: all24 selected web units plus both worksheet parts, three analysis excerpts, copy-count/embellishment/key-signature notes and six feature choices retained; no third-party score transcription",
+    "Q03": "Passed Hebrew self-review after focused and full-layout breaks; no independent human proofread claimed",
+    "Q04": "Passed: sequence/model/copy English on first definition; descending fifths/circle-of-fifths, descending thirds/Pachelbel and ascending5-6 alternate names retained",
+    "Q05": "Passed: 5-6, Roman-analysis instruction, Cminor/Bb labels and original work/movement/measure/time data retained; musical expressions isolated LTR",
+    "Q06": "Not applicable except relative leading tone statement; no solfege syllables converted or normalized",
+    "Q07": "Partial: descending-fifths root motion downP5/upP4 and step-transposed two-chord model checked; Pachelbel two-chord copies I-V,vi-iii,IV-I checked conceptually; 5-6 figured-bass meaning and minor leading-tone condition checked. No note-by-note verification or solved worksheet",
+    "Q08": "Passed: focused3pagePDF; full WeasyPrint66 export915pages/153Markdown/367images; companionZIP CRC; Python static site191pages/156content; zero missing local links",
+    "Q09": "Partial: official4pagePDF and illustration downloaded/hashed; exact eight MuseScore/recording examples, playlist, PDF/DOCX and three worksheet recording links retained. External playback/DOCX not verified",
+    "Q10": "Partial: all4worksheet pages and pattern illustration visually reviewed; historical score-edition rights not identified, assets external only; playback and all-note verification pending",
+    "Q11": "Focused3pagePDF and full-PDF pages167-170 visually inspected with no clipping/overlap; generated site page exists and link scan passes; live browser/mobile pending",
+    "Q12": "Passed: John Peterson/Open Music Theory/CC BY-SA4.0 attribution and worksheet copyright2025 retained; third-party rights limitation visible; AI self-review not presented as human proofreading"
+  },
+  "source_issues": [
+    {
+      "issue": "Writing step3 lists soprano, also, tenor, bass",
+      "action": "Translated also as alto according to the unambiguous four-voice context and disclosed the correction"
+    },
+    {
+      "issue": "Worksheet excerpt3 says brackets its model and copies",
+      "action": "Translated the grammatically intended imperative mark/bracket and disclosed the correction"
+    },
+    {
+      "issue": "Worksheet URL contains /2020/07/ but the downloaded file itself is copyright2025",
+      "action": "Used the file-visible2025 attribution and retained the official URL unchanged"
+    }
+  ],
+  "musical_checks": {
+    "descending_fifths": "successive roots down perfect fifth or up perfect fourth; two-chord model copies transpose down by diatonic step",
+    "pachelbel_model": [
+      "I-V",
+      "vi-iii",
+      "IV-I"
+    ],
+    "ascending_5_6": "upper voice moves from fifth to sixth above bass; analysis may minimize or label each verticality",
+    "minor_rule": "raise leading tone only for dominant-function harmony resolving to tonic",
+    "limit": "transparent conceptual checks only; no complete score solutions or note-by-note external-media verification"
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "audiobook_v2_tests_passed": 9,
+    "audiobook_v3_tests_passed": 18,
+    "v3_prepare_only": {
+      "chapters": 22,
+      "text_checked": 22,
+      "segments": 65,
+      "production_blockers": 26,
+      "api_calls": 0
+    },
+    "synthesis": false
+  },
+  "final_combined_verification": {
+    "full_pdf_pages": 915,
+    "full_pdf_sha256": "7bb83db28622c33d0cc9164356c82147b9f57be4f4bb1c90f20bf83a73a7ac20",
+    "companion_zip_sha256": "297e4399cbbee2e03e34d55614c096a5c8c1ac4f2b38947b4b872d581e688ce7",
+    "companion_crc_passed": true,
+    "site_pages": 191,
+    "site_content_chapters": 156,
+    "missing_local_links": 0,
+    "new_section_pages_visually_reviewed": [
+      167,
+      168,
+      169,
+      170
+    ],
+    "renderer": "WeasyPrint66 plus Poppler",
+    "all915pages_visually_reviewed": false,
+    "legacy_annex_parser_warnings": "pypdf emitted pre-existing annotation/object warnings while merging legacy appendices; final PDF reopened at915pages and relevant pages rendered",
+    "live_site_mobile_external_playback": "pending",
+    "published": false
+  },
+  "status": "private beta-text-reviewed prose/instructions/fullPDF/site; live/mobile/playback/note-by-note and individual edition rights remain",
+  "published": false,
+  "next_map_id": 52,
+  "next_map_reason": "map51 Tonicization is marked covered in coverage-map; resume at map52 without retranslating map51"
+}

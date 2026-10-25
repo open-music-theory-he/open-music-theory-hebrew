@@ -1,0 +1,47 @@
+{
+  "map_id": 60,
+  "title": "Sonata Form",
+  "reading_targets": ["SonataTheory-intro.md"],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/sonata-form/",
+  "target_base_sha256": {
+    "SonataTheory-intro.md": "7076b8bf06392bcc80d993e4d7bef9ced76751e8543d0c07ccbf16b0d54957ea"
+  },
+  "scope": "Eight key takeaways; four accessible formal diagrams; exposition, transition types, development, recapitulation, binary-form relationship, MC/EEC/ESC, introduction and coda; complete Mozart K. 310 analysis; complete two-page Park worksheet; and 21 glossary definitions",
+  "worksheet": {
+    "name": "Sonata Form - Analysis: Maria Hester Park",
+    "pages": 2,
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/06/sonata-form-assignment-1-analysis-Park_06-16-2020.pdf",
+    "content_review": "All 24 numbered prompts represented; provider text extraction reviewed page by page",
+    "visual_review": "Passed: both pages rendered from the official Pressbooks Nebraska mirror and were inspected for headings, tables, prompt order, numbering and blank answer spaces",
+    "visual_evidence_url": "https://pressbooks.nebraska.edu/app/uploads/sites/379/2023/09/sonata-form-assignment-1-analysis-Park_06-16-2020.pdf",
+    "visual_review_pages": [1, 2],
+    "visual_review_date": "2026-10-24"
+  },
+  "checks": {
+    "Q01": "Passed: all theoretical claims, expectations, alternatives and exceptions preserved",
+    "Q02": "Passed: all prose sections, eight takeaways, four diagrams, Mozart analysis, worksheet prompts and 21 definitions retained",
+    "Q03": "Passed Hebrew self-review; no human proofread claimed",
+    "Q04": "Passed: core and auxiliary sections, dependent/independent transitions, becoming, core/pre-core, MC/EEC/ESC and crux distinguished",
+    "Q05": "Passed: P/TR/S/C, MC/EEC/ESC, keys, Roman numerals, opus/Köchel and measure numbers preserved in LTR contexts",
+    "Q06": "Not applicable: source contains no solfege",
+    "Q07": "Partial: formal and harmonic labels were checked against the source text; no listening or note-by-note score verification",
+    "Q08": "Passed: temporary-manifest integration, 390/390 protected inputs, 27/27 tests and v3 preparation of 22 checked chapters/65 segments/26 production blockers/0 API calls passed",
+    "Q09": "Partial: chapter, PDF, DOCX and analysis links retained; external playback and DOCX contents not independently verified",
+    "Q10": "Passed: source diagrams were converted to accessible text; both worksheet pages were rendered from the official Pressbooks Nebraska mirror and visually checked against all translated sections",
+    "Q11": "Passed: local site rendered 191 pages with 156 content pages and zero missing local links; WeasyPrint 66 full PDF built at 955 pages; map60 pages 301-306 visually passed",
+    "Q12": "Passed: CC BY-SA 4.0 attribution, external-asset qualifications and AI-assisted self-review disclosure retained"
+  },
+  "source_issues": [
+    {
+      "issue": "The chapter calls the post-recapitulation suffix both closing area and coda, while C already denotes the exposition/recapitulation closing section",
+      "action": "Used 'coda' for the external suffix and retained C for the internal closing section to avoid ambiguity"
+    },
+    {
+      "issue": "The original VIVA file endpoint returned HTTP 403 for screenshot rendering",
+      "action": "Used the official Pressbooks Nebraska mirror of the same two-page worksheet; both pages rendered and were visually verified on 2026-10-24"
+    }
+  ],
+  "status": "private beta-verified; Q01-Q12 complete with stated external-media limitations",
+  "next_map_id_after_completion": 61,
+  "next_note": "Continue to Rondo only after map60 checkpoint validation"
+}

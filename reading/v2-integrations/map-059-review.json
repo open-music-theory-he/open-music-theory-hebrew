@@ -1,0 +1,71 @@
+{
+  "map_id": 59,
+  "title": "Ternary Form",
+  "reading_targets": ["smallTernary.md", "minuet.md"],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/ternary-form/",
+  "target_base_sha256": {
+    "smallTernary.md": "90fcd2f353a083d3ab3c6ee2c14e140af0cff64e59ea501d4903bdf204dcd738",
+    "minuet.md": "34995409ac6df015c4cba51bdb47c7b6f20d2cdb491e28ba06541bed135e9bfc"
+  },
+  "addition_sha256": {
+    "smallTernary.md": "9667c9f2ea24adb22e56e1cd3845c5990a4bc7bd80046575a25ff43ac5d0aa74",
+    "minuet.md": "738022fe0eaee78f239608cdcff69a281c6e89df4859470dda20ab066140a327"
+  },
+  "scope": "Complete prose and five key takeaways; four abstract formal diagrams; distinctions among simple and compound/composite ternary, contrast, stability, tonality, harmony and auxiliary sections; two interactive-analysis references; both complete two-page analysis worksheets; and seven glossary definitions",
+  "worksheets": [
+    {
+      "name": "Ternary Form - Analysis: Bernhard Henrik Crusell",
+      "pages": 2,
+      "bytes": 141497,
+      "sha256": "0437a53244196ea087e029010cc41894b12080c1419b0a5b5e7c4313e872f8a6"
+    },
+    {
+      "name": "Ternary Form - Analysis: Josephine Lang",
+      "pages": 2,
+      "bytes": 169085,
+      "sha256": "42a00d3e636c4b5d6542700aea8d7e76e2610622ec258f8f36fdef43dbc20edd"
+    }
+  ],
+  "checks": {
+    "Q01": "Passed: ABA return structure, optional immediate repeats, simple/compound distinction, contrast, relative stability, tonal closure and auxiliary sections preserved",
+    "Q02": "Passed: all prose, five key takeaways, four diagrams, two analysis references, seven definitions and all questions from both worksheets retained",
+    "Q03": "Passed Hebrew self-review; no human proofread claimed",
+    "Q04": "Passed: simple versus compound/composite ternary, through-composed structure, tight-knit versus loose organization, and open versus closed harmonic endings kept distinct",
+    "Q05": "Passed: A, A-prime, B, repeat signs, chord figures, Roman-numeral prompts, opus numbers and measure ranges preserved with LTR isolation",
+    "Q06": "Passed: note names and scale-degree conventions preserved without solfege substitution",
+    "Q07": "Partial: all four worksheet pages were inspected textually and visually; linked scores were not copied and no answer-key or note-by-note verification is claimed",
+    "Q08": "Passed: exact base hashes recorded, temporary-manifest integration passed, 390/390 protected inputs unchanged, 9/9 v2 tests and 18/18 v3 tests passed",
+    "Q09": "Partial: official source, PDF, DOCX, score, Spotify and chapter-playlist links retained; external playback and DOCX/score contents were not independently verified",
+    "Q10": "Partial: source worksheet PDFs visually reviewed; score assets remain external links with licensing qualifications",
+    "Q11": "Passed: bounded local site rendered 191 pages with 156 content pages and zero missing local links; WeasyPrint 66 full PDF built at 950 pages; map59 pages 256-261 and 324 visually passed",
+    "Q12": "Passed: CC BY-SA 4.0 text/worksheet credit, external-asset qualifications and AI-assisted self-review disclosure retained"
+  },
+  "source_issues": [
+    {
+      "issue": "Both worksheets say 'Where you surprised'",
+      "action": "Corrected the obvious grammar error to the natural Hebrew equivalent of 'Were you surprised' and documented it"
+    },
+    {
+      "issue": "The Lang worksheet asks what chord was likely at 'measure 1 beat 5', although the surrounding prompt identifies beat 1 of measure 5",
+      "action": "Translated the internally consistent reading, beat 1 of measure 5, and documented the correction"
+    },
+    {
+      "issue": "One key-takeaway phrase omits punctuation between contrasting material and a new key",
+      "action": "Rendered them as separate characteristics without adding a new claim"
+    }
+  ],
+  "verification": {
+    "protected_inputs": "390/390 unchanged",
+    "audiobook_v2_tests": "9/9 passed",
+    "audiobook_v3_tests": "18/18 passed",
+    "audiobook_v3_prepare": "22 chapters, 65 segments, 26 production blockers, 0 API calls",
+    "source_pdf_pages_visually_reviewed": 4,
+    "static_site": "191 pages, 156 content pages, 0 missing local links",
+    "combined_pdf": "950 pages; map59 pages 256-261 and 324 visually passed",
+    "audio_generation": false,
+    "published": false
+  },
+  "status": "private beta-text-reviewed; fully validated for checkpoint",
+  "next_map_id_after_completion": 60,
+  "next_note": "Continue to Sonata Form"
+}

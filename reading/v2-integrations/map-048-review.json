@@ -1,0 +1,135 @@
+{
+  "map_id": 48,
+  "reading_targets": [
+    "harmonicSyntax2.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-mediant/",
+  "source_html_sha256": "8923fb64e345ae52a77b3a1568d529e4d97230b1284e9d27558ec4124a0e08ef",
+  "base_sha256": "fafd597fc4fa44f389dd6a2d0ab281caa7c0ab80f1fc90ece565c6ef38487c8e",
+  "addition_sha256": "f7ece1f87aae764242772bd22224b3f491a279385e8729c8a1d2ea447486c35b",
+  "worksheet": {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Mi-in-the-Bass.pdf",
+    "bytes": 335104,
+    "sha256": "a5babf028a3ffddb2839d2c8a5afd8d65ab20669e5032d2229e83feaac8a2d66",
+    "pages_visually_reviewed": 3,
+    "instructions": "Part1 all7;Part2 all5;Part3 fullintro+4bullets incl nestedhint",
+    "assets": "external links only; historical edition/Weezer transcription individual rights unverified"
+  },
+  "checks": {
+    "Q01": {
+      "status": "passed",
+      "detail": "All19 mapped heading/summary/prose/caption/assignment units compared, typical/usually/uncommon/rootposition/sparinguse retained; no universal stylistic ban"
+    },
+    "Q02": {
+      "status": "passed for prose and worksheet instructions",
+      "detail": "Source-unit map; full3parts7+5+intro/bullets; captionstext+exact3scorelinks; no lyric transcription copied; not translation of protected thirdparty score image text"
+    },
+    "Q03": {
+      "status": "passed",
+      "detail": "Hebrew selfreview after layout break; clear part/meter/function distinction"
+    },
+    "Q04": {
+      "status": "passed",
+      "detail": "Mediant/weakpredominant/harmonicrhythm English at introduction; commonpractice per glossary"
+    },
+    "Q05": {
+      "status": "passed",
+      "detail": "iii/III case preserved; I6,V4/3,I–iii–V; appliednoRomanrenumbering; original targets unchanged"
+    },
+    "Q06": {
+      "status": "passed",
+      "detail": "Relative ti/te,la/le and mi/me preserved; explanatoryeditorialnote clearlysigned; no ABCconversion"
+    },
+    "Q07": {
+      "status": "partial",
+      "detail": "Checked Cmajor iii=EGB vs Cminor III=EbGBb vs III+=EbGB, leadingBb/B mismatchinminor; B–A vs Bb–Ab descending7–6; source2a–d mappings preserved. No listening/fullsolution/independentnote-by-noteMusescoreverification"
+    },
+    "Q08": {
+      "status": "passed focused; full export pending parent",
+      "detail": "Markdown+HTML parsed; 3pagefocusedWeasyPrint68PDFrender; oldroot390hashesunchanged;9audioV2tests pass"
+    },
+    "Q09": {
+      "status": "partial",
+      "detail": "Exact all3Musescore+Spotifyplaylist/track+PDF/DOCX+2sourcecrosslinks retained; officialPDFdownload verified; individualexternalplayback/DOCXnotdownloaded"
+    },
+    "Q10": {
+      "status": "partial",
+      "detail": "Original3worksheetpages visuallyread; score/lyricsnotcopied. Allscoreembedslinkedonly; unavailablemedianoticevisible; externalplaybackpending"
+    },
+    "Q11": {
+      "status": "passed focused PDF; partial overall",
+      "detail": "All3finalfocusedHebrewpages visuallyinspected; RTL/LTRbdi checked; fullsite/live/mobile pending"
+    },
+    "Q12": {
+      "status": "passed",
+      "detail": "JohnPeterson2021CCBYSAinstructionattribution; exceptasnotedrights; AIselfreviewnot human; sourcechorus/versecontradictionretainedandflagged; minorMi/meeditorialnote"
+    }
+  },
+  "source_issues": [
+    {
+      "issue": "Part3firstchorus versus finalverse",
+      "action": "Bothtranslatedliterallywithvisibleannotation; no silent resolution/noassertion which author intended"
+    },
+    {
+      "issue": "Source titleMi inminor",
+      "action": "Signednote explains me in relative do-based minor without changing originaltitle"
+    },
+    {
+      "issue": "Original repeated to to",
+      "action": "Redundant adjacent to translated once; no semantic alteration"
+    }
+  ],
+  "musical_checks": {
+    "Cmajor_iii": [
+      "E",
+      "G",
+      "B"
+    ],
+    "Cminor_III": [
+      "Eb",
+      "G",
+      "Bb"
+    ],
+    "Cminor_raised7_triad": [
+      "Eb",
+      "G",
+      "B"
+    ],
+    "major_upper_descent": [
+      "B",
+      "A"
+    ],
+    "minor_upper_descent": [
+      "Bb",
+      "Ab"
+    ],
+    "meaning": "Only transparent theoreticalchecks, not newauthorexamples in translation"
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "tests_passed": 9,
+    "synthesis": false
+  },
+  "status": "private beta-text-reviewed prose+worksheet instructions+focusedPDF; parent fullPDF/site pending, media/mobile and individualassetrights limitations remain",
+  "published": false,
+  "new_narration_created_by_translation_lane": false,
+  "next_map_id": 49,
+  "final_combined_verification": {
+    "full_pdf_pages": 912,
+    "site_pages": 191,
+    "site_content_chapters": 156,
+    "missing_local_links": 0,
+    "companion_crc_passed": true,
+    "new_section_pages_visually_reviewed": [
+      198,
+      199,
+      200
+    ],
+    "renderer": "WeasyPrint66 plus Poppler",
+    "all912pages_visually_reviewed": false,
+    "live_site_mobile_external_playback": "pending; previous beta limitations retained",
+    "published": false
+  }
+}
+

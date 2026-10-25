@@ -1,0 +1,38 @@
+{
+  "map_id": 65,
+  "title": "Modal Mixture",
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/modal-mixture/",
+  "reading_targets": ["modalMixture.md", "popRockHarmony-EverettSystem3.md"],
+  "integration_file": "reading/v2-integrations/modalMixture.md",
+  "target_base_sha256": {
+    "modalMixture.md": "72705159f36d02b546554168e8a02cb3e26dcfac80d9cc18832c3594dbe0e211",
+    "popRockHarmony-EverettSystem3.md": "906ca62361dded69c33d4690d923938b24520a4e573f1b0df862f825ec6135e8"
+  },
+  "scope": "Five key takeaways; parallel-key definition and solfege comparison; melodic and harmonic mixture; common predominant mixture chords; altered-root, tonic and dominant mixture; chaining guidance; Picardy third; large-scale chromatic-pivot modulation; twelve example captions; five-part four-page worksheet; five glossary definitions",
+  "worksheet": {
+    "name": "Modal Mixture - Assignment 1",
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_modal_mixture_assignment_1-06-29-2020.pdf",
+    "pages": 4,
+    "sha256": "6e5e673c4c3776efcbe5e38bfa4565ebc37f94809e0848020da8814be2ae5b1a",
+    "parts": ["Converting Existing Chords", "Creating Modal Mixture Chords from Scratch", "Modal Mixture with Figured Bass", "Four-Voice Part Writing", "Analysis of Music with Modal Mixture"],
+    "visual_review": "All four pages rendered and inspected; all five task headings and instructions represented in Hebrew",
+    "rights_note": "The two Alkan analysis score pages carry a Brian Edward Jarvis 2008 copyright notice; the score remains external and is not reproduced"
+  },
+  "checks": {
+    "Q01": "Passed: all source claims, norms, alternatives, historical qualification and extended-tonicization/modulation distinction represented",
+    "Q02": "Passed: five takeaways, every prose section, twelve example captions, interactive prompt, five worksheet parts and glossary retained",
+    "Q03": "Passed Hebrew self-review; no human proofread claimed",
+    "Q04": "Passed: modal mixture/borrowing, parallel keys, chromatic pivot chord, Picardy third and extended tonicization distinguished",
+    "Q05": "Passed: Roman numerals, altered roots, inversions, scale degrees, keys, measure/time references and work titles preserved in LTR contexts",
+    "Q06": "Passed: source solfege mi/me, la/le and ti/te preserved unchanged",
+    "Q07": "Partial: theoretical labels and captions checked against the source; no listening or note-by-note verification of twelve external score embeds",
+    "Q08": "Passed for reading integration: 390/390 protected inputs unchanged and 27/27 v2+v3 tests passed; audio production remained disabled",
+    "Q09": "Partial: official chapter and four-page assignment captured; DOCX, Spotify audio, interactive exercise and external MuseScore behavior were not independently verified",
+    "Q10": "Partial: all four worksheet pages rendered and visually checked; the twelve linked external notation embeds were retained but not copied or verified note by note",
+    "Q11": "Passed: local site rendered 191 pages with 156 content pages and zero missing local links; WeasyPrint 66 full PDF opened at 948 pages; map65 pages 224-226 visually passed",
+    "Q12": "Passed: CC BY-SA 4.0 chapter attribution, external-asset qualifications, 2008 worksheet-score copyright notice and AI-assisted self-review disclosure retained"
+  },
+  "status": "private reading integration verified; separate chapter 41 v3 draft prepared and text-reviewed; twelve external score assets and related media remain pending; production remains disabled",
+  "next_action": "Review the twelve external MuseScore assets and related Spotify, interactive and DOCX links for chapter 41; keep the update draft until visual and listening requirements are complete; then rerun gates and close map65 before map66",
+  "next_map_id_after_completion": 66
+}

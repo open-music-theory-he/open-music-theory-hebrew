@@ -1,0 +1,49 @@
+{
+  "map_id": 58,
+  "title": "Binary Form",
+  "reading_targets": ["smallBinary.md", "minuet.md"],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/binary-form/",
+  "source_html_sha256": "c5ab4411f2287182a2f681e7bf6f588fdbe7c8a0bba552bd4631a0f2f604cff6",
+  "target_base_sha256": {
+    "smallBinary.md": "ab428187c40409b5a619ec102cee17ee831e01ab4aee2af9dbf43cfddae34cfb",
+    "minuet.md": "34995409ac6df015c4cba51bdb47c7b6f20d2cdb491e28ba06541bed135e9bfc"
+  },
+  "addition_sha256": {
+    "smallBinary.md": "88f3b72fe4e6ab471f5225fabc697565ff22369a67f03d757b6035e361c97026",
+    "minuet.md": "5b40fca4ad66eee22a4f01984c32cb81c241adafba8755fdc51fa81a82738442"
+  },
+  "scope": "Complete prose, key takeaways, nine numbered examples, eight abstract diagrams as external links, one footnote, twenty-one glossary definitions, media attributions, all analysis questions for five excerpts, and all guided-composition instructions",
+  "worksheets": [
+    {"name": "Binary Form - Analysis", "pages": 9, "bytes": 940904, "sha256": "3474df71b1ee5a0ace046e6d7e3d9e35d1a8bf5f028650f6389155f2e07fb3d0"},
+    {"name": "Binary Form - Guided Composition", "pages": 1, "bytes": 52776, "sha256": "37dab1a893c80b27a6700d56b92c411321526d51c2250b58fc4344ad5dded63f"}
+  ],
+  "checks": {
+    "Q01": "Passed: two reprises, simple/rounded distinction, optional balanced aspect, crux point, tonal closure and stability trajectory preserved",
+    "Q02": "Passed: all prose, nine examples, eight diagrams, footnote, twenty-one glossary definitions, assignments and worksheet instructions retained",
+    "Q03": "Passed Hebrew self-review; no human proofread claimed",
+    "Q04": "Passed: reprise, recapitulation, rounded/simple/balanced binary, main/contrasting section, crux and monotonality kept distinct",
+    "Q05": "Passed: A, A-prime, B, x, repeat signs, catalogue numbers, opus numbers and measure ranges preserved with LTR isolation",
+    "Q06": "Passed: do and scale-degree notation preserved without conversion to ABC names",
+    "Q07": "Partial: all ten worksheet pages and score layouts inspected; identities and task constraints checked; no answer key or note-by-note verification",
+    "Q08": "Passed: exact base hashes recorded, 390/390 protected inputs unchanged, 9/9 v2 tests and 18/18 v3 tests passed",
+    "Q09": "Partial: official links retained; external playback, DOCX and MuseScore contents not verified",
+    "Q10": "Partial: source PDFs visually reviewed; score and diagram assets remain external links with source licensing qualifications",
+    "Q11": "Passed: bounded local site rendered 191 pages with 156 content pages and zero missing local links; WeasyPrint 66 full PDF built at 945 pages; map58 pages 259-265 and 318-319 visually passed",
+    "Q12": "Passed: CC BY-SA 4.0 text/worksheet credits, CC0 diagram credits, media qualifications and AI-assisted self-review disclosure retained"
+  },
+  "source_issues": [{"issue": "The analysis worksheet asks for one Roman numeral for 'all of measure. 13'", "action": "Corrected the obvious punctuation error in translation and documented it"}],
+  "verification": {
+    "protected_inputs": "390/390 unchanged",
+    "audiobook_v2_tests": "9/9 passed",
+    "audiobook_v3_tests": "18/18 passed",
+    "audiobook_v3_prepare": "22 chapters, 65 segments, 26 production blockers, 0 API calls",
+    "source_pdf_pages_visually_reviewed": 10,
+    "static_site": "191 pages, 156 content pages, 0 missing local links",
+    "combined_pdf": "945 pages; map58 pages 259-265 and 318-319 visually passed",
+    "audio_generation": false,
+    "published": false
+  },
+  "status": "private beta-text-reviewed; fully validated for checkpoint",
+  "next_map_id_after_completion": 59,
+  "next_note": "Continue to Ternary Form"
+}

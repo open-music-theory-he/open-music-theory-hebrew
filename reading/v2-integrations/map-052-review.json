@@ -1,0 +1,117 @@
+{
+  "map_id": 52,
+  "title": "Extended Tonicization and Modulation to Closely Related Keys",
+  "reading_targets": [
+    "Modulation.md",
+    "appliedChords.md"
+  ],
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/extended-tonicization-and-modulation-to-closely-related-keys/",
+  "source_html_sha256": "e5b570e0ef66bf78381718cefeaae6456eb2475b15c73f1528ebf0b7afcbaf57",
+  "target_base_sha256": {
+    "Modulation.md": "53d7d28370588a252f50326d9e6c85fd2e37d0740812d421ef9ff8c97f38a69b",
+    "appliedChords.md": "8a65f97a34a179729df316669c6826433f2f95630138a5f0c347fc003c39932c"
+  },
+  "addition_sha256": {
+    "Modulation.md": "2b5b824fb7b9b47921ee1794eeab9d8d5dc7ca0cfb3d74c42fed3404ebe09f21",
+    "appliedChords.md": "affc3363cb9f9a22361b9de8ac1d28e427a3024cad29952de7502804afb49864"
+  },
+  "scope": "Complete web prose, key takeaways, lists, table, captions, glossary, assignment, and all four worksheet parts; score notation and external recordings remain linked, not copied",
+  "units_reviewed": [
+    "Key Takeaways and introduction",
+    "Analyzing Modulations",
+    "Direct modulations",
+    "Pivot chord modulations",
+    "Closely related keys and F-major table",
+    "Writing modulations with pivot chords",
+    "Identifying potential pivots",
+    "Choosing a progression",
+    "Tonicization versus modulation",
+    "Extended tonicization",
+    "Assignments and glossary",
+    "Media attributions",
+    "Worksheet Parts 1-4"
+  ],
+  "worksheet": {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Extended-Tonicization-and-Modulation.pdf",
+    "sha256": "5914ce9ae1041803797b2460345f5b5137b08961664c4b0ccb00bbe3a834f5ba",
+    "bytes": 585817,
+    "pages_visually_reviewed": 3,
+    "parts": "Part1 secondary-chord writing/resolution; Part2 closely related keys; Part3 Schubert String Quartet No.9 II analysis and reduction; Part4 four-measure B-minor modulation writing",
+    "copying": "All instructions translated; Schubert score notation remains in the official external PDF and is not copied"
+  },
+  "checks": {
+    "Q01": "Passed: temporary/longer-term distinction, cadence evidence, listener-dependent ambiguity, pivot preferences and weak-modulation qualifications preserved",
+    "Q02": "Passed: all web headings, prose units, nested lists, F-major table, eight example captions, glossary definitions, assignment, attributions and all four worksheet parts retained across two integration targets",
+    "Q03": "Passed Hebrew self-review; no independent human proofread claimed",
+    "Q04": "Passed: modulation, pivot chord, closely related keys and extended tonicization defined with English at first use; tonicization and modulation kept distinct",
+    "Q05": "Passed: ABC spellings, B♭/F♯/D♭/E♭, Roman-numeral case, inversions, cadence labels and work/measure data retained with LTR isolation",
+    "Q06": "Passed: no solfege normalization; source uses no solfege syllable sequence requiring conversion",
+    "Q07": "Partial: closely-related-key construction, F-major table, common modulation pairs, pivot-function preferences, 4/4 and cadential 6/4 instructions checked; no solved worksheet or note-by-note Schubert verification",
+    "Q08": "Passed: integration manifest includes both targets with exact base SHA256; full WeasyPrint66 export 920 pages/153 Markdown/367 images; companion ZIP CRC passed; Python static site 191 pages/156 content; zero missing local links",
+    "Q09": "Partial: official page/PDF and exact playlist, MuseScore and Spotify URLs retained; external playback and DOCX not verified",
+    "Q10": "Partial: all three worksheet pages visually reviewed; two source diagrams and circle-of-fifths image referenced with attribution; external MuseScore and Schubert edition rights not independently verified",
+    "Q11": "Partial: full-PDF pages 222-230 rendered and visually inspected after list-layout correction; generated Modulation/appliedChords site pages contain map52 and local-link scan passes; live/mobile remains pending",
+    "Q12": "Passed: John Peterson/Open Music Theory/CC BY-SA4.0, Wiki Commons/Bryn Hughes and AI-assisted self-review disclosures retained; third-party score limits explicit"
+  },
+  "source_issues": [
+    {
+      "issue": "PDF text extraction flattens 4/4 and cadential 6/4 to 44 and 64",
+      "action": "Read the rendered notation visually and preserved the intended 4/4 and cadential six-four meanings; source PDF left unchanged"
+    },
+    {
+      "issue": "The worksheet includes a Schubert score without an edition-level rights statement on the worksheet pages",
+      "action": "Kept the official PDF external and made no claim to rights in the score notation"
+    }
+  ],
+  "media": {
+    "musescore_examples": 4,
+    "spotify_links": 4,
+    "chapter_playlist": 1,
+    "playback_verified": false,
+    "note_by_note_verified": false
+  },
+  "protected_audio": {
+    "count": 390,
+    "changed": [],
+    "audiobook_v2_tests_passed": 9,
+    "audiobook_v3_tests_passed": 18,
+    "v3_prepare_only": {
+      "chapters": 22,
+      "text_checked": 22,
+      "segments": 65,
+      "production_blockers": 26,
+      "api_calls": 0
+    },
+    "synthesis": false
+  },
+  "final_combined_verification": {
+    "full_pdf_pages": 920,
+    "full_pdf_sha256": "4e3fae869122e4681a5775e55968210039c66efb248712d897c2625e64578c15",
+    "companion_zip_sha256": "2d6a53768e357af8a5c2f2cb092a1e33f951cfc49397b0ae58e18ac7194acb0d",
+    "companion_crc_passed": true,
+    "markdown_documents": 153,
+    "images": 367,
+    "site_pages": 191,
+    "site_content_chapters": 156,
+    "missing_local_links": 0,
+    "new_section_pages_visually_reviewed": [
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230
+    ],
+    "renderer": "WeasyPrint66 plus Poppler",
+    "all920pages_visually_reviewed": false,
+    "legacy_annex_parser_warnings": "pypdf emitted pre-existing annotation/object warnings while merging legacy appendices; final PDF reopened at 920 pages and pages 222-230 rendered correctly",
+    "live_site_mobile_external_playback": "pending",
+    "published": false
+  },
+  "status": "private beta-text-reviewed prose/instructions/fullPDF/site; live/mobile/playback/note-by-note and Schubert edition rights remain",
+  "published": false,
+  "next_map_id": 53
+}
