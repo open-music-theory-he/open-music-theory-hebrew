@@ -1,0 +1,70 @@
+{
+  "edition": 3,
+  "purpose": "auditions-only",
+  "production_enabled": false,
+  "book_chapters_recorded": 0,
+  "batch": "40367556941",
+  "generation_run_id": "40367556941",
+  "source_commit": "df9ac6fd5045b123894ece360f1c136b048deb33",
+  "status": "running",
+  "completed": [],
+  "opening_text": "קריינות שנוצרה בבינה מלאכותית. יתכנו אי דיוקים בהגיית מונחים מוזיקליים מסויימים. תוכן ויזואלי, כולל איורים, תווים ותרגילים מופיעים בגירסה הכתובה. יתכנו שינויים קלים מהגירסה הכתובה. יתכנו שינויים פתאומיים בגוון הצליל ובשטף ההקראה.",
+  "opening_source": "audiobook-auditions/00-introduction.json",
+  "opening_text_sha256": "122ea37cc5104b2f61e4010f8104b3b126ce2bce32bb5fdc49663dda36cb9178",
+  "samples": [
+    {
+      "number": 1,
+      "id": "01-Charon-radio-news",
+      "voice": "Charon",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.",
+      "label": "Charon — חדשות רדיו — סמכותי וכריזמטי",
+      "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+      "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility."
+    },
+    {
+      "number": 2,
+      "id": "02-Charon-tv-news",
+      "voice": "Charon",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+      "label": "Charon — חדשות טלוויזיה — דרמטי ומודגש",
+      "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+      "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility."
+    },
+    {
+      "number": 3,
+      "id": "03-Orus-radio-news",
+      "voice": "Orus",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.",
+      "label": "Orus — חדשות רדיו — סמכותי וכריזמטי",
+      "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+      "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility."
+    },
+    {
+      "number": 4,
+      "id": "04-Orus-tv-news",
+      "voice": "Orus",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+      "label": "Orus — חדשות טלוויזיה — דרמטי ומודגש",
+      "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+      "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility."
+    },
+    {
+      "number": 5,
+      "id": "05-Iapetus-radio-news",
+      "voice": "Iapetus",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.",
+      "label": "Iapetus — חדשות רדיו — סמכותי וכריזמטי",
+      "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+      "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility."
+    },
+    {
+      "number": 6,
+      "id": "06-Iapetus-tv-news",
+      "voice": "Iapetus",
+      "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+      "label": "Iapetus — חדשות טלוויזיה — דרמטי ומודגש",
+      "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+      "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility."
+    }
+  ]
+}
