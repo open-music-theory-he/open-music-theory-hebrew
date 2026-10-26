@@ -2,6 +2,11 @@ name: Audiobook v3 auditions ONLY — no chapter production
 on:
   workflow_dispatch:
     inputs:
+      style_set:
+        description: 'Audition delivery: standard or charismatic radio/TV news'
+        type: choice
+        options: [standard, news]
+        default: standard
       resume_batch:
         description: Optional previous audition run ID; reuse only checksum-matching original segments
         type: string
@@ -16,6 +21,7 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 40
     env:
+      AUDITION_STYLE_SET: ${{ inputs.style_set || 'standard' }}
       AUDITION_RESUME_BATCH: ${{ inputs.resume_batch }}
     steps:
       - uses: actions/checkout@v4
