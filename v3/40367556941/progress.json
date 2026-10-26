@@ -6,7 +6,7 @@
   "batch": "40367556941",
   "generation_run_id": "40367556941",
   "source_commit": "df9ac6fd5045b123894ece360f1c136b048deb33",
-  "status": "running",
+  "status": "completed-awaiting-choice",
   "completed": [
     "01-Charon-radio-news",
     "02-Charon-tv-news",
