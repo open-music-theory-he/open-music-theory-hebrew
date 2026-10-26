@@ -1,0 +1,12 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "6c651a2b847acb8c297c4549cf86cc001c0849d92e1e143332fe2defe48f1872",
+  "raw_wav_sha256": "79273d2f5092b6292608d6f8d35c046c08dc9a426ba3711108a2e34d2e85b3d1",
+  "seconds": 15.48,
+  "status": "raw-preserved-before-encoding"
+}
