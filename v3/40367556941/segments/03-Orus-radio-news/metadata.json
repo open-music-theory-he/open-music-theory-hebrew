@@ -1,0 +1,32 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Orus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "2444aafd8d22cae1188dcad8c2a76053b28ae9cbdd64a8d7c1f8c8b01ba041b9",
+  "text_sha256": "af7ba6043eac044d9b051530dc7133d46c092daa8d53fdcd8026e6a7769a068c",
+  "raw_wav_sha256": "0318f753cfc5a9da363022117639d2f779636b1293a4d557b35eebac1691eab2",
+  "mp3_sha256": "2cf398212ca30d0f9a2bcf6a4e73e996bb2350df6f38fa155abbde57d5cfb627",
+  "seconds": 13.96,
+  "format": {
+    "channels": 1,
+    "sample_rate": 24000,
+    "sample_width": 2,
+    "frames": 335040
+  },
+  "recorded_utc": "2026-10-26T17:21:07.376092+00:00",
+  "status": "recorded-awaiting-user-listening",
+  "opening_source": null,
+  "provider_request_config": {
+    "model": "gemini-3.8-flash-tts",
+    "response_format": {
+      "type": "audio",
+      "mime_type": "audio/wav"
+    },
+    "voice": "Orus",
+    "speech_metadata_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.",
+    "store": false
+  }
+}
