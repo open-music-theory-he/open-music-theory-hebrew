@@ -12,6 +12,11 @@ OPENING_SOURCE = 'audiobook-auditions/00-introduction.json'
 BASE = 'Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects.'
 OPENING_STYLE = BASE + ' Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.'
 STYLES = [('measured','מדוד','Measured educational audiobook narration, calm, steady and conversational, natural pauses, without theatrical acting.'),('fluent','זורם','Fluent moderately brisk educational narration, clear consonants, compact pauses, stable vocal tone, without theatrical acting.')]
+if os.environ.get('AUDITION_STYLE_SET', 'standard') == 'news':
+    STYLES = [
+        ('radio-news', 'חדשות רדיו — סמכותי וכריזמטי', 'Deliver like a compelling professional Israeli radio news anchor: authoritative, charismatic, resonant and engaged. Use confident sentence endings, purposeful emphasis on important terms, rhythmic phrasing and crisp diction. Moderately brisk pace with short deliberate pauses. Convey intellectual excitement while preserving the exact meaning. No shouting, sensationalism, exaggerated emotion or impersonation of any real presenter.'),
+        ('tv-news', 'חדשות טלוויזיה — דרמטי ומודגש', 'Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.')
+    ]
 
 def sha(b): return hashlib.sha256(b).hexdigest()
 def canonical(j): return json.dumps(j,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()
