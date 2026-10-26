@@ -1,0 +1,32 @@
+{
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Charon",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "text": "כשהוא כתוב על חַמְשָׁה, תָּו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תָּו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).",
+  "edition": 3,
+  "purpose": "audition-only",
+  "identity_sha256": "cd15dc919552ec2b0cf45fd5e50e34ba722e2b05a048674465a706a62971cdd7",
+  "text_sha256": "af7ba6043eac044d9b051530dc7133d46c092daa8d53fdcd8026e6a7769a068c",
+  "raw_wav_sha256": "585366aed57d9ab924df2597309a181fd8db84a988879c98afb26da651befc3e",
+  "mp3_sha256": "b6f1bc8b43f0e73bf0a654678fd8c3aba4794926f694a88d16f597aeeda4be21",
+  "seconds": 14.6,
+  "format": {
+    "channels": 1,
+    "sample_rate": 24000,
+    "sample_width": 2,
+    "frames": 350400
+  },
+  "recorded_utc": "2026-10-26T17:20:50.541681+00:00",
+  "status": "recorded-awaiting-user-listening",
+  "opening_source": null,
+  "provider_request_config": {
+    "model": "gemini-3.8-flash-tts",
+    "response_format": {
+      "type": "audio",
+      "mime_type": "audio/wav"
+    },
+    "voice": "Charon",
+    "speech_metadata_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+    "store": false
+  }
+}
