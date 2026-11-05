@@ -1,5 +1,8 @@
 name: Hebrew audiobook v3 — isolated manual production
 on:
+  # Automatically resume approved narration every four hours; existing approval and quota safeguards remain active.
+  schedule:
+    - cron: '17 */4 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -38,20 +41,20 @@ jobs:
       - name: Audit preparation without API calls
         if: inputs.mode == 'prepare'
         env:
-          CHAPTER_SELECTION: ${{ inputs.chapters }}
+          CHAPTER_SELECTION: ${{ inputs.chapters || 'all' }}
         run: python scripts/export_audiobook_v3.py --prepare-only --chapters "$CHAPTER_SELECTION"
       - name: Validate production approvals before tools, secrets, or state writes
-        if: inputs.mode == 'generate'
+        if: github.event_name == 'schedule' || inputs.mode == 'generate'
         env:
-          CHAPTER_SELECTION: ${{ inputs.chapters }}
+          CHAPTER_SELECTION: ${{ inputs.chapters || 'all' }}
         run: python scripts/export_audiobook_v3.py --validate-production --chapters "$CHAPTER_SELECTION"
       - name: Install audio encoding tools
-        if: inputs.mode == 'generate'
+        if: github.event_name == 'schedule' || inputs.mode == 'generate'
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
       - name: Restore independent v3 state (never v2)
-        if: inputs.mode == 'generate'
+        if: github.event_name == 'schedule' || inputs.mode == 'generate'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -71,9 +74,9 @@ jobs:
           fi
           printf '*.tmp\nworking.wav\nworking.mp3\nconcat.txt\n' > dist/audiobook-v3-state/.gitignore
       - name: Generate approved v3 inputs only, preserving legacy recordings
-        if: inputs.mode == 'generate'
+        if: github.event_name == 'schedule' || inputs.mode == 'generate'
         env:
-          CHAPTER_SELECTION: ${{ inputs.chapters }}
+          CHAPTER_SELECTION: ${{ inputs.chapters || 'all' }}
           GEMINI_API_KAYS: ${{ secrets.GEMINI_API_KAYS }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
@@ -82,7 +85,7 @@ jobs:
           AUDIOBOOK_V3_COMMIT_CHECKPOINT: 'true'
         run: python -u scripts/export_audiobook_v3.py --chapters "$CHAPTER_SELECTION"
       - name: Package sanitized v3 recovery archive
-        if: always() && inputs.mode == 'generate'
+        if: always() && (github.event_name == 'schedule' || inputs.mode == 'generate')
         run: |
           if [ -d dist/audiobook-v3-state ]; then
             python scripts/export_audiobook_v3.py --archive dist/audiobook-v3-recovery.zip
@@ -96,7 +99,7 @@ jobs:
           if-no-files-found: warn
           retention-days: 30
       - name: Save independent v3 state archive
-        if: always() && inputs.mode == 'generate'
+        if: always() && (github.event_name == 'schedule' || inputs.mode == 'generate')
         uses: actions/upload-artifact@v4
         with:
           name: audiobook-v3-recovery
