@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b194cf01cea0f6482cd2bc305fbe027d75e77be9ef13df38c6aa58c0d2c28fb6",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "8662a9b26a76b33233013bd87adba359764546248d97fbbc796d1ac27367137e",
+  "seconds": 92.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "דינמיקה: עוצמה חזקה או חלשה, והאם היא משתנה.\n\nגוון צליל: צבעים או כלים שונים, והאם הם משתנים.\n\nמילים.\n\nמפעם: מהירות המוזיקה, והאם היא משתנה.\n\nמצב רוח: האם המוזיקה בעיקר שמחה או עצובה, והאם הדבר משתנה.\n\nהבחירה תלויה בסוג המוזיקה שבחרתם, ולא תהיה זהה אצל כולם. לא תוכלו לכלול כל מאפיין, וזה בסדר: תנו עדיפות ל־2–4 מן המאפיינים החשובים ביותר.\n\nמחוון הערכה\n\nבגירסה הכתובה מופיעה כאן טבלת מחוון ובה רכיבים ונקודות אפשריות. עמידה בהנחיות: גופן, שוליים, אורך, כותרת וכדומה — 15 נקודות; דקדוק ועריכה: כתיב, פסיקים, הגהה וכדומה — 15; שימוש בדוגמאות: שילוב מוצלח וקלות מעקב — 15; סגנון: העבודה נקראת כמאמר לימודי — 5; הסבר המוזיקה: דוגמאות מייצגות, מאפייני הסוגה, מאפיינים המיוצגים בשיטה ושאינם מיוצגים בה, ומלל שקל להבין ולעקוב אחריו — 40; יצירתיות והשקעה — 10. סך הכול — 100 נקודות. בטבלה יש גם עמודה ריקה לניקוד ולהערות.\n\nדפי עבודה: כתיבת ראשי תווים, מפתחות וקווי עזר\n\nשתי גרסאות של דף העבודה זמינות: ארבעה מפתחות, ארבעה עמודים, או מפתחות סול ופה בלבד, שלושה עמודים. ההנחיות של כל גרסה מופיעות להלן; החַמְשׁוֹת שבקבצים המקוריים נשמרו ללא שינוי.\n\nהגרסה הכוללת מפתחות דו\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:40:17.156724+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
