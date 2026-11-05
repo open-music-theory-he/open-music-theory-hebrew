@@ -1,0 +1,14 @@
+{
+  "text_sha256": "e835832ba76fd336f8b42d83c08895abb07f7dbd7995b04a1a84a8d31f4abcc2",
+  "identity_sha256": "9eb5040326763904b69cc8ab9c64d952128ca95ef78e5befac4b1f5138e3d7d6",
+  "raw_sha256": "d408a332bb43a2ff532f737954034cef55bbd1aef87e8e45b4e55be0ff26fbc3",
+  "seconds": 87.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ארבעה חצאים: שניים שרגליהם כלפי מעלה ושניים שרגליהם כלפי מטה.\n\nארבעה רבעים על הקו האמצעי: שניים שרגליהם כלפי מעלה ושניים שרגליהם כלפי מטה.\n\nארבע שמיניות עם דגלים: שתיים שרגליהן כלפי מעלה ושתיים שרגליהן כלפי מטה.\n\nזוג שמיניות המחוברות בקורה, שרגליהן כלפי מטה.\n\nארבע שש־עשריות עם דגלים: שתיים שרגליהן כלפי מעלה ושתיים שרגליהן כלפי מטה.\n\nקבוצה של ארבע שש־עשריות המחוברות בקורות, שרגליהן כלפי מעלה.\n\nארבע שש־עשריות עם דגלים: שתיים שרגליהן כלפי מעלה ושתיים שרגליהן כלפי מטה.\n\nקבוצה של ארבע שש־עשריות המחוברות בקורות, שרגליהן כלפי מעלה.\n\nארבע שלושים־ושתיימיות עם דגלים: שתיים שרגליהן כלפי מעלה ושתיים שרגליהן כלפי מטה.\n\nקבוצה של שמונה שלושים־ושתיימיות המחוברות בקורות, שרגליהן כלפי מעלה.\n\nהערת עריכה: במקור, שאלות 8–9 חוזרות על הוראות שאלות 6–7. החזרה והמספור נשמרו; לא הוחלפו בערכים קצביים אחרים על סמך השערה.\n\nחלק 2 — כתיבת הפסקות: כתבו על החַמְשׁוֹת ארבע הפסקות מכל ערך מבוקש: בשאלה 12 הפסקות שלם; ב־13 הפסקות חצי; ב־14 הפסקות רבע; ב־15 הפסקות שמינית; ב־16 הפסקות שש־עשרית; וב־17 הפסקות שלושים־ושתיימית.\n\nחלק 3 — חשבון קצבי: פתרו את המשוואות הקצביות בשאלות 18–29. ערכו של רבע הוא 1. התשובות אינן בהכרח מספרים שלמים.\n\nדף עבודה: נקודות וקשתות מאריכות\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:42:42.426778+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
