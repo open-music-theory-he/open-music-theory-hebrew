@@ -1,0 +1,14 @@
+{
+  "text_sha256": "bc2acac248a9cd4bea6bda8c7ff884c9c3d456a2f4167e24918346994dd2201d",
+  "identity_sha256": "f05567af95d1b952eec3d8888a9946ea6bc3ab86fe1a8c886b693c35d834207e",
+  "raw_sha256": "aec301dd948c9283078d76207bff594019e8cf9a2aca3df43686a1eea486de31",
+  "seconds": 77.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "1 — הקדמה למהדורה העברית\n\nתוספת למהדורה העברית: פרק זה נכתב עבור התרגום ואינו חלק מן הספר המקורי.\n\nהמהדורה העברית נועדה להנגיש את Open Music Theory, גרסה 1, ללומדי מוזיקה בעברית. הספר משלב יסודות, הולכת קולות, הרמוניה, צורה ונושאים מתקדמים, ומעודד לימוד באמצעות נגינה, שירה והאזנה. כדאי לקרוא אותו לצד התנסות מוזיקלית, ולא רק לשנן הגדרות.\n\nהתרגום נעזר בבינה מלאכותית. העבודה נעשית פרק אחר פרק, לפי מילון מונחים משותף, ולאחר כל פרק נערכת השוואה למקור ובדיקה לשונית, מוזיקלית וטכנית. בדיקות אלה מפחיתות שגיאות, אך אינן שקולות להגהה אנושית מקצועית ואינן מבטיחות שאין טעויות. לכל פרק נשמר מצב התקדמות; שאלות, תיקונים ומגבלות מתועדים ביומן העבודה.\n\nהאתגר המרכזי הוא לשמור יחד על עברית טבעית ועל הבחנות מוזיקליות מדויקות. למשל, major third היא טרצה גדולה, ואילו major chord הוא אקורד מז׳ור. שורש האקורד אינו בהכרח צליל הבס. שמות אנהרמוניים אינם ניתנים להחלפה חופשית בניתוח, גם כאשר הם נשמעים זהים בפסנתר. גם כלל שמופיע בהקשר של קונטרפונקט קפדני אינו הופך בשל התרגום לכלל לכל סוגי המוזיקה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:32:54.003706+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
