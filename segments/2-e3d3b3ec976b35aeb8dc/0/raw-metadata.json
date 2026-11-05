@@ -1,0 +1,14 @@
+{
+  "text_sha256": "65ddde943014ad48f97839949b7a71799c440e1bbd975c485fad6740039d498d",
+  "identity_sha256": "e3d3b3ec976b35aeb8dccfcc8ca77e4acbcff0cf8edd2d75650ce9a54745ffe2",
+  "raw_sha256": "305d1460c035ade537659024392d2a444b4d5edbc36bc997dbe7c478c658cf6c",
+  "seconds": 105.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "2 — דו קבוע ודו נייד — מדריך לקורא העברי\n\nתוספת למהדורה העברית: ההסבר שלהלן נכתב כדי לגשר בין הרגלי קריאה שונים. הוא אינו פרק מן המקור.\n\nאותה הברה, שתי משמעויות\n\nקוראים רבים בישראל מכירים את שמות התווים דו, רה, מי, פה, סול, לה, סי במשמעות קבועה: דו הוא C, רה הוא D, וכן הלאה. זו שיטת דו קבוע (fixed do), המכונה גם דו מוחלט. אין פירוש הדבר שכל המורים בישראל משתמשים באותה שיטת סולפז׳, או שאין בישראל לימוד של דו נייד.\n\nבשיטת דו נייד (movable do), המכונה גם דו יחסי, ההברות מתארות את מקומו של הצליל בסולם. בשיטת המז׳ור שבה משתמש הספר, דו הוא הדרגה הראשונה — הטוניקה. בסולם C מז׳ור הוא C, אבל בסולם D מז׳ור הוא D, ובסולם F מז׳ור הוא F. השם המוחלט של התו אינו משתנה; רק ההברה המתארת את תפקידו משתנה.\n\nבגירסה הכתובה מופיעה כאן טבלה המשווה את שבע דרגות סולם המז׳ור, הברות דו נייד, ושמות התווים בשלושה סולמות. בדרגה 1 ההברה היא do, או דו: C בסולם C מז׳ור, D בסולם D מז׳ור ו־F בסולם F מז׳ור. בדרגה 2 ההברה re, או רה: D, E ו־G בהתאמה. בדרגה 3 ההברה mi, או מי: E, F♯ ו־A. בדרגה 4 ההברה fa, או פה: F, G ו־B♭. בדרגה 5 ההברה sol, או סול: G, A ו־C. בדרגה 6 ההברה la, או לה: A, B ו־D. בדרגה 7 ההברה ti, או סי: B, C♯ ו־E. כך אותה הברה מייצגת אותה דרגה ותפקיד טונאלי, בעוד שם התו המוחלט משתנה לפי הסולם.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:33:45.663288+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
