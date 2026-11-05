@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b940e0485b2f8819725a549448b8ebcc38ade2ce6c5f3330f5ac72a03fa34df6",
+  "identity_sha256": "e3d3b3ec976b35aeb8dccfcc8ca77e4acbcff0cf8edd2d75650ce9a54745ffe2",
+  "raw_sha256": "0462a65a7f1677c15db8268a9fed7a2c6a969bf1477210f2e82d66cfbda0fb72",
+  "seconds": 85.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "דו קבוע הוא שיטת שמות; שמיעה מוחלטת היא יכולת לזהות גובה צליל בלי צליל ייחוס חיצוני. אפשר לקרוא ולשיר בדו קבוע בעזרת תו פתיחה מפסנתר, בלי שמיעה מוחלטת. השימוש בדו נייד אף הוא אינו מעיד על קיומה או היעדרה של שמיעה מוחלטת.\n\nכיצד לקרוא דוגמה בספר?\n\nמזהים את הסולם או את הטוניקה שניתנו בדוגמה.\n\nבודקים אם מדובר בשמות מוחלטים באותיות ABC, בדרגות ממוספרות או בהברות סולפז׳ יחסיות.\n\nממפים כל דרגה לתו בסולם המסוים, כולל סימני ההיתק. האוקטבה נלקחת מן התיווי או מן הדוגמה, ולא מן ההברה לבדה.\n\nמנגנים או שרים ובודקים את היחס הנשמע: do–re–mi ב־G מז׳ור הוא G–A–B, וב־D מז׳ור הוא D–E–F♯.\n\nלהברות סולפז׳ אין כשלעצמן אוקטבה, משך או תו מוחלט. כשהסולם אינו ידוע, do–mi–sol מתאר מבנה יחסי; אי אפשר להסיק ממנו שלושה קלידים מסוימים.\n\nמקורות לעיון\n\nפרק הסולמות במקור של גרסה 1: הבסיס לשיטת הדרגות בתרגום.\n\nהערה לקוראים המשתמשים בדו קבוע, גרסה 2: מקור משלים להבדל בין השיטות; אינו משנה את מהדורת המקור המתורגמת.\n\nסולמות מינור בגרסה 2: הבהרת me, le ו־te.\n\nלפרק הסולמות בתרגום\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:35:03.514014+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
