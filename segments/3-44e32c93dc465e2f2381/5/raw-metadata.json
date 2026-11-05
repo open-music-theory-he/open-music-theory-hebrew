@@ -1,0 +1,14 @@
+{
+  "text_sha256": "98b7281489652f35399be8f2142e2a92da6284bdb9e20a913fff715a18a63e15",
+  "identity_sha256": "44e32c93dc465e2f2381068a041cc4be872848ca45c6a1d9a4242357457d83b7",
+  "raw_sha256": "7a14901cd04fade85eb957a38224932d17cc2fec39df2fae2752de748c1597a2",
+  "seconds": 19.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הערת המהדורה העברית: ״אנו״ בפרק זה הם מחברי המקור וההוצאה המקורית. התיאור, הקישורים ונתוני התמיכה מתייחסים למהדורת המקור ההיסטורית, ולא לצוות התרגום העברי. ההסבר על הרישיון הוא תרגום של דברי המחברים; תנאי הרישיון עצמו הם המסמך הקובע.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:37:15.692032+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
