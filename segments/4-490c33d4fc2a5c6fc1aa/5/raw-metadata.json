@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9991e7374fd1c09db7997acc5b46a14e4aeb4439a6981e9299b79403088e1668",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "595c40b826654ed24883bd1b4115dd3bd2418ea4dc57b00b062b16c4688d66b6",
+  "seconds": 91.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בחנו היטב את ההנחות שעליהן נשען ההסבר: האם אתם מניחים שהקורא יקרא משמאל לימין ומלמעלה למטה? האם צליל הנכתב מעל צליל אחר אמור להישמע גבוה יותר? האם ערכים קצביים בגדלים, בצבעים או בצורות שונים, או תווים הקרובים זה לזה, אמורים להיקרא מהר יותר? ההנחות הללו אינן בהכרח משותפות לכל הקוראים או לכל התרבויות.\n\nתארו את סוג המוזיקה שעבורו תוכננה השיטה, והביאו כמה דוגמאות מייצגות. תארו מאפיינים מוזיקליים: למשל עוצמה, מהירות, אופי נמרץ או עצוב, כלים, תוכן טיפוסי של מילות השירים וכל מאפיין נוסף שתמצאו. לדוגמה, אם בחרתם בסקא משנות התשעים, אפשר לתארו כמוזיקה שבדרך כלל חזקה, מהירה ונמרצת, עם מילים שמחות וכלים כגון גיטרה ובס חשמליים, מערכת תופים וסקסופונים, חצוצרות ו/או טרומבונים. להקות מייצגות הן Reel Big Fish, Less than Jake ו־The Mighty Mighty BossTones.\n\nרוב העבודה יוקדש להסבר השיטה: תארו אילו מאפיינים היא מייצגת ואילו אינה מייצגת, הביאו דוגמה או דוגמאות המדגימות אותה, והסבירו את הדוגמאות ואת השיטה במלל ברור ותמציתי.\n\nעליכם להחליט אילו מאפיינים סגנוניים יקבלו עדיפות. האם תייצגו גובה צליל? מה לגבי מקצב? אם תייצגו מקצב, האם תעשו זאת באופן כללי, כגון ערכים ארוכים, בינוניים וקצרים, או באופן מורכב יותר? אפשר לשקול גם את המרכיבים הבאים, או לבחור במכוון שלא לייצגם:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:39:50.235068+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
