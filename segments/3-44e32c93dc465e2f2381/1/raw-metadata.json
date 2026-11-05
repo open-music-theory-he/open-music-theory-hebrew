@@ -1,0 +1,14 @@
+{
+  "text_sha256": "6730cb655630a293ef5723f09c9d8da9349582ea0d4bc0c94617bddefd408c83",
+  "identity_sha256": "44e32c93dc465e2f2381068a041cc4be872848ca45c6a1d9a4242357457d83b7",
+  "raw_sha256": "d11550e9cd6e3e42deef89d67b74028302af52388a8b212e3cde9bf8e2815e67",
+  "seconds": 87.64,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "״ספר לימוד״ זה הוא ספר בקוד פתוח. כלומר, מותר להשתמש בתכניו, לשנות אותם, להפיץ אותם ואף למכור אותם, בתנאי ש־1) מייחסים לנו את המקור, ו־2) מעניקים לאחרים — לרבות לנו! — את אותן הזכויות, באמצעות רישוי היצירה הנגזרת באותו רישיון שבו אנו מפרסמים את הספר. ראו את תמצית רישיון Creative Commons המקושרת בכל עמוד. למעשה, אנו מעודדים אחרים ״לפרוץ״ את הספר: להוסיף לו, לנסח אותו מחדש, להוסיף דוגמאות, להשמיט פרקים או לשלב אותו בספר אחר. הדבר יגדיל את מגוון החומרים הזמינים; ואם השינויים ישפרו את גרסתכם, נוכל להשתמש בהם גם כדי לשפר את המשאב הזה.\n\nכדי ליצור ״פורק״ של הספר — לפרסום בקורס שלכם או כבסיס ליצירה נגזרת — בקרו בעמוד הפרויקט ב־GitHub, היכנסו לחשבון או הירשמו, ולחצו על ״fork״. משם אפשר לערוך, להוסיף או להסיר טקסט, תמונות וסרטונים — כל הטקסט כתוב בפורמט Markdown הנוח לשימוש — וגם את ערכת העיצוב, ב־HTML וב־CSS. אפשר גם לשלוח לנו ״בקשת משיכה״ (pull request) אם ביצעתם שינוי שלדעתכם מועיל לספר. אפשר אפילו להוריד קובץ יחיד ולהמיר אותו לדף לחלוקה בכיתה. למידע נוסף על תפיסת הקוד הפתוח שמאחורי הספר ועל שימוש בו לצורכיכם, קראו את מאמריו של Kris Shaffer ב־Hybrid Pedagogy: ״Open-Source Scholarship״ ו״Push, Pull, Fork: GitHub for Academics״.\n\nספר לימוד ביקורתי\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:35:58.956024+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
