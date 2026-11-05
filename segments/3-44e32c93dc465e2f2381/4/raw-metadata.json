@@ -1,0 +1,14 @@
+{
+  "text_sha256": "418d59600f16da56f274002d9a047a51b087fe8ce834256a31eba5fc59d50adf",
+  "identity_sha256": "44e32c93dc465e2f2381068a041cc4be872848ca45c6a1d9a4242357457d83b7",
+  "raw_sha256": "9c3d641738ae71bbfc00dd7e5809b028a6c3e1163604c8ee03e04ed57a825d7f",
+  "seconds": 79.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "התומכים הכספיים בספר הלימוד הפתוח והאינטראקטיבי לתאוריית המוזיקה (תורמים שלא נשארו בעילום שם ותרמו $15 ומעלה): Adam Heidebrink, Andrew Charlton, Alex Dunn, Andre Mount, Ben Lloyd Pearson, Benjamin Zwickl, Brian Bennett, Brian Moseley, Chris Ogden, Christopher Edwards, Daniel Shanahan, Daniel Stevens, Dave Easley, David Huron, David Kulma, David MacDonald, The Marca Development Team, Jesse Stommel, Jill T. Brasky, John Moore, Jon Scott Smith, Joseph Casamento, Julia Silge, Kyle Gullings, Lindsey Sudbury, Maeve Sterbenz, Marianne Kielian-Gilbert, Mark Easley, Sr., Mark McGuire, martinlugton (שם משתמש), Max August, Moeruze.Burning (שם משתמש), Molly Sweet, Pandel Collaros, Paul Bond, Paul David Johnson, Peter Kaminsky, Peter Newbury, Philip Duker, pkay3 (שם משתמש), Robert Kelley, Robert Talbert, Rolin Moe, Trevor Pittman, Trevor Rowe, University of Delaware Dept. of Academic Technology Services, University of Delaware Dept. of Music, University of Colorado Dept. of Music Theory, Wanda Terral, William O’Hara, וכמה תורמים שבחרו להישאר בעילום שם.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:37:06.738536+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
