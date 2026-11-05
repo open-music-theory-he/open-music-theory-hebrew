@@ -1,0 +1,14 @@
+{
+  "text_sha256": "2f56d18d7697923a75b47ba35d474dcfd723223633043b7566d32d24cb8484a2",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "45a902292622df10685299902193043bb0b181a13a1210ec10e5c781f242a261",
+  "seconds": 79.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "דף העבודה המקורי, שני עמודים · המחוון המקורי. ההנחיות והמחוון מתורגמים כאן במלואם; אפשר להשתמש בקבצים המקוריים לצד העברית.\n\nפורמט ההגשה\n\nכתבו עבודה מוקלדת באורך שני עמודים מלאים, ברווח כפול. אפשר לצרף עד עמוד נוסף של דוגמאות.\n\nנדרשת לפחות דוגמה אחת: קטע מוזיקלי באורך 5–10 שניות, המתועתק לשיטת התיווי שלכם.\n\nכללו בגוף העבודה קישור להקלטה מקוונת של היצירה; אפשר לעשות זאת בהערת שוליים. ציינו חותמות זמן המאפשרות למצוא את הקטע בהקלטה, למשל 1:40–1:47.\n\nהשתמשו בגופן בגודל 10–12 נקודות ובשוליים של אינץ׳ אחד. בדקו זאת: אינץ׳ אחד אינו תמיד ברירת המחדל.\n\nבכותרת פרטי ההגשה כתבו את שמכם ואת מספר הקורס בלבד. הוסיפו כותרת לעבודה עצמה; כותרת יצירתית או משעשעת יכולה ליצור אווירה נעימה.\n\nהקפידו על עריכה, הגהה וכתיב.\n\nתוכן העבודה\n\nכתבו בסגנון של מאמר לימודי קצר לתלמיד מתקדם, כגון קטע שסטודנט עשוי לקרוא בפרק של ספר לימוד. המטרה היא ללמד את הקורא על שיטת התיווי באופן בהיר ותמציתי ככל האפשר. אפשר לעיין בפרק הראשון של ספר לימוד לשם השראה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:39:26.086841+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
