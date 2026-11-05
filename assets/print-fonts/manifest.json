@@ -1,0 +1,30 @@
+{
+  "source_commit": "fbe81817505e8aeadc53cc7a38a2b76fb57c333e",
+  "license": "SIL OFL 1.1",
+  "files": [
+    {
+      "file": "NotoSansHebrew.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/fbe81817505e8aeadc53cc7a38a2b76fb57c333e/ofl/notosanshebrew/NotoSansHebrew%5Bwdth%2Cwght%5D.ttf",
+      "sha256": "7ef36a2c3593758cdb622e1bdef4f84523e92fbc3ccc667438dd80ff54c2de88",
+      "bytes": 112640
+    },
+    {
+      "file": "notosanshebrew-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/fbe81817505e8aeadc53cc7a38a2b76fb57c333e/ofl/notosanshebrew/OFL.txt",
+      "sha256": "9b9fe028b5ba74d231659a1bbaf0ed09b11e759d1ca6a070999e16d151616b47",
+      "bytes": 4382
+    },
+    {
+      "file": "NotoMusic-Regular.ttf",
+      "source": "https://raw.githubusercontent.com/google/fonts/fbe81817505e8aeadc53cc7a38a2b76fb57c333e/ofl/notomusic/NotoMusic-Regular.ttf",
+      "sha256": "aeb2998c380f5807cda77e1d94e4ac596429cb74d4fffb8da279d4f3144c0eae",
+      "bytes": 124336
+    },
+    {
+      "file": "notomusic-OFL.txt",
+      "source": "https://raw.githubusercontent.com/google/fonts/fbe81817505e8aeadc53cc7a38a2b76fb57c333e/ofl/notomusic/OFL.txt",
+      "sha256": "1679cb60544990b4c2445320c6d5298e4bb0c08ff00dbb5a526f3793fdaa1e6f",
+      "bytes": 4381
+    }
+  ]
+}
