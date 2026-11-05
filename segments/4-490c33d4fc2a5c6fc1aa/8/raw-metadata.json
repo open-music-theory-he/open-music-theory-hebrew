@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9647e0941c396592d5bb459393bd4700aeffe8ba6815457b0226348dc1286659",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "f45838dc9752a4698317f444a6be63a7a0503fc7ad9c1f063a4f3017beada4fd",
+  "seconds": 27.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "קרדיט ורישיון: המלל ודפי העבודה מאת Chelsey Hamm, מתוך Open Music Theory. דף המצאת השיטה והמחוון © 2019; דף ארבעת המפתחות © 2021; דף סול ופה © 2024. CC BY–SA 4.0. התרגום וההתאמה לעברית נעשו בסיוע AI. התוכן שולב כהרחבה; אינו תרגום של כל חומרי העזר וקישורי החוץ בפרקי המקור.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:40:51.692977+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
