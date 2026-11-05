@@ -1,0 +1,14 @@
+{
+  "text_sha256": "ec8156c8b765bd6905651711155c403b5905e417b03d45ec6c11b38c661b2155",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "cfa444bb4d8914c7a52aa26a2aa76e6e6744299e47e568a43cae19dc87c76990",
+  "seconds": 94.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן התו C4 בארבעה מפתחות. במפתח סול הוא כתוב על קו עזר אחד מתחת לחַמְשָׁה; במפתח פה הוא כתוב על קו עזר אחד מעל החַמְשָׁה; במפתח דו של אלט הוא כתוב על הקו האמצעי; ובמפתח דו של טנור הוא כתוב על הקו הרביעי מלמטה. כל ארבעת התווים מציינים אותו גובה צליל.\n\nמערכת של שתי חַמְשׁוֹת\n\nמערכת של שתי חַמְשׁוֹת (grand staff) מורכבת מחַמְשָׁה במפתח סול ומחַמְשָׁה במפתח פה. שתי החַמְשׁוֹת מחוברות בסוגר מסולסל. מערכת זו נפוצה בתיווי לפסנתר ולכלים פוליפוניים אחרים.\n\nקווי עזר\n\nכאשר מנעד המוזיקה חורג ממה שאפשר לכתוב על החַמְשָׁה, מוסיפים קווים כדי שגובה הצליל יישאר ברור. קווים אלה נקראים קווי עזר (ledger lines). בדוגמה שלהלן, מסונטת הפסנתר ב־G של היידן, Hob. XVI: 39, התו Ab5 נמצא מעט מעל חַמְשַׁת הסול ביד ימין, והתווים G3 ו־B3 נמצאים מעט מתחת לחַמְשַׁת הסול ביד שמאל.\n\nבגירסה הכתובה מופיע כאן קטע קצר מסונטת הפסנתר ב־G של היידן, בשתי חַמְשׁוֹת מחוברות. הסימון האדום Ab5 מצביע על תו מעל חַמְשַׁת הסול של יד ימין, וקו עזר עובר בראש התו. הסימונים האדומים G3 ו־B3 מצביעים על שני תווים מתחת לחַמְשַׁת הסול של יד שמאל; גם בהם קווי עזר קצרים שומרים על מיקום הגובה.\n\nסימני היתק\n\nסימני היתק (accidentals) מציינים הגבהה או הנמכה של גובה צליל. הם נכתבים משמאל לתו.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:38:11.189915+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
