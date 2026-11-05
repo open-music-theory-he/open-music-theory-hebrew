@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from pypdf import PdfReader, PdfWriter
 from weasyprint import HTML, default_url_fetcher
 from reader_integrations import integrated_body, is_integration
-from print_fonts import font_css
+from print_fonts import font_css, isolate_note_spellings
 
 ROOT = Path(__file__).resolve().parents[1]
 IMAGES = {'.png', '.jpg', '.jpeg', '.svg', '.gif', '.webp'}
@@ -221,6 +221,7 @@ def main():
     # Old English heading fragments may no longer exist after translation.
     # Keep these references internal and report their precise fallback explicitly.
     parsed_document=BeautifulSoup(document,'html.parser')
+    isolate_note_spellings(parsed_document)
     ids={t['id'] for t in parsed_document.find_all(id=True)}
     fragment_fallbacks=[]
     for link in parsed_document.find_all('a',href=True):
