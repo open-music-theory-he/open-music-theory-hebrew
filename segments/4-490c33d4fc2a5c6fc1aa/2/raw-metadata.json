@@ -1,0 +1,14 @@
+{
+  "text_sha256": "a6d7f5a055ff9efa7e3c891418b0b242df49160b90794762a3d31dfec135c6ef",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "c384b488ecab0d9f50bd46751f528ad6a52b4ebad2c8a51a68bfe8eac97c59a1",
+  "seconds": 89.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "כשמנמיכים בחצי טון תו של קליד לבן בפסנתר, מוסיפים במול.\n\nכשמגביהים בחצי טון תו של קליד לבן בפסנתר, מוסיפים דיאז.\n\nכשמגביהים בחצי טון תו שכבר מסומן בבמול, מוסיפים בקר.\n\nכשמנמיכים בחצי טון תו שכבר מסומן בבמול, מוסיפים במול כפול.\n\nכשמגביהים בחצי טון תו שכבר מסומן בדיאז, מוסיפים דיאז כפול.\n\nהדוגמה שלהלן מציגה, לפי הסדר, במול, בקר, דיאז, דיאז כפול ובמול כפול.\n\nבגירסה הכתובה מופיעים חמישה ראשי תווים מלאים עם רגליים, ללא חַמְשָׁה. משמאל לימין מוצגים סימן במול, סימן בקר, סימן דיאז, סימן דיאז כפול וסימן במול כפול, וכל סימן כתוב משמאל לתו שעליו הוא חל.\n\nהרחבה מגרסה 2 — בטא: ההסברים והוראות דפי העבודה שלהלן נבדקו מול המקור. דוגמאות התווים בדפי העבודה נשמרו במקורן; כותרותיהם באנגלית. קישורי השמע ושירותי החוץ טרם אומתו במלואם. הרחבה זו מיועדת למהדורת הקריאה וטרם נכללת בספר השמע.\n\nמדוע כותבים מוזיקה?\n\nמקור ההשלמה: Chelsey Hamm, מבוא לתיווי מוזיקלי מערבי, גרסה 2.\n\nהמונח תיווי מוזיקלי מערבי (Western musical notation) מתייחס לסימנים כתובים המשמשים למסירת צלילים מוזיקליים. זו אחת משיטות תיווי רבות שהתפתחו בתקופות, במקומות ובתרבויות שונות. מי שכותב מוזיקה בוחר בשיטת תיווי בהתאם לגורמים הללו, כלומר להקשר החברתי או לסביבה התרבותית שלו.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:38:40.554860+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
