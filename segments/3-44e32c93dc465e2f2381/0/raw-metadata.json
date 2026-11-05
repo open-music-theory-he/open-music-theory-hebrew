@@ -1,0 +1,14 @@
+{
+  "text_sha256": "5fdb9d806dec79c7f26a404f8a2bd34b62c98bdc03b040a641459efcc0f921eb",
+  "identity_sha256": "44e32c93dc465e2f2381068a041cc4be872848ca45c6a1d9a4242357457d83b7",
+  "raw_sha256": "435048dc2842298ac8f624995b1b71b96ce4343e47e97a77eb597cbc3603a643",
+  "seconds": 86.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "3 — על תאוריית המוזיקה הפתוחה\n\nהוראת תאוריית מוזיקה בכיתה הפוכה\n\nספר לימוד זה נועד לתמוך במעורבות פעילה של הסטודנטים במוזיקה בשיעורי התאוריה. כלומר, מקומו של הטקסט משני לעשיית המוזיקה של הסטודנטים — וגם לפירוק שלה ולבחינתה. הספר אינו מרכז הקורס.\n\nשלושת מחברי המקור משתמשים בספר בקורסים במתכונת ״כיתה הפוכה״ (inverted או flipped), לעיתים קרובות לפי מודל המבוסס על חקר.\n\nלכן רוב עמודי הספר אינם נקראים כספר לימוד טיפוסי מן המאה העשרים. הם נמצאים בין רשימות הרצאה מנוסחות בפרוזה לבין חומר לעיון, עם מעט דוגמאות חזותיות או מוקלטות. כמו כן, בשונה ממשאבים רבים לכיתות הפוכות, רק במשאבים מעטים בספר מוצג המידע המרכזי בווידאו. בחרנו בכך במודע כדי שלא ליצור רק גרסת מולטימדיה מקוונת של ספר לימוד מעידן התעשייה. רצינו ליצור ספר שיוכל לשמש לעיון מהיר במסגרת פעילות מוזיקלית פעילה.\n\nבשיעורים שלנו פעילות הסטודנטים תופסת את המקום המרכזי, ולעיתים קרובות היא מקדימה את העיסוק בספר. המידע שבטקסט משני לפעילות הזאת, ולכן הספר נועד למלא בשיעורים תפקיד תומך בלבד.\n\nלמידע נוסף על כיתת המוזיקה ההפוכה, ראו Engaging Students: Essays in Music Pedagogy, כרך 1 (2013) וכרך 2 (2014).\n\nקוד פתוח\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:35:33.606337+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
