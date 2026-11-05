@@ -1,0 +1,22 @@
+{
+  "edition": 3,
+  "chapter": 7,
+  "title": "7 — ערכים קצביים",
+  "sha256": "2728f4451644603c88b19ccfdfe8c90903dd75fbdda1ade6146eed656030a808",
+  "identity": {
+    "edition": 3,
+    "builder": 1,
+    "policy_sha256": "20edbc7bc5a3307cbc62bd8b6bd7848a89b458b80de38cca1c43ff93443af554",
+    "source_sha256": "7a131bbffdbd4262d76732362325114db6d0527e20dc46b7044e8e384bd54202",
+    "integrated_reading_sha256": "c7251971daf65e6c207f3da83dc3b49132926fec2e5c1a1b953d77f8569589d1",
+    "transcript_sha256": "c1c397dfa30b81663524820142d02b75f7bbc3e936f249f26e760f4ce27383d0",
+    "model": "gemini-3.8-flash-tts",
+    "voice": "Iapetus",
+    "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+    "opening_text_sha256": "122ea37cc5104b2f61e4010f8104b3b126ce2bce32bb5fdc49663dda36cb9178",
+    "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+    "opening_raw_sha256": "d1af72c21fb0e43b57696624d2b61b2b7cfb127f4aa99542a893a276f7a89935"
+  },
+  "opening_sha256": "a81262899441b7106688f1ab83399f0ba7257795b3f826356ca507afeb56155e",
+  "status": "recorded-needs-listening-review"
+}
