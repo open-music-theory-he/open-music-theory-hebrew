@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c0c527932ad118bdb62b7ad1ce19f1ebdc3ce948d9d2a1d0ffc1e17a96388e37",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "606c336781ac083ccad479eecb4d8a655ca134058a72efa50df307e1cd3e2063",
+  "seconds": 89.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ראשי תווים: ציירו על החַמְשׁוֹת את ראשי התווים המבוקשים: חמישה ראשים ריקים, אחד על כל קו; ארבעה ראשים ריקים, אחד בכל רווח; חמישה ראשים מלאים, אחד על כל קו; ארבעה ראשים מלאים, אחד בכל רווח.\n\nמפתחות: ציירו שישה מפתחות מכל סוג: סול, פה, דו של אלט ודו של טנור.\n\nקווי עזר: ציירו את מספר קווי העזר המבוקש מעל החַמְשָׁה ומתחתיה, בלי ראשי תווים. בארבע השורות ציירו בהתאמה קו אחד, שני קווים, שלושה קווים וארבעה קווים, גם מעל החַמְשָׁה וגם מתחתיה.\n\nקווי עזר עם ראשי תווים: חזרו על ארבעת המספרים, והוסיפו ראש תו מלא על קו העזר הגבוה ביותר ועל קו העזר הנמוך ביותר.\n\nהגרסה הכוללת מפתחות סול ופה בלבד\n\nראשי תווים: אותן ארבע משימות של ראשים ריקים ומלאים על הקווים וברווחים.\n\nמפתחות: ציירו שישה מפתחות סול ושישה מפתחות פה.\n\nקווי עזר: מעל החַמְשָׁה ציירו קבוצות של קו עזר אחד, שניים, שלושה וארבעה. עשו זאת גם מתחת לחַמְשָׁה.\n\nקווי עזר עם ראשי תווים: בכל אחד מארבעת מספרי הקווים ציירו: מעל החַמְשָׁה, ראש מלא על הקו הגבוה ביותר; מתחת לחַמְשָׁה, ראש מלא על הקו הנמוך ביותר; מעל החַמְשָׁה, ראש מלא ברווח שמעל הקו הגבוה ביותר; מתחת לחַמְשָׁה, ראש מלא ברווח שמתחת לקו הנמוך ביותר.\n\nלתרגול זיהוי שמות התווים, המשיכו אל דפי קריאת המפתחות בפרק גובה הצליל.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:40:40.571733+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
