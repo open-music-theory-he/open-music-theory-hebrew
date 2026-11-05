@@ -1,0 +1,14 @@
+{
+  "text_sha256": "5ed005b85e26beefa0875ec246c8cc1a41eab6d912ba0a6c5a6c673fb7263cca",
+  "identity_sha256": "9eb5040326763904b69cc8ab9c64d952128ca95ef78e5befac4b1f5138e3d7d6",
+  "raw_sha256": "419539749cbd3bf54809774111e7baf4439ae05e5a09584acc611db5eac9f758",
+  "seconds": 108.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "7 — ערכים קצביים\n\nמקצב (rhythm) הוא צירוף של משכים ארוכים וקצרים לאורך זמן. המשכים מסומנים בראשי תווים ריקים או מלאים. ראש תו ריק עשוי להופיע עם רגל או בלעדיה; ראש תו מלא מופיע תמיד עם רגל. אפשר להוסיף דגלים לרגל של ראש תו מלא; כל דגל נוסף מקצר את המשך למחצית.\n\nבגירסה הכתובה מופיע כאן תרשים המציג את יחסי המשכים של התווים. שלם מתחלק לשני חצאים, כל חצי לשני רבעים, כל רבע לשתי שמיניות, כל שמינית לשתי שש־עשריות וכל שש־עשרית לשתי שלושים ושתיים. הסתעפויות התרשים מדגישות שכל רמה היא מחצית מקודמתה.\n\nהפסקות\n\nהפסקות (rests) מייצגות שתיקה בתיווי המוזיקלי. לכל סימן של משך תו יש סימן הפסקה בעל משך מתאים.\n\nבגירסה הכתובה מופיע כאן תרשים של הפסקות המקביל ליחסי המשכים של התווים. הפסקת שלם מתחלקת לשתי הפסקות חצי, ובהמשך להפסקות רבע, שמינית, שש־עשרית ושלושים ושתיים. הסמלים שונים מסמלי התווים, אך יחסי הזמן זהים.\n\nנקודות וקשתות מאריכות\n\nנקודות וקשתות מאריכות מאפשרות להאריך את המשכים הבסיסיים. נקודה נכתבת אחרי תו או הפסקה ומוסיפה מחצית ממשכם. למשל, אם רבע שווה במשך לשתי שמיניות, רבע מנוקד שווה לשלוש שמיניות. ככלל, תו לא מנוקד מתחלק לשני תווים, ותו מנוקד מתחלק לשלושה. לכן תווים לא מנוקדים משמשים בדרך כלל לייצוג הפעימה במשקל פשוט, ותווים מנוקדים — לייצוג הפעימה במשקל מורכב.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:41:26.104221+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
