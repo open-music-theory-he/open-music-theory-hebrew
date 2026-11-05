@@ -1,0 +1,14 @@
+{
+  "text_sha256": "0e1ea350e7a5c07d0ca81b1916c3ba9e85bfed8250847577633b3b36392e4ca3",
+  "identity_sha256": "44e32c93dc465e2f2381068a041cc4be872848ca45c6a1d9a4242357457d83b7",
+  "raw_sha256": "03e5fdbb2e0c0b3dc24cdc00a83e9c4425d131e98e2fab7950273123c180f111",
+  "seconds": 83.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "במקום ליצור ״כרך ידע קבוע, משותף מעבר לגבולות מוסדיים, שסמכותו להכתיב החלטות פדגוגיות ולשפוט את הצלחת הסטודנטים״, OMT שואף להיות ספר לימוד ביקורתי: ״מרובה מחברים, ניתן לשינוי בפועל ומותר לשינוי מבחינה משפטית״. אנו מקווים שהספר יוכל ״להקל על גישת הסטודנטים לידע קיים ולהעניק להם יכולת לבקר אותו, לפרק אותו וליצור ידע חדש״.\n\nמשמעות הדבר היא שלעיתים יוצגו כמה נקודות מבט על סוגיה אחת, וביתר שאת ככל שיתרמו לספר אנשים נוספים. גם הרישיון — וככל האפשר הטכנולוגיה — מאפשר למורה, ואף לסטודנט, להתאים ולכתוב מחדש את הטקסט. במקום לקבוע אמות מידה אחידות מעבר לגבולות מוסדיים, אנו מקווים שאופיו המקוון של הספר וההאשטג הנלווה #OpenMusicTheory יסייעו לבנות קהילה החוצה גבולות מוסדיים, ולא אחידות.\n\nבעת ה״פרסום״ הראשון רשומים בספר שלושה מחברים ועורך, אך אנו מקווים שהטכנולוגיה והרישיון יעודדו אחרים לתרום חומר חדש. אף ש־Kris, Bryn, Brian ו־Robin הם המחברים והעורכים המקוריים, בחרנו רישיון ופלטפורמה שבמהותם מעניקים לקהילת חוקרי המוזיקה והסטודנטים בעלות על הספר.\n\nהוצאת Hybrid Pedagogy\n\nהספר יוצא לאור בהוצאת Hybrid Pedagogy Publishing, בעריכת Robin Wharton ו־Kris Shaffer.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:36:22.411618+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
