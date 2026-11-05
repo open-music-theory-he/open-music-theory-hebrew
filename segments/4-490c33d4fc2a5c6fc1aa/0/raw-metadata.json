@@ -1,0 +1,14 @@
+{
+  "text_sha256": "15ad1d161225910407bfc6ba6a5f66f8dd6cfb12b893e123473d1d804274a3ab",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "328fb02136c01550c720aa9ce9bd846e7be7c9e745ff32a578c22750fea3f276",
+  "seconds": 88.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "4 — יסודות התיווי\n\nתווים\n\nכשהוא כתוב על חַמְשָׁה, תו מציין גובה צליל וערך קצבי. הסימן מורכב מראש תו (notehead), ריק או מלא, ועשוי לכלול גם רגל (stem), קורה (beam), נקודה (dot) או דגל (flag).\n\nבגירסה הכתובה מופיע כאן איור של רכיבי סימן התו. משמאל נראה ראש תו ריק עם רגל, ובחצים מסומנים ראש התו והרגל. במרכז שני ראשי תווים מלאים מחוברים ברגליים ובקורה. מימין ראש תו מלא עם רגל, דגל ונקודה; חצים מסמנים את הדגל ואת הנקודה.\n\nחַמְשָׁה\n\nתווים אינם יכולים למסור את גובה הצליל שלהם בלי להיות ממוקמים על חַמְשָׁה (staff). חַמְשָׁה מורכבת מחמישה קווים אופקיים במרווחים שווים. צורת הרבים של staff באנגלית היא staves.\n\nמפתחות\n\nהתווים עדיין אינם יכולים למסור את גובה הצליל שלהם אם החַמְשָׁה אינה כוללת מפתח (clef). המפתח קובע אילו גבהים מיוצגים בקווים וברווחים של החַמְשָׁה. שני המפתחות הנפוצים ביותר הם מפתח סול (treble clef) ומפתח פה (bass clef); מפתחות נוספים שתפגשו בתדירות גבוהה יחסית הם מפתח דו של אלט (alto clef) ומפתח דו של טנור (tenor clef).\n\nלהלן התו C4 במפתחות סול, פה, דו של אלט ודו של טנור.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:37:45.701859+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
