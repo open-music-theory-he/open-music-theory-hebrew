@@ -8,13 +8,14 @@ from bs4 import BeautifulSoup
 from pypdf import PdfReader, PdfWriter
 from weasyprint import HTML, default_url_fetcher
 from reader_integrations import integrated_body, is_integration
+from print_fonts import font_css
 
 ROOT = Path(__file__).resolve().parents[1]
 IMAGES = {'.png', '.jpg', '.jpeg', '.svg', '.gif', '.webp'}
 SITE = 'https://open-music-theory-he.github.io/open-music-theory-hebrew'
 CSS = '''
 @page { size: A4; margin: 17mm 16mm 19mm; @bottom-center { content: counter(page); font: 9pt "DejaVu Sans"; } }
-body { font-family: "Noto Sans Hebrew", "DejaVu Sans", sans-serif; font-size: 10.5pt; line-height: 1.55; color: #162536; }
+body { font-family: "OMT Music", "OMT Hebrew", "DejaVu Sans", sans-serif; font-size: 10.5pt; line-height: 1.55; color: #162536; }
 h1 { font-size: 23pt; color: #153e64; } h2 { font-size: 17pt; } h3 { font-size: 13pt; }
 h1,h2,h3,h4 { break-after: avoid; } a { color: #235f90; overflow-wrap: anywhere; }
 body > section.chapter, section.asset { break-before: page; } img { max-width: 100%; height: auto; max-height: 235mm; object-fit: contain; }
@@ -216,7 +217,7 @@ def main():
         catalog.append(f'<li><a href="export-document:{key(target)}">ראה נספח: {html.escape(aliases[target].removesuffix(".pdf"))}</a><br>{back}</li>')
     rendered.append('<section class="asset" dir="rtl"><h1>רשימת נספחים מוזיקליים</h1><ul class="annex-list">'+''.join(catalog)+'</ul></section>')
     rendered.append('<section class="asset" id="export-end"><h1 dir="rtl">סיום החומר הסטטי</h1></section>')
-    document=f'<!doctype html><html lang="he"><meta charset="utf-8"><style>{CSS}</style><body>{cover}{"".join(rendered)}</body></html>'
+    document=f'<!doctype html><html lang="he"><meta charset="utf-8"><style>{font_css(ROOT)}{CSS}</style><body>{cover}{"".join(rendered)}</body></html>'
     # Old English heading fragments may no longer exist after translation.
     # Keep these references internal and report their precise fallback explicitly.
     parsed_document=BeautifulSoup(document,'html.parser')
