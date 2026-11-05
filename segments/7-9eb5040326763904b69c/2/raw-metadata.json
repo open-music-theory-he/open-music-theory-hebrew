@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9768000420cddaf742ecab967a2cafeb12719afe5ce2c0654ac8289a86af495f",
+  "identity_sha256": "9eb5040326763904b69cc8ab9c64d952128ca95ef78e5befac4b1f5138e3d7d6",
+  "raw_sha256": "7356d26300123e9562d02e6f8ff40ae5c24533134589feae0fbf74d4f3c37fe5",
+  "seconds": 90.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מקור: Mark Gotham, Chelsey Hamm ו־Bryn Hughes, תיווי מקצב, גרסה 2. הסעיפים הבאים משלימים את הפרק הקיים; אין זו החלפה מלאה של פרק המקור.\n\nשמות ערכי התווים באנגלית\n\nהספר משתמש בשמות המקובלים בצפון אמריקה, אך כדאי להכיר גם את השמות הבריטיים. הטבלה הבאה מתרגמת את טבלת השמות במקור. ערכי התווים מוגדרים ביחס זה לזה: שלם מתחלק לשני חצאים, לארבעה רבעים, לשמונה שמיניות וכן הלאה.\n\nבגירסה הכתובה מופיעה כאן טבלה המשווה בין השמות בעברית, בצפון אמריקה ובבריטניה לחמישה ערכי תווים. שלם נקרא Whole note בצפון אמריקה ו־Semibreve בבריטניה; חצי נקרא Half note ו־Minim; רבע נקרא Quarter note ו־Crotchet; שמינית נקראת Eighth note ו־Quaver; ושש־עשרית נקראת Sixteenth note ו־Semiquaver.\n\nביצוע קשת מאריכה\n\nקשת מאריכה (tie) מחברת שני תווים או יותר בעלי אותו גובה צליל. אין לתקוף מחדש את התווים שאליהם מגיעה הקשת: מחזיקים את הצליל למשך סכום ערכיהם. אין משתמשים בקשת מאריכה לחיבור הפסקות. לדוגמה, חצי המחובר לרבע באותו גובה צליל נמשך שלושה רבעים, כמו חצי מנוקד.\n\nדף עבודה: ערכי תווים והפסקות\n\nדף העבודה המקורי, שני עמודים. התווים והמשוואות נשמרו בקובץ המקורי; להלן תרגום מלא של הוראותיו.\n\nחלק 1 — כתיבת ערכים קצביים: כתבו על הקו האמצעי של החַמְשׁוֹת:\n\nארבעה תווים שלמים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:42:18.127519+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
