@@ -1,0 +1,14 @@
+{
+  "text_sha256": "8cb11e316cfa61f639707821d101ced6872e0336fbdbdbd52d38886542d785ff",
+  "identity_sha256": "490c33d4fc2a5c6fc1aa68593b40f9003e8aeea5f74ee22725928fcfb183e743",
+  "raw_sha256": "302b54f32d424c4795d7e3755c6b7f8dc7de9c7746bf748bc41b5932548381ef",
+  "seconds": 82.68,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מוזיקה היא אמנות הנקלטת בשמיעה, ואפשר לייצג אותה באופן חזותי באמצעות תיווי. חשבו על תרגום משפה אחת לאחרת: תרגום ישיר, מילה במילה, אינו תמיד אפשרי או מועיל, ולכן המתרגם צריך לחשוב כיצד למסור לקורא את המשמעות. בדומה לכך, כתיבת צלילים מחייבת החלטות על מה צריך למסור וכיצד. שום שיטת תיווי אינה יכולה ללכוד כל היבט של הצליל בפירוט מלא ולהישאר שימושית או קריאה; לכן אפשר לייצג בה רק חלק מן המרכיבים המוזיקליים.\n\nובכל זאת, לתיווי כתוב יש כמה יתרונות. למשל, אין צורך לשנן יצירה כתובה, ואפשר לתעד פרטים שאחרת היו עלולים להישכח. התיווי גם מנגיש יצירות ליותר אנשים: מי שמכיר את השיטה יכול ללמוד יצירה הכתובה בה בעצמו, בלי עזרת מורה.\n\nדמיינו שאתם ממציאים דרך לכתוב שיר או יצירה אהובים, כך שמוזיקאי יוכל לבצע אותם בלי ששמע אותם קודם. בתרגיל הבא תוכלו לעשות זאת ביצירה או בשיר לבחירתכם. בזמן ההאזנה ותכנון השיטה, חשבו על השאלות הבאות:\n\nאילו מאפיינים מוזיקליים ביצירה חשובים יותר, ואילו חשובים פחות?\n\nאילו מאפיינים תרצו לכתוב? האם יש מאפיינים שתשאירו בחוץ?\n\nהאם תשובותיכם לשתי השאלות הראשונות ישתנו אם תכתבו שיר או יצירה אחרים?\n\nכיצד תסבירו את שיטת התיווי שלכם למישהו אחר?\n\nדף עבודה: המצאת שיטת תיווי\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:39:03.874701+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
