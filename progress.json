@@ -63,6 +63,10 @@
     {
       "chapter": 1,
       "status": "recorded-needs-listening-review"
+    },
+    {
+      "chapter": 2,
+      "status": "recorded-needs-listening-review"
     }
   ],
   "reason": null,
