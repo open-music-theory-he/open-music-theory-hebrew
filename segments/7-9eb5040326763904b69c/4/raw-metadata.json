@@ -1,0 +1,14 @@
+{
+  "text_sha256": "98d943b01cf051b5c777d0bfa3ef4d370b28ff5b1b0bb4bd1927361c31afe978",
+  "identity_sha256": "9eb5040326763904b69cc8ab9c64d952128ca95ef78e5befac4b1f5138e3d7d6",
+  "raw_sha256": "1e037b0bee2aff87ca8b3195f97c6e31a5bd2251997d6a5731af40efa5cc1761",
+  "seconds": 75.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "דף העבודה המקורי, שני עמודים. הדוגמאות והמשוואות נשמרו בקובץ המקורי; הוראות כל ארבעת החלקים מתורגמות להלן.\n\nחלק 1 — פירוק ערכי תווים מנוקדים, שאלות 1–5: פרקו כל תו מנוקד לשני תווים שסכום משכיהם שווה למשכו.\n\nחלק 2 — המרת תווים מנוקדים לקשתות מאריכות, שאלות 6–10: כתבו מחדש כל תו מנוקד כשני תווים המחוברים בקשת מאריכה.\n\nחלק 3 — צירוף לתו מנוקד, שאלות 11–15: צרפו את שני הערכים הקצביים לתו מנוקד יחיד בעל אותו משך כולל.\n\nחלק 4 — חשבון קצבי, שאלות 16–21: פתרו את המשוואות הקצביות. רבע שווה ל־1, והתשובות אינן בהכרח מספרים שלמים.\n\nקרדיט ורישיון: מלל הפרק מאת Mark Gotham, Chelsey Hamm ו־Bryn Hughes; שני דפי העבודה מאת Chelsey Hamm, © 2019, Open Music Theory, CC BY–SA 4.0. התרגום וההתאמה לעברית נעשו בסיוע AI. קובצי ה־PDF נשמרו ללא שינוי וכותרותיהם באנגלית. עריכת קובצי המקור הניתנים לעריכה דורשת את הגופן Noto Music, כפי שמצוין באתר המקור; אין צורך להתקין אותו לקריאת קובצי ה־PDF המצורפים.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:43:06.071997+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
