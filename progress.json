@@ -1,6 +1,6 @@
 {
   "edition": 3,
-  "status": "running",
+  "status": "paused",
   "selected_chapters": [
     1,
     2,
@@ -81,7 +81,7 @@
       "status": "recorded-needs-listening-review"
     }
   ],
-  "reason": null,
-  "requests": 26,
+  "reason": "project_quota_limited",
+  "requests": 27,
   "successes": 26
 }
