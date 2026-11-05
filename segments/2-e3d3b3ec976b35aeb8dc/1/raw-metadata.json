@@ -1,0 +1,14 @@
+{
+  "text_sha256": "66a9f9f3aed58df10b99f02801a5d1e0fdfef45e6bb42e28e0b0b54d223f9d27",
+  "identity_sha256": "e3d3b3ec976b35aeb8dccfcc8ca77e4acbcff0cf8edd2d75650ce9a54745ffe2",
+  "raw_sha256": "aab006ccbbd6362c685b5c8daba42d10cd9d1367146e92495bd081151e90f408",
+  "seconds": 76.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לדוגמה, הצלילים D–F♯–A נקראים בשמות הקבועים רה–פה דיאז–לה. בהקשר של D מז׳ור הם do–mi–sol בדו נייד: דרגות 1–3–5, כלומר צלילי אקורד הטוניקה. אין כאן טענה ש־D הוא C או ש־F♯ הוא E.\n\nלמה הספר משתמש בדו נייד?\n\nדו נייד מאפשר לשמוע ולתאר יחסים שחוזרים בסולמות שונים. המהלך ti–do מתאר במז׳ור עלייה של הצליל המוביל אל הטוניקה בחצי טון: B–C ב־C מז׳ור, C♯–D ב־D מז׳ור, ו־E–F ב־F מז׳ור. כך אפשר לזהות אותה נטייה מלודית גם לאחר טרנספוזיציה.\n\nדו קבוע מועיל לקריאת שמות התווים, ודו נייד מועיל לתיאור דרגות ויחסים טונאליים. אפשר לחשוב בשניהם: \"אני מנגן C♯, והוא כעת הדרגה השביעית בסולם D מז׳ור — ti\".\n\nמינור: דו נשאר הטוניקה בשיטה העיקרית של הספר\n\nיש יותר משיטה אחת לדו נייד במינור. יש שיטה שבה טוניקת המינור נקראת la, ויש שיטה שבה היא נקראת do. בפרק הסולמות של הספר משמשת שיטת מינור המבוסס על do: הטוניקה נשארת do, ודרגות מסוימות מסומנות בהברות שונות ממז׳ור. אם פרק מציג שיטה נוספת, ההבחנה תישמר.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-05T13:34:08.715171+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
