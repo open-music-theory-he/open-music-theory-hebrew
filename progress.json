@@ -59,7 +59,12 @@
     119,
     124
   ],
-  "chapters": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "status": "recorded-needs-listening-review"
+    }
+  ],
   "reason": null,
   "requests": 2,
   "successes": 2
