@@ -1,0 +1,14 @@
+{
+  "text_sha256": "af9913c966842b07550d898451de3ba6ba31d65dd0040b7464e3951f3b1a274a",
+  "identity_sha256": "7f8688d393e0d9ee80764f6aefda63e5386dc71c63fc2f7fa778873e626b642a",
+  "raw_sha256": "cf88c9d6bdf4f818740093dfb92d99b163bef3c7ed46237ac8bb12ba934bb997",
+  "seconds": 94.68,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "גם כאן, כמו פה בחילוף הקולות עם D2, פה במלודיה הוא דיסוננס פונקציונלי שאינו נפתר. שוב, הולכת הקולות חלקה כל כך שהיא גוברת על הצורך בפתרון הדיסוננס הפונקציונלי.\n\nגם בתבנית זו אפשר להשתמש במז׳ור או במינור, בכל טונליות ובכיוון ההפוך. כמעט תמיד משתמשים בה באקורד 'V 4 על 3' עבור D2.\n\nמהלך השמפניה\n\nאף ש־T(1 D2p 3) הוא ליווי תקין בהחלט ל־mi–fa–sol במלודיה, דרך מעניינת יותר — וגם מורכבת יותר — להרמן מלודיה זו היא T1 S6 T3, שאותו כינה התאורטיקן Gene Biringer מהלך השמפניה (champagne progression). לדבריו, זהו ״המהלך שבו משתמשים כשרוצים להרשים בדייט״.\n\nמהלך השמפניה נאה מאוד, אך יש לטפל בו בזהירות. השתמשו בו רק עם mi–fa–sol או me–fa–sol במלודיה, ותמיד בהולכת הקולות שלהלן. שימו לב להכפלה החריגה של צליל הבס — la/le — באקורד S6.\n\nבגירסה הכתובה מופיע כאן דוגמת מהלך השמפניה. הבס יורד, ובהרמוניה האמצעית מופיע הסימון 6; הקול העליון מוחזק בקשת בין שני האקורדים האחרונים. מתחת לדוגמה מודפס רצף הארכת הטוניקה דרך S6d, המוביל לאקורד בהיפוך ראשון.\n\nבמהלך השמפניה הרגיל שלעיל משתמשים באקורד 'I 6' עבור T3. להלן גרסה המשתמשת ב־'I I I' עבור T3. Biringer כינה אותה ״שמפניה ורודה״ (pink champagne), משום שהיא נאה במיוחד. יש להשתמש בה גם לעיתים רחוקות במיוחד, אחרת היא מאבדת את עוצמת השפעתה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:07:33.625835+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
