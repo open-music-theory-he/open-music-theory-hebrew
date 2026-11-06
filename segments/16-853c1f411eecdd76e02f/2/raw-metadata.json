@@ -1,0 +1,14 @@
+{
+  "text_sha256": "332d6e5e67a63c3fea823fbd67d96eff3d6e55f2ffe0789a9284787b9fdef00b",
+  "identity_sha256": "853c1f411eecdd76e02f3603f5665ebb043b5b7c753eadd946c2d8f8bccd0e2d",
+  "raw_sha256": "4421bd81a5a1a7879b4128dcce8bf1ced3fc02227c9bb4fa629ae0908fea3e25",
+  "seconds": 80.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "קרבה בגובה (pitch proximity): הנטייה להתקדם בצעדים יותר מאשר בקפיצות, ובקפיצות קטנות יותר מאשר בגדולות. זהו ביטוי לזרימה חלקה וללכידות מלודית.\n\nנטייה לצעדים יורדים (step declination): הנטייה לנוע בצעד יורד יותר מאשר בצעד עולה. ייתכן שזהו ביטוי לתנועה מכוונת ליעד, שכן אנו נוטים לתפוס ירידה כהפחתת אנרגיה וכהתקדמות למצב של מנוחה.\n\nהתמדה בכיוון הצעדים (step inertia): הנטייה להמשיך באותו כיוון יותר מאשר לשנות אותו; כלומר, רוב המעברים המלודיים ממשיכים בכיוון המעבר הקודם. זהו ביטוי לזרימה חלקה, ולעיתים גם לתנועה מכוונת ליעד.\n\nחזרה מלודית לאמצע (melodic regression): הנטייה של תווים ברגיסטרים קיצוניים להתקדם בחזרה אל האמצע. זהו ביטוי לתנועה לעבר מנוחה, כשהתווים שאינם קיצוניים מייצגים אותה. זהו גם ביטוי להתפלגות הסטטיסטית של תווי המנגינה: ככל שהתו גבוה יותר, יש למלחין יותר תווים לבחור מתחתיו ופחות מעליו.\n\nקשת מלודית (melodic arch): הנטייה של מנגינות לעלות במחצית הראשונה של הפראזה, להגיע לשיא ולרדת במחצית השנייה. זהו ביטוי להתכוונות ליעד ולדפוס מנוחה–תנועה–מנוחה, וגם שילוב של הנטיות שלמעלה במסגרת פראזה מוזיקלית.\n\nתרגיל הכנה\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T12:58:17.897363+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
