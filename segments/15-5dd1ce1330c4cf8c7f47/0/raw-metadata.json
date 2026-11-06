@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4361345ec29f93c24dd3c0e4f3f849bbc33f6539b2070d8d68aeb781c376673d",
+  "identity_sha256": "5dd1ce1330c4cf8c7f47d885d0a4cd4949f71c63057132855874722456ea3e5d",
+  "raw_sha256": "53606ee54a7179b3930b3640d4e8a3d823f1a0ec92e70d69edf47e2f1b4ef770",
+  "seconds": 92.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "15 — מבוא להולכת קולות קפדנית\n\nלימוד התאוריה של המוזיקה המערבית כולל שלושה מרכיבים עיקריים: הולכת קולות, הרמוניה וצורה. הולכת קולות (voice-leading) עוסקת ביחסים בין שני קווים מוזיקליים או יותר — כלומר מנגינות — המשתלבים ברעיון מוזיקלי אחד. הרמוניה (harmony) עוסקת בכללים או בנורמות לצירוף אקורדים למהלכים. צורה (form) עוסקת בכללים או בנורמות לצירוף פראזות ויחידות מוזיקליות קטנות אחרות ליחידות גדולות יותר, עד לפרקים שלמים וליצירות שלמות.\n\nנעסוק בכל שלושת ההיבטים האלה. עם זאת, הולכת הקולות היא היסודית ביותר מביניהם. לכן נתחיל את לימודי התאוריה בהולכת קולות קפדנית (strict voice-leading), או בקונטרפונקט (counterpoint).\n\nהמוזיקאי והתאורטיקן בן המאה העשרים Heinrich Schenker כתב:\n\nמטרת הקונטרפונקט, יותר משהיא ללמד סגנון הלחנה מסוים, היא להוביל לראשונה את אוזנו של תלמיד המוזיקה הרציני אל העולם האינסופי של הבעיות המוזיקליות היסודיות (Kontrapunkt, עמ׳ 10).\n\nברוח זו, תרגילי הולכת הקולות הראשונים שלנו לא יהיו בסגנון מסוים — קלאסי, בארוקי, רומנטי, פופ/רוק וכדומה. תחת זאת, ננטרל בהם מרכיבים חשובים כגון הרמוניה, תזמור, מוטיבים מלודיים, מבנה צורני ואפילו היבטים רבים של מקצב, כדי להתמקד במדויק בקבוצה מצומצמת של בעיות מוזיקליות. המרכיבים האחרים יתווספו בזה אחר זה לאורך הקורס ובהמשך הלימודים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:40:18.697904+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
