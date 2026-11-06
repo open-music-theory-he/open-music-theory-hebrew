@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c2db6e26ce5803b73c5c365d4d806e759119fc0bd5d443f8e90d17f1c75d653e",
+  "identity_sha256": "853c1f411eecdd76e02f3603f5665ebb043b5b7c753eadd946c2d8f8bccd0e2d",
+  "raw_sha256": "857ae204946aa9c4b41694946c957d332157ad54b4b5983c57b33a0176bffad6",
+  "seconds": 80.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לפני כתיבת קנטוס פירמוס מתחילתו, נסו לבנות קנטוס תקין סביב השלד הבא. האורך, גובה ההתחלה, הגובה הלפני־אחרון, גובה הסיום והשיא נתונים מראש. צרו קו מלודי חלק וקונסוננטי המדגים הן את המאפיינים המסוימים של קנטוס פירמוס בקונטרפונקט קפדני לפי סוגים והן את המאפיינים הכלליים של מנגינות טונאליות. לחצו על החַמְשָׁה כדי לשמוע את המנגינה. הקפידו להאזין אחרי כל שינוי.\n\nשירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.\n\nהערת המהדורה העברית: הכללים לכתיבת הקנטוס בפרק זה שייכים למסגרת התרגיל המסוימת שבספר. אין להחיל, למשל, את הגבלת הופעת הצליל המוביל במינור על כל מנגינה במינור. הברות הסולפז׳ הן יחסיות; ראו דו קבוע ודו נייד.\n\nהרחבה מגרסה 2 — בטא: ההסברים והוראות דפי העבודה שלהלן נבדקו מול המקור. דוגמאות התווים בדפי העבודה נשמרו במקורן; כותרותיהם באנגלית. קישורי השמע ושירותי החוץ טרם אומתו במלואם. הרחבה זו מיועדת למהדורת הקריאה וטרם נכללת בספר השמע.\n\nדפי עבודה מגרסה 2: קנטוס פירמוס\n\nמקור: פרק קנטוס פירמוס בגרסה 2, מאת Mark Gotham ו־Kris Shaffer. ההוראות של שני דפי העבודה מתורגמות להלן במלואן; הקטעים על החַמְשׁוֹת נשמרים בקובצי המקור.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T12:58:41.859558+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
