@@ -1,0 +1,14 @@
+{
+  "text_sha256": "6065a6de5b730f0233a8b8daf958476c9f44dc24dc80f19476c5d439e6f41ba5",
+  "identity_sha256": "853c1f411eecdd76e02f3603f5665ebb043b5b7c753eadd946c2d8f8bccd0e2d",
+  "raw_sha256": "82497e9b2c99163538283d06ab3d8008790e15af533e357985554d5e61312bef",
+  "seconds": 99.28,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "16 — כתיבת קנטוס פירמוס\n\nתרגילים בהולכת קולות קפדנית, או בקונטרפונקט לפי סוגים, מתחילים בקו מוזיקלי יחיד, בנוי היטב, הנקרא קנטוס פירמוס (cantus firmus) — קול קבוע או מנגינה קבועה; צורת הרבים בלטינית היא cantus firmi. כתיבת קנטוס פירמוס מאפשרת לעסוק בתכונות המוזיקליות היסודיות הבאות:\n\nזרימה חלקה.\n\nעצמאות ולכידות של הקווים המלודיים.\n\nגיוון.\n\nתנועה לעבר יעד.\n\nהתרגילים הראשונים שלנו בהולכת קולות קפדנית יהיו כתיבת קנטוס פירמוס טובים ובנויים היטב. הצעד הראשון הוא לבצע ולנתח דוגמאות מופת, כגון הקנטוס הבא ב־C מז׳ור, שכתב Heinrich Schenker.\n\nשירות Trinket נסגר ב־31 באוגוסט 2026. הדוגמה האינטראקטיבית המקורית אינה זמינה עוד.\n\nדוגמאות נוספות מופיעות כאן. ביצוע שלהן מסייע לפתח תחושה פנימית של הצליל ושל אופי הקנטוס הבנוי היטב. רבות מתכונותיו מופיעות גם בסגנונות מוזיקליים אחרים. אפשר להשתמש בדוגמאות המופת האלה גם כנקודת מוצא לתרגילים בשני קולות.\n\nהתבוננו כיצד התכונות הכלליות — זרימה חלקה, לכידות מלודית, גיוון ותנועה לעבר יעד — מתממשות במאפיינים מסוימים. המאפיינים הבאים אופייניים לקנטוס פירמוס הבנוי היטב:\n\nאורך של כ־8–16 תווים.\n\nהיעדר גיוון קצבי (arhythmic): כל התווים הם שלמים; אין תווים ארוכים וקצרים זה מזה.\n\nהתחלה וסיום ב־do.\n\nהגעה לטוניקה הסופית בצעד: בדרך כלל re–do, ולעיתים ti–do.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:41:49.052699+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
