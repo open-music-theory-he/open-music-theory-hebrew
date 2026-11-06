@@ -1,0 +1,14 @@
+{
+  "text_sha256": "71cb7cf204aec3fd133d679d6013844dbd3b524253b03a80dad5a9bf7f7a3c32",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "47c372eb1c32a3091e8e6c259365d1b0ad39acf2a4dbb38d64627dfbc814d356",
+  "seconds": 98.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "השהיה (suspension) מורכבת משלושה חלקים חיוניים: הכנה, מוטעמת או לא מוטעמת; ההשהיה עצמה, מוטעמת; ופתרון, לא מוטעם. ההכנה היא צליל אקורד קונסוננטי. ההשהיה היא אותו צליל, ומופיעה יחד עם שינוי הרמוני. לאחר מכן היא יורדת בצעד לפתרון, מעל אותה הרמוניה שבה נשמעה ההשהיה. מבחינות רבות היא ההפך מסינקופה: אם הקדמה היא הגעה מוקדמת של צליל מהאקורד הבא, השהיה היא התעכבות של צליל מהאקורד הקודם, הדוחה את הגעת צליל האקורד החדש. אולם בהלחנה ובאלתור יש לטפל בהשהיה בזהירות רבה יותר מאשר בסינקופה. ההשהיות השכיחות ביותר בקולות העליונים, עם פתרונותיהן, יוצרות מול הבס את הדגמים 9–8, 7–6, 4–3. למעט 9–8, מחלקת גובה הצליל של הפתרון לעולם לא תישמע בקול אחר בו־זמנית עם הצליל המושהה. במקום SUS מקובל יותר לסמן את דגם המרווחים בספרות הבס הממוספר.\n\nהשהיה הנפתרת בעלייה (RET)\n\nבגירסה הכתובה מופיע כאן דוגמת השהיה הנפתרת כלפי מעלה, כלומר retardation. הקול העליון מוחזק ואחר כך עולה, ומתחת לתווים מודפסים מרווחים כגון 7–8 ו־4–3. המערכת מאפשרת לעקוב אחר ההכנה, ההחזקה והפתרון ביחס לבס.\n\nהשהיה הנפתרת בעלייה (retardation) היא למעשה השהיה שפתרונה עולה. כמעט תמיד היא שמורה לאקורד האחרון בחטיבה צורנית גדולה או בפרק, ולעיתים קרובות מופיעה יחד עם השהיה רגילה, כבדוגמה. במקום RET עדיף לסמן את דגם המרווחים בספרות הבס הממוספר.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T19:24:50.669766+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
