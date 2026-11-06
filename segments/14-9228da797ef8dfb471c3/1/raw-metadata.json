@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1fdc8b7601347655a314db7889762f347a34f7628bfcfe17bd249508e053dcc6",
+  "identity_sha256": "9228da797ef8dfb471c3b42c98cbc4c7834851677865929bbea440d4490139e4",
+  "raw_sha256": "9f71037e366654746890af098898100194647042b90979b8eb4d6a4371a1de88",
+  "seconds": 48.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיעה כאן דוגמה לתנועה מנוגדת. הקול התחתון יורד מ־C ל־A והעליון עולה מ־E ל־F. שני הקולות נעים בכיוונים הפוכים והמרווח ביניהם מתרחב.\n\nבתנועה אלכסונית (oblique motion), קול אחד נשאר בגובה קבוע ואילו הקול השני נע, בעלייה או בירידה. אפשר לנגן מחדש את הצליל הקבוע, אך אין הכרח לעשות זאת.\n\nבגירסה הכתובה מופיעה כאן דוגמה לתנועה אלכסונית בשני קולות. הצליל G בקול העליון נשאר במקומו, והקול התחתון יורד מ־C ל־B. מרווח הקולות משתנה משום שרק קול אחד נע.\n\nאו\n\nבגירסה הכתובה מופיעה כאן דוגמה נוספת לתנועה אלכסונית. G בקול העליון נכתב כצליל ארוך ונשמר, בעוד הקול התחתון יורד מ־C ל־B בשני צלילים קצרים יותר. משך הצלילים אינו משנה את סוג התנועה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:39:49.908224+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
