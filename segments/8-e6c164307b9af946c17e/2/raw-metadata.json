@@ -1,0 +1,14 @@
+{
+  "text_sha256": "7204f1d8f4e42c2621eee6ceb38f4d4edcdd910828c4d1426d4173e5b0972541",
+  "identity_sha256": "e6c164307b9af946c17e87bd96e344fab30798c67da0ad3b5b43ee0360331920",
+  "raw_sha256": "71c888afcd7d3a2c9f39221078512dbb313a4e4f496a679ecb1473d5147eaa3c",
+  "seconds": 76.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בחַמְשָׁה העליונה כוכבים, ★, מציינים מקומות שהתיווי בהם אינו משקף כראוי את המשקל. בחַמְשָׁה התחתונה של כל דוגמה כתבו את הדוגמה מחדש בהתאם למוסכמות התיווי, כך שהמשקל יהיה ברור: חברו מחדש בקורות, חברו או הפרידו הפסקות, השתמשו בקשתות מאריכות וכדומה. חלק מן התיבות כבר התחילו או הושלמו עבורכם כדוגמאות.\n\nהמילה incorrect מציינת את התיווי שיש לתקן, והמילה corrected מציינת את שורת התיקון. הוראות אלה חלות על שני הדפים; הדוגמאות המוזיקליות שונות.\n\nהערת עריכה: בעמוד השני של דף המשקל המורכב מופיעה בטעות כותרת באנגלית המזכירה משקל פשוט. קובץ המקור נשמר ללא שינוי. דף זה עוסק במשקל מורכב, כפי שמראים כותרתו הראשית וסימני המשקל בדוגמאות.\n\nטריולות, דואולות, היפרמטר וסינקופה\n\nדף העבודה המקורי, שלושה עמודים · רשימת ההשמעה במקור. זמינות ההקלטות בשירות החיצוני טרם אומתה במלואה. ההוראות מתורגמות להלן; התווים שבדף נשמרו ללא שינוי.\n\nספירת חלוקות קצב שאולות: מתחת לכל מקצב כתבו את הספירה. הקיפו בסוגריים הפסקות ופעימות שאין בהן התקפה. שימו לב לסימני המשקל המשתנים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:38:40.179335+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
