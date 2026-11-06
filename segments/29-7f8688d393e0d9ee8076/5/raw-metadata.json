@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4bba048f0fe592fb21e46f86a3eb7d502a5a6869c2d6133ca8cf8d1b63d2f1fb",
+  "identity_sha256": "7f8688d393e0d9ee80764f6aefda63e5386dc71c63fc2f7fa778873e626b642a",
+  "raw_sha256": "18e5508c535f6f9875b5540126ab4a150c7e41d407c9550148c42ad02e538384",
+  "seconds": 72.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "כאשר S4 מתקדם אל D5, ושניהם אקורדי ספטימה, ייתכן שלא יהיה אפשר להכין ולפתור את הדיסוננסים הפונקציונליים של שני האקורדים ובו בזמן לכלול את כל צליליהם.\n\nבגירסה הכתובה מופיע כאן מהלך S4, D5, T1 המדגים בעיית הכנה ופתרון בין שני אקורדי ספטימה שלמים. אקורד S4 מסומן 6 על 5, ואחריו דומיננטה המסומנת 7. התווים מאפשרים לבדוק כיצד הספטימה של אקורד אחד מכינה את זו של הבא.\n\nבמקום זאת, השמיטו la/le מאקורד S4 והכפילו את צליל הבס. כך יישמר פה, שהוא גם צליל הבס וגם הצליל המפעיל את התפקיד ההרמוני (trigger), וכן שני הגבהים היוצרים את הדיסוננס — do ו־re, או mi/me ו־fa. הדבר יאפשר פה נוסף בקול עליון, שיוכל להכין את ספטימת אקורד D5.\n\nבגירסה הכתובה מופיע כאן מימוש חלופי של S4, D5, T1, עם השמטת טרצת S4. הסימונים 6 על 5 ו־7 נשמרים, אך חלוקת הקולות באקורד הראשון משתנה. כך מוצגת הכנה של ספטימת הדומיננטה בלי הדרישה שכל אקורד יהיה מלא.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:08:48.911964+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
