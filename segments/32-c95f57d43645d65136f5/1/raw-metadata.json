@@ -1,0 +1,14 @@
+{
+  "text_sha256": "212dfb76eb573dbc96373e7e3c6931e02ffa6bea71538f2506413648bdb74d70",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "0812140bcf8b8e7a21be01105b1aefe8418194cb38f3e3d4f57e69e594eea64f",
+  "seconds": 85.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן דוגמת שכן כפול. שני הצלילים האמצעיים בקול העליון מוקפים בעיגול ומסומנים DN. הקו נוגע בשני צדי צליל האקורד וחוזר אליו, מעל בס מוחזק.\n\nכמו דגם שכן שלם, דגם שכן כפול (double neighbor figure) מתחיל ומסתיים באותו צליל יציב, בדרך כלל צליל אקורד. בין שתי הופעותיו יש שני צלילי קישוט: אחד צעד מעליו ואחד צעד מתחתיו. אף שכל אחד מהם בנפרד יכול להיחשב שכן בלתי שלם, כמוסבר להלן, יחד הם מאזנים זה את זה ויוצרים מכלול רציף בעל יציבות כללית של שכן שלם. דגם שכן כפול בדרך כלל אינו מוטעם.\n\nצליל שכן בלתי שלם (INT)\n\nבגירסה הכתובה מופיע כאן דוגמת צליל שכן בלתי שלם. הצליל המסומן INT מוקף בעיגול ומגיע לצליל אקורד בצעד, בעוד הקשר לצליל שקדם לו שונה מדגם השכן השלם. הבס נשאר ללא תנועה.\n\nצליל שכן בלתי שלם (incomplete neighbor tone) הוא צליל קישוט לא מוטעם, שאליו מגיעים בקפיצה וממנו ממשיכים בצעד לצליל יציב מוטעם, בדרך כלל צליל אקורד. באופן רחב, זה כל צליל קישוט במרחק צעד מצליל יציב הבא לפניו או אחריו, המחובר בצדו השני בקפיצה. אולם לסוגים אחרים של שכן בלתי שלם יש שמות ותפקידים מיוחדים, שיופיעו בהמשך.\n\nאפוג׳טורה (APP)\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:09:47.084281+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
