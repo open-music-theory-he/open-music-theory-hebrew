@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4c1d4068089e181d13c632b8c92858af1a75faec417115be8a29c7bfe8983778",
+  "identity_sha256": "e6c164307b9af946c17e87bd96e344fab30798c67da0ad3b5b43ee0360331920",
+  "raw_sha256": "c9c35583d7383206edb4449c39c0a2cfbee323371827d3804f4f5af042fe6020",
+  "seconds": 85.28,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מספרי ספירה היפרמטרית: האזינו להקלטה של כל קטע, ולאחר מכן כתבו מעליו את מספרי הספירה ההיפרמטרית. קטע א הוא שמונה התיבות הראשונות מן הוואלס ״הדקה״ מאת פרדריק שופן, 1847. קטע ב הוא ארבע התיבות הראשונות מן הפרלוד השני מאת קלרה שומאן, בערך 1845. לפני התרגול ראו מבוא להיפרמטר ואת הפרק המפורט.\n\nקווי תיבה וספירה במקצבים מסונקפים: הוסיפו קווי תיבה כדי ליצור תיבות מלאות במשקלים הנתונים. הוסיפו גם את הספירה מתחת לכל מקצב, והקיפו בסוגריים הפסקות ופעימות שאין בהן התקפה. לרקע ראו סינקופה במוזיקת פופ ורוק.\n\nהערת עריכה: דף המקור מכנה את הוואלס של שופן Waltz in D-flat Minor. הוואלס ״הדקה״ הוא ב־D♭ מז׳ור, אופ׳ 64 מס׳ 1. ראו גם את קטלוג הוואלסים של מכון שופן. זהו תיקון גלוי של שם הסולם בכותרת, ולא שינוי של דוגמת התווים; דף המקור עצמו נשמר ללא שינוי.\n\nקרדיט ורישיון: דפי תיווי הקצב מאת Kyle Gullings, © 2025. דף טריולות, דואולות, היפרמטר וסינקופה מאת Chelsey Hamm, © 2020. מתוך Open Music Theory, CC BY–SA 4.0. מקור הדפים: משקל פשוט, משקל מורכב, היבטים קצביים נוספים. התרגום וההתאמה לעברית נעשו בסיוע AI.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:39:04.724868+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
