@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b574593d43c38cc2bc121e749314e1e6abd00260d5b1d18a581dc8de12bb246e",
+  "identity_sha256": "5dd1ce1330c4cf8c7f47d885d0a4cd4949f71c63057132855874722456ea3e5d",
+  "raw_sha256": "89b3f3c4209255b855fc331607cc29814ba06996e48fb6dc927695ea5e54dd65",
+  "seconds": 72.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לימוד הקונטרפונקט יאפשר להתמודד עם כמה ״בעיות״ מוזיקליות חשובות במסגרת מצומצמת, כדי לשלוט בהן בהלחנה ולהבין אותן בניתוח. הן מתעוררות כאשר מבקשים לשלב את התכונות הבאות:\n\nזרימה חלקה.\n\nעצמאות ולכידות של הקווים המלודיים.\n\nמיזוג צלילי (tonal fusion): העדפה לכך שתווים הנשמעים יחד ייצרו אחדות קונסוננטית.\n\nגיוון.\n\nתנועה לעבר יעד.\n\nהתכונות האלה מבוססות על תפיסה וקוגניציה אנושיות, אך ברגעים מוזיקליים מסוימים הן מתנגשות זו בזו. יש לאזן ביניהן לאורך קטעים רחבים ויצירות שלמות. הקונטרפונקט יסייע לנו להתחיל לתרגל את התיווך בין המתחים האלה.\n\nשימו לב גם לביטוי של שנקר, ״להוביל את האוזן״. קונטרפונקט אינו רק לימוד בעיפרון ועל נייר, או בהרצאה ובשיעורי בית. התרגילים הם יצירות זעירות — מיני, מיקרו, ואולי ננו — שיש לבצע בקול או במקלדת, ולעיתים קרובות עם שותף. כך האוזן, האצבעות, הגרון ולבסוף התודעה יפנימו את הצליל, המראה והתחושה של קווים מוזיקליים טובים ורעים ושל צירופים טובים ורעים ביניהם.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:41:04.663168+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
