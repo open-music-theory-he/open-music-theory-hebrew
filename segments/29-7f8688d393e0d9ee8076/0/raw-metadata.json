@@ -1,0 +1,14 @@
+{
+  "text_sha256": "7e5e50494453139da05ccfc7f7ae24dd11c9c7888d133d2dabe71e791bb44e36",
+  "identity_sha256": "7f8688d393e0d9ee80764f6aefda63e5386dc71c63fc2f7fa778873e626b642a",
+  "raw_sha256": "85b4229607423d5b269bb5699685e80fbb09e0bc2a29d578a3585d333aed1176",
+  "seconds": 103.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "29 — סכמות להולכת קולות בסגנון כלי מקלדת\n\nלהלן כמה סכמות (schemata) להולכת קולות בסגנון כלי מקלדת. חלקן תבניות נפוצות המצדיקות תשומת לב מיוחדת ושינון. אחרות דורשות הולכת קולות או הכפלות החורגות מברירת המחדל. בכל מקרה, כדאי לזכור אותן כדי להיעזר בהן בהלחנה ובעיבוד, וכן בזיהוי תבניות מקובלות. חלקן יועילו גם בהולכת קולות בסגנון כוראל.\n\nחילוף קולות\n\nחילוף קולות (voice exchange) מתרחש כאשר קווי המלודיה והבס מחליפים ביניהם גבהי צליל במהלך הארכה קונטרפונקטית פשוטה. למשל, במהלך T1 D2 T3 הבס מתחיל בדו ומסתיים במי. בחילוף קולות המלודיה נעה בכיוון ההפוך: מתחילה במי ומסתיימת בדו. בתבנית נפוצה זו אפשר להשתמש באקורד 'V 6 על 4', 'V 4 על 3' או 'V I I 6 על 3' עבור D2:\n\nבגירסה הכתובה מופיע כאן דוגמת חילוף קולות בין שני אקורדי טוניקה דרך אקורד מעבר בהיפוך שני. הבס עולה בשלושה צעדים והמלודיה נעה בכיוון ההפוך, כך ששני צלילי הטוניקה מחליפים ביניהם קולות. מתחת לדוגמה מופיע הרצף T1, D2p, T3 והספרות 6 על 4 באקורד האמצעי.\n\nבגירסה הכתובה מופיע כאן חילוף קולות דומה, אך האקורד האמצעי כתוב בסימון 6 בלבד. הרצף T1, D2p, T3 נשמר; הבס והמלודיה נעים בניגוד זה לזה בין שני מצבי הטוניקה. האיור משווה את המימוש הזה למימוש עם אקורד 6 על 4.\n\nהשימוש בתבנית חילוף קולות זו מבטיח הולכת קולות חלקה לאורך ההארכה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:06:37.516996+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
