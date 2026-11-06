@@ -1,0 +1,14 @@
+{
+  "text_sha256": "fc59fec5c47fc967fcab3c20cc52a62402b56a14db4561e7e466a4958097162b",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "a84c047cf120e04c3da73459f3f45b980cdbdb3e05c503ea490e8e1eb30d97a2",
+  "seconds": 81.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בתיבה הראשונה אפשר לכתוב ארבעה רבעים, או הפסקת רבע ולאחריה שלושה רבעים. ללא קשר למקצב, הגובה הראשון בקונטרפונקט חייב לעמוד בכללי המרווחים שלמעלה.\n\nסיום קונטרפונקט מן הסוג השלישי\n\nהגובה האחרון בקונטרפונקט חייב תמיד להיות do, והוא חייב להיות כתוב כשלם.\n\nהתו הלפני־אחרון בקונטרפונקט — הרבע האחרון בתיבה הלפני־אחרונה — צריך להיות ti אם בקנטוס נשמע re, ו־re אם בקנטוס נשמע ti.\n\nפעימות חזקות\n\nהעקרונות לפעימות החזקות, הראשונות בתיבה, זהים בדרך כלל לאלה שבסוג השני.\n\nהן תמיד קונסוננטיות, ואינן פרימות זכות. העדיפו קונסוננסים בלתי מושלמים, טרצות וסקסטות, על פני מושלמים, קווינטות ואוקטבות.\n\nהתנועה מעבר לקווי התיבה, מן הפעימה הרביעית לראשונה הבאה, כפופה לכללי הסוג הראשון.\n\nהמהלכים בין פעימות ראשונות עוקבות כפופים לעקרונות הסוג השני, למעט חריג אחד המופיע להלן. הנה כמה דוגמאות, שאינן רשימה ממצה:\n\nאין לפתוח שלוש תיבות עוקבות באותו מרווח זך; שתי תיבות ברצף מותרות.\n\nאין לפתוח יותר משלוש תיבות ברצף באותו קונסוננס בלתי מושלם.\n\nהגבהים הפותחים פעימות ראשונות עוקבות אינם יכולים ליצור ביניהם מרווח מלודי דיסוננטי.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:00:27.151959+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
