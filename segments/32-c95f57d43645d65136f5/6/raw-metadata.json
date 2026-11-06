@@ -1,0 +1,14 @@
+{
+  "text_sha256": "429e52058134ceda9f18e41ca57666aa3edf74cff7b7523b42363d9f466cf382",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "5a781f4f5a45441bd094a821a25c82da77a92033957b986a07c744562404379e",
+  "seconds": 60.96,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "כמה צלילי קישוט כבר מוקפים בעיגול. מעל החַמְשָׁה ציינו לכל אחד את סוגו, בעזרת הסימונים שבדף: PT, NT, APP, ET, SUS, R.\n\nהערת סימון: בדף זה ET מציין צליל חומק, ובפרק הקיים משמש לכך ESC. הסימון R בדף מציין השהיה הנפתרת בעלייה; בפרק הקיים ובמלל גרסה 2 מופיע גם RET. אלה הבדלי קיצור בין המקורות, ואין להחליף את סימוני הדף בלי לציין זאת.\n\nהדרישה היא לדוגמה אחת לפחות מכל סוג ברשימה, ולא לדוגמה אחת בסך הכול. השאלות הממוספרות והדוגמאות המוקפות אינן נפתרות כאן. ההקלטה וקוד ה־QR לא נבדקו בניגון; קובץ ההקלטה אינו מועתק ואינו חלק מספר השמע.\n\nמקור הדף: John Peterson, © 2025, Open Music Theory, CC BY-SA 4.0. פרק המקור. תרגום הוראות הדף בלבד; כותרותיו ותוויותיו הפנימיות נשארות באנגלית. בדיקה עצמית בסיוע AI, ללא הגהה אנושית עצמאית.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T19:25:34.744934+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
