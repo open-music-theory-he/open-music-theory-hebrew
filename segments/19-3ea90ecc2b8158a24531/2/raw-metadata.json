@@ -1,0 +1,14 @@
+{
+  "text_sha256": "26da0918270ced8ab0624a11c5038541c99372c4e09f56c2a279b3c54a83dbe2",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "d49ba28f808e0fe1dab07d8a075ba343321a4e7c0d0d0e36037d6fa90f656656",
+  "seconds": 87.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אם בפעימה הראשונה יש קווינטה זכה, אסור שתהיה קווינטה בפעימה השלישית או הרביעית של התיבה הקודמת. אם יש בה אוקטבה, אסור שתהיה אוקטבה בפעימה השנייה, השלישית או הרביעית של התיבה הקודמת. כמו בסוג השני, הוספת תו או שניים אינה מבטלת את ההשפעה השלילית של קווינטות ואוקטבות מקבילות.\n\nקווינטות ואוקטבות נסתרות או ישירות (hidden or direct fifths/octaves) בין פעימות ראשונות עוקבות מותרות.\n\nיתר הפעימות\n\nבפעימות 2–4 רצוי לשלב מרווחים קונסוננטיים ודיסוננטיים כדי ליצור גיוון. בין הקונסוננסים, פרימות זכות מותרות בפעימות חלשות כשנחוץ הדבר לקונטרפונקט טוב בין הקווים. כל דיסוננס חייב לעמוד בתבנית של צליל עובר דיסוננטי או צליל שכן דיסוננטי, המוסברות להלן. בהמשך מוסברות גם כמה תבניות מקובלות לפעימות חלשות קונסוננטיות.\n\nדיסוננסים הרמוניים\n\nככלל, דיסוננסים בסוג השלישי יכולים להופיע בפעימות 2, 3 או 4, וצריכים להיות מוקדמים ומלווים בתנועה בצעדים, למעט השכן הכפול והנוטה קמביאטה המוסברים להלן. הדבר מקדם זרימה חלקה בשתי דרכים: הדיסוננסים אינם מוצבים בפעימה החזקה ביותר, והם משולבים בתנועה המלודית החלקה ביותר. אם כל התווים הדיסוננטיים עומדים באחת התבניות הבאות, צפויה להם השפעה נעימה. אחרת הם עלולים להישמע חריפים או בלתי פתורים, או להיות קשים לשירה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:00:52.069017+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
