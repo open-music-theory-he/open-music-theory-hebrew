@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1da63dd34da43661e55157ab63516d94feb6b37d67553696e5e1592613a72100",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "78362e9da3a6cc75d52d9d6e8a9c0fb89f2f0cd71d55cb77be17acd149e466db",
+  "seconds": 89.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "צליל עובר דיסוננטי (dissonant passing tone) ממלא את המרווח של טרצה מלודית בתנועה בצעדים. התווים שלפניו ואחריו חייבים להיות קונסוננטיים עם הקנטוס.\n\nשימו לב שאפשר להשתמש בשני צלילים עוברים דיסוננטיים ברצף: P4–d5 או d5–P4. כל עוד הם אינם מופיעים בפעימה הראשונה, והקונטרפונקט נע בצעדים באותו כיוון, אין לכך השפעה שלילית.\n\nצליל שכן דיסוננטי (dissonant neighbor tone) מקשט צליל קונסוננטי באמצעות יציאה ממנו בצעד וחזרה בצעד אל אותו גובה: למשל, 6–7–6 מעל הקנטוס. מבחינה מלודית הוא זהה לצליל השכן הקונסוננטי של הסוג השני; ההבדל הוא בדיסוננס ההרמוני. הצבתו בפעימה חלשה, 2 או 4, מבטיחה את הזרימה החלקה ביותר.\n\nשכן כפול (double neighbor) מופיע כאשר התווים בפעימות 1 ו־4 זהים, והתווים בפעימות 2 ו־3 הם צעד מעל הגובה המקורי וצעד מתחתיו. למשל, C–D–B–C או C–B–D–C. שתי הפעימות האמצעיות דיסוננטיות, אך מאחר ששתיהן מקשטות את הגובה המקורי במרחק צעד, הקפיצה ביניהן אינה פוגעת משמעותית בזרימת הקו. בשימוש בשכן כפול, כיוון התנועה מפעימה 3 ל־4 צריך להיות זהה לכיוון מפעימה 4 לראשונה הבאה. גם התנועה מעבר לקו התיבה צריכה להיות בצעד. כך נשמרת עוד יותר הזרימה החלקה, הממתנת את הדיסוננסים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:01:18.228827+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
