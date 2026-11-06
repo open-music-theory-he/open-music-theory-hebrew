@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9a429d3e38c46310960e2b0f89eb0479aaaf0528bc5aef796061c74809884305",
+  "identity_sha256": "7f8688d393e0d9ee80764f6aefda63e5386dc71c63fc2f7fa778873e626b642a",
+  "raw_sha256": "3d3af2d8f0790756ded25219d32f056316ec6a7a4518dbbaaae1a14bc502e41c",
+  "seconds": 98.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "שימו לב שפה באקורד המעבר D2 בדוגמה השנייה — דיסוננס פונקציונלי — אינו נפתר מטה למי. הדבר מותר משום שמי נדרש בקו הבס אך אסור להכפילו, ומשום שהקונטרפונקט החלק בין הקולות החיצוניים ותנועת הקולות הפנימיים בצעדים מפצים על החספוס שעשוי להישמע עקב הדיסוננס שלא נפתר.\n\nאפשר להשתמש בחילוף הקולות גם עם אקורד תחליף D4. שימו לב שהקולות העליונים זהים בדיוק לאלה שבשימוש ב־'V 6 על 4' עבור D2.\n\nבגירסה הכתובה מופיע כאן דוגמת חילוף קולות דרך אקורד D4i בהיפוך שלישי. הבס עולה והמלודיה יורדת בין מצבי הטוניקה; באקורד האמצעי מופיעות הספרות 4 על 2. הרצף T1, D4i, T3 מציע חלופה לדומיננטת המעבר שנראתה קודם.\n\nאפשר להשתמש בתבניות אלה במז׳ור ובמינור ולטרנספז אותן לכל טונליות. אפשר גם להפוך את כיוונם של חילופי הקולות עם D2: T3 D2 T1. אפשר להשתמש בהם גם להארכת S ו־D, למשל S4 T5 S6 או D5 S6 D7.\n\nדצימות מקבילות\n\nלמהלך Do–re–mi בבס מתלווה לעיתים קרובות גם mi–fa–sol במלודיה, היוצר דצימות מקבילות (parallel tenths).\n\nבגירסה הכתובה מופיע כאן מהלך המדגים דצימות מקבילות בין הבס למלודיה. שני הקולות החיצוניים עולים בצעדים, ובאקורד האמצעי מופיעות הספרות 4 על 3. המהלך מסומן כהארכת טוניקה T1, D2p, T3.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:07:06.219889+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
