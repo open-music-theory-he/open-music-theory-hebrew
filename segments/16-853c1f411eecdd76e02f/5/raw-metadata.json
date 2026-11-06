@@ -1,0 +1,14 @@
+{
+  "text_sha256": "a24f5d0317c7970b1fcdeceee872d478f2b149854206aaabe96f28d04b52cb79",
+  "identity_sha256": "853c1f411eecdd76e02f3603f5665ebb043b5b7c753eadd946c2d8f8bccd0e2d",
+  "raw_sha256": "2af3b183b1ea72b295315585a885eebccaab3d33d5555200cecb86e65bdd92eb",
+  "seconds": 86.56,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "יש ליצור שיא יחיד, המופיע בדרך כלל פעם אחת בלבד, וקשר הגיוני וקו מתאר חלק מן ההתחלה אל השיא ואל הסיום. התנועה היא בעיקר בצעדים, עם כמה קפיצות, בעיקר קטנות. אין לחזור על מוטיבים או ״ליקים״. קפיצה של קוורטה ומעלה נענית בצעד בכיוון ההפוך; אין יותר משתי קפיצות ברצף ואין קפיצות עוקבות באותו כיוון, מלבד החריג בקנטוס במודוס F של פוקס, שבו קפיצות יורדות עוקבות מתוות אקורד משולש קונסוננטי. הצליל המוביל מתקדם לטוניקה, והוא נדרש גם במודוסים בעלי אופי מינורי שבהם יש להגביה את הדרגה השביעית.\n\nהבחנת גרסאות של המהדורה: ההגבלה הנוספת בפרק הישן על הופעת הצליל המוביל במינור רק בתיבה הלפני־אחרונה אינה מופיעה ברשימת ההנחיות הזאת של גרסה 2. במטלות גרסה 2 יש להשתמש בהנחיות גרסה 2 המובאות כאן, תוך שמירת ההבחנה מהתרגיל המקורי. גם הכינוי במקור החדש הוא ״מודוס F״, ולא בהכרח F מז׳ור במובן הטונלי המאוחר.\n\nקרדיט ורישיון: שני דפי העבודה מאת Kyle Gullings, © 2026, CC BY–SA 4.0. מלל פרק המקור מאת Mark Gotham ו־Kris Shaffer. התרגום נעשה בסיוע AI; קובצי התווים נשמרו ללא שינוי, כותרותיהם באנגלית והוראותיהם בעברית כאן. לא צורף מחוון פתרונות ולא נטען שכל שגיאה מכוונת בקטעים נותחה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T12:59:31.885174+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
