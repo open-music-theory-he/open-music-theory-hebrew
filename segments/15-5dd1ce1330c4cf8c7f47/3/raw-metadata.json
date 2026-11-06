@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d4400600d2f38fc21629db0071b9d90f07e491677e85b95495c5a7364841ee39",
+  "identity_sha256": "5dd1ce1330c4cf8c7f47d885d0a4cd4949f71c63057132855874722456ea3e5d",
+  "raw_sha256": "7b76d35117082b43abf885756f1ee05d270e9d060359bb541a468b9bc486535c",
+  "seconds": 40.28,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "השיטה שבה נשתמש נקראת קונטרפונקט לפי סוגים (species counterpoint): הלימוד מתקדם בשלבים, או ״סוגים״, ובכל אחד מוצגות בעיה מוזיקלית חדשה אחת או שתיים. גישה זו קיימת בצורה כלשהי מאז ראשית המאה השבע־עשרה. השיטה שלנו קרובה מאוד לזו שניסח Johann Joseph Fux בספרו Gradus ad parnassum — ״צעדים אל הפרנסוס״, משנת 1725. מלחינים חשובים מהמאה השמונה־עשרה עד המאה העשרים ואחת השתמשו בשיטה זו או בגרסה שלה. פוקס הציע חמישה סוגים, ובהם התקדמות מצירופים של שני קולות עד לצירופים של שישה ושמונה קולות; אנו נתמקד בסוגים הראשון עד הרביעי, בשני קולות בלבד.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:41:19.149716+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
