@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9161e550901848b675b511757deca1b506aa68e2708573b59f7e397efb02111d",
+  "identity_sha256": "68c57d5128c43203fe138c0938129a37894e68e8b2cb3c55311191e8c217819c",
+  "raw_sha256": "02b75c8ee650581804b3732a5dd2f7981e0a96c41f81b3daba8d4b425e4911cf",
+  "seconds": 85.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "28 — הולכת קולות מלודית בסגנון כלי מקלדת\n\nהולכת קולות מלודית קפדנית בסגנון כלי מקלדת (melodic keyboard-style voice-leading) כוללת חיבור של שני קווים מוזיקליים עיקריים — המלודיה וקו הבס. הקולות הפנימיים משניים ומשמשים בעיקר למילוי הרמוני. כל עקרונות הולכת הקולות הטובה בבס רציף חלים גם על כתיבה מלודית בסגנון כלי מקלדת. עם זאת, מאחר שנכללת מלודיה, יש להקפיד על כמה עקרונות חיבור נוספים.\n\nהקולות החיצוניים — המלודיה והבס — מושכים את עיקר תשומת הלב, ולכן עליהם ליצור קונטרפונקט טוב זה עם זה. המלודיה צריכה לפעול בעיקר לפי עקרונות חיבור קנטוס פירמוס או קו קונטרפונקט מן הסוג הראשון. במלודיה קפדנית בסגנון כלי מקלדת פירוש הדבר הוא:\n\nהמלודיה צריכה להתחיל בצליל השייך לאקורד המשולש של הטוניקה.\n\nהמלודיה צריכה להסתיים בדו היחסי (do).\n\nלמלודיה צריכה להיות נקודת שיא אחת ומתאר טוב וחלק.\n\nהמלודיה צריכה להיות ניתנת לשירה, אף שהיא מיועדת לנגינה בכלי מקלדת.\n\nמגבלות מלודיות אלה עלולות להקשות על יישום חוק הדרך הקצרה ביותר ועל תנועה מנוגדת או תנועה שבה קול אחד נשאר במקומו ביחס לבס, ולעיתים אף למנוע זאת. במקרים כאלה יש לשמור על תנועת קולות חלקה ונוחה לנגינה ככל האפשר, ולהיזהר במיוחד משגיאות בהולכת קולות, כגון מקבילות אסורות.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:05:52.515021+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
