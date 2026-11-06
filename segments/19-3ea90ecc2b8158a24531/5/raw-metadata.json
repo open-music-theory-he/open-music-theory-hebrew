@@ -1,0 +1,14 @@
+{
+  "text_sha256": "dbcef4818928238802cce5047f804d47b62f453775a807130e485cba46e4d48d",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "5e5ef3d1726a4c74bfcff6efe9650552d60bf71e6f4e6df6e84b6ef6ad9261b0",
+  "seconds": 57.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הערת המהדורה העברית: שתי השורות המודגשות האחרונות הן מצייני מקום עריכתיים שכבר מופיעים במקור; אין בפרק המקור הזה סרטון הדגמה או רכיבי Trinket. בפסקת הצליל העובר, ההיתר לשני דיסוננסים רצופים הוא חריג לתיאור הבסיסי שבו הצליל העובר מוקף בקונסוננסים. כל הדוגמאות וכללי הפרק שייכים לסוג השלישי בשיטת הספר.\n\nהרחבה מגרסה 2 — בטא: ההסברים והוראות דפי העבודה שלהלן נבדקו מול המקור. דוגמאות התווים בדפי העבודה נשמרו במקורן; כותרותיהם באנגלית. קישורי השמע ושירותי החוץ טרם אומתו במלואם. הרחבה זו מיועדת למהדורת הקריאה וטרם נכללת בספר השמע.\n\nדפי עבודה מגרסה 2: קונטרפונקט מן הסוג השלישי\n\nמקור: פרק קונטרפונקט מן הסוג השלישי בגרסה 2, מאת Mark Gotham ו־Kris Shaffer. ההוראות של שני דפי העבודה מתורגמות להלן במלואן; הקטעים על החַמְשׁוֹת נשמרים בקובצי המקור.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:02:02.968467+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
