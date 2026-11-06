@@ -1,0 +1,14 @@
+{
+  "text_sha256": "3edd0cd9a72ec0793ce359990c3edb52beefe0033b209bb371e37167602dde9e",
+  "identity_sha256": "5dd1ce1330c4cf8c7f47d885d0a4cd4949f71c63057132855874722456ea3e5d",
+  "raw_sha256": "c54d025ce4a3d5422134535f7422a2f7905bb3aa71c88f58ce3ac418db2911f3",
+  "seconds": 83.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ה״בעיות המוזיקליות היסודיות״ שנבחן בקונטרפונקט נוגעות לאופן שבו עקרונות בסיסיים של תפיסה שמיעתית ושל קוגניציה — האופן שבו המוח תופס צליל וממשיג אותו — מתבטאים במבנה המוזיקה המערבית. למשל, המוח נוטה להניח שצלילים הדומים בגובה או בגוון מגיעים מאותו מקור. הוא גם מחפש דפוסים: כשצליל חדש ממשיך או משלים דפוס שנשמע קודם, המוח מניח שהוא שייך לאותה קבוצה. לעומת זאת, הפרת סדירות בסביבה הצלילית עשויה לאותת על סכנה, או לפחות על צורך להקדיש תשומת לב מוגברת ל״אשם״ הצלילי. זיהוי חריגות בסביבה הצלילית והגברת הקשב והאדרנלין בתגובה להן היו חיוניים להישרדות המין האנושי. אותן יכולות גם מאפשרות למוזיקה להשפיע רגשית על אנשים רבים. גם בלי להכיר את המדע ואת הפסיכולוגיה של השמיעה, מלחין או כותב שירים מיומן מתווך בין העקרונות האלה ומשחק בהם.\n\n״מתווך״ ו״משחק״ הן מילים חשובות כאן. מוזיקה שרק מקלה על המוח לפענח ולעבד את הצליל היא משעממת: היא אינה דורשת קשב מוגבר, אינה מאיצה את הדופק, אינה מסמרת את השיער בעורף ואינה מעניקה פרץ קטן של דופמין. מנגד, מוזיקה שמפעילה ללא הרף את תחושת הסכנה המולדת אינה נעימה לרוב המאזינים. לכן, ברוב המוזיקה שנלמד, יסודי במיוחד הריקוד בין מתח להרפיה ובין תנועה למנוחה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:40:42.338782+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
