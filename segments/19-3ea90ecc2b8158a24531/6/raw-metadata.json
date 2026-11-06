@@ -1,0 +1,14 @@
+{
+  "text_sha256": "692ff96c2a60856d690066ea12e12903ca8723a128f29890295e8a2c12f48706",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "1e62f6e57489c9afbef08f819f6c5146a6c9360ff862b623dc35b10ded9578fd",
+  "seconds": 84.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיעים כאן שני דפי עבודה בני עמוד אחד לקונטרפונקט מן הסוג השלישי. בכל דף חלק ראשון לזיהוי של לפחות עשר שגיאות וחלק שני לכתיבת קונטרפונקט חדש; הדוגמאות בחלק הראשון כוללות שגיאות מכוונות ואין כאן פתרון שלהן. בדף A תרגיל הזיהוי כולל עשר תיבות בשני דיאזים, במפתח סול מעל מפתח פה ובמשקל שני חצאים; תרגיל הכתיבה כולל שמונה תיבות בסימן במול אחד, עם חמשה ריקה מעל קנטוס פירמוס במפתח פה. בדף B תרגיל הזיהוי כולל שמונה תיבות בשני במולים, במפתח סול מעל מפתח פה ובמשקל שני חצאים; תרגיל הכתיבה כולל שמונה תיבות ללא סימני היתק, ושתי החמשות כתובות במפתח סול, בהתאם להערה לשים לב למפתחות. בכל ארבעת התרגילים יש מקום לרשום את המרווחים בין החמשות; קווי התשובה והחמשות נשארים ריקים לעבודת הלומד.\n\nחלק 1: זיהוי שגיאות\n\nבחנו באופן ביקורתי את הקונטרפונקט הנתון מן הסוג השלישי לפי ההנחיות. לכל הערה ציינו את הקול או הקולות ואת מספרי התיבות או הפעימות שאליהם מתייחסת השגיאה. רשמו בין החַמְשׁוֹת את מספריהם הדיאטוניים של כל המרווחים; שימו לב למפתחות. רשמו לפחות עשר שגיאות בקטע.\n\nחלק 2: כתיבת קונטרפונקט\n\nכתבו קונטרפונקט מן הסוג השלישי מעל לקו הקנטוס פירמוס הנתון, לפי ההנחיות ובטונליות המז׳ור או המינור שצוינה. רשמו בין החַמְשׁוֹת את מספריהם הדיאטוניים של כל המרווחים; שימו לב למפתחות.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:02:40.335335+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
