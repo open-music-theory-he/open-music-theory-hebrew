@@ -1,0 +1,14 @@
+{
+  "text_sha256": "095947d9794c1a6a8b2b12c95c30e2b11994f83b379c821c7380b0df02b00573",
+  "identity_sha256": "68c57d5128c43203fe138c0938129a37894e68e8b2cb3c55311191e8c217819c",
+  "raw_sha256": "56ed9952e3367bc5ce298f3395ca53dcf2551d4a222e967ad7c58f087f0c18f1",
+  "seconds": 36.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "באופן כללי, אם תפעלו לפי הספרות, תכפילו את צליל האקורד המתאים, תניעו את הקולות העליונים מעט ככל האפשר ובתנועה מנוגדת או בתנועה שבה קול אחד נשאר במקומו ביחס לבס, ותקפידו במיוחד כאשר המלודיה מונעת את סוגי התנועה האלה, הולכת הקולות תישמע חלקה ותהיה קלה למדי לביצוע. אלה מטרותיה של הולכת קולות קפדנית בסגנון כלי מקלדת.\n\nכמה מצבים מסוימים חוזרים לעיתים קרובות מספיק כדי שכדאי לזכור אותם כתבניות מוכנות לשימוש בעת הצורך. ראו את עמוד העזר סכמות להולכת קולות בסגנון כלי מקלדת.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:06:06.540558+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
