@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b653980fd4c4ef151d3d3bf17713bf170448bd126a0408796ec70da50ef55876",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "133e4cf35b587ed7a63f825bdf524ce7dc108175009824cdeb9f0ca8ba28a28e",
+  "seconds": 86.32,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "19 — כתיבת קונטרפונקט מן הסוג השלישי\n\nבקונטרפונקט מן הסוג השלישי, קו הקונטרפונקט נע ברבעים כנגד קנטוס פירמוס בתווים שלמים. יחס קצבי זה, 4:1, יוצר הבחנה גדולה עוד יותר בין הפעימות מאשר בסוג השני: פעימות חזקות (strong beats), שהן הראשונות בתיבה; פעימות חזקות במידה בינונית (moderately strong beats), שהן הרבע השלישי בכל תיבה; ופעימות חלשות (weak beats), שהן הרבע השני והרביעי. הסוג השלישי מציג גם דיסוננס של צליל שכן (neighbor tone), ושתי תבניות קשורות שבהן דיסוננסים יכולים להשתתף בקפיצות.\n\nקו הקונטרפונקט\n\nכמו בסוגים הראשון והשני, הקו צריך להיות נוח לשירה, בעל קו מתאר טוב ושיא יחיד שאינו מתרחש יחד עם שיא הקנטוס. עיקר התנועה הוא בצעדים, עם כמה קפיצות קטנות וקפיצה גדולה מדי פעם לשם גיוון. כמו בסוג השני, תנועה בצעדים צריכה להיות דומיננטית עוד יותר מאשר בראשון, מפני שיש פחות מצבים סבוכים המחייבים קפיצה. אם צריך לקפוץ, העדיפו לעשות זאת בתוך התיבה ולא מעבר לקו התיבה. גם כאן, בדרך כלל רצוי שיהיו שיאים משניים (secondary climaxes), אחד או שניים: תווים נמוכים מהשיא הכללי, המשמשים שיאים מקומיים בחלקי הקו.\n\nפתיחת קונטרפונקט מן הסוג השלישי\n\nהתחילו קונטרפונקט מעל הקנטוס ב־do או ב־sol, ומתחתיו ב־do. פרימות זכות מותרות בצמד הראשון ובצמד האחרון של התרגיל.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:00:03.186441+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
