@@ -1,0 +1,14 @@
+{
+  "text_sha256": "73275d170a623bbd7112cf47c5e8008bc8c8fe58487c9587f225bc4d00743080",
+  "identity_sha256": "853c1f411eecdd76e02f3603f5665ebb043b5b7c753eadd946c2d8f8bccd0e2d",
+  "raw_sha256": "05794910c8cb809f5ce9c92a42728808ea3f337fe7ab44200a6df51b704bb79a",
+  "seconds": 86.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "דף A — עמוד אחד · דף B — עמוד אחד. בכל דף חלק לזיהוי שגיאות וחלק לכתיבה עצמאית. הדוגמאות בחלק הראשון מכילות שגיאות בכוונה; אין לתקן את קובץ המקור במקום לבצע את התרגיל.\n\nחלק 1: זיהוי שגיאות\n\nבחנו באופן ביקורתי את קו הקנטוס פירמוס הנתון לפי ההנחיות. בכל הערה ציינו את מספר התיבה או את טווח התיבות שאליהם מתייחסת השגיאה. רשמו לפחות חמש שגיאות בקטע.\n\nחלק 2: כתיבת קנטוס פירמוס\n\nכתבו קו קנטוס פירמוס מקורי אחד לפי ההנחיות. אורכו יהיה 8–12 תיבות, בתווים שלמים בלבד. פעלו לפי טונליות המז׳ור או המינור שצוינה. בדף A הטונליות המבוקשת היא A מז׳ור, ובדף B — D מז׳ור.\n\nהבהרת המהדורה: הטווח 8–12 הוא דרישת דפי העבודה האלה; הוא מצומצם מן הטווח הכללי של כ־8–16 תווים הנזכר בפרק. אין לשנות את הוראת הדף ל־16 תיבות.\n\nהנחיות קנטוס פירמוס בגרסה 2\n\nיחידת ההנחיות במקור מתארת קו בעל אורך של כ־8–16 תווים; כל תוויו שלמים, ללא גיוון בין משכים ארוכים וקצרים. הקו מתחיל ומסתיים ב־do, ומגיע לטוניקה הסופית בצעד — בדרך כלל re–do, ולעיתים ti–do. כל מעבר בין תווים עוקבים צריך להיות קונסוננס מלודי. המנעד אינו עולה על דצימה, ובדרך כלל הוא קטן מאוקטבה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T12:59:06.381866+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
