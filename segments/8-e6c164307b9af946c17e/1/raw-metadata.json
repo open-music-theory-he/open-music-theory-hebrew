@@ -1,0 +1,14 @@
+{
+  "text_sha256": "3a8474b4190dd0a17065cfd6b93b55f5b49913e79958dc4d3324047c1a9273a3",
+  "identity_sha256": "e6c164307b9af946c17e87bd96e344fab30798c67da0ad3b5b43ee0360331920",
+  "raw_sha256": "36998321e53ad8afffe514203b8789b1f9ce5997e78a98bc7efc6c762ca6599a",
+  "seconds": 79.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "טריולות (triplets) שואלות את החלוקה מן המשקל המורכב, ויכולות להופיע גם ברמת חלוקת הפעימה וגם ברמת חלוקת המשנה, כפי שמודגם להלן.\n\nבגירסה הכתובה מופיע כאן דוגמת טריולות במשקל 3/4. המספר 3 מעל קבוצה של שלוש שמיניות מציין שהן נכנסות בזמן של שתי שמיניות רגילות. בתיבה השנייה מופיעה גם טריולה ברמת שש־עשריות, לצד חלוקות רגילות.\n\nבאותו אופן, אפשר לשאול מן המשקל הפשוט דואולות (duplets) — חלוקה לשניים במקום לשלושה — ולהשתמש בהן במשקל מורכב.\n\nבגירסה הכתובה מופיע כאן דוגמת דואולות במשקל 6/8. מעל זוגות שמיניות מופיע המספר 2: שתי שמיניות ממלאות פעימה שבדרך כלל מכילה שלוש. לצד הדואולות מוצגים גם שלוש שמיניות רגילות, רבעים מנוקדים וחלוקות משנה.\n\nהרחבה מגרסה 2 — בטא: ההסברים והוראות דפי העבודה שלהלן נבדקו מול המקור. דוגמאות התווים בדפי העבודה נשמרו במקורן; כותרותיהם באנגלית. קישורי השמע ושירותי החוץ טרם אומתו במלואם. הרחבה זו מיועדת למהדורת הקריאה וטרם נכללת בספר השמע.\n\nדפי עבודה: תיווי קצב וחלוקות שאולות\n\nכתיבה מחדש במשקל פשוט ובמשקל מורכב\n\nתיווי קצב במשקל פשוט, שני עמודים · תיווי קצב במשקל מורכב, שני עמודים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:38:17.850662+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
