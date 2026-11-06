@@ -1,0 +1,14 @@
+{
+  "text_sha256": "6cd0cf60559ad41631271ed4d1b3bbaf93af1c7937619967b5e02526ec00862a",
+  "identity_sha256": "a01432a9f10196d86a84c5243a7e67bdf8f697dfe723c35842ec27a5932176b4",
+  "raw_sha256": "01085753ae69769fb32c55e21e024b2ccea85f11fe949068e093912ba86786ae",
+  "seconds": 96.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "י״ס באך, סונטה לחליל בדו מז׳ור, פרק שני, BWV 1033. התפקיד העליון מנוגן בחליל; התחתון הוא הבס הרציף, המנוגן בידי נגן מקלדת המשתמש בספרות שמתחת לחַמְשָׁה כדי לקבוע את האקורדים שמעל הבס.\n\nגם כיום נגני צ׳מבלו בהרכבי בארוק מנגנים לעיתים קרובות ביד שמאל את אותו קו ״בס״ שמנגנים הצ׳לים, ומאלתרים ביד ימין אקורדים עם קישוטים תקינים מבחינה קונטרפונקטית, לפי הספרות המצורפות לבס.\n\nאף שרוב תלמידי המוזיקה אינם מתכשרים כמומחים לכלי מקלדת בארוקיים, בס רציף יכול להיות כלי חשוב בלימוד הרמוניה והולכת קולות. בלימוד הרמוניה הוא משמש צמצום הרמוני (harmonic reduction) של מרקם מורכב, המאפשר לבחון ולהבין את השלד ההרמוני שמתחת לקטע. בהכתבה משמיעה, בתעתוק ובניתוח, הבס והמלודיה הם לעיתים קרובות הקווים הבולטים והחשובים ביותר. ידיעת הקשרים הטיפוסיים של הקולות הפנימיים לבס ולמלודיה מסייעת למשימות הקשבה וניתוח משמיעה. בלימוד הולכת קולות, המרקם של הבס הרציף מציע סביבה ישירה להתקדמות הדרגתית בכתיבת קווים מוזיקליים בתוך מרקם הרמוני, בלי להתמקד במידה רבה בהחלטות הרמוניות.\n\nהערת המהדורה העברית: הפרק מתרגם את התיאור ההיסטורי של המחבר, לרבות ההסבר למקור המונח ״ללוות״. טענות אלה לא אומתו כאן במחקר היסטורי נפרד. במשפט האחרון ההרמוניה אינה נעדרת: היא נתונה בתרגיל, ולכן תשומת הלב מופנית בעיקר למימוש ולהולכת הקולות.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:04:17.616543+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
