@@ -1,0 +1,14 @@
+{
+  "text_sha256": "8480edb84e2333ebe3633baa4d8eb39117d3bcd075117a4e7d03041a28ca4d18",
+  "identity_sha256": "9228da797ef8dfb471c3b42c98cbc4c7834851677865929bbea440d4490139e4",
+  "raw_sha256": "4f0d130fee439547599271283db23b6d171d86bf9a73b1f17f96e1567f986383",
+  "seconds": 88.96,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "14 — סוגי תנועה קונטרפונקטית\n\nיש ארבעה סוגי תנועה קונטרפונקטית בין שני קווים מוזיקליים. ההבחנה ביניהם חיונית להולכת קולות טובה, קפדנית וחופשית כאחת.\n\nבתנועה מקבילה (parallel motion), שני הקולות נעים באותו כיוון ובאותו מרווח לפי מספרו הדיאטוני. למשל, שני הקולות בדוגמה הבאה עולים בצעד. שימו לב שגם שני צמדי הצלילים יוצרים אותו מרווח לפי מספרו, סקסטה. הדבר מתקיים תמיד כאשר שני קולות נעים בתנועה מקבילה.\n\nבגירסה הכתובה מופיעה כאן דוגמה לתנועה מקבילה בשני קולות, במפתחות סול ואלט. הקול התחתון עולה מ־C ל־D והעליון מ־A ל־B. שני הקולות עולים והמרווח הדיאטוני ביניהם נשאר סקסטה.\n\nבתנועה דומה (similar motion), הנקראת גם תנועה ישירה (direct motion), שני קולות נעים באותו כיוון אך במרווחים שונים. בדוגמה הבאה שני הקולות יורדים, אך העליון מתקדם בצעד והתחתון בקפיצה. שימו לב שגם המרווח בין הקולות משתנה לפי מספרו הדיאטוני. כך הדבר בתנועה דומה או ישירה, לפי ההבחנה שבפרק זה.\n\nבגירסה הכתובה מופיעה כאן דוגמה לתנועה דומה בשני קולות. הקול התחתון יורד מ־C ל־A והעליון יורד מ־G ל־F. שניהם נעים לאותו כיוון אך במרחקים שונים, ולכן המרווח ביניהם משתנה.\n\nבתנועה מנוגדת (contrary motion), שני הקולות נעים בכיוונים מנוגדים: אחד עולה והשני יורד.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:39:33.863600+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
