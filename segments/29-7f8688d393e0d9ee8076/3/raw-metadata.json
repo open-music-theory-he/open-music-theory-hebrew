@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1971d74b3028093ffc03942bf337aa55e1909165eb653a10bb0585bbbe514a63",
+  "identity_sha256": "7f8688d393e0d9ee80764f6aefda63e5386dc71c63fc2f7fa778873e626b642a",
+  "raw_sha256": "e1da64de526eff546c4295cfbaf9bcf96abd9e225fda80bf1c887099ae5bf7af",
+  "seconds": 95.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן גרסת השמפניה הוורודה של המהלך הקודם. הבס יורד והאקורד האמצעי מסומן 6, אך קולות המימוש וסיום המלודיה משתנים. ההשוואה עם האיור הקודם מבליטה את הגרסה ההרמונית החלופית ולא שינוי במקצב.\n\nיש להשתמש במהלך השמפניה רק להארכת תפקיד הטוניקה.\n\nפתרון מדומה\n\nפתרון מדומה (deceptive resolution) מתרחש כאשר אקורד D5 — 'V' או 'V 7' — אינו מתקדם כצפוי אל 'I' ליצירת קדנצה אותנטית, אלא אל 'V I'. בפתרון המדומה חשוב ש־ti ייפתר אל do, כמו בקדנצה אותנטית, ולא אל la/le. כך הוא ממלא את תפקידו כצליל נטייה, מסייע להצלחת ההטעיה ומונע במינור את הסקונדה המוגדלת הדיסוננטית ti–le. התוצאה היא הכפלה חריגה ב־'V I': הכפלת do במקום צליל הבס.\n\nבגירסה הכתובה מופיע כאן פתרון מדומה של דומיננטה לאקורד 'V I', המסומן D5 ואחריו Tx6. הבס עולה צעד במקום להגיע לטוניקה, וקולות האקורד מסתדרים כך שההרמוניה החדשה מחליפה את פתרון הטוניקה הצפוי. הדוגמה כוללת ארבעה קולות על שתי חַמְשׁוֹת.\n\nבגירסה הכתובה מופיע כאן פתרון מדומה דומה, הפעם מאקורד דומיננטה עם ספטימה. הסימון 7 מתחת לאקורד הראשון מזהה את הספטימה, והרצף D5, Tx6 מוביל שוב לתחליף טוניקה. התווים מציגים את פתרון צלילי הנטייה במימוש ארבע־קולי.\n\nהשמטת הקווינטה\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:08:01.403833+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
