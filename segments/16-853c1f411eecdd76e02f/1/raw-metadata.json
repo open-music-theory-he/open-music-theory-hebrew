@@ -1,0 +1,14 @@
+{
+  "text_sha256": "fa9e2f4e897439bb5aa353e50aa066734f79d9202ab6000d44eba3195437f4f7",
+  "identity_sha256": "853c1f411eecdd76e02f3603f5665ebb043b5b7c753eadd946c2d8f8bccd0e2d",
+  "raw_sha256": "d261dc3b37f6877f110b63ae23da0ca7d21311f6d72daa9cf13005996e989923",
+  "seconds": 88.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "כל מעבר בין תווים עוקבים הוא קונסוננס מלודי.\n\nהמנעד (range), כלומר המרווח בין התו הנמוך ביותר לגבוה ביותר, אינו גדול מדצימה, ובדרך כלל קטן מאוקטבה.\n\nשיא יחיד (climax), שהוא נקודת הגובה המרבית ומופיע במנגינה פעם אחת בלבד.\n\nקשר הגיוני ברור וקו מתאר חלק מן ההתחלה אל השיא ואל הסיום.\n\nתנועה בעיקר בצעדים, אך גם כמה קפיצות, בעיקר קטנות.\n\nאין חזרה על מוטיבים או על תבניות קצרות אופייניות, ״ליקים״.\n\nכל קפיצה גדולה, מקוורטה ומעלה, מלווה אחריה בצעד בכיוון ההפוך.\n\nאין יותר משתי קפיצות ברצף, ואין קפיצות עוקבות באותו כיוון. הקנטוס של פוקס ב־F מז׳ור הוא חריג: שתי הקפיצות היורדות העוקבות מתוות אקורד משולש קונסוננטי.\n\nהצליל המוביל (leading tone) מתקדם לטוניקה.\n\nבמינור, הצליל המוביל מופיע רק בתיבה הלפני־אחרונה; הסובמדיאנטה המוגבהת, הדרגה השישית המוגבהת, משמשת רק במהלך אל אותו צליל מוביל.\n\nנטיות מלודיות\n\nהמאפיינים שלמעלה מפורטים למדי, וחלקם ייחודיים לקונטרפונקט קפדני לפי סוגים. עם זאת, יחד הם מבטאים באופן מפורט נטיות כלליות של מנגינות במגוון סגנונות.\n\nDavid Huron מזהה חמישה מאפיינים כלליים של מנגינות במוזיקה המערבית. הם קשורים לעקרונות התפיסה והקוגניציה שתוארו לעיל, אך מתממשים באופן שונה מעט בכל סגנון:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T12:57:54.172772+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
