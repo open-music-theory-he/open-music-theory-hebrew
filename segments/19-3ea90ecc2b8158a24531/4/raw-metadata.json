@@ -1,0 +1,14 @@
+{
+  "text_sha256": "ce35410977574c0e536771c8aceabb7b0fb456906d22fe01d50213b2d7c4f2ad",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "e64880104d0ba499f34d68e99d0e290279213d82ce972099918f565579a60a9c",
+  "seconds": 91.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "נוטה קמביאטה (nota cambiata) — ״צליל משתנה״ — היא תבנית של חמישה תווים המתווה התקדמות בצעד בין פעימות ראשונות. היא מקיימת אחת משתי התבניות הבאות:\n\nירידה בצעד, ירידה בטרצה, עלייה בצעד ועלייה בצעד.\n\nעלייה בצעד, עלייה בטרצה, ירידה בצעד וירידה בצעד.\n\nבתבנית הראשונה מתקבלת ירידה בצעד בין שתי הפעימות הראשונות, ובשנייה עלייה בצעד. כדי שהנוטה קמביאטה תפעל היטב, התווים הראשון, השלישי והחמישי חייבים להיות קונסוננטיים עם הקנטוס. התו השני דיסוננטי, וממנו יש קפיצה אל השלישי. כמו בשכן הכפול, התבנית הכוללת מפחיתה את ההשפעה השלילית של הקפיצה מן הדיסוננס: היא מוקפת בתנועה בצעדים, ההתקדמות הכוללת היא צעד אחד, והתו הדיסוננטי והתו בפעימה הראשונה הבאה זהים בגובהם.\n\nקונסוננסים\n\nהקונטרפונקט יכול להגיע לצלילים קונסוננטיים ולצאת מהם בחופשיות בצעדים, וגם בקפיצה מקונסוננס אחר, בכפוף לשיקולים הבאים:\n\nכל הקפיצות המלודיות חייבות כמובן להיות קונסוננסים מלודיים.\n\nאחרי קפיצה גדולה צריך לבוא צעד בכיוון ההפוך.\n\nתנועה מן הפעימה הרביעית אל הראשונה הבאה חייבת לעמוד במגבלות שלמעלה להגעה לפעימות חזקות.\n\nהדגמת וידאו\n\nלהוסיף לעיל רכיבי Trinket כדי שהתלמידים יוכלו לבנות את הסכמות\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:01:44.421513+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
