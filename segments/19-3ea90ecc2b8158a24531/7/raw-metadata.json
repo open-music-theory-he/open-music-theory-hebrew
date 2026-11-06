@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d42cb28d1783f89093930bf626f5348e8eb31ce95e4edccc30744004360a319a",
+  "identity_sha256": "3ea90ecc2b8158a24531ad47ca09988165695b75794b10df5a101616be5cdce9",
+  "raw_sha256": "6eb3326c467f1e775ff55fabfefe78508951def5b1928674a34d272862335c17",
+  "seconds": 43.68,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "כללו לפחות שלושה צלילי עיטור, ובהם לפחות שני סוגים שונים, וציינו את הסוג בכל שימוש.\n\nהבהרת המהדורה: המספר שלושה מציין מספר שימושים בצלילי עיטור, והמספר שניים מציין מספר סוגים שונים. אין להפוך את הדרישה לשלושה סוגים שונים.\n\nקרדיט ורישיון: שני דפי העבודה מאת Kyle Gullings, © 2026, CC BY–SA 4.0. מלל פרק המקור מאת Mark Gotham ו־Kris Shaffer. התרגום נעשה בסיוע AI; קובצי התווים נשמרו ללא שינוי, כותרותיהם באנגלית והוראותיהם בעברית כאן. לא צורף מחוון פתרונות ולא נטען שכל שגיאה מכוונת בקטעים נותחה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:02:54.933333+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
