@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b46191152eed79a6a0ec46e4f6c047d9f0ffbb3eaafbf7867d60b16392d1e979",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "cfbd9b4475f51dd495e7744242808b81cba59b6853a8139edea61578d728d9f9",
+  "seconds": 84.56,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הקדמה (anticipation) היא למעשה צליל שהיה יציב אילו לא הגיע מוקדם מדי. בדרך כלל הוא אינו צליל אקורד כשהוא מופיע מיד לפני שינוי הרמוני; עם השינוי בא אחריו אותו צליל, כעת כצליל באקורד החדש. הקדמות מופיעות בדרך כלל בסופי פראזות ויחידות צורניות גדולות יותר.\n\nסינקופה (SYN)\n\nבגירסה הכתובה מופיע כאן קטע תווים עם מלל מושר ואקורדים C דיאז מינור ו־B עם תוספת. תו מסונקף בקול המלודי מוקף בעיגול ומסומן SYN. התיווי מדגים תזמון שבו כניסת הצליל אינה נופלת על הפעימה החזקה המצופה.\n\nסינקופה (syncopation) מתרחשת כאשר דפוס קצבי המופיע בדרך כלל בפעמות חזקות או בחלקיהן החזקים מופיע במקום זאת בפעמות חלשות או בחלקיהן החלשים. כמו בהקדמה, הצליל המסונקף מגיע מוקדם ונוטה להשתייך לאקורד שבפעמה הבאה. בניגוד להקדמה, הוא מחובר בקשת הארכה לצליל באקורד הבא ואינו מנוגן מחדש. במקום להקדים צליל שיישמע שוב באקורד הבא, הוא פשוט מגיע מוקדם.\n\nהשהיה (SUS)\n\nבגירסה הכתובה מופיע כאן דוגמת השהיה. צליל עליון מוכן, מוחזק בקשת בעת תנועת הבס, ואז יורד לפתרון. הספרות 4–3 מתחת לקשת מציינות את המעבר מדיסוננס קוורטה לקונסוננס טרצה מעל הבס.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:10:35.924753+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
