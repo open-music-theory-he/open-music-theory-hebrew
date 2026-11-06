@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c03391ce3f28fbc8eed156ffd2b66fb942cfa0c5c8162aa466decfb183eac5a2",
+  "identity_sha256": "a01432a9f10196d86a84c5243a7e67bdf8f697dfe723c35842ec27a5932176b4",
+  "raw_sha256": "a797448afdd37f58d4074eea720c2fba386afc931623ad063d60c956b7457296",
+  "seconds": 70.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "22 — היסטוריה קצרה של הבס הרציף והולכת קולות בכלי מקלדת\n\nהבס הרציף (basso continuo) הופיע במאה השבע־עשרה כשיטת תיווי מקוצרת לנגני כלי מקלדת, בדרך כלל נגני עוגב בכנסייה, שליוו סולן או הרכב קטן בביצוע יצירה שנכתבה במקור לקבוצה גדולה יותר. למשל, אם שניים או שלושה זמרים נדרשו לבצע יצירה מקהלתית בשמונה קולות, הם יכלו לבחור את התפקידים הבולטים ביותר, ונגן העוגב השלים את היתר. ביצוע חמישה או שישה קווים של מוזיקה מקהלתית קונטרפונקטית יכול להיות אתגר ניכר. לכן נדרשה לנגני העוגב דרך לצמצם את המרקם תוך שימור המבנה המוזיקלי המרכזי התומך בזמרים.\n\nהבס הרציף (thorough bass) נוצר כקיצור הזה. זהו קו מוזיקלי הכולל את הצליל הנמוך ביותר בכל רגע נתון. בדרך כלל לא היה ביצירה תפקיד יחיד שיכול לשמש קו כזה, ולכן נגן העוגב עבר בין הקולות כשהם החליפו רגיסטרים או הפסיקו לשיר. הקו שנוצר, בניגוד לתפקיד ה״בס״ הרגיל, היה ״רציף״ — ומכאן השמות thoroughbass ו־basso continuo.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:03:22.891269+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
