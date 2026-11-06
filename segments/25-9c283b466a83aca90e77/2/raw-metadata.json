@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d5e8302d291ff19fe102e161fe22833e0fbcc6fac8ef3795aedde3bc7f65f207",
+  "identity_sha256": "9c283b466a83aca90e77674cda4addf73ca73b5ad7ceff14e61bdd296b2749a9",
+  "raw_sha256": "46475ba46ecdf357211e576a291289c57f09a14fccf7a16abd01c4bdb578aecb",
+  "seconds": 49.68,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ככל שאנו מכירים סגנון מוזיקלי, נטיותיו הופכות לציפיות (expectations) במחשבתנו. המלחינים יכולים להביא את ציפיות המאזינים בחשבון. אף שהנטיות סובייקטיביות וסטטיסטיות במידה רבה, הידע הסגנוני המשותף והציפייה הפסיכולוגית המשותפת יוצרים מעין שפה כמעט אובייקטיבית. ה״שפה״ המוזיקלית, כמו שפות מדוברות וכתובות, אמינה אך גם ניתנת לשינוי ולהפרה. משמעות היצירה תלויה באמינות הזאת, אך ייחודה תלוי ביכולת למתוח ואף לשבור את ״כללי״ השפה.\n\nלאור זאת, בהמשך לימוד הולכת הקולות נפגוש חריגים רבים יותר להוראות המנחות, גם בהלחנה בסגנון קפדני. ההוראות הנחרצות שלנו יפנו בהדרגה מקום לשפה של נטייה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:05:24.190873+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
