@@ -1,0 +1,14 @@
+{
+  "text_sha256": "cf919873cd209539c1a29925a02f48081a6177042ff6c66e2b1f971e510189db",
+  "identity_sha256": "a01432a9f10196d86a84c5243a7e67bdf8f697dfe723c35842ec27a5932176b4",
+  "raw_sha256": "45ca2c0192f89f2d89e46eae075c9cb8b227d5bec392c28a31b6cb8dfae12d6f",
+  "seconds": 89.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מוזיקאי מיומן יכול היה לנגן את הקו הזה, לעקוב בעין או באוזן אחר התפקידים הקוליים, ולהיעזר בידיעת אלתור הולכת קולות טובה כדי ללוות את הבס באקורדים בעלי היגיון מוזיקלי. לפי הסבר המקור, זו המשמעות הראשונית של המונח ״ללוות״: ללוות קו בס באקורדים. מכיוון שנגני מקלדת עשו זאת תוך תמיכה בסולן או בהרכב קטן, המונח הוחל בהמשך על כל מצב שבו נגן מקלדת ליווה מבצעים הנמצאים במרכז הבמה.\n\nעם התפתחות הטכניקה החלו מוציאים לאור לפרסם צמצומי בס רציף של יצירות להרכבים גדולים, כדי לסייע לקבוצות קטנות יותר. בפרסומים האלה נוספו ספרות (figures) — מספרים מעל קו הבס או מתחתיו. בתחילה הן הופיעו לעיתים רק באקורדים קשים או בלתי רגילים, ובהמשך ליד רוב האקורדים. כך יכלו גם חובבים ותלמידים להשתמש בטכניקה. קווי הבס האלה, המלווים בספרות, נקראו ״בס ממוספר״.\n\nבגירסה הכתובה מופיע כאן קטע במערכת של שתי חַמְשׁוֹת מתוך דוגמת הבס הממוספר של BWV 1033. הקול העליון כתוב במפתח סול ונע בעיקר בשש־עשריות, מעל קו בס במפתח פה ובערכים ארוכים יותר, במשקל 3/4 ובהוראת Allegro. מתחת לצלילי הבס מופיעות ספרות בודדות וצירופים אנכיים, ובהם 6, 9, 6 על 5, 6 על 4 על 3 ו־6 על 4 על 2, המציינים מרווחים שיש להוסיף מעל הבס.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:03:49.200311+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
