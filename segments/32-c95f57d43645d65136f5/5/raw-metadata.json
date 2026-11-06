@@ -1,0 +1,14 @@
+{
+  "text_sha256": "847a634358ff3991b214b061a9713589ced241c75854182b18e1290d6fb7d8fb",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "9624d566c3bf6cd8133d0b52901144e0a1858774f22a77810b25087d7edc885f",
+  "seconds": 90.84,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הרחבה מגרסה 2 — בטא: ההסברים והוראות דפי העבודה שלהלן נבדקו מול המקור. דוגמאות התווים בדפי העבודה נשמרו במקורן; כותרותיהם באנגלית. קישורי השמע ושירותי החוץ טרם אומתו במלואם. הרחבה זו מיועדת למהדורת הקריאה וטרם נכללת בספר השמע.\n\nדף עבודה מגרסה 2: צלילי קישוט\n\nדף העבודה המקורי — PDF, שני עמודים. הוראותיו מתורגמות להלן במלואן; התווים, המספור והסימונים המקוריים נשמרו בקובץ ללא שינוי.\n\nחלק 1: כתיבת צלילי קישוט במרקם של שני קולות\n\nבדף נתונים כמה קווי בס. הוסיפו שלושה צלילים בחַמְשַׁת הסול כדי ליצור לפחות דוגמה אחת מכל אחד מששת סוגי צלילי הקישוט הבאים:\n\nצליל עובר — Passing Tone.\n\nצליל שכן — Neighbor Tone.\n\nאפוג׳טורה — Appoggiatura.\n\nצליל חומק — Escape Tone.\n\nהשהיה — Suspension.\n\nהשהיה הנפתרת בעלייה — Retardation.\n\nזכרו: צליל הקישוט צריך להיות הצליל האמצעי מבין השלושה, ושני הצלילים החיצוניים חייבים להיות קונסוננטיים עם הבס. הקיפו בעיגול רק את צליל הקישוט, ולא את כל שלושת הצלילים, וסמנו את סוגו כראוי.\n\nחלק 2: ניתוח\n\nהקטע הוא “William” מאת Francis Johnson, מס׳ 5 מתוך A New Collection of Cotillions, תיבות 1–16.\n\nהאזינו לקטע כמה פעמים. אפשר לסרוק את קוד ה־QR שבדף או להשתמש בהקלטה המקושרת בפרק.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T19:25:16.213955+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
