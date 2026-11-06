@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b2567127e03438c73d2c4cf17831a240451095af209a1332ceb64752ad82401b",
+  "identity_sha256": "e6c164307b9af946c17e87bd96e344fab30798c67da0ad3b5b43ee0360331920",
+  "raw_sha256": "3d937bba88c3e06d6cf651f575eeb59ed48e16d6b92fd9c3cc3417b936561f31",
+  "seconds": 87.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "8 — קורות וחלוקות קצב שאולות\n\nקורות\n\nחשוב לזכור שהתיווי מיועד לקריאה בידי המבצעים. יש לשאוף תמיד לתיווי שקל ככל האפשר לפענח. לשם כך, בין השאר, מקבצים את המקצבים באופן שמבהיר את יחידת הפעימה ואת חלוקתה. קורות (beams) מחברות לקבוצות תווים באורך חלוקת הפעימה או קצרים יותר, הנמצאים בתוך אותה פעימה.\n\nבדוגמה זו, השמיניות אינן מחוברות בקורות, ולכן קשה לזהות את המשקל התלת־פעימתי.\n\nבגירסה הכתובה מופיע כאן דוגמת מקצב במשקל 3/4 שהשמיניות והשש־עשריות שבה כתובות עם דגלים נפרדים. בתיבה הראשונה רבע וארבע שמיניות; בתיבה השנייה זוג שמיניות, ארבע שש־עשריות ורבע. ללא קורות קשה יותר לראות את שלוש הפעימות.\n\nאם נכתוב מחדש את אותה דוגמה ונחבר בקורה את התווים הנמצאים באותה פעימה, יהיה קל הרבה יותר לקרוא את המוזיקה.\n\nבגירסה הכתובה מופיע כאן אותה דוגמת מקצב במשקל 3/4, הפעם עם קורות המבהירות את הפעימות. השמיניות מקובצות בזוגות, ובתיבה השנייה ארבע השש־עשריות מחוברות בקורה ובקורות משנה. המשכים נשמרו מן הדוגמה הקודמת.\n\nחלוקות קצב שאולות\n\nבדרך כלל, משקל מתאפיין בחלוקה עקבית של הפעימה: לשניים במשקל פשוט ולשלושה במשקל מורכב. לעיתים מלחינים משתמשים בחלוקה לשלושה בתוך משקל פשוט, או בחלוקה לשניים בתוך משקל מורכב.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T01:37:54.103667+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
