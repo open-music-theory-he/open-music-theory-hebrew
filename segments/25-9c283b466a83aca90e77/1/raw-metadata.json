@@ -1,0 +1,14 @@
+{
+  "text_sha256": "932704dedb473c9f3d2898772fd2b1afc5fa4fb5bbddbb0be341d63892a1805a",
+  "identity_sha256": "9c283b466a83aca90e77674cda4addf73ca73b5ad7ceff14e61bdd296b2749a9",
+  "raw_sha256": "50ba5ae82f1e75689dadde72e14ce6455b6e829696b23dafbe56329dc66df13f",
+  "seconds": 64.44,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אף ש״הימנעו מקווינטות מקבילות״ נשמע ככלל במובן היומיומי, כללי הסגנון של מאייר שונים. הם תיאוריים (descriptive): דברים מסוימים נוטים להתרחש תמיד, לעיתים קרובות, לעיתים רחוקות או לעולם לא, במצבים מסוימים. ״הימנעו מקווינטות מקבילות״ היא הוראה מנחה (prescriptive) המבוססת על התצפית התיאורית: מפני שקווינטות מקבילות נדירות בסגנון הזה ומופיעות בו רק במקרים מסוימים, הימנעו מהן בכתיבה הקפדנית שלכם עד שנעסוק במקרים האלה — ותמיד זכרו שלסגנונות אחרים עשויות להיות נטיות אחרות.\n\nהמילה נטיות (tendencies) חשובה. בפרמטרים המוזיקליים שבהם אנו עוסקים כמבצעים, מנתחים, מלחינים ומאזינים, יש מעט קביעות מוחלטות. הדברים המוחלטים בסגנונות המוכרים נעשו מזמן חלק מן הרקע הלא־מודע שלנו. מה שמייחד יצירה, מלחין או סגנון — הדברים שאכפת לנו מהם — הוא הדרכים הקטנות שבהן הם מותחים את ה״כללים״, מבטאים את נטיות הסגנון, מסכלים אותן ומשחקים בהן: הדרכים שבהן הם משחקים בציפיותינו כמאזינים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:05:08.032089+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
