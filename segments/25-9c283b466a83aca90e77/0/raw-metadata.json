@@ -1,0 +1,14 @@
+{
+  "text_sha256": "2111826bc20f20e8459e064e5eccb8eeca657f784f46de4da5196f44cd0e28e0",
+  "identity_sha256": "9c283b466a83aca90e77674cda4addf73ca73b5ad7ceff14e61bdd296b2749a9",
+  "raw_sha256": "140678eafe12e71e4cdd772ff27759dc62bdbb34b522f7b56eef90f09147d7f7",
+  "seconds": 87.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "25 — סגנון ונטייה\n\nבתיאור סגנונות מוזיקליים, לאונרד מאייר מחלק מאפיינים מוזיקליים לשלוש קטגוריות: חוקים (laws), כללים (rules) ואסטרטגיות (strategies). חוקים הם מאפייני מוזיקה המבוססים על הביולוגיה והפסיכולוגיה האנושיות, ולכן הם אוניברסליים פחות או יותר. כללים מותנים תרבותית: אלה סימני היכר של סגנון מסוים, התקפים בו באופן רחב אך שונים בין סגנונות ותרבויות. אסטרטגיות הן הדרכים המסוימות שבהן מלחינים פועלים בתוך סגנון — הדברים הגורמים ליצירתו של מלחין אחד להישמע אחרת משל האחר, גם כאשר שניהם כותבים באותו סגנון.\n\nרוב עקרונות הולכת הקולות או המהלך ההרמוני הם ״כללים״ לפי ההגדרות של מאייר. הם ייחודיים לסגנון מסוים; לעיתים הם משותפים לכמה סגנונות מערביים, אך רחוקים מלהיות אוניברסליים. לכן מועיל לראות בהם מאפיינים משותפים של המוזיקה שאנו מבקשים להבין ולחקות, ולא הוראות מוחלטות של ״חייבים לעשות זאת כך״ לכל עשייה מוזיקלית.\n\nעם זאת, הכללים קשורים גם לחוקים: הם מערכת מסוימת של דרכי פעולה המאזנת בין הדרישות השונות שמציבים עקרונות בסיסיים של תפיסה וקוגניציה שמיעתית אנושית. למשל, האיסור על קווינטות מקבילות הוא דרך מסוימת שבה מלחינים טונאליים מערביים איזנו את המתח בין מיזוג צלילי, תנועה המכוונת ליעד ועצמאות הקווים. יש מקרים דומים רבים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:04:47.397754+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
