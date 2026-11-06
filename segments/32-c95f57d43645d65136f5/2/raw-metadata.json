@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9862557fb24c045447c764b666372fe0721eca88a71773742821b2e389f4ed63",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "e5f7689ef119cd0315ed9d069d2747b2457bd85718d245ab78c0e9a480aede3e",
+  "seconds": 77.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן שתי דוגמאות לאפוג׳טורה המסומנות APP. צליל שאינו שייך לאקורד מודגש בעיגול ומוביל בצעד לצליל הפתרון. קווי הבס משתנים בין הדוגמאות כדי להראות את היחס בין הדיסוננס להרמוניה.\n\nאפוג׳טורה (appoggiatura) היא שכן בלתי שלם מוטעם, שאליו מגיעים בקפיצה, בדרך כלל כלפי מעלה, וממנו ממשיכים בצעד לצליל יציב יותר, בדרך כלל צליל אקורד. הצעד בדרך כלל יורד, ותמיד בכיוון ההפוך לקפיצה הקודמת.\n\nצליל חומק (ESC)\n\nבגירסה הכתובה מופיע כאן שתי דוגמאות לצליל נמלט, המסומנות ESC. צלילים מוקפים בעיגול בקול העליון נכנסים בצעד ויוצאים בקפיצה אל צליל האקורד הבא. הדוגמה מציגה את הדגם בשני כיווני תנועה.\n\nצליל חומק (escape tone), או échappée, הוא שכן בלתי שלם לא מוטעם, שאליו מגיעים בצעד מצליל אקורד, בדרך כלל כלפי מעלה, וממנו יוצאים בקפיצה, בדרך כלל כלפי מטה אך תמיד בכיוון ההפוך לצעד הקודם.\n\nהקדמה (ANT)\n\nבגירסה הכתובה מופיע כאן דוגמה לצליל מקדים המסומן ANT. הצליל בקול העליון נשמע לפני שהבס עובר להרמוניה הבאה, ונמשך או חוזר כשהאקורד החדש מגיע. העיגול מדגיש את המיקום המוקדם שלו.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:10:10.418476+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
