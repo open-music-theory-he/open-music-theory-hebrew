@@ -1,0 +1,14 @@
+{
+  "text_sha256": "7bdf8df08f4c5e1ac784e76e82c02c8d56d4bb987ddf859543a635b2ce28b02d",
+  "identity_sha256": "c95f57d43645d65136f526157045313349e9e3810dea5217cb2fc8c48761476e",
+  "raw_sha256": "2005149395b18f530f34fe4148cb937b71facf815725b6e662244e8da1129553",
+  "seconds": 92.12,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "32 — צלילי קישוט\n\nצליל עובר (PT)\n\nבגירסה הכתובה מופיע כאן דוגמת צליל עובר מעל בס מוחזק. בקול העליון שלושה צלילים עוקבים בצעדים באותו כיוון; הצליל האמצעי מוקף בעיגול ומסומן PT. הוא מחבר שני צלילי אקורד במקום לחזור אל הראשון.\n\nצליל עובר (passing tone) הוא קישוט מלודי, בדרך כלל צליל שאינו באקורד, המופיע בין שני צלילים יציבים, בדרך כלל צלילי אקורד, ויוצר תנועה בצעדים. הדגם הטיפוסי הוא צליל אקורד–צליל עובר–צליל אקורד, הממלא טרצה, כפי שמוצג בדוגמה. אפשר גם להשתמש בשני צלילים עוברים סמוכים למילוי המרווח בין שני צלילי אקורד במרחק קוורטה. צליל עובר יכול להיות מוטעם — בפעמה חזקה או בחלק חזק שלה — או לא מוטעם, בפעמה חלשה או בחלק חלש שלה.\n\nצליל שכן שלם (NT)\n\nבגירסה הכתובה מופיע כאן דוגמת צליל שכן שלם. הקול העליון יוצא בצליל אקורד, נע צעד אל הצליל המוקף בעיגול ומסומן NT, ואז חוזר לאותו צליל. הבס נשאר קבוע לאורך התנועה.\n\nכמו צליל עובר, צליל שכן שלם (complete neighbor tone) הוא קישוט מלודי בין שני צלילים יציבים, בדרך כלל צלילי אקורד; אך הוא מופיע בין שתי הופעות של אותו צליל יציב. גם כאן התנועה מן הצליל היציב לשכן ובחזרה היא תמיד בצעד. הוא יכול להיות מוטעם או לא מוטעם, אך הלא מוטעם שכיח יותר.\n\nדגם שכן כפול (DN)\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-06T13:09:21.730650+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
