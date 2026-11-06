@@ -1,6 +1,6 @@
 {
   "edition": 3,
-  "status": "paused",
+  "status": "running",
   "selected_chapters": [
     1,
     2,
@@ -59,41 +59,8 @@
     119,
     124
   ],
-  "chapters": [
-    {
-      "chapter": 1,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 2,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 3,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 4,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 7,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 8,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 14,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 15,
-      "status": "recorded-needs-listening-review"
-    }
-  ],
-  "reason": "project_quota_limited",
-  "requests": 12,
-  "successes": 11
+  "chapters": [],
+  "reason": null,
+  "requests": 0,
+  "successes": 0
 }
