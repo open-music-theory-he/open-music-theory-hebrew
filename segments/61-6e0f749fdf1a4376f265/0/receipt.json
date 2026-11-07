@@ -1,0 +1,10 @@
+{
+  "text_sha256": "3eb1b325bf7d507c82aa6b56b8d8b7902d88e43536a73dbdad197cc596afba23",
+  "identity_sha256": "6e0f749fdf1a4376f2658bed47c9c579a637c8947485e22b135fe2e0ca2dccf6",
+  "sha256": "38da511682fa1778a4a1dc8a90c4dd957affe5a0dcde796d7301681e71db3e87",
+  "seconds": 84.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "status": "recorded-needs-listening-review"
+}

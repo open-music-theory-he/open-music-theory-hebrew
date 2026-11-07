@@ -1,0 +1,14 @@
+{
+  "text_sha256": "3eb1b325bf7d507c82aa6b56b8d8b7902d88e43536a73dbdad197cc596afba23",
+  "identity_sha256": "6e0f749fdf1a4376f2658bed47c9c579a637c8947485e22b135fe2e0ca2dccf6",
+  "raw_sha256": "5d61459370d25dc446753c21700dd98d4af32261719c26d1175c91318ef47ddf",
+  "seconds": 84.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "61 — רונדו\n\nכמו צורת סונטה, לצורות רונדו היסטוריה ארוכה. בעוד שהסונטה צמחה מפרקי מחול בארוקיים, בעיקר מאיטליה, לרונדו היסטוריה ארוכה יותר, שמקורה בסוגה אינסטרומנטלית צרפתית — rondeaux — שהתאפיינה בחילופים בין חטיבות חוזרות לבין חטיבות מנוגדות, המכונות couplets. בסונטה אינסטרומנטלית או ביצירה סימפונית, רונדו מופיע בדרך כלל בפינאלה מהיר או בפרק שני איטי. כנראה בשל אופיו הקליל יותר, כמעט לעולם אין הוא מופיע כפרק ראשון.\n\nמבחינה מושגית, רונדו פשוט למדי. הצורה מורכבת מחטיבות חוזרות (refrains) המתחלפות באפיזודות (episodes). חומר החטיבה החוזרת הוא אותו חומר לאורך הפרק — לפעמים עם עיטורים קלים או קיצור — והוא נשמע תמיד בטונליות הטוניקה. האפיזודות מנוגדות לחטיבות החוזרות מבחינה טונלית, ובדרך כלל גם מבחינה נושאית. שלא כחטיבות החוזרות, אפיזודות הרונדו אינן חייבות להיות זהות זו לזו במהלך הפרק. לכן, בקנה מידה גדול, רונדו טיפוסי מציג את הצורה ABAC … A: האות A מציינת את החטיבה החוזרת, ו־B ו־C מציינות אפיזודות בעלות חומר נושאי ייחודי. שלוש הנקודות (…) מציינות שמספר החטיבות החוזרות והאפיזודות אינו קבוע, אף שרונדו בן חמישה חלקים, ABACA, הוא בהחלט השכיח ביותר.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:03:00.661243+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
