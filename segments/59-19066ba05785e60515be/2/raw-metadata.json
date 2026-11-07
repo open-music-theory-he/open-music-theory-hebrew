@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9117a55ebe580387cff4c5598a634985010a8d355f7e38bee36492a1277bc948",
+  "identity_sha256": "19066ba05785e60515be71450b006b7477978e8dd5e8011dc4009c0fffc2633e",
+  "raw_sha256": "f5b532182e197f9d3cd4220da621d5940ac02da7ca370d898703d7ad4df924ea",
+  "seconds": 38.56,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בניתוח CAZ יש לשים לב במיוחד לטכניקת הסקוונצות, ובייחוד לסקוונצות D2 ו־A2. לרוב, CAZ קובע ״מודל״ בן שתיים, ארבע או שמונה תיבות, החוזר בסקוונצה מספר כלשהו של פעמים. מודל זה יכול להשתמש בחומר מוטיבי מסבב הנושאים של התצוגה או בחומר חדש.\n\nאחרי קטע של פיצול ליחידות קצרות יותר, CAZ מסתיים ב־HC בטונליות הראשית.\n\n(4) מעבר חוזר: בא אחרי ה־HC. לרוב הוא כולל ״שהייה על הדומיננטה״, ומבחינה מוטיבית עשוי לרמוז מראש לנושא הראשי כדי לבנות ציפייה לרפריזה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:02:33.831644+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
