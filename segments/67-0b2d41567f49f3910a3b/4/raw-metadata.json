@@ -1,0 +1,14 @@
+{
+  "text_sha256": "17094626ee055d32ccddb33c91208650ecd377a474e4395358274bfb7948de0c",
+  "identity_sha256": "0b2d41567f49f3910a3b0e736279b76880651f6c77c87aea8d177a9f7a1268fc",
+  "raw_sha256": "13f37c1d84b84e98dc389a42f187f61774bb5a71c02bfd7f1afe2a5c2b8da76e",
+  "seconds": 11.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "Caplin, William. Classical Form. Oxford University Press, 2000.\n\nGjerdingen, Robert O. Music in the Galant Style. Oxford University Press, 2007.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:15:47.110666+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
