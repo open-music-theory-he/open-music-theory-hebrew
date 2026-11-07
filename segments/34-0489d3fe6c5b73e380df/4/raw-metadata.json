@@ -1,0 +1,14 @@
+{
+  "text_sha256": "e46a2aae4479582716dbcef030660241dd15134bfdc5fcfa54fe4cd02532cb95",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "f18a1e582fed01f60be8af31a01942a969038b554b8a634092b51235ac252976",
+  "seconds": 94.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "Ian Quinn, תאורטיקן מוזיקה מאוניברסיטת Yale, מבחין עוד בין הדרגות בעזרת שלוש קטגוריות: צלילים מפעילי תפקיד (functional triggers), צלילים נלווים לתפקיד (functional associates) ודיסוננסים פונקציונליים (functional dissonances). אלה מסייעות להבין את המאפיינים התפקודיים של אקורדים שדרגותיהם שייכות ליותר מתפקיד אחד, וכן את התנהגותם של צלילים מסוימים בתוך אקורד. הן מסייעות גם להבין אילו דרגות אופייניות לתפקיד יותר או פחות, וכך לקבוע תפקיד כאשר האקורד אינו שלם.\n\nבגירסה הכתובה מופיעה כאן טבלה המבחינה בין צלילים מפעילים, נלווים ודיסוננטיים לפי תפקיד הרמוני. בטוניקה T המפעילים 1 ו־3, הנלווים 5 ו־6, והדיסוננסים 7 וגם 5 כאשר 6 נוכחת. בסובדומיננטה S המפעילים 4 ו־6, הנלווים 1 ו־2, והדיסוננסים 3 וגם 1 כאשר 2 נוכחת. בדומיננטה D המפעילים 5 ו־7, הצליל הנלווה 2, והדיסוננסים 4 ו־6.\n\nבסולפז׳ דו נייד (movable do):\n\nבגירסה הכתובה מופיעה כאן אותה חלוקה תפקודית, הפעם בהברות דו נייד במז׳ור ובמינור. ב־T המפעילים do ו־mi או me, הנלווים sol ו־la או le; ti או te דיסוננטיים, וגם sol אם la או le נוכחת. ב־S המפעילים fa ו־la או le, הנלווים do ו־re; mi או me דיסוננטיים, וגם do אם re נוכחת. ב־D המפעילים sol ו־ti או te, הנלווה re, והדיסוננסים fa ו־la או le.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T05:58:07.491933+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
