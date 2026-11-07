@@ -1,6 +1,6 @@
 {
   "edition": 3,
-  "status": "paused",
+  "status": "running",
   "selected_chapters": [
     1,
     2,
@@ -59,69 +59,8 @@
     119,
     124
   ],
-  "chapters": [
-    {
-      "chapter": 1,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 2,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 3,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 4,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 7,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 8,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 14,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 15,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 16,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 19,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 22,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 25,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 28,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 29,
-      "status": "recorded-needs-listening-review"
-    },
-    {
-      "chapter": 32,
-      "status": "recorded-needs-listening-review"
-    }
-  ],
-  "reason": "project_quota_limited",
-  "requests": 4,
-  "successes": 3
+  "chapters": [],
+  "reason": null,
+  "requests": 0,
+  "successes": 0
 }
