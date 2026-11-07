@@ -1,0 +1,14 @@
+{
+  "text_sha256": "190cbfa7ba096eb239d1a80d0bf69da4923b788ad77cc42c302528a678cd0f89",
+  "identity_sha256": "0b2d41567f49f3910a3b0e736279b76880651f6c77c87aea8d177a9f7a1268fc",
+  "raw_sha256": "c7af1a8f10ed6daca473f0397a963afa7e849486eac67d403f93cce265265c34",
+  "seconds": 74.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "67 — סכמות בסגנון הגלנט — תבניות המשך\n\nשלוש הסכמות שלהלן תוארו לראשונה בידי התאורטיקן בן המאה השמונה־עשרה Joseph Riepel. אלה תבניות המשך (continuation patterns), המופיעות לעיתים קרובות אחרי קו התיבה הכפול הראשון במינואט. Fonte ו־Monte הן תבניות סקוונציאליות; Ponte היא דרך להאריך הרמוניה.\n\nFonte\n\nFonte — באיטלקית ״מזרקה״ או ״באר״; חשבו על ירידה — היא תבנית נפוצה לפתיחת החלק האמצעי המנוגד בצורה תלת־חלקית קטנה. כלומר, היא מופיעה אחרי קו התיבה הכפול במינואט, בטריו של מינואט או בנושא בצורה דו־חלקית מעוגלת. Fonte היא סכמה של מודל וסקוונצה (model/sequence): תבנית בת שתי תיבות חוזרת מיד, דרגה אחת מתחת למקור.\n\nבגירסה הכתובה מופיע כאן תרשים סכמת Fonte, ובו מודל בן שני שלבים וחזרה שלו דרגה אחת נמוך יותר. מעל כל זוג כתוב Strong ואז Weak. בשלב החזק מופיעות במלודיה דרגות 5 ו־4, בבס דרגה 7 ובבס הממוספר 6 על 3; בשלב החלש מופיעות במלודיה דרגה 3, בבס דרגה 1 ובבס הממוספר 5 על 3. חץ המסומן one step lower מחבר את שני הזוגות.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:14:26.026004+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
