@@ -1,0 +1,14 @@
+{
+  "text_sha256": "704cfdc37224468b0b0b84757e0e9c2087617842487215830042fbaf6dd20481",
+  "identity_sha256": "58de32256aff99b630f45799aab321eb695b92fa20adaa8b0bea79d403c233b1",
+  "raw_sha256": "f3e747706a22a857fe81da54225c1297b62e65c84612a0b86d527b8bf685e8f8",
+  "seconds": 88.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "חטיבת האמצע המנוגד רופפת במידה ניכרת מן התצוגה. אף שהיא עשויה להכיל מבנה נושאי כלשהו, בעיקר משפט מוזיקלי, לעיתים קרובות אין בה מבנה כזה. סקוונצות ואזורי טונליות רחוקים אופייניים למדי לחטיבת הסטייה הזאת. בניתוח, מטרתכם היא לזהות את החומר המלודי והמוטיבי ולהבין את המבנה הטונלי.\n\nקטעי אמצע מנוגד מסתיימים ב־'I':HC, היוצרת הפסק הרמוני. בדרך כלל אחרי ה־'I':HC באה ״שהייה על הדומיננטה״ שלאחר הקדנצה.\n\nרפריזה\n\nהמאפיינים המגדירים את תפקיד הרפריזה במינואט הם (1) חזרת הרעיון הבסיסי מחטיבת A בתחילתה, (2) חזרת הטונליות הראשית בתחילתה, ו־(3) PAC מסיימת בטונליות הראשית.\n\nהרפריזה מעתיקה בדרך כלל את מאפייני הנושא ומבנה הפראזות של התצוגה, אך משנה את הנושא המשני כך שיסתיים בטונליות הטוניקה. לעיתים קרובות הרפריזה מרחיבה את הפראזה המסיימת של התצוגה.\n\nטריו\n\nכמו המינואט, הטריו הוא בדרך כלל צורה דו־חלקית מעוגלת או פשוטה. משימתו העיקרית היא לבסס ניגוד מלודי והרמוני. אף שניגוד טונלי למינואט הראשי הוא מאפיין מרכזי של הטריו, לעיתים קרובות הטריו מבטא רק ניגוד מודאלי. כאשר הטוניקה נשארת זהה, למינואט ראשי מז׳ורי עשוי להיות טריו מנוגד המסומן minore, כלומר מינורי. המצב המקביל למינואט ראשי מינורי הוא טריו המסומן maggiore, כלומר מז׳ורי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:08:00.092523+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
