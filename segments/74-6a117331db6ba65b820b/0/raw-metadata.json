@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b611441c0bf91981a4b8e28dc5da38b140d65ab8441ae37ed105ba0a36331c79",
+  "identity_sha256": "6a117331db6ba65b820b4840bd45c60999d25fafdb293643d2e4764b896fe01d",
+  "raw_sha256": "8a64d87125d1f352790ca6297e606a6f2bfa3bdffaa8209d8dc0fa4736bef8f2",
+  "seconds": 106.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "74 — סימטריה ומרכזיות\n\nאפשר לבסס מרכזיות (centricity) במוזיקה פוסט־טונלית בדרכים שונות, לעיתים פשוט באמצעות הדגשה. כאשר מחלקת גובה צליל מסוימת היא בקביעות הנמוכה ביותר, הגבוהה ביותר, החזקה ביותר או הממושכת ביותר בקטע, היא נעשית מעין טוניקה.\n\nמלבד אמצעים אלה, סימטריה של גבהי צליל ו/או של מחלקות גובה צליל היא דרך חדשה שבה יצרו מלחינים פוסט־טונליים מרכזיות במוזיקה שלהם. חקר הסימטריה בכלל מרחיק אותנו מאוד מטכניקות ההלחנה המזוהות בדרך כלל עם מוזיקה טונלית מתקופת הפרקטיקה המקובלת.\n\nסימטריה של גבהי צליל\n\nחשבו על סימטריה של גבהי צליל במונחים של ״מראה״ מוזיקלית. בקטע להלן, מתוך מוזיקה לכלי קשת, כלי הקשה וצ׳לסטה של ברטוק, הכינור השלישי, המסומן 3. Vl., מנגן מחווה הכוללת שני מרווחים יורדים בין גבהי צליל: –5 ואחריו –1. הכינור הרביעי, 4. Vl., משקף זאת ומנגן אותם מרווחים בעלייה: +5 ואחריו +1. מתחת לדוגמה המחוות מוצגות בתרשים מרחב גובה הצליל. אפשר לראות ששילובן יוצר קשת סימטרית.\n\nברטוק, מוזיקה לכלי קשת, כלי הקשה וצ׳לסטה\n\nבגירסה הכתובה מופיע כאן קטע לשני כינורות המסומנים 3. Vl. ו־4. Vl. הכינור השלישי יורד מ־F5 אל C5 ואז B4, במרווחים −5 ו־−1. הכינור הרביעי עולה מ־E4 אל A4 ואז B♭4, במרווחים +5 ו־+1. שתי המחוות כתובות בקשתות ומציגות תנועה משתקפת.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T23:41:06.687647+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
