@@ -1,0 +1,14 @@
+{
+  "text_sha256": "0f1674ec4aa7d69d0f4102a8938148ef414b5fbc7c82b199cb3f30ca7a4b6f90",
+  "identity_sha256": "07d18cbb3fdbc3f26bcf3f0f9cf1ab03f3451ce8725aad4ac313c4447f1b6b46",
+  "raw_sha256": "ad0db3aaa69995c9194d413b4e7a7e9def0b5a3fb70667c172d18990b204bf61",
+  "seconds": 104.44,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "71 — מרווח ומחלקת מרווח\n\nמכיוון שמרווחים תלויים בגבהי הצליל המרכיבים אותם, הקונסוננס והדיסוננס של מרווחים במוזיקה טונלית נקבעים בידי הטונליות עצמה. דמיינו את המרווח G–B♭, טרצה קטנה: בהקשר של G מינור זהו מרווח קונסוננטי. באיות G–A♯ נוצרת סקונדה מוגדלת דיסוננטית. מנקודת מבט טונלית שני המרווחים שונים, אף שבמנותק מן ההקשר הם זהים.\n\nמרווח בין גבהי צליל\n\nבניתוח מוזיקה פוסט־טונלית נרצה לעיתים קרובות להדגיש את הדמיון הזה, במיוחד כאשר מניחים שקילות אנהרמונית של גבהי הצליל. לצורכינו, המרווחים G–B♭ ו־G–A♯ הם אותו מרווח.\n\nמרווח בין גבהי צליל (pitch interval) הוא המרחק בין גבהי צליל, הנמדד בחצאי טונים. לפיכך המרווח מ־G4 ל־A♯5 הוא +15. חשבו כך: אם אתם ב־G4, כמה חצאי טונים צריך לעבור כדי להגיע ל־A♯5? צריך לעלות 15 חצאי טונים.\n\nמרווחים בין מחלקות גובה צליל\n\nמרווחים בין מחלקות גובה צליל (pitch-class intervals) הם המרחק בין מחלקות גובה צליל, הנמדד בחצאי טונים. נחזור למרווח G4–A♯5: כעת מעניינות אותנו רק המחלקות G ו־A♯. כדי לעבור מ־G ל־A♯ במונחי מחלקות גובה צליל, די לעלות 3 חצאי טונים.\n\nמרווחים מסודרים\n\nאפשר לחשב מרווחים אלה תוך התחשבות בסדר הצלילים — G4 ל־A♯5 אינו זהה ל־A♯5 ל־G4 — או בלי להתחשב בסדר, ואז G4 ל־A♯5 זהה ל־A♯5 ל־G4.\n\nמרווח מסודר בין גבהי צליל (ordered pitch interval)\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:17:56.385349+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
