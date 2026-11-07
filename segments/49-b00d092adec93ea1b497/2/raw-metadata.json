@@ -1,0 +1,14 @@
+{
+  "text_sha256": "2cb686e5658c7a3c3fed3fa87f1587a41139093d18801638256235eaf419e43b",
+  "identity_sha256": "b00d092adec93ea1b4978b2b2b001d58a352c73b0ac5f0724e6e9d62a1fa0914",
+  "raw_sha256": "b6299a8bc3f9e9bb51e3c61b17060fc6c3ed6853617408ac4598a2a1c6a36ccb",
+  "seconds": 45.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בדוגמה זו, החלק הראשון בנוי כפריודה פשוטה העוברת מודולציה לדומיננטה ומסתיימת בטונליות זו ב־'V':PAC. אחריו בא אמצע מנוגד, ובו ״שהייה על הדומיננטה״ טיפוסית, התומכת בהארכת 'V 7'. שימו לב שהחומר המוטיבי באמצע המנוגד דומה מאוד לזה שבחלק הראשון. זהו מאפיין טיפוסי של צורה דו־חלקית קטנה: החלק השני אינו מנוגד לראשון באותה מידה כמו בצורת תלת־חלקית קטנה. אחרי האמצע המנוגד, ארבע התיבות האחרונות בדוגמה דומות לפראזת המשך. המוטיב המלודי שנשמע בחומר המנוגד מפוצל ליחידות קצרות יותר ומופיע בסקוונצה; עם הקדמה לתיבה שלפני האחרונה הוא מתחיל מהלך קדנציאלי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:57:14.259805+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
