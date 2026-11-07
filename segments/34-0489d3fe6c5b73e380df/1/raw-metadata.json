@@ -1,0 +1,14 @@
+{
+  "text_sha256": "e6ade6fd280a78b05d18bfd3bf6d5dd6408adeb06a477d9a369f9a7a9ab710f5",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "b6014a1ead5f470789d13dcb127cf908e2df329985b47fc9137410f62389aedf",
+  "seconds": 79.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מאחר שנטייה תלויה בסגנון, לאותו אקורד יכולים להיות תפקידים שונים בסגנונות שונים. למשל, סוגי התפקידים במוזיקה קלאסית שונים מאלה שבשירי פופ ורוק במצעדי Billboard. ואף שיש מאפיינים הרמוניים כלליים המשותפים לרוב המלחינים המערביים במאות השמונה־עשרה והתשע־עשרה — מה שאנו מכנים הפרקטיקה המקובלת (common practice) — בחינה מפורטת יותר מגלה הבדלים חשובים בדרך שבה באך, מוצרט, ברהמס ואחרים מחברים מהלכים הרמוניים.\n\nהעיון הראשון שלנו בתפקידים הרמוניים יתמקד בפרקטיקה המקובלת הכללית המשותפת לרוב המלחינים המערביים במאות אלה. כאשר נבחן סוגות, מלחינים ויצירות מסוימים במסגרתה, נוכל לעסוק בהבדלים הדקים יותר בין מלחינים, וגם להרחיב את העיון מעבר למוזיקה האמנותית המערבית של הפרקטיקה המקובלת, לסגנונות כגון פופ ורוק.\n\nשלושת התפקידים ההרמוניים בפרקטיקה המקובלת\n\nבמוזיקה של הפרקטיקה המקובלת, הרמוניות נוטות להתקבץ בשלוש קטגוריות רחבות של תפקיד הרמוני. שמותיהן המסורתיים הם טוניקה (T), סובדומיננטה (S, המכונה גם קדם־דומיננטה, predominant, בסימונים P או PD) ודומיננטה (D). לכל תפקיד דרגות סולם אופייניות בעלות נטיות אופייניות, וכל תפקיד נוטה להשתתף בסוגים מסוימים של מהלכי אקורדים יותר מאשר באחרים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T00:08:41.769878+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
