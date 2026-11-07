@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4c9655c216050090e64fbeacdcc3d2f2f6d261dcc27a4cae506285e0797ba92e",
+  "identity_sha256": "d221dd58bcdc22b843918b7e5d8edcec39cbcb85e7e8cc672cfc4935abd5e201",
+  "raw_sha256": "38ef03649f903f5d0ec569fef7fafe55006896775c63cd16224c75b20a0fe5c3",
+  "seconds": 92.12,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "האמצע המנוגד, שבין התצוגה לרפריזה, הוא אזור צורני ״רופף״ (loose), המספק ניגוד מלודי והרמוני. בשל מבנהו הפחות הדוק, הוא בדרך כלל אינו מתבטא בטיפוס נושא מוגדר; דווקא חוסר צפיות הוא מאפיין טיפוסי. בכל זאת, אפשר לעיתים קרובות לאפיין קטעים כאלה באמצעות אמצעים המחלישים את ההידוק המבני, כגון פיצול ליחידות קצרות יותר, סקוונצה ומודולציה. כדי ליצור ניגוד הרמוני, האמצע המנוגד נוטה להדגיש הרמוניה של דומיננטה. בסיומו תמיד מופיעה הרמוניה של דומיננטה, המסמנת את סוף החלק, מספקת ניגוד ויוצרת ציפייה לחזרת הטוניקה ברפריזה. הדבר יכול להתבטא ב־'I':HC או ב־'V':PAC; במקרים פשוטים יותר, האמצע המנוגד כולו עשוי להאריך הרמוניה של דומיננטה באמצעות ״שהייה על הדומיננטה״ (standing on the dominant).\n\nדוגמה\n\nבגירסה הכתובה מופיעים כאן שלושה קווי מערכת של נושא לפסנתר מאת מוצרט, ברה מז׳ור ובמשקל שני רבעים. בראש התווים כתוב Tema, ואחריו Andante וסימון מטרונום של רבע שווה 120. הכתיבה כוללת אצבועים, קשתות, הדגשות ודינמיקות. זוג סימני חזרה בסוף החלק הראשון וזוג נוסף בסוף הנושא מחלקים את התווים לשני חלקים חוזרים; בחלק השני חוזר חומר הפתיחה לאחר קטע אמצעי מנוגד.\n\nמוצרט, סונטה לפסנתר ברה מז׳ור, קכל 284, ״Tema con variazione״ — נושא עם וריאציות\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:55:36.230161+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
