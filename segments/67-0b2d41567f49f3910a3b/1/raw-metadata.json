@@ -1,0 +1,14 @@
+{
+  "text_sha256": "60f96cd191d463db499f73f35b7ea257df68cb73d5cd757b09b6f83820445c8a",
+  "identity_sha256": "0b2d41567f49f3910a3b0e736279b76880651f6c77c87aea8d177a9f7a1268fc",
+  "raw_sha256": "83ae42cb54c8c58fd5ec9cdec689520a5f9407691ce647c4804bd92fce9e05a6",
+  "seconds": 91.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מבחינה הרמונית, היחידה הראשונה בת שתי התיבות — המודל — כוללת שני אקורדים, אחד בכל תיבה: דומיננטה שניונית והאקורד העובר טוניקיזציה, שאליו היא מכוונת. תבנית האקורדים הנפוצה ביותר למודל של Fonte היא D7/'I I' T1/'I I' ביחס לטונליות הראשית, כאשר D7 הוא אקורד סקסטה ו־T1 הוא אקורד קווינטה. אפשריים גם ״היפוכים״ אחרים, למשל D4/'I I' T3/'I I'. כאשר המודל פורש את D7/'I I' 'I I', הסקוונצה מטרנספזת אותו מטה אל הטוניקה: D7 T1 של הטונליות הראשית.\n\nלמשל, ניתוח לפי תפקידי הבס של Fonte אופיינית בצורה תלת־חלקית קטנה, שטונליותה הראשית G מז׳ור, נראה כך:\n\nבגירסה הכתובה מופיע כאן קטע תווים קצר במפתחות סול ובס, המציג Fonte בשתי טוניקות מקומיות. מתחת לזוג האקורדים הראשון כתוב Am: D7, T1, ומתחת לזוג השני כתוב G: D7, T1. הזוג השני חוזר דרגה אחת נמוך יותר, וסימני ההיתק מממשים את הדומיננטות המקומיות.\n\nשימו לב למהלכים שאינם קדנציאליים, D7–T1. בדרך כלל היה צריך לפרש מהלכים כאלה כמאריכים תפקיד טונלי — כלומר, תפקיד טוניקה — אך כאן פירוש כזה יהיה קשה. סכמות כוללות לעיתים קרובות מהלכים כאלה. נתחו כל אקורד בפני עצמו וציינו את הסכמה, במקום לנסות לפרש את המהלכים כמאריכים. אכן, הם אינם מהלכי הארכה.\n\nמודל נפוץ למינואט הכולל Fonte הוא:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:14:51.607451+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
