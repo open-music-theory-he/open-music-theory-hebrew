@@ -1,0 +1,14 @@
+{
+  "text_sha256": "8e26f1520ff317f56424982bf0b8a0f2cb7de6ff46ccbca7c54db0a6aa4751dc",
+  "identity_sha256": "9c77ac24fda5a3f1d928563892d08d6d3f9a2f1154cd2139f57265e8f1be2347",
+  "raw_sha256": "602dcbfa6df641102d718828b403cb6af6e838bfee414f7165980405c0ab2ead",
+  "seconds": 51.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "שני ההיבטים המוזיקליים הנחקרים לרוב מבחינת תכונותיהם התפקודיות במוזיקה האמנותית והפופולרית המערבית הם הרמוניה וצורה. חקר התפקידים ההרמוניים והצורניים מוביל להבנת התחביר ההרמוני והצורני (syntax): הנורמות או העקרונות שלפיהם רכיבים מוזיקליים מצטרפים לרצפים בעלי משמעות המתאימים לסגנון. לכן לימוד הרמוניה או צורה אינו רק לימוד הסימון הנכון של אקורדים, פראזות ויחידות. הוא עוסק בפירוש תפקידם של אקורדים, פראזות, יחידות וכדומה בהקשר הרחב שבו הם מופיעים. כמובן, לשם כך נדרשת שליטה בזיהוי הרכיבים היחידים, ומכאן גם בסימונם. אך הזיהוי הוא רק תחילתו של תהליך ניתוח גדול ומעניין הרבה יותר. עבודת הניתוח היא שתוביל להבנה אמיתית של היצירות המנותחות ושל הסגנונות שאליהם הן שייכות.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T00:07:57.043862+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
