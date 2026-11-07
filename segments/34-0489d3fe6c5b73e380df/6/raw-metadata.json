@@ -1,0 +1,14 @@
+{
+  "text_sha256": "ecd5a121bd3e1202f1b50741209ad64e7b8efcbf359d773111de7bac83ca53c3",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "6dec63aa844c3247c11828b1ebf59427eb2665bdbd42f828f8cfd9b1d5ef20a7",
+  "seconds": 102.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן מהלך בארבעה קולות המדגים זיהוי תפקיד של כל אקורד בנפרד. מתחת לתווים מופיע הרצף 'I'–'I V'–'I'–'V'–'I'–'V'–'I', ומתחתיו T–S–T–D–T–D–T. ספרות הבס והיפוכי האקורדים מראים שאותו תפקיד יכול להופיע במיקומים שונים.\n\nבגירסה הכתובה מופיע כאן מהלך שבו אקורדים שונים מאריכים תפקיד הרמוני אחד. מתחת לחלק מן האקורדים מופיעות ספרות רומיות אך בשורת התפקידים מופיעים קווים במקום תפקיד חדש. המהלך נפתח ב־'I' כטוניקה ומתקדם אל 'I V' כסובדומיננטה ואל 'V' כדומיננטה לפני הטוניקה המסיימת.\n\nהדרך השנייה היא מה ש־Quinn מכנה בס פונקציונלי (functional bass). הסימנים משלבים את תפקיד האקורד — T, S, D או Tx — עם ספרה המציינת את דרגת הסולם של צליל הבס. אקורד טוניקה עם do בבס הוא T1, אקורד דומיננטה עם ti בבס הוא D7, וכן הלאה. אם צליל הבס משתנה כרומטית, השתמשו ב־+ או – לציון הגבהה או הנמכה. la ו־ti במינור אינם נחשבים שינוי כזה, מאחר ש־le, la, te ו־ti כולן שייכות למינור; עם זאת, אפשר להשתמש ב־+/– לשם בהירות. אם יש צליל משתנה כרומטית בכל מקום באקורד, הקיפו את סימן הבס הפונקציונלי בסוגריים מרובעים: [S6], [S+4], [T–7], וכן הלאה. לפרטים על אקורדים כרומטיים נפוצים ראו אקורדי סובדומיננטה משתנים כרומטית, אקורדים שניוניים ועירוב מודאלי.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T05:59:05.993607+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
