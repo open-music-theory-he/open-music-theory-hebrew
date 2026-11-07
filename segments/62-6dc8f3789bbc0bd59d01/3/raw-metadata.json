@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d237ebf4917629ab287ceb8b426388d73a1c8efee006a904dfc15ca45946f7e1",
+  "identity_sha256": "6dc8f3789bbc0bd59d01ae6440fc90713fe11bb742b92c7ece6b4d484fc1816b",
+  "raw_sha256": "a3b6f3ed52b5ca005aee27ab591b00cdcdf449f252e703fb3f5e0b1e9fc3982d",
+  "seconds": 48.56,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "המבנה הקדנציאלי הכרחי לחלוטין לקביעת תפקידו של נושא. הדבר נכון עוד יותר למכלול הנושא השני ברונדו. להלן עצות המבוססות על המבנה הקדנציאלי, שישמשו להכוונת הניתוח:\n\nנושאי S מתחילים בטונליות משנית, מסתיימים ב־PAC בטונליות משנית, או שניהם. כלומר, פראזה המסתיימת ב־PAC בטונליות המשנית מבטאת תפקיד S גם אם לא התחילה בה, ולהפך.\n\nפראזות המבצעות מודולציה מקבלות תפקיד TR. כאשר TR אינו מתמזג ב־S, הוא מסתיים בדרך כלל בחצי קדנצה HC בטונליות המשנית.\n\nתפקיד CL בא אחרי PAC בטונליות המשנית.\n\nRT מכיל בדרך כלל 'I':HC, שאחריה עשויה לבוא ״שהייה על הדומיננטה״.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:04:57.217098+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
