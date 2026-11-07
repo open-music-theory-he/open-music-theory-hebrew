@@ -1,0 +1,14 @@
+{
+  "text_sha256": "77862240f4799f070a55b4210fc3caa7e7d98f7921779d04481e1f67cfcf3573",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "711773a89a1e2406a73fbbbdd3de1089081ccec44d1275c88eecd63901249161",
+  "seconds": 68.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בספר זה אנו משתמשים בעיקר בדרך הראשונה — מספרים רומיים ותפקידים הרמוניים, לרבות הארכותיהם — משום שהיא הנפוצה ביותר בתאוריית המוזיקה בצפון אמריקה. עם זאת, בס פונקציונלי יכול לסייע בזיהוי קטגוריות של אקורדים השייכים יחד. למשל, בתרגיל הכתבה או תעתוק אפשר לשמוע re בבס בלי לדעת מהו האקורד המסוים. אם ההקשר מורה שסביר שזה אקורד דומיננטה ולא סובדומיננטה, אפשר לסמנו D2. כך נשלל 'I I', שהוא אקורד סובדומיננטה, אך נשארות אפשרויות דומיננטיות כגון 'V 6 על 4' או 'V I I 6', עד שאפשר להכריע. באופן דומה, בהלחנה עשויות להופיע תבניות הדורשות S4, כאשר האקורד המסוים — 'I V' או 'I I 6' — נקבע לפי הולכת הקולות ולא לפי התחביר ההרמוני. באותו מקום אקורד D4, כלומר 'V 4 על 2', יהיה בלתי מתאים מבחינה תחבירית, בלי קשר להולכת הקולות.\n\nלכן בהתייחסות לאקורדים מסוימים נשתמש במספרים רומיים לזיהוים ובתוויות תפקיד לפירוש מקומם בהקשר. בהתייחסות לקטגוריות רחבות יותר של אקורדים נשתמש לעיתים קרובות יותר בבס פונקציונלי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T05:59:53.623142+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
