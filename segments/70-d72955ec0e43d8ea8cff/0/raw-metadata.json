@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b1224ce0e06f634c68cf576c6638ffedb2dbe564be04958202b65012c6ddac40",
+  "identity_sha256": "d72955ec0e43d8ea8cff17d71275983bf8030e25ed5c382426f8b7bd1f33d210",
+  "raw_sha256": "59bb7131a1ad070b3cd0ba21af61a38efdd3b46660ec3a6e2379eb0c08a31775",
+  "seconds": 88.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "70 — גובה צליל ומחלקת גובה צליל\n\nטונליות היא מערכת טעונה מאוד, שבה דרגות הסולם מקבלות מעין משיכה מגנטית או כוח כבידה אל צלילים אחרים. בטונליות C מז׳ור, B בקר נמשך לטוניקה C, שאר צלילי אקורד הדומיננטה המשולש נמשכים לאקורד הטוניקה, וגם לדרגות האחרות יש תפקידים. איות חשוב ביותר בטונליות של תקופת הפרקטיקה המקובלת: A♭, כדרגה 6 מונמכת, מוביל ל־G; אך G♯, כדרגה 5 מוגבהת, מוביל ל־A. ביסוד ״דרגת סולם״ ו״איות״ עומדים שני מושגים חשובים שישפיעו על לימוד המוזיקה הפוסט־טונלית.\n\nשקילות אוקטבית\n\n״דרגת סולם״ מרמזת על שקילות בין גבהי צליל בעלי אותו איות, הנמצאים במרחק של מספר כלשהו של אוקטבות. C4 שקול ל־C3 ול־C9, וכן הלאה. לכן במושג דרגת הסולם טמון רעיון השקילות האוקטבית (octave equivalence).\n\nשקילות אנהרמונית\n\nאף ששקילות אוקטבית מרכזית להבנתנו את המוזיקה הטונלית, שקילות אנהרמונית (enharmonic equivalence) לרוב אינה כזאת. בטונליות C מז׳ור, A♭ ו־G♯ אינם שקולים, אף שבמנותק מן ההקשר הם נשמעים זהים. האיות מציין לעיתים קרובות נטייה: A♭ יורד ל־G, ו־G♯ עולה ל־A.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:16:14.331204+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
