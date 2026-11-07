@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1b3e8327ce3a85993586c0ce3fdb3df42cb6499d2d9f3959b8b279e467d38636",
+  "identity_sha256": "d221dd58bcdc22b843918b7e5d8edcec39cbcb85e7e8cc672cfc4935abd5e201",
+  "raw_sha256": "b83ccff67e27e2cf1a90802993a94e8c582d639a36fb0c1b26727274bbb0d6fe",
+  "seconds": 74.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "48 — צורה תלת־חלקית קטנה\n\nבדומה לנושאים הקטנים יותר — משפט מוזיקלי, פריודה ונושא היברידי — הצורה התלת־חלקית הקטנה (small ternary) יכולה לשמש לבדה כנושא של צורה המשתרעת על פרק יצירה שלם. עם זאת, היא גדולה יותר: היא בנויה מנושאים, כשם שטיפוסי הנושא הקטנים בנויים מפראזות ומתת־פראזות. בהיותה מבנה מעט גדול יותר, היא מעוררת שאלות מעניינות על ארגון צורני ותפיסה, הנובעות בין השאר מן המסורת ההיסטורית שלה. שאלות אלו יופיעו גם בצורות של פרקים שלמים.\n\nטיפוס נושא זה מתבטא בדרך כלל בשלושה תפקידים נושאיים: תצוגה (exposition, A), אמצע מנוגד (contrasting middle, B) ורפריזה (recapitulation, A).\n\nבגירסה הכתובה מופיע כאן תרשים של צורה תלת־חלקית קטנה. התצוגה יכולה להסתיים ב־I:PAC, ב־I:HC, ב־V:PAC ביצירה במז׳ור או ב־III:PAC ביצירה במינור. אחריה מופיע האמצע המנוגד, שיכול להסתיים ב־V:PAC או ב־I:HC, ולבסוף הרפריזה המסתיימת ב־I:PAC. זוג סימני חזרה מקיף את התצוגה, וזוג נוסף מקיף יחד את האמצע המנוגד והרפריזה.\n\nצורה תלת־חלקית קטנה\n\nשלושה תפקידים נושאיים\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:54:52.827994+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
