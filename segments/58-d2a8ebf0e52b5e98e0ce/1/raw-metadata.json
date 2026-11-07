@@ -1,0 +1,14 @@
+{
+  "text_sha256": "121f6939f68c85e102e3ae96ea95d8050bf558751582dfb4fa902f52565317e5",
+  "identity_sha256": "d2a8ebf0e52b5e98e0cee24bcec9c1f6edde7540bddf7f2dd8daf913805a9f0d",
+  "raw_sha256": "b25086e4299f9cadb387fd000ded51803cb1d85ba9b22b293455ba029aa10c05",
+  "seconds": 90.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "היחס הפשוט ביותר בין תצוגה לרפריזה מופיע בסונטה שבה MC מסוג 'I':HC בתצוגה מלווה מיד ב־S בדומיננטה. בסונטה כזו המלחין יכול לחזור ברפריזה על P–TR בדיוק כפי שהופיעו, ואז לחזור על S–C בדיוק כפי שהופיעו, אך בטרנספוזיציה של קווינטה כלפי מטה. במקרה זה אין כתיבה מחדש (recomposition). כל תיבה ברפריזה מקבילה ישירות לתיבה בתצוגה, באותם גבהים או בטרנספוזיציה של קווינטה.\n\nברוב הסונטות, לעומת זאת, חלק מן המוזיקה של התצוגה נכתב מחדש ברפריזה, לעיתים קרובות כדי ״לבטל״ את המודולציה שהתרחשה בדרך ל־MC מסוג 'V':HC. במקרים כאלה משתמשים במונח תיבות מקבילות (correspondence bars או correspondence measures) לקטעים הזהים בתצוגה וברפריזה, או זהים בטרנספוזיציה. תיבות מתייחסות (referential bars) מתייחסות בבירור לתיבות מסוימות בתצוגה, אך החומר השתנה בהן באופן מהותי כלשהו. קטעים משנים (alterations) הם קטעים ברפריזה שאין להם התייחסות ברורה לקטעים בתצוגה או הקבלה ברורה אליהם.\n\nחומר מקביל, חומר מתייחס וחומר משנה נוטים להופיע ברפריזה בסדר הבא:\n\nתיבות מקבילות: P, ואולי תחילת TR או TR ⇒ FS.\n\nקטעים משנים או תיבות מתייחסות: בעיקר ב־TR או ב־TR ⇒ FS.\n\nתיבות מקבילות: S ו־C, ולעיתים החומר שלפני MC, בטרנספוזיציה לטונליות הראשית.\n\nנקודת החיבור מחדש\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:01:00.440189+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
