@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d10f51ad8d08ec10e91b16b2a205c2abd275ac595afa6e1d74085f94cececf15",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "2fcdf9c0d8016eb4c83e2b8567d0564a8e7a468a91b0dde5b72aebf2006a5ae9",
+  "seconds": 78.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן ניתוח אותו מהלך באמצעות בס פונקציונלי. התוויות T1, D4, T3, S6, D5 ו־T1 מתארות את דרגת הבס והמשפחה התפקודית. בשורה נוספת קווים מציינים המשך של התפקיד ולא אירוע תפקודי חדש.\n\nQuinn תומך גם בשימוש במה שאני מכנה בס פונקציונלי מפורש (interpreted functional bass). שיטה זו משתמשת באותם סימנים, אך בסוגריים עגולים לציון הארכה קונטרפונקטית, ובאותיות קטנות הנוספות בסוף הסימן להסבר תפקידו הקונטרפונקטי של אקורד העיטור: p לצליל עובר (passing), n לצליל שכן (neighbor), 'i באותיות קטנות' לצליל שכן לא שלם (incomplete neighbor), d למחלק (divider) ו־e לעיטור (embellishing). כל אלה מתייחסים לתבנית הולכת הקולות בקול הבס. להלן דוגמה לבס פונקציונלי מפורש.\n\nבגירסה הכתובה מופיע כאן מהלך המדגים טוניקה המוארכת באמצעות אקורדים אחרים. סוגר תחת רצף האקורדים מקשר T1 דרך S6d ו־D2p בחזרה ל־T1. לאחר ההארכה מופיעה D5 ולבסוף טוניקה; ההפרדה בין הארכה להתקדמות תפקודית מוצגת מתחת לתווים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T05:59:33.225785+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
