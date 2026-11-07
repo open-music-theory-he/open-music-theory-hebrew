@@ -1,0 +1,14 @@
+{
+  "text_sha256": "cc5e7e7ca70b76ee2666e7d808a7a88f42e43db1c0416f27aa375e827912a3fc",
+  "identity_sha256": "58de32256aff99b630f45799aab321eb695b92fa20adaa8b0bea79d403c233b1",
+  "raw_sha256": "6d64b51cd31615a1386925a030784ea81538233d42ca96152e60ad5882db70ed",
+  "seconds": 87.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לכל הפחות, יחידת התצוגה של מינואט מכילה בדרך כלל נושא ראשי הדוק — פריודה, משפט מוזיקלי או נושא היברידי — המסתיים בקדנצה אותנטית מושלמת (PAC), או לפעמים בחצי קדנצה (HC). אולם מקובל שתצוגה תהיה מורכבת יותר במבנה ותבטא לא רק נושא ראשי אלא גם תפקיד נושא משני, מעבר וסיום. לא כל התפקידים האלה חייבים להופיע.\n\nנושא ראשי\n\nבתצוגות יש תמיד נושא ראשי. נושא ראשי טיפוסי הוא (1) הדוק ו־(2) מסתיים ב־PAC או ב־HC בטונליות הטוניקה. כאשר התצוגה אינה מבצעת מודולציה, היא מובנת כמבטאת תפקיד של נושא ראשי בלבד.\n\nנושא משני\n\nאם התצוגה מבצעת מודולציה, גם תפקידי מעבר ונושא משני עשויים להופיע. לכל הפחות, נושא משני יסתיים באישור קדנציאלי, בדרך כלל PAC, של הטונליות המשנית. לעיתים קרובות הוא רופף יותר מן הנושא הראשי, ואולי מורחב או מקוצר.\n\nמעבר\n\nאם פראזה מכילה מודולציה באמצעות אקורד ציר המחברת בין הטונליות הראשית למשנית, היא מובנת כמבטאת תפקיד של מעבר. אם פראזה חדשה מתחילה מיד בטונליות המשנית באמצעות מודולציה ישירה, אין תפקיד מעבר.\n\nלעיתים קרובות מאוד המעבר והנושא המשני ״מתמזגים״ בפראזה אחת: TR==>S.\n\nחטיבת סיום\n\nלפעמים הנושא המשני מסתיים ב־PAC, ואחריו באה חטיבת סיום.\n\nאמצע מנוגד\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:07:35.865052+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
