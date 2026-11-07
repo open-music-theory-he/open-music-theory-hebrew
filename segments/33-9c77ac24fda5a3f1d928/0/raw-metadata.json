@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b4f2250c6cf46b0c3a0a39f9e5a93b7e922723bda160a4afed8777995a58a16f",
+  "identity_sha256": "9c77ac24fda5a3f1d928563892d08d6d3f9a2f1154cd2139f57265e8f1be2347",
+  "raw_sha256": "629163511cd07c3851b50df8603e63736be2d878497cc67a08c4eb64b16331b6",
+  "seconds": 60.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "33 — מבוא לתפקידים מוזיקליים\n\nמושג התפקידים המוזיקליים הוא יסוד בניתוח מוזיקלי וחיוני להבנת סגנונות מוזיקליים.\n\nתפקיד מוזיקלי (musical function) מתאר את מקומו של רכיב מוזיקלי מסוים ביצירת יחידה מוזיקלית גדולה יותר. התפקיד קשור מאוד לרעיון הציפייה: כאשר מופיע רכיב מסוים בהקשר מסוים, אילו רכיבים צפויים לבוא אחריו? ובאופן דומה, כיצד רכיב נתון ממלא או מסכל את הציפיות שנוצרו ממה שקדם לו?\n\nלתפקיד מוזיקלי יש בדרך כלל שני מאפיינים מגדירים: מאפייני הרכיבים הנוטים להשתייך אליו, כגון הצלילים הנוטים להיכלל באקורד; וסוגי הרכיבים או התפקידים הנוטים להופיע לפניו או אחריו ברצף מוזיקלי. הדבר תלוי לחלוטין בתבניות האופייניות לסגנון מוזיקלי. סגנונות שונים עשויים להציג תפקידים שונים או התנהגויות שונות של אותם תפקידים. חקר התפקיד וחקר הסגנון קשורים זה בזה ללא הפרד.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T00:07:40.922273+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
