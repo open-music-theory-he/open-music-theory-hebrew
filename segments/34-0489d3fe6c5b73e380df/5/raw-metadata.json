@@ -1,0 +1,14 @@
+{
+  "text_sha256": "7c09c7902a977326af37dab26c7b7457e8c66ec0373e82d2698ca6f5efad686e",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "890347dc2e761094f0e444bc8b313813835a2f01c6a4af705d989da438b319fe",
+  "seconds": 93.8,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "כדי לקבוע את תפקיד האקורד, מצאו את התפקיד הכולל את כל דרגות הסולם שבאקורד, בלי להתחשב בשינויים כרומטיים: למשל, התייחסו ל־♯4 כמו לדרגה 4 רגילה. אם יותר מתפקיד אחד כולל את כל הדרגות, בחרו בתפקיד שמספר הצלילים המפעילים אותו באקורד הוא הגדול ביותר.\n\nלעת עתה יש לכך חריג אחד: אקורד הכולל את הדרגות 6, 1 ו־3 הוא סוג מיוחד של אקורד טוניקה, המכונה טוניקה מעורערת (destabilized tonic). Quinn משתמש עבורו בתווית המיוחדת Tx, ולא רק T.\n\nשימו לב גם שדרגותיו של אקורד 'I I I 7' אינן נכללות כולן באף אחד משלושת התפקידים. לכן הוא יכול להתנהג בדומה לאקורדי T או D, בהתאם להקשר. בצורתו הדיאטונית הוא אקורד נדיר.\n\nדף העזר הזה יסייע בקביעת תפקיד אקורד לפי דרגת הבס ו/או המספר הרומי.\n\nסימון אקורדים\n\nנשתמש בשתי דרכים לסימון אקורדים לפי תפקידם. הראשונה היא מספרים רומיים, ספרות בס ממוספר ותוויות תפקיד. הניחו את המספר הרומי המתאים מתחת לקו הבס, את ספרות הבס הממוספר מעל לקו הבס — משום שהן מייצגות את הקולות העליונים — ואת תווית התפקיד T/S/D מתחת למספר הרומי. בדרך זו אין משתמשים ב־Tx; אקורד 'V I' יסומן פשוט T. לעת עתה אפשר להצמיד T, S או D לכל אקורד בפני עצמו. בהמשך נשנה מעט את הנוהג כדי להציג הארכת תפקיד. הדוגמה הראשונה מציגה תפקידים של אקורדים יחידים, והשנייה הארכת תפקיד.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T05:58:39.725952+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
