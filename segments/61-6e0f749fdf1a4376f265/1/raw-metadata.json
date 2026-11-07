@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d0c3b8bf21bffac5c246a2e493b507101d957b888ab7a1a9d6c50f3673ebc7e6",
+  "identity_sha256": "6e0f749fdf1a4376f2658bed47c9c579a637c8947485e22b135fe2e0ca2dccf6",
+  "raw_sha256": "4f0125b90ee982ba77e7e9108ce29139e83a5ebf1d758c55f6d93664918c738f",
+  "seconds": 51.32,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אף שהרונדו פשוט מבחינה מושגית, בפועל הוא עשוי להיות הצורה הקשה ביותר לתיאור תאורטי ולעיסוק אנליטי. הסיבה העיקרית היא שמלחינים שונים השתמשו בתבנית הרונדו הפשוטה שתוארה לעיל בדרכים שונות. כדי לסייע בהתמודדות עם השינויים האלה, נסווג רונדו לשני טיפוסים: (1) רונדו בן חמישה חלקים, ABACA, ו־(2) סונטה־רונדו, ABACABA. ההבדל העיקרי ביניהם, שנדון בו בפירוט בחומרי העזר האחרים על רונדו, הוא שבסונטה־רונדו החטיבה החוזרת הראשונה והאפיזודה הראשונה יוצרות תצוגת סונטה מלאה, החוזרת כרפריזה בחטיבה החוזרת השלישית ובאפיזודה השלישית, כאשר האפיזודה מועתקת לטונליות הטוניקה. לימוד הזיהוי של סוגי התפקיד הנושאי השכיחים בצורות רונדו הוא צעד ראשון חשוב.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:03:16.736481+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
