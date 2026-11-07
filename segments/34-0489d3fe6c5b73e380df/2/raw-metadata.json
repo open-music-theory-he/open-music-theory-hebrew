@@ -1,0 +1,14 @@
+{
+  "text_sha256": "f77efd2e7488af5298b8c476808b061fc27161490d16fdc4702e9f2f3b0712de",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "90a81ba1e77526c6469d549f502a399ab6bb3fbc9ca96077965eb31cb8baa95d",
+  "seconds": 100.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אם אתם כבר מכירים היטב מספרים רומיים, תוכלו לחשוב באופן כללי על 'I', 'I I I' ו־'V I' כטוניקה, על 'I I' ו־'I V' כסובדומיננטה ועל 'V' ו־'V I I' כדומיננטה. עם זאת, כפי שתראו בהמשך, התמונה מורכבת יותר.\n\nכדי להמחיש את הקטגוריות חשבו על האקורדים המשולשים הרגילים של C מז׳ור המסודרים במעגל טרצות. כל אקורד נמצא בין שני האקורדים המשולשים שעימם הוא חולק את מספר הצלילים המשותפים הגדול ביותר: C מז׳ור — C, E, G — נמצא בין E מינור — E, G, B — ובין A מינור — A, C, E. כל אחד משניהם חולק שני צלילים עם אקורד C.\n\nבגירסה הכתובה מופיע כאן מעגל אקורדים דיאטוניים של C מז׳ור בסדר טרצות. בראש C, ומסביב Em, G, B מוקטן, Dm, F, Am. האיור מקשר אקורדים בעלי צלילים משותפים באמצעות סמיכות במעגל.\n\nאם נמיר את האקורדים למספרים רומיים ביחס ל־C מז׳ור, נוכל לראות את התפקידים. התפקיד נקבע לפי נטיות הצלילים המשותפים; לכן האקורדים, המקובצים בתרשים לפי צלילים משותפים, מקובצים בו גם לפי תפקיד.\n\nבגירסה הכתובה מופיע כאן מעגל תפקידים הרמוניים עם אזורים צבעוניים חופפים. אזור הטוניקה כולל 'I', 'I I I', 'V I'; הסובדומיננטה 'I V' ו־'I I'; הדומיננטה 'V' ו־'V I I'. צורת המעגל מדגישה יחסי קרבה בין דרגות, והאליפסות מזהות את שלוש המשפחות התפקודיות.\n\nאקורדים משולשים במעגל טרצות, עם תוויות התפקידים ההרמוניים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T00:09:07.209493+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
