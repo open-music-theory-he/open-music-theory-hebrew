@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c7bceabc4afb90f01f9aabe7e87a1ff879111407ff8df4d6e89a99fa4385f8d7",
+  "identity_sha256": "dcf21ca6397c0225b674a9b5a04a7ac14d597e34a08953bcb12d5c25447bee48",
+  "raw_sha256": "e4fc526b7418e92ca148673444e99ae54ce1fd0b54fd38c0046d73516187b370",
+  "seconds": 83.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לעיתים קרובות מבוא ו/או קודה ממסגרים את המבנה תצוגה–פיתוח–רפריזה. אף שפעילות מוזיקלית חשובה עשויה להתרחש ביחידות אלה, הן נמצאות מחוץ לסונטה במובנה המצומצם. המרכיבים המהותיים של הסונטה, וכן אלה הדומים די הצורך מיצירה ליצירה כדי שנוכל להכליל לגביהם היטב, מתקיימים בתצוגה, בפיתוח וברפריזה. אף שנעסוק בחומרי מבוא וקודה בניתוחים בכיתה, וגם עליכם לעסוק בהם בניתוחיכם, תכונותיהן של יחידות אלה אינן מכוסות בחומרי העזר המקוונים האלה.\n\nהערת מהדורה: המשפט האחרון נשמר מן המקור, אך במהדורת המקור הנמצאת במאגר יש גם פרק על יחידות מסגרת, מבוא וקודה, שכבר תורגם. אי־ההתאמה מתועדת בהערה N107.\n\nפרטים נוספים\n\nיתר חומרי העזר על סונטה באתר זה ערוכים בעיקר כדפי עזר. במקום להסביר את הפרטים צעד־צעד כמו בספר לימוד טיפוסי, הם מציגים בתמציתיות רבה ככל האפשר את המאפיינים המגדירים של המרכיבים שתוארו. תמציתיות זו תועיל לכם כאשר תפנו במהירות לחומרי העזר בזמן ניתוח. עם זאת, היא גם תחייב אתכם להתמודד איתם בהקשר של יצירות ממשיות כדי להבין אותם היטב. אם רק תקראו את חומרי העזר, לא תבינו את צורת הסונטה. עליכם להשתמש בהם תוך האזנה למוזיקה וניתוחה, כדי להטמיע את המידע ולפתח את המיומנויות הדרושות ליישומו המוזיקלי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:00:04.666903+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
