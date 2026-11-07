@@ -1,0 +1,14 @@
+{
+  "text_sha256": "6180cc0c4c016aa3238ec3faa5dc9786bd0b2c76d88b74886bec6d626e6fba82",
+  "identity_sha256": "07d18cbb3fdbc3f26bcf3f0f9cf1ab03f3451ce8725aad4ac313c4447f1b6b46",
+  "raw_sha256": "d9ef425e9fcf51333c7bfb5ee3bdc091e697e69c1c4e2d8de983323f7d522115",
+  "seconds": 78.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים מרווח בלתי מסודר בין גבהי צליל על קו כרומטי מ־C4 עד B5. קשת דו־כיוונית מחברת את G4 ואת A♯5 ומסומנת unordered pitch interval 15. אין סימן חיובי או שלילי, משום שכיוון התנועה אינו נכלל במדידה.\n\nהמרווח הבלתי מסודר מ־G4 ל־A♯5 הוא 15.\n\nמרווח בלתי מסודר בין מחלקות גובה צליל — מחלקת מרווח (interval class)\n\nבגירסה הכתובה מופיע כאן מעגל יחיד של מחלקות גובה צליל, 0 עד 11. שתי קשתות מחברות את מחלקות 7 ו־10: המסלול הקצר מסומן 3 והמסלול הארוך מסומן 9. הכיתוב unordered pitch-class interval מצביע על בחירת המרחק הקצר, ולכן מחלקת המרווח היא 3.\n\nהמרווח הבלתי מסודר מ־G ל־A♯ הוא 3.\n\nסיכום\n\nשילובים שונים של מרווח בין גבהי צליל, מרווח בין מחלקות גובה צליל, מסודר ובלתי מסודר, יוצרים ארבע תפיסות שונות של מרווח. כדי להבין אותן ואת שימושיהן בניתוח, חשבו עליהן כרצף מן המוחשי ביותר — המרווח המסודר בין גבהי צליל — אל המופשט ביותר: המרווח הבלתי מסודר בין מחלקות גובה צליל.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T23:39:38.985521+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
