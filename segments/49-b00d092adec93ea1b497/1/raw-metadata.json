@@ -1,0 +1,14 @@
+{
+  "text_sha256": "aea64f0a180c151b63983352d293fde00c58e723bcfcf3397e7928e57564df84",
+  "identity_sha256": "b00d092adec93ea1b4978b2b2b001d58a352c73b0ac5f0724e6e9d62a1fa0914",
+  "raw_sha256": "ad4108552293cae308fa00e8caef0c387501d2cf8f5b1f407a1ad0b78677df10",
+  "seconds": 65.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "החלק השני מתחיל לעיתים קרובות בדומה לאמצע מנוגד. ואולם, החומר שאחרי האמצע המנוגד אינו רפריזה: אילו היה רפריזה, הנושא היה צורה תלת־חלקית קטנה. במקום זאת, חומר זה מופיע במגוון צורות. לעיתים קרובות הוא דומה לאחת מ״הפראזות המסיימות״ (after-phrases) הנפוצות — פראזת המשך, פראזה עונה או פראזה קדנציאלית. בסגנון הקלאסי, החלק השני של צורה דו־חלקית קטנה מסתיים תמיד ב־'I':PAC.\n\nדוגמה\n\nבגירסה הכתובה מופיע כאן נושא לכינור ולפסנתר מתוך הסונטה של מוצרט בלה מז׳ור, קכל 305, בכותרת Tema con variazioni ובהוראת Andante grazioso. הקטע כתוב במשקל שני רבעים ומחולק לשני חלקים חוזרים: החלק הראשון מסתיים בסימן חזרה לאחר מעבר לדומיננטה, והחלק השני מסתיים בסימן חזרה בטוניקה. בחלק השני נראים תחילה חומר מנוגד והארכת דומיננטה, ולאחריהם פיצול של המחווה המלודית, סקוונצה ומהלך קדנציאלי בארבע התיבות האחרונות.\n\nמוצרט, סונטה לכינור בלה מז׳ור, קכל 305\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:56:59.839468+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
