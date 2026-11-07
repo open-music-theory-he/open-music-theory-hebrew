@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c2bc94e60f6b4ad64547b81716a6f124925147e60900a4267d2d1e62ca8ba65e",
+  "identity_sha256": "8006611b1c97debc3654a44335af052c23191d744c5223e0a4311dc43f6a3fb1",
+  "raw_sha256": "e75ffbb7a870eb020c484fba78a50151d46d64addb81ad964e85e3c644031d78",
+  "seconds": 58.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "63 — צורת רונדו בת חמישה חלקים\n\nרונדו בן חמישה חלקים מכיל שלוש חטיבות חוזרות (refrains), שביניהן שתי אפיזודות (episodes): ABACA. לעיתים נשתמש באותיות הקיצור האלה, A, B וכן הלאה, לסימון רונדו; אך התרגלו לסמן את החטיבות כ״חטיבה חוזרת 1״, ״חטיבה חוזרת 2״, ״אפיזודה 1״ וכדומה, כדי למנוע דו־משמעות עם צורות המוטמעות בתוך החטיבות ברמה נמוכה יותר.\n\nהאפיזודות ברונדו בן חמישה חלקים הן נושאים פנימיים (interior themes) או מכלולי נושא שני (second-theme complexes). מכלול נושא שני שכיח באפיזודה 1 יותר מאשר באפיזודה 2. לעיתים קרובות החזרות של החטיבה החוזרת מעוטרות או מקוצרות.\n\nצורת ה־rondeau הישנה יותר, שממנה נגזר טיפוס צורני זה, יכלה לכלול הרבה יותר חטיבות חוזרות ואפיזודות. לכן לעיתים תמצאו בסגנון הקלאסי רונדו בן שבעה חלקים, ואפילו בן תשעה חלקים.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:05:19.698423+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
