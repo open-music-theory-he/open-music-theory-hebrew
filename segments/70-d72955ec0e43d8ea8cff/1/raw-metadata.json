@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c9fa1268e8f033f9c2f7b7bd2a8b47bf9903e25e698181e1d8dc0820d7c430ec",
+  "identity_sha256": "d72955ec0e43d8ea8cff17d71275983bf8030e25ed5c382426f8b7bd1f33d210",
+  "raw_sha256": "1fb59d39aeda8aadd72e203669806fdf7a4a1061aa11ec4fb10d95b0e9d37d03",
+  "seconds": 73.44,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "במוזיקה פוסט־טונלית מניחים לעיתים קרובות שקילות אנהרמונית, עם חריגים כמובן. מכיוון שמלחינים רבים כבר לא חשו מוגבלים בידי מרכז טונלי, יחסי המשיכה בין הצלילים המוכרים ממוזיקה טונלית אינם חשובים באותו אופן. לכן אפשר להתייחס ל־A♭ ול־G♯ כייצוגים של אותו הדבר.\n\nגובה צליל\n\nגבהי צליל (pitches) הם צלילים מובחנים בעלי תדרים מסוימים. מושג גובה הצליל אינו מניח אפוא שקילות אוקטבית. C4 הוא גובה צליל, ואינו אותו גובה צליל כמו C3.\n\nמחלקת גובה צליל\n\nמחלקות גובה צליל (pitch classes) הן גבהי צליל תחת שקילות אוקטבית, שגם מאויתים באותו אופן. A4, A3, A2 וכן הלאה שייכים כולם למחלקת גובה הצליל A.\n\nמרחב גובה הצליל (pitch space)\n\nבגירסה הכתובה מופיע כאן תרשים של מרחב גובה צליל על קו ישר הממשיך לשני הכיוונים. סימוני חצאי הטון עולים כרומטית מ־C4 עד B5. קשת מחברת את C4 ואת C5, ומעליה הכיתוב unique pitches, same pitch class: שני גבהי צליל נפרדים השייכים לאותה מחלקת גובה צליל.\n\nסימון במספרים שלמים\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:16:34.791327+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
