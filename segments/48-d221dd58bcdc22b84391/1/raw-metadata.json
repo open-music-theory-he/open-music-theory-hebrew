@@ -1,0 +1,14 @@
+{
+  "text_sha256": "f11f7b913b278f50439b50949b83276646a1912268510fea44069e70087debb5",
+  "identity_sha256": "d221dd58bcdc22b843918b7e5d8edcec39cbcb85e7e8cc672cfc4935abd5e201",
+  "raw_sha256": "77c88bdf862a0d92098878215768027bcf9aee0e61a774919f79af2c162f22e8",
+  "seconds": 57.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "התצוגה והרפריזה הן תפקידים בעלי מבנה ״הדוק״ (tight-knit), המתבטאים בדרך כלל באחד מטיפוסי הנושא הקטנים. כל אחת מסתיימת בקדנצה. לרוב תצוגה של צורה תלת־חלקית קטנה מסתיימת ב־'I':PAC, אך היא יכולה גם לעבור מודולציה לטונליות קרובה. ביצירות במז׳ור, מודולציה טיפוסית תניב תצוגה המסתיימת ב־'V':PAC; במינור, הטונליות של המדיאנטה ('I I I':PAC) נפוצה יותר.\n\nהרפריזה באה אחרי האמצע המנוגד, ומזוהה בחזרת חומר נושאי מן התצוגה. בדוגמאות הפשוטות ביותר היא עשויה להעתיק את התצוגה כמות שהיא. בדרך כלל, עם זאת, נעשים שינויים, ובהם הרחבות וצמצומים. שינויים נפוצים במיוחד — ולמעשה נחוצים — כאשר התצוגה מסתיימת בקדנצה בטונליות שאינה הטוניקה: הרפריזה מסתיימת תמיד ב־'I':PAC. לכן, אם התצוגה עברה מודולציה, יש לשנות את הרפריזה כדי שתסתיים בטוניקה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:55:10.179255+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
