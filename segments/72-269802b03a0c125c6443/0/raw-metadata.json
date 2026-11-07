@@ -1,0 +1,14 @@
+{
+  "text_sha256": "998e9704492d3440966f74669ffc22967f92de7e6c61bc280848347568ded905",
+  "identity_sha256": "269802b03a0c125c6443d6c29200358aa903468ef1cd6452c398b946be890049",
+  "raw_sha256": "27d53f425c6c2f2fbcdb86589b7b3585f1dc812af34746e66dab99203e43c7c3",
+  "seconds": 101.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "72 — חשבון מודולרי\n\nמה השעה ארבע שעות אחרי השעה עשר?\n\nכשאנו מחשבים חישוב כזה, אנו משתמשים בחשבון מודולרי (modular arithmetic). הוא דומה לחשבון רגיל, אך המספרים ״מסתובבים וחוזרים״ או מתחילים מחדש בהגיעם לערך מסוים, המכונה מודולוס (modulus). בשעון בן 12 שעות המודולוס הוא 12.\n\nלעיתים קרובות אפשר להבין מבנים מוזיקליים בצורה הטובה ביותר באמצעות חשבון מודולרי. חשבו על סולם C מז׳ור: מתחילים ב־C, ואז D, E, F, G, וחוזרים ל־A, לפני B והחזרה ל־C. זו מערכת מחזורית שאפשר לכנות באופן ציורי ״מודולו־G״, שכן אחרי G חוזרים לתחילת האלפבית, A.\n\nבמוזיקה פוסט־טונלית, לאחר הנחת שקילות אוקטבית ואנהרמונית, הסביבה שלנו כוללת 12 מחלקות גובה צליל שונות, כמו 12 השעות בשעון. במרחב זה חשבון מודולרי הוא דרך מועילה מאוד לדמיין את המעבר בין המחלקות.\n\nהספירה בעולם של מודולו 12 (modulo 12, או mod12) פועלת כמו בחשבון בסיסי — ״1, 2, 3, ...״ — אך אחרי 11 מתחילים מחדש ב־0. שימו לב: שעונים מתחילים ב־1 ומסתיימים ב־12, ואילו חשבון מודולרי מתחיל מחדש תמיד באפס. בכיוון ההפוך, בספירה יורדת ״10, 9, 8, ...״, אחרי 0 מגיע 11.\n\nאף שאנו רגילים לדמיין מספרים על ישר אינסופי, החשיבה המודולרית מקפלת אותם למספר סופי של ערכים, המיוצג בדרך כלל במעגל. במעגל זה כל ערך הוא מספר בין 0 ל־11.\n\nמרחב מחלקות גובה הצליל\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T23:40:10.218335+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
