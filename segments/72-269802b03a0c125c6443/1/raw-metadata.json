@@ -1,0 +1,14 @@
+{
+  "text_sha256": "15795d3ac328993eb0261aa99848afebc6f84faf0b3aa0a735e7446a6d066178",
+  "identity_sha256": "269802b03a0c125c6443d6c29200358aa903468ef1cd6452c398b946be890049",
+  "raw_sha256": "5d68404d2553386fd2d9e5a3222b5604e6f3b317e17f5e6239ddad4e377e3c2c",
+  "seconds": 99.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן מעגל של שנים־עשר ערכי מחלקות גובה, 0 עד 11. הערכים מסודרים עם 0 בראש המעגל ואחריו 1 עד 11 בכיוון השעון. מעל 0 מופיעה הדוגמה C4, C3, C2, B♯7 וכן הלאה, וחץ מראה שכל הגבהים האנהרמוניים והאוקטביים האלה שייכים למחלקת גובה 0.\n\nחיבור וחיסור\n\nלחיבור או לחיסור ב־mod12, בצעו את החישוב כרגיל, למשל 7 + 15 = 22, ואז הוסיפו או החסירו כפולות של 12 עד שתגיעו למספר בין 0 ל־11: 22 - 12 = 10.\n\nחיבור וחיסור יכולים לייצג רעיונות מוזיקליים רבים: עלייה של שבעה חצאי טונים מ־D מביאה ל־A, כלומר 2 + 7 = 9; צירוף שני חצאי טונים ו־11 חצאי טונים נותן חצי טון אחד במודולו 12, 2 + 11 = 1. כלומר, מתחילים ב־C, עולים שני חצאי טונים ל־D, ועוד 11 ל־C♯ — חצי טון אחד מעל C המקורי מבחינת מחלקת גובה הצליל.\n\nחשבון מודולרי הוא דרך מהירה לחשב מרווחים שונים בין גבהי צליל או מחלקות גובה צליל. דוגמאות:\n\nמהי מחלקת המרווח ממחלקה 7, G, למחלקה 10, B♭? 10 - 7 = 3.\n\nמהי מחלקת גובה הצליל הנמצאת חמישה חצאי טונים מעל B בקר, מחלקה 11? 11 + 5 = 4 במודולו 12, כלומר E.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T23:40:36.220633+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
