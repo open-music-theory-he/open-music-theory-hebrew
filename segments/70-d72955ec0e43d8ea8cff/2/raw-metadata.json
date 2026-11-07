@@ -1,0 +1,14 @@
+{
+  "text_sha256": "80c38291bb0ed2b1087fb227504c739fe33e49f70dea7e2a3e75d69c8636eec1",
+  "identity_sha256": "d72955ec0e43d8ea8cff17d71275983bf8030e25ed5c382426f8b7bd1f33d210",
+  "raw_sha256": "6408a7beb355dc3ea5d8315cd293993833042b5e2112c9efae8d897d627eb04c",
+  "seconds": 108.12,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בניתוח מוזיקה פוסט־טונלית שבה מתאים להניח שקילות אוקטבית ואנהרמונית, אפשר לייצג מחלקות גובה צליל במספרים שלמים. כל צלילי C וכל צליל השקול להם אנהרמונית, למשל B♯, הם מחלקה 0. כל צלילי C♯ וכל צליל השקול להם אנהרמונית, למשל D♭, הם מחלקה 1. וכן הלאה: C = 0, C♯ = 1, D = 2, D♯ = 3, E = 4, F = 5, F♯ = 6, G = 7, G♯ = 8, A = 9, B♭ = 10 (T), B = 11 (E).\n\nאפשר להמחיש בקלות סוג זה של מחלקות גובה צליל, המניח שקילות אוקטבית ואנהרמונית, בתרשים דמוי לוח שעון כמו זה שלהלן.\n\nמרחב מחלקות גובה הצליל (pitch-class space)\n\nבגירסה הכתובה מופיע כאן מעגל של שתים־עשרה מחלקות גובה צליל, 0 עד 11. המספר 0 נמצא בראש, והמספרים 1 עד 11 מסודרים בכיוון השעון. מעל 0 מופיע חץ מן הכיתוב C4, C3, C2, B♯7 וכן הלאה, המראה שכל הגבהים והאיותים האלה שייכים למחלקת גובה הצליל 0.\n\nהסתייגות\n\nהמוזיקה הפוסט־טונלית מגוונת מאוד. למלחינים סגנונות הלחנה אישיים, מטרות אסתטיות ותפיסות ייחודיות של גובה הצליל. פירוש הדבר שיש לגשת ליצירה בגמישות. למשל, מכיוון שהמוזיקה של דביסי היא מעין־טונלית, לעיתים קרובות מועיל לבחון אותה בלי להניח שקילות אנהרמונית; אך לפעמים דווקא כן. בניתוח מוזיקה זו עליכם להסתמך על האינטואיציות המוזיקליות שלכם, ולהיות מוכנים גם לבחון את גובה הצליל ביצירות מכמה נקודות מבט, עד שתמצאו את המתאימה ביותר בעיניכם.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:17:25.633977+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
