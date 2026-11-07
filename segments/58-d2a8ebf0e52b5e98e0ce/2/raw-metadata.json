@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c3da5bcd0e9aacb56ea5888e34602a7478704f036ef9c6ec8be1243bc24f52a5",
+  "identity_sha256": "d2a8ebf0e52b5e98e0cee24bcec9c1f6edde7540bddf7f2dd8daf913805a9f0d",
+  "raw_sha256": "4aa92c86c601a46d76630a2514a9f37988af6cc102f1c0fafd2e61ccceede21f",
+  "seconds": 84.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הנקודה ברפריזה שבה הקטעים המשנים מפנים את מקומם להקבלה מחודשת לתצוגה נקראת נקודת החיבור מחדש (crux). יש לזהות נקודה זו, יחד עם MC ו־ESC, לפני שאפשר להשלים את רוב יתר הניתוח של הרפריזה. ככלל, נקודת החיבור מחדש תבוא לפני תחילת S; רוב S ו־C יהיו מורכבים מתיבות מקבילות.\n\nבדרך כלל אין קטעים משנים אחרי נקודת החיבור מחדש, אך כשהם מופיעים אין להתעלם מהם בניתוח.\n\nפרשנות\n\nניתוח סונטה רק מתחיל במציאת היחידות, הטונליות והאירועים האלה ובסימונם. לאחר שניתחתם בהצלחה את מבנה הסונטה, עברו לפרשנות. המונח האקדמי לחקר פרשנות מוזיקלית או טקסטואלית הוא הרמנויטיקה (hermeneutics). פרשנות של סונטה מתחילה בשאלות כגון:\n\nאילו ציפיות יוצרת התצוגה ביחס לרפריזה, וגם ביחס לקטעים אחרים כגון הפיתוח והקודה, אם יש קודה?\n\nכיצד הרפריזה ממלאת ציפיות אלו?\n\nכיצד הרפריזה מכשילה אותן או משבשת אותן?\n\nכיצד עשויים המרכיבים הצפויים והבלתי צפויים ברפריזה להשפיע על המאזינים?\n\nכיצד קשורים המרכיבים הייחודיים של היצירה ליצירות אחרות בהקשר ההיסטורי שלה?\n\nבכתיבה, בהצגה או בדיון בניתוח סונטה, אל תסתפקו במיון המבנה. התחילו בשאלות כאלה, והציגו פרטים מבניים כדי להסביר את תשובותיכם עליהן ועל שאלות אחרות העולות מן העיסוק ביצירה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:01:24.594672+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
