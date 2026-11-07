@@ -1,0 +1,14 @@
+{
+  "text_sha256": "55da0f00405052d266a63c399bd78d4541c6950fcfa1efc852715e782a1f03c0",
+  "identity_sha256": "0b2d41567f49f3910a3b0e736279b76880651f6c77c87aea8d177a9f7a1268fc",
+  "raw_sha256": "a4f4a67263327108592a443e791730b23e7d6b943396b8220c81a8f1cbeb2708",
+  "seconds": 86.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "||: EXPOSITION ending with 'V':PAC :||: Fonte - phrase ending with 'I':HC – RECAPITULATION :||\n\nהערת המהדורה העברית — מקרא לתרשים: אקספוזיציה המסתיימת בקדנצה אותנטית מושלמת בטונליות הדומיננטה; Fonte ופראזה המסתיימת בחצי קדנצה בטונליות הראשית; רפריזה. סימני החזרה והסימונים הטונליים נשמרו בתרשים המקורי.\n\nFonte היא דרך מהירה ופשוטה לעבור מטונליות הדומיננטה — שבה האקספוזיציה של מינואט במז׳ור מגיעה לקדנצה מיד לפני קו התיבה הכפול — אל טונליות הטוניקה. אחריה תבוא בדרך כלל פראזה המתעכבת על הדומיננטה של הטונליות הראשית או נעה אליה. חצי הקדנצה או ההגעה לדומיננטה בסוף הפראזה יכינו את חזרת החומר הפותח בטונליות הראשית: הרפריזה של המינואט או הצורה התלת־חלקית הקטנה.\n\nMonte\n\nMonte — באיטלקית ״הר״; חשבו על עלייה — פועלת באופן דומה ל־Fonte. היא מופיעה בדרך כלל בחלק האמצעי המנוגד של מינואט או של צורה תלת־חלקית קטנה אחרת. זו סכמה של מודל וסקוונצה, ובה אקורד שניוני הנפתר אל אקורד העובר טוניקיזציה, בדרך כלל בתבנית D7 T1. ההבדל הוא ש־Fonte יורדת — D7/'I I' T1/'I I' D7 T1 — ואילו Monte עולה — D7/'I V' T1/'I V' D7/'V' T1/'V'. נוסף על כך, Fonte נמשכת כמעט תמיד ארבע תיבות: מודל וחזרה אחת בטרנספוזיציה. Monte מתארכת לעיתים לשש תיבות או יותר: מודל וחזרה אחת או יותר בטרנספוזיציה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:15:14.655618+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
