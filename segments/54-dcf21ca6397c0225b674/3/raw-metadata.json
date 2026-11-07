@@ -1,0 +1,14 @@
+{
+  "text_sha256": "2ad61af20bd5ebf57f910cdc4c0d71c01e6c0a10065a874ac794b33b9d989aaa",
+  "identity_sha256": "dcf21ca6397c0225b674a9b5a04a7ac14d597e34a08953bcb12d5c25447bee48",
+  "raw_sha256": "c1dcc650c250e53bb72bf120ff0b1ed1cb3682fcda3c5bbf4c3af0e4b01b8184",
+  "seconds": 114.84,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אם תפקיד התצוגה מציג ״שאלה״ ותפקיד הפיתוח בוחן אותה ואז מעצים אותה, תפקיד הרפריזה עונה עליה. הוא עושה זאת באמצעות מעבר אחרון במחזור הנושאי, אך הפעם מביא אותו להשלמה מספקת: PAC בטונליות הראשית, המכונה סגירה מהותית של הסונטה (essential sonata closure, ESC).\n\nיעדים קדנציאליים\n\nכפי שנרמז לעיל, צורת סונטה מעוגנת בכמה קדנצות חשובות. הן משמשות ציוני דרך במבנה הצורני וגם יעדים למוזיקה המובילה אליהן. נסמן קדנצות אלה באמצעות ספרה רומית המציינת את הטונליות ביחס לטונליות הראשית, ואחריה נקודתיים וסוג הקדנצה.\n\nכמו בצורה תלת־חלקית קטנה, התצוגה נוטה להסתיים ב־PAC בטונליות משנית: 'V':PAC בפרק מז׳ורי, או 'I I I':PAC או 'v באותיות קטנות':PAC בפרק מינורי. אולם כאן הקדנצה אינה רק נורמה: היא מהותית לצורה. PAC זו מכונה סגירה מהותית של התצוגה, או EEC.\n\nלרפריזה קדנצה מקבילה, המוכרת גם מן הצורה התלת־חלקית הקטנה: PAC בטונליות הראשית, הנוטה להקביל ל־EEC מבחינה נושאית. קדנצה זו, 'I':PAC, מכונה סגירה מהותית של הסונטה, או ESC.\n\nחטיבת הפיתוח, כמו האמצע המנוגד בצורה תלת־חלקית קטנה, מסתיימת בדרך כלל ב־HC בטונליות הראשית ('I':HC), או בהגעה לדומיננטה בטונליות הראשית המכינה את הגעת הרפריזה.\n\n||: תצוגה\n\nV:PAC\n\n:||: פיתוח\n\nI:HC\n\nרפריזה\n\nI:PAC\n\n:||\n\nאו:\n\n||: תצוגה\n\n'I I I':PAC\n\n:||: פיתוח\n\nI:HC\n\nרפריזה\n\nI:PAC\n\n:||\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:58:56.022809+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
