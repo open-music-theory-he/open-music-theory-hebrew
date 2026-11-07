@@ -1,0 +1,14 @@
+{
+  "text_sha256": "66b8f2286152d388a17564ecc2006c0a290adc63bf58ce48a5719f0dbc2c8e34",
+  "identity_sha256": "d85b8804b4aac606dfa67ff1fbff998b6aa71b27aa7d974525c13d1053c2c518",
+  "raw_sha256": "dd9e0136934ba3c9c46f874735484ef5feca2db5648e8737672bec6a6734b878",
+  "seconds": 13.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אפיזודה 2, המסומנת C בתרשים המקוצר לעיל, עשויה להיות פיתוח — אולי עם אזור הכנה (prep-zone), אזור הפעולה המרכזית (CAZ) ומעבר חוזר — או נושא פנימי פשוט יותר.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:06:43.864527+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
