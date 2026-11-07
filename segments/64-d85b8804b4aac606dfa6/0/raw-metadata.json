@@ -1,0 +1,14 @@
+{
+  "text_sha256": "bf7a7b671d9776cffb27fb41853658e57d196fc24fac2d867cc373a87d9e4c9a",
+  "identity_sha256": "d85b8804b4aac606dfa67ff1fbff998b6aa71b27aa7d974525c13d1053c2c518",
+  "raw_sha256": "95c09633256864aa0602efffbc35d0f258da49acada2b3e6a3550c085376b0a0",
+  "seconds": 119.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "64 — סונטה־רונדו\n\nסונטה־רונדו (sonata rondo), שתבניתה ABACABA, מציגה אותם חילופים בין חטיבה חוזרת (refrain) לאפיזודה (episode) המצויים ברונדו בן חמישה חלקים, אך היבטים מסוימים של צורת הסונטה חודרים לחילופים אלה.\n\nבגירסה הכתובה מופיעה כאן טבלה הקושרת בין חטיבות הרונדו לתפקידי צורת הסונטה. בשורת התצוגה מופיעות חטיבה חוזרת 1 ואפיזודה 1. בשורה הבאה מופיעה חטיבה חוזרת 2, בתפקיד חזרת החטיבה החוזרת. אפיזודה 2 מתפקדת כפיתוח או כנושא פנימי. ברפריזה מופיעות חטיבה חוזרת 3 ואפיזודה 3, ובחזרה המסיימת מופיעה חטיבה חוזרת 4. כך המספור מאפשר לזהות הן את החזרות והן את התפקידים הצורניים.\n\nהערת מהדורה: התרשים המיושר באמצעות רווחים במקור הוסב לטבלה. סדר שבע החטיבות והקיבוץ המוסבר בשלושת הסעיפים שלהלן נשמרו. ראו N109.\n\nחטיבה חוזרת 1 ואפיזודה 1 יוצרות תצוגת סונטה, החוזרת כרפריזה בחטיבה חוזרת 3 ובאפיזודה 3. כמו בצורת סונטה, הרפריזה מכילה ״התאמה טונלית״, כך שתסתיים בטונליות הטוניקה. כלומר, אפיזודות 1 ו־3 זהות מבחינה נושאית, אך אפיזודה 3 תהיה בטונליות הטוניקה.\n\nבשל הדמיון לצורת סונטה, האפיזודות הראשונה והשלישית בנויות תמיד כ״מכלולי נושא שני״ (second-theme complexes).\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:06:35.852974+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
