@@ -1,0 +1,14 @@
+{
+  "text_sha256": "0d20f50f523c23483d57a2a3a60cc77ca07240cf4948bb616bda9ec218a59d0b",
+  "identity_sha256": "6dc8f3789bbc0bd59d01ae6440fc90713fe11bb742b92c7ece6b4d484fc1816b",
+  "raw_sha256": "dff5c9c7bd6d78b2be8ae07601898db65bd72d718be573ae97f034dcd9be1313",
+  "seconds": 109.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מבנה צורני: נתאר תחילה את הצורה הטיפוסית, אף שכפי שנראה להלן יש לגשת לחטיבה זו בגמישות. אחרי סיום החטיבה החוזרת הראשונה, פראזת מעבר TR פותחת את האפיזודה במודולציה לטונליות משנית באמצעות אקורד ציר. אחריה בא הנושא המשני S, המאשר את הטונליות החדשה ב־PAC. לאחר מכן נשמעת חטיבת סיום CL, המתמזגת במעבר חוזר RT המוביל בחזרה לחטיבה החוזרת.\n\nסיבוכים: אף שמכלול הנושא השני ברונדו דומה במאפייניו לתצוגת סונטה, הוא מאפשר אפשרויות רבות יותר. למשל, TR ו־CL עשויות לא להופיע, ובמכלול הנושא השני עשויה שלא להיות PAC בטונליות המשנית. התפקיד הנושאי כאן רופף בהרבה מאשר בחטיבה החוזרת. אלה הסיבוכים העיקריים:\n\nTR מתמזג ב־S (TR=>S): אחרי ה־PAC שסיימה את החטיבה החוזרת, מתחילה פראזת TR ופותחת במודולציה. אולם לאחר המודולציה אותה פראזה מאשרת את הטונליות המשנית ב־PAC. במצב כזה הפראזה היחידה מובנת כממלאת הן תפקיד TR והן תפקיד S. הדבר דומה מאוד להתמזגות TR=>S בתצוגה של צורת מינואט וטריו.\n\nאין TR: אחרי ה־PAC שסיימה את החטיבה החוזרת, מופיע S ללא TR ביניהם. במקרה זה התרחשה מודולציה ישירה.\n\nS אינו מוביל ל־PAC אלא מתמזג במעבר חוזר RT (S=>RT): בדרך כלל נושא S באפיזודה יוביל ל־PAC המאשרת את הטונליות המשנית. במקרה זה הקדנצה אינה מתממשת. במקום זאת המוזיקה נעשית, פחות או יותר ללא תפר מורגש, מעבר חוזר: S=>RT.\n\nעצות לניתוח:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:04:41.435386+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
