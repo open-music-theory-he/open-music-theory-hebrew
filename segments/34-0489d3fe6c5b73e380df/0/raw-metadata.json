@@ -1,0 +1,14 @@
+{
+  "text_sha256": "392513151e52086f5d16880f18c0988fdc3f08906350c73e12e47e3ee0ee0f0a",
+  "identity_sha256": "0489d3fe6c5b73e380df31a322687074f6def6cbc2d5b9d1ec51a691d79ef321",
+  "raw_sha256": "9dbaa3d578846c5af2404276b96f447c3abd8ade00dccd1008650fa6a0721c26",
+  "seconds": 71.28,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "34 — תפקידים הרמוניים\n\nאם תפקיד מוזיקלי מתאר את מקומו של רכיב מוזיקלי מסוים ביצירת יחידה מוזיקלית גדולה יותר, הרי שתפקיד הרמוני (harmonic function) מתאר את מקומו של אקורד מסוים ביצירת מהלך הרמוני גדול יותר. כל אקורד נוטה להופיע במצבים מוזיקליים מסוימים יותר מאשר באחרים, ולהתקדם אל אקורדים מסוימים יותר מאשר אל אחרים. הנטיות האלה פועלות יחד ליצירת מהלכים הרמוניים בעלי משמעות, שיכולים לשמש בסיס הרמוני לפראזות, לנושאים וליחידות צורניות גדולות יותר.\n\nבאופן כללי, תפקידו של אקורד קשור לצלילים המרכיבים אותו — מאפייניו הפנימיים — לאקורדים הנוטים להופיע לפניו ואחריו, ולמקום שבו הוא נוטה להופיע במהלך פראזה מוזיקלית.\n\nתאוריה של תפקידים הרמוניים מבוססת על שלושה עקרונות יסוד:\n\nאקורדים הם אוספים של דרגות סולם.\n\nלכל דרגת סולם נטיות משלה.\n\nהתפקיד של אקורד הוא מכלול הנטיות הנוצר מצירוף דרגות הסולם שבו.\n\nשימו לב ששורש האקורד ואיכות האקורד אינם כלולים כאן בשיקולים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T00:08:19.664885+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
