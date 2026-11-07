@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4afdb7ba1b4c54ef628d60a7775f33105027e2d660428bd96da360f87f06b468",
+  "identity_sha256": "58de32256aff99b630f45799aab321eb695b92fa20adaa8b0bea79d403c233b1",
+  "raw_sha256": "269b3f76d85b0e1cc3991b357c75f4526f18adf1df75f8aece8e657096c424bf",
+  "seconds": 85.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "65 — צורת מינואט\n\nפרק מינואט קלאסי מכיל בדרך כלל מינואט ראשי (main minuet), אחריו טריו, ואחריו חזרת דה קאפו של המינואט הראשי, המבוצעת בדרך כלל בלי לקיים את החזרות הפנימיות. לפיכך לפרק צורה גדולה של ABA': מינואט–טריו–מינואט דה קאפו.\n\nהן המינואט הראשי והן הטריו נוטים להיות מבנים של צורה תלת־חלקית קטנה (small ternary). כמו פרק המינואט והטריו עצמו, הצורה התלת־חלקית הקטנה עוקבת אחר מבנה ABA'. אולם המבנה התלת־חלקי הקטן במינואט ראשי טיפוסי הוא מן הסוג הדו־חלקי המעוגל (rounded binary). כלומר, יש שלוש יחידות מובחנות — A, B ו־A' — אך הן מקובצות לשני חלקים גדולים יותר, ועל כל אחד מהם חוזרים.\n\nהחלק הראשון במבנה הדו־חלקי מכונה החלק הראשון הנתון לחזרה (first reprise), והשני — החלק השני הנתון לחזרה (second reprise), שכן חוזרים על כל אחד מהם. הראשון מכיל את יחידת A של המינואט; השני מכיל את יחידות B ו־A'.\n\nלכל חטיבה בצורה התלת־חלקית הקטנה של המינואט או הטריו תפקיד צורני משלה. התפקיד בחטיבת A מכונה תצוגה (exposition); בחטיבת B — אמצע מנוגד (contrasting middle); ובחטיבת A' — רפריזה (recapitulation).\n\nתצוגה\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:07:10.013791+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
