@@ -1,0 +1,14 @@
+{
+  "text_sha256": "f8c192a6ae9f1ac0a573c24004688db72dce81060e60b15a9ef718c09bb183f0",
+  "identity_sha256": "6dc8f3789bbc0bd59d01ae6440fc90713fe11bb742b92c7ece6b4d484fc1816b",
+  "raw_sha256": "9b0522aa9f92f2ea0b374258dae4dc397306cbae306d13ff147fac458d74c296",
+  "seconds": 99.84,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "נושא פנימי\n\nנושאים פנימיים (interior themes) הם סוג האפיזודה הפשוט ביותר. מבחינה נושאית וטונלית הם דומים לטריו של מינואט.\n\nטונליות: נושא פנימי מנוגד לחטיבה החוזרת מבחינה מודאלית או טונלית. לעיתים קרובות הנושא הפנימי הוא minore: הטוניקה אינה משתנה במעבר מן החטיבה החוזרת לאפיזודה, אך המודוס משתנה למינור. ברונדו מינורי, האפיזודה הראשונה עשויה להיות maggiore, כלומר במז׳ור.\n\nמבנה צורני: נושא פנימי הוא בדרך כלל דו־חלקי מעוגל, או אחד הטיפוסים הדו־חלקיים האחרים. לפעמים המבנה הדו־חלקי מסומן בתווים באמצעות סימני חזרה, אך לעיתים החזרות נכתבות במלואן. אף שאין זו דרישה מחייבת, אחרי נושא פנימי עשוי לבוא מעבר חוזר (retransition) המוביל לדומיננטה של הטונליות הראשית.\n\nסיבוכים: הקושי העיקרי בניתוח הוא שלעיתים קרובות הנושאים הפנימיים נותרים בלתי שלמים מבחינה צורנית. שימו לב לשתי החריגות האלה:\n\nאחרי חטיבת אמצע מנוגדת, הרפריזה עשויה שלא להופיע. לכן אפיזודה כזו עשויה להיות בנויה כ־AAB ואחריה מעבר חוזר.\n\nהרפריזה עשויה להופיע אך לא להוביל ל־PAC, אלא להתמזג בחטיבת מעבר חוזר.\n\nמכלול נושא שני\n\nמכלול נושא שני (second-theme complex) דומה לאזורי TR, S, CL ו־RT בסונטה הקלאסית, אך אינו תמיד זהה להם. בטונליות מז׳ורית האפיזודה תבצע מודולציה לדומיננטה 'V'. בטונליות מינורית המדיאנטה המז׳ורית 'I I I' שכיחה יותר.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:04:10.972931+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
