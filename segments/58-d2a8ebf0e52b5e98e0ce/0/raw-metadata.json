@@ -1,0 +1,14 @@
+{
+  "text_sha256": "dbc6c37b908355575d7c1476908e84934df97568a9b34fbbc8433ab7a8f97c21",
+  "identity_sha256": "d2a8ebf0e52b5e98e0cee24bcec9c1f6edde7540bddf7f2dd8daf913805a9f0d",
+  "raw_sha256": "2eac9d9bdebe1160053bceaebb4fefac62861b20bbee7861ca62353d970cf2c9",
+  "seconds": 86.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "58 — צורת סונטה — הרפריזה\n\nהרפריזה (recapitulation) היא היעד של הסונטה, והיא באה אחרי התצוגה והפיתוח. כל מה שקודם לתצוגה הוא מבוא (introduction), וכל מה שבא אחרי הרפריזה הוא קודה. הרפריזה עונה לציפיות שהציבה התצוגה ומביאה את הסגירה המהותית של הסונטה (essential sonata closure). לכן היחס בין התצוגה לרפריזה הוא מוקד מרכזי בניתוח סונטה.\n\nבשל חשיבותו של יחס זה, יש לנתח תמיד את הרפריזה לאור התצוגה.\n\nהמחזור הנושאי\n\nהרפריזה פועלת בדרך כלל לפי אותו דפוס יחידות שהוצג בתצוגה: { P TR ’ S / C } בתצוגה דו־חלקית, ו־{ P TR ⇒ FS / C } בתצוגה רציפה. סימן הגרש מציין את הצזורה האמצעית (medial caesura, MC), והלוכסן מציין את הסגירה המהותית של התצוגה או של הסונטה (EEC/ESC).\n\nהסגירה המהותית של הסונטה\n\nהיעד ההרמוני של הרפריזה, ושל פרק הסונטה כולו, הוא הסגירה המהותית של הסונטה (ESC). ה־ESC תהיה תמיד 'I':PAC, ובדרך כלל תתרחש באותה נקודה נושאית ברפריזה שבה התרחשה EEC בתצוגה. לעיתים קרובות זו בדיוק אותה מוזיקה שהופיעה בתצוגה, אך בטרנספוזיציה מן הטונליות המשנית לטונליות הראשית.\n\nכתיבה מחדש\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:00:35.760785+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
