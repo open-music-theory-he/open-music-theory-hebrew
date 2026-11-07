@@ -1,0 +1,14 @@
+{
+  "text_sha256": "55027e380aae838a606d667dd89016d1dfc4a940aca22c11c29993d6b1b3d5e1",
+  "identity_sha256": "19066ba05785e60515be71450b006b7477978e8dd5e8011dc4009c0fffc2633e",
+  "raw_sha256": "ae29fcce6affbe1ef1312c624a0d88b89ed2ee649ca42d9e58c46269abfd26c8",
+  "seconds": 93.64,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אין סדר תקני יחיד להצגת הנושאים בפיתוח. עקרונית, המלחין יכול להתייחס לכל אחד מן הנושאים שהשתתפו במחזור הנושאי של התצוגה, ואף להציג נושאים חדשים.\n\nעם זאת, כמה מערכים נושאיים נפוצים יותר מאחרים. פיתוחים המבוססים על P ועל TR נפוצים הרבה יותר מאלה המבוססים על S ועל C.\n\nכעיקרון ראשון, יש לנתח את הפיתוח ביחס למחזור הנושאי של התצוגה (P-TR-S-C), מתוך הכרה בכך שהשמטת חלק מיחידות התצוגה היא תופעה טיפוסית.\n\nארבע יחידות\n\nבדרך כלל עומדות לרשות הפיתוח ארבע יחידות (modules). לא כולן חייבות להופיע ביצירה נתונה, אך הן מופיעות בסדר שלהלן. הארגון הטונלי והנושאי משתלב ביחידות אלה בדרכים שונות:\n\n(1) חוליית קישור אפשרית (optional link) מן המעבר החוזר הקודם או מחומר הסיום. היא מורגשת כקודמת ל״פיתוח עצמו״.\n\n(2) אזור כניסה או הכנה (entry or preparation zone): בדרך כלל מכין, ולעיתים קרובות יוצר ציפייה, בעוצמת פיאנו. לעיתים קרובות מבוסס על P, אך אפשריות גם דרכים אחרות.\n\n(3) אזור הפעולה המרכזית (central-action zone, CAZ): זהו ״ליבת״ הפיתוח, ובדרך כלל הוא מבטא אי־שקט וחוסר יציבות. הטכניקות המוזיקליות הקשורות אליו במיוחד קשורות גם לתפקיד המשך: בייחוד סקוונצה ופיצול ליחידות קצרות יותר. CAZ יכול להתפרס על כמה חלקים המופרדים בקדנצות.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:02:20.134353+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
