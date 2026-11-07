@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4e0bcb1b9279f3008ab5b2b2b513dfbc9b73362bef576a6cb963bff7340cd0b9",
+  "identity_sha256": "19066ba05785e60515be71450b006b7477978e8dd5e8011dc4009c0fffc2633e",
+  "raw_sha256": "47031da97ecb7b2560a1f979a0eda87912280c3f458d76148161253614fd64e1",
+  "seconds": 90.64,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "59 — צורת סונטה — הפיתוח\n\nחטיבת הפיתוח (development), החטיבה הגדולה השנייה בצורת סונטה, באה אחרי החלק השני של התצוגה. היא החטיבה הפחות מוסכמית בסונטה, במידה ניכרת. חוסר היציבות היחסי שלה מבחינת הטונליות ומבנה הפראזות מניע את החזרה ליציבות ברפריזה.\n\nעם זאת, אין להבין פיתוח כחטיבה חסרת מבנה לחלוטין או ללא מהלכים סכמטיים מוסכמים. בניתוח פיתוח יש לעקוב לפחות אחר שלושה סוגי ארגון, המפורטים להלן. רק לעיתים רחוקות הפיתוח יתאים בדיוק למודלים האלה. יש להשתמש בהם ככלים היוריסטיים — כלים מנחים לחקירה — המסייעים לחשוף את ייחודה של היצירה.\n\nארגון טונלי\n\nחטיבות פיתוח נוטות לחקור טונליות משניות, ובייחוד טונליות במינור. בסונטה במז׳ור הפיתוח יחקור לעיתים קרובות את אזורי הסובמדיאנטה, המדיאנטה והסופרטוניקה; פיתוח במינור ייגע לעיתים קרובות בסובדומיננטה ובדומיננטה המינורית.\n\nרוב חטיבות הפיתוח אינן מאשרות טונליות אלה באמצעות קדנצות אותנטיות, כפי שטיפוסי בשאר הסונטה. לעיתים קרובות יותר הן מאושרות באמצעות חצי קדנצה (HC).\n\nלקראת סופו, הפיתוח מגיע לעיתים קרובות ל־HC בטונליות הראשית כדי להכין את הרפריזה. חצי קדנצה זו מוארכת לעיתים קרובות באמצעות ״שהייה על הדומיננטה״, ביחידה שנכנה ״מעבר חוזר״ (retransition).\n\nארגון נושאי\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T15:01:53.921464+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
