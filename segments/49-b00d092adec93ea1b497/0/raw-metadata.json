@@ -1,0 +1,14 @@
+{
+  "text_sha256": "91ffc50d77a8b6f7e15b8550f4222ec61cb70fecfce6792443641efad15176db",
+  "identity_sha256": "b00d092adec93ea1b4978b2b2b001d58a352c73b0ac5f0724e6e9d62a1fa0914",
+  "raw_sha256": "593429345826e2a671af054f2a8c0dada10bec4394b6ce62f57d792062038131",
+  "seconds": 77.28,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "49 — צורה דו־חלקית קטנה\n\nהצורה הדו־חלקית הקטנה (small binary) ממלאת לעיתים קרובות תפקיד מבני דומה לזה של הצורה התלת־חלקית הקטנה. היא יכולה להיות הנושא הראשי בכל צורה המשתרעת על פרק יצירה שלם, אך לרוב היא מופיעה כנושא ביצירת נושא ווריאציות, ברונדו או במינואט וטריו.\n\nלצורות דו־חלקיות קטנות יש שני חלקים, שכל אחד מהם מבוצע בדרך כלל בחזרה. בניגוד לצורה הדו־חלקית המעוגלת, הן אינן כוללות רפריזה של החומר שנשמע בחלק הראשון.\n\nבגירסה הכתובה מופיע כאן תרשים של צורה דו־חלקית קטנה. שני החלקים מוקפים בסימני חזרה. החלק הראשון יכול להסתיים ב־I:PAC או ב־I:HC; במז׳ור הוא יכול להסתיים גם ב־V:PAC, ובמינור ב־III:PAC. החלק השני עשוי להתחיל באמצע מנוגד ולהמשיך בפראזה עונה, בפראזת המשך או בפראזה קדנציאלית, ולבסוף הוא מסתיים ב־I:PAC ללא יחידת רפריזה נפרדת.\n\nצורה דו־חלקית קטנה\n\nהחלק הראשון\n\nהחלק הראשון בנוי בדרך כלל כפריודה, משפט מוזיקלי או נושא היברידי בעלי מבנה הדוק. הוא מסתיים בחיתוך קדנציאלי בטונליות הראשית או בטונליות קרובה. מכיוון שצורה דו־חלקית קטנה היא לעיתים קרובות קטנה מן הצורה התלת־חלקית הקטנה, סיום החלק הראשון ב־'I':HC אינו נדיר.\n\nהחלק השני\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T14:56:40.290679+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
