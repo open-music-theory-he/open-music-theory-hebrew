@@ -1,0 +1,14 @@
+{
+  "text_sha256": "bd9f7ddbf002a4433aa449d3bb4c83342036d98b127619d3dcd3feefe169412f",
+  "identity_sha256": "07d18cbb3fdbc3f26bcf3f0f9cf1ab03f3451ce8725aad4ac313c4447f1b6b46",
+  "raw_sha256": "a475accb7fec953af933a55af5a6d92290648c5437d91b342346c622cf1077b3",
+  "seconds": 92.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים מרווח מסודר בין גבהי צליל על קו כרומטי מ־C4 עד B5. חץ עליון עולה מ־G4 אל A♯5 ומסומן ordered pitch interval +15; חץ תחתון חוזר מ־A♯5 אל G4 ומסומן ordered pitch interval −15. הסימן מציין את כיוון התנועה.\n\nלמרווח מסודר בין גבהי צליל יש לצרף תמיד סימן ״+״ או ״−״, המציין את כיוון התנועה. המרווח המסודר מ־G4 ל־B♭5 הוא +15, אך מ־A♯5 ל־G4 הוא -15.\n\nמרווח מסודר בין מחלקות גובה צליל (ordered pitch-class interval)\n\nבגירסה הכתובה מופיע כאן מעגל מחלקות גובה צליל, 0 עד 11, עם 0 בראש והמספרים בכיוון השעון. חץ חיצוני מתקדם בכיוון השעון ממחלקה 7, G, אל מחלקה 10, A♯, דרך שלושה צעדים. הכיתוב הוא ordered pitch class interval 3.\n\nמרווחים מסודרים בין מחלקות גובה צליל נמדדים סביב ה״שעון״ בכיוון השעון. לפיכך מ־G ל־A♯ המרווח הוא 3, ומ־A♯ ל־G הוא 9.\n\nמרווחים בלתי מסודרים\n\nמרווחים בלתי מסודרים (unordered intervals) מייצגים את המרחק הקצר ביותר בין שני גבהי צליל או שתי מחלקות גובה צליל, ללא התייחסות לסדרם. לקביעת המרווח הבלתי מסודר, מצאו פשוט את המרחק הקצר ביותר בין שני גבהי הצליל.\n\nמרווח בלתי מסודר בין גבהי צליל\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:18:21.929311+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
