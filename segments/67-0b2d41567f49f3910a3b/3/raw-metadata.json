@@ -1,0 +1,14 @@
+{
+  "text_sha256": "41f5be77f95eb0c68cac41195aa3f69491cc7e19b9e434610fc8b4143a48e087",
+  "identity_sha256": "0b2d41567f49f3910a3b0e736279b76880651f6c77c87aea8d177a9f7a1268fc",
+  "raw_sha256": "09472feaaedf8dd24700ee92a7d46e27f72fb64842600cf69ea5cf950b52e853",
+  "seconds": 95.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים סכמת Monte, ובו מודל בן שני שלבים וחזרה שלו דרגה אחת גבוה יותר. מעל כל זוג כתוב Strong ואז Weak. בשלב החזק מופיעות במלודיה דרגות 5 ו־4, בבס דרגה 7 ובבס הממוספר 6 על 3; בשלב החלש מופיעות במלודיה דרגה 3, בבס דרגה 1 ובבס הממוספר 5 על 3. חץ המסומן one step higher מחבר את שני הזוגות, והכיתוב one step higher מימין מציין שאפשר להמשיך באותו כיוון.\n\nPonte\n\nPonte — באיטלקית ״גשר״ — הייתה סכמה נפוצה נוספת לחלק האמצעי המנוגד של מינואט. שלא כמו Fonte ו־Monte, היא אינה חייבת להיות סכמה של מודל וסקוונצה. היא יוצרת עיכוב ולא תנועה. Ponte פועלת בדרך כלל בדומה למה ש־Caplin מכנה התעכבות על הדומיננטה (standing on the dominant). האקספוזיציה של מינואט במז׳ור תסתיים בקדנצה אותנטית מושלמת בטונליות הדומיננטה של הטונליות הראשית. כאשר Ponte באה אחרי קדנצה זו, היא ממשיכה להחזיק ב־T1/'V', מגבירה את המתח המלודי, ולעיתים קרובות מוסיפה ספטימה לאקורד, וכך הופכת אותו ל־D5 של הטונליות הראשית. לקטע הבנוי על Ponte אין קדנצה, משום שאין בו מהלך הרמוני. במקום זאת הוא מסתיים באקורד דומיננטה מודגש בטונליות הראשית; Caplin מכנה זאת הגעה לדומיננטה (dominant arrival), ולא חצי קדנצה. הגעה זו מכינה את חזרת הטונליות הראשית והרעיון הבסיסי הפותח ברפריזה של המינואט.\n\nמקורות\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-07T20:15:40.137142+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
