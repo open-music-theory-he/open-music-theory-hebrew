@@ -1,0 +1,14 @@
+{
+  "text_sha256": "83b0865846b1b6f32229ff1cbe6934c4584f8731a504edc56dfc9f032ed56c35",
+  "identity_sha256": "7dd7f3bdbae955a26cf095405d21475c2c31cd80f54fa75f762ce962e64da3c8",
+  "raw_sha256": "2719f7b4edcebcf8d801e844e0266c3432fb9a56da4fbd3ccca582705227e552",
+  "seconds": 28.96,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לפעמים יש שוויון בשלב 3. במקרים כאלה כתבו את הסידור הנובע מכל אחת מן האפשרויות השוות, וחשבו את המרווח מן המחלקה הראשונה למחלקה שלפני האחרונה. הסידור שבו מרווח זה הקטן ביותר הוא הסדר הנורמלי.\n\nהערת מהדורה: ההוראות נשמרו מן המקור. אין כאן הוראה מלאה למקרה שבו גם מבחן המחלקה שלפני האחרונה נותן שוויון. שאלה זו נרשמה לבירור בסוף התרגום, N111.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:12:39.806281+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
