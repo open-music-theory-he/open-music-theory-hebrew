@@ -1,0 +1,14 @@
+{
+  "text_sha256": "8f25848bd3b9d80cbf487b15906be799e6fb33db95b3f38bd54a11ee44cf88dd",
+  "identity_sha256": "e6b46faf9c4ab5c9232c0e692d00f13fc13674df49ae57026a4b6209d30f56e8",
+  "raw_sha256": "08b747240d11cf598b84edb120de09f94bd99c9609d69b9dcf39228080d1418c",
+  "seconds": 73.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "83 — מוזיקת שנים־עשר טונים — פעולות\n\nכמו קבוצות מחלקות גובה צליל, שורות שנים־עשר טונים יכולות לעבור טרנספוזיציה (Tn), היפוך (I), או טרנספוזיציה והיפוך (TnI). כמו בטרנספוזיציה של קבוצה, מעתיקים שורה באמצעות הוספת ערך קבוע לכל מחלקות גובה הצליל שלה, תוך שמירה על הסדר. בדוגמה להלן הועתקה P11 באמצעות T11, בהוספת 11 לכל מחלקה, במודולו 12. השורה החדשה מכונה P10, משום שהיא מתחילה במחלקה 10.\n\nהיפוך מתבצע כאשר מחסירים כל מחלקת גובה צליל בשורה מערך קבוע. בדוגמה להלן, T10I של P11 מתבצע באמצעות חיסור כל מחלקה של P11 מ־10, וכך מתקבל היפוך של P11.\n\nשורות שנים־עשר טונים יכולות לעבור גם הילוך לאחור (retrograde), המסומן R: קוראים את השורה בסדר הפוך. קריאת P11 לאחור נותנת את צורת השורה המוצגת מתחת ל־P11 בדוגמה, R11. זכרו ששורות לאחור מסומנות לפי מחלקת גובה הצליל האחרונה. קריאת I0 לאחור נותנת RI0, המופיעה מיד מתחתיה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:20:00.724681+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
