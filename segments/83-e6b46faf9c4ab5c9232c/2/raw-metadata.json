@@ -1,0 +1,14 @@
+{
+  "text_sha256": "82d6ac2a8acf08c299ad24746b34f108bf648cc367032e79db31b103845ca7d4",
+  "identity_sha256": "e6b46faf9c4ab5c9232c0e692d00f13fc13674df49ae57026a4b6209d30f56e8",
+  "raw_sha256": "e6f06c2945d688426b19fe08fc0bd769a246a91b2b54a6c907b94d54872c77f9",
+  "seconds": 77.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים זרימה חלופי של סוגי צורות השורה, ללא מספרים תחתיים. ארבע תיבות מסודרות כריבוע: P משמאל למעלה, I מימין למעלה, R משמאל למטה ו־RI מימין למטה. חצים כחולים דו־כיווניים המסומנים Inversion, TnI, מחברים בין P ל־I ובין R ל־RI. חצים אדומים דו־כיווניים המסומנים Retrograde מחברים בין P ל־R ובין I ל־RI. בכל תיבה מצוין ש־Tn שומר על סוג צורת השורה. בתחתית מפורטת מפת הטרנספוזיציה: P נשאר P,‏ I נשאר I,‏ R נשאר R ו־RI נשאר RI; וכן מצוין שהמספר התחתי של מחלקת גובה הצליל עשוי להשתנות תחת Tn או TnI. התרשים מסומן כתחליף למהדורה העברית ברישיון CC BY-SA 4.0.\n\nהערת מהדורה: תרשים חלופי זה נוסף במהדורה העברית, משום שהתמונה המקורית אינה קיימת במאגר. הוא מציג את סוגי צורות השורה בלבד, ללא המספרים התחתיים. טרנספוזיציה שומרת על הסוג; היפוך מחליף בין P ל־I ובין R ל־RI; הילוך לאחור מחליף בין P ל־R ובין I ל־RI. המספרים התחתיים עשויים להשתנות בטרנספוזיציה ובהיפוך. בשורות בעלות סימטריה, צורות מסוגים שונים עשויות להיות זהות.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:21:06.452849+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
