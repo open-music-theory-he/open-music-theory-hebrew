@@ -1,0 +1,14 @@
+{
+  "text_sha256": "cc92182da8455ec257f92da4d132c5a9d90675cfc118d679ef84fe870ae21121",
+  "identity_sha256": "77b53664d4dcd8ef36522a262509eec1c6d1928ae61f34c9d14bfead2d0216b2",
+  "raw_sha256": "7bc2592c55bd0bebd13f8098dffc005d4e3c702c2b86c2f2af229d62bde855fe",
+  "seconds": 64.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן חישוב טרנספוזיציה T4 באמצעות חיבור. בשורה הראשונה 11, 2, 4; מתחת לכל מספר מוסיפים 4, והתוצאה היא 3, 6, 8. במקרה של 11 ועוד 4 מפחיתים 12, ולכן החישוב נשאר במודולו 12.\n\nהתוצאה היא המחלקות בתיבה 18: T4 {11, 2, 4} = {3, 6, 8}.\n\nלחלופין, כדי לקבוע את יחס הטרנספוזיציה בין שני דברים, מחסירים את הראשון מן השני. אם כל המספרים המתקבלים זהים, שני הדברים קשורים באותה Tn.\n\nבגירסה הכתובה מופיע כאן חישוב כיוון הטרנספוזיציה באמצעות הפרשים בין מחלקות גובה תואמות. מן המספרים 3, 6, 8 מחסרים 11, 2, 4 במודולו 12 ומתקבל 4 בכל זוג. הכיתוב מבהיר שהקבוצות קשורות ב־T4.\n\nכך נקבעה תווית החץ T4 בדוגמה המוזיקלית: באמצעות ״חיסור״ מספרי מחלקות גובה הצליל בתיבה 1 מן המספרים בתיבה 18.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:13:31.314270+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
