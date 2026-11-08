@@ -1,0 +1,14 @@
+{
+  "text_sha256": "ac67dce44023558a753be141971ceda4a37021204bf811aa8bcc4938c91161e8",
+  "identity_sha256": "179f0dcf73118f4c9efac0b5f3652be7a1f1e85352e770868a82b1a643bc64df",
+  "raw_sha256": "d96dabac0bd2207c9650af71a4ddf19766f2fe16d37002018a4594b3a3ba3bc0",
+  "seconds": 83.48,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "79 — מחלקת קבוצה וצורה ראשונית — חלק 2\n\nמבחינה אנליטית, מושג מחלקת הקבוצה (set class) מועיל מפני שהוא יכול להראות לכידות ביצירה. למשל, ״[נושא ושיקוף][1]״ של ברטוק משתמש כמעט אך ורק במחלקת הקבוצה (02357), אף שהיא מופיעה בטרנספוזיציות ובהיפוכים רבים.\n\nמבחינה תאורטית, המושג מועיל מפני שהוא מאפשר להתחיל לחקור את האפשרויות שמציע מרחב 12 מחלקות גובה הצליל. במשך כמעט 500 שנה השתמשו מלחינים בעיקר בתת־קבוצה קטנה של אפשרויות אלה: אקורדים משולשים, מרובעים וכן הלאה. רשימות מחלקות הקבוצה חושפות את כל יתר האפשרויות. הן גם רומזות מדוע השתמשו מלחינים טונליים רק בחלק קטן מהן ומציעות עולמות שלמים המאורגנים בדרכים אחרות. למזלנו אין צורך ליצור רשימה כזו, שכן רבים כבר עשו זאת. רשימה טובה במיוחד נמצאת [כאן][2], ורשימה נוספת תינתן בכיתה.\n\nהערת מהדורה: ההפניות המסומנות [1], [2] ו־[4] אינן מוגדרות בקובץ המקור. הן נשמרו כמצייני מקום; לא נבחרה להן כתובת חלופית ללא אימות. ראו N112.\n\nרוב הרשימות האלה מאורגנות באופן דומה. מחלקות קבוצה בעלות אותו מספר צלילים — אותה עוצמת קבוצה (cardinality) — מקובצות יחד: קבוצות בנות שלוש מחלקות גובה צליל (trichords) יחד, קבוצות בנות תשע (nonachords) יחד, וכן הלאה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:16:10.019814+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
