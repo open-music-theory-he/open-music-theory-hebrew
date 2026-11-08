@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1d00f3a9cfc0b8b9c9304e2ca87b49306f181e512d4c7b2fb039809f683a1096",
+  "identity_sha256": "c2a50c4290f00917cad71175182e84a6e77c9c8de360754185548b5902788a34",
+  "raw_sha256": "412b06fbb0f89e2a16a3dff2372bfe4b93fb81f4359435ee7a5f3b3ff5eeed46",
+  "seconds": 25.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מנקודת מבט הלחנתית ושל המאזין, לשורות נגזרות אפשרויות רבות. מאחר שתוכן מחלקות הקבוצה של שורה אינו משתנה בטרנספוזיציה, בהיפוך וכן הלאה, מחלקות אלה מופיעות שוב ושוב לאורך היצירה, גם אם משתמשים בצורות שורה שונות. לכן שורה נגזרת מבטיחה הישנות קבועה של מבחר קטן מאוד של מחלקות קבוצה, ובכך סוג מסוים של אחדות לאורך היצירה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:22:14.416291+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
