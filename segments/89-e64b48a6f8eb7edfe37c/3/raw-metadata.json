@@ -1,0 +1,14 @@
+{
+  "text_sha256": "3ba0685c704f0ebd640e2e029797615e062e3603f0d7e65c92857870a171e8e3",
+  "identity_sha256": "e64b48a6f8eb7edfe37c0ac9d6639696dfc95d8a6a7c75f10ce619e62b3cd309",
+  "raw_sha256": "b7e9900eb2b3c2d8b0f81c5f17c50944afea23950fc49592341a8f29a14e0dbc",
+  "seconds": 51.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בדקו זאת בשורה לאחור: Bb, A, C, B, ….\n\nכדי לקבל את רצף המרווחים של צורות RI, הפכו את כיוון רצף מרווחי R, או את סדר רצף מרווחי P: 1, 9, 1, 9, 6, 5, 9, 5, 6, 2, 1.\n\nהערת מהדורה: בפסקה האחרונה המקור מכנה שוב את התוצאה retrograde, אך הפעולות והמספרים מגדירים RI. תוקן במפורש ותועד ב־N119.\n\nקבעו תחילה את הרצפים האלה בזהירות, ואז יהיה קל לסווג את צורות השורה לאורך היצירה. רצף המרווחים יגלה את הסוג, ומחלקת הצליל הראשון או האחרון תיתן את המספר התחתי. מספר זה מציין את יחס הטרנספוזיציה לצורות האחרות מאותו סוג.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T20:30:53.604696+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
