@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1d64bbb53f4eaac264ce0860b225101d48c092a4dc8a214b0e5e3cb602598d83",
+  "identity_sha256": "0101231152be0651df4a632e419ea16b9a44088e7f4e003b317bb5907c009d27",
+  "raw_sha256": "ec69473d9c590938fb294b26a8b9b7035ae8a3b8fa4af381aff22419e4f1a02b",
+  "seconds": 95.0,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "82 — תאוריית שנים־עשר טונים — יסודות\n\nמוזיקת שנים־עשר טונים (twelve-tone music) קשורה לרוב לטכניקת הלחנה או לסגנון המכונים סריאליזם (serialism). אולם המונחים אינם זהים. סריאליזם הוא שם רחב המתייחס לסידור של דברים — גבהי צליל, משכים, עוצמות וכן הלאה. הלחנה בשנים־עשר טונים מתייחסת במפורש יותר למוזיקה המבוססת על סידורים של 12 מחלקות גובה הצליל.\n\nסגנון זה מזוהה ביותר עם קבוצת מלחינים שארנולד שנברג היה הדמות המרכזית בה, ובה גם המלחינים המשפיעים אנטון וברן ואלבן ברג. אולם טכניקות ההלחנה בשנים־עשר טונים והרעיונות הקשורים בהן השפיעו מאוד על מלחינים חשובים רבים, ומוזיקה סריאלית ובשנים־עשר טונים נכתבת גם כיום. חלק גדול ממוזיקה זו חולק עקרונות בסיס דומים, המתוארים להלן, אך מלחינים השתמשו בהם לפיתוח גישות מקוריות לחלוטין.\n\nמוזיקת שנים־עשר טונים מבוססת על סדרה (series), המכונה גם שורה (row), המכילה את כל 12 מחלקות גובה הצליל בסדר מסוים. אין סדרה אחת לכל מוזיקת שנים־עשר הטונים; רוב המלחינים כותבים שורה ייחודית לכל יצירה. יש 12! סדרות — 12 עצרת — כלומר 479,1,600 סידורים שונים. אפשרויות רבות מאוד! להלן השורה של וריאציות לפסנתר, אופ׳ 27, מאת וברן:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:18:46.991470+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
