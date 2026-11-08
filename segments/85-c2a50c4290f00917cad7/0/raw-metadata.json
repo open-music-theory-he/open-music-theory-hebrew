@@ -1,0 +1,14 @@
+{
+  "text_sha256": "253b55fa07f81a7d5bf30b534dfbfbdb354b5bbb6c79ac3f69c83e67ea3828ba",
+  "identity_sha256": "c2a50c4290f00917cad71175182e84a6e77c9c8de360754185548b5902788a34",
+  "raw_sha256": "642e8dfbf0a50d43fc3eb83148371ce172dbdd6d5d47837faa98b4c0cf448571",
+  "seconds": 85.32,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "85 — מוזיקת שנים־עשר טונים — שורות נגזרות\n\nשורות נגזרות (derived rows) הן שורות שמקטעיהן הלא חופפים — מקטעים נפרדים (discrete segments) — שייכים לאותה מחלקת קבוצה. מכיוון שהמקטעים אינם חופפים, תת־הקבוצות הנפרדות מחלקות את השורה לשישה מקטעים בני שני צלילים, לארבעה בני שלושה, לשלושה בני ארבעה, או לשניים בני שישה. בדרך כלל נתמקד בשורות הנגזרות מקבוצות בנות שלושה או ארבעה צלילים.\n\nלהלן דוגמה. השורה, מתוך רביעיית המיתרים אופ׳ 28 של וברן, חולקה לקבוצות נפרדות בנות ארבעה צלילים ולצמדי צלילים נפרדים. כל קבוצות הארבעה שייכות למחלקת הקבוצה (123). לכן נאמר שהשורה נגזרת מקבוצות בנות ארבעה, ושהיא נוצרת באמצעות (123). נוסף על כך, צמדי הצלילים הנפרדים מצביעים על גזירה מעניינת מצמדים מן המחלקה (1).\n\nבגירסה הכתובה מופיעה כאן שורה המסומנת P7. השורה מחולקת לשלוש קבוצות בנות ארבעה צלילים, ומתחת לכל קבוצה רשומה מחלקת הקבוצה (123). ששת צמדי הצלילים מסומנים מעל החַמְשָׁה ב־(1). הקורות מאגדות את ששת הצמדים, והסוגריים שמתחת לחַמְשָׁה מאגדים את שלוש קבוצות הארבעה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:22:03.790826+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
