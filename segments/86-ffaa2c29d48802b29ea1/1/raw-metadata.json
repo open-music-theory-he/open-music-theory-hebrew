@@ -1,0 +1,14 @@
+{
+  "text_sha256": "64ff0213930f3a188e64e2bc90918c4bcaf74f9c639f340e46c2f79c4156ea76",
+  "identity_sha256": "ffaa2c29d48802b29ea1e4b5109131989d40e1a84a12a6ace374e2df22a88f69",
+  "raw_sha256": "3b5bbd9f21bda88ea1f009eb9be0ee0141b503c194bbc46b17318d7c7cbf86bc",
+  "seconds": 69.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הסוגריים מציינים את הקבוצות הנפרדות בנות ארבעה צלילים בשורה. שימו לב שהן אותן קבוצות בשתי השורות השונות: אלה מקטעים אינווריאנטיים. הן נשמרות כך מפני שהן חולקות ביניהן אותו יחס שחולקות השורות. מאחר שהקבוצות קשורות ב־T8, כשמבצעים T8 לשורה כולה, קבוצות אלה ״נשמרות אינווריאנטיות״. חשבו כך: הקבוצה הראשונה [6789], תחת T8, נעשית הקבוצה האחרונה [2345]; ולכן תחת T8 לשורה כולה, הקבוצה האחרונה נעשית הראשונה.\n\nהערת מהדורה: מסקנת ״האחרונה נעשית הראשונה״ אינה נובעת מן החישוב הראשון כשלעצמו: T8 של [2345] נותן [TE01], לא [6789]. הטענה נשמרה מן המקור ותועדה לבירור מול הדוגמה ב־N118.\n\nכדי לקבוע מתי ואם מקטע מחלקות גובה צליל בשורה יישמר אינווריאנטי:\n\nמצאו במקום אחר בשורה קבוצה מאותה מחלקת קבוצה. זו יכולה להיות קבוצה בת שניים, שלושה, ארבעה צלילים וכן הלאה.\n\nקבעו את יחס הטרנספוזיציה או ההיפוך ביניהן.\n\nכאשר השורה עוברת טרנספוזיציה או היפוך באותו יחס, מקטע יישמר אינווריאנטי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:23:03.403505+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
