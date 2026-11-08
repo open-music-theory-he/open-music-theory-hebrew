@@ -1,0 +1,14 @@
+{
+  "text_sha256": "18620f407f034b0e048c60858ef8ae1ccc6f5d4907eba0faafc081df9f6df22f",
+  "identity_sha256": "0101231152be0651df4a632e419ea16b9a44088e7f4e003b317bb5907c009d27",
+  "raw_sha256": "d709a04aebe225bd81b5a90b861cad59b19fcb646c0db16c2b86f391595029f7",
+  "seconds": 93.44,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן שורת שנים־עשר טונים במפתח סול, המסומנת P11. השורה כתובה כרצף של שנים־עשר צלילים שונים עם במולים, דיאזים ובקרים. הסימון בעיגול מזהה את צורת השורה ואת מחלקת הגובה הפותחת.\n\nיש כמה כללים כלליים לשימוש בשורת שנים־עשר טונים, אף שכאמור הגישות האישיות שונות תמיד:\n\nמחלקות גובה הצליל מנוגנות לפי הסדר;\n\nלאחר שמחלקת גובה צליל נוגנה, אין חוזרים עליה עד לשורה הבאה.\n\nשורה יכולה לשמש כנושא או כמקור למוטיבים. אפשר לגזור ממנה אקורדים, או להשתמש בה הן לצרכים נושאיים והן לצרכים הרמוניים. הסידור הבסיסי, המוצג לעיל לאופ׳ 27, מכונה הצורה הראשונית של השורה (prime form, P). מכיוון שהיא מתחילה ב־B, מחלקת גובה צליל 11, היא מסומנת P11.\n\nאפשר לבצע לשורות טרנספוזיציה, היפוך, הילוך לאחור (retrograde), או כל שילוב של פעולות אלה. היפוך הצורה הראשונית נותן ״צורת I״. כמו צורות P, צורות I מסומנות לפי מחלקת גובה הצליל הראשונה שלהן. לכן השורה להלן, היפוך של זו שלעיל, מכונה I0. שימו לב שהיא מתחילה ב־C, מחלקה 0.\n\nבגירסה הכתובה מופיע כאן קטע לפסנתר המראה יחס היפוך בין שני צירופי צלילים. מעל הקטע הראשון C, D, G והקבוצה {0,2,7}; מעל השני A, D, E והקבוצה {9,2,4}. חץ T4I מקשר בין שני הצירופים, כאשר כיוון המרווחים מתהפך.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:19:13.271400+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
