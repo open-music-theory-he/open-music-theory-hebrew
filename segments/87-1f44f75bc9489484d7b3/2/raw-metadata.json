@@ -1,0 +1,14 @@
+{
+  "text_sha256": "efef2c742d22c27768c89723710c05cef982742cd79f8f6ddd74853e6aba9255",
+  "identity_sha256": "1f44f75bc9489484d7b3690f3b426f904a3bb8702cc6967326c256e3619f3ae2",
+  "raw_sha256": "576cafb66b6991b9beb9b93b68f124004e4e12f08cb239780993b164f6d83106",
+  "seconds": 80.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לאחר שהשאלות הראשוניות מצביעות על כיוון אחד או שניים, אפשר לנסות דברים ולראות מה עובד. בין שאתם מחפשים מוטיבים קצביים, אוספי מחלקות גובה צליל, שורות שנים־עשר טונים או תאים בני שלושה או ארבעה צלילים, זכרו את השאלות הבאות:\n\nאילו ניתוחים מסבירים את חוויית היצירה שלכם?\n\nאילו ניתוחים עונים על שאלות שכבר היו לכם לגביה?\n\nאילו ניתוחים פותחים שאלות חדשות ומעניינות יותר?\n\nואולי החשובה ביותר: אילו ניתוחים עוזרים לקשור דברים שנראו נפרדים לתחושת אחדות?\n\nניתוח מוזיקלי טוב הוא תאוריה טובה: הסבר של התצפיות ושל החוויה שלכם. מכיוון שמלחינים פוסט־טונליים רבים מנסים ליצור מגוון השפעות מוזיקליות באמצעות עקרונות יסוד מעטים, הניתוח הטוב ביותר הוא לעיתים קרובות זה שמסביר את רוב הדברים באמצעות המספר הקטן ביותר של עקרונות בסיסיים. אין זה תמיד כך, אך אם מצאתם מערכת קטנה של עקרונות מאחדים, כמעט בוודאות יש בידיכם ניתוח טוב. המתמטיקאים מכנים זאת אלגנטיות, והיא יכולה להועיל מאוד גם בניתוח אמנות.\n\nייתכן שההשערה הראשונה שלכם לא תעבוד. אולי יש טעות בניתוח — בדקו אותו. אך אולי המלחין פועל במכוון נגד הציפיות הברורות יותר שהוא מניח שהמאזינים מביאים איתם. לכן שמרו על ראש פתוח ונסו בשלב מוקדם כמה גישות, כדי לראות מה נראה מבטיח ביותר.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:24:15.725907+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
