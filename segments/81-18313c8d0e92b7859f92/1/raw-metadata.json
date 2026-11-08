@@ -1,0 +1,14 @@
+{
+  "text_sha256": "dee0b02eb9eb1830bfcc0774abb5c1230144b06c5fd11d6a5c582d81bf8d6bb2",
+  "identity_sha256": "18313c8d0e92b7859f92960ab96c10e37dd6124dbfeccfd038abf55c26401e7b",
+  "raw_sha256": "7f58119b2984cc8a59b7edad796110abd43b84818f4f2bc6a53600963d3a24e8",
+  "seconds": 86.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הדבר מוצג במפורש להלן. ארבע קבוצות שרירותיות השייכות ל־(027), המוצגות משמאל, הועתקו בדרכים שונות. כפי שצוין לעיל, רק T2, T10, T5 או T7 ישמרו צלילים משותפים. בכל טרנספוזיציה אחרת לא יהיו צלילים משותפים.\n\nבגירסה הכתובה מופיעות כאן חמש דוגמאות של טרנספוזיציות לקבוצות מן המחלקה (027). [0,2,7] עוברת ב־T2 אל [2,4,9], ו־[2,4,9] עוברת ב־T10 אל [0,2,7]; בכל אחת נשמר צליל משותף אחד. [5,7,0] עוברת ב־T5 אל [T,0,5], ו־[4,6,E] עוברת ב־T7 אל [E,1,6]; בכל אחת נשמרים שני צלילים משותפים. לבסוף [6,E,1] עוברת ב־T1 אל [7,0,2] ללא צליל משותף. בתרשים T מייצגת 10 ו־E מייצגת 11.\n\nהערת מהדורה: המשפט ״בכל טרנספוזיציה אחרת״ נשמר מן המקור, אך אינו מזכיר את טרנספוזיציית הזהות T0, המשמרת את כל הצלילים. החריג נרשם לבירור ב־N113.\n\nכאשר וקטור מחלקות המרווח כולל טריטון, בטרנספוזיציה בטריטון יישמרו פי שניים צלילים משותפים מן המספר הנקוב בווקטור. למשל, לקבוצה בת שלושה צלילים (016) הווקטור <100011>. תחת T6 יהיו לה שני צלילים משותפים, ולא אחד.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:18:16.976253+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
