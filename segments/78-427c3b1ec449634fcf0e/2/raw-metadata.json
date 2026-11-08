@@ -1,0 +1,14 @@
+{
+  "text_sha256": "00f931cc26abf2744015950491ee1cd6ab5a1587726a1bea9fd2580508904fa9",
+  "identity_sha256": "427c3b1ec449634fcf0e0345e5c2293ef002f05c79179749d8092f77d2f4c5d5",
+  "raw_sha256": "4c7aa10c4461d9479c19751a5393deed547a6cd66b1e7e8dea39b71a695ff83e",
+  "seconds": 54.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "השוו בין תוצאות שלבים 2 ו־4. הצורה הראשונית היא הגרסה הדחוסה ביותר.\n\nהדוגמה להלן מדגימה את התהליך באמצעות המוטיב מ״נושא ושיקוף״ של ברטוק.\n\nבגירסה הכתובה מופיע כאן תרשים בן חמישה שלבים לחישוב הצורה הראשונית. מתחילים בסדר הנורמלי [10,0,2,3,5] ומבצעים טרנספוזיציה לאפס לקבלת [0,2,4,5,7]. אחר כך הופכים ומסדרים בסדר נורמלי את [5,7,8,T,0], כאשר T מסמן את מחלקת הגובה 10, ומבצעים שוב טרנספוזיציה לאפס לקבלת [0,2,3,5,7]. לשתי התוצאות טווח כולל 7 וטווח פנימי 5; בהשוואה הבאה 3 קטן מ־4, ולכן נבחרת [0,2,3,5,7] והצורה הראשונית נכתבת (02357).\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:15:43.228494+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
