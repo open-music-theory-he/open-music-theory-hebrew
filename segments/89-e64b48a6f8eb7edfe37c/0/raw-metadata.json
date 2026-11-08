@@ -1,0 +1,14 @@
+{
+  "text_sha256": "da38aa683b5296cb36ee1b7048f8323cfe8c5f1910b668060aad4572798bc300",
+  "identity_sha256": "e64b48a6f8eb7edfe37c0ac9d6639696dfc95d8a6a7c75f10ce619e62b3cd309",
+  "raw_sha256": "4f79a96d4f3f7ff5bec08e9a5388d348d844cf13c6e2ffa30b75350a88c91161",
+  "seconds": 97.72,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "89 — ניתוח מוזיקת שנים־עשר טונים\n\nחומר גובה הצליל ביצירה קפדנית בשנים־עשר טונים נגזר כולו, או כמעט כולו, משורת שנים־עשר טונים (twelve-tone row) אחת. שורה היא קבוצה מסודרת של 12 מחלקות גובה הצליל של הסולם הכרומטי. כל אחת מופיעה בדיוק פעם אחת, והסדר חשוב ביותר.\n\nשורות שאפשר לקשר ביניהן באמצעות טרנספוזיציה, היפוך ו/או הילוך לאחור נחשבות צורות של אותה שורה. אם אין לשורה תכונות המאפשרות לה להימפות על עצמה תחת פעולות אלה, יהיו לה 48 צורות: ראשונית (P), היפוך (I), הילוך לאחור (R) והיפוך והילוך לאחור (RI), עם טרנספוזיציות המתחילות בכל אחת מ־12 מחלקות גובה הצליל.\n\nצורה ראשונית\n\nהצורה הראשונית של השורה (prime form) היא הצורה המרכזית שאליה מתייחסות כל היתר. בחלק מהיצירות צורה אחת שולטת בבירור במרקם. אם לא, בחרו את השורה הבולטת ביותר בתחילת היצירה וסמנו אותה P. אם כמה שורות בולטות באותה מידה, הטילו מטבע. ההחלטה איזו לכנות ״ראשונית״ אינה תמיד חשובה, אך הניתוח תלוי בצורת שורה אחת כנקודת ייחוס.\n\nכל צורת שורה הזהה לצורה הראשונית הפותחת, או לטרנספוזיציה מדויקת שלה, היא גם צורה ראשונית. לאחר סימון הצורה המרכזית בתחילת היצירה, כל שורה מאוחרת שהיא טרנספוזיציה מדויקת שלה היא ראשונית. גם כל שורה בעלת אותו רצף מרווחים בין מחלקות גובה צליל היא צורה ראשונית.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:24:57.052663+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
