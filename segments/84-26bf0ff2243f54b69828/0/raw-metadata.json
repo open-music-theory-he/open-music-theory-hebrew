@@ -1,0 +1,14 @@
+{
+  "text_sha256": "630a818ba20bc94cec0d1394836a551568d8e37e099553bdd9a7ba2d050949cf",
+  "identity_sha256": "26bf0ff2243f54b69828cdc3ee79f6d11c930bd788bf05b71d12fb47b6fad0e1",
+  "raw_sha256": "64bb96a9ed07ac277d2ee8c6fca9c9759e10589ec7fdc3f0963f2febdcbbfd9b",
+  "seconds": 91.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "84 — מוזיקת שנים־עשר טונים — מבנה מרווחי\n\nסדר מחלקות גובה הצליל אינו הדבר היחיד שמסודר בשורת שנים־עשר טונים. מאחר שמחלקות גובה הצליל נמצאות תמיד ביחסים זו עם זו, השורה היא גם אוסף מסודר של מרווחים. הבנת המבנה המרווחי של מחלקת שורה היא הדרך הטובה ביותר לקבל מושג על הצליל שלה.\n\nהמקור מפנה כאן לתרשים שבפרק הפעולות, ומתאר סדרות של מרווחים מסודרים בין מחלקות גובה צליל מתחת לכל אחת מצורות השורה בדוגמה.\n\nהערת מהדורה: בקובץ המקור אין בפועל הטמעה של התרשים המתואר כמצוי ״להלן״. נשמרו שתי ההפניות הקיימות; החוסר נרשם ב־N117.\n\nלשורות הקשורות בטרנספוזיציה, כמו P11 ו־P10, יש אותה סדרה של מרווחים מסודרים בין מחלקות גובה צליל.\n\nלשורות הקשורות בהיפוך, כמו P10 ו־I0, יש מרווחים מסודרים משלימים: מרווחים במקומות מקבילים בצורות השורה מסתכמים ב־12.\n\nלשורות הקשורות בהילוך לאחור יש מרווחים מסודרים שהם משלימים בסדר הפוך. השוו P10 ו־R10. בקריאת R10 לאחור, שלושת המרווחים האחרונים, למשל, הם 4 1 8. אלה המשלימים של שלושת המרווחים הראשונים ב־P10: 8 11 4.\n\nלשורות הקשורות בהיפוך ובהילוך לאחור יש מרווחים מסודרים שהם היפוך של סדר הרצף זה של זה. השוו P10 ו־RI0: בקריאת מרווחי RI0 לאחור, הם זהים למרווחי P10 הנקראים לפנים.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:21:36.483809+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
