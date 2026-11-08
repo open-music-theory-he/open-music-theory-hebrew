@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1c47eb784b82a2a8571ae9b0cf720b5536f938367baa4167715cd6e5d39a117c",
+  "identity_sha256": "e64b48a6f8eb7edfe37c0ac9d6639696dfc95d8a6a7c75f10ce619e62b3cd309",
+  "raw_sha256": "dcc4a66f3533327b33807f6538e57eaf8589beda0a8c4fa84db61e082138179d",
+  "seconds": 126.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "סימון זה אינו תמיד זהה לסימון פעולת ההיפוך היוצרת אותה; ראו ניתוח מוזיקה אטונלית. אם מתחילים ב־P0, לפעולת ההיפוך ולצורה המתקבלת אותו מספר תחתי. אחרת המספרים שונים. היזהרו שלא לבלבל ביניהם.\n\nהיפוך והילוך לאחור\n\nהיחס בין צורות היפוך והילוך לאחור RI לבין צורות היפוך I זהה ליחס בין R לבין P. צורות RI הופכות את סדר מחלקות גובה הצליל בצורות I, ונקראות לפי המחלקה האחרונה בצורת השורה.\n\nרצפי מרווחים\n\nלאחר שקבעתם או בחרתם איזו שורה היא ראשונית, נתחו את תוכנה המרווחי באמצעות מרווחים מסודרים בין מחלקות גובה צליל. כך תוכלו לקבוע אם צורות שורה מאוחרות הן P, I, R או RI, או שאינן שייכות לאותה משפחה.\n\nלמשל, השורה באופ׳ 25 של שנברג היא: [E, F, G, Db, Gb, Eb, Ab, D, B, C, A, Bb].\n\nמרווחיה — מרווחים עולים בין מחלקות גובה צליל, במודולו 12 — הם: 1, 2, 6, 5, 9, 5, 6, 9, 1, 9, 1.\n\nשימו לב: אף שאין בשורה מחלקת גובה צליל החוזרת פעמיים, כמה מרווחים חוזרים יותר מפעם אחת.\n\nמרווחי צורת ההיפוך הם באותו גודל ובכיוון ההפוך. אפשר לחשבם בחיסור כל מרווח של P מ־12: 11, 10, 6, 7, 3, 7, 6, 3, 11, 3, 11.\n\nמרווחי הילוך לאחור מבלבלים בתחילה. הפיכת סדר המחלקות משנה את כיוון כל מרווח. לכן C–A, מרווח 9, נעשה A–C, מרווח 3. כדי לקבל את רצף המרווחים של R, הפכו את סדר מרווחי ההיפוך: 11, 3, 11, 3, 6, 7, 3, 7, 6, 10, 11.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T20:30:36.911950+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
