@@ -1,0 +1,14 @@
+{
+  "text_sha256": "6efb93a09770c62320445e5b49f461ab786ddedafeb9b82c65e272914486c3cd",
+  "identity_sha256": "7dd7f3bdbae955a26cf095405d21475c2c31cd80f54fa75f762ce962e64da3c8",
+  "raw_sha256": "b076f8b5a9b1e255bb5a71bbe38916b5a717203fafe2fe72bb8a4df5a65e6d03",
+  "seconds": 103.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "75 — סדר נורמלי\n\nסדר נורמלי (normal order), המכונה לפעמים normal form, דומה במובנים רבים למושג ״מצב יסודי״ של אקורד משולש. בין השאר, מצב יסודי הוא דרך תקנית לסדר את מחלקות גובה הצליל של אקורדים משולשים ומרובעים, כדי שנוכל לסווגם ולהשוותם בקלות. הסדר הנורמלי עושה אותו דבר באופן כללי יותר, המתאים לאקורדים בעלי צלילים ומרווחים מגוונים.\n\nסדר נורמלי הוא הדרך הדחוסה ביותר לכתוב אוסף נתון של מחלקות גובה צליל. לעיתים קרובות תוכלו לקבוע אותו באופן אינטואיטיבי באמצעות מקלדת או לוח שעון, אך כדאי ללמוד תהליך שייתן תמיד תשובה נכונה.\n\nכתבו את הצלילים כאוסף של מחלקות גובה צליל בסדר עולה ובתוך אוקטבה אחת, ללא כפילויות. יש כמה תשובות אפשריות.\n\nכתבו שוב את מחלקת גובה הצליל הראשונה בסוף.\n\nמצאו את המרווח המסודר הגדול ביותר בין מחלקות גובה צליל סמוכות.\n\nכתבו מחדש את האוסף, החל במחלקה שמימין למרווח הגדול ביותר, וכתבו את התשובה בסוגריים מרובעים.\n\nלמשל, בהינתן {G♯4, A2, D♯3, A4}:\n\nכתבו אוסף מחלקות גובה צליל, ללא כפילויות, בסדר עולה ובתוך אוקטבה אחת: {8,9,3}.\n\nכתבו שוב את המחלקה הראשונה בסוף: {8,9,3,8}.\n\nמצאו את המרווח המסודר הגדול ביותר בין מחלקות סמוכות. כאן המרווח הגדול ביותר הוא בין 9 ל־3.\n\nכתבו מחדש החל במחלקה שמימין למרווח הגדול ביותר, בסוגריים מרובעים: [3,8,9].\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T06:01:16.260339+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
