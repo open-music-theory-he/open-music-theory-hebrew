@@ -1,0 +1,14 @@
+{
+  "text_sha256": "7c8f1f074b0733bbffd0994082734e8c0c83092e4529ee6ecec4ce9d59aa7286",
+  "identity_sha256": "e6b46faf9c4ab5c9232c0e692d00f13fc13674df49ae57026a4b6209d30f56e8",
+  "raw_sha256": "07ce8da23170b357f398ed854324d5ce1c1b09612281a2f70bc061c3385008d5",
+  "seconds": 138.64,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים של פעולות על שורת שנים־עשר טונים. בראש התרשים מוצגת P11 בתווים וברצף 11, 7, 6, 10, 9, 8, 2, 0, 3, 1, 5, 4; המרווחים המסודרים שמתחתיה הם 8, 11, 4, 11, 11, 6, 10, 3, 10, 4, 11. חץ T11 מוביל אל P10, שרצפה 10, 6, 5, 9, 8, 7, 1, 11, 2, 0, 4, 3 ואותה סדרת מרווחים. חץ T10I מוביל אל I0, שרצפה 0, 4, 5, 1, 2, 3, 9, 11, 8, 10, 6, 7 והמרווחים שלה 4, 1, 8, 1, 1, 6, 2, 9, 2, 8, 1. חצי R אנכיים מובילים מ־P10 אל R10, שרצפה 3, 4, 0, 2, 11, 1, 7, 8, 9, 5, 6, 10, ומ־I0 אל RI0, שרצפה 7, 6, 10, 8, 11, 9, 3, 2, 1, 5, 4, 0. מתחת לשתי השורות לאחור מופיעות סדרות המרווחים 1, 8, 2, 9, 2, 6, 1, 1, 8, 1, 4 ו־11, 4, 10, 3, 10, 6, 11, 11, 4, 11, 8 בהתאמה.\n\nחשוב להבחין בין פעולות לבין צורות שורה, מפני שסימוניהן לעיתים דומים. בחומרי עזר אלה, פעולות כגון טרנספוזיציה והיפוך יודגשו תמיד בכתב נטוי, ואילו צורות שורה בכתב מודגש.\n\nעליכם לשנן את השפעת הטרנספוזיציה, ההיפוך וההילוך לאחור על כל סוג שורה: לדעת איזו צורת שורה מתקבלת כאשר מבצעים עליה פעולה. למשל, אם מבצעים טרנספוזיציה לצורת P, איזה סוג מתקבל? ומה מתקבל כשמנגנים צורת RI לאחור? תרשים הזרימה להלן יסייע:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:20:42.877931+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
