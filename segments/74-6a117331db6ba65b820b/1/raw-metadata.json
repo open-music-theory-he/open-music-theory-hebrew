@@ -1,0 +1,14 @@
+{
+  "text_sha256": "40b2588d7d4cdee1211ed8430776aa76219f78aca89b480ac18615b41b24f53b",
+  "identity_sha256": "6a117331db6ba65b820b4840bd45c60999d25fafdb293643d2e4764b896fe01d",
+  "raw_sha256": "0b568376a6d02d417f99390711ca94ee6718cc0feb0318fe4bfb0f08f4a56a7b",
+  "seconds": 117.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים מרחב גובה צליל של שתי מחוות הכינורות. כינור 4 עולה מ־E4 אל A4 ואז B♭4, במרווחים +5 ו־+1; כינור 3 יורד מ־F5 אל C5 ואז B4, במרווחים −5 ו־−1. ציר הסימטריה האנכי מסומן B4, ושני הקווים יוצרים קשתות תואמות משני צדיו.\n\nסימטריה של גבהי צליל מניחה תמיד ציר סימטריה (axis of symmetry). במטפורת המראה, זה המקום במרחב גובה הצליל שבו נמצאת המראה. בדוגמה לעיל היא נמצאת ב־B4. להלן אותה מחווה בכלי הקשת הנמוכים. ישר מרחב גובה הצליל מראה שיש לה ציר סימטריה אחר, סביב E2.\n\nבגירסה הכתובה מופיע כאן קטע לשתי קבוצות כלי קשת נמוכים: הוויולות השניות, 2. Vle., במפתח אלט, והצ׳לים השניים, 2. Vlc., במפתח פה. הוויולות יורדות מ־B2 אל F♯2 ואז F2, והצ׳לים עולים מ־A1 אל D2 ואז E♭2. שתי המחוות המשוקפות כתובות בקשתות.\n\nבגירסה הכתובה מופיע כאן תרשים מרחב גובה צליל של כלי הקשת הנמוכים. הצ׳לים עולים מ־A1 אל D2 ואז E♭2, במרווחים +5 ו־+1; הוויולות יורדות מ־B2 אל F♯2 ואז F2, במרווחים −5 ו־−1. ציר הסימטריה האנכי מסומן E2.\n\nסימטריה של מחלקות גובה צליל\n\nסימטריה של מחלקות גובה צליל דומה מאוד לסימטריה של גבהי צליל, אך מובנת במרחב מחלקות גובה הצליל. להלן קטע נוסף מאותה יצירה של ברטוק. כמו לעיל, המחווה העולה בכלי הקשת הנמוכים משקפת את המחווה היורדת בכלי הקשת הגבוהים.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T06:00:27.719509+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
