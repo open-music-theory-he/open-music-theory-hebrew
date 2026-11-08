@@ -1,0 +1,14 @@
+{
+  "text_sha256": "a9f07e93f146d1cd34b0a27eeca667f6bae8da98675855adb4f9f1f0d0561e6a",
+  "identity_sha256": "77b53664d4dcd8ef36522a262509eec1c6d1928ae61f34c9d14bfead2d0216b2",
+  "raw_sha256": "f7b2f9859424c7835f3c43d0d5b45695864eb9bd05005ccede6752dcc7d73a0a",
+  "seconds": 100.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "76 — טרנספוזיציה\n\nבמוזיקה פוסט־טונלית, טרנספוזיציה (transposition) קשורה לעיתים קרובות לתנועה: כאשר מעתיקים אקורד, מוטיב או מלודיה, הרושם השמיעתי הוא של הזזתם לכיוון כלשהו. זה האפקט בשני הקטעים הנפרדים האלה מתוך ״הקתדרלה השקועה״, La cathédrale engloutie, מאת דביסי:\n\nבגירסה הכתובה מופיעים כאן שני קטעים לפסנתר מתוך הקתדרלה השקועה. מעל הראשון מופיעים B, D, E והקבוצה {11,2,4}; מעל השני D דיאז, F דיאז, G דיאז והקבוצה {3,6,8}. חץ המסומן T4 קושר את שני הקטעים ומציין טרנספוזיציה של ארבעה חצאי טון.\n\nמוטיב הפתיחה, המכיל את הצלילים B, D, E, או {11, 2, 4}, מועתק ארבעה חצאי טונים כלפי מעלה בתיבה 18, ומייצג את עלייתה האיטית של הקתדרלה מעל המים. טרנספוזיציה שומרת על התוכן המרווחי, ואף על הסידור המסוים של המרווחים. כשאנו שומעים את הקטע בתיבה 18, אנו מזהים את הקשר לתיבה 1 מפני שאותם מרווחים חוזרים, אך מתחילים בגובה צליל אחר.\n\nטרנספוזיציה היא פעולה — דבר שנעשה לגובה צליל, למחלקת גובה צליל או לאוסף שלהם — או לחלופין מדידה המייצגת את המרחק בין דברים. נסמן אותה Tn, כאשר n מציין את המרווח המסודר בין מחלקות גובה הצליל של שני הדברים. לביצוע Tn, מוסיפים n לכל איבר, במודולו 12. בהינתן אוסף מחלקות גובה הצליל בתיבה 1 לעיל וטרנספוזיציה T4:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:13:09.561759+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
