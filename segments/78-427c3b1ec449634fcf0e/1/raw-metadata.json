@@ -1,0 +1,14 @@
+{
+  "text_sha256": "5c15acc3d6576265d7767d16ba6707b5ba1f5a6a9fd7ead79e450bbc069843ad",
+  "identity_sha256": "427c3b1ec449634fcf0e0345e5c2293ef002f05c79179749d8092f77d2f4c5d5",
+  "raw_sha256": "382522cdb8c5d4a9e3d2db2a009c645f72c868fd61ee87e1450a092e6a043e5e",
+  "seconds": 98.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיעים כאן שני קטעי תווים מתוך ״נושא ושיקוף״ של ברטוק, ולידם ארבע קבוצות מחלקות גובה: [10,0,2,3,5] ו־[3,5,7,8,10] מעל התווים, ו־[3,5,6,8,10] ו־[8,10,11,1,3] מתחתיהם. שני החצים האופקיים מסומנים T5. החץ האנכי משמאל מסומן T8I, והחץ האנכי מימין מסומן T6I. כך התרשים מציג בו־זמנית יחסי טרנספוזיציה והיפוך בין ארבע הקבוצות.\n\nכדי שקבוצת מחלקות גובה צליל תהיה קשורה לקבוצה אחרת בטרנספוזיציה או בהיפוך, חייב להיות להן אותו אוסף מרווחים. קל להבין זאת אם זוכרים שלכל האקורדים המשולשים המז׳וריים והמינוריים אותו תוכן מרווחי: טרצה גדולה M3, טרצה קטנה m3 וקווינטה זכה P5. אקורדים משולשים מז׳וריים קשורים זה לזה בטרנספוזיציה, ואקורדים משולשים מז׳וריים ומינוריים קשורים זה לזה בהיפוך. אותו הדבר חל ב״נושא ושיקוף״ של ברטוק: לכל ארבע הקבוצות בשני הקטעים אותו תוכן מרווחי, ולכן אפשר לסמן ביניהן יחסי טרנספוזיציה והיפוך.\n\nכל קבוצות מחלקות גובה הצליל הקשורות בטרנספוזיציה ובהיפוך שייכות לאותה מחלקת קבוצה (set class), ומיוצגות באותה צורה ראשונית (prime form). נבצע תהליך פשוט להצגת קבוצה בצורה ראשונית:\n\nסדרו את הקבוצה בסדר נורמלי.\n\nבצעו טרנספוזיציה כך שהמחלקה הראשונה תהיה 0.\n\nהפכו את תוצאת שלב 2 — כל היפוך יתאים — וסדרו את התוצאה בסדר נורמלי.\n\nבצעו טרנספוזיציה כך שהמחלקה הראשונה תהיה 0.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:15:25.983721+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
