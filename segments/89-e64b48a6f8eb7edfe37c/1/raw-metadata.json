@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1c5665deb8c2210a525343a60180b6cd2c354712865bd3122b9cba5580959b2d",
+  "identity_sha256": "e64b48a6f8eb7edfe37c0ac9d6639696dfc95d8a6a7c75f10ce619e62b3cd309",
+  "raw_sha256": "74e13b451492aee7a447b64a3bc5d825407a2d4f28fb2cfb28f6cd2997878f97",
+  "seconds": 95.68,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מכיוון שאפשר להעתיק P לכל רמת מחלקת גובה צליל, נבחין ביניהן במספרים תחתיים. יש כמה שיטות מספור מקובלות. הפשוטה ביותר, שבה נשתמש בקורס זה, היא מספור לפי מחלקת גובה הצליל הפותחת. אם הצורה מתחילה ב־G, מחלקה 7, היא P7; ב־B, מחלקה 11 — P11.\n\nצורת הילוך לאחור\n\nצורת הילוך לאחור (retrograde) לוקחת צורת P והופכת בדיוק את סדר מחלקות גובה הצליל. המקור מתאר כאן בקיצור את תוכנה המרווחי כסדר ההפוך לזה של הצורות הראשוניות. צורות אלה מסומנות R ומספר תחתי המציין את מחלקת גובה הצליל האחרונה. כך, שתי צורות שהן הילוך לאחור מדויק זו של זו יקבלו אותו מספר תחתי.\n\nלמשל, אם לשורה מבנה מרווחי הפוך במדויק מזה של הצורות הראשוניות והיא מסתיימת ב־F♯, מחלקה 6, היא R6, ללא תלות בצליל הראשון.\n\nהערת מהדורה: בהמשך הפרק מוסבר במדויק יותר שמרווחים מסודרים בהילוך לאחור הם גם משלימים וגם מופיעים בסדר הפוך. הניסוח המקוצר לעיל נשמר כטענת המקור. ראו N119.\n\nצורת היפוך\n\nצורת שורה ההופכת בדיוק את מבנה המרווחים של הצורה הראשונית היא צורת היפוך (inversion). למשל, עלייה של שלושה חצאי טונים נעשית ירידה של שלושה, או עלייה של תשעה במודולו 12. צורות היפוך מסומנות לפי מחלקת גובה הצליל הראשונה. צורה המתחילה ב־E♭, מחלקה 3, היא I3.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T20:30:03.545003+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
