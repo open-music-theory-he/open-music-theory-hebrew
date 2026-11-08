@@ -1,0 +1,14 @@
+{
+  "text_sha256": "55a5a82f52ff03667189e62d38590a06bf5f050b57d768ede4282588631fbc3e",
+  "identity_sha256": "1f44f75bc9489484d7b3690f3b426f904a3bb8702cc6967326c256e3619f3ae2",
+  "raw_sha256": "1db183af425759daad0932046f42ed9d6e94f8c90e7d9d82f0e07d97c28510da",
+  "seconds": 93.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "87 — ניתוח יצירה פוסט־טונלית מן ההתחלה\n\nייחודה של כל יצירה הוא שעושה את המוזיקה הפוסט־טונלית למעניינת כל כך. כפי שג׳רג׳ ליגטי מציין, יצירות פוסט־טונליות רבות משתמשות ב״צורות יחידות במינן״ (״On Form in New Music״, 1966). במקרים הטובים ביותר צורות אלה הופכות את ההאזנה למרתקת מאוד; במקרים הגרועים ביותר היא עלולה להיות מבלבלת ומתסכלת. ברוב המקרים, הייחוד המתמיד מקשה על הניתוח, שכן אין תהליך יחיד או מערכת כלים אחת המסייעים למוזיקאים לפענח את מבנה היצירה ואת משמעותה.\n\nעם זאת, כמה עקרונות כלליים יכולים להנחות את העיסוק ביצירות פוסט־טונליות. זכירתם — למעשה, אלה שאלות — בשלב מוקדם של הניתוח יכולה לסייע לקשר את הנשמע למה שכבר ידוע לנו, ולבחור כלים ותהליכים להעמקת העיון.\n\nמתחילים\n\nבמפגש הראשון עם יצירה פוסט־טונלית, שלוש השאלות הבאות יכולות לסייע מאוד בתכנון הניתוח:\n\nמה צורת היצירה? גם אם איננו יכולים לענות מיד בתבנית ברורה כגון ABA', רגעים מסוימים יבלטו מתוך המרקם בהאזנה: שיאים, נקודות הגעה ורגעי שינוי. כשנשמע אותם, אפשר לרשום אותם לניתוח נוסף: מה גרם לרגע להישמע כשיא או כהגעה? מה בדיוק השתנה? אם האוזן נתפסה בו בהאזנה הראשונה, סביר שהוא חשוב. מלחינים מסוימים משתמשים במכוון ברגעים נשמעים בבירור כדי לסייע למאזינים להבין את המבנים הייחודיים שלהם.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:23:31.244293+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
