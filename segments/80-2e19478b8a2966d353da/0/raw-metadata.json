@@ -1,0 +1,14 @@
+{
+  "text_sha256": "99bc5d374010e7652c6988e6759fb0751685362b60a0aa82192f444294eadae1",
+  "identity_sha256": "2e19478b8a2966d353daf05b16dc2d11b14a61d9bcf364b6a9cf32a982a65045",
+  "raw_sha256": "e315e498c5699111d148256e7f0da6d47600146ab06a6ac016a36b7e07350c8a",
+  "seconds": 83.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "80 — קבוצות משלימות\n\nהמשלים הממשי (literal complement) של קבוצת מחלקות גובה צליל מכיל כל צליל שאינו כלול בקבוצה. למשל, המשלים של סולם C מז׳ור בן שבעת הצלילים הוא סולם פנטטוני בן חמישה צלילים: F♯, G♯, A♯, C♯ ו־D♯.\n\nהמשלים של כל קבוצה בת n צלילים (n-chord) הוא תמיד קבוצה בת 12-n צלילים. לפיכך המשלים של קבוצה בת שלושה צלילים (trichord) הוא קבוצה בת תשעה (nonachord), של קבוצה בת ארבעה (tetrachord) — קבוצה בת שמונה (octachord), וכן הלאה.\n\nלהלן הקבוצה בת שלושה צלילים [0,1,2]. המשלים הממשי שלה הוא כל הצלילים שאינם בה: [3,4,5,6,7,8,9,T,E]. כאשר מציגים את שתי הקבוצות בצורה ראשונית, הן מכונות משלימים מופשטים (abstract complements):\n\nבגירסה הכתובה מופיע כאן תרשים המשווה בין משלים ממשי למשלים מופשט. בחלק העליון, תחת הכותרת Two literal complements, מוצגות הצורות הנורמליות [0,1,2] ו־[3,4,5,6,7,8,9,T,E]. בחלק התחתון, תחת הכותרת Two abstract complements, מוצגות הצורות הראשוניות (012) ו־(012345678).\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:17:02.612421+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
