@@ -1,0 +1,14 @@
+{
+  "text_sha256": "be414bfe8e3c91fd44d36cbca1696fc69251929535abd8ab0de18888b189908d",
+  "identity_sha256": "0101231152be0651df4a632e419ea16b9a44088e7f4e003b317bb5907c009d27",
+  "raw_sha256": "f180f4feea6247fb8861180c4c7581099077af94a9ac0dd68cc4791cf57fa2a8",
+  "seconds": 73.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "הערת מהדורה: קובץ inversion.png משמש במאגר גם לדוגמת דביסי בפרק ההיפוך. התאמתו להסבר שורת וברן כאן דורשת אימות חזותי נוסף; אין לראות בכיתוב אישור להתאמה. ראו N116.\n\nאפשר לנגן צורות P ו־I גם לאחור. בדוגמה להלן שימו לב לקשר לשורות P11 ו־I0 שלעיל. צורת P המנוגנת לאחור מכונה ״צורת R״; צורת I המנוגנת לאחור מכונה ״צורת RI״. כפי שמראה הדוגמה, R ו־RI מסומנות לפי מחלקת גובה הצליל האחרונה שלהן.\n\nבגירסה הכתובה מופיע כאן משפחת צורות שורה בשתי חַמְשׁוֹת. בשורה העליונה P11 נקראת משמאל לימין ו־R11 מימין לשמאל; בתחתונה 'I 0' משמאל לימין ו־RI0 מימין לשמאל. החצים מפרידים בין כיוון הקריאה לבין היפוך מבנה המרווחים.\n\nבתרשים ארבע צורות בלבד, אך לכל אחת 12 טרנספוזיציות. לכן שורה יחידה מולידה 48 שורות: 12 × 4. אוסף זה מכונה מחלקת שורה (row class), וממנו המלחין שואב בכתיבת המוזיקה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:19:34.847925+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
