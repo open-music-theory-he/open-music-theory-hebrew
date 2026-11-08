@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9a3b2216eb6cc07c3d4e60b41f45f612f05422cbd0ee898668292560e5ac2984",
+  "identity_sha256": "1f44f75bc9489484d7b3690f3b426f904a3bb8702cc6967326c256e3619f3ae2",
+  "raw_sha256": "3731bde3d795dd9bd5d613fef17d2958bcfd393081f59e91b3da3a5e16684994",
+  "seconds": 79.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מה פירוש שם היצירה? שם כגון ״רביעיית מיתרים מס׳ 1״ אולי אינו מועיל, אך ״הקתדרלה השקועה״ יכול גם לעורר דימויים וגם להנחות אותנו להבנת תפקידיהם של מרכיבים מסוימים במבנה הגדול. כך אפשר לצמצם את בחירת המרכיבים הזקוקים ביותר לתשומת לב בניתוח.\n\nמה ההקשר ההיסטורי של היצירה? האם נכתבה בידי שנברג, ברג או וברן? אולי תורת הקבוצות או תאוריית שנים־עשר טונים יספקו את הכלים המעמיקים ביותר. האם נכתבה לפני שנות העשרים של המאה העשרים? אל תטרחו להחיל עליה תאוריית שנים־עשר טונים מפותחת. האם נכתבה בידי דביסי או ברטוק? אולי כדאי להתחיל ביחס בין אוספי מחלקות גובה צליל שונים לבין הצורה. האם נכתבה בידי מלחין אירופי אחרי מלחמת העולם השנייה? אולי יש לחפש מבנים סריאליים. האם זה בלט של סטרווינסקי? בחנו את הקצב והשוו לסרטון הכוראוגרפיה המקורית, אם אפשר למצוא כזה. ידיעת הקשר בין טכניקות לבין מלחינים, ארצות ותקופות יכולה לצמצם מאוד את האפשרויות ולמקד את תשומת הלב במרכיבים שסביר יותר שהם חשובים מבחינה מבנית.\n\nאף אחת מהשאלות אינה נותנת תשובה חסינת טעויות. אולם אם שלושתן מצביעות לאותו כיוון, זה סימן טוב שכדאי להתחיל שם.\n\nניגשים לעבודה\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:23:54.133874+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
