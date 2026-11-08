@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b4e66b5c519cf55ece0a6464d43f097cc44effa11d3f536dd967bb257e3cf1dd",
+  "identity_sha256": "7b760c239066578b66f5716d59b3c33d1ff98c069cc45e0dd7924dce0ac6c898",
+  "raw_sha256": "911d3752a6444dc1b0101250c3b3023fb90eccd0d3e42fb0c9196c207432d3d7",
+  "seconds": 92.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן תרשים של היפוך באמצעות לוח שעון בשני שלבים. תחילה משקפים את הקבוצה {0,2,7} סביב ציר 0–6: 0 נשאר במקומו, 2 עובר ל־10 ו־7 עובר ל־5, ולכן מתקבלת {0,5,10}. לאחר מכן מוסיפים 4 ל־5, 10, 0 ומקבלים 9, 2, 4. התוצאה המוצגת היא {9,2,4}, וזהו מימוש גאומטרי של T4I.\n\nלשמחתנו, יש דרך מהירה הרבה יותר להפוך גובה צליל או אוסף גבהי צליל. בהינתן אוסף מחלקות גובה צליל ו־TnI, פשוט מחסירים את מחלקות גובה הצליל מ־n:\n\nבגירסה הכתובה מופיע כאן חישוב היפוך T4I באמצעות חיסור ממספר קבוע. בשורה העליונה 4, 4, 4; מחסרים 0, 2, 7 ומקבלים 4, 2, 9 במודולו 12. הקבוצה מוצגת לאחר מכן בסדר {4,2,9}.\n\nולהפך: כדי לקבוע את TnI המקשרת בין שני אוספים, מצאו ערך משותף שאליו מסתכמים כל זוגות המחלקות המתאימים. זהו ה־n ב־TnI:\n\nבגירסה הכתובה מופיע כאן חישוב של יחס ההיפוך באמצעות סכומי מחלקות גובה תואמות. מחברים את 0, 2, 7 אל 4, 2, 9 בהתאמה ומקבלים 4 בכל זוג במודולו 12. הכיתוב מזהה את הקשר בין {0,2,7} ל־{2,4,9} כ־T4I.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:14:27.417649+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
