@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1a62850ee87e2efe374aed57246f1475a77ba3a733aaebb60ba29767e7ac391b",
+  "identity_sha256": "2e19478b8a2966d353daf05b16dc2d11b14a61d9bcf364b6a9cf32a982a65045",
+  "raw_sha256": "598cdd51c6ae48c17f7ac6b1bbc927a29db6bf44932f88b95de47538e0118f12",
+  "seconds": 62.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ברשימת מחלקות הקבוצה המשלימים המופשטים מופיעים זה לצד זה. ביניהם יחס מרווחי מעניין מאוד, הניכר בהשוואת וקטורי מחלקות המרווח שלהם. במחלקות קבוצה משלימות יש ״התפלגות״ דומה של מרווחים. להלן תראו שבקבוצה (012345678) יש בדיוק שישה מרווחים נוספים מכל מחלקת מרווח לעומת המשלים שלה, (012), פרט לטריטון: ממנו יש רק שלושה נוספים.\n\nבגירסה הכתובה מופיעה כאן השוואה בין וקטורי מחלקות המרווח של קבוצה ושל המשלים שלה. משמאל השלישייה 3-1, שצורתה הראשונית (012) והווקטור שלה ‎<210000>; מימין המשלים 9-1, שצורתו הראשונית (012345678) והווקטור שלו ‎<876663>. חץ המסומן +6 מצביע מן הווקטור השמאלי אל הימני: בחמש מחלקות המרווח הראשונות נוספו שישה מופעים בכל מחלקה, ואילו בטריטון נוספו שלושה.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:17:21.377007+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
