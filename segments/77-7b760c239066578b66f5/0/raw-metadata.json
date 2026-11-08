@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c99479b0a2a21aff8d65e092d2f6af9644e8429b13d815d8ac7442fe7a97a260",
+  "identity_sha256": "7b760c239066578b66f5716d59b3c33d1ff98c069cc45e0dd7924dce0ac6c898",
+  "raw_sha256": "97a9cfe5a28127fe137c01a10ae0460467a591730d74f9c1ad7ac8e7eb5f7d1d",
+  "seconds": 96.8,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "77 — היפוך במוזיקה פוסט־טונלית\n\nהיפוך (inversion), כמו טרנספוזיציה, קשור לעיתים קרובות לתנועה המחברת עצמים דומים. עליכם לדעת (1) להפוך אוסף גבהי צליל, ו־(2) לקבוע את יחס ההיפוך בין שני אוספים.\n\nבגירסה הכתובה מופיע כאן קטע לפסנתר המראה יחס היפוך בין שני צירופי צלילים. מעל הקטע הראשון C, D, G והקבוצה {0,2,7}; מעל השני A, D, E והקבוצה {9,2,4}. חץ T4I מקשר בין שני הצירופים, כאשר כיוון המרווחים מתהפך.\n\nהקטע לעיל מתוך ״הקתדרלה השקועה״ של דביסי הוא דוגמה לכך. כמו בקטעים הקשורים בטרנספוזיציה, לשתי המחוות אותו תוכן מרווחי, ולכן אוזנינו מזהות ביניהן דמיון רב. דביסי מדגיש את הדמיון באמצעות אותו דפוס קצבי בשתיהן. אולם, בניגוד לטרנספוזיציה, התוכן המרווחי בשתי המחוות אינו מסודר באותה דרך.\n\nבגירסה הכתובה מופיעות כאן שתי מחוות המסודרות בהיפוך של מרווחים. משמאל C–D–G עם מרווחים +2 ו־+5; מימין E–D–A עם מרווחים +2 ו־+5 בכיוון הפוך של הקריאה המוזיקלית. הקשת האנכית של המרווח הכולל מסומנת +7 בשני המקרים.\n\nבשתיהן אותם מרווחים, אך באוסף {A,D,E} המרווח +5 נמצא למטה במקום למעלה.\n\nהיפוך הוא תהליך בשני שלבים, המתבצעים בסדר זה: (1) שיקוף מחלקות גובה הצליל סביב ציר הסימטריה 0–6; ואז (2) טרנספוזיציה. תחילה נמחיש זאת בשעון, ואחר כך נציג דרך קלה יותר:\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:14:01.443678+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}

@@ -1,0 +1,14 @@
+{
+  "edition": 3,
+  "builder": 1,
+  "policy_sha256": "20edbc7bc5a3307cbc62bd8b6bd7848a89b458b80de38cca1c43ff93443af554",
+  "source_sha256": "869bf64bef5fb978a9e0b01b5c53bc23b760b47f3fb2389fdd9d9413cbc8f5c8",
+  "integrated_reading_sha256": "7406051506d2a19bdea80fa1a630e62cf45ac9693fe663b601d513b2f60e9796",
+  "transcript_sha256": "d2d0e6d73f0d585037ac4d119d2d70c5d2ea2b6a7530e2031cfdee33894f2d7f",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "opening_text_sha256": "122ea37cc5104b2f61e4010f8104b3b126ce2bce32bb5fdc49663dda36cb9178",
+  "opening_style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Read briskly but distinctly, like the brief disclaimer at the end of a radio advertisement. Articulate every word clearly; short natural pauses at sentence boundaries. Do not rush beyond intelligibility.",
+  "opening_raw_sha256": "d1af72c21fb0e43b57696624d2b61b2b7cfb127f4aa99542a893a276f7a89935"
+}
