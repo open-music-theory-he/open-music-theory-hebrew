@@ -1,0 +1,14 @@
+{
+  "text_sha256": "042a58fe2290bb9c1666d19b11cb3384f14aa317c7622b0ad481b2fb87319ca8",
+  "identity_sha256": "1f44f75bc9489484d7b3690f3b426f904a3bb8702cc6967326c256e3619f3ae2",
+  "raw_sha256": "83eb34acddd7bdd63dd5526171fcf68f734a546eb09e3c68d759a68ef70d59a6",
+  "seconds": 29.8,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "זכרו תמיד את חוויית היצירה שלכם: מה בלט בהאזנה הראשונה, השנייה, העשרים וכן הלאה. עיגון הניתוח בחוויה שלכם יעזור להתמיד בחיפוש, וגם ינצל מבנים שהמוח כבר מכיר אך מבין בינתיים רק באופן לא מודע. קל יותר לקשור אינסטינקטים מוזיקליים למושגים מפורשים מאשר להתחיל מאפס, ובדרך כלל התוצאה תהיה מספקת יותר מבחינה אישית.\n\nחומר עזר זה נכתב בידי Kris Shaffer.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:24:27.722256+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
