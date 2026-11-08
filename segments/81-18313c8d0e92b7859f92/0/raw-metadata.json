@@ -1,0 +1,14 @@
+{
+  "text_sha256": "0c402f3438172c281ddea194640ed2663d07a189cf40876727096d9378b627f6",
+  "identity_sha256": "18313c8d0e92b7859f92960ab96c10e37dd6124dbfeccfd038abf55c26401e7b",
+  "raw_sha256": "79476ae053f280742909f245edb46356124c34e72a4ba7bfaa1350feb44fb550",
+  "seconds": 102.92,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "81 — צלילים משותפים תחת טרנספוזיציה\n\nכבר ראינו שרשימת מחלקות הקבוצה יכולה ללמד אותנו דברים מעניינים וחשובים על התכונות המרווחיות של מחלקת קבוצה ושל המשלים שלה.\n\nהיא יכולה גם ללמד כמה צלילים משותפים נשמרים כשמבצעים טרנספוזיציה לקבוצה. כך הדבר פועל:\n\nכל מקום בווקטור מחלקות המרווח מציין כמה מרווחים ממחלקה מסוימת יש במחלקת הקבוצה הנתונה. למשל, במחלקת הקבוצה (027) המוצגת להלן, בכל קבוצה השייכת למחלקה יש שני מרווחים ממחלקה 5 ומרווח אחד ממחלקה 2.\n\nהמספרים האלה מציינים גם כמה צלילים משותפים נשמרים בטרנספוזיציה במרווח השייך למחלקת המרווח הזאת. כלומר, מאחר שבעמודה השנייה מופיע 1, קבוצה השייכת ל־(027) תשמור צליל משותף אחד בטרנספוזיציה T2 או T10. מאחר שבעמודה החמישית מופיע 2, היא תשמור שני צלילים משותפים בטרנספוזיציה T5 או T7.\n\nבגירסה הכתובה מופיע כאן תרשים הקושר את וקטור מחלקות המרווח למספר הצלילים המשותפים בטרנספוזיציה. בראש התרשים מוצגים מספר פורטה 3–9, הצורה הראשונית (027) ווקטור מחלקות המרווח <010020>. חץ מן הרכיב השני, שערכו 1, מוביל לכיתוב שלפיו נשמר צליל משותף אחד בטרנספוזיציה T2 או T10. חץ מן הרכיב החמישי, שערכו 2, מוביל לכיתוב שלפיו נשמרים שני צלילים משותפים בטרנספוזיציה T5 או T7.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T15:17:52.650034+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
