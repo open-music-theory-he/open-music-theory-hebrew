@@ -1,0 +1,14 @@
+{
+  "text_sha256": "ae3e964e0e556d228dd7a4cbb4dffeb20c6e88c74a3e42d872f61cb515f60f06",
+  "identity_sha256": "6a117331db6ba65b820b4840bd45c60999d25fafdb293643d2e4764b896fe01d",
+  "raw_sha256": "e7d059b07d2a53f3f0eceee4f9ae14cace0ae41293bd9caf9c84e0a080a794e9",
+  "seconds": 59.32,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיע כאן קטע בן חמש מערכות כלי קשת סביב התיבה המסומנת 50: כינור ראשון, כינור שני, ויולה ראשונה, צ׳לו ראשון וקונטרבס ראשון. הקולות נכנסים ברגיסטרים שונים, עם צלילים מוחזקים בקשתות, סימני היתק ודינמיקת פורטה, ומציגים תנועות מנוגדות המשמשות לבדיקת סימטריה של מחלקות גובה.\n\nמיפוי הקטע על מעגל מחלקות גובה הצליל מראה את הסימטריה שלו. התבוננו היטב בתרשים המעגלי: הקטע סימטרי מבחינת מחלקות גובה צליל סביב 2 וגם סביב 8. בניגוד למרחב גובה הצליל, הצירים במרחב מחלקות גובה הצליל נמצאים תמיד בשתי נקודות שונות על המעגל.\n\nבגירסה הכתובה מופיע כאן מעגל מחלקות גובה הצליל, 0 עד 11, עם 0 בראש והמספרים מסודרים בכיוון השעון. קו אלכסוני המסומן axis of symmetry עובר דרך מחלקות הגובה 2 ו־8 ומציג את שני קצות ציר הסימטריה במרחב המחזורי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-08T06:00:46.264316+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
