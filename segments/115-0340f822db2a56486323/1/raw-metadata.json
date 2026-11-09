@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b60ea52e0da38b31596cc967ec83a880f1942e0f9fbb34bb6eb98d2f06d7e745",
+  "identity_sha256": "0340f822db2a5648632314cde672319c5e812fd9edc2383cceb506febfaa147e",
+  "raw_sha256": "8c351af57d9e27015239f3651fa670bf451a34983455a38e30d5ae5862834185",
+  "seconds": 98.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ברירת מחדל שלישית היא 'V':PAC MC או 'I I I':PAC MC; רביעית היא 'I':PAC MC. שתיהן נדירות בהרבה מן הראשונות ויוצרות עצירה חזקה יותר במהלך המוזיקלי.\n\nהמאפיינים המקיפים בדרך כלל MC הם:\n\nהגברת אנרגיה לקראת הקדנצה, בתוך TR ש־MC מסיימת.\n\nהגעה בולטת לדומיננטה מבנית.\n\nהפסקה או קטיעה במרקם, לעיתים ממולאת בקול יחיד או במרקם מצומצם מאוד — ״מילוי הצזורה״ (caesura fill) של H/D.\n\nשמירה רציפה על האנרגיה בין הקדנצה ההרמונית להפסקת המרקם.\n\nמאפיינים נפוצים נוספים, שאינם נדרשים כלל, הם:\n\nfa–fi–sol בבס לקראת הקדנצה.\n\nהארכה או הרחבה של ההגעה לדומיננטה — ״נעילה על הדומיננטה״ (dominant lock).\n\nו/או אקורד ההגעה החוזר שלוש פעמים מיד לפני ההפסקה — ״מהלומות פטיש״ (hammer blows).\n\nכדי ש־MC תהיה אמיתית, חייב לבוא אחריה נושא S העונה לדרישות, כמוסבר להלן. קדנצה שיכלה לתפקד כ־MC אך אין אחריה S מתאים היא ״צזורה אמצעית שנדחתה״ (medial caesura declined). כל תצוגה דו־חלקית הדוחה צזורה חייבת לכלול MC ״אמיתית״ בהמשך. אם אין כזאת, התצוגה רציפה ולא דו־חלקית.\n\nהערת תרגום: עמוד חלופי זה מתייחס ל־MC כקדנצה. בפרק נקודות ההגעה המבניות נבדלות הצזורה והקדנצה במפורש. שני ניסוחי המקור נשמרו עם הסתייגות, כפי שמתועד ביומן.\n\nסגירה מהותית של התצוגה — EEC\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:00:16.502692+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
