@@ -1,0 +1,14 @@
+{
+  "text_sha256": "91239da2692322727fa70f255e0995883574752ca7f679e07445cb9f390c01e4",
+  "identity_sha256": "9ee0f20ed1c5b652ac0a6e742b6ef284dc5c928f84c682e2a6292af00d8648cc",
+  "raw_sha256": "6ee4577a0da6dfd353201b50bf925f89e76a5f4fe23e4b36d0533c9ce617161c",
+  "seconds": 186.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "אף שהדרגה החמישית המונמכת היא מבחינה טכנית se, מבחינה פונקציונלית זהו בדרך כלל צליל מוביל משני אל 'V'. לכן כמעט תמיד שרים במלודיה fi, גם בירידה.\n\nהמקור אומר שמכיוון ש־ti ו־la שייכים למינור ו־fa כמעט לעולם אינו מונמך כרומטית בהקשר טונלי, ההברות הכרומטיות היורדות במינור זהות למז׳ור.\n\nהערת תרגום: ההברות הן בדו יחסי. במינור טבעי ההברות הדיאטוניות הן le ו־te; la ו־ti מופיעות בצורות מוגבהות של המינור. ההסתייגות לגבי אי־הנמכת do ו־fa מתייחסת לבחירת ההברות כאן, ולא לאיסור כללי על הנמכת צלילים אלה. במקור הופיע d במקום do ברשימה הראשונה; תוקן במפורש.\n\nתרגילים לפיתוח שטף\n\nכמו תרגילי הסקוונצה המלודיים להברות דיאטוניות, תרגילי יסוד מסייעים לפתח שטף גם בהברות כרומטיות.\n\n1) שכנים תחתונים שלמים\n\nשירו דגם שכן תחתון כרומטי שלם על כל דרגה, תחילה בעליית הסולם ואחר כך בירידתו.\n\nמז׳ור בעלייה: do ti do | re di re | mi ri mi | . . . | ti li ti | do\n\nמז׳ור בירידה: do ti do | ti li ti | la si la | . . . | re di re | do\n\nמינור טבעי בעלייה: do ti do | re di re | me re me | . . . | te la te | do\n\nמינור טבעי בירידה: do ti do | te la te | le so le | . . . | re di re | do\n\n2) שכנים עליונים שלמים\n\nשירו דגם שכן עליון כרומטי שלם על כל דרגה, תחילה בעליית הסולם ואחר כך בירידתו.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:04:29.679927+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
