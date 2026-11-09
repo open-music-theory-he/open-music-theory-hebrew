@@ -1,0 +1,14 @@
+{
+  "text_sha256": "72d2e7f2d3945223e2ef49ce8d5e705b1196c8dcbd68e170948d6bb5b376ec84",
+  "identity_sha256": "edff54c871df4b28d570c6ab55d384713c04b2f1267147e960dbcdf4fb468a43",
+  "raw_sha256": "7b4ed90eefb8dacebc0660d4f5715af6bb98e35db3e24fe591f60b7a5f1adb75",
+  "seconds": 94.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "113 — הנחיות לשירה מן הדף\n\nלפני שירה של מלודיה מן הדף, עברו על התהליך הבא.\n\nראשית, זהו את המשקל לפי המספר העליון בסימן המשקל. לאחר מכן זהו את ערך הפעמה ואת ערך חלוקתה לפי המספר התחתון. במידת הצורך חזרו אל משקל וסימני משקל.\n\nלאחר מכן זהו את הסולם. סימן הסולם מציע שתי אפשרויות: מז׳ור אחד ומינור אחד. התבוננו בצליל הראשון ובאחרון של המלודיה: לעיתים קרובות הם הטוניקה, בייחוד האחרון, אם כי לא תמיד בקטעים מתוך מלודיות ארוכות. הדבר יסייע לבחור בין האפשרויות. לבסוף חפשו סימני היתק. צלילים מוגבהים שיהיו la או ti בסולם המינורי שמציע הסימן יאשרו אותו כסולם המלודיה, לפי הנחיית המקור.\n\nסרקו את המקצב למציאת הצלילים המהירים ביותר ואת גבהי הצליל למציאת הקטעים הקשים ביותר. בחרו מפעם שבו נוח לבצע אותם.\n\nמצאו את הצליל הגבוה ביותר ואת הנמוך ביותר. כששרים לבד אפשר לשיר בכל סולם שתרצו. בחרו סולם שיכניס את שניהם לטווח הקול שלכם.\n\nלאחר בחירת הסולם והמפעם, התמקמו בסולם: למשל באמצעות סולמות, ארפג׳ים או דגמי סולפז׳ כמו אלה שבעמ׳ 51 ו־89 בספר Manual for Ear Training and Sight-Singing של Gary Karpinski.\n\nאחרי ההתמקמות בסולם מצאו את הקטעים הקשים והמסובכים ביותר. שירו כמה מהם בקול, ואולי הוסיפו או השמיטו צלילים כדי להבין אותם, ואז שירו אותם כפי שנכתבו.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:53:54.553876+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
