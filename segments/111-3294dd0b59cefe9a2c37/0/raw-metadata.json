@@ -1,0 +1,14 @@
+{
+  "text_sha256": "8e680a6216978555b72f2e6c29e62d9c7139a4387409578e934ef91ca07b23a3",
+  "identity_sha256": "3294dd0b59cefe9a2c373b675a4ca4a0c892a984eeebb198fb5557e4ccfadd2d",
+  "raw_sha256": "fb5061913afede069c12502e5bf4923a38582ec49e86d6028025c077ef7a22cc",
+  "seconds": 131.48,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "111 — תרגילי סקוונצה מלודיים\n\nהתרגילים הבאים נקראים תרגילי סקוונצה (sequentials). מבצעים אותם בשירת אותו דגם בטרנספוזיציה לכל דרגת סולם לפי הסדר. למשל, הראשון, do re mi, מבוצע כך:\n\ndo re mi | re mi fa | mi fa sol | וכן הלאה.\n\nהתרגילים מועילים מאוד לפיתוח שטף בהברות הסולפז׳ ולזיהוי דגמים רגילים במלודיה. תרגלו בעלייה ובירידה.\n\nהתרגילים שלהלן במז׳ור. במינור טבעי החליפו mi ב־me, la ב־le ו־ti ב־te. במינור הרמוני שירו כמו במינור טבעי, אך עם ti במקום te. תרגילים 6 ו־7 יישמעו לא נוחים במינור הרמוני בשל הקווינטה המוגדלת me–ti. אפשר לדלג עליהם, מפני שמרווח זה נדיר ברפרטואר הקלאסי. כל ההברות מציינות דרגות בדו יחסי.\n\n1) Do re mi\n\nבעלייה: do re mi | re mi fa | mi fa sol | . . . | ti do re | do\n\nבירידה: do ti la | ti la sol | la sol fa | . . . | re do ti | do\n\n2) Do re mi do\n\nבעלייה: do re mi do | re mi fa re | mi fa sol mi | . . . | ti do re ti | do\n\nבירידה: do ti la do | ti la sol ti | la sol fa la | . . . | re do ti re | do\n\n3) Do mi re do\n\nבעלייה: do mi re do | re fa mi re | mi sol fa mi | . . . | ti re do ti | do\n\nבירידה: do la ti do | ti sol la ti | la fa sol la | . . . | re ti do re | do\n\n4) Do mi\n\nבעלייה: do mi | re fa | mi sol | . . . | ti re | do\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:53:04.243939+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
