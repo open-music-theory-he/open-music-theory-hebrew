@@ -1,0 +1,14 @@
+{
+  "text_sha256": "544a7df322bb84748b00d809553ef6c9cc2b83f69cadee093e92d052d72f5e36",
+  "identity_sha256": "216d12bbe4b964e4e8390b958cbc14ea7f69b02b93b557f526d59aa9e6cb6655",
+  "raw_sha256": "aad8e9d3441f40fb912c620edc75db9908a9e2e9236d056e9d393fbc49f4a546",
+  "seconds": 86.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיעה כאן טבלת הרמוניות שכיחות לפי צליל הבס בפופ וברוק, עם עמודה למצב יסודי 5 על 3 או 7 ועמודה להיפוך ראשון 6 על 3 או 6 על 5. בבס do, במצב יסודי 'I', ובהיפוך ראשון אין ערך מודפס. בבס re, במצב יסודי 'I I', ובהיפוך ראשון אין ערך מודפס. בבס mi/me, במצב יסודי ['I I I'], ובהיפוך ראשון 'I'. בבס fa, במצב יסודי 'I V', ובהיפוך ראשון אין ערך מודפס. בבס sol, במצב יסודי 'V', ובהיפוך ראשון אין ערך מודפס. בבס la/le, במצב יסודי 'V I', ובהיפוך ראשון ['I V']. בבס te, במצב יסודי 'V I I', ובהיפוך ראשון אין ערך מודפס. בבס ti, במצב יסודי אין ערך מודפס, ובהיפוך ראשון 'V'. סוגריים מרובעים מציינים אפשרויות המופיעות מסויגות בטבלה, ואין להשוות אוטומטית בין צליל הבס לשורש האקורד.\n\nדרגות הבס וההרמוניות המקושרות אליהן בדרך כלל בפופ וברוק. אקורדים פחות נפוצים מופיעים בסוגריים מרובעים. ההברות הן בדו יחסי.\n\nפונקציות הרמוניות במינור\n\nהפונקציות ההרמוניות בשירי פופ ורוק במינור, בייחוד בעשורים האחרונים המתוארים במקור, נוטות לסטות מן התחביר הקלאסי באופן שונה משירים במז׳ור. לפרטים ראו פונקציות הרמוניות במינור.\n\nסכמות\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T06:26:46.256625+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
