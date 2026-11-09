@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9aa27eaef7323dd326bf638579594d95f1bb8ecfd5d6745537b4cc9716397b63",
+  "identity_sha256": "4e7798c56959939ee7c9dbdbd68ce939aae9658465ced17b7d94df334be17906",
+  "raw_sha256": "0a06a65df280c101a0b539ff793ef6247caf85c15afa3fceb4000289b018ec2c",
+  "seconds": 102.08,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "105 — ניתוח שירה\n\nחומר עזר זה נכתב בידי Jonathan Sircy, המחלקה לאנגלית, Charleston Southern University.\n\nמהי שירה?\n\nאפשר להבחין בין שירה (poetry) לפרוזה (prose) באמצעות:\n\nהעדפת ארגון צורני;\n\nהעברת רגשות ודימויים בעוצמה;\n\nשימוש מרוכז בלשון.\n\nהשירה מעדיפה את המוחשי והמסוים על המעורפל והמופשט. הלשון הפיוטית אינה מנותקת מתקשורת רגילה, אלא מעבירה רעיונות ורגשות בדיוק רב יותר מלשון היומיום.\n\nכיצד אפשר לנתח שירה?\n\nיש כמה דרכים לנתח שיר. להלן ארבע קטגוריות רחבות ושאלות המסייעות לפרש שיר באופן שיטתי. הקטגוריות אינן מוציאות זו את זו, ולעיתים קרובות הן משלימות זו את זו.\n\nמבנה\n\nתשומת לב למשקל, לטון, לדימויים וללשון הציורית של שיר מאפשרת לדבר על אחדותו. העיון במבנה מתחיל בהנחה שכל חלקי השיר פועלים יחד באופן אורגני, ולא למשל מכני, להשגת מטרה מאוחדת. ניסוח מטרה זו במשפט אחד יהיה הנושא (theme) של השיר: אמירה תמציתית של הרעיון המרכזי ורגשותיו.\n\nשאלה מרכזית: איזה רעיון או רגש מאחד את חלקי השיר השונים?\n\nמונחים מרכזיים: משקל, טון, דימויים, לשון ציורית.\n\nמשקל (meter): דפוס ההברות המוטעמות והלא מוטעמות בשורה. טון: יחס הדובר לנושא, לקהל או לעצמו. דימויים (imagery): ייצוג פיוטי של כל חוויה חושית. לשון ציורית (figurative language): שימוש לא מילולי בלשון להשגת אפקט.\n\nהקשר היסטורי\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:51:21.070804+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
