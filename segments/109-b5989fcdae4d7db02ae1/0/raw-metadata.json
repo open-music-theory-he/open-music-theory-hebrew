@@ -1,0 +1,14 @@
+{
+  "text_sha256": "80df6f891a427680004d306af743b8b6b879cf57f131581d14bd9890a7996ad6",
+  "identity_sha256": "b5989fcdae4d7db02ae19b6e04dc21185fed42043209eb4eec8312d9face5b5c",
+  "raw_sha256": "09faf3358a382a1773b1cf9ff9b8126cc2fea2c794b7bd1082de4d695125723f",
+  "seconds": 78.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "109 — מבנה נושאי בסגנון הקלאסי\n\nהמבנה הנושאי בסגנון הקלאסי מגוון ומעניין מאוד, ותאורטיקנים של מוזיקה חוקרים אותו יותר ממאתיים שנה. בחומרי עזר אלה אנו מתמקדים במבנה נושאי בסגנון הקלאסי, בהבדל מתקופות הבארוק והרומנטיקה, משתי סיבות מרכזיות. ראשית, הוא זכה לדיון הרב ביותר ומובן היטב. השפע שנכתב על קדנצה קלאסית, מבנה מוטיבי, ארגון פסוקיות ועוד מאפשר לגשת לנושא באופן שיטתי למדי. עם זאת, אין להסיק מן השיטתיות שאפשר להסביר הכול. גם אצל תאורטיקנים שפיתחו תאוריות מבוססות של צורה קלאסית, כגון Hugo Riemann, ניתוח גמיש עודנו חשוב. שנית, הבנת המבנה הנושאי בסגנון הקלאסי מספקת כניסה לצורות הכליות החשובות של התקופה: צורת סונטה, מינואט ורונדו. לצורות אלה אריכות ימים מרשימה, ומועיל לבחון אותן בעת התהוותן ההיסטורית.\n\nתיאורינו למבנה הנושאי הקלאסי לקוחים בעיקר מ־William Caplin, שספרו Classical Form נשען על רעיונות של Arnold Schoenberg ושל Erwin Ratz. הסבריו לטיפוסי הנושא השונים בסגנון הקלאסי שיטתיים ומעשיים, ומאפשרים יישום גמיש.\n\nתאורטיקנים רבים חקרו הרחבה וכיווץ של נושאים. שני חומרי העזר הקצרים כאן על הרחבות חיצוניות ופנימיות נשענים על Phrase Rhythm in Tonal Music של William Rothstein.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:52:20.528875+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
