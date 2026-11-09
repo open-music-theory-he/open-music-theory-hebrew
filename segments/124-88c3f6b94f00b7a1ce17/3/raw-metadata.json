@@ -1,0 +1,14 @@
+{
+  "text_sha256": "5685cb502595d93a8c5c20e62b7e336ba514201956469a2ac2fab74b51e0dbc7",
+  "identity_sha256": "88c3f6b94f00b7a1ce17e11f29b605fd38e40d8aa7661881722466a0d37e3314",
+  "raw_sha256": "10c288e4072ecd352b0f310fad494627eadbcd2c412f88b350b883a4ba5bc1e3",
+  "seconds": 56.8,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מאפייניה הפנימיים הם חזרת הרעיון הבסיסי מ־A בתחילתה, חזרת הטונליות הראשית בתחילתה וקדנצה אחרונה בטונליות הראשית, 'I':PAC. בצורה תלת־חלקית קטנה טיפוסית הפסוקיות הקודמות הפותחות את A ו־A’ זהות או כמעט זהות. אם פסוקית ההמשך ב־A השתמשה בפרינר מודולטורי אל 'V', זו ב־A’ משתמשת בפרינר לא מודולטורי להכנת 'I':PAC האחרונה.\n\nמיקומה המגדיר הוא בסוף החלק השני הנתון לחזרה, מיד אחרי האמצע המנוגד ולפני חזרתו כאשר כל החלק השני חוזר.\n\nהערת תרגום: זהו עמוד עזר חלופי במקור, השונה מפרק המינואט הראשי; הוא נשמר כעמוד עצמאי ולא הוחלף באותו תרגום. exhibition במקור תוקן לתצוגה, exposition, לפי ההקשר. Fonte/Monte/Ponte מובחנים גם באנגלית כדי למנוע בלבול בין שמות הסכמות.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:07:27.838851+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
