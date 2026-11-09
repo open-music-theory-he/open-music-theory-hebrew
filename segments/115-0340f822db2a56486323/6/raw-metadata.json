@@ -1,0 +1,14 @@
+{
+  "text_sha256": "468b12cfb0900de03102c6f6f32034c53b262566985af661d6aa34fd3a9a5abd",
+  "identity_sha256": "0340f822db2a5648632314cde672319c5e812fd9edc2383cceb506febfaa147e",
+  "raw_sha256": "cb12226790d350c69ab3372ac56d0a20e9d1bebddab0deeffef2353aa93540d3",
+  "seconds": 45.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מעבר חוזר דומה ל־turnaround בפופ, ברוק או בבלוז. זהו אקורד דומיננטה או הגעה בטונליות הראשית המכינים את החזרה אליה בתחילת חזרת התצוגה. ההבדל הוא ש־RT מופיע אחרי מודולציה. אחרי טונליות משנית 'V', הוא הופך את 'I' בטונליות 'V' ל־'V' בטונליות 'I' באמצעות חזרה, פיגורציה מלודית או הוספת ספטימה לאקורד.\n\nהערת תרגום: זהו עמוד עזר חלופי ונשמרה עצמאותו. יש בו שלושה סוגי מעבר, בעוד הפרק הראשי מציג שני סוגים וסוגי משנה. ״תמיד״ ו״האפשרות היחידה״ נשמרו כטענות שיטת המקור, ולא כהוכחה היסטורית חדשה. הברות fa–fi–sol הן בדו יחסי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:02:19.443918+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
