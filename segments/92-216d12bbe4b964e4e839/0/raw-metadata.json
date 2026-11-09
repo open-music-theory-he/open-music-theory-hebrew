@@ -1,0 +1,14 @@
+{
+  "text_sha256": "6b1bb75d25cb408a4f758f101a510fac78ffc2cf405d3ae5245ecf72b29aad11",
+  "identity_sha256": "216d12bbe4b964e4e8390b958cbc14ea7f69b02b93b557f526d59aa9e6cb6655",
+  "raw_sha256": "36b0877aef34e783eac65c1adcd8f601e71f946e8a29def809b6dce89c26431e",
+  "seconds": 94.44,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "92 — הרמוניה במוזיקת פופ ורוק\n\nהרמוניה בפופ וברוק אינה פועלת תמיד לפי אותן נורמות ואותם דגמים כמו מוזיקה מן התקופה הקלאסית. לכן סימון בס פונקציונלי אינו מתאים לכל מצב. בניתוח ההרמוניה בפופ וברוק נשתמש בעיקר בספרות רומיות, ולעיתים נוסיף בס פונקציונלי כדי להבין דגם הרמוני מסוים או לקשור אותו להרמוניה הקלאסית שלמדנו.\n\nהבדל מרכזי בין הרמוניית רוק להרמוניה קלאסית הוא שבפופ וברוק האקורדים הם כמעט תמיד משולשים או אקורדי ספטימה במצב יסודי. הדבר משפיע על ״כללי״ התחביר ההרמוני: אקורדי 6 על 3 במהלכים קלאסיים מוחלפים באקורדי 5 על 3 במהלכי פופ ורוק. למשל, המהלך הקלאסי 'I V'–'I V 6' נעשה 'I V'–'V I'. אותו קו בס ממלא אותו תפקיד, אך השימוש באקורד 5 על 3 במקום 6 על 3 משנה את המהלך הפונקציונלי לכזה שהיה ״מפר את כללי״ התחביר הקלאסי. הדבר עשוי להקשות מעט על ניתוח הרמוני בפופ וברוק, ובייחוד לנוכח טענת המקור שאין תאוריה שפורסמה להרמוניית רוק השקולה לתאוריה הפונקציונלית של Quinn להרמוניה קלאסית. עם זאת, זיהוי האקורדים והכתבה הרמונית נעשים פשוטים יותר. ברוב המקרים דרגת הסולם בבס היא כל מה שנדרש.\n\nהטבלה הבאה מציגה דרגות סולם בבס ואת שורשי האקורדים והספרות הרומיות המקושרים אליהן בדרך כלל. החזיקו אותה זמינה בעת תעתוק והכתבה של מהלכים הרמוניים ברוק. כפי שאפשר לראות, רוב צלילי הבס מקושרים בדרך כלל לאקורד אחד.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T06:26:22.040214+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
