@@ -1,0 +1,14 @@
+{
+  "text_sha256": "0e75071f48cb8eef12a225dbeb3cce07c3b5a7fbf0e4198f8eeb98c143c3b58b",
+  "identity_sha256": "d5349aacd33aca87cc7cce25084d90bf31914e9b09c6883b08c63d17d4d9601e",
+  "raw_sha256": "f852bd171ecd68b5e3e10044ed6a9bd3de624d3ae6f700365ce869e11af52cd3",
+  "seconds": 27.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "ספרות בכתב תחתי מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה ואותה מוזיקה, אך מילים שונות. למשל, שלושה בתים בעלי מילים שונות ואותה מוזיקה מסומנים ״V1״, ״V2״ ו־״V3״.\n\nסימון בציר זמן\n\nVariations Audio Timeliner אינו תומך בכתב תחתי. ביצירת צירי זמן ב־VAT אפשר להשתמש בספרות בגודל רגיל לשתי המטרות.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:50:50.732116+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
