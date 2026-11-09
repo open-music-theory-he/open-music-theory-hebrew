@@ -1,0 +1,14 @@
+{
+  "text_sha256": "65f2931d5acf5c8237dbc1357f45e7031332adb4823252cfc3a3a92b91089116",
+  "identity_sha256": "216d12bbe4b964e4e8390b958cbc14ea7f69b02b93b557f526d59aa9e6cb6655",
+  "raw_sha256": "9810ff0abfa5757da7300581427bfcab636bbe042b4962eeee7628ff31719804",
+  "seconds": 12.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מערכת 5: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית.\n\nמערכת 6: טונליות של פופ ורוק המבוססת על פנטטוניקה מינורית עם שינויים כרומטיים.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:50:06.434979+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
