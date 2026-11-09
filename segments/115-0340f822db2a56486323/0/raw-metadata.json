@@ -1,0 +1,14 @@
+{
+  "text_sha256": "9c688d49f86012da7c97e4284b400b3ab230df227c3ad4fd1ab29ceea3fd5323",
+  "identity_sha256": "0340f822db2a5648632314cde672319c5e812fd9edc2383cceb506febfaa147e",
+  "raw_sha256": "ed6c16f735928e6762aaef57df3881cbd15f9bfe71725139cfb3c6ba052a6cfe",
+  "seconds": 98.36,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "115 — צורת סונטה — מודולים וקדנצות בתצוגה, עמוד עזר חלופי\n\nלהלן הגדרות למודולים ולקדנצות חשובים בתצוגות בצורת סונטה.\n\nקדנצות\n\nצזורה אמצעית — MC\n\nהפוקוסקי ודארסי, שתאורייתם היא הבסיס לחומרי עזר אלה, ממליצים שבניתוח תצוגה ״המשימה הראשונה תהיה לאתר ולזהות את הטיפול ב־MC״ (עמ׳ 24). זהו אירוע הרמוני חשוב, המציין את הרגע שבו הטונליות המשנית תופסת שליטה באופן מובהק. חשיבותו הנושאית היא בסימון סוף חלקה הראשון של התצוגה ובהכרזה על בוא הנושא המשני. חשיבותו הרטורית היא בכך שבדרך כלל זהו אירוע עתיר אנרגיה, שהוכנה באמצעות הגברת אנרגיה משמעותית במוזיקה שלפניו. לבסוף, סוג הקדנצה המשמש ל־MC ומועד הופעתה ביחס לפתיחת הפרק מעידים היטב על סוג המוזיקה שיבוא בהמשך.\n\nהקדנצה הנפוצה ביותר ל־MC היא חצי קדנצה, בטונליות הראשית, 'I':HC MC, או במשנית, 'V':HC MC או 'I I I':HC MC. בתקופה הקלאסית, בשלהי המאה השמונה־עשרה, 'I':HC MC תצביע בדרך כלל על פרק סונטה קצר וקליל יותר; 'V':HC MC או 'I I I':HC MC יצביעו בדרך כלל על פרק בינוני או ארוך יותר. האחרונים צפויים להיות מורכבים יותר מבחינה צורנית.\n\nלפי הפוקוסקי ודארסי, בפרק בינוני 'V':HC MC או 'I I I':HC MC הם ברירת המחדל מן הרמה הראשונה, ו־'I':HC MC היא מן הרמה השנייה. בפרקים קצרים 'I':HC MC היא ברירת המחדל הראשונה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:59:50.232399+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
