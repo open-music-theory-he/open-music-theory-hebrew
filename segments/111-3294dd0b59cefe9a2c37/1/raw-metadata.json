@@ -1,0 +1,14 @@
+{
+  "text_sha256": "d61c4164286f6d52f7e5f766b0be1ef655b99a6a085c666a2927532f322b552a",
+  "identity_sha256": "3294dd0b59cefe9a2c373b675a4ca4a0c892a984eeebb198fb5557e4ccfadd2d",
+  "raw_sha256": "3482b2acb512c41504715b84abfb58433a45681361b6158a2ec354c5e0e4b3ab",
+  "seconds": 64.4,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בירידה: do la | ti sol | la fa | . . . | re ti | do\n\n5) Do re mi fa sol\n\nבעלייה: do re mi fa sol | re mi fa sol la | . . . | ti do re mi fa | do\n\nבירידה: do ti la sol fa | ti la sol fa mi | . . . | re do ti la sol | do\n\n6) Do sol\n\nבעלייה: do sol | re la | mi ti | . . . | ti fa | do\n\nבירידה: do fa | ti mi | la re | . . . | re sol | do\n\n7) Do mi sol\n\nבעלייה: do mi sol | re fa la | mi sol ti | . . . | ti re fa | do\n\nבירידה: do la fa | ti sol mi | la fa re | . . . | re ti sol | do\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:53:23.971632+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
