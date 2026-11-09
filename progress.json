@@ -1,6 +1,6 @@
 {
   "edition": 3,
-  "status": "running",
+  "status": "recorded-needs-listening-review",
   "selected_chapters": [
     1,
     2,
@@ -285,7 +285,7 @@
       "status": "recorded-needs-listening-review"
     }
   ],
-  "reason": null,
+  "reason": "selected_chapters_recorded",
   "requests": 31,
   "successes": 30
 }
