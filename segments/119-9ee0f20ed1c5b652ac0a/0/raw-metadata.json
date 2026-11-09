@@ -1,0 +1,14 @@
+{
+  "text_sha256": "e17d34d228a5788a39a11e2ba528ff8cbff387989dd3a5962cadef226c0b03e9",
+  "identity_sha256": "9ee0f20ed1c5b652ac0a6e742b6ef284dc5c928f84c682e2a6292af00d8648cc",
+  "raw_sha256": "b1a1f7fb3cb40de81944faa499c166ccbd1213170160c77f1d63f5d5c4ce8879",
+  "seconds": 122.04,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "119 — הברות סולפז׳ כרומטיות ותרגילי סקוונצה\n\nצלילים מוגבהים כרומטית\n\nבמז׳ור mi ו־ti יוצרים חצי טון עם הצלילים שמעליהם בסולם ולכן בדרך כלל אינם מוגבהים כרומטית. את יתר הדרגות — do, re, fa, sol ו־la — אפשר להגביה בחצי טון בלי לקבל צליל אחר מן הסולם. בכל מקרה תנועת ההברה משתנה ל־״i״ לציון הצליל הגבוה: do נעשה di, re נעשה ri, וכן הלאה.\n\nלהלן סולם כרומטי עולה עם הברות מוגבהות לצלילים הכרומטיים. הדרגות הדיאטוניות מודגשות.\n\ndo di re ri mi fa fi sol si la li ti do\n\nבמינור התחילו בהברות המינור הטבעי לצלילים הדיאטוניים. לדרגות מוגבהות השייכות לסולם המז׳ורי השתמשו בהברות המז׳ור. לנותר השתמשו בהברות המוגבהות של המז׳ור. לכן סולם כרומטי עולה בהקשר מינורי ייראה ויישמע כך:\n\ndo di re me mi fa fi sol le la te ti do\n\nשימו לב לשימוש ב־me ולא ri, ב־le ולא si וב־te ולא li בהקשר מינורי.\n\nצלילים מונמכים כרומטית\n\nאת כל הדרגות מלבד do ו־fa אפשר להנמיך כרומטית, לפי ניסוח המקור, ולהחליף את תנועת ההברה ב־״e״ או ״a״. צלילים נמוכים מקבלים צורות פה פתוחות יותר, ah ו־eh, וגבוהים מקבלים צורות קטנות וסגורות יותר, i.\n\nלהלן סולם כרומטי יורד עם הברות מונמכות לצלילים הכרומטיים. בדרגות 3, 6 ו־7 אלה פשוט הברות המינור הטבעי.\n\ndo ti te la le sol se fa mi me re ra do\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:03:42.886005+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
