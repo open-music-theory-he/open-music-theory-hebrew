@@ -1,0 +1,14 @@
+{
+  "text_sha256": "42a3137e431c831be2f9a9fb657163718fbd97cdcca21e2d5d4db742d40bbbe0",
+  "identity_sha256": "00809c31e3cf15c7288c70de731d57900430f4519630a6c0c93533586fce5209",
+  "raw_sha256": "353be21df302e41beeaa9cc5ba22fdf53999d0adfe272fe719ea3536cbf2d590",
+  "seconds": 87.88,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "116 — חישוב מרווחים: שיטת הקלידים הלבנים\n\nבסופו של דבר צריך לזכור מרווחים, הן בשמיעה והן בזיהוי חזותי. יש כמה דרכים המסייעות ללמוד זאת במהירות. אחת היא שיטת הקלידים הלבנים (white-key method).\n\nשיטת הקלידים הלבנים\n\nהשיטה דורשת לשנן את כל המרווחים שבין קלידי הפסנתר הלבנים, כלומר את כל המרווחים בסולם C מז׳ור. לאחר שלמדתם אותם, אפשר לחשב כל מרווח כשינוי של מרווח בין קלידים לבנים. למשל, אפשר לחשב D4-F#4 אם יודעים ש־D4-F4 הוא טרצה קטנה: הוא הורחב בחצי טון, ולכן הוא טרצה גדולה.\n\nלמרבה הנוחות, הגדלים והסוגים של המרווחים בין קלידים לבנים חוזרים רבות. שננו את הסוג הנפוץ ואת החריגים.\n\nכל הסקונדות גדולות מלבד שתיים, E-F ו־B-C, שהן קטנות.\n\nבגירסה הכתובה מופיעות כאן שבע סקונדות בין קלידים לבנים במפתח סול. המרווחים E–F ו־B–C מוקפים במסגרת ומסמנים סקונדות קטנות. C–D, D–E, F–G, G–A, A–B הם סקונדות גדולות.\n\nכל הטרצות קטנות מלבד שלוש, C-E, F-A ו־G-B, שהן גדולות.\n\nבגירסה הכתובה מופיעות כאן שבע טרצות בין קלידים לבנים. C–E, F–A ו־G–B מוקפות במסגרת ומציינות טרצות גדולות; D–F, E–G, A–C, B–D הן קטנות. כל זוג כתוב כשני תווים הנשמעים יחד.\n\nכל הקוורטות זכות מלבד אחת, F-B, שהיא מוגדלת.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:02:50.945814+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
