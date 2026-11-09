@@ -1,0 +1,14 @@
+{
+  "text_sha256": "62e0430fa4381378828814d9f33cdf298d68f02795903f083b361009e81a9ee0",
+  "identity_sha256": "edff54c871df4b28d570c6ab55d384713c04b2f1267147e960dbcdf4fb468a43",
+  "raw_sha256": "fbc8399b4fda02292473336c08b6543d7e7c0af5b953a5be690faecb0d2192e5",
+  "seconds": 43.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "לפני תחילת המלודיה הקפידו לשיר בקול את הצליל הנמוך והגבוה ביותר. כך תכירו מראש את צלילם ואת התחושה שלהם ותוכלו לבצע אותם ולזהות שגיאות בזמן השירה.\n\nלבסוף, בסולם ובמפעם נוחים ולאחר שהשגתם לפחות אחיזה ראשונית בקטעים הקשים, שירו את המלודיה ברצף, תוך ניצוח המשקל, ללא עצירה.\n\nהערת תרגום: הכללים לזיהוי הסולם והמשקל הם הנחיות מקור להקשרים טונליים רגילים, ואינם הוכחה יחידה לכל מלודיה או משקל. la/ti כאן הן הברות דו יחסי, לא גבהי צליל מוחלטים. מספרי העמודים לא אומתו מול מהדורת הספר.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:54:10.254975+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
