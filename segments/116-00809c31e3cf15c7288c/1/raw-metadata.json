@@ -1,0 +1,14 @@
+{
+  "text_sha256": "628058a3ec433ea21b59de57739db3e98e0e8e7d17e6dbf44177f3a08b2b0872",
+  "identity_sha256": "00809c31e3cf15c7288c70de731d57900430f4519630a6c0c93533586fce5209",
+  "raw_sha256": "b6451986e86ea06fd642efc3cce1900949a060fc3c24fc06d825f20780971b5d",
+  "seconds": 52.24,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בגירסה הכתובה מופיעות כאן שבע קוורטות בין קלידים לבנים. רק F–B מוקפת במסגרת: זו קוורטה מוגדלת. C–F, D–G, E–A, G–C, A–D, B–E הן קוורטות זכות.\n\nכעת אתם יודעים את כל המרווחים בין הקלידים הלבנים, כל עוד אתם מבינים היפוך מרווחים (interval inversion). למשל, אם כל הסקונדות גדולות מלבד E-F ו־B-C הקטנות, כל הספטימות קטנות מלבד F-E ו־C-B הגדולות.\n\nבגירסה הכתובה מופיעות כאן שבע ספטימות בין קלידים לבנים. C–B ו־F–E מוקפות במסגרת ומציינות ספטימות גדולות. D–C, E–D, G–F, A–G, B–A הן קטנות; האיור משווה את החריגים לדגם הנפוץ.\n\nלאחר שליטה במרווחים בין קלידים לבנים, אפשר לחשב כל מרווח אחר באמצעות שינוי גודלו בהתאם.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:03:07.949968+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
