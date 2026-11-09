@@ -1,0 +1,14 @@
+{
+  "text_sha256": "47bab1663aff484de4248a0853f1af0839813f32b65ca1318f9cfb35fead61c0",
+  "identity_sha256": "9ee0f20ed1c5b652ac0a6e742b6ef284dc5c928f84c682e2a6292af00d8648cc",
+  "raw_sha256": "2aa38d07940f03fcea6803cf9efa95939b86f9ccec13028095d1f666f6951c8e",
+  "seconds": 153.52,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מז׳ור בעלייה: do ra do | re me re | mi fa mi | . . . | ti do ti | do\n\nמז׳ור בירידה: do ra do | ti do ti | la te la | . . . | re me re | do\n\nמינור טבעי בעלייה: do ra do | re me re | me mi me | . . . | te ti te | do\n\nמינור טבעי בירידה: do ra do | te ti te | le la le | . . . | re me re | do\n\n3) שכנים תחתונים בלתי שלמים\n\nלכל דרגה שירו טוניקה, אחריה את השכן התחתון של הדרגה, ואחריו פתרון העולה בחצי טון אליה. תרגלו הן עם הטוניקה הנמוכה בתחילת כל תיבה והן עם הגבוהה. לאתגר נוסף ולשטף רב יותר, נסו לפתוח כל תיבה בדרגות אחרות במקום do.\n\nמז׳ור בעלייה: do ti do | do di re | do ri mi | do mi fa | do fi sol | do si la | do li ti | do ti do |\n\nמז׳ור בירידה: do ti do | do li ti | do si la | do fi sol | do mi fa | do ri mi | do di re | do ti do |\n\nמינור בעלייה: do ti do | do di re | do re me | do mi fa | do fi sol | do sol le | do la te | do ti do |\n\nמינור בירידה: do ti do | do la te | do sol le | do fi sol | do mi fa | do re me | do di re | do ti do |\n\n4) שכנים עליונים בלתי שלמים\n\nלכל דרגה שירו טוניקה, אחריה את השכן העליון של הדרגה, ואחריו פתרון היורד בחצי טון אליה. תרגלו עם הטוניקה הנמוכה וגם הגבוהה בתחילת כל תיבה. לאתגר נוסף ולשטף רב יותר, נסו להתחיל בדרגות אחרות במקום do.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:05:10.064719+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
