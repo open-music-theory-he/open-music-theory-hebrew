@@ -1,0 +1,14 @@
+{
+  "text_sha256": "cf6761772012266cd64111b206607dee1b8ce04f79373242e942dde0cddb8715",
+  "identity_sha256": "4e7798c56959939ee7c9dbdbd68ce939aae9658465ced17b7d94df334be17906",
+  "raw_sha256": "01f11b4ba4c4788c46e3002c5f0719ff3b395df7997858cb867bfac19c954093",
+  "seconds": 101.44,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בעיון במבנה אנו מתייחסים לשיר כאילו הוא עצם שאפשר להפריד מן העולם החיצוני. אולם לכל יצירה ספרותית היו מחבר וקהל, ושניהם מושפעים עמוקות ממקום וזמן מסוימים. הדבר משפיע לא רק על קריאת רמיזות ספרותיות, אלא גם על פירוש מילים מסוימות.\n\nשאלה מרכזית: כיצד מילות השיר משקפות את ההקשר התרבותי של המחבר ו/או המשורר?\n\nבין־טקסטואליות\n\nשירים אינם משוחחים רק עם ההיסטוריה, אלא גם עם שירים אחרים. כלומר, יצירה ספרותית דומה לאחרות בצורה ו/או בתוכן. בעיון בדמיון צורני אנו עוסקים בסוגות, כלומר בסוגים או בתתי־סוגים שבחר המשורר, כגון אפוס, שירה לירית וסאטירה. בעיון בדמיון תוכני אנו דנים ברמיזות (allusions), הפניות מכוונות לדימוי ספרותי אחר, או בארכיטיפים (archetypes), דימויים או דמויות החוזרים בתדירות כזו שהם חלק ממורשת ספרותית משותפת יותר משהם נחלת מחבר יחיד.\n\nשאלה מרכזית: במה יצירה ספרותית זו דומה ליצירות אחרות ובמה היא שונה מהן?\n\nאתיקה\n\nכל שיר מפרש את החיים, ולכן מספק במפורש או במשתמע השקפת עולם. מגיני השירה טענו במשך זמן רב שהיא מסוגלת באופן ייחודי גם להענג וגם ללמד; למעשה, לעיתים קרובות היא מלמדת באמצעות ההנאה. לכן כל יצירה ספרותית מציגה מעשים ואמונות שעלינו לשבח או לגנות. זה לעיתים החלק הקשה ביותר בפרשנות של יצירת אמנות מסוימת, ועלינו לזכור שיצירה יכולה להציג מעשים או אמונות מעוררי התנגדות כדי לבקרם.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:51:48.214393+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
