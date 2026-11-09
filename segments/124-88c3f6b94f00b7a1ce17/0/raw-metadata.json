@@ -1,0 +1,14 @@
+{
+  "text_sha256": "c9033a7e5704e4f75eccdd527cfcd927bf6d2090e88412bd9058da5009bb84b7",
+  "identity_sha256": "88c3f6b94f00b7a1ce17e11f29b605fd38e40d8aa7661881722466a0d37e3314",
+  "raw_sha256": "dc8fc40a82f962ff8c6e4f02e5bacde4ab23b79055fdf8221df6a411596108a1",
+  "seconds": 78.2,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "124 — צורת מינואט — עמוד עזר חלופי מן המקור\n\nיחידות מבנה במינואט הקלאסי\n\nפרק מינואט קלאסי כולל בדרך כלל מינואט ראשי, אחריו טריו שמבנהו דומה מאוד למינואט, ואחריו חזרת דה קאפו (da capo) על המינואט הראשי, בדרך כלל ללא ביצוע סימני החזרה. לכן לפרק צורה כוללת ABA’: מינואט–טריו–מינואט דה קאפו.\n\nהמינואט הראשי והטריו נוטים להיות במבנה תלת־חלקי קטן. כמו פרק המינואט והטריו כולו, גם הצורה התלת־חלקית הקטנה היא ABA’. אך המבנה שבמינואט הטיפוסי הוא מן הסוג הדו־חלקי המעוגל (rounded binary): אף שיש שלושה חלקים נבדלים, A, B ו־A’, הם מקובצים לשתי חטיבות גדולות יותר, שכל אחת חוזרת.\n\nהראשונה היא החלק הראשון הנתון לחזרה (first reprise), והשנייה החלק השני הנתון לחזרה (second reprise), משום שכל אחד חוזר. הראשון מכיל A; השני מכיל B ו־A’.\n\n||: A :||: B A' :||\n\nבהאזנה למינואט שלושת חלקי המבנה התלת־חלקי נשמעים בסדר:\n\nA A B A' B A'\n\nלכן לצורת המינואט תכונות תלת־חלקיות — שלושה חלקים נבדלים — ודו־חלקיות, שני חלקים הנתונים לחזרה.\n\nפונקציות צורניות במינואט הקלאסי\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:06:01.953280+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
