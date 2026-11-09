@@ -1,0 +1,14 @@
+{
+  "text_sha256": "33e69cca0d88b178edcec7e6daa4ae80b9f68ca0bb3fdbd5a4c1a2731cc1d04a",
+  "identity_sha256": "9ee0f20ed1c5b652ac0a6e742b6ef284dc5c928f84c682e2a6292af00d8648cc",
+  "raw_sha256": "6aeea6f6bdf9c4eb1547de26303ba1787ec1231484d906740d8d1fc8bc4bd3e0",
+  "seconds": 75.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מז׳ור בעלייה: do ra do | do me re | do fa mi | do fi fa | do le sol | do te la | do do ti | do ra do |\n\nמז׳ור בירידה: do ra do | do do ti | do te la | do le sol | do fi fa | do fa mi | do me re | do ra do |\n\nמינור בעלייה: do ra do | do me re | do mi me | do fi fa | do le sol | do la le | do ti te | do ra do |\n\nמינור בירידה: do ra do | do ti te | do la le | do le sol | do fi fa | do mi me | do me re | do ra do |\n\nהערת תרגום: שתי כותרות המינור האחרונות נקראו במקור שוב ״מז׳ור״; תוקנו במפורש לפי me/le/te שבדגמים. so בדגם השכן התחתון במינור נשמר מן המקור כשם חלופי ל־sol; אין שינוי בגובה היחסי.\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:05:32.302689+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
