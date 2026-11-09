@@ -1,0 +1,14 @@
+{
+  "text_sha256": "01bc3f5e9dd6acae61c1fc7a7c3a05c2b02870ddc9af5443a52d25dcd5f266aa",
+  "identity_sha256": "0340f822db2a5648632314cde672319c5e812fd9edc2383cceb506febfaa147e",
+  "raw_sha256": "a4c1e410d74c17116ccbb62de0f6dabbee9fd6cc40e46243f6adbd17054d1133",
+  "seconds": 99.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "בתצוגת פרק סונטה EEC היא ״ה־PAC הראשונה העונה לדרישות בטונליות המשנית, שאחריה עוברים לחומר שונה״ (הפוקוסקי ודארסי, עמ׳ 18). היא אינה אופציונלית ותמיד בטונליות המשנית. מודול הסיום C בא מיד אחריה.\n\nחשוב שהיא ה־PAC הראשונה העונה לדרישות, ושבא אחריה חומר שונה. לעיתים קרובות ה־PAC החזקה ביותר בדומיננטה אינה EEC. זהו יעד הרמוני; אחרי השגתו התהליך הושלם, והיעד עשוי שלא לחפוף לשיא המרקמי.\n\nEEC נמצאת גם בסוף נושא. אם נושא S מגיע ל־PAC ואז חוזר על עצמו, היא בסוף החזרה.\n\nלאחר השגת ה־PAC כל חומר חדש הוא חומר סיום C, ולא נושאי S חדשים.\n\nסגירה מהותית של הסונטה — ESC\n\nESC היא הקדנצה ברפריזה המקבילה ל־EEC שבתצוגה. היא אינה אופציונלית ותמיד בטונליות הראשית, 'I':PAC.\n\nכמו EEC, היא ״ה־PAC הראשונה העונה לדרישות [בתוך S], שאחריה עוברים לחומר שונה״. גם היא יעד הרמוני שהשגתו משלימה את התהליך, ועשוי שלא לחפוף לשיא המרקמי.\n\nמודולים\n\nנושא ראשי — P\n\nל־P כמה תפקידים: לבסס את הטונליות הראשית, עם קדנצה או בלעדיה; להציג את החומר המלודי הראשי הפותח את המחזור הנושאי; ולהתחיל את התנועה אל MC ו־EEC.\n\nP יכול להיות בכל טיפוס נושא תקני: משפט מוזיקלי, פריודה, היבריד, נושא מורכב או תלת־חלקי קטן. לפעמים הוא אפילו פסוקית אחת, קודמת או הצגה.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:00:43.209341+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
