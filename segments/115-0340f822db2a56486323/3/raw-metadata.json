@@ -1,0 +1,14 @@
+{
+  "text_sha256": "bff8ca9cea3e8ba6d404831d1edd86fc392b8a18a05a28e48322f678a55d8cb1",
+  "identity_sha256": "0340f822db2a5648632314cde672319c5e812fd9edc2383cceb506febfaa147e",
+  "raw_sha256": "53efd84ffa118d2061ba9aa5ffa4ac0f20261402d6453c44f170efa4e3d9b625",
+  "seconds": 89.76,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "P יכול להיות סגור הרמונית, עם סיום בטוניקה, או פתוח, עם סיום מחוצה לה. P סגור לגמרי מסתיים בקדנצה אותנטית, עדיף PAC. אך לפעמים הוא מתפרק אל המעבר TR; אז ייתכן שיהיה רק פסוקית הצגה או רעיון בסיסי מורכב, ללא קדנצה מסיימת. הקדנצה האחרונה של P עשויה לחפוף לפתיחת TR.\n\nמעבר — TR\n\nתפקידו הפונקציונלי העיקרי של TR הוא להניע אל MC. זו תנועה הרמונית, לרוב עם מודולציה אם MC בטונליות המשנית, וגם רטורית, המאופיינת בהגברת אנרגיה. הניתוח צריך להתמקד ב־MC ובדרך התקרבותו של המלחין אליה.\n\nלהלן טכניקות נפוצות הקשורות לתפקיד המעבר.\n\nTR מתחיל לעיתים קרובות ב״אישור בטוטי״ (tutti affirmation) של הפוקוסקי ודארסי, בייחוד בתזמורת: הצגה חוזרת חזקה יותר באופן בולט של לפחות הרעיון הבסיסי מ־P, לפני ההתקדמות אל MC. לעיתים יש Fortspinnung מוטיבי, פיתוח מתמשך של מקטעי מוטיב מלודי, בדרך כלל מ־P. סקוונצות מלודיות או הרמוניות נפוצות. גם כל מה שקשור לפונקציית המשך מתאים למעבר: פירוק למקטעים, פירוק החומר האופייני, האצת הקצב המלודי או ההרמוני וכן הלאה.\n\nנאמץ את מיקום תחילת TR בתחילת פסוקית לפי הפוקוסקי ודארסי. ככלל, כשנשמע בבירור תפקיד המעבר, חזרו לתחילת אותה פסוקית וסמנו שם את תחילתו.\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:01:09.886417+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
