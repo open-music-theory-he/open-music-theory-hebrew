@@ -1,0 +1,14 @@
+{
+  "text_sha256": "4a5fe28d7b061360689117a5bc474838a926fdfb07ebcdee86a1d5bc881a0319",
+  "identity_sha256": "4e7798c56959939ee7c9dbdbd68ce939aae9658465ced17b7d94df334be17906",
+  "raw_sha256": "11301f5462dd150bd1e7c685578299045c0040a7f04d4eef4533b8d9fda4e8db",
+  "seconds": 4.64,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "\nשאלה מרכזית: באילו מעשים או אמונות השיר תומך?\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:51:54.508783+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
