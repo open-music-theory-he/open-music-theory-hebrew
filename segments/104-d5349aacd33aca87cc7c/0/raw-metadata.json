@@ -1,0 +1,14 @@
+{
+  "text_sha256": "af094a93edadc30178f75529f0ade1a05d02876b9371992065be982cc99e4f66",
+  "identity_sha256": "d5349aacd33aca87cc7cce25084d90bf31914e9b09c6883b08c63d17d4d9601e",
+  "raw_sha256": "d591ace540d8899bee54ba414b8b26189e4e5c8801dadf95c5c1bf9028f909cc",
+  "seconds": 92.64,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "104 — צורה בפופ וברוק — סימון לניתוח\n\nלהלן מוסכמות הסימון לניתוח צורה מוזיקלית.\n\nאותיות גדולות\n\nמודולים מסומנים באותיות גדולות לפי הפונקציה. מודול המתפקד כסטרופה מסומן ״A״; מודול המתפקד כגשר — ״B״; וכן הלאה.\n\nאותיות קטנות\n\nפסוקיות מסומנות באותיות קטנות לפי תוכנן המוזיקלי. אם שתי פסוקיות משתמשות פחות או יותר באותה מסגרת מוזיקלית — הרמוניה, מלודיה ומקצב — הן מקבלות אותה אות. הקצאת האותיות דומה לסימון חריזה: הראשונה היא a, וכל פסוקית הבאה המבוססת על אותה מוזיקה היא גם a. סימני פריים משמשים לשינויים קלים, כגון מילים חדשות או תזמור אחר. הפסוקית הבאה בעלת חומר מוזיקלי חדש היא b, וכן הלאה. אותיות אלה אינן מציינות פונקציות.\n\nהחריג היחיד הוא כשפסוקיות המודול מציגות מהלך במבנה משפט, srdc: הראשונה, הצגה (statement), מסומנת s; הצגה חוזרת או תגובה (restatement/response) — r; התרחקות (departure) — d; וסיום (conclusion) — c.\n\nספרות בגודל רגיל\n\nספרות בגודל רגיל מצורפות לאותיות גדולות כשיש שני מודולים או יותר בעלי אותה פונקציה אך מוזיקה שונה. למשל, אם בשיר שתי מלודיות שונות המשמשות כנושאי בית, הן מסומנות ״V1״ — הראשונה המופיעה בשיר — ו־״V2״.\n\nספרות בכתב תחתי\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T18:50:39.399236+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
