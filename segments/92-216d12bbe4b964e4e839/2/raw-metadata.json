@@ -1,0 +1,14 @@
+{
+  "text_sha256": "1f003a0212aa7f41f6fb728cc272290b35a07818b8a07bc58b3df5abfc9a4c2e",
+  "identity_sha256": "216d12bbe4b964e4e8390b958cbc14ea7f69b02b93b557f526d59aa9e6cb6655",
+  "raw_sha256": "f4c354343672f90b4de1cd80ab4dea320e1ba53dc0c4c6d56c87766ca10f600a",
+  "seconds": 105.6,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "יש מהלכי אקורדים טיפוסיים החוזרים בשירי פופ ורוק רבים. בדרך כלל סכמות (schemata) אלה מופיעות במחזורים: אותו מהלך חוזר כמה פעמים ברצף. הדבר נפוץ במיוחד בפזמונים של שירים בצורת בית–פזמון, אך מופיע גם בבתים, בסטרופות ובגשרים. זה מסייע לזיהוי הרמוניות משמיעה: לצד ההאזנה לדרגות הסולם בבס והבחינה אם ההרמוניות הן אקורדי קווינטה, 5 על 3 או 7, או אקורדי סקסטה, בדרך כלל 6 על 3 או 6 על 5, אפשר להקשיב לדגמים מוכרים משירים אחרים. להלן כמה סכמות נפוצות.\n\nמהלך הדו־וופ של שנות החמישים\n\n||: 'I' – 'V I' – 'I V' – 'V' :|| או ||: 'I' – 'V I' – 'I I' – 'V' :||\n\nמהלך הזמרים־היוצרים\n\n||: 'V I' – 'I V' – 'I' – 'V' :|| (במז׳ור) ||: 'I' – 'V I' – 'I I I' – 'V I I' :|| (במינור) ||: 'I' – 'V' – 'V I' – 'I V' :|| (גרסת ״With or Without You״) ||: 'I V' – 'I' – 'V' – 'V I' :|| (גרסה ״מדומה״)\n\nמהלך ״Puff״\n\n'I' – 'I I I' – 'I V' . . . (בפתיחת פסוקית)\n\nמהלך הבלוז\n\n||: 'I' - - - | 'I V' - 'I' - | 'V' 'I V' 'I' - :|| (בלוז בן 12 תיבות) ||: 'I' - - - | 'I' - - - | 'I V' - 'I' - | 'V' 'I V' 'I' -:|| (בלוז בן 16 תיבות)\n\nמהלך פכלבל\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T06:27:14.604920+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
