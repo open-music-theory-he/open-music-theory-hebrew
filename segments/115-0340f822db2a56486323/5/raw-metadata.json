@@ -1,0 +1,14 @@
+{
+  "text_sha256": "b3d31a39c032902145103f19b44bd96bc9842dc6e58e4a0d0b24cb22307ed385",
+  "identity_sha256": "0340f822db2a5648632314cde672319c5e812fd9edc2383cceb506febfaa147e",
+  "raw_sha256": "82aaaad5f7526efe861a998df35ecd7253387e9aa4fece02f41aabec3f75573f",
+  "seconds": 91.28,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "S גלנטי: קליל, עליז, נמרץ ודוהר; מנוגד ל־P.\n\nS קנטבילה: לירי ושירתי; מנוגד ל־P.\n\nS המבוסס על P: מתחיל בחומר P; ברירת המחדל הראשונה אצל Haydn.\n\n״גזירה מנוגדת״ (contrasting derivation): נגזר מ־P אך מנוגד באופיו.\n\nS מסוג forte: מופיע לעיתים קרובות אחרי MC חלשה וממשיך את האנרגיה שנצברה ב־TR.\n\nS בסגנון ״מלומד״ (learned): סוג נדיר במרקם פוגלי, קנוני או חיקויי, המזכיר סגנונות מלפני הגלנט.\n\nאזור סיום — C\n\nמאפייניו המגדירים הם שהוא בא אחרי EEC ואינו S. מודולי C יכולים להציג חומר נושאי חדש לגמרי או לשאול מ־P או TR. לפי ההגדרה הם אינם מבוססים על S, שכן זה יהיה המשך S. זכרו: אחרי EEC חייב לבוא חומר חדש; אחרת S ממשיך ו־EEC טרם הושגה.\n\nC תמיד בטונליות המשנית. הוא לאחר הקדנצה, והיעד ההרמוני של התצוגה כבר הושג. אם הוא הולך למקום אחר, אינו C.\n\nחומרו המלודי יכול להתבסס על P או TR, להיות חדש לגמרי או להיות שרשרת קודטות (codettas): יחידות קצרות באורך פסוקית ובהן עיטורים ומחוות מוסכמות, שכל אחת מסתיימת בחזרת ה־PAC בטונליות המשנית.\n\nמעבר חוזר — RT\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:02:04.365718+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
