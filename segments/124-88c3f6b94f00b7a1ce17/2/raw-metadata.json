@@ -1,0 +1,14 @@
+{
+  "text_sha256": "0d89ce35bf9d68ad6963e161bf334a5e750233f582ddc2decfcefb7c69f79ce3",
+  "identity_sha256": "88c3f6b94f00b7a1ce17e11f29b605fd38e40d8aa7661881722466a0d37e3314",
+  "raw_sha256": "8cbc379ab45ba8d7dd19f0b100c2613759fa8e0ee45ce783fac3b92d858f2521",
+  "seconds": 91.16,
+  "edition": 3,
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Iapetus",
+  "text": "מיקומה המגדיר של התצוגה הוא בתחילת צורה תלת־חלקית קטנה: A, בתחילת המינואט או הטריו. בפתיחתם צפו למאפיינים אלה והאזינו לסטיות מן הנורמות.\n\nבעת זיהוי תפקיד התצוגה בהאזנה, זכרו שמינואטים מתחילים רק לעיתים רחוקות בתפקיד אחר. אם אין יודעים היכן הקטע נמצא בפרק, האזינו לנושא הדוק יחיד המסתיים ב־'V':PAC או 'I I I':PAC. אם המודולציה אינה ברורה, השתמשו בחזרת A כדי לברר אם הוא מתחיל ומסתיים באותו סולם. מינואטים קלאסיים הם צורות מוסכמות מאוד; מודולציות בתצוגה שאינן 'I' אל 'V' במז׳ור או 'I' אל 'I I I' במינור נדירות.\n\nאמצע מנוגד\n\nמאפייניו הפנימיים הם חזרה לטונליות הראשית המגיעה לשיא ב־'I':HC או בהגעה לדומיננטה בטונליות הראשית, ומבנה שסביר שיהיה רופף יותר מבתצוגה או ברפריזה. החזרה נעשית לעיתים קרובות, אך לא תמיד, באמצעות סכמת פונטה, מונטה או פונטֶה, או שילוב שלהן, המתחיל מיד אחרי סוף A, החלק הראשון הנתון לחזרה. חלקי B הדוקים יותר הם כמעט תמיד משפטים מוזיקליים: רעיון בסיסי בן שתי תיבות החוזר צעד גבוה יותר, Monte, או נמוך יותר, Fonte.\n\nמיקומו המגדיר הוא מיד אחרי התצוגה, בתחילת החלק השני הנתון לחזרה: B בצורה תלת־חלקית קטנה. אם איבדתם את הגבול בין A ל־B, האזינו לחזרת החלק השני, השבה לתחילת B.\n\nרפריזה\n\n",
+  "style": "Read the exact transcript verbatim in clear natural Israeli Hebrew. Switch smoothly to English where written. Do not translate, transliterate, summarize, add words, or read instructions. Keep all musical letter names as written. No music or sound effects. Deliver like a charismatic professional Israeli television news anchor presenting an important explainer: more dramatic, vivid and energetic than ordinary educational narration. Use controlled dynamic contrast, strong but natural emphasis, confident projection, meaningful pauses and a poised broadcast cadence. Keep every word intelligible. Preserve the exact meaning. No shouting, invented urgency, added words, music or impersonation of any real presenter.",
+  "recorded_utc": "2026-11-09T19:07:09.553251+00:00",
+  "source": "provider-original",
+  "status": "original-preserved-before-encoding"
+}
